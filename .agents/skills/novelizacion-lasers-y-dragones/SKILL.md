@@ -98,32 +98,57 @@ Este proyecto adapta una **partida real de rol en vivo** (*actual play*), NO el 
 
 ---
 
-## 4. Instrucción Específica: Auditoría y Preservación Obligatoria del Trasfondo y Evolución de los Personajes
+## 4. Instrucción Específica y Prioritaria: Minería Obligatoria de Giros de Personaje, Vida Personal y Relaciones en Transcripciones (Fase Inicial de Cada Volumen)
 
-> ⚠️ **INSTRUCCIÓN OBLIGATORIA PREVIA A LA REDACCIÓN O REVISIÓN DE CUALQUIER CAPÍTULO O VOLUMEN:**  
-> Los elementos de trasfondo, secretos familiares, traumas del pasado, fobias psicológicas y motivaciones personales que los jugadores y el GM revelan en la mesa de juego son **el verdadero corazón emocional de la saga**. Estos detalles enriquecen la aventura prefabricada de Paizo y generan los cambios más profundos e interesantes en la historia. **Bajo ninguna circunstancia deben omitirse, recortarse o reemplazarse por acción genérica o romances inventados.**
+> 🚨 **REGLA DE ORO EDITORIAL (MÁXIMA PRIORIDAD):**  
+> Cuando se construya o estructure por primera vez la versión de cualquier volumen (o se redacten sus capítulos), **ES OBLIGATORIO Y PRIORITARIO realizar un barrido exhaustivo de minería en las transcripciones limpias del podcast correspondiente**.  
+> Los combates tácticos y la trama prefabricada de Paizo son únicamente el decorado exterior; **el verdadero corazón que enriquece, conmueve y hace evolucionar la saga es la vida personal de los protagonistas, sus traumas, secretos familiares, revelaciones ontológicas y sus complejas relaciones interpersonales**.  
+> **Queda terminantemente prohibido generar o estructurar un volumen basándose únicamente en sinopsis superficiales o módulos de Paizo sin haber extraído primero estos elementos directamente del audio/transcripción de la mesa.**
 
-### Procedimiento Obligatorio de Auditoría de Personajes:
-Antes de estructurar o escribir un volumen, o al revisar capítulos existentes, se debe cotejar sistemáticamente el texto contra las transcripciones limpias y notas del podcast verificando:
+### A. Los Cuatro Ejes Temáticos Obligatorios de Búsqueda en Transcripciones:
 
-1. **Triel Istrav:**
-   - **Padre canónico:** Su padre biológico es el pirata humano de los *Free Captains* **Keiden Ashton** (según consta formalmente en las notas del podcast, NUNCA «Cayden Aston» ni «Cayden Gastón»).
-   - **Origen familiar y rechazo drow:** Su madre es una influyente aristócrata drow de Apostae que despreciaba a los humanos y odiaba a Triel por ser mestiza; Triel creció sintiendo el rechazo y odio de toda su familia materna, lo que la empujó a escapar de casa con Gerty.
-   - **Motivación vital:** Busca a Keiden Ashton no por gloria pirata, sino anhelando encontrar el afecto paternal y el verdadero hogar que Apostae le negó.
-   - **Fobias y traumas:** Terror visceral a los **akatas** (es el primer monstruo espacial que conoció en su vida y la marcó para siempre, ocupando el puesto número uno en su lista de miedos).
-2. **A.Xel 42:**
-   - **Origen como esclava:** Nació como esclava minera adulta; su primer recuerdo consciente al despertar en su chasis fue que le pusieran una pala en las manos con la única consigna de «no morir hoy» (Episodio 14).
-   - **El trauma de la esclavitud:** Su terror más visceral y paralizante es **volver a ser esclava** (Episodio 21: *«Usted puede ser libre, pero la esclavitud nunca sale de usted»*). Vive con la constante paranoia de que cualquier nave corporativa o corsaria los intercepte y vuelva a someterlos a todos.
-   - **Lazos sintéticos y causa androide:** Rescatada hace diez años en el Vasto por su «unidad hermana» **Null-9**; comprometida con la emancipación sintética y dolida por la muerte de sus congéneres (como Clara).
-   - **Prohibición de romances inventados:** Axel es lacónica, analítica y pragmática. **No existe ningún romance con el Oficial León** ni con ningún otro PNJ, salvo que surja expresamente en la mesa de juego.
-3. **Marloc Boosmar:**
-   - **Pérdida conyugal y duelo:** Atormentado por la pérdida de su amada esposa **Ángela**, a quien teme perder de nuevo en sus pesadillas recurrentes (Episodio 21).
-   - **Fobias cósmicas:** Terror físico y existencial hacia el planeta viviente y aberrante **Aucturn**.
-   - **Conflicto paterno y amnesia:** Desconfianza visceral hacia su padre **Ambrose Boosmar**, a quien culpa en el fondo de su corazón por la muerte de su madre; desconcierto ante la amnesia de la Brecha tras despertar en el aula 17 del Arcanamirium con el barathu Ritchie.
-4. **Benray Galway:**
-   - **Fobias:** Terror absoluto e irracional hacia los **no-muertos (*undead*)** y hacia el planeta **Eox** (Episodio 21).
-   - **Clan y culpa:** Lealtad incondicional a su primo **Rim Rey** y al clan ysoki; culpa soterrada por haber huido de su familia en Triaxus tras un fatal accidente de carreras de motos de nieve que costó la vida a su mejor amigo.
-   - **Fama y comedia:** Relación oportunista y tensa con su productor **Marcellus**; picardía constante con las fuerzas del orden, en particular tomando el pelo, guiñando el ojo y desafiando con humor la paciencia del **Oficial León** de los Protectores.
+Para cada lote de episodios que componga un nuevo volumen, el agente/redactor DEBE ejecutar búsquedas específicas (`grep_search` o scripts) para identificar e integrar obligatoriamente:
+
+1. **Giros Argumentales y Revelaciones Mayores (Plot Twists de Mesa):**
+   - Revelaciones sobre el origen, la naturaleza de la realidad o dilemas morales creados por el GM y los jugadores.
+   - *Ejemplos canónicos clave:*
+     - **Gerty y Kairos (Vol. 16, Ep. 201; Vol. 17):** El sacrificio de la memoria de Gerty por Triel para descargar el alma de Kairos (SRO del casino), alterando para siempre la voz y personalidad del dron.
+     - **Sambert Klamburg e Inversiones Estelares (Vol. 9, Ep. 106):** El anagrama descubierto por Triel que revela que la corporación fue fundada por un Marloc del futuro para darles una «segunda oportunidad».
+     - **A.Xel como la Forja Viviente (Vol. 18-19, Ep. 233, 246):** El descubrimiento de que el chasis de Axel albergó a Ashera y es la Forja viviente capaz de reproducir androides, desatando el rencor de Null-9.
+
+2. **Vida Personal, Familias y Linajes Biológicos/Sintéticos:**
+   - Padres, madres, cónyuges, hijos, hermanos, antepasados y lazos de sangre o código.
+   - *Triel Istrav:* Su padre humano Keiden Ashton (nave de Besmara), su hermanastra rival Jhidel, su madre drow y su abuela Alistrav en Apostae.
+   - *Marloc Boosmar:* El duelo y amor por su difunta esposa Clara/Ángela; el reencuentro en Castrovel y el Casino con la nueva Ángela; el enigma de su padre Ambrose Boosmar.
+   - *A.Xel 42:* Las encarnaciones previas de su chasis (Ashera); sus «hijas» y descendientes androides directos (Jennifer/Miseria, los gemelos 9S, Panquecito y Null-9).
+   - *Benray Galway:* La genealogía del clan ysoki Galway (su primo Rim Rey, tíos y parientes en *La Galway* como Yolmar, Valentina, Gazit, Rinrey).
+
+3. **Relaciones Interpersonales y Dinámicas de la Tripulación:**
+   - Vínculos afectivos, lealtades incondicionales, romances canónicos y tensiones íntimas.
+   - *Romance canónico:* Triel y el Oficial León Holden de los Protectores (mensajes etílicos, llamadas a distancia, despedidas íntimas, citas confirmadas).
+   - *Lealtades fraternas:* La devoción de Benray hacia su primo Rim Rey; el afecto maternal/sororal de Axel hacia los androides; el respeto protector de la tripulación hacia Gerty/Kairos.
+   - *Despedidas y relevos:* La decisión de Marloc de quedarse con Ángela en el asteroide (Ep. 135) y la bienvenida al operativo enano Zivok.
+
+4. **Traumas, Fobias y Cicatrices Psicológicas:**
+   - Las vulnerabilidades que humanizan a los héroes: el terror de Triel a los akatas; el miedo pánico de A.Xel a volver a ser esclavizada; el duelo autodestructivo y alcoholismo de Marloc; el terror visceral de Benray hacia los no-muertos y Eox.
+
+### B. Procedimiento Técnico Obligatorio de Minería Previa:
+
+Antes de escribir el primer capítulo de un volumen:
+1. **Barrido de Transcripciones:** Ejecutar búsquedas de términos clave en `transcripciones/limpias/episodio_XX.txt` del volumen:
+   - Términos de parentesco: `padre`, `madre`, `hijo`, `hija`, `esposa`, `familia`, `clan`, `hermana`.
+   - Términos de identidad y secretos: `secreto`, `pasado`, `recuerdo`, `verdad`, `chasis`, `conciencia`, `forja`, `empresa`, `plan`, `futuro`, `dimensión`.
+   - Nombres clave de PNJ vinculados: `Keiden`, `Ángela`, `Ashera`, `Null-9`, `Marlín`, `Ambrose`, `Zivok`, `León`, `Kairos`.
+2. **Traslado Obligatorio al `GLOSARIO_Y_PERSONAJES.md` del Volumen:**
+   - Crear o actualizar las fichas biográficas con los nuevos descubrimientos de vida personal y giros del volumen.
+3. **Fijación en las Plantillas de Capítulos (`novela/capitulos/`):**
+   - En cada capítulo donde ocurra una revelación o momento íntimo, incorporar un bloque de cabecera:
+     ```markdown
+     ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
+     [Detallar el giro de personaje, la conversación familiar o el dilema ético exacto extraído de la transcripción]
+     ```
+4. **Preservación en los Planes Globales:**
+   - Reflejar el giro y su impacto en `planificacion_global/PLAN_GLOBAL_SAGA_Y_ESPECIALES.md` y `PLAN_DETALLADO_VOLUMENES_7_A_20.md`.
 
 ---
 
@@ -278,7 +303,7 @@ Contexto completo/
 ### Ciclo de Mantenimiento Obligatorio en Cada Nuevo Volumen:
 
 1. **Antes de Novelizar (Lectura de Referencia):**
-   - Consultar `Contexto completo/CONTEXTO_COMPLETO_SAGA.md` para refrescar el estado emocional de los protagonistas, el inventario y mejoras de Gerty (ej. 4 brazos tras el Vol. 2), el estado romántico (interés entre Axel y el Oficial León), la nave activa (*Hippocampus*) y los aliados que viajan con el grupo (Willy y Naru).
+   - Consultar `Contexto completo/CONTEXTO_COMPLETO_SAGA.md` para refrescar el estado emocional de los protagonistas, el inventario y mejoras de Gerty (ej. 4 brazos tras el Vol. 2), el estado romántico (romance canónico entre Triel y el Oficial León), la nave activa (*Hippocampus*) y los aliados que viajan con el grupo (Willy y Naru).
 2. **Durante la Novelización:**
    - Mantener la fidelidad absoluta a las personalidades, términos y precedentes narrativos ya establecidos.
 3. **Al Culminar un Volumen (Actualización y Recompilación):**
@@ -310,4 +335,9 @@ Tras compilar cada volumen:
    - **Cotejo Terminológico con Volúmenes Anteriores:** Contrastar el nuevo `GLOSARIO_Y_PERSONAJES.md` y los capítulos redactados con los glosarios de volúmenes previos y con `Contexto completo/CONTEXTO_COMPLETO_SAGA.md`. La toponimia (ej. *Roca del Drift*, *Estación Absalón*, *Qabarat*, *Ukulam*), las naves (*Estrella Errante*, *Acreon*, *Hippocampus*) y las reliquias pre-Brecha deben mantener una denominación 100% idéntica y homogénea a lo largo de toda la saga.
 8. **Inclusión Obligatoria del Aviso de Política de Uso Comunitario de Paizo y Atribución a Lasers y Dragones:**
    - En la **Nota Editorial e Introducción** (o página de créditos inicial) de cada volumen, así como en el compendio de *Contexto Completo*, es preceptivo incorporar el descargo de responsabilidad oficial de la *Política de Uso Comunitario de Paizo Inc.* ([paizo.com/communityuse](https://paizo.com/communityuse)) y el tributo explícito a la mesa de juego de *Lasers y Dragones* (Roberto, Miguel, Irene, Juan Pablo y Sofía), garantizando la condición de obra no oficial, de difusión cultural y estrictamente gratuita para la comunidad rolera.
+9. **Auditoría Obligatoria de Giros de Personaje, Vínculos Familiares y Emocionales (Fase de Cierre):**
+   - Certificar que todos los giros argumentales y secretos descubiertos en la minería previa (Fase 0 de la Sección 4) están plenamente integrados y desarrollados en los capítulos del volumen.
+   - Verificar que no se haya omitido ningún dato de la vida personal, linaje biológico/sintético, revelaciones de identidad o relaciones interpersonales (ej. momentos de vulnerabilidad, romances canónicos, alianzas de hermandad, traumas, secretos del pasado de la tripulación).
+   - Comprobar que en el `GLOSARIO_Y_PERSONAJES.md` del volumen y en `Contexto completo/` queden reflejados con precisión estos avances narrativos.
+
 
