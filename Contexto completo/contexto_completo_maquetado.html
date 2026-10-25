@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lasers y Dragones: Contexto Completo y Guía de Continuidad</title>
+<style>
+  @page {
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
+  }
+  
+  body {
+    font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section-heading-main {
+    font-size: 22pt;
+    text-align: center;
+    color: #0b1a30;
+    margin-top: 0;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 10px;
+    page-break-before: always;
+    break-before: page;
+  }
+  
+  h2.chapter-name {
+    page-break-before: always;
+    break-before: page;
+    font-size: 20pt;
+    color: #0b1a30;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1.3;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 12px;
+  }
+  
+  h3.section-title {
+    font-size: 14pt;
+    color: #2b6cb0;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    border-bottom: 1px dashed #cbd5e0;
+    padding-bottom: 4px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h4.subsection-title {
+    font-size: 12pt;
+    color: #1a365d;
+    margin-top: 18px;
+    margin-bottom: 8px;
+    font-family: 'Liberation Sans', sans-serif;
+    font-weight: bold;
+  }
+  
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 0 10px 0;
+    text-indent: 1.2em;
+  }
+  
+  p.no-indent {
+    text-indent: 0;
+  }
+  
+  .divider {
+    text-align: center;
+    margin: 25px 0;
+    color: #2b6cb0;
+    font-size: 11pt;
+    letter-spacing: 6px;
+  }
+  
+  .bullet-list {
+    margin: 10px 0 15px 25px;
+    padding: 0;
+  }
+  
+  .bullet-list li {
+    margin-bottom: 6px;
+    text-align: justify;
+  }
+  
+  .quote {
+    border-left: 3px solid #b8860b;
+    background: #f7fafc;
+    margin: 15px 20px;
+    padding: 8px 15px;
+    font-style: italic;
+    color: #4a5568;
+  }
+  
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .toc-table td {
+    padding: 7px 4px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 10pt;
+  }
+  
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+  }
+  
+  .toc-sub {
+    font-size: 9pt;
+    color: #718096;
+    font-style: italic;
+  }
+  
+  .matrix-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0 25px 0;
+    font-size: 8.8pt;
+    line-height: 1.35;
+  }
+  
+  .matrix-table th {
+    background: #1a365d;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: left;
+    padding: 8px 10px;
+    border: 1px solid #1a365d;
+  }
+  
+  .matrix-table td {
+    padding: 8px 10px;
+    border: 1px solid #cbd5e0;
+    vertical-align: top;
+    text-align: left;
+  }
+  
+  .matrix-table tr:nth-child(even) {
+    background: #f8fafc;
+  }
+  
+  code {
+    font-family: monospace;
+    font-size: 9pt;
+    background: #edf2f7;
+    padding: 2px 4px;
+    border-radius: 3px;
+    color: #2b6cb0;
+  }
+</style>
+</head>
+<body>
+
+  <!-- 1. PORTADA EDITORIAL HOMOGÉNEA -->
+  <div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+      Ópera Espacial · Universo Starfinder
+    </p>
+    
+    <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+    
+    <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+      LASERS Y DRAGONES
+    </div>
+    
+    <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+      Contexto Completo y Guía de Continuidad
+    </div>
+    
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+    
+    <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+      ✦ &nbsp; ◈ &nbsp; ✦
+    </div>
+    
+    <p style="font-size: 11pt; line-height: 1.6; color: #4a5568; margin: 30px auto; max-width: 420px; text-indent: 0; text-align: center;">
+      Dossier maestro de escenarios, personajes, facciones, bestiario y resumen cronológico de la saga novelada del podcast <strong>Lasers y Dragones</strong> (Campaña <em>Dead Suns</em>).
+    </p>
+    
+    <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 50px auto 20px auto;">
+    
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 10pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+      BIBLIOTECA EDITORIAL · GUÍA DE CANON Y CONTINUIDAD
+    </p>
+  </div>
+
+  <!-- 2. PRESENTACIÓN EDITORIAL -->
+  <h2 class="section-heading-main">Presentación del Archivo Maestro</h2>
+  
+  <p>El presente volumen constituye el <strong>Archivo Maestro de Contexto y Continuidad</strong> de la adaptación novelada de <em>Lasers y Dragones</em>. Su propósito fundamental es doble:</p>
+  
+  <ul class="bullet-list">
+    <li><strong>Para el lector:</strong> Disponer de un compendio accesible, estructurado y de lectura ágil que resuma el viaje de los protagonistas a lo largo de los volúmenes, refresque los misterios desvelados y organice las fichas de todos los personajes y escenarios con indicación precisa de sus apariciones.</li>
+    <li><strong>Para el equipo editorial:</strong> Actuar como la <em>Única Fuente de Verdad</em> (Single Source of Truth) para asegurar la coherencia absoluta de las tramas, la evolución del equipo, el estado de las relaciones románticas y las deudas contraídas conforme la saga se amplía con nuevos tomos.</li>
+  </ul>
+  
+  <div class="divider">✦ &nbsp; ◈ &nbsp; ✦</div>
+  
+  <!-- 3. ÍNDICE DE CONTENIDOS -->
+  <h2 class="section-heading-main">Índice del Dossier de Continuidad</h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Presentación del Archivo Maestro</div>
+        <div class="toc-sub">Objetivos y uso de la guía de continuidad</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">1. Resumen Cronológico de los Volúmenes</div>
+        <div class="toc-sub">Sinopsis argumental y puntos de giro: Volumen 1 al Volumen 5</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">5</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">2. Índice Maestro de Escenarios y Ubicaciones</div>
+        <div class="toc-sub">Estación Absalón, Castrovel, Qabarat, Aiakos, Ukulam y Templo de los Doce Soles</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">14</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">3. Dossier Maestro de Personajes</div>
+        <div class="toc-sub">Protagonistas (Nivel 5), aliados, secundarios y comandantes del Devorador</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">21</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">4. Corporaciones, Facciones e Instituciones</div>
+        <div class="toc-sub">Inversiones Estelares, Hardscrabble, Protectores, Legión, Capitanes Libres y Culto del Devorador</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">38</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">5. Bestiario y Amenazas Cósmicas</div>
+        <div class="toc-sub">Garaggakal, Driftdead, Akatas, Yaruks, Khasaris, Oshiga y fauna de Ukulam</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">41</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">6. Matriz de Continuidad y Estado de la Tripulación</div>
+        <div class="toc-sub">Tabla comparativa de naves, armamento, romances y estado activo (Vol. 1-5)</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">45</td>
+    </tr>
+  </table>
+
+  <!-- 4. CONTENIDO MAESTRO -->
+  <h2 class='chapter-name'>Dossier Maestro de Escenarios, Personajes, Facciones y Resumen de la Saga</h2>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h2 class='chapter-name'>1. Resumen Cronológico de los Volúmenes</h2>
+<h3 class='section-title'>Volumen 1: Sombras sobre Absalón</h3>
+<p><em>Subtítulo:</em> <strong>Conspiración en la Espiga</strong></p>
+<p><em>Episodios adaptados:</em> <strong>1 al 10</strong> (Transmisión original: enero a marzo de 2020)</p>
+<p><em>Extensión:</em> 10 Capítulos + Prólogo + Anexo (60 páginas)</p>
+<h4 class='subsection-title'>Sinopsis General:</h4>
+<p>Cuatro desconocidos de orígenes dispares coinciden en la Estación Absalón tras recibir una citación urgente de la investigadora <strong>Marlene Boosmar</strong>:</p>
+<ul class='bullet-list'>
+<li><strong>Benray Galway</strong>, un emisario ysoki parlanchín, paranoico y temerario.</li>
+<li><strong>Triel Istrav</strong>, una hábil mecánica semi-drow curtida en cargueros de la Diáspora y creadora de Gerty.</li>
+<li><strong>Gerty</strong>, el meca bípedo pesado y sarcástico programado por Triel (voz de Roberto).</li>
+<li><strong>Marloc Boosmar</strong>, un tecnomante refinado atormentado por visiones pre-Brecha y un pasado fragmentado sin registro oficial en la estación.</li>
+<li><strong>A.Xel 42</strong>, una androide operativa implacable, silenciosa y calculadora.</li>
+</ul>
+<p>Al llegar a la estación sin un solo crédito en sus bancos de memoria, Axel 42 acude al <em>Click-Clack Club</em> (Club 13) en la Espiga, donde se reencuentra con su «unidad hermana», la androide <strong>Null-9</strong>, quien le sirve una bebida sintética, evoca un rescate arriesgado de diez años atrás y la pone en contacto con el intermediario ysoki <strong>Chic</strong> para conseguir un trabajo urgente. Tras reunirse en el club con Marloc, Benray y Triel, el grupo desciende al <strong>Muelle 94</strong> para encontrarse con Marlene. Justo cuando ella va a revelar una investigación confidencial sobre un pecio a la deriva, un francotirador la asesina a sangre fría, desatando una emboscada masiva entre dos bandas rivales: los <strong>Reyes de Abajo / Reyes del Nivel 21</strong> (<em>21st Crew</em>) y los <strong>21 Watts</strong>. Los cuatro héroes combaten codo con codo para sobrevivir al fuego cruzado y asegurar el datapad de Marlene.</p>
+<p>Al enterarse de la muerte de su asociada, el sabio directivo shirren <strong>Chiskisk</strong>, comisionado de <strong>Inversiones Estelares S.C.</strong>, los contrata formalmente como investigadores y árbitros independientes para esclarecer el magnicidio. Las pesquisas llevan a Axel, Triel y Benray a una tensa partida clandestina de cartas cuánticas en los Bajos contra los tahúres <strong>Luke «Mano de Seda»</strong> y el androide <strong>D-52</strong>. Tras una calculada distracción ejecutada por Axel derramando una copa, el grupo arranca a los jugadores la identidad de la francotiradora <strong>Clara-247</strong> y pistas que los conducen al club nocturno <em>Con-Fusión</em>, en lo profundo de la Espiga (<em>The Spike</em>). Allí, la tripulación asalta la guarida de la líder mercenaria <strong>Ferani Nadaz</strong>, abatiendo a su colosal lugarteniente vesk <strong>Brock Hilario «el Rompeportones»</strong> (quien llega a arrancar una reja de seguridad con sus propias garras). Antes de morir, Ferani confiesa que el asesinato de Marlene y la guerra de bandas fueron financiados por <strong>Extracciones Estelares</strong> (<em>Astral Extractions</em>) para sabotear al <strong>Colectivo Hardscrabble</strong> y ocultar los secretos del carguero <em>Acreon</em>. Con la ayuda del primo de Benray, <strong>Rim Rey</strong>, y el respaldo legal de Chiskisk, la tripulación elude las emboscadas policiales y corporativas, consolidándose como equipo neutral de peritaje bajo contrato de Inversiones Estelares S.C. con una misión crucial en el vacío estelar.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>Volumen 2: El Misterio del Acreon</h3>
+<p><em>Subtítulo:</em> <strong>Los Secretos del Vacío</strong></p>
+<p><em>Episodios adaptados:</em> <strong>11 al 22</strong> (Transmisión original: marzo a mayo de 2020)</p>
+<p><em>Extensión:</em> 12 Capítulos + Prólogo + Anexo (59 páginas)</p>
+<h4 class='subsection-title'>Sinopsis General:</h4>
+<p>Apenas sobrevivido el asalto del Nivel 21, la tripulación se encuentra en el epicentro de un huracán político y mediático. Tras eludir a las patrullas policiales en el Ojo de Absalón aprovechando el trance hipnótico de una muchedumbre congregada ante las pantallas gigantes que emitían el perturbador colapso y desaparición del célebre cantante galáctico <strong>Syd Velch</strong>, el grupo alcanza la sede corporativa de Inversiones Estelares S.C. en El Ojo. Las autoridades de los Protectores (<em>The Stewards</em>), encabezadas en los medios por el <strong>Oficial Monroe</strong>, precintan el Club Fusión mientras la megacorporación Extracciones Estelares intenta imputar a los aventureros a través de su letrado vesk, <strong>Kaerom</strong>. Chiskisk interviene astutamente y propone una salida salomónica aceptada por el magistrado <strong>Anastasio Oryander</strong>: enviar a la tripulación como árbitros independientes e imparciales para abordar el pecio fantasma <em>Acreon</em>, un carguero minero de Hardscrabble que reapareció del Drift arrastrando un enigmático asteroide bautizado como la <em>Roca del Drift</em> (<em>The Drift Rock</em>).</p>
+<p>Antes de zarpar, Marloc y Axel visitan los archivos secretos del <strong>Arcanamirium</strong> en busca de respuestas sobre los últimos estudios de Marlene, encontrando un comprobante de requisición interna sobre un artefacto pre-Brecha y advertencias sobre anomalías dimensionales. Simultáneamente, el grupo recibe una invitación confidencial en la embajada piramidal de <strong>Eox</strong>: el aristócrata elebriano <strong>Gevalarsk Nor</strong> y su sirviente gul <strong>Keltus</strong> (con sus peculiares galletitas de anís) les ofrecen patrocinio y suministros a cambio de recuperar en secreto una misteriosa caja funeraria a bordo del carguero. Tras sortear el burdo intento de Extracciones Estelares de congraciarse con ellos mediante una ridícula cesta de bienvenida corporativa (con jaboncitos aromáticos y pases de cine) y compartir una despedida familiar con <strong>Rim Rey</strong> y sus carnitas espaciales, el Colectivo Hardscrabble les entrega la nave ligera <strong>Hippocampus</strong> (<em>El Caballito de Mar</em>), comandada provisionalmente por el curtido <strong>Capitán Otal Seris</strong>. Triel y Marloc aprovechan la travesía para dotar a Gerty de dos brazos manipuladores adicionales (pasando a tener 4 brazos).</p>
+<p>Al cruzar la flotilla de la Armada y llegar a la órbita de cuarentena del <em>Acreon</em>, el grupo realiza un abordaje en gravedad cero y atmósfera despresurizada, grabado en diferido por el dron deportivo que el extravagante editor <strong>Marcellus</strong> le entregó a Benray en Absalón. Descubren una pesadilla biológica: la tripulación fue masacrada por <strong>Akatas</strong>, depredadores cósmicos mudos y cuadrúpedos con tentáculos que resisten el vacío. Tras violentos combates en el hangar, la cocina y los camarotes, descubren a dos supervivientes insólitos: los goblins espaciales <strong>Willy</strong> (un artificiero chiflado que adora toquetear a Gerty) y <strong>Naru</strong> (su beligerante hermana de clan). Con su ayuda y usando salmuera de la despensa (la debilidad biológica del parásito), limpian las bodegas y aseguran el sarcófago de Eox en la bodega del <em>Hippocampus</em>.</p>
+<p>Al descifrar las bitácoras finales de la <strong>Capitana Elba Sohar</strong> y el devoto ingeniero <strong>Olier</strong>, descubren que la Roca del Drift emite señales ancestrales y fue la causante de arrastrar a la nave hacia una falla del hiperespacio. Axel 42 transmite el informe verídico al <strong>Oficial León</strong> de los Protectores, forjando entre ambos un lazo de mutua admiración y complicidad romántica, mientras León les advierte con sospecha que fragmentos de sus grabaciones se están emitiendo de forma pirata en las holopantallas del Ojo de Absalón por obra de Marcellus. El volumen concluye cuando la tripulación y sus nuevos amigos goblins cruzan las amarras metálicas de popa y ponen pie en la superficie rocosa y desolada de la <em>Roca del Drift</em>, frente al umbral de una estructura ancestral desconocida.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>Volumen 3: La Roca del Drift</h3>
+<p><em>Subtítulo:</em> <strong>El Enigma Ancestral</strong></p>
+<p><em>Episodios adaptados:</em> <strong>23 al 33</strong> (Transmisión original: mayo a agosto de 2020)</p>
+<p><em>Extensión:</em> 11 Capítulos + Prólogo + Anexo (67 páginas)</p>
+<h4 class='subsection-title'>Sinopsis General:</h4>
+<p>Este volumen culmina el primer gran arco argumental de la campaña (<em>Incidente en la Estación Absalón</em>). La expedición se adentra en el corazón de la <strong>Roca del Drift</strong>, descendiendo por un abismo vertical en gravedad cero. En las cavernas exteriores sufren la emboscada de <strong>Clara-247</strong>, una letal asesina cibernética contratada por Extracciones Estelares enviada para rematarlos y no dejar testigos. Tras un feroz intercambio de disparos, Clara es abatida por Axel 42, lo que más tarde suscita dolorosas reflexiones entre Axel y su «unidad hermana» <strong>Null-9</strong> sobre el trágico destino de los de su clase al servicio de intereses corporativos.</p>
+<p>Al penetrar en las fisuras de basalto cósmico, el pelotón sortea placas bioluminiscentes alienígenas y enfrenta a los miembros caídos de la tripulación del <em>Acreon</em>, transformados en grotescos <strong>zombis del vacío</strong> (<em>void zombies</em>): el primer oficial <strong>Aravat</strong>, el mecánico Orin y la mismísima capitana Elba Sohar. Tras superar las escaramuzas —en las que Gerty sufre divertidos percances de orientación girando en ingravidez como un trompo—, descubren una ciclópea compuerta sellada con aleaciones pre-Brecha. Al franquearla, entran en un complejo con gravedad artificial y atmósfera respirable.</p>
+<p>En la antesala del templo tecnológico, el terror psíquico se materializa: el <strong>Driftdead</strong> incorpóreo de la legendaria exploradora Starfinder <strong>Moriko Nash</strong> intenta devorar la cordura del grupo. Marloc Boosmar vive su consagración heroica al canalizar sus <em>Proyectiles Mágicos</em> arcanos para disipar el espectro. Tras resolver un ancestral rompecabezas de guijarros de cuarzo y símbolos cósmicos, desactivan un colosal autómata de combate y su dron de plasma pre-Brecha. En una antecámara sellada por un campo de fuerza, descubren el cadáver momificado de Moriko Nash: la exploradora prefirió ingerir veneno con dignidad militar antes de morir deshidratada o devorada por la bestia que acechaba en la roca. Su datapad testamentario lega formalmente su equipo y sus derechos de descubrimiento a los aventureros.</p>
+<p>En el hangar cavernoso más profundo, hallan la nave de exploración de Moriko, la <strong>Estrella Errante</strong> (<em>Vagabond</em>), rodeada por los restos devorados del ingeniero Olier y su compañera lashunta. Es entonces cuando ataca el horror definitivo: el <strong>Garaggakal</strong>, una abominación vampírica nativa del Drift que drena la vitalidad orgánica y la energía de las baterías. Gerty planta cara con sus cuatro brazos sufriendo un colapso eléctrico; Benray alienta la resistencia táctica y Marloc castiga con fuego tecnomágico, permitiendo que <strong>Axel 42</strong>, con puntería quirúrgica, incruste una descarga letal de arco voltaico en la cuenca ocular del monstruo.</p>
+<p>Tras registrar la IA de la nave y recuperar la <em>Estrella Errante</em>, la tripulación escapa de la roca hacia el espacio real, justo cuando una corbeta de hueso de la renegada <strong>Flota de los Cuerpos</strong> (<em>Corpse Fleet</em>) intenta interceptarlos y termina inmolándose en el vacío. Al ingresar al cordón de Absalón escoltados por la patrullera del <strong>Capitán Poko</strong>, se desata una locura mediática sin precedentes (con más de 999 notificaciones holored): la reportera <strong>Carne Yac</strong> los aborda en el Muelle 94 con su dron-medusa, mientras más de doscientos goblins de la estación aclaman a Willy y Naru como emperadores de la chatarra.</p>
+<p>El desenlace sella las tramas personales y políticas: Benray sortea el acoso de su avaro productor ysoki Marcellus; Triel le confiesa a Marloc en privado su verdadero origen (su escape de Apostae tras el odio xenófobo de su madre drow hacia su condición mestiza y su sueño de encontrar en el Vasto a su padre humano, el pirata de los Capitanes Libres <strong>Cayden Aston</strong>); Marloc encara la decepcionante frialdad del erudito <strong>Ambrose Boosmar</strong>; y el grupo acude a la embajada de Eox para entregar el sarcófago al <strong>Embajador Nor</strong>, quien abona la recompensa pactada y expide documentos oficiales de ciudadanía para Marloc Boosmar. En el solemne Palacio de Justicia de Los Protectores, se celebra la audiencia de arbitraje ante el juez kasatha <strong>Keltrosho</strong>. Tras ridiculizar públicamente las artimañas y la ridícula cesta de regalos de Extracciones Estelares, Triel y Marloc demuestran pericial y jurídicamente que la Roca del Drift es un pecio tecnológico amparado por las leyes de salvamento espacial, adjudicando la propiedad al Colectivo Hardscrabble y desestimando las pretensiones corporativas. Tras el juicio, los mineros escoltan a la tripulación hasta la legendaria taberna <strong>El Pulmón Negro</strong> en la Espiga, donde en el solemne «Muro de los Caídos del Vacío» cuelgan las placas de identificación de los tripulantes del <em>Acreon</em> y Marloc alza un emocionado brindis ante la fotografía de Marlene Boosmar y Amelie. Tras registrar formalmente la <em>Estrella Errante</em> a nombre del grupo e instalar mejoras cibernéticas y de arsenal en los talleres de la estación, la saga culmina con un emotivo encuentro a solas entre Axel 42 y el Oficial León bajo los sauces bioluminiscentes del Ojo, sellando su afecto antes de que los misterios del Vasto vuelvan a convocar a los aventureros.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>Volumen 4: Las Torres de Qabarat</h3>
+<p><em>Subtítulo:</em> <strong>El Horizonte Esmeralda</strong></p>
+<p><em>Episodios adaptados:</em> <strong>34 al 45</strong> (Transmisión original: enero a abril de 2021)</p>
+<p><em>Extensión:</em> 12 Capítulos + Prólogo + Anexo (76 páginas)</p>
+<h4 class='subsection-title'>Sinopsis General:</h4>
+<p>Tras resolver la crisis de la <strong>Roca del Drift</strong>, la tripulación disfruta de un breve respiro en la Estación Absalón antes de emprender su misión hacia Castrovel. Marloc acude al <strong>Arcanamirium</strong> para confrontar al gélido catedrático <strong>Ambrose Boosmar</strong>, descubriendo que la misteriosa esfera rúnica que custodia pertenecía a los archivos de la Universidad de Qabarat y está vinculada a una expedición fallida al planeta mortal <strong>Aucturn</strong>. Mientras tanto, Axel y el <strong>Oficial León</strong> consolidan su romance con una jornada de intimidad por los bulevares del Ojo y acuden al multitudinario concierto de <strong>Syd Velch</strong> en el <strong>Domo Horizonte</strong>; allí, una sobrecarga psíquica descontrolada del cantante desata un motín multitudinario que Benray neutraliza con su épico «mosh pit de la rata».</p>
+<p>El equipo asiste al funeral de Marlene en el <strong>Jardín de Cenizas</strong>, donde Marloc rompe la frialdad protocolaria de Ambrose con un emocionante panegírico, recibiendo de manos de <strong>Ángela</strong> (la viuda de Marlene, idéntica a la amada perdida de Marloc en su línea original) el medallón y los cuadernos de notas de la exploradora. Tras una íntima recepción de despedida en el <strong>Club 13</strong> en la que León entrega a Axel una ficha cuántica de enlace prioritario cifrado, la tripulación aborda la <em>Estrella Errante</em> en el Muelle 94 y salta por el Drift rumbo a <strong>Castrovel</strong>.</p>
+<p>Al arribar a <strong>Qabarat</strong>, la luminosa capital lashunta, son recibidos por la estudiante guía <strong>Sophie Ren</strong> y su modesto coche compacto de alquiler, mientras observan el intimidante despliegue de las cañoneras de la <strong>Legión del Fuego en el Cielo</strong>. En la Universidad de Qabarat, la decana kasatha <strong>Muhali</strong> les informa de que la célebre arqueoastrónoma <strong>doctora Omejia Solstarni</strong> ha sido secuestrada. Al investigar el despacho asaltado, hallan una nota oculta que los guía a la cantina portuaria <strong>Los Cinco Arcos</strong>. Tras interrogar al contrabandista <strong>Tuwanas En</strong>, sufren una violenta emboscada por un escuadrón mercenario de la Legión, desatando un tiroteo y una frenética persecución automovilística a bordo del maltrecho compacto de Sophie, donde los conjuros de <em>Grasa</em> de Marloc y los disparos de plasma de Triel les permiten eludir a un transporte artillado blindado (<em>warwagon</em>).</p>
+<p>Refugiados en una bodega portuaria junto a <strong>Casonas</strong> y <strong>Thiable</strong> —corsarios de la fragata <em>La Venganza</em> del <strong>Capitán Bonet</strong>, derribada en Ukulam por la Legión—, la tripulación obtiene credenciales falsificadas para franquear la aduana. Al reconocer su cazadora, los corsarios evocan la memoria del legendario <strong>Cayden Aston</strong> (<em>el Capitán sin Puerto</em>), y Triel revela a sus compañeros que Aston es su padre biológico, mostrando la esfera ámbar que él le legó. Con la bendición oficiosa de la decana Muhali (quien les adelanta 2.500 créditos y les entrega la armadura <em>Lashunta Temp-weave</em> de Solstarni, que viste Benray), el grupo investiga los archivos universitarios: mientras Triel hackea los servidores desvelando que la esfera forma parte de un conjunto de cuatro piezas rescatadas de Aucturn, Benray y Axel orquestan una disparatada distracción en los archivos históricos con la muñeca de trapo <strong>Annabelle</strong>, permitiendo que Axel se cuele por los conductos de ventilación y sustraiga las tres placas metálicas restantes, cuyos glifos pre-Brecha coinciden exactamente con los de la <strong>Roca del Drift</strong>.</p>
+<p>Con las credenciales y las reliquias en su poder, el equipo activa el ancestral arco de piedra de la red de portales de <strong>Aiakos</strong> y cruza el umbral dimensional, emergiendo bajo la sofocante atmósfera de <strong>Turhalu</strong>, en el continente prohibido de <strong>Ukulam</strong>. Allí son acogidos por el veterano explorador humano <strong>Doctor Kaeral Waft</strong>, quien les advierte que los secuestradores liderados por <strong>Eroopa Cual</strong> y el sádico cazador desquiciado <strong>Salas</strong> se dirigen a pie hacia la <strong>Cordillera Cantante</strong>. Tras pasar la noche en la estación, Kaeral los traslada al límite de la zona virgen. Al adentrarse en la selva impenetrable, Axel experimenta un súbito recuerdo bloqueado de su vida anterior: una visión de sí misma integrando una escuadra militar androide de exterminio con lanzallamas y armaduras de asalto, antes de internarse junto a sus camaradas en el abismo verde de Ukulam.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>Volumen 5: El Templo de los Doce Soles</h3>
+<p><em>Subtítulo:</em> <strong>El Templo de los Doce Soles</strong></p>
+<p><em>Episodios adaptados:</em> <strong>46 al 59</strong> (Transmisión original: abril a julio de 2021)</p>
+<p><em>Extensión:</em> 14 Capítulos + Prólogo + Anexo (67 páginas)</p>
+<h4 class='subsection-title'>Sinopsis General:</h4>
+<p>La expedición se interna en las profundidades de <strong>Ukulam</strong>, el continente prohibido de Castrovel. Tras superar las estepas de hierba blanca de Cabo Turhalu —donde Axel 42 experimenta vívidos recuerdos de su servicio en la Unidad 42—, el grupo se topa con una manada de colosales <strong>Yaruks</strong> alimentándose de hongos gigantes. Un disparo de advertencia provoca una catastrófica estampida que obliga al pelotón a huir en una carrera desesperada por el cañón, cruzando un puente milenario que se derrumba en un abismo de cien metros tras su paso, cortando cualquier retirada.</p>
+<p>Guiados por el diario de viaje de <strong>Halkueth</strong> (el explorador de hace tres siglos), los aventureros alcanzan el <strong>Obelisco de la Runa</strong>, donde son emboscados por un enjambre de trece <strong>Kaukariki</strong> (simios alados con cola de escorpión) que arrojan higos fermentados ácidos. Tras abatir al enjambre con el apoyo táctico de los propulsores de salto de Marloc y la puntería de Axel, descubren un bípode militar de la Legión del Fuego en el Cielo. Más adelante, sufren la emboscada de una colosal planta carnívora <strong>Brasilea</strong> que atrapa a Axel en sus zarcillos; el equipo la destruye concentrando su fuego y alcanza el <strong>nivel 4 de veteranía</strong>, descifrando en un monolito la ruta hacia <em>Loskialua</em> y el <em>Templo de los Doce</em>.</p>
+<p>En la selva cerrada son acechados por un <strong>Khasari</strong> («el perro Cthulín»), una aberración vegetal cuadrúpeda que dispara espinas infectadas con <strong>esporas carroñeras</strong> que hieren a Axel. Siguiendo el rastro de la criatura, descubren a la cultista lashunta moribunda <strong>Aravask</strong>, abandonada por Tahomen y consumida por la infección fúngica. Tras aniquilar al Khasari mediante un señuelo holográfico de Benray y un impacto crítico de Axel, Benray concede a Aravask un disparo de misericordia para liberarla de una agonía inhumana, dándole un entierro solemne. El grupo sobrevive después a una devastadora <strong>tormenta de moho</strong> refugiado en una grieta de roca, repeliendo el asalto nocturno de un <strong>Renkruda barbado</strong> (un terópodo carnívoro gigante).</p>
+<p>Al alcanzar las estribaciones de la <strong>Cordillera Cantante</strong>, contemplan el monumento de <strong>El Elfo Reclinado</strong> (una efigie de piedra de cien metros labrada en el acantilado). Allí son tiroteados desde la cabeza de la estatua por el renegado <strong>Salas</strong>, quien libera a un <strong>Oshiga</strong> (un superdepredador volador invisible con pico triturador de calamar). Triel es alzada en el aire por los tentáculos del monstruo al borde de la muerte, pero clava su pica de choque en el paladar de la bestia mientras Axel y Marloc la rematan y Gerty amortigua la caída de su creadora. El equipo penetra en las galerías de la efigie, se purifica en la mística <em>Fuente de la Purificación Mental</em> neutralizando la resonancia psíquica, desactiva trampas y asalta la cámara craneal, donde Axel abate a Salas. Al hackear su datapad, Triel y Marloc descubren órdenes de <strong>Tahomen</strong>, vídeos de gladiadores de Eox y una entrañable grabación de juventud de <strong>Benray</strong> como temerario acróbata de la holored en Absalón. Tras repeler un asedio exterior de dos Khasaris, el grupo contempla desde las cuencas del coloso el valle sagrado de <strong>Loskialua</strong>.</p>
+<p>Al descender a Loskialua, Marloc deduce que los cientos de pirámides escalonadas eran los cimientos de madera y vidrio de una urbe astronómica pre-Brecha dedicada a Desna. Tras eliminar a una monstruosa <strong>Anguila de montaña</strong> bioeléctrica que devoraba a un cultista, ascienden por las ciclópeas <em>Escaleras a la Eternidad</em> (más de tres mil peldaños verticales) hasta el umbral del <strong>Templo de los Doce Soles</strong>. En el Atrio de las Esferas, confrontan al <strong>Último Elfo de Loskialua</strong>, un centinela inmortal que blande una espada de plasma solar inmaterial; tras un combate honorable donde Marloc muestra la esfera rúnica dorada, el elfo es derrotado en paz, concluye su vigilia milenaria y el equipo asciende a <strong>nivel 5</strong>.</p>
+<p>En el Gran Atrio Columnado, el pelotón asalta la trinchera fortificada de la capitana mercenaria <strong>Avissa</strong>, quien dispara una letal ametralladora rotatoria de seis cañones tras colocar una pila de explosivos en el altar; Triel desactiva el detonador a falta de tres segundos mientras el equipo abate a Avissa. En la antecámara rescatan a la <strong>doctora Omejia Solstarni</strong> (kasatha arqueóloga de Qabarat forzada a traducir las compuertas) y destruyen a dos colosales <strong>estatuas élficas guardianas</strong> de piedra con lanzas solares. En el clímax, irrumpen en la <strong>Cámara de las Estrellas</strong>, donde Benray desconcierta a <strong>Tahomen</strong> con su maniobra de «un paso a la izquierda» y lo abate de un disparo certero en el pecho, mientras la tripulación aniquila a sus guardias cibernéticos. Al sincronizar la consola estelar con la esfera rúnica, Triel y Marloc contemplan el mapa del <strong>Devastador Estelar</strong> (<em>Stellar Degenerator</em>), confirmando que la <strong>Roca del Drift</strong> es un fragmento de control desprendido de la superarma. Descubren además que Tahomen transmitió los datos de alineación a un bastión secreto del culto oculto en un asteroide sin cartografiar de <strong>La Diáspora</strong>, fijando el próximo rumbo del equipo hacia el cinturón corsario para evitar el colapso de las estrellas.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h2 class='chapter-name'>2. Índice Maestro de Escenarios y Ubicaciones</h2>
+<h3 class='section-title'>Estación Absalón</h3>
+<p><em>Ubicación geográfica:</em> El Vasto Central / Mundos del Pacto</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1, Volumen 2, Volumen 3</strong></p>
+<p><em>Descripción:</em> Colosal estación espacial en forma de estrella de seis brazos construida alrededor de la misteriosa Piedra de la Estrella (<em>Starstone</em>), erigida en la órbita del desaparecido planeta Golarion. Alberga a más de dos millones de habitantes:</p>
+<ul class='bullet-list'>
+<li><strong>El Ojo:</strong> Cúpula bioclimática residencial y administrativa de lujo. Sede del Consejo de Síndicos, la embajada de Eox, la sede corporativa de Inversiones Estelares S.C. y los jardines de <em>Las Lunas</em>. <code>[Volumen 1, Volumen 2, Volumen 3]</code></li>
+<li><strong>El Anillo:</strong> Sector orbital de dársenas, muelles de atraque y zonas comerciales de clase trabajadora. Alberga el <em>Muelle 94</em> y el <em>Club 13</em>. <code>[Volumen 1, Volumen 2, Volumen 3]</code></li>
+<li><strong>La Espiga (<em>The Spike</em>) o Los Bajos:</strong> El subsuelo industrial laberíntico, húmedo y peligroso de la estación. Dominio de pandillas callejeras, talleres clandestinos y chatarreros como Rim Rey. Aloja el <em>Nivel 21</em> y el <em>Club Con-Fusión</em>. <code>[Volumen 1, Volumen 2, Volumen 3 (mención)]</code></li>
+<li><strong>La Armada:</strong> Constelación desordenada de cientos de naves independientes, refugiados, piratas y chatarreros que orbitan en las inmediaciones de Absalón para eludir aduanas e impuestos. <code>[Volumen 1, Volumen 2, Volumen 3]</code></li>
+<li><strong>Palacio de Justicia de Los Protectores:</strong> Complejo de salas de audiencias del Consejo de Síndicos donde tiene lugar el arbitraje supremo del juez Keltrosho. <code>[Volumen 3]</code></li>
+<li><strong>Terraza Las Lunas:</strong> Exclusivo club y mirador panorámico en el Ojo de Absalón donde la tripulación celebra su regreso y éxito judicial. <code>[Volumen 3]</code></li>
+</ul>
+<h3 class='section-title'>El Arcanamirium</h3>
+<p><em>Ubicación geográfica:</em> El Ojo, Estación Absalón</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1 (mención), Volumen 2, Volumen 3 (mención/legado)</strong></p>
+<p><em>Descripción:</em> La academia de magia y tecnomagia más prestigiosa de los Mundos del Pacto. Sus claustros de mármol flotante y servidores cuánticos custodian los mayores secretos de la Brecha. Alma mater de Marloc y lugar de trabajo de Ambrose Boosmar.</p>
+<h3 class='section-title'>La Embajada de Eox en Absalón</h3>
+<p><em>Ubicación geográfica:</em> El Ojo, Estación Absalón</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 2, Volumen 3</strong></p>
+<p><em>Descripción:</em> Pirámide escalonada de obsidiana y mármol glacial. Feudo diplomático del embajador Gevalarsk Nor y su mayordomo Keltus. En el Volumen 3, aquí se liquida el contrato del sarcófago familiar y se expiden pasaportes de Eox para Willy y Naru.</p>
+<h3 class='section-title'>El Club 13 y el Club Con-Fusión</h3>
+<p><em>Ubicación geográfica:</em> El Anillo (Club 13 / Click-Clack Club) / La Espiga (Club Con-Fusión), Estación Absalón</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1</strong></p>
+<p><em>Descripción:</em> Cantinas emblemáticas del primer volumen donde se gestó la tripulación y cayó la red criminal de Ferani Nadaz y su lugarteniente Brock Hilario «el Rompeportones».</p>
+<h3 class='section-title'>El Pulmón Negro</h3>
+<p><em>Ubicación geográfica:</em> La Espiga, Estación Absalón</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 3</strong></p>
+<p><em>Descripción:</em> Legendaria taberna obrera de los mineros del Colectivo Hardscrabble. En su interior alberga el solemne «Muro de los Caídos del Vacío», repleto de placas militares y fotografías de trabajadores que nunca volvieron de la Diáspora. Escenario de la gran celebración popular donde Marloc, Triel, Axel y Benray cuelgan las placas del <em>Acreon</em> y brindan en honor a Marlene Boosmar y Amelie.</p>
+<h3 class='section-title'>El Muelle 94</h3>
+<p><em>Ubicación geográfica:</em> El Anillo, Estación Absalón</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1, Volumen 3</strong></p>
+<p><em>Descripción:</em> Dársena de atraque donde fue asesinada Marlene en el Volumen 1 y donde desembarca triunfante la tripulación a bordo de la <em>Estrella Errante</em> en el Volumen 3, recibida por periodistas y multitudes de goblins.</p>
+<h3 class='section-title'>El Drift (<em>The Drift</em>)</h3>
+<p><em>Ubicación geográfica:</em> Dimensión hiperespacial transdimensional</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1, Volumen 2, Volumen 3</strong></p>
+<p><em>Descripción:</em> Corriente hiperespacial que permite el viaje interestelar FTL. De sus fallas dimensionales brotan anomalías desgajadas como la Roca del Drift y depredadores como el Garaggakal y los Driftdead.</p>
+<h3 class='section-title'>La Brecha (<em>The Gap</em>)</h3>
+<p><em>Ubicación geográfica:</em> Fenómeno histórico-temporal universal</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1, Volumen 2, Volumen 3</strong></p>
+<p><em>Descripción:</em> Amnesia milenaria universal que borró la historia cósmica y coincidió con la desaparición de Golarion. El templo interno de la Roca del Drift data de épocas anteriores a la Brecha.</p>
+<h3 class='section-title'>La Nave Hippocampus (<em>El Caballito de Mar</em>)</h3>
+<p><em>Ubicación geográfica:</em> Espacio exterior / Flota de Absalón</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 2, Volumen 3</strong></p>
+<p><em>Descripción:</em> Transporte ligero cedido por Hardscrabble. Nave insignia del grupo durante la misión del Acreon y recuperada tras la exploración del asteroide.</p>
+<h3 class='section-title'>La Nave Estrella Errante (<em>Vagabond / Wandering Star</em>)</h3>
+<p><em>Ubicación geográfica:</em> Hangar interno de la Roca del Drift / Estación Absalón</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 3</strong></p>
+<p><em>Descripción:</em> Antigua nave de exploración de la clase <em>Vagabond</em> perteneciente a Moriko Nash. Conservada milagrosamente en el hangar estanco del complejo alienígena, es reactivada por Triel y Benray para escapar del asteroide y volar de regreso a Absalón.</p>
+<h3 class='section-title'>El Pecio Fantasma <em>Acreon</em></h3>
+<p><em>Ubicación geográfica:</em> Órbita exterior de Absalón</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1 (mención), Volumen 2, Volumen 3</strong></p>
+<p><em>Descripción:</em> Carguero de prospección minera de Hardscrabble. Su abordaje y limpieza de Akatas ocupó el Volumen 2; en el Volumen 3, el dictamen judicial lo devuelve saneado a los mineros.</p>
+<h3 class='section-title'>La Roca del Drift (<em>The Drift Rock</em>)</h3>
+<p><em>Ubicación geográfica:</em> Sujeta al <em>Acreon</em> / En órbita exterior</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1 (mención), Volumen 2 (umbral exterior), Volumen 3 (escenario principal)</strong></p>
+<p><em>Descripción:</em> Asteroide milenario que aloja en su seno una superestructura pre-Brecha. Sectores clave:</p>
+<ul class='bullet-list'>
+<li><strong>El Pozo de Inserción:</strong> Grieta vertical de gravedad cero por la que desciende la tripulación. <code>[Volumen 3]</code></li>
+<li><strong>Las Cavernas del Vacío:</strong> Red de túneles helados plagada de trampas y nidos de Akatas zombificadores. <code>[Volumen 3]</code></li>
+<li><strong>La Compuerta Ciclópea:</strong> Umbral de sellado hermético que da paso al complejo habitable. <code>[Volumen 3]</code></li>
+<li><strong>La Bóveda de Moriko Nash:</strong> Cámara de seguridad donde descansan los restos de la exploradora Starfinder. <code>[Volumen 3]</code></li>
+<li><strong>El Gran Hangar de Lanzamiento:</strong> Sala ciclópea donde reposaba la <em>Estrella Errante</em> y anidaba el Garaggakal. <code>[Volumen 3]</code></li>
+<li><strong>El Núcleo de Telemetría:</strong> Consola cuántica que emite coordenadas hacia el <em>Degenerador Estelar</em> en el Vasto. <code>[Volumen 3]</code></li>
+</ul>
+<h3 class='section-title'>Planeta Castrovel y Qabarat</h3>
+<p><em>Ubicación geográfica:</em> Segundo planeta de los Mundos del Pacto</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 4</strong></p>
+<p><em>Descripción:</em> Orbe verde colmado de vida exuberante, biosferas hipertrofiadas y civilización milenaria.</p>
+<ul class='bullet-list'>
+<li><strong>Qabarat:</strong> La resplandeciente capital lashunta, urbe jardín de rascacielos botánicos, cúpulas bioclimáticas y canales cristalinos. <code>[Volumen 4]</code></li>
+<li><strong>Universidad de Qabarat:</strong> Foco superior del saber interplanetario, gobernado por la Decana Muhali. Alberga los departamentos de arqueoastronomía, el despacho asaltado de la doctora Solstarni, los laboratorios del subsótano tres y la cámara acorazada de archivos históricos del ala oeste (escenario del altercado de Annabelle). <code>[Volumen 4]</code></li>
+<li><strong>Cantina Los Cinco Arcos:</strong> Local semiclandestino en los muelles de carga fluvial de Qabarat, regentado por el androide Willing. Escenario del interrogatorio a Tuwanas En y la emboscada mercenaria de la Legión del Fuego en el Cielo. <code>[Volumen 4]</code></li>
+</ul>
+<h3 class='section-title'>La Red de Portales de Aiakos</h3>
+<p><em>Ubicación geográfica:</em> Castrovel (Estación exterior de Qabarat)</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 4</strong></p>
+<p><em>Descripción:</em> Monumental red de arcos monolíticos de piedra pre-Brecha que enlaza los continentes de Castrovel mediante arcanos de sintonización planar. Su arco occidental conecta directamente con el puesto fronterizo de Turhalu en Ukulam.</p>
+<h3 class='section-title'>El Puesto de Turhalu y el Continente de Ukulam</h3>
+<p><em>Ubicación geográfica:</em> Ukulam, hemisferio salvaje de Castrovel</p>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 4, Volumen 5</strong></p>
+<p><em>Descripción:</em></p>
+<ul class='bullet-list'>
+<li><strong>El Puesto de Turhalu:</strong> Estación militar reconvertida en campamento científico en la punta de una península rocosa de Ukulam. Dirigida por el Doctor Kaeral Waft, está rodeada de defensas electrificadas, campos de hongos púrpuras gigantescos y una atmósfera viscosa de calor y esporas irisadas. <code>[Volumen 4, Volumen 5]</code></li>
+<li><strong>Las Estepas de Cabo Turhalu y el Valle de los Yaruks:</strong> Vastas llanuras de hierba blanca de dos metros donde pastan manadas de colosales Yaruks hexápodos, escenario de una estampida devastadora y el colapso del puente del cañón. <code>[Volumen 5]</code></li>
+<li><strong>El Obelisco de la Runa:</strong> Hito ancestral pre-Brecha en un claro enlosado rodeado de flores azul marino, escenario de la emboscada del enjambre de Kaukariki. <code>[Volumen 5]</code></li>
+<li><strong>La Cordillera Cantante (<em>Singing Range</em>):</strong> Majestuosa cadena montañosa septentrional de Castrovel con vientos polares silbantes. Aloja el coloso de El Elfo Reclinado, la ciudad de Loskialua y el templo cumbre. <code>[Volumen 4, Volumen 5]</code></li>
+<li><strong>El Monumento de El Elfo Reclinado (<em>Guardián de la Plaga</em>):</strong> Escultura colosal de cien metros labrada en el acantilado rocoso, que aloja galerías ceremoniales, la Fuente de la Purificación Mental y la cámara craneal donde se atrincheraba Salas. <code>[Volumen 5]</code></li>
+<li><strong>La Ciudad Olvidada de Loskialua:</strong> Acrópolis pre-Brecha enclavada en un valle de montaña, conformada por cientos de pirámides escalonadas de basalto que sirvieron de cimientos para antiguas edificaciones suspendidas dedicadas al culto de Desna. <code>[Volumen 5]</code></li>
+<li><strong>Las Escaleras a la Eternidad:</strong> Escalinata vertical de más de tres mil peldaños labrados a pico en el precipicio de la cordillera, conectando Loskialua con la cima sagrada. <code>[Volumen 5]</code></li>
+<li><strong>El Templo de los Doce Soles:</strong> Santuario astronómico supremo en la cumbre de la Cordillera Cantante. Alberga el Atrio de las Esferas, el Gran Atrio Columnado, la Antecámara de las Constelaciones y la Cámara de las Estrellas, donde reposa la consola que enlaza con el Devastador Estelar. <code>[Volumen 5]</code></li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h2 class='chapter-name'>3. Dossier Maestro de Personajes</h2>
+<h3 class='section-title'>Protagonistas</h3>
+<h4 class='subsection-title'>Triel Istrav</h4>
+<ul class='bullet-list'>
+<li><strong>Especie / Clase:</strong> Semi-drow (<em>half-drow</em>) / Mecánica (<em>Mechanic</em>)</li>
+<li><strong>Aparición en volúmenes:<em> </strong>Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5</em>*</li>
+<li><strong>Voz y Actriz:</strong> Irene</li>
+<li><strong>Rasgos físicos:</strong> Diecinueve años, silueta esbelta, piel gris clara con destellos lila, cabellos blancos níveos y ojos carmesíes. Viste armadura de segunda piel y chaleco de herramientas con insignias modificadas.</li>
+<li><strong>Evolución y Estado:</strong> En el Vol. 1 llega a Absalón como mecánica civil independiente buscando labrarse un futuro lejos de las intrigas y xenofobia de su familia drow en Apostae; en el Vol. 2 dota a Gerty de 4 brazos; en el Vol. 3 domina la ingeniería alienígena del complejo, rebate los alegatos técnicos de Kaerom en el juicio y confiesa a Marloc en privado su verdadero anhelo: encontrar en el Vasto a su padre biológico, el pirata de los Capitanes Libres Cayden Aston. En el Vol. 4 revela la esfera de ámbar legada por su padre; en el Vol. 5 sobrevive a ser izada por los tentáculos del Oshiga en los riscos de Ukulam, desactiva el detonador de plasma de Avissa en el Templo de los Doce Soles y sintoniza la consola cósmica pre-Brecha alcanzando el nivel 5 de maestría.</li>
+</ul>
+<h4 class='subsection-title'>Gerty</h4>
+<ul class='bullet-list'>
+<li><strong>Modelo / Naturaleza:</strong> Meca-dron bípedo pesado de combate y soporte</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5</strong></li>
+<li><strong>Voz y Actor:</strong> Roberto (Game Master)</li>
+<li><strong>Rasgos físicos:</strong> Dos metros de altura, blindaje reforzado gris marengo, cuatro brazos articulados y cañón láser de alta cadencia.</li>
+<li><strong>Voz y Personalidad:</strong> Cínico, quejumbroso y despectivo con los seres orgánicos. Sufre reinicios cómicos en los momentos de mayor tensión. En el Vol. 3 aguanta en pie el asalto directo del Garaggakal pese a quedarse sin baterías, consolidándose como el muro indestructible de la tripulación.</li>
+</ul>
+<h4 class='subsection-title'>Benray Galway</h4>
+<ul class='bullet-list'>
+<li><strong>Especie / Clase:</strong> Ysoki (hombre-rata) / Emisario (<em>Envoy</em>)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5</strong></li>
+<li><strong>Voz y Actor:</strong> Miguel</li>
+<li><strong>Rasgos físicos:</strong> Menudo (1,35 m), pelaje blanco con antifaz negro natural en torno a los ojos, gabardina llena de bolsillos con munición y aperitivos.</li>
+<li><strong>Voz y Personalidad:</strong> Orador brillante, táctico instintivo y comediante involuntario. En el Vol. 3 lidera el fuego concentrado contra el Garaggakal, capitaliza la rueda de prensa del Muelle 94 convirtiendo a la tripulación en ídolos de masas y manda a paseo las cláusulas usureras de los productores de la holored. En el Vol. 4 desata el motín del Domo Horizonte con su 'mosh pit de la rata'; en el Vol. 5 otorga un disparo compasivo a Aravask, sus compañeros descubren en el datapad de Salas sus temerarios vídeos de juventud en Absalón y abate a Tahomen con su maniobra de 'un paso a la izquierda' en la Cámara de las Estrellas.</li>
+</ul>
+<h4 class='subsection-title'>Marloc Boosmar</h4>
+<ul class='bullet-list'>
+<li><strong>Especie / Clase:</strong> Humano / Tecnomante (<em>Technomancer</em>)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5</strong></li>
+<li><strong>Voz y Actor:</strong> Juan Pablo</li>
+<li><strong>Rasgos físicos:</strong> Treintañero elegante, mostacho recortado, gabardina formal y brazo cibernético repleto de procesadores arcanos.</li>
+<li><strong>Voz y Personalidad:</strong> Erudito y analítico. Tras cargar con el duelo de Marlene, en el Vol. 3 alcanza su madurez heroica al destruir al Driftdead con sus <em>Magic Missiles</em>, descifrar las coordenadas del <em>Stellar Degenerator</em>, confrontar la frialdad de su padre Ambrose y articular la victoria legal de Hardscrabble ante el juez Keltrosho.</li>
+</ul>
+<h4 class='subsection-title'>A.Xel 42</h4>
+<ul class='bullet-list'>
+<li><strong>Especie / Clase:</strong> Androide (serie 42) / Operativa (<em>Operative</em>)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5</strong></li>
+<li><strong>Voz y Actriz:</strong> Sofía</li>
+<li><strong>Rasgos físicos:</strong> Piel de polímero blanco mate, circuitos bioluminiscentes rosados y ojos digitales de brillo amatista. Cabello negro corto rapado en el lateral.</li>
+<li><strong>Voz y Personalidad:</strong> Letal en sigilo, precisa con armas de fuego y dotada de una creciente empatía emocional. En el Vol. 3 abate a Clara-247 y propina el disparo mortal al Garaggakal. En Absalón, consolida formalmente su romance con el <strong>Oficial León</strong> de Los Protectores (quien le entrega un token cuántico antes de partir). En el Vol. 5 afronta los recuerdos reprimidos de su servicio en la Unidad 42, sobrevive a las esporas carroñeras de un Khasari, abate al francotirador Salas en su nido del Elfo Reclinado y lidera el asalto táctico contra los mercenarios de Avissa en el templo.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>Personajes Secundarios y Aliados</h3>
+<h4 class='subsection-title'>Moriko Nash</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humana</li>
+<li><strong>Rol:</strong> Exploradora legendaria de frontera y capitana de la Estrella Errante (caída en la Roca)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Pionera estelar desaparecida setenta y cinco años atrás en el Drift. Sus restos momificados y su datapad testamentario guían a los aventureros a través del complejo y les otorgan la legitimidad legal sobre la <em>Estrella Errante</em>.</li>
+</ul>
+<h4 class='subsection-title'>Oficial León</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano</li>
+<li><strong>Rol:</strong> Oficial de Enlace e Investigaciones de <strong>Los Protectores</strong> (<em>The Stewards</em>)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 2, Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Oficial íntegro y protector de la justicia en Absalón. Tras coordinar la telemetría del pecio en el Vol. 2, en el Vol. 3 asiste al juicio de arbitraje y formaliza su relación afectiva con Axel 42 en los parques de la estación.</li>
+</ul>
+<h4 class='subsection-title'>Chiskisk</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Shirren (huésped)</li>
+<li><strong>Rol:</strong> Comisionado y Directivo de Inversiones Estelares S.C.</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1, Volumen 2, Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Sabio directivo insectoide que contrata al grupo para arbitrar el litigio del <em>Acreon</em> y respalda legalmente sus hallazgos ante el Consejo de Síndicos y las autoridades de los Mundos del Pacto.</li>
+</ul>
+<h4 class='subsection-title'>Willy y Naru (Los Amigoblins)</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Goblins espaciales</li>
+<li><strong>Rol:</strong> Artificiero loco (Willy) y tiradora de vanguardia (Naru)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 2, Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Rescatados del <em>Acreon</em>, se convierten en tripulantes fijos. Willy asiste con explosivos en la roca y Naru vigila la retaguardia de Axel. En Absalón son recibidos como héroes por la comunidad goblin y obtienen pasaportes de Eox gracias al Embajador Nor.</li>
+</ul>
+<h4 class='subsection-title'>Embajador Gevalarsk Nor</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Elebriano (no-muerto de Eox)</li>
+<li><strong>Rol:</strong> Embajador plenipotenciario de Eox</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 2, Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Aristócrata esquelético que cumple puntualmente el pago por la recuperación del sarcófago de su dinastía y concede asilo diplomático a los goblins del grupo.</li>
+</ul>
+<h4 class='subsection-title'>Keltus</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Gul (<em>ghoul</em>)</li>
+<li><strong>Rol:</strong> Asistente diplomático de Eox</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 2, Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Mayordomo cadavérico famoso por sus exquisitas galletitas de anís y su refinado protocolo mortuorio.</li>
+</ul>
+<h4 class='subsection-title'>Rim Rey</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Ysoki</li>
+<li><strong>Rol:</strong> Mecánico de la Espiga y primo de Benray</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1, Volumen 2, Volumen 3 (mención/apoyo)</strong></li>
+<li><strong>Descripción:</strong> Proveedor de carnitas, contactos y repuestos para la tripulación en los niveles inferiores de la estación.</li>
+</ul>
+<h4 class='subsection-title'>Marlene Boosmar</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humana</li>
+<li><strong>Rol:</strong> Investigadora y xenobióloga del Arcanamirium (asesinada en Ep. 2 / Cap. 4)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1, Volumen 2 (archivos), Volumen 3 (legado científico)</strong></li>
+<li><strong>Descripción:</strong> Destacada científica del Arcanamirium, casada con Ángela y vinculada familiarmente al catedrático Ambrose Boosmar. Convocó al grupo en el Muelle 94 para alertar sobre la amenaza pre-Brecha de la Roca del Drift antes de ser asesinada por un francotirador. <strong>Enigma Canónico:</strong> Aunque el intermediario Chic asumió inicialmente que Marloc era su hermano por el apellido idéntico y su asombroso parecido físico, Marloc no tenía constancia de su existencia ni recordaba tener hermanas. En los podcasts originales <strong>jamás se confirma que fuesen hermanos biológicos</strong>; en los registros oficiales de Absalón Marlene no tiene hermanos registrados, mientras que Marloc carece por completo de identidad en las bases de datos de la estación tras haber tocado una esfera rúnica pre-Brecha en el Arcanamirium, planteando un misterio profundo de realidades paralelas, distorsión dimensional o secretos herméticos de Ambrose Boosmar.</li>
+</ul>
+<h4 class='subsection-title'>Ambrose Boosmar</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano</li>
+<li><strong>Rol:</strong> Catedrático emérito de xenolingüística en el Arcanamirium y padre de Marlene Boosmar</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 3 (mención), Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Erudito gélido, distante e hiperintelectual del Arcanamirium en Absalón. Padre formal de Marlene según los registros civiles de la estación (y suegro de Ángela). Guarda un parecido asombroso en rostro y mal temperamento con el padre que Marloc conoció antes de su colapso mnemónico. Oculta celosamente los secretos de su expedición fallida a Aucturn y su estudio previo de la esfera rúnica que custodió en Qabarat hace décadas.</li>
+</ul>
+<h4 class='subsection-title'>Ángela</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humana</li>
+<li><strong>Rol:</strong> Científica, esposa y viuda de Marlene Boosmar</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Compañera de vida de Marlene, destrozada tras su asesinato en el Muelle 94. Su presencia conmociona profundamente a Marloc, pues resulta idéntica en fisionomía y temperamento a la Ángela que el tecnomante amó y perdió en su dimensión original. Tras el funeral en el Jardín de Cenizas, entrega a Marloc el medallón de campo y los cuadernos de notas personales de Marlene.</li>
+</ul>
+<h4 class='subsection-title'>Sophie Ren</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Lashunta (damaya)</li>
+<li><strong>Rol:</strong> Estudiante de arqueología en la Universidad de Qabarat y guía local</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Joven vivaz, atenta y alegre asignada por la universidad para asistir a la tripulación en Castrovel. Conductora de un modesto compacto de alquiler que sufre los estragos de la persecución urbana contra la Legión, cuida de los aventureros con comida casera y afecto sincero.</li>
+</ul>
+<h4 class='subsection-title'>Decana Muhali</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Kasatha</li>
+<li><strong>Rol:</strong> Decana de la facultad en la Universidad de Qabarat</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Erudita venerable de cuatro brazos y sobria dignidad académica. Consciente de la parálisis burocrática de la policía ante el secuestro de la doctora Solstarni, contrata oficiosamente a la tripulación como mercenarios independientes, adelantándoles 2.500 créditos y entregándoles la armadura <em>Lashunta Temp-weave</em>.</li>
+</ul>
+<h4 class='subsection-title'>Doctora Omejia Solstarni</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Kasatha (cuatro brazos)</li>
+<li><strong>Rol:</strong> Arqueoastrónoma y catedrática superior de la Universidad de Qabarat</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4 (mención/despacho), Volumen 5</strong></li>
+<li><strong>Descripción:</strong> Eminente investigadora kasatha raptada en su despacho de Qabarat por el Culto del Devorador y forzada bajo tortura a descifrar los controles astronómicos del Templo de los Doce Soles. Es rescatada por el pelotón en la antecámara del templo y revela la existencia de la superarma Devastador Estelar y la verdadera naturaleza de la Roca del Drift como fragmento de control.</li>
+</ul>
+<h4 class='subsection-title'>Doctor Kaeral (Kaeral Waft)</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano</li>
+<li><strong>Rol:</strong> Naturalista, explorador y director del Puesto de Turhalu en Ukulam</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4, Volumen 5</strong></li>
+<li><strong>Descripción:</strong> Carismático y curtido veterano que lleva quince años investigando en el continente prohibido de Ukulam. De complexión robusta, pecho velludo al descubierto y amplia sonrisa blanca, acoge a la tripulación con jarras de agua helada, cartas topográficas y advertencias sobre el cazador demente Salas.</li>
+</ul>
+<h4 class='subsection-title'>Tuwanas En</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Lashunta (korasha)</li>
+<li><strong>Rol:</strong> Contrabandista e intermediario del mercado negro en Qabarat</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Enlace portuario que facilitó la logística y los contactos a los secuestradores de la doctora Solstarni. Interrogado por el grupo en la cantina Los Cinco Arcos antes de huir bajo la protección de los corsarios de <em>La Venganza</em>.</li>
+</ul>
+<h4 class='subsection-title'>Casonas y Thiable</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Lashuntas</li>
+<li><strong>Rol:</strong> Corsarios de la fragata <em>La Venganza</em> del Capitán Bonet (Capitanes Libres)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Oficiales piratas refugiados en un almacén de Qabarat tras el derribo de su nave en Ukulam por la Legión del Fuego en el Cielo. Proporcionan credenciales falsificadas a la tripulación y reconocen la cazadora de Triel, evocando la memoria de Cayden Aston.</li>
+</ul>
+<h4 class='subsection-title'>Capitán Bonet</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano</li>
+<li><strong>Rol:</strong> Comandante corsario de la fragata <em>La Venganza</em> (Capitanes Libres)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Célebre corsario de la Diáspora cuya nave realizó un aterrizaje forzoso en la jungla profunda de Ukulam tras ser ametrallada por las cañoneras de la Legión.</li>
+</ul>
+<h4 class='subsection-title'>Cayden Aston (<em>El Capitán sin Puerto</em>)</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano</li>
+<li><strong>Rol:</strong> Corsario legendario de los Capitanes Libres y padre biológico de Triel Istrav</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 3 (revelación/lore), Volumen 4 (lore y confirmación de legado)</strong></li>
+<li><strong>Descripción:</strong> Mítico capitán pirata desaparecido veintiún años atrás en una expedición hacia el Vasto. Triel huyó de Apostae para buscarlo, revelando en el Volumen 4 a toda la tripulación que Aston es su padre y que custodia la esfera ámbar como herencia paterna.</li>
+</ul>
+<h4 class='subsection-title'>Eroopa Cual</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humanoide desconocido</li>
+<li><strong>Rol:</strong> Contratista clandestino y cabecilla del secuestro de Solstarni</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Misterioso líder que financió las credenciales falsas en Qabarat y encabeza la partida de quince mercenarios armados que se adentró en Ukulam rumbo a la Cordillera Cantante.</li>
+</ul>
+<h4 class='subsection-title'>Salas</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Lashunta</li>
+<li><strong>Rol:</strong> Antiguo soldado de choque de la Legión del Fuego en el Cielo y mercenario psicópata</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Mercenario despiadado que escolta a los secuestradores de Solstarni. Enloqueció años atrás al presenciar cómo una bestia de la selva devoraba viva a su unidad, desarrollando una enfermiza fascinación homicida por alimentar depredadores salvajes con vidas humanas.</li>
+</ul>
+<h4 class='subsection-title'>Waluss</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Lashunta</li>
+<li><strong>Rol:</strong> Archivista del ala oeste en la Universidad de Qabarat</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4</strong></li>
+<li><strong>Descripción:</strong> Bibliotecario arrogante y xenófobo que protagoniza una cómica trifulca en el suelo con Benray disputándose la muñeca Annabelle, siendo forzado por la decana Muhali a disculparse y a asistir a cursos de tolerancia interespecie.</li>
+</ul>
+<h4 class='subsection-title'>Juez Arbitral Keltrosho</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Kasatha</li>
+<li><strong>Rol:</strong> Magistrado de Los Protectores y Síndico Judicial de Absalón</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Juez veterano de cuatro brazos y velo tradicional que preside el litigio de arbitraje y dictamina a favor de Hardscrabble.</li>
+</ul>
+<h4 class='subsection-title'>Kaerom</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Vesk</li>
+<li><strong>Rol:</strong> Abogado corporativo de Extracciones Estelares</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 2, Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Letrado colosal derrotado y humillado dialécticamente durante el juicio del Volumen 3.</li>
+</ul>
+<h4 class='subsection-title'>Capitán Otal Seris y Nadya</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humanos</li>
+<li><strong>Rol:</strong> Comandantes obreros del Colectivo Hardscrabble</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 2, Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Portavoces de los mineros que celebran la recuperación del <em>Acreon</em>. Nadya comparte con Marloc la visión de la sombra cósmica que visitó al ingeniero Olier.</li>
+</ul>
+<h4 class='subsection-title'>Clara-247</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Androide</li>
+<li><strong>Rol:</strong> Asesina mercenaria de Extracciones Estelares</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 3 (abatida en la Roca)</strong></li>
+<li><strong>Descripción:</strong> Francotiradora de élite contratada para silenciar a los protagonistas en el pozo del asteroide.</li>
+</ul>
+<h4 class='subsection-title'>Capitán Poko</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano / Protector</li>
+<li><strong>Rol:</strong> Comandante de patrullera de aduanas de Absalón</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Oficial que escolta a la <em>Estrella Errante</em> a través de la flotilla de la Armada hasta el Muelle 94.</li>
+</ul>
+<h4 class='subsection-title'>Carne Yac</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humana</li>
+<li><strong>Rol:</strong> Periodista de investigación y corresponsal estelar de <em>Noticias Absalón Hoy</em> (<em>Noticias en Movimiento</em>)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1, Volumen 2, Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Reportera sagaz e incansable que cubre los sucesos más candentes de Absalón armada con su inseparable dron-medusa de grabación holo-óptica. Sigue la pista del pelotón desde el tiroteo del Muelle 94 y la rueda de prensa del Nivel 21 hasta el regreso triunfal del <em>Acreon</em>.</li>
+</ul>
+<h4 class='subsection-title'>Ferani Nadaz</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humana</li>
+<li><strong>Rol:</strong> Jefa mercenaria de los Reyes de Abajo / Reyes del Nivel 21</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1</strong></li>
+<li><strong>Descripción:</strong> Líder criminal y contratista armada que operaba desde el club <em>Con-Fusión</em>. Contratada por Extracciones Estelares para eliminar a Marlene Boosmar y provocar el conflicto de bandas en el Muelle 94. Cae abatida ante el grupo, revelando la conspiración corporativa.</li>
+</ul>
+<h4 class='subsection-title'>Brock Hilario («El Rompeportones»)</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Vesk</li>
+<li><strong>Rol:</strong> Lugarteniente y ejecutor de Ferani Nadaz</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1</strong></li>
+<li><strong>Descripción:</strong> Coloso vesk de fuerza descomunal capaz de arrancar portones de seguridad con sus propias garras. Es abatido en un brutal tiroteo en el club <em>Con-Fusión</em>.</li>
+</ul>
+<h4 class='subsection-title'>Luke «Mano de Seda» y D-52</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano (Luke) / Androide (D-52)</li>
+<li><strong>Rol:</strong> Tahúres profesionales y contactos en los Bajos</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1</strong></li>
+<li><strong>Descripción:</strong> Jugadores clandestinos en una timba de cartas cuánticas en los Bajos de Absalón. Tras ser derrotados y burlados por Axel, Triel y Benray, se ven obligados a revelar la pista de la francotiradora Clara-247 y la ubicación de Ferani Nadaz.</li>
+</ul>
+<h4 class='subsection-title'>Primer Oficial Aravat</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano</li>
+<li><strong>Rol:</strong> Primer oficial del carguero minero <em>Acreon</em></li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 3</strong></li>
+<li><strong>Descripción:</strong> Veterano tripulante de Hardscrabble infectado por las larvas de akata y transformado en el «zombi del vacío» en las cavernas de la Roca del Drift. Tras ser abatido con respeto militar por el pelotón, su placa es recuperada por Marloc y colgada con honores en el Muro de los Caídos de <em>El Pulmón Negro</em>.</li>
+</ul>
+<h4 class='subsection-title'>Syd Velch</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano</li>
+<li><strong>Rol:</strong> Cantante y estrella del rock de los Mundos del Pacto (Celebridad / Personaje clave futuro)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 2 (retransmisión del último concierto), [Personaje recurrente en arcos posteriores]</strong></li>
+<li><strong>Descripción:</strong> Aclamado vocalista y estrella mediática de la música estelar en los Mundos del Pacto. Justo antes de desvanecerse de la escena pública sin dejar rastro, protagonizó un escalofriante colapso en vivo durante su último concierto: interrumpió abruptamente su canción, destrozó sus sintetizadores ante miles de fanáticos estupefactos y miró fijamente a las cámaras balbuceando crípticas advertencias sobre «sangre bajo el sol» y «la necesidad de continuar». La retransmisión de estas imágenes exclusivas por <em>Noticias en Movimiento</em> en el Ojo de Absalón paralizó a la muchedumbre, permitiendo a la tripulación sortear el cerco policial. Es un personaje fundamental cuyo enigma, destino y reaparición cobrarán enorme peso en episodios posteriores de la campaña.</li>
+</ul>
+<h4 class='subsection-title'>Null-9 (Unidad Hermana / Androide 9000)</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Androide</li>
+<li><strong>Rol:</strong> Cantinera, enlace en los Bajos de Absalón y «unidad hermana» de A.Xel 42</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 1, Volumen 3 (red cifrada/apoyo), [Personaje clave recurrente en la campaña]</strong></li>
+<li><strong>Descripción:</strong> Androide femenina de cabello estilizado color rosa chicle, piel de porcelana blanca con delgadas juntas sintéticas, labios fucsia, implantes cibernéticos negros en mejillas y sienes, ojos dotados de un tenue brillo magenta y una armadura corporal funcional. Es la confidente más leal y antigua de A.Xel 42, a quien considera su «unidad hermana». Su vínculo fraterno se forjó diez años atrás en un rescate de alto riesgo en condiciones extremas. Trabaja tras la barra del <em>Click-Clack Club</em> (Club 13) en la Espiga, actuando como protectora e intermediaria informal del colectivo sintético, facilitando empleo a androides desamparados y defendiendo su emancipación frente a la explotación de corporaciones y bandas criminales. En el Volumen 1 canaliza a Axel hacia Chic para la cita con Marlene Boosmar; en el Volumen 3 le transmite discretos mensajes de aliento y vítores cifrados desde los canales subterráneos de Absalón tras la victoria en el arbitraje. Su lealtad, contactos en el inframundo y relación con Axel serán cruciales a lo largo de toda la saga.</li>
+</ul>
+<h4 class='subsection-title'>Tahomen</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Lashunta</li>
+<li><strong>Rol:</strong> Sumo Sacerdote del Culto del Devorador en Castrovel (Comandante de Ukulam)</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 5</strong></li>
+<li><strong>Descripción:</strong> Líder fanático y despiadado con el rostro desfigurado por escarificaciones rituales y manto de pieles de bestias. Obsesionado con abrir la Puerta de los Doce Soles y aniquilar las estrellas, fuerza a la doctora Solstarni a descifrar el templo antes de ser abatido de un disparo en el pecho por Benray en la Cámara de las Estrellas tras transmitir las coordenadas a La Diáspora.</li>
+</ul>
+<h4 class='subsection-title'>Salas</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Lashunta</li>
+<li><strong>Rol:</strong> Exoficial renegado de la Legión del Fuego en el Cielo y Francotirador del Culto</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4 (mención), Volumen 5</strong></li>
+<li><strong>Descripción:</strong> Tirador sádico y demente expulsado de la Legión tras obsesionarse con contemplar a personas devoradas vivas por bestias salvajes. Custodió el acceso a la cordillera apostado en la cabeza del Elfo Reclinado junto a su monstruo Oshiga, hasta ser abatido por Axel 42.</li>
+</ul>
+<h4 class='subsection-title'>Avissa</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humana</li>
+<li><strong>Rol:</strong> Capitana Mercenaria del Culto del Devorador</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 5</strong></li>
+<li><strong>Descripción:</strong> Brutal jefa de asalto acorazada con bandana roja y una colosal ametralladora rotatoria pesada de seis cañones. Comandó la defensa del Gran Atrio Columnado con órdenes de volar el templo entero por los aires; fue abatida por el equipo tras neutralizar Triel el detonador.</li>
+</ul>
+<h4 class='subsection-title'>Aravask</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Lashunta</li>
+<li><strong>Rol:</strong> Exploradora y cultista del Devorador</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 5</strong></li>
+<li><strong>Descripción:</strong> Fanática del culto abandonada en la espesura tras ser infectada por las esporas carroñeras de un Khasari. En medio de su agonía febril, recibe un disparo de compasión por parte de Benray y un entierro digno bajo las raíces de Ukulam.</li>
+</ul>
+<h4 class='subsection-title'>El Último Elfo de Loskialua</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Elfo Pre-Brecha (Inmortal)</li>
+<li><strong>Rol:</strong> Centinela del Templo de los Doce Soles</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 5</strong></li>
+<li><strong>Descripción:</strong> Guerrero celestial que custodió el Atrio de las Esferas durante tres milenios blandiendo una espada de plasma solar inmaterial. Reconoce la esfera rúnica de Marloc, prueba la valía del pelotón en un combate honorable y se disuelve en luz dorada declarando concluida su guardia.</li>
+</ul>
+<h4 class='subsection-title'>Halkueth (Halconzan)</h4>
+<ul class='bullet-list'>
+<li><strong>Especie:</strong> Humano (Histórico)</li>
+<li><strong>Rol:</strong> Explorador legendario de Castrovel</li>
+<li><strong>Aparición en volúmenes:</strong> <strong>Volumen 4 (mención), Volumen 5</strong></li>
+<li><strong>Descripción:</strong> Aventurero que exploró Ukulam trescientos años atrás. Su diario de viaje y mapas manuscritos guían a los aventureros a través de las estepas, el obelisco, el Elfo Reclinado y la ciudad de Loskialua.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h2 class='chapter-name'>4. Corporaciones, Facciones e Instituciones</h2>
+<h3 class='section-title'>Inversiones Estelares S.C. (<em>Stellar Investments</em>)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1, Volumen 2, Volumen 3</strong></p>
+<p>Firma corporativa y de mediación legal con sede en El Ojo de Absalón, dirigida por Chiskisk y vinculada al pasado de Marlene Boosmar. Contrata a los aventureros como árbitros independientes y peritos neutrales para resolver disputas comerciales y de salvamento marítimo-espacial, como el litigio del <em>Acreon</em>.</p>
+<h3 class='section-title'>Colectivo Hardscrabble</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1, Volumen 2, Volumen 3</strong></p>
+<p>Sindicato obrero de transportistas de la Diáspora. Tras el dictamen del juez Keltrosho, asume la propiedad legal del <em>Acreon</em> y sella una alianza inquebrantable con el grupo.</p>
+<h3 class='section-title'>Extracciones Estelares (<em>Astral Extractions</em>)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1, Volumen 2, Volumen 3</strong></p>
+<p>Corporación minera corrupta cuyos crímenes en el Nivel 21 y maniobras sucias en el asteroide son expuestos públicamente en el arbitraje de Absalón.</p>
+<h3 class='section-title'>Los Protectores (<em>The Stewards</em>)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1, Volumen 2, Volumen 3</strong></p>
+<p>Fuerzas del orden y judicatura de los Mundos del Pacto. Garantizan la paz en la estación y ratifican la inocencia y honores de los aventureros.</p>
+<h3 class='section-title'>La Flota de los Cuerpos (<em>Corpse Fleet</em>)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 3</strong></p>
+<p>Facción militar renegada de no-muertos eoxianos hostil a los Mundos del Pacto. Emboscan a la tripulación al salir de la Roca del Drift con una corbeta de hueso que se autodestruye en el vacío para no dejar rastros.</p>
+<h3 class='section-title'>El Planeta Eox y su Delegación Diplomática</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 2, Volumen 3</strong></p>
+<p>Gobierno de no-muertos pragmáticos que premia la lealtad y discreción de los aventureros.</p>
+<h3 class='section-title'>Free Captains (Capitanes Libres / Piratas de la Diáspora)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 1 (cazadora de segunda mano), Volumen 2 (referencias), Volumen 3 (lore de Cayden Aston), Volumen 4 (tripulación de La Venganza y legado de Cayden Aston)</strong></p>
+<p>Flotas y sindicatos piratas independientes que operan en los asteroides de la Diáspora y el Vasto exterior. En el Volumen 4, la tripulación se refugia en Qabarat con <strong>Casonas</strong> y <strong>Thiable</strong>, oficiales de la fragata <em>La Venganza</em> del <strong>Capitán Bonet</strong>, derribada en Ukulam por la Legión. Al reconocer la cazadora corsaria de Triel, evocan la memoria del mítico <strong>Cayden Aston</strong> (<em>el Capitán sin Puerto</em>), y Triel revela formalmente a toda la tripulación que Aston es su padre biológico, exhibiendo la esfera ámbar legada por él.</p>
+<h3 class='section-title'>La Legión del Fuego en el Cielo (<em>Skyfire Legion</em>)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 4</strong></p>
+<p>Poderosa organización militar y mercenaria de élite basada en Castrovel. Con autorización del gobierno planetario, despliegan cañoneras y transportes blindados artillados (<em>warwagons</em>) en Qabarat persiguiendo a contrabandistas y a los corsarios de <em>La Venganza</em>, protagonizando una espectacular persecución urbana contra el compacto de Sophie Ren y la tripulación.</p>
+<h3 class='section-title'>La Dinastía Osuwak</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 4</strong></p>
+<p>Antiquísima civilización de colonos élficos pre-Brecha que migraron clandestinamente al continente prohibido de Ukulam milenios atrás, erigiendo la enigmática Pirámide de Turhalu en torno a líneas ley planetarias. Sus templos y tecnología custodian secretos vinculados a las superarmas del Vasto.</p>
+<h3 class='section-title'>Constructores del Degenerador Estelar (Civilización Kishalee / Pre-Brecha)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 3, Volumen 4 (runas de las placas sustraídas)</strong></p>
+<p>Antiquísima cultura alienígena que construyó la Roca del Drift como llave y baliza de control de una superarma estelar dormida en los confines del Vasto. Las tres placas metálicas sustraídas de los archivos de Qabarat en el Volumen 4 comparten exactamente sus mismos glifos tecnológicos.</p>
+<h3 class='section-title'>El Culto del Devorador (<em>Cult of the Devourer</em>)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 4 (menciones de Salas), Volumen 5</strong></p>
+<p>Secta apocalíptica y nihilista galáctica que rinde culto a una entidad cósmica consagrada a la destrucción total del universo. En Castrovel, su célula liderada por Tahomen secuestró a la doctora Solstarni para abrir la Puerta de los Doce Soles y activar el Devastador Estelar. Sus líderes en Ukulam fueron aniquilados, pero lograron transmitir la telemetría a su bastión secreto en La Diáspora.</p>
+<h3 class='section-title'>Universidad de Qabarat</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 4, Volumen 5</strong></p>
+<p>Máxima institución académica de Castrovel. Tras el exitoso rescate de la doctora Solstarni por parte de la tripulación en el Templo de los Doce Soles, la decana Muhali y la universidad quedan en deuda de gratitud permanente con el pelotón de Inversiones Estelares.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h2 class='chapter-name'>5. Bestiario y Amenazas Cósmicas</h2>
+<h3 class='section-title'>El Garaggakal (Depredador del Drift)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 3</strong></p>
+<p>Monstruo cósmico vampírico nativo de las corrientes dimensionales del hiperespacio. Posee alas membranosas, cuerpo quitinoso cuadrúpedo y fauces con tentáculos energéticos que succionan la fuerza vital de los seres vivos y la carga de baterías tecnológicas. Acechaba en el hangar de la roca hasta ser destruido por Axel 42.</p>
+<h3 class='section-title'>Driftdead (Espectros del Hiperespacio)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 3</strong></p>
+<p>Entidades no-muertas incorpóreas nacidas de viajeros que mueren violentamente en el Drift. Emiten un aura de pánico dimensional y frío absoluto. El espectro de Moriko Nash fue pacificado por Marloc Boosmar.</p>
+<h3 class='section-title'>Autómatas Ancestrales de Combate</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 3</strong></p>
+<p>Constructos de guerra pre-Brecha dotados de cañones de plasma, escudos deflectores y protocolos de aniquilación que custodiaban el acceso al templo de la roca.</p>
+<h3 class='section-title'>Akatas y Zombis del Vacío (<em>Void Zombies</em>)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 2, Volumen 3</strong></p>
+<p>Depredadores cuadrúpedos del vacío que infectan a humanoides con sus larvas, convirtiéndolos en cadáveres andantes controlados por tentáculos torácicos. La dotación del <em>Acreon</em> fue transformada por esta plaga.</p>
+<h3 class='section-title'>Kaukariki (Depredadores Alados de Castrovel)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 4</strong></p>
+<p>Criaturas simiescas agresivas de pelaje rojizo y alas membranosas nativas de las copas de los árboles de Castrovel. Cazan en manada y poseen una cola rematada en un aguijón ponzoñoso cuyo veneno causa quemaduras ácidas y parálisis neuromuscular progresiva.</p>
+<h3 class='section-title'>Yaruks (Colosos Hexápodos de Ukulam)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 5</strong></p>
+<p>Herbívoros gigantescos de quince metros de longitud y seis patas que pastan en Cabo Turhalu. Provocaron una estampida masiva que obligó al equipo a huir por el cañón y cruzar el puente que se derrumbó tras ellos.</p>
+<h3 class='section-title'>Brasilea (Planta Carnívora de Emboscada)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 5</strong></p>
+<p>Monstruosa flor depredadora provista de decenas de zarcillos musculosos, espinas óseas y enzimas corrosivas que emboscó a Axel atrapándola en su corola hasta ser pulverizada por el pelotón.</p>
+<h3 class='section-title'>Khasaris («El Perro Cthulín») y Esporas Carroñeras</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 5</strong></p>
+<p>Aberraciones tetrapodales de tejido vegetal y muscular provistas de tentáculos faciales sobre fauces circulares retráctiles. Disparan espinas cargadas de esporas carroñeras que consumen los órganos internos de presas como Aravask.</p>
+<h3 class='section-title'>Renkruda Barbado</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 5</strong></p>
+<p>Superdepredador reptiliano ápice de Ukulam. Terópodo carnívoro de cuatro metros con escamas verde oliva y zarcillos bucales que atacó el refugio del pelotón durante la tormenta de moho.</p>
+<h3 class='section-title'>Oshiga (Depredador Aéreo Manta-Raya)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 5</strong></p>
+<p>Bestia alada capaz de mimetizarse e invisibilizarse en vuelo. Provista de tentáculos prensiles y un terrorífico pico circular de calamar con bilis ácida. Capturó en el aire a Triel Istrav hasta que fue ensartada y abatida por el equipo.</p>
+<h3 class='section-title'>Anguila de Montaña</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 5</strong></p>
+<p>Monstruo anfibio y serpentino de cuatro metros con aletas palmeadas provistas de garras y glándulas bioeléctricas que habitaba en las pirámides de Loskialua.</p>
+<h3 class='section-title'>Estatuas Élficas Guardianas</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 5</strong></p>
+<p>Constructos de piedra sagrada con lanzas solares que custodiaban la antecámara del Templo de los Doce Soles, destruidos por el equipo para proteger a la doctora Solstarni.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>El Campin (Aberración Anfibia Bífida de Ukulam)</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 6</strong></p>
+<p>Monstruo acuático milenario de los ríos de Ukulam dotado de dos cuerpos interconectados neurológicamente: un coloso acorazado de cartílago fosilizado con hendiduras sensoriales y fauces con ganchos, y un enjambre de miles de sanguijuelas púrpuras fosforescentes con secreciones neurotóxicas alucinógenas.</p>
+<h3 class='section-title'>Autómatas Corporativos de Asalto Pesado</h3>
+<p><em>Aparición en volúmenes:</em> <strong>Volumen 6</strong></p>
+<p>Mecas bípedos de seguridad privada desplegados en la planta ejecutiva de Extracciones Astrales, equipados con cañones rotatorios de plasma, visión térmica y blindajes capaces de resistir colisiones estructurales.</p>
+<h2 class='chapter-name'>6. Matriz de Continuidad y Estado de la Tripulación</h2>
+<table class='matrix-table' border='1' cellspacing='0' cellpadding='8' style='width: 100%; border-collapse: collapse; border: 1px solid #a0aec0; margin: 20px 0;'>
+<thead><tr><th style='background-color: #1a365d; color: #ffffff; padding: 10px 12px; font-weight: bold; border: 1px solid #1a365d; text-align: left; width: 14%;'>Parámetro</th><th style='background-color: #1a365d; color: #ffffff; padding: 10px 12px; font-weight: bold; border: 1px solid #1a365d; text-align: left; width: 14%;'>Volumen 1 (<em>Sombras sobre Absalón</em>)</th><th style='background-color: #1a365d; color: #ffffff; padding: 10px 12px; font-weight: bold; border: 1px solid #1a365d; text-align: left; width: 14%;'>Volumen 2 (<em>El Misterio del Acreon</em>)</th><th style='background-color: #1a365d; color: #ffffff; padding: 10px 12px; font-weight: bold; border: 1px solid #1a365d; text-align: left; width: 14%;'>Volumen 3 (<em>La Roca del Drift</em>)</th><th style='background-color: #1a365d; color: #ffffff; padding: 10px 12px; font-weight: bold; border: 1px solid #1a365d; text-align: left; width: 14%;'>Volumen 4 (<em>Las Torres de Qabarat</em>)</th><th style='background-color: #1a365d; color: #ffffff; padding: 10px 12px; font-weight: bold; border: 1px solid #1a365d; text-align: left; width: 14%;'>Volumen 5 (<em>El Templo de los Doce Soles</em>)</th><th style='background-color: #1a365d; color: #ffffff; padding: 10px 12px; font-weight: bold; border: 1px solid #1a365d; text-align: left; width: 14%;'>Volumen 6 (<em>El Fantasma en la Máquina</em>)</th></tr></thead><tbody>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Naves Activas</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Ninguna (tránsito en motoneta y muelles)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Hippocampus</strong> (<em>El Caballito de Mar</em>)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Estrella Errante</strong> (<em>Vagabond</em>) y <strong>Hippocampus</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Estrella Errante</strong> (órbita de Castrovel) / Compacto de alquiler de Sophie</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Estrella Errante</strong> (órbita de Castrovel, lista para salto a La Diáspora)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Estrella Errante</strong> (dotada de procesador militar cuántico y conciencia viva) / <em>La Furia</em> (aliada)</td></tr>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Cuartel / Base</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Cuartuchos de alquiler en el Anillo 9</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>A bordo del <em>Hippocampus</em></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Muelle 94 / Sede Inversiones Estelares / Terraza <em>Las Lunas</em></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Campus Universidad de Qabarat / Puesto de Turhalu (Ukulam)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Vivac de campaña en Ukulam / Templo de los Doce Soles</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Café <em>Las Lunas</em> / Muelle 22 / A bordo de la <em>Estrella Errante</em> en el Drift</td></tr>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Armamento de Gerty</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Cañón láser frontal, dos brazos pesados</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Cuatro brazos (añadidos manipuladores finos)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Cuatro brazos reforzados + cañón láser pesado</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Cuatro brazos pesados + pica de choque y cañón láser</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Cuatro brazos reforzados + pica de alta frecuencia, ametralladora pesada y escudos</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Cuatro brazos pesados + pica de choque cuántica, ametralladora rotatoria y servos optimizados</td></tr>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Aliados a Bordo</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Ninguno (solo los 4 fundadores + Gerty)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Se unen los goblins <strong>Willy</strong> y <strong>Naru</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Willy y Naru (ciudadanos de honor y protegidos de Eox)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Willy y Naru (en órbita); Sophie Ren (Qabarat); Dr. Kaeral (Turhalu)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Willy y Naru (en órbita); <strong>Doctora Omejia Solstarni</strong> (rescatada); Dr. Kaeral</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Willy y Naru; <strong>La Conciencia de la Nave</strong>; Bumak Istrav (enlace en Ábsalon); Capitán De Bonet e Ila</td></tr>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Contactos / Red</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Null-9</strong> (Club 13), Chic, Rim Rey</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Rim Rey, Embajador Nor</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Null-9</strong> (red androide), Rim Rey, Embajador Nor, Chiskisk</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Null-9</strong>, Oficial León (token prioritario), Decana Muhali, Casonas y Thiable</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Null-9</strong>, Oficial León, Decana Muhali, claustro de la Universidad de Qabarat</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Bumak Istrav</strong> (Casa Istrav), Embajador Gevalarsk Nor, Cheesecake, Capitán De Bonet, Templo de Triuno</td></tr>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Vínculos Afectivos</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Cohesión fraternal inicial en combate</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Creciente atracción entre <strong>Axel 42</strong> y el <strong>Oficial León</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Romance formalizado entre <strong>Axel 42</strong> y el <strong>Oficial León</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Axel y León se despiden con token cuántico; Triel revela a Cayden Aston</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Triel supera trauma de Oshiga; Benray reconciliado con su pasado; Axel asume Unidad 42</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Axel asimila la verdad de su chasis previo; Triel reconciliada con la rama leal de su familia; Benray encuentra su voz de capitán</td></tr>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Facciones Rivales</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Reyes del Nivel 21 (destruidos)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Extracciones Estelares (vía letrado Kaerom)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Extracciones Estelares (derrotada) y <strong>Flota de los Cuerpos</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Legión del Fuego en el Cielo, mercenarios de Eroopa Cual y el cazador Salas</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Culto del Devorador</strong> (célula de Castrovel destruida: Tahomen, Salas y Avissa muertos)</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Extracciones Astrales</strong> (Señorita Joss neutralizada; archivos expuestos) y Legión del Cielofuego (burlada)</td></tr>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Pactos Secretos</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Ninguno</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Sarcófago funerario de Eox asegurado</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Sarcófago entregado al Embajador Nor; recompensa cobrada</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Contrato con la Decana Muhali (2.500 cr.); salvoconducto corsario de <em>La Venganza</em></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Rescate de Solstarni cumplido; telemetría del Devastador Estelar recuperada</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Alianza encubierta con Embajador Nor (fondos y salvoconducto); pacto de sangre con Bumak Istrav</td></tr>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Misterio Cósmico</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Asesinato de Marlene Boosmar</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Anomalía dimensional de la Roca del Drift; enigma de Syd Velch</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Revelación de la baliza hacia el <strong>Degenerador Estelar</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Relación de la esfera con Aucturn, portales de Aiakos y Dinastía Osuwak</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Confirmado: la Roca del Drift es la llave de control; coordenadas apuntan a <strong>La Diáspora</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>El alma previa de Axel en la Avenida 41; el traslado de conciencia en la nave; Marcelus oculto en el asteroide de La Diáspora</td></tr>
+<tr><td style='font-weight: bold; color: #0b1a30; background-color: #f7fafc; padding: 8px 10px; border: 1px solid #cbd5e0;'><strong>Posición Actual</strong></td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Salida de la Estación Absalón</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Umbral exterior de la Roca del Drift</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Héroes aclamados en Absalón listos para viajar al Vasto</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Internándose en la selva prohibida de Ukulam hacia la Cordillera Cantante</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Retornando de Ukulam a la <em>Estrella Errante</em> para zarpar rumbo a La Diáspora</td><td style='padding: 8px 10px; border: 1px solid #cbd5e0;'>Navegando por el Drift a bordo de la <em>Estrella Errante</em> con rumbo fijo al cinturón de La Diáspora</td></tr>
+</tbody></table>
+
+</body>
+</html>

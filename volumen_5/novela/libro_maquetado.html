@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lasers y Dragones: El Templo de los Doce Soles</title>
+<style>
+  @page {
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
+  }
+  
+  body {
+    font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section-heading-main {
+    font-size: 22pt;
+    text-align: center;
+    color: #0b1a30;
+    margin-top: 0;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 10px;
+    page-break-before: always;
+    break-before: page;
+  }
+
+  /* Índice de contenidos */
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+  }
+  
+  .toc-table td {
+    padding: 3.5px 3px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 9pt;
+  }
+  
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+  }
+  
+  .toc-sub {
+    font-size: 8pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 1.2;
+  }
+  
+  /* Título de Capítulo con salto de página infalible en LibreOffice */
+  h2.chapter-name {
+    page-break-before: always;
+    break-before: page;
+    font-size: 22pt;
+    color: #0b1a30;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1.3;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+  }
+  
+  .chap-sub {
+    font-size: 18pt;
+    font-style: italic;
+    color: #2b6cb0;
+    font-weight: normal;
+  }
+  
+  h3.section-title {
+    font-size: 14pt;
+    color: #2b6cb0;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    border-bottom: 1px dashed #e2e8f0;
+    padding-bottom: 4px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h3.subsection-title {
+    font-size: 12.5pt;
+    color: #2d3748;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Liberation Serif', serif;
+  }
+
+  h4.subsection-title {
+    font-size: 11.5pt;
+    color: #1a365d;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 0 12px 0;
+    text-indent: 1.5em;
+  }
+  
+  p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
+    text-indent: 0;
+  }
+  
+  .divider {
+    text-align: center;
+    margin: 25px 0;
+    color: #a0aec0;
+    font-size: 10pt;
+    letter-spacing: 6px;
+  }
+  
+  .bullet-list {
+    margin: 12px 0 15px 25px;
+    padding: 0;
+  }
+  
+  .bullet-list li {
+    margin-bottom: 6px;
+    text-align: justify;
+  }
+  
+  .quote {
+    margin: 18px 25px;
+    padding: 10px 18px;
+    border-left: 3px solid #b8860b;
+    background: #f7fafc;
+    font-style: italic;
+    color: #4a5568;
+  }
+</style>
+</head>
+<body>
+
+  <!-- 1. PORTADA EDITORIAL HOMOGÉNEA -->
+  <div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+      Ópera Espacial · Universo Starfinder
+    </p>
+    
+    <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+    
+    <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+      LASERS Y DRAGONES
+    </div>
+    
+    <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+      El Templo de los Doce Soles
+    </div>
+    
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+    
+    <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+      ✦ &nbsp; ◈ &nbsp; ✦
+    </div>
+    
+    <p style="font-size: 11pt; line-height: 1.6; color: #4a5568; margin: 30px auto; max-width: 420px; text-indent: 0; text-align: center;">
+      Una adaptación novelada de la campaña oficial <em>Dead Suns</em> (Soles Muertos), inspirada en las sesiones de rol en vivo del podcast <strong>Lasers y Dragones</strong>.
+    </p>
+    
+    <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 50px auto 20px auto;">
+    
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 10pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+      VOLUMEN V · EL TEMPLO DE LOS DOCE SOLES
+    </p>
+  </div>
+
+  <!-- 2. NOTA EDITORIAL E INTRODUCCIÓN -->
+  <h2 class="section-heading-main">Nota Editorial e Introducción</h2>
+  <div class="chapter-body">
+    <h3 class='section-title'>Sobre esta Adaptación</h3>
+<p>Esta obra constituye el quinto volumen de la novelización oficial de la campaña de rol <strong>Lasers y Dragones</strong>, dirigida por <strong>Roberto</strong> y protagonizada por <strong>Sofía</strong> (A.Xel 42), <strong>Irene</strong> (Triel Istrav), <strong>Miguel</strong> (Benray Galway) y <strong>Juan Pablo</strong> (Marloc Boosmar).</p>
+<p>En este volumen se adaptan los acontecimientos de los <strong>Episodios 46 al 59</strong> del podcast original, emitidos a lo largo de 2021. La narración sumerge al pelotón en las profundidades inhóspitas del continente salvaje de <strong>Ukulam</strong>, en el planeta Castrovel: desde las estepas abiertas de Cabo Turhalu hasta los desfiladeros de la Cordillera Cantante, pasando por los sobrecogedores vestigios de la civilización pre-Brecha en el monumento de El Elfo Reclinado, la ciudad olvidada de Loskialua y la cima sagrada del <strong>Templo de los Doce Soles</strong>.</p>
+<p>Siguiendo el riguroso protocolo de fidelidad canónica del proyecto, todos los sucesos, combates tácticos, diálogos, deducciones y giros dramáticos reproducen fielmente la partida real en mesa, respetando el canon exclusivo de <em>Lasers y Dragones</em> y las subtramas originales concebidas por el director de juego y los jugadores.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>Reparto y Personajes Principales</h3>
+<ul class='bullet-list'>
+<li><strong>A.Xel 42 (Sofía):</strong> Androide operativa de combate y francotiradora del grupo. Su mente analítica se ve sacudida por la reaparición de fragmentos mnemónicos reprimidos de su servicio en la Unidad 42, mientras enfrenta las mortíferas esporas carroñeras de la selva y lidera el fuego de precisión en cada emboscada.</li>
+<li><strong>Triel Istrav (Irene):</strong> Mecánica semi-drow de 19 años, independiente e indomable. Su destreza técnica para reparar y coordinar a Gerty se combina con un coraje visceral que la sitúa al borde de la muerte en los riscos de la Cordillera Cantante, antes de descifrar las terminales astronómicas del templo milenario.</li>
+<li><strong>Gerty (Roberto):</strong> Meca bípedo cuadrúmano de combate pesado, armado con pinzas reforzadas y lanza de energía. Su sintetizador vocal y su sempiterna actitud quejumbrosa frente a las debilidades biológicas de los humanoides aportan un contrapunto cáustico a los peores horrores de la espesura.</li>
+<li><strong>Benray Galway (Miguel):</strong> Emisario ysoki, orador incansable, maestro de los trucos tácticos y documentalista del viaje con su dron Atmos. Su moral pragmática pero compasiva se pone a prueba en decisiones de vida o muerte en el corazón de la jungla y en audaces disparos que definen el destino del grupo.</li>
+<li><strong>Marloc Boosmar (Juan Pablo):</strong> Tecnomante humano de porte académico y visión mística. Su fascinación por la arqueoastronomía pre-Brecha y la esfera rúnica que alteró su existencia encuentra en Loskialua y en el Templo de los Doce Soles una resonancia cósmica inigualable.</li>
+<li><strong>Doctora Omejia Solstarni:</strong> Prestigiosa profesora de arqueología y lingüística de la Universidad de Qabarat, secuestrada por el Culto del Devorador y retenida en el santuario de la montaña para descifrar los secretos de la superarma estelar.</li>
+<li><strong>Tahomen:</strong> Sumo sacerdote y comandante del Culto del Devorador en Castrovel, fanático despiadado obsesionado con abrir la Puerta de los Doce Soles y desatar el Devastador Estelar sobre la galaxia.</li>
+<li><strong>Salas y Avissa:</strong> Las lugartenientes y ejecutoras del culto; una exoficial sádica de la Legión del Fuego en el Cielo y una mercenaria acorazada con armamento pesado de asalto.</li>
+</ul>
+  </div>
+
+  <!-- 3. ÍNDICE DE CONTENIDOS -->
+  <h2 class="section-heading-main">Índice de Contenidos</h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto, créditos y canon del podcast original</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Prólogo: Las Fauces de Ukulam</div>
+        <div class="toc-sub">Llegada a Cabo Turhalu, memorias de la Unidad 42 y la llamada de la selva</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">5</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 46: Yaruk-A-Matata</div>
+        <div class="toc-sub">Basado en el Episodio 46 · Estepas de Cabo Turhalu, la manada de Yaruks y la estampida en el cañón</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">7</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 47: Que Monito Monolito</div>
+        <div class="toc-sub">Basado en el Episodio 47 · El Obelisco de la Runa, el ataque de los Kaukariki y las flores azules</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">11</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 48: Muy, Muy Lejos de Casa</div>
+        <div class="toc-sub">Basado en el Episodio 48 · La emboscada de la Brasilea, ascenso a nivel 4 y las marcas hacia Loskialua</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">15</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 49: El Perro Cthulín</div>
+        <div class="toc-sub">Basado en el Episodio 49 · El acecho del Khasari, esporas carroñeras y el hallazgo de Aravask</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">19</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 50: Promesas del Destructor</div>
+        <div class="toc-sub">Basado en el Episodio 50 · La piedad de Benray, tormenta de moho y el ataque del Renkruda barbado</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">23</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 51: La Senda de los Monstruos</div>
+        <div class="toc-sub">Basado en el Episodio 51 · El Elfo Reclinado, los disparos de Salas y la liberación del Oshiga</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">27</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 52: ¡Trielicioso!</div>
+        <div class="toc-sub">Basado en el Episodio 52 · Triel en las fauces de la bestia alada y el asalto al pórtico del coloso</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">30</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 53: El Elfo Reclinado</div>
+        <div class="toc-sub">Basado en el Episodio 53 · La Fuente de Purificación, ascensión por la espina dorsal y la caída de Salas</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">33</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 54: Ecos en la Cumbre</div>
+        <div class="toc-sub">Basado en el Episodio 54 · El pasado streamer de Benray, el asedio de los Khasari y el valle de las pirámides</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">37</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 55: La Ciudad Olvidada de Loskialua</div>
+        <div class="toc-sub">Basado en el Episodio 55 · Acrópolis de pirámides basales, la anguila de montaña y las Escaleras a la Eternidad</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">41</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 56: El Último Elfo de Loskialua</div>
+        <div class="toc-sub">Basado en el Episodio 56 · Duelo contra el centinela milenario de plasma solar y ascenso a nivel 5</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">45</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 57: Avissa-me Si Explota</div>
+        <div class="toc-sub">Basado en el Episodio 57 · La ametralladora rotatoria de Avissa y la desactivación in extremis de los explosivos</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">49</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 58: O Soles Míos</div>
+        <div class="toc-sub">Basado en el Episodio 58 · Rescate de la doctora Solstarni, guardianes de piedra y la verdad de la superarma</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">53</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 59: Un Paso a la Izquierda</div>
+        <div class="toc-sub">Basado en el Episodio 59 · La caída de Tahomen, la consola estelar y las coordenadas hacia La Diáspora</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">57</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">Ukulam, el Culto del Devorador, bestiario salvaje, el Devastador Estelar y Héroes de la Saga</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">61</td>
+    </tr>
+  </table>
+
+  <h2 class="chapter-name">Prólogo: <br><span class="chap-sub">Las Fauces de Ukulam</span></h2>
+  <div class="chapter-body">
+    <p>El zumbido gravitacional del deslizador se apagó con un silbido sordo al tocar la linde de Cabo Turhalu.</p>
+<p>Ante los ojos del pelotón no se abría un paisaje dócil ni los cuidados jardines bioclimáticos de Qabarat. Aquello era <strong>Ukulam</strong>: un continente vedado, un monstruo verde de millones de kilómetros cuadrados donde la naturaleza de Castrovel crecía con una ferocidad primigenia, ajena por completo al paso de los milenios y a las leyes de los Mundos del Pacto.</p>
+<p>Apenas descendieron por la rampa metálica, una bofetada de aire denso y húmedo, cargado de aromas a limo fermentado, savia acre y esporas microscópicas, se adhirió a los trajes de combate. Hacia el este se extendía una vasta estepa de pastizales relucientes, con cañas de más de dos metros de altura que se mecían bajo la brisa como un océano vegetal interminable; hacia el norte, perfilándose entre las brumas matutinas, la silueta escarpada de la Cordillera Cantante se alzaba como la dentadura petrificada de un titán dormido.</p>
+<p>—Última parada de la civilización, amigos —les había advertido el doctor Kaeral antes de soltar amarras—. A partir de este límite, ni la Universidad ni la Legión del Fuego en el Cielo podrán respaldarlos. Si una de las bestias de las marismas los arrastra hacia el cieno, o si los fanáticos del Devorador les cortan el paso, estarán completamente solos.</p>
+<p>Marloc Boosmar desplegó en su datapad las notas digitalizadas del explorador Halkueth, el veterano de hace tres siglos cuyo diario de viaje constituía el único mapa fiable a través de la espesura:</p>
+<p>—Halkueth menciona que el sendero hacia la cordillera cruza primero las praderas de Cabo Turhalu, buscando el antiguo monolito rúnico que servía de vigía a los pueblos pre-Brecha —indicó el tecnomante, ajustando los filtros de aire de su pechera—. El Culto del Devorador y los mercenarios de Salas nos llevan al menos tres días de ventaja con la doctora Solstarni. Si intentan despertar los secretos que descansan en el Templo de los Doce Soles, no podemos permitirnos perder su rastro.</p>
+<p>A su lado, Triel Istrav comprobaba por última vez los servomotores y articulaciones de Gerty. El imponente meca de cuatro brazos dejó escapar un carraspeo sintetizado a través de su rejilla acústica:</p>
+<p>—Registrando niveles de humedad relativa del noventa y cuatro por ciento. Mis conductos hidráulicos agradecerían profundamente que la próxima aventura diplomática tenga lugar en una biblioteca climatizada de Absalón, en lugar de un gigantesco estofado de bacterias carnívoras.</p>
+<p>—Menos quejas y más potencia en las piernas, Gerty —sonrió Triel, golpeando cariñosamente el blindaje del meca mientras aseguraba la pica de asalto a su costado—. Si nos encontramos con plantas con dientes, tú eres el que abre camino.</p>
+<p>Benray Galway acomodó las lentes esféricas del dron Atmos, que flotaba a su alrededor emitiendo un zumbido alegre mientras enfocaba la inmensidad del horizonte esmeralda:</p>
+<p>—Damas, caballeros y entidades sintéticas de la galaxia: estamos a punto de cruzar el umbral del lugar más peligroso de Castrovel. Bestias gigantes, hongos asesinos y una secta apocalíptica armada hasta los dientes. Si no salimos en los libros de historia después de esto, juro por la memoria de mi primo Rim Rey que me hago streamer de videojuegos en Eox.</p>
+<p>Axel 42 permanecía en silencio unos pasos por delante, examinando las huellas aplastadas en la hierba alta. La brisa caliente agitaba su cabello plateado, mientras las líneas rosadas de su blindaje brillaban con un tenue parpadeo analítico. Al contemplar la pradera infinita de cañas blanquecinas, un latido mnemónico reverberó en sus circuitos internos: la memoria espectral de la Unidad 42, el fuego purificador en un mundo olvidado, la sensación del cañón al rojo vivo en sus manos mecánicas.</p>
+<p>La androide cerró los ojos un instante, respiró hondo para calmar los sensores de sobrecarga y descolgó su rifle de precisión.</p>
+<p>—Huellas recientes de calzado táctico pesado en dirección al desfiladero —anunció con voz gélida y segura—. Salas y los suyos pasaron por aquí. Empieza la cacería.</p>
+<p>Sin vacilar, los cuatro compañeros se adentraron en las sombras de la hierba alta, tragados por el laberinto infinito de Ukulam.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 46: <br><span class="chap-sub">Yaruk-A-Matata</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Las praderas de la memoria</h3>
+<p>El avance por las estepas de Cabo Turhalu se convirtió muy pronto en una marcha asfixiante. La hierba salvaje de Castrovel no era una plácida pradera de césped dócil, sino una masa compacta de cañas gruesas y afiladas que superaban holgadamente los dos metros de altura. Su tonalidad plateada brillaba bajo la luz difusa de la estrella Dhavala, creando un espejismo ondulante donde la orientación espacial quedaba reducida a la espalda del compañero que marchaba delante.</p>
+<p>Gerty encabezaba la hilera, utilizando sus poderosos manipuladores mecánicos para apartar tallos y aplastar la maleza como una apisonadora acorazada. Detrás avanzaba Benray Galway, blandiendo su cuchillo de combate a modo de improvisado machete mientras el dron Atmos flotaba sobre su cabeza, registrando cada tropiezo:</p>
+<p>—Si alguno de mis suscriptores en la holored me viera ahora mismo —masculló el ysoki, secándose el sudor del hocico con el dorso del guantelete—, juraría que me he metido a jardinero municipal. ¡Por todos los santos de la Espiga! ¿Es que aquí nadie tiene la decencia de pavimentar un camino?</p>
+<p>—Esto es Ukulam, Benray —replicó Marloc Boosmar desde el centro de la formación, consultando con ojo clínico los datos barométricos en su datapad—. La naturaleza en este continente no conoce la intervención de los Mundos del Pacto desde hace milenios. Según las crónicas de Halkueth, la vegetación experimenta ciclos hipertróficos alimentados por la radiación solar y la fertilidad telúrica del suelo.</p>
+<p>En la retaguardia, cerrando la marcha con pasos silenciosos y precisos, avanzaba Axel 42. Sus sensores ópticos escaneaban el horizonte a trescientos sesenta grados, registrando cada crujido en la hierba. Sin embargo, en el interior de su núcleo procesador, un eco discordante comenzó a vibrar con una intensidad inesperada.</p>
+<p>El manto interminable de hierba alta y blanquecina desencadenó una cascada mnemónica en sus registros profundos. Por un instante, la voz de Marloc se apagó, sustituida por una estática marcial en su comunicador interno:</p>
+<p><em>«Unidad 42, asegure el sector perimetral. Fuego sostenido sobre las líneas biológicas. No dejen nada en pie».</em></p>
+<p>Axel se detuvo en seco. Frente a sus ojos cibernéticos, la pradera de Castrovel se superpuso a la imagen espectral de un mundo calcinado: una escuadra de androides idénticos a ella, enfundados en blindajes grises de asalto, avanzando hombro con hombro con lanzallamas acoplados que vomitaban fuego blanco sobre la estepa. Recordó el crujido de las cenizas bajo sus botas, el calor implacable fundiendo los sensores externos y la ausencia total de dudas en su programación original.</p>
+<p>—¿Axel? —la voz de Triel la arrancó del trance—. ¿Detectas algo atrás?</p>
+<p>La androide parpadeó, disipando la anomalía mnemónica con un parpadeo de sus líneas rosadas:</p>
+<p>—Todo despejado en retaguardia —respondió con su serenidad habitual, aunque sus dedos aferraron el rifle láser con una firmeza renovada—. Solo... reverberaciones de datos antiguos. Prosigamos.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Los colosos del pastizal</h3>
+<p>Hacia el mediodía, el terreno comenzó a declinar suavemente hacia un valle encajonado entre dos colinas de roca caliza. Al disiparse la densidad de la hierba, el grupo se encontró de pronto frente a un espectáculo sobrecogedor.</p>
+<p>Esparcidos por el lecho del valle pastaban una decena de seres descomunales. Eran los <strong>Yaruks</strong>, colosos herbívoros de seis patas columnares, piel coriácea semejante a corteza petrificada y cabezas macizas coronadas por placas óseas anchas como escudos de fragata. Cada uno de aquellos titanes medía más de quince metros de longitud y se movía con una lentitud majestuosa, alimentándose con voracidad de unos hongos colosales de color púrpura que brotaban entre las rocas.</p>
+<p>—Madre de Dios... —susurró Benray, deteniéndose en seco y ordenando a Atmos que descendiera a ras de suelo—. Son como edificios andantes con patas.</p>
+<p>—Halkueth no mencionó estos hongos gigantes en su cuaderno —observó Marloc en voz baja, ajustando los aumentos de su visor—. Esas fúngicas son de crecimiento acelerado y expulsan una densa niebla de esporas psicoactivas mientras son masticadas. Miren cómo los Yaruks balancean las cabezas... están sumidos en un trance alimentario profundo.</p>
+<p>—El problema —intervino Triel, señalando hacia el fondo de la hondonada— es que la manada ocupa todo el paso natural hacia el cañón. El sendero que marca Halkueth atraviesa justo el centro del valle.</p>
+<p>—Podríamos intentar bordearlos por las laderas —sugirió Axel, midiendo la pendiente rocosa—. Nos costaría cuatro horas adicionales de marcha forzada, pero evitaríamos provocar a la manada.</p>
+<p>—O —dijo Benray con una sonrisa audaz— podemos usar un poco de tecnología persuasiva para que nos abran paso amablemente. Una pequeña llamarada bien calculada para espantarlos hacia el flanco izquierdo. Conozco a los herbívoros: ven una chispa y se apartan como colegialas asustadas.</p>
+<p>—Benray, no creo que perturbar a animales de veinte toneladas sea una decisión tácticamente sensata... —empezó a advertir Marloc, pero el ysoki ya había desenfundado su pistola de plasma.</p>
+<p>—Confía en el emisario, Boosmar. ¡Atención, moles con patas! ¡Conozcan el poder de la tecnología y la deforestación controlada!</p>
+<p>El disparo de advertencia restalló en el valle con un trueno estridente. El proyectil energético impactó contra una cepa de hongos a pocos metros del Yaruk dominante, detonando una nube de esporas violáceas y una llamarada cegadora.</p>
+<p>El titán no retrocedió. Emitió un bramido atronador que sacudió el suelo hasta las raíces de las colinas, levantó sus seis patas en un espasmo de furia ciega y sacudió su testa cornuda. En un instante, el resto de la manada captó la alarma del macho alfa.</p>
+<p>Los Yaruks no huyeron del valle: se enfurecieron.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La estampida del cañón</h3>
+<p>El suelo se transformó en un terremoto ininterrumpido.</p>
+<p>—¡Estampida! —aulló Triel, sujetándose a la pechera de Gerty mientras el meca anclaba sus estabilizadores hidráulicos en la tierra.</p>
+<p>Una masa imparable de cientos de toneladas de carne, escamas y colmillos se precipitó a la carga ladera abajo, arrasando árboles jóvenes, piedras y matorrales a una velocidad inverosímil para bestias de semejante porte. La nube de polvo y esporas levantada por las patas de los Yaruks oscureció el sol en cuestión de segundos.</p>
+<p>—¡Corran hacia el desfiladero! —gritó Axel, abriendo fuego de precisión contra el terreno frente a los animales líderes para desviar su trayectoria, mientras retrocedía a toda velocidad.</p>
+<p>El pelotón emprendió una carrera desesperada por sus vidas. Benray corría con las orejas gachas y el corazón desbocado, haciendo zigzags frenéticos entre las rocas mientras los Yaruks más jóvenes pasaban rozándolo a escasos centímetros. Marloc activó los propulsores de salto de su traje, impulsándose por encima de una formación de peñascos para evitar ser aplastado por el flanco derecho de la estampida.</p>
+<p>Gerty, con Triel aferrada a sus hombros acorazados, avanzaba a zancadas pesadas y firmes, usando su blindaje frontal para desviar cantos rodados arrojados por el paso de los colosos:</p>
+<p>—Calculando probabilidades de supervivencia en caso de colisión frontal: cero coma cero dos por ciento —tronó el sintetizador del meca con su frialdad habitual—. Recomiendo encarecidamente acelerar el ritmo biológico de escape.</p>
+<p>Frente a ellos, al final del desfiladero, el terreno se cortaba abruptamente en un abismo colosal de más de cien metros de profundidad, por cuyo fondo rugía un torrente fluvial espumoso. El único paso hacia la otra orilla de la selva era un antiguo puente de piedra pre-Brecha, agrietado por la humedad de los siglos y cubierto de enredaderas salvajes.</p>
+<p>—¡Al puente! ¡Crucen todos al puente! —vociferó Benray, arrojándose hacia la calzada de roca.</p>
+<p>El pelotón cruzó los desgastados arcos de piedra con el aliento en la garganta. Apenas pisaron la orilla opuesta, la cabeza de la manada embistió con furia ciega contra los estribos del viaducto.</p>
+<p>El impacto fue devastador. La estructura milenaria no estaba diseñada para soportar la embestida de media docena de monstruos enloquecidos. Grandes sillares de piedra crujieron, se partieron como ramas secas y el puente entero colapsó en el vacío con un estrépito colosal, precipitándose hacia el torrente en una nube de escombros y agua pulverizada.</p>
+<p>Los Yaruks frenaron en seco al borde del precipicio, bramando de frustración ante la sima infranqueable.</p>
+<p>En la orilla norte, los cuatro aventureros y Gerty se desplomaron sobre el barro, jadeando de agotamiento mientras contemplaban el foso que acababa de abrirse a sus espaldas. El camino de regreso a Cabo Turhalu había dejado de existir para siempre. Delante de ellos, densa, oscura e insondable, se abría la verdadera selva de Ukulam.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 47: <br><span class="chap-sub">Que Monito Monolito</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. El claro del obelisco</h3>
+<p>El silencio que siguió al derrumbe del puente resultó casi inquietante tras el estruendo de la estampida. Rodeados por una muralla de árboles colosales cuyas copas se entrelazaban a más de cuarenta metros de altura, el grupo se tomó unos minutos para recuperar el aliento y revisar el sellado ambiental de sus blindajes.</p>
+<p>—Bueno —rompió el silencio Benray, sacudiéndose el polvo calcáreo de la casaca—, supongo que la retirada estratégica queda formalmente cancelada. Nada agudiza el ingenio como saber que el único camino de vuelta es a través de un foso de cien metros.</p>
+<p>—Avanzar era nuestra única directiva desde el principio —repuso Axel, verificando el cargador térmico de su fusil—. Si Salas y los cultistas lograron cruzar esta región sin equipo pesado, debe existir un sendero practicable más adelante.</p>
+<p>Siguiendo las coordenadas del diario de Halkueth, el pelotón se adentró en una depresión boscosa donde la vegetación se abría en un claro circular de suelo enlosado. En el centro exacto de la plaza se alzaba una estructura imponente: un <strong>obelisco de piedra oscura</strong> de más de diez metros de altura, cubierto de runas y espirales astronómicas esculpidas con una precisión geométrica que desafiaba la erosión del tiempo. Alrededor de su base crecía un lecho de flores aterciopeladas de un azul marino tan intenso que parecía absorber la escasa luz filtrada por el dosel.</p>
+<p>Marloc avanzó con los ojos muy abiertos, acariciando la piedra milenaria con la punta de sus guanteletes:</p>
+<p>—Es el Obelisco de la Runa... Halkueth lo describió como un hito de orientación levantado por los antiguos habitantes de Castrovel antes de la Brecha. Miren los grabados: representan las constelaciones estelares visibles desde el hemisferio occidental de Ukulam, pero alineadas con una configuración cósmica que ya no coincide con el cielo contemporáneo.</p>
+<p>—Es fascinante, Boosmar, de verdad —intervino Triel con un gesto de impaciencia, apoyando la espalda en el blindaje de Gerty—, pero a mí lo que me interesa es saber por qué hay huellas de botas militares pisoteando esas hermosas flores azules. Salas y sus mercenarios estuvieron aquí hace menos de cuarenta y ocho horas.</p>
+<p>Antes de que Marloc pudiera responder, un proyectil húmedo y viscoso cruzó el aire a gran velocidad e impactó con un chasquido sordo contra la hombrera de Axel. La androide dio un paso atrás por reflejo, observando una masa pulposa y maloliente que chorreaba por su blindaje.</p>
+<p>—¿Qué demonios...? —murmuró Benray, olfateando el aire con una mueca de repugnancia—. Huele a fruta podrida fermentada con ácido de batería.</p>
+<p>Desde las ramas más altas del dosel, un coro de chillidos estridentes y siseos metálicos respondió a sus palabras.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Lluvia de aguijones y frutos fermentados</h3>
+<p>De entre el follaje esmeralda descendieron decenas de siluetas ágiles y grotescas. Eran los <strong>Kaukariki</strong>, una especie de simios alados autóctonos de Ukulam, provistos de membranas de cuero entre las extremidades y una temible cola articulada que remataba en un aguijón bulboso cargado de veneno neurotóxico.</p>
+<p>Trece de aquellas bestias planeaban en círculos cerrados sobre el claro, arrojando con diabólica puntería pesados higos raelianos fermentados mientras mostraban sus mandíbulas erizadas de colmillos afilados.</p>
+<p>—¡Emboscada aérea! —gritó Axel, rodando sobre el pavimento enlosado para buscar cobertura tras un pedestal derruido.</p>
+<p>Un segundo higo estalló en el pecho de Benray, haciéndole trastabillar mientras el jugo acre comenzaba a corroer la tela de su casaca:</p>
+<p>—¡Malditos monos degenerados! ¡Están usando artillería biológica! ¡Gerty, aplasta a esos bichos voladores!</p>
+<p>—Iniciando protocolo de control de plagas arbóreas —respondió Gerty con su zumbido monótono. El meca alzó sus dos brazos superiores, desplegando su ametralladora pesada, mientras sus extremidades inferiores aferraban la pica de asalto—. Aviso: el olor a fruta fermentada atenta gravemente contra mis sensores olfativos auxiliares.</p>
+<p>Marloc no perdió un segundo. Activando los propulsores de salto integrados en las botas de su armadura, el tecnomante se elevó en un arco perfecto propulsado por llamaradas azuladas, aterrizando sobre un saliente de piedra a tres metros de altura en el fuste del obelisco. Desde aquella posición elevada, extendió ambas manos, tejiendo en el aire un diagrama de nanitos y energía mística:</p>
+<p>—<em>¡Null-Vector!</em> —bramó, desatando una andanada de proyectiles mágicos que impactaron con precisión quirúrgica contra dos de los Kaukariki más agresivos, derribándolos en pleno vuelo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El baile del francotirador</h3>
+<p>En el suelo, la refriega se volvió caótica. Los simios alados se lanzaban en picado con los aguijones por delante, buscando las juntas desprotegidas de los cuellos y muñecas de los aventureros.</p>
+<p>Triel demostró una agilidad asombrosa. Blandiendo su pica con movimientos circulares aprendidos en los talleres y callejones de la Diáspora, interceptó a uno de los monstruos que se abalanzaba sobre ella, atravesándole el ala membranosa y estrellándolo contra los sillares de piedra. A su lado, Gerty descargó un puñetazo neumático de varias toneladas de presión que pulverizó a un segundo atacante contra el fuste del monolito.</p>
+<p>Benray, por su parte, convirtió el combate en un espectáculo de acrobacias y picaresca. Saltando de un bloque de piedra a otro con piruetas calculadas, el ysoki confundía a los simios con fintas engañosas antes de dispararles a quemarropa con su pistola:</p>
+<p>—¡Por aquí, carotas de escorpión! ¡A ver si atrapan esto! —gritó, rodando bajo las garras de un macho alfa y descerrajándole un tiro de plasma en el bajo vientre que lo hizo desplomarse envuelto en humo.</p>
+<p>Desde su cobertura, Axel trabajaba con la frialdad implacable de una máquina de matar. Aguardaba pacientemente a que los Kaukariki alcanzaran el cenit de su trayectoria de vuelo para apretar el gatillo de su fusil láser. Tres disparos limpios, espaciados por fracciones de segundo exactas, perforaron los pechos de otros tres simios, que cayeron como piedras sobre el lecho de flores azules.</p>
+<p>Desprovistos de la ventaja numérica y aterrorizados por el fuego concentrado del pelotón, los últimos cuatro Kaukariki supervivientes emitieron un chillido lastimero y huyeron batiendo sus alas hacia la espesura del dosel superior.</p>
+<p>La calma regresó al claro, dejando tras de sí un reguero de cuerpos inertes, frutos aplastados y un penetrante hedor a fermentación ácida.</p>
+<p>Marloc descendió con sus propulsores, respirando agitadamente pero con una chispa de triunfo en la mirada:</p>
+<p>—Excelente sincronización táctica. El veneno de sus aguijones es un paralizante de acción rápida; de habernos alcanzado, habríamos quedado a merced de los depredadores terrestres.</p>
+<p>Axel, entretanto, se arrodilló junto a la base del obelisco, apartando cuidadosamente los pétalos marchitos de las flores azules. Semienterrado en la tierra removida, sus fotosensores detectaron el brillo metálico de un accesorio táctico de combate: un bípode reforzado perteneciente a un fusil de francotirador militar de la Legión del Fuego en el Cielo.</p>
+<p>—Salas estuvo apostado aquí arriba —anunció la androide, mostrando la pieza a sus compañeros—. Usó el obelisco como puesto de observación para estudiar el valle antes de reanudar la marcha. No estamos lejos de ellos.</p>
+<p>Benray recargó su arma con un chasquido metálico y miró hacia la espesura que se cerraba más allá del monumento:</p>
+<p>—Entonces no perdamos más tiempo oliendo a macedonia podrida. Sigamos las huellas.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 48: <br><span class="chap-sub">Muy, Muy Lejos de Casa</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Las raíces del cazador ciego</h3>
+<p>A medida que el pelotón dejaba atrás el claro del obelisco, la selva de Ukulam se tornó aún más opresiva. Los árboles centenarios cerraban sus copas en una bóveda vegetal casi impermeable, sumiendo el suelo en una penumbra verdosa donde el aire parecía condensarse en un vaho cálido y asfixiante. Raíces retorcidas, del grosor de troncos de nave, serpenteaban sobre el fango como anacondas dormidas, obligando a los aventureros a trepar y descender continuamente entre charcos de agua estancada.</p>
+<p>Axel marchaba en vanguardia, con el fusil preparado y los sensores ópticos calibrados en visión infrarroja para detectar firmas de calor entre la espesura. Sin embargo, en un mundo donde la flora y la fauna compartían metabolismos depredadores, el calor corporal no siempre era un indicio seguro.</p>
+<p>Al descender por un talud cubierto de musgo brillante, el suelo bajo sus pies cedió de manera imprevista.</p>
+<p>No era fango.</p>
+<p>Un haz de zarzas y zarcillos gruesos como cables de alta tensión emergió disparado del lecho de hojas muertas. Antes de que la androide pudiera reaccionar, los zarcillos se enroscaron con fuerza demoledora en torno a sus piernas y torso, izándola violentamente por los aires mientras una nube de esporas densas y amarillentas estallaba a su alrededor.</p>
+<p>—¡Axel! —gritó Triel, alzando su fusil de arco voltaico.</p>
+<p>Desde el corazón de la maleza surgió la pesadilla: una <strong>Brasilea</strong>, una colosal planta carnívora prehistórica de más de seis metros de envergadura. Su centro estaba dominado por una corola carnosa en forma de fauces abiertas, tapizada internamente por hileras de espinas óseas y chorreante de enzimas digestivas viscosas que desprendían un vapor cáustico.</p>
+<p>La bestia vegetal tiró con violencia de sus zarcillos, arrastrando a Axel en línea recta hacia su cavidad digestiva.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Fuego botánico y el ascenso de los supervivientes</h3>
+<p>Aunque los sellos ambientales de su armadura y su naturaleza sintética inmunizaban a Axel contra las esporas paralizantes que la planta liberaba para someter a sus presas, la tremenda presión física de los tentáculos amenazaba con aplastar sus servomotores internos.</p>
+<p>—¡Fuego concentrado en los zarcillos principales! —ordenó la androide por la radio del equipo, mientras desenfundaba su cuchillo de combate de aleación de carbono y lo clavaba repetidamente en la pulpa fibrosa que la aprisionaba.</p>
+<p>Marloc Boosmar canalizó su energía mística al instante. Sus ojos centellearon con un resplandor azul cobalto mientras trazaba en el aire un complejo vector de refracción geométrica:</p>
+<p>—¡Tres vectores cinéticos sincronizados! —exclamó el tecnomante. Tres saetas de energía arcana pura brotaron de sus dedos, impactando con estrépito en la base del bulbo carnoso de la criatura y rasgando sus tejidos internos.</p>
+<p>Gerty cargó hacia delante como un ariete blindado. Sus cuatro brazos mecánicos trabajaron al unísono: los dos inferiores aferraron las lianas que sujetaban a Axel, tirando en sentido contrario con el torque descomunal de sus pistones hidráulicos, mientras los dos superiores descargaban una ráfaga devastadora con la ametralladora pesada directo a las fauces de la planta.</p>
+<p>—Analizando composición orgánica del objetivo —anunció Gerty entre el fragor del tiroteo—. Diagnóstico: lechuga hipertrofiada con tendencias homicidas. Procedo a trituración mecánica.</p>
+<p>Triel aprovechó la distracción para sobrecargar el condensador de plasma de su fusil:</p>
+<p>—¡Suelta a mi compañera, maldita mala hierba! —bramó la semi-drow, disparando un rayo crepitante que calcinó los nudos de zarcillos más gruesos.</p>
+<p>Liberada de la trampa, Axel cayó de pie sobre el barro, rodó hacia un flanco y apuntó su arma de precisión directo al corazón expuesto del bulbo vegetal. Apretó el gatillo tres veces. Los proyectiles perforantes atravesaron el núcleo ganglionar de la criatura, que convulsionó en un espasmo agónico antes de colapsar pesadamente sobre el fango, derramando un torrente de savia verdosa y hedionda.</p>
+<p>El combate concluyó con la misma rapidez con la que se había desatado.</p>
+<p>Mientras recuperaban el aliento, una sensación extraña y vibrante recorrió los cuerpos y mentes de los cuatro aventureros. Los rigores de los combates en Absalón, la supervivencia en la Roca del Drift, las intrigas de Qabarat y ahora los peligros implacables de Ukulam habían forjado una compenetración absoluta en el equipo. Sus reflejos eran más rápidos, su dominio de la tecnología y la magia más depurado, y su instinto táctico más letal.</p>
+<p>Habían alcanzado un nuevo umbral de poder y veteranía.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El mapa de la eternidad</h3>
+<p>Bajo la masa marchita de la Brasilea, Marloc descubrió los restos semidigeridos de una armadura de explorador de hacía siglos y, lo que era más valioso, un monolito secundario de piedra labrada que la vegetación había ocultado.</p>
+<p>El tecnomante limpió el barro de las inscripciones con devoción arqueológica:</p>
+<p>—Miren esto... Halkueth tenía razón. Aquí están grabados los destinos de la antigua red de caminos sagrados de Castrovel.</p>
+<p>Triel y Benray se acercaron para contemplar los glifos iluminados por la linterna de Marloc.</p>
+<p>—¿Qué dice exactamente, Boosmar? —preguntó Benray, sentándose sobre una raíz con la cantimplora en la mano.</p>
+<p>—Indica cuatro estaciones sucesivas a lo largo de este eje geográfico —leyó Marloc, señalando las columnas rúnicas—: <em>«Loskialua... Monasterio de la Canción Estelar... Embajada de las Esferas... y el Templo de los Doce»</em>. Todo apunta hacia el norte, ascendiendo por las estribaciones de la Cordillera Cantante.</p>
+<p>La noche cayó de golpe sobre la selva, como suele ocurrir bajo los densos doseles tropicales de Castrovel. El calor sofocante del día dio paso a un aire fresco y húmedo, mientras una cacofonía de aullidos lejanos, crujidos de ramas y cantos de insectos gigantes llenaba la oscuridad.</p>
+<p>El grupo montó su campamento bajo el abrigo de unos peñascos ancestrales, activando un perímetro de sensores sónicos y camuflando la entrada con lonas térmicas.</p>
+<p>Alrededor del suave brillo de una lámpara de campamento, Benray observaba las estrellas que se vislumbraban entre los escasos claros de las copas de los árboles:</p>
+<p>—Estación Absalón... la Diáspora... Apostae... —murmuró el ysoki con una melancolía impropia de su carácter burlón—. Estamos muy lejos de casa, muchachos. Si alguien me hubiera dicho hace dos meses, cuando estaba corriendo en motoneta por los muelles de la Espiga, que terminaría acampando en la jungla más peligrosa de Castrovel buscando un templo de doce soles prehistóricos, le habría escupido en el vaso.</p>
+<p>Triel sonrió levemente, limpiando con esmero una válvula de refrigeración de Gerty:</p>
+<p>—Al menos aquí los problemas son claros, Benray. En las ciudades la gente te sonríe mientras te clava un puñal corporativo por la espalda. En Ukulam, si algo quiere devorarte, viene de frente con doce tentáculos y una boca llena de dientes. Prefiero a la planta carnívora antes que a los burócratas de Extracciones Estelares.</p>
+<p>Axel permanecía sentada en el borde del campamento, con los sensores calibrados hacia la negrura de la espesura. En su pantalla interna, el mapa holográfico de Ukulam parpadeaba en silencio:</p>
+<p>—Salas y Tahomen están allá afuera, esperando en la sombra —dijo la androide con voz queda—. Y mañana descubriremos qué clase de monstruosidades han dejado para cubrir su retirada.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 49: <br><span class="chap-sub">El Perro Cthulín</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. La sombra entre los helechos</h3>
+<p>El amanecer en Ukulam no trajo alivio, sino una atmósfera aún más densa, cargada de una neblina blancuzca que reptaba entre los troncos como humo frío. La humedad goteaba incesantemente desde las frondas superiores, produciendo un golpeteo rítmico que enmascaraba cualquier sonido a más de diez metros de distancia.</p>
+<p>Desde las primeras horas de marcha, Axel tuvo la certeza de que no estaban solos.</p>
+<p>No se trataba de las alertas convencionales de movimiento en su radar táctico. Era una perturbación sutil en el patrón térmico de la maleza: ramas que se inclinaban en sentido opuesto al viento, huellas tetrapodales de cuatro garras prensiles que aparecían y desaparecían sobre el musgo, y una serie de chasquidos guturales que parecían imitar, de forma siniestra, las modulaciones de voz de una mujer lashunta.</p>
+<p>—Nos están cazando —advirtió Axel, alzando un puño enguantado para ordenar el alto.</p>
+<p>El grupo se replegó de inmediato en formación defensiva en torno a Gerty.</p>
+<p>—¿Otra planta carnívora? —preguntó Benray en un susurro tenso, empuñando su pistola mientras Atmos giraba sobre su eje barriendo el follaje.</p>
+<p>—No —respondió Marloc, examinando con su escáner una rama quebrada a la altura de su pecho—. Las marcas son biológicas pero aberrantes. Tejido vegetal fusionado con fibras musculares animales. Hay secreción de toxinas fúngicas en la corteza.</p>
+<p>De súbito, un proyectil orgánico silbó a través de la bruma. Una espina gruesa como un dardo balístico, recubierta de púas microscópicas y un mucus verdoso, impactó contra la junta pectoral del blindaje de Axel. La punta atravesó el tejido elástico de polímero, clavándose en la malla sintética de su costado.</p>
+<p>La androide soltó un quejido sordo, arrancándose el dardo de un tirón. Una sustancia lechosa y ardiente comenzó a filtrarse bajo su dermis artificial.</p>
+<p>—¡Contacto hostil a las dos en punto! —anunció Axel con la voz tensa por el dolor.</p>
+<p>Entre los helechos gigantes se recortó la figura de la criatura: un cuadrúpedo monstruoso de dos metros de alzada, con cuerpo musculoso cubierto de placas quitinosas y musgo parasitario. Su cabeza carecía de ojos visibles; en su lugar, un racimo de tentáculos carnosos y sibilantes colgaba sobre unas fauces circulares repletas de dientes retráctiles. Parecía una pesadilla Lovecraftiana engendrada en las entrañas de la selva: un <strong>Khasari</strong>, la aberración depredadora que los exploradores llamaban con humor negro el «perro Cthulín».</p>
+<p>La bestia disparó una nueva ráfaga de espinas desde su lomo jorobado antes de desvanecerse en la espesura con una velocidad prodigiosa.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La agonía de Aravask</h3>
+<p>—Axel, déjame ver esa herida —ordenó Triel con urgencia, corriendo hacia su compañera con el botiquín de campaña en la mano.</p>
+<p>Al retirar la placa del blindaje, un escalofrío recorrió al grupo. La carne sintética alrededor de la perforación no sangraba fluido hidráulico normal: una red de filamentos miceliales oscuros comenzaba a ramificarse bajo la piel, palpitando con un crecimiento monstruosamente acelerado.</p>
+<p>—Esporas carroñeras... —diagnosticó Marloc con gravedad tras escanear la zona—. Es un parásito micótico agresivo. El Khasari las utiliza para debilitar y corromper a sus presas vivas antes de alimentarse de ellas. Si no neutralizamos el ciclo celular, los hongos devorarán la estructura interna en cuestión de horas.</p>
+<p>—El antibiótico de amplio espectro frenará el avance temporalmente —dijo Triel, inyectando un suero térmico en el torso de la androide—, pero tenemos que cazar a esa cosa antes de que vuelva a atacarnos.</p>
+<p>Siguiendo el rastro de savia corrupta y ramas quebradas que el monstruo dejaba a su paso, el pelotón avanzó con cautela hacia una concavidad natural formada por las raíces aéreas de un árbol milenario.</p>
+<p>Allí, desplomada sobre un lecho de hojas húmedas y rodeada de moscas carroñeras, yacía una figura humanoide.</p>
+<p>Marloc y Benray se acercaron con las armas en ristre. Se trataba de una mujer lashunta, de complexión atlética pero demacrada hasta los huesos. Tenía la cabeza completamente afeitada y, marcada a fuego en la piel de su frente, destacaba una cicatriz ritual inconfundible: un círculo hendido por una línea quebrada, el emblema sagrado del <strong>Culto del Devorador</strong>.</p>
+<p>Su cuerpo estaba en un estado atroz. Esporas púrpuras y tumores fúngicos le cubrían los brazos y el pecho, y la fiebre consumía sus últimos destellos de conciencia.</p>
+<p>—Es... una de ellos —susurró Benray, retrocediendo un paso con una mezcla de horror y desprecio—. Una cultista de Tahomen.</p>
+<p>La mujer entreabrió unos ojos lechosos y enrojecidos, clavando la mirada en los aventureros. Sus labios resecos se movieron con un hilo de voz quebrado:</p>
+<p>—Aravask... mi nombre es Aravask... —balbuceó, tosiendo una flema ennegrecida—. Salas... Tahomen... me dejaron atrás... cuando las esporas me alcanzaron... Dijeron que la debilidad... no tiene lugar en el festín del Devorador...</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El señuelo y el tiro de gracia</h3>
+<p>Antes de que pudieran interrogar a la fanática moribunda, un crujido ominoso sobre sus cabezas anunció el regreso del depredador.</p>
+<p>El Khasari se había encaramado a las raíces superiores del árbol y se preparaba para abalanzarse sobre el pelotón con las fauces abiertas de par en par. Sus tentáculos faciales latían con hambre homicida.</p>
+<p>—¡Cuidado arriba! —gritó Triel, alzando su fusil.</p>
+<p>Benray reaccionó con la velocidad de un rayo. Arrojando al suelo un proyector holográfico portátil de su pechera, el ysoki activó una simulación visual a tamaño real de sí mismo, proyectando la imagen de un roedor chillón y desarmado que corría dando traspiés en dirección opuesta:</p>
+<p>—¡Por aquí, bicho asqueroso! ¡Mira qué aperitivo más jugoso y fácil de masticar!</p>
+<p>La aberración mordió el anzuelo por completo. Confundida por la distracción holográfica y el chillido de los altavoces, desvió su salto, aterrizando pesadamente sobre la proyección vacía y clavando sus garras en el aire.</p>
+<p>Axel no desaprovechó la fracción de segundo que Benray le había regalado.</p>
+<p>Ignorando el dolor punzante de las esporas que ardían en su costado, la androide hincó una rodilla en el fango, alineó el punto de mira holográfico de su fusil de hielo y contuvo la respiración. Sus circuitos de puntería calcularon la trayectoria balística perfecta, el viento y la densidad de la bruma.</p>
+<p>Un solo disparo. Una ejecución matemática perfecta.</p>
+<p>El haz criogénico atravesó con estruendo el aire de la selva e impactó con precisión absoluta justo en el centro de la cabeza del Khasari, destrozando su caja craneal quitinosa en una explosión de escarcha, hueso y tejido vegetal corrupto.</p>
+<p>La mole cayó de costado, pataleando espasmódicamente antes de quedar completamente inmóvil sobre el fango.</p>
+<p>Benray soltó un largo silbido de admiración, recogiendo su proyector:</p>
+<p>—Eso es lo que yo llamo un veinte natural en puntería, señorita 42.</p>
+<p>Axel bajó el arma lentamente, mientras una gota de refrigerante azul resbalaba por su mejilla metálica. Tras ellos, en la penumbra de las raíces, la respiración agónica de Aravask comenzaba a apagarse, confrontando al grupo con un dilema que ninguna bala podía resolver.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 50: <br><span class="chap-sub">Promesas del Destructor</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. El disparo de piedad</h3>
+<p>El cadáver del Khasari yacía inerte sobre el barro, pero la verdadera tragedia se desarrollaba bajo la bóveda de raíces retorcidas.</p>
+<p>Marloc Boosmar se arrodilló junto al cuerpo consumido de Aravask. Con las manos enguantadas, aplicó el biodiagnosticador de su equipo médico sobre el cuello de la lashunta. Los números holográficos parpadearon en rojo carmesí, acompañados por un pitido fúnebre: las esporas carroñeras habían colonizado más del ochenta por ciento de sus órganos vitales. Los hongos brotaban ya a través de sus fosas nasales y cuencas orbitales, devorando las sinapsis neuronales en un proceso de necrosis atroz.</p>
+<p>—Está en fase terminal irreversible —dictaminó Marloc, con la voz apagada por la impotencia—. No hay antídoto ni intervención quirúrgica en los Mundos del Pacto capaz de reconstruir un organismo en este estado. En cuestión de minutos, la infección llegará al tronco encefálico y sufrirá convulsiones agónicas hasta que sus pulmones colapsen.</p>
+<p>Aravask abrió la boca, dejando escapar una bocanada de esporas fétidas. Una sonrisa demencial y temblorosa se dibujó en sus labios agrietados:</p>
+<p>—El Devorador... no promete salvación... ni consuelo... —susurró con una devoción febril que heló la sangre de los presentes—. Promete el fin... la nada absoluta... la hermosa quietud del vacío donde nada siente dolor... Por favor... no me dejen pudrir viva entre los gusanos... denme la paz que Tahomen me negó...</p>
+<p>Triel apartó la mirada, apretando los puños con rabia:</p>
+<p>—Es una asesina, una fanática del culto que secuestró a Solstarni... pero nadie merece morir así. Ni siquiera ella.</p>
+<p>Axel dio un paso al frente con el arma en la mano, dispuesta a cumplir la sombría tarea con fría eficiencia militar, pero una pequeña mano enguantada se posó con firmeza sobre su antebrazo.</p>
+<p>Era Benray.</p>
+<p>El rostro del ysoki, habitualmente chispeante de picardía y bromas insolentes, mostraba una solemnidad implacable. Sus ojos oscuros reflejaban el peso de quien ha visto demasiadas muertes en los bajos fondos de la galaxia.</p>
+<p>—Déjamelo a mí, Axel —dijo en voz baja, desenfundando su pistola balística—. Hay cosas que una máquina de combate no debería tener que cargar en sus bancos de memoria.</p>
+<p>Benray se arrodilló frente a la cultista. Miró a los ojos a la mujer que había jurado la aniquilación de toda vida sintiente en el universo:</p>
+<p>—A veces hay que dejar algunos atrás —dijo el emisario con una suavidad cargada de compasión—. Pero en mi guardia nadie muere como abono para las alimañas. Buen viaje al vacío, Aravask.</p>
+<p>Un único disparo limpio y seco resonó bajo la cúpula de raíces.</p>
+<p>El cuerpo de la lashunta se destensó para siempre.</p>
+<p>Durante la siguiente media hora, bajo la mirada silenciosa de Gerty, el grupo excavó una fosa profunda en la tierra húmeda. Envolvieron los restos de Aravask en una lona térmica sellada para evitar la dispersión de las esporas y cubrieron la tumba con pesados sillares de piedra, rindiendo un tributo de dignidad elemental que el propio culto de la difunta jamás le habría concedido.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La tormenta de moho</h3>
+<p>Apenas terminaron de colocar la última piedra, la atmósfera de Ukulam cambió de forma drástica y amenazadora.</p>
+<p>La temperatura cayó en picado varios grados en cuestión de segundos. El cielo sobre las copas de los árboles adquirió una tonalidad verdosa y sulfurosa, semejante a un hematoma cósmico, mientras un viento huracanado comenzó a sacudir las ramas superiores con furia salvaje.</p>
+<p>Marloc consultó con alarma su sensor meteorológico:</p>
+<p>—¡Alerta ambiental de nivel cuatro! ¡Es una tormenta de moho!</p>
+<p>—¿Una qué? —preguntó Benray, guardando la pala de campaña.</p>
+<p>—Los ciclos biogeoquímicos de Castrovel —explicó Marloc a gritos sobre el bramido creciente del vendaval—. Cada cierto tiempo, millones de hongos a lo largo de cientos de kilómetros cuadrados sincronizan su floración fúngica y liberan billones de toneladas de esporas cáusticas a la atmósfera al mismo tiempo. El aire se vuelve tóxico y corrosivo; respirarlo sin filtros industriales disuelve los alvéolos pulmonares en diez segundos, y la acidez es capaz de picar los sellos de polímero de nuestras armaduras. ¡Tenemos que encontrar refugio subterráneo de inmediato!</p>
+<p>Guiados por los sensores de relieve de Axel, el pelotón corrió hacia una pared rocosa donde una grieta profunda entre dos bloques graníticos ofrecía un abrigo natural. Se introdujeron a toda prisa en la hendidura, desplegando lonas magnéticas presurizadas y anclando el chasis de Gerty como escudo frontal para sellar la entrada contra el vendaval.</p>
+<p>Apenas aseguraron el perímetro, la tormenta se desató en el exterior. Una niebla espesa, de color ocre y amarillo mostaza, cubrió la selva entera, reduciendo la visibilidad a cero mientras el siseo del ácido fúngico royendo la roca resonaba como lluvia de grava contra el exterior del refugio.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El rugido en la penumbra</h3>
+<p>Atrapados en la estrechez de la grieta, los cuatro aventureros y el meca pasaron las horas en un tenso silencio, vigilando los monitores térmicos mientras la tormenta rugía afuera.</p>
+<p>Al filo de la medianoche, cuando el viento comenzaba a amainar tímidamente, los sensores de proximidad de Gerty emitieron un doble chirrido de alarma.</p>
+<p>—Firma biométrica gigante detectada a doce metros de la entrada —anunció el sintetizador vocal del robot—. Masa estimada: tres coma dos toneladas. Patrón de movimiento: bípedo depredador.</p>
+<p>A través de la rendija de la lona térmica, dos globos oculares de un amarillo fosforescente brillaron en la oscuridad de la tormenta.</p>
+<p>La criatura olfateó la hendidura con un bufido gutural que hizo vibrar las piedras. Era un <strong>Renkruda barbado</strong>, el superdepredador reptiliano ápice de las selvas altas de Ukulam: un terópodo carnívoro de más de cuatro metros de altura, cubierto de escamas verde oliva y dotado de una mandíbula masiva orlada de zarcillos sensitivos y garras capaces de desgarrar el casco de una lanzadera de asalto.</p>
+<p>La bestia, enloquecida por el olor a sangre de la tumba cercana y la irritación de las esporas en sus escamas, arremetió con furia ciega contra la lona del refugio, tratando de arrancar el blindaje de Gerty con sus fauces.</p>
+<p>—¡Fuego a discreción! —bramó Triel, encendiendo el condensador de plasma de su arma.</p>
+<p>El tiroteo en el espacio confinado fue ensordecedor. Marloc desató una tormenta de chispas electromagnéticas que cegó momentáneamente al monstruo, mientras Axel disparaba ráfagas perforantes en línea recta hacia el paladar abierto de la bestia. Gerty descargó un golpe demoledor con su puño hidráulico en el morro del reptil, haciéndolo retroceder con un alarido de dolor.</p>
+<p>Herido de gravedad y desconcertado por la feroz resistencia de la presa, el Renkruda barbado sacudió la cabeza, lanzó un último rugido hacia la grieta y se dio a la fuga a zancadas pesadas, perdiéndose en la negrura de la jungla azotada por el viento.</p>
+<p>Cuando el sol volvió a despuntar entre las nubes amarillentas de la mañana, la tormenta de moho se había disipado, dejando una capa de polvo fúngico inerte sobre el paisaje calcinado.</p>
+<p>Ante ellos, recortándose nítida contra el cielo matutino, se alzaba por fin la majestuosa muralla de piedra de la <strong>Cordillera Cantante</strong>. El ascenso hacia el santuario de las estrellas estaba a punto de comenzar.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 51: <br><span class="chap-sub">La Senda de los Monstruos</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. El coloso de piedra dormido</h3>
+<p>El ascenso hacia las faldas de la Cordillera Cantante supuso un cambio radical en la geografía de Ukulam. La selva húmeda y pantanosa comenzó a ceder terreno ante empinadas pendientes de roca volcánica, quebradas kársticas y densos bosques de coníferas gigantes cuyas copas silbaban al paso del viento montañoso. Aquel sonido continuo, semejante a un coro polifónico de lamentos y susurros cósmicos, daba nombre a la cordillera.</p>
+<p>Al doblar un estrecho desfiladero flanqueado por precipicios vertiginosos, el pelotón se topó de pronto con una de las mayores maravillas arquitectónicas del mundo pre-Brecha.</p>
+<p>Esculpido directamente en la pared viva de una montaña de granito de más de cien metros de altura, reposaba el monumento conocido en los mapas de Halkueth como <strong>El Elfo Reclinado</strong>, también llamado en crónicas ancestrales el <em>Guardián de la Plaga</em>.</p>
+<p>La efigie representaba a un dignatario élfico de facciones nobles y serenas, descansando de costado con un brazo apoyado bajo la cabeza y la otra mano extendida hacia el valle. La escultura era tan gigantesca que la sola cabeza del elfo medía más de ocho metros de diámetro, y su cuerpo labrado en la peña albergaba en su interior cámaras y galerías ceremoniales. Alrededor de la silueta titánica, los antiguos canteros habían grabado doce círculos astrales que representaban las doce constelaciones sagradas de Castrovel, convergiendo todas ellas hacia un disco central esculpido sobre el pecho de la figura.</p>
+<p>Marloc contempló el monumento con una reverencia sobrecogedora:</p>
+<p>—Halkueth tenía razón... Esta colosal escultura custodiaba el acceso al valle interior de Loskialua. Los doce símbolos astronómicos que rodean el torso son idénticos a las matrices rúnicas que descubrimos en la Roca del Drift. La conexión estelar entre la superarma y este santuario es inequívoca.</p>
+<p>—Y según parece —observó Benray, señalando con el cañón de su arma hacia la base del coloso—, hay una entrada tallada en la roca justo debajo del hombro de la estatua. Una escalinata de piedra asciende hacia lo que parece un pórtico ceremonial.</p>
+<p>Axel, sin embargo, no miraba la base. Sus sensores de rastreo de largo alcance estaban fijados en las alturas, justo en la coronilla de la cabeza del elfo de piedra, a más de setenta metros de elevación.</p>
+<p>Un destello metálico reflejó la luz del sol entre los mechones esculpidos en la roca.</p>
+<p>—¡Cuerpo a tierra! —gritó la androide.</p>
+<p>Un proyectil hipersónico de alta energía desgarró el aire con un trueno ensordecedor. La bala perforante estalló contra el suelo de grava a escasos centímetros de las botas de Benray, pulverizando la roca en una nube de metralla incandescente y arrojando al ysoki de espaldas contra un talud.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La risa del verdugo</h3>
+<p>—¡Francotirador en la azotea! —aulló Benray rodando frenéticamente hacia la cobertura de un peñasco—. ¡Y tiene mejor fusil que el mío! ¡Por la gran cola de mi abuela, eso casi me afeita los bigotes!</p>
+<p>Desde la cumbre de la cabeza del coloso de piedra, una voz bronca y desquiciada, amplificada por un megáfono táctico militar, resonó en el desfiladero con una carcajada estridente:</p>
+<p>—¡Bienvenidos a la función, ratas de Absalón! —bramó la tiradora—. ¡Soy <strong>Salas</strong>, exoficial de la gloriosa Legión del Fuego en el Cielo! ¡El maestro Tahomen me prometió que vendrían siguiendo el rastro de la pequeña Aravask! ¡Qué lástima que hayan llegado tarde para el banquete!</p>
+<p>Triel apretó los dientes, asomando el cañón de su fusil desde el flanco derecho:</p>
+<p>—¡Es la sádica de la Legión! ¡La que alimenta a las bestias con sus propios reclutas!</p>
+<p>—¡Exacto, pequeña mestiza! —rugió Salas desde su nido de águilas—. ¡Tahomen y la doctora Solstarni ya están en el templo desentrañando los secretos de los dioses! ¡Mi trabajo aquí es muy simple: asegurarme de que ustedes sirvan de carne fresca para la criatura más hermosa y perfecta de esta montaña! ¡Observen el cielo y tiemblen ante la magnificencia del vacío!</p>
+<p>Un segundo disparo del fusil pesado de Salas rebotó contra el blindaje del hombro de Gerty, despidiendo una lluvia de chispas pero sin penetrar la coraza de aleación templada.</p>
+<p>—Registrando impacto de proyectil cinético de siete coma sesenta y dos milímetros —reportó Gerty con flema mecánica—. Chasis intacto. Notificación al hostil: su puntería es tan deplorable como su sentido de la elegancia indumentaria.</p>
+<p>Sin embargo, las palabras de Salas no eran una simple baladronada demente.</p>
+<p>El aire sobre el desfiladero comenzó a distorsionarse de forma siniestra.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El depredador invisible</h3>
+<p>No hubo sonido de alas ni rastro térmico en los escáneres.</p>
+<p>De repente, una perturbación óptica en el cielo despejado descendió en picado a una velocidad vertiginosa. Una sombra transparente, semejante a una gigantesca manta-raya estelar de más de cinco metros de envergadura, se materializó a escasos metros sobre las cabezas de los aventureros.</p>
+<p>Era un <strong>Oshiga</strong>, un superdepredador aéreo autóctono de las altas cumbres de Castrovel. La bestia poseía un cuerpo aplanado y sinuoso de color grisáceo que se mimetizaba perfectamente con la luz ambiental, largas alas cartilaginosas bordeadas de púas venenosas y una cola látigo erizada de ganchos óseos. Pero lo más aterrador residía en su parte ventral: una abertura circular semejante al pico córneo de un calamar gigante, repleta de anillos concéntricos de dientes serrados de los que rezumaba una saliva ácida y corrosiva.</p>
+<p>—¡Arriba! ¡Está encima de nosotros! —gritó Marloc, desatando una llamarada defensiva con su cetro tecnomántico.</p>
+<p>El Oshiga esquivó el fuego arcano con una maniobra acrobática prodigiosa y extendió dos largos tentáculos prensiles desde sus bordes alares. Los zarcillos se cerraron como tenazas de acero en torno a la cintura de Triel Istrav, levantándola del suelo con un tirón brutal.</p>
+<p>—¡Triel! —bramó Benray, disparando a la criatura mientras el dron Atmos se elevaba en persecución.</p>
+<p>La semi-drow pataleó en el aire, intentando clavar su pica en el cuerpo del monstruo, pero la fuerza ascensional del Oshiga era imparable. En cuestión de segundos, la criatura se elevó diez metros sobre el desfiladero, atrayendo el cuerpo indefenso de Triel directamente hacia el abismo insaciable de su pico triturador.</p>
+<p>Desde lo alto de la cabeza de piedra, la risa enloquecida de Salas atronó en el viento de la montaña:</p>
+<p>—¡Eso es, mi pequeña belleza! ¡Trágatela entera! ¡Que empiece el festín!</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 52: <br><span class="chap-sub">¡Trielicioso!</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. En las fauces del monstruo alado</h3>
+<p>Suspendida a más de quince metros del suelo pedregoso, Triel Istrav vio el rostro de la muerte más de cerca que nunca en su vida.</p>
+<p>El hedor a carroña ácida que emanaba del pico del Oshiga era insoportable. Las hileras concéntricas de dientes serrados giraban como las cuchillas de una turbina industrial a escasos centímetros de su rostro, mientras los tentáculos musculosos de la bestia le aplastaban las costillas con una fuerza descomunal. Las secreciones gástricas del monstruo salpicaban la pechera de su traje de combate, provocando un siseo corrosivo y quemando las fibras sintéticas de su hombrera.</p>
+<p>—¡Triel! —el grito desesperado de sus compañeros resonó por el intercomunicador de su casco.</p>
+<p>La joven semi-drow apretó los dientes con una furia salvaje. El dolor era atroz, pero el instinto de supervivencia que la había mantenido con vida en las calles más duras de la Diáspora se encendió como un reactor sobrecargado.</p>
+<p>Aferró con ambas manos la empuñadura de su pica de asalto de alta frecuencia, concentrando toda la energía de su batería en la punta electrificada:</p>
+<p>—¡Si crees que vas a comerme cruda, bicho degenerado —rugió Triel escupiendo sangre—, vas a tener que tragarte esta lanza primero!</p>
+<p>Con un empuje desesperado, hundió la hoja de la pica en el paladar blando de la bestia, descargando una potente sobrecarga voltaica en el interior de su cráneo. El Oshiga soltó un alarido ultrasónico desgarrador que reverberó en todo el valle, batiendo sus alas en un espasmo de dolor ciego que aflojó levemente la presión de sus tentáculos.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Fuego cruzado en el precipicio</h3>
+<p>En tierra firme, el pelotón desató un despliegue de fuego coordinado y feroz.</p>
+<p>Salas continuaba disparando desde la coronilla de la estatua de piedra, intentando abatir a los compañeros de Triel para impedir el rescate. Una bala de gran calibre destrozó una de las ópticas secundarias del dron Atmos, haciéndolo girar en el aire antes de que Benray lograra estabilizarlo tras una roca.</p>
+<p>—¡Marloc, cúbreme con un campo de dispersión! —ordenó Axel, plantándose a pecho descubierto en medio del camino de grava.</p>
+<p>La androide ignoró deliberadamente al francotirador enemigo. Calculó en una fracción de milisegundo el vector de movimiento del Oshiga en pleno vuelo, compensando el balanceo del cuerpo de Triel atrapado entre sus zarcillos. Respiró hondo, fijó la mira térmica en el corazón expuesto de la criatura y disparó dos veces seguidas con el fusil de hielo.</p>
+<p>Los proyectiles criogénicos penetraron en la masa muscular del monstruo, congelando sus tejidos conectivos y quebrando su capacidad de sustento aéreo.</p>
+<p>Simultáneamente, Marloc Boosmar descargó una andanada de proyectiles luminosos con su cetro tecnomántico, impactando en las alas membranosas de la bestia y desgarrando el cartílago que la mantenía en el aire.</p>
+<p>Gerty, calculando la parábola de caída con fría precisión analítica, activó sus propulsores de emergencia en las piernas y se lanzó hacia delante, estirando sus cuatro brazos mecánicos hacia el cielo:</p>
+<p>—Trayectoria de intercepción calculada —anunció el meca con voz rotunda—. Aviso a la operadora Istrav: prepárese para un aterrizaje relativamente brusco pero mecánicamente eficiente.</p>
+<p>El Oshiga, mortalmente herido por la pica de Triel y los disparos concentrados del equipo, dobló sus alas en espiral y se precipitó al vacío como un proyectil descontrolado.</p>
+<p>Triel se soltó de los tentáculos moribundos a cinco metros del suelo. Cayó directamente sobre el chasis acolchado de Gerty, cuyos amortiguadores hidráulicos absorbieron el brutal impacto con un chirrido metálico.</p>
+<p>La gigantesca bestia alada se estrelló contra los peñascos a pocos metros de distancia, rebotando en el lecho de roca antes de quedar completamente inmóvil, ensartada en su propia lanza y rodeada por un charco humeante de savia corrosiva.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El asalto a la base del titán</h3>
+<p>—¡Malditos seáis todos! —rugió la voz desquiciada de Salas a través de los riscos, mientras disparaba una ráfaga continua con su fusil automático, astillando el suelo alrededor del grupo—. ¡Habéis matado a mi pequeña! ¡Os juro que os arrancaré la piel a tiras y se la daré de comer a los buitres de la cumbre!</p>
+<p>—¡Muévete, muévete! —urgió Benray, agarrando a Triel por el brazo y ayudándola a incorporarse mientras Gerty interponía su imponente blindaje dorsal contra las balas de Salas.</p>
+<p>—Estoy bien... solo me duele hasta el alma —gruñó la mecánica, limpiándose la sangre de la barbilla y comprobando que ningún hueso estuviera roto—. Menudo viaje... gracias por atraparme, grandullón.</p>
+<p>—De nada, operadora Istrav —respondió Gerty mientras los proyectiles enemigos rebotaban inofensivamente en su lomo blindado—. Recomiendo enfáticamente que en futuras ocasiones evite convertirse en el plato principal del menú gastronómico local.</p>
+<p>Bajo la cobertura impenetrable del meca y los disparos de supresión de Axel, el pelotón ascendió a la carrera por la escalinata labrada en la roca, alcanzando el umbral que se abría en el hombro del coloso de piedra.</p>
+<p>El pórtico estaba flanqueado por dos columnas monolíticas esculpidas con rostros de guerreros élficos pre-Brecha. Al cruzar el arco ceremonial, el fuego de francotirador de Salas cesó de golpe, amortiguado por los pesados muros de granito de la montaña.</p>
+<p>Ante ellos se abría un túnel descendente excavado en las entrañas del monumento, tenuemente iluminado por un liquen fosforescente de color turquesa.</p>
+<p>Axel recargó su arma y miró hacia la galería que conducía a las cámaras interiores:</p>
+<p>—Salas está acorralado en la cabeza de la estatua, en el nivel superior. Ya no tiene dónde correr.</p>
+<p>—Y tiene una deuda pendiente con esta tripulación —sentenció Benray con una sonrisa gélida—. Subamos a cobrarla.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 53: <br><span class="chap-sub">El Elfo Reclinado</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Las galerías del silencio</h3>
+<p>El interior del coloso de granito albergaba una red de galerías y cámaras ceremoniales de una escala asombrosa. Lejos de ser una tosca caverna excavada a golpe de pico, los muros estaban pulidos como el cristal de una nave y decorados con bajorrelieves de una finura exquisita. Representaban escenas de astrónomos élficos observando las constelaciones con instrumentos ópticos dorados, ceremonias de consagración estelar y la veneración a una entidad protectora identificada en los glifos como «El Mensajero del Más Allá».</p>
+<p>A medida que el grupo avanzaba por la galería principal, una sensación de mareo y presión intracraneal comenzó a afectar a los miembros biológicos del equipo.</p>
+<p>Benray se frotó las sienes con una mueca de dolor:</p>
+<p>—Uff... ¿alguien más siente como si tuviera una colonia de avispas zumbando dentro del cráneo? Me tiemblan hasta los bigotes.</p>
+<p>—Es una resonancia psíquica residual —explicó Marloc, apoyando una mano en la pared para no perder el equilibrio—. La piedra de este santuario está impregnada de emanaciones telúricas sintonizadas con las longitudes de onda del cerebro élfico y lashunta. Para mentes no entrenadas, la distorsión crea un campo de desorientación sensorial.</p>
+<p>Al fondo de la primera gran sala hipóstila, el agua pura de un manantial de montaña brotaba de la boca de un león de piedra, cayendo sobre una <strong>pila bautismal</strong> de mármol blanco impoluto. El agua no solo era cristalina, sino que desprendía un suave fulgor turquesa que neutralizaba la penumbra del recinto.</p>
+<p>—Halkueth escribió sobre esto en su diario —recordó Marloc, acercándose a la fuente—. La llamaba la <em>Fuente de la Purificación Mental</em>. Los antiguos peregrinos se lavaban el rostro aquí antes de ascender a las cámaras superiores para purificar sus pensamientos.</p>
+<p>Triel fue la primera en dar un paso al frente. Sumergió las manos en el agua helada y se humedeció las mejillas y la frente. Al instante, un suspiro de alivio brotó de su garganta: el dolor punzante en sus sienes se disipó como el humo, reemplazado por una lucidez cristalina y una sensación de vigor renovado.</p>
+<p>—Santo cielo... funciona de verdad —dijo la mecánica, invitando a Benray y Marloc a hacer lo mismo—. Es como si te reiniciaran los procesadores neuronales con agua bendita.</p>
+<p>Benray hundió el hocico entero en la pila, resoplando con regocijo:</p>
+<p>—¡Ay, qué gloria! Hasta el sabor a fruta podrida se me ha quitado de la boca. Gerty, ¿tú no quieres un chapuzón purificador?</p>
+<p>—Mis circuitos electroquímicos son absolutamente puros por diseño de fábrica —replicó Gerty—. Además, la inmersión en fluidos no dieléctricos anula la garantía de mis articulaciones de rodilla.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La emboscada en la azotea</h3>
+<p>Con los sentidos restablecidos y la mente despejada, el pelotón emprendió la ascensión a través de una empinada escalera de caracol labrada en la espina dorsal del monumento. Los escalones, desgastados por milenios de pisadas, ascendían en espiral cerrada hacia la parte superior de la cabeza del elfo de piedra.</p>
+<p>En los descansillos, los sensores de Axel detectaron cables trampa y pequeñas cargas de percusión improvisadas por Salas para cubrir su retirada:</p>
+<p>—Cables de detonación a la altura del tobillo —advirtió la androide, desactivando el primer dispositivo con la punta de su cuchillo de combate—. Salas está jugando a la guerra de desgaste. Sabe que no tiene salida y está desesperado.</p>
+<p>Al alcanzar el último rellano, una compuerta de piedra entreabierta daba paso a la cámara interior que formaba la bóveda craneal de la efigie. Dos grandes aberturas ovaladas, correspondientes a los ojos del coloso, servían de ventanales panorámicos con vistas a todo el desfiladero y la cordillera.</p>
+<p>Apenas Axel asomó el visor térmico por la rendija, una ráfaga fulminante de ametralladora pesada astilló el marco de piedra.</p>
+<p>—¡Entrad si tenéis agallas, engendros de la Espiga! —bramó Salas desde el interior de la sala, atrincherado tras una barricada de cofres ceremoniales y piedras arrancadas—. ¡De aquí no sale nadie vivo!</p>
+<p>—¡Gerty, rompe la puerta! —ordenó Triel.</p>
+<p>El meca cargó con todo su tonelaje, embistiendo los batientes de piedra con el hombro derecho. La puerta saltó en pedazos de granito, inundando la sala de polvo y cascotes.</p>
+<p>Salas arrojó una granada de fragmentación justo al centro del pasillo. Marloc, anticipando la explosión, extendió su báculo y generó una cúpula de energía cinética que contuvo la onda expansiva y desvió la metralla contra las paredes.</p>
+<p>A través del humo, Axel y Benray avanzaron en pinza táctica.</p>
+<p>El ysoki rodó con agilidad por el suelo, atrayendo el fuego de Salas hacia una columna rota:</p>
+<p>—¡Aquí estoy, exoficial de pacotilla! ¿Esto es lo mejor que te enseñaron en la Legión? ¡Mi prima de seis años tiene mejor dispersión de tiro!</p>
+<p>Salas giró su fusil hacia el roedor, rugiendo de ira, pero ese único segundo de distracción selló su destino.</p>
+<p>Desde el flanco opuesto, Axel emergió con el fusil de precisión apoyado con firmeza en el hombro. Su fotosensor brilló con un destello carmesí implacable. La línea de tiro era limpia, atravesando la mirilla entre dos placas de la barricada.</p>
+<p>El disparo de hielo atravesó el aire con un chasquido helado.</p>
+<p>El proyectil impactó directamente en la sien derecha de Salas. La veterana renegada se desplomó pesadamente hacia atrás sobre el lecho de cofres rotos, con el fusil cayendo de sus manos inertes.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El botín del renegado</h3>
+<p>Un silencio sobrecogedor se adueñó de la cámara en lo alto de la cabeza de piedra. A través de las cuencas oculares del coloso, la brisa de la montaña entraba fresca y limpia, disipando el humo de los disparos.</p>
+<p>Benray se acercó al cuerpo sin vida de Salas y le dio un puntapié a su arma para alejarla:</p>
+<p>—Fin de la cacería. Ya no alimentarás a más monstruos con gente inocente, desgraciada.</p>
+<p>Marloc y Triel inspeccionaron el equipo de la tiradora.</p>
+<p>—Un rifle de francotirador militar de largo alcance, modelo personalizado con estabilizadores gravitacionales y mira de refracción cuántica —evaluó Axel, recogiendo el arma con aprecio profesional—. Una pieza de armamento excelente.</p>
+<p>—Y miren esto —dijo Triel, extrayendo de la pechera de Salas un <strong>datapad militar encriptado</strong> con sellos de seguridad de alto nivel de la Legión del Fuego en el Cielo—. Está conectado a la holored satelital de Castrovel y contiene registros de comunicaciones recientes.</p>
+<p>—¿Puedes descifrarlo, Triel? —preguntó Marloc con curiosidad encendida.</p>
+<p>La semi-drow sonrió, conectando un cable de derivación desde su omniherramienta a los puertos de datos del dispositivo:</p>
+<p>—Boosmar, cariño... los militares de la Legión creen que sus contraseñas de ocho dígitos son invulnerables. Dame diez minutos con Gerty actuando de puente procesador y te diré hasta qué marca de pasta de dientes usaba este fanático.</p>
+<p>El pelotón se acomodó en la cámara de la cumbre, asegurando los accesos para proceder al hackeo que les revelaría por fin los verdaderos planes de Tahomen.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 54: <br><span class="chap-sub">Ecos en la Cumbre</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Los secretos del datapad</h3>
+<p>El proceso de desencriptado del datapad militar de Salas tomó poco más de un cuarto de hora. Triel, sentada con las piernas cruzadas sobre un cofre ceremonial de piedra, manipulaba su consola de diagnóstico mientras Gerty servía de servidor de fuerza bruta, quebrando los cortafuegos del ejército con la potencia de sus procesadores redundantes.</p>
+<p>—Acceso concedido —anunció Triel con una sonrisa de satisfacción—. Las defensas de la Legión son muy rígidas, pero carecen de imaginación frente a un desvío cuántico bien colocado.</p>
+<p>Marloc y Benray se inclinaron sobre la pantalla holográfica que flotaba entre ellos.</p>
+<p>El primer bloque de datos contenía las comunicaciones encriptadas entre Salas y el líder del culto, <strong>Tahomen</strong>:</p>
+<p>—Escuchen esto —leyó Marloc en voz baja—: <em>«La profesora Solstarni ha completado la traducción de las runas preliminares en las puertas del santuario. Hemos superado las trampas del patio exterior. Asegura la retaguardia en el monumento del vigía y no permitas que nadie alcance la ciudad baja. Una vez que el portal sea activado, este mundo entero contemplará la gloria del Devorador»</em>.</p>
+<p>—Tahomen está a punto de lograr su objetivo —observó Axel con frialdad—. Si ya tiene traducidas las inscripciones de acceso, solo le falta cruzar el umbral del templo interior.</p>
+<p>Sin embargo, el datapad contenía otros archivos de naturaleza mucho más perturbadora. Salas almacenaba gigabytes de retransmisiones clandestinas de espectáculos gladiatorios de Eox: combates a muerte entre prisioneros y monstruos carnívoros del Vasto, grabaciones sádicas que el exoficial consumía con devoción enfermiza.</p>
+<p>Pero al explorar una carpeta oculta etiquetada como «Curiosidades de la Espiga», la pantalla proyectó un holograma que dejó a todos helados.</p>
+<p>En la imagen tridimensional apareció un ysoki mucho más joven, vestido con una chaqueta chillona de cuero sintético y unas gafas de soldador sobre la frente, encaramado de forma temeraria en la barandilla de una pasarela exterior en el Nivel 21 de la Estación Absalón, con el abismo del vacío estelar a sus espaldas:</p>
+<p><em>«¡Hola a todos, dementes de la holored! ¡Soy Benray Galway y hoy vamos a demostrar que la gravedad es una simple sugerencia para los roedores de la Espiga! ¡Tres, dos, uno... al vacío!»</em>.</p>
+<p>En el vídeo, el joven Benray se lanzaba en una caída libre suicida sobre una motoneta antigravitatoria trucada, esquivando conductos de escape de plasma a toda velocidad mientras profería gritos de júbilo ante la cámara.</p>
+<p>Triel se quedó con la boca abierta, alternando la mirada entre la pantalla y su compañero:</p>
+<p>—¿Benray...? ¿Ese... ese eras tú?</p>
+<p>El emisario se rascó la nuca con las orejas gachas, en una mezcla inusual de orgullo pícaro, culpa y una profunda nostalgia agridulce:</p>
+<p>—Bueno... éramos jóvenes, necesitábamos créditos y los vídeos de piruetas extremas pagaban las cuotas de mi motoneta —admitió en un murmullo—. No sabía que mi fama de acróbata suicida hubiera llegado hasta los archivos personales de un psicópata en Castrovel.</p>
+<p>—Demuestra un notable desprecio por las leyes de la física y por su propia integridad orgánica —comentó Gerty tras analizar la grabación—. Me sorprende sinceramente que haya sobrevivido el tiempo suficiente para formar parte de este equipo.</p>
+<p>—Esa locura tiene su mérito, Benray —sonrió Triel dándole un codazo afectuoso—. Ahora entiendo de dónde sacaste la puntería para disparar haciendo volteretas.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Asedio a las cuencas del titán</h3>
+<p>El momento de distensión fue interrumpido violentamente por un siseo gutural que resonó desde el exterior de la cabeza de piedra.</p>
+<p>Por los amplios ventanales que formaban los ojos esculpidos del coloso, dos siluetas monstruosas treparon a la carrera por la pared vertical de granito, clavando sus garras en las hendiduras de la roca. Eran otros dos <strong>Khasaris</strong>, atraídos por el olor a sangre de Salas y el calor de las descargas de energía.</p>
+<p>Sus tentáculos faciales latían con avidez mientras intentaban colar sus enormes cuerpos por las aberturas oculares.</p>
+<p>—¡Tenemos compañía en las ventanas! —bramó Benray, desenfundando su arma al instante.</p>
+<p>El combate en el espacio confinado de la cumbre fue feroz. Uno de los monstruos logró asomar medio torso en la cámara, lanzando una andanada de espinas ponzoñosas que rebotaron contra las paredes de granito.</p>
+<p>Marloc reaccionó con una rapidez magistral:</p>
+<p>—¡No los dejen entrar en la sala! —exclamó, alzando ambas manos envueltas en relámpagos azulados. Un arco de corriente eléctrica saltó de sus dedos, electrocutando al primer Khasari y haciéndole perder el agarre en la cornisa.</p>
+<p>Gerty avanzó con paso firme hacia la abertura izquierda. Con sus dos pinzas hidráulicas inferiores aferró el morro tentacular del segundo monstruo, mientras sus brazos superiores descargaban ráfagas a quemarropa con la ametralladora pesada directo a su cuello quitinoso. La bestia chilló de agonía, retorciéndose como un gusano atrapado en una trampa de acero.</p>
+<p>Axel se deslizó bajo el arco de piedra, apoyó el cañón de su rifle en el borde del ventanal y descerrajó dos tiros certeros en el pecho de la criatura.</p>
+<p>El Khasari electrocutado por Marloc resbaló por el precipicio, precipitándose en una caída libre de setenta metros hasta estrellarse contra las rocas del desfiladero. Segundos después, Gerty arrojó al segundo monstruo, destrozado por los disparos de Axel, hacia el mismo abismo.</p>
+<p>El asedio había sido repelido en menos de un minuto.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El valle de las pirámides</h3>
+<p>Respirando el aire fresco que entraba por las cuencas del coloso, los cuatro aventureros se asomaron al ventanal septentrional para contemplar lo que se extendía al otro lado del paso montañoso.</p>
+<p>El espectáculo les robó el aliento.</p>
+<p>Frente a ellos, enclavado en una inmensa hondonada protegida por los picos nevados de la Cordillera Cantante, se abría un valle sagrado de una belleza sobrecogedora. Cientos de <strong>pirámides de piedra escalonadas</strong>, de tamaños que oscilaban entre los dos y los ocho metros de altura, se extendían por el suelo formando una majestuosa acrópolis geométrica cubierta de lianas, musgo y flores exóticas.</p>
+<p>En el extremo norte del valle, elevándose contra la pared rocosa más escarpada de la montaña, una ciclópea escalinata labrada en la roca pura —las <em>Escaleras a la Eternidad</em>— ascendía en línea recta hacia la cumbre envuelta en brumas, donde se adivinaban los muros colosales del santuario supremo.</p>
+<p>Marloc consultó el diario de viaje de hace trescientos años, con los ojos iluminados por el asombro:</p>
+<p>—Lo encontramos... Es la legendaria ciudad de <strong>Loskialua</strong>. La capital astronómica pre-Brecha donde los sabios de Castrovel estudiaban el portal de los doce soles.</p>
+<p>—Una ciudad entera de pirámides dormida en medio de la nada —susurró Benray, ajustando las lentes de Atmos para inmortalizar la panorámica—. Esto va a ser la portada de mi próximo documental.</p>
+<p>—Y en la cima de esa escalera —concluyó Axel señalando hacia las nubes— nos espera Tahomen con la profesora Solstarni. Prepárense: entramos en territorio sagrado.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 55: <br><span class="chap-sub">La Ciudad Olvidada de Loskialua</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Las pirámides del valle verde</h3>
+<p>El descenso desde el paso montañoso hacia el corazón del valle de Loskialua se realizó a través de una angosta senda zigzagueante entre los riscos. A medida que el pelotón pisaba el fondo de la cuenca, la magnitud del yacimiento arqueológico se reveló en toda su sobrecogedora complejidad.</p>
+<p>No se trataba de una simple necrópolis de túmulos funerarios. Cientos de <strong>pirámides de piedra escalonadas</strong>, labradas en bloques de basalto gris y arenisca dorada, se alzaban en alineaciones geométricas perfectas que seguían los ejes cardinales y las trayectorias celestes de los planetas del sistema de Castrovel.</p>
+<p>Marloc Boosmar caminaba con paso reverente entre las estructuras, pasando la mano por las molduras cubiertas de líquenes y musgo milenario:</p>
+<p>—Es una maravilla arquitectónica sin igual en los Mundos del Pacto —explicó el tecnomante, con la voz tomada por la emoción—. Durante siglos, los arqueólogos creyeron que estas pirámides eran tumbas de dignatarios o monumentos votivos aislados. Pero miren la parte superior de cada una: están truncadas y presentan hendiduras de anclaje para vigas de madera fósil y juntas metálicas.</p>
+<p>—¿Eran cimientos? —preguntó Triel, examinando los ensamblajes con ojo de ingeniera.</p>
+<p>—Exactamente —asintió Marloc—. Estas pirámides de piedra eran únicamente las plataformas basales y sótanos reforzados sobre los cuales los antiguos elfos pre-Brecha levantaban sus palacios, observatorios astronómicos y academias de madera noble, vidrio policromado y enredaderas vivas. Con el paso de los milenios y el cataclismo mnemónico de la Brecha, la arquitectura biológica y orgánica se pudrió y desapareció, dejando al descubierto solo los cimientos pétreos.</p>
+<p>—Una ciudad entera suspendida en el aire sobre pirámides —comentó Benray con asombro—. Debió ser un espectáculo impresionante. Halkueth menciona que este lugar albergaba a miles de peregrinos y sabios que acudían de todos los rincones del planeta para rendir culto a Desna y estudiar la configuración estelar de los Doce Soles.</p>
+<p>—Y según los rastros en el suelo —indicó Axel, señalando las ramas rotas y los restos de raciones militares—, la expedición de Tahomen cruzó esta acrópolis hace apenas dos días. Se movían deprisa, pero con extrema precaución.</p>
+<p>A lo largo de la calzada principal, los aventureros descubrieron varios mecanismos de defensa antiguos —trampas de proyectiles de resina fósil y losas de presión conectadas a púas envenenadas— que los cultistas habían desactivado o detonado a su paso, perdiendo en el proceso al menos a uno de sus exploradores.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El festín de la bestia eléctrica</h3>
+<p>Al desembocar en lo que debió ser la plaza central de la ciudad baja, un hedor a ozono ionizado y carne descompuesta alertó a los sensores de Axel.</p>
+<p>Junto a la base de una pirámide de siete metros de altura yacía el cuerpo inerte de un mercenario del Culto del Devorador, destrozado por una trampa de guillotina de piedra. Sin embargo, no estaba solo.</p>
+<p>Encima del cadáver, desgarrando los restos de la armadura con una voracidad repugnante, se retorcía una criatura salida de una pesadilla abisal. Era una <strong>Anguila de montaña</strong>: una mole reptiliforme y anfibia de más de cuatro metros de longitud, con piel viscosa de un verde esmeralda moteado, aletas pectorales modificadas que terminaban en manos palmeadas provistas de garras prensiles y una boca circular erizada de centenares de dientes agudos como agujas de coser.</p>
+<p>Sus ojos compuestos, multifacetados y de un brillo rojizo siniestro, parpadearon al detectar la presencia del pelotón. De las glándulas bioluminiscentes de sus costados brotaron crepitantes arcos de alto voltaje eléctrico que iluminaron la plaza en ruinas con destellos azulados.</p>
+<p>—¡Depredador eléctrico a las doce! —gritó Axel, abriendo fuego de inmediato.</p>
+<p>La anguila soltó un siseo atronador que sonó como una fuga de vapor a alta presión, soltó el cadáver y se impulsó hacia delante serpenteando por el pavimento con una agilidad pasmosa, descargando una potente descarga de arco eléctrico que rebotó entre las piedras.</p>
+<p>—¡Cuidado con la descarga! —advirtió Triel, activando los disipadores de tierra de su armadura mientras Gerty se interponía entre el monstruo y el grupo.</p>
+<p>Benray rodó por el suelo enlosado, colocándose tras el flanco ciego de la bestia:</p>
+<p>—¡Eh, pescadito de charca! ¡Aquí tienes un poco de salsa para tu merienda! —el ysoki disparó dos tiros de plasma concentrado a las aletas pectorales de la criatura, quemando sus membranas y frenando su avance.</p>
+<p>Marloc canalizó un escudo de polarización que absorbió la segunda descarga voltaica de la anguila, mientras Gerty descargaba un mazazo demoledor con su puño hidráulico directamente sobre la joroba del monstruo, haciéndolo chillar de dolor.</p>
+<p>Aprovechando que la bestia quedaba aturdida por el impacto del meca, Axel avanzó con una zancada felina. Desenvainó su cuchillo de combate de aleación hiperdensa, esquivó un coletazo electrificado que arrancó chispas del suelo y hundió la hoja hasta la empuñadura en la base del cráneo del animal.</p>
+<p>La anguila convulsionó violentamente, descargando sus últimos voltios en una llamarada estática antes de desplomarse inerte sobre los sillares rotos.</p>
+<p>Axel extrajo el cuchillo con un movimiento seco, sacudiendo la sangre espesa y la viscosidad lechosa del filo contra una piedra antes de envainarlo:</p>
+<p>—Objetivo neutralizado. El camino hacia la montaña queda despejado.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Las Escaleras a la Eternidad</h3>
+<p>Tras asegurarse de que no hubiera más depredadores en las inmediaciones, el pelotón cruzó los últimos vestigios de la acrópolis de Loskialua hasta llegar al pie del paredón granítico que cerraba el valle por el norte.</p>
+<p>Allí comenzaba el ascenso supremo.</p>
+<p>Labrada directamente en el abismo vertical de la roca madre, una escalinata ciclópea —las llamadas <strong><em>Escaleras a la Eternidad</em></strong>— ascendía en un ángulo implacable hacia las nubes que coronaban los picos más altos de la Cordillera Cantante. Eran más de tres mil peldaños desgastados por los siglos, sin barandilla ni protección alguna contra los vientos gélidos de la altura, flanqueados por estatuas colosales de sacerdotes y sabios con los brazos alzados en dirección a las constelaciones.</p>
+<p>A miles de metros sobre sus cabezas, apenas visible entre la niebla perpetua, se vislumbraba la silueta imponente y dorada del <strong>Templo de los Doce Soles</strong>.</p>
+<p>Marloc ajustó los arneses de su equipo y contempló la escalinata con determinación inquebrantable:</p>
+<p>—Tahomen y la doctora Solstarni están arriba. Si el culto consigue descifrar el mecanismo cósmico del santuario, no solo condenarán a Castrovel, sino a todos los mundos del sistema solar.</p>
+<p>Triel le dio una palmada en el hombro al tecnomante y miró a Gerty:</p>
+<p>—Pues será mejor que empecemos a subir, muchachos. Gerty, pon tus servomotores en modo tracción de montaña. Tenemos una cita con el destino en la cima del mundo.</p>
+<p>Con paso firme y los ojos fijos en las alturas, el pelotón comenzó la ascensión hacia las puertas del cielo.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 56: <br><span class="chap-sub">El Último Elfo de Loskialua</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. El centinela de los tres mil años</h3>
+<p>La ascensión por las <em>Escaleras a la Eternidad</em> puso a prueba la resistencia física y mental del pelotón hasta el límite de sus fuerzas. A medida que ganaban altitud, el aire se volvía más enrarecido y helado, mientras jirones de niebla blanca cruzaban a toda velocidad entre los peldaños, ocultando el abismo vertiginoso que se abría a sus espaldas.</p>
+<p>Tras horas de marcha ininterrumpida, el último tramo de escaleras desembocó en una explanada monumental suspendida en el vacío: el <strong>Atrio de las Esferas</strong>, una terraza semicircular pavimentada con losas de mármol negro veteado en oro, suspendida sobre el precipicio septentrional de la Cordillera Cantante.</p>
+<p>Frente a ellos, recortándose majestuosa contra el cielo del atardecer, se alzaba la fachada del <strong>Templo de los Doce Soles</strong>. Grandes arcos ojivales sostenían un pórtico ciclópeo decorado con bajorrelieves de constelaciones doradas y doce esferas de cristal de cuarzo que brillaban con un tenue fulgor solar autónomo.</p>
+<p>Sin embargo, el paso hacia las puertas del templo no estaba desierto.</p>
+<p>En el centro exacto de la terraza, de espaldas a los portales sagrados, aguardaba una figura solitaria.</p>
+<p>Era un guerrero élfico de porte aristocrático y mirada intemporal. Vestía una armadura ceremonial de placas solares de aleación argéntea, grabada con los mismos símbolos rúnicos que el pelotón había visto en el monumento de El Elfo Reclinado. Su rostro, de una belleza marmórea y congelada por los siglos, no reflejaba vejez ni decadencia biológica, pero en el fondo de sus cuencas oculares ardía una llama azulina que delataba una existencia sostenida más allá de las leyes naturales de la vida y la muerte.</p>
+<p>Al percibir los pasos del pelotón, el guerrero desenfundó un arma que descansaba a su cintura. Con un suave silbido armónico, una hoja inmaterial de plasma puro y energía solar incandescente se materializó en su empuñadura, iluminando la terraza con una luz dorada y abrasadora.</p>
+<p>—Deteneos, caminantes del valle —la voz del guerrero resonó en las mentes de los aventureros con la solemnidad de un trueno ancestral—. Soy el <strong>Último Elfo de Loskialua</strong>. Durante más de tres mil años, mi juramento ha sido custodiar este santuario para que ningún ser con intenciones destructivas profane el legado de mi pueblo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La prueba de las almas y el choque de filos</h3>
+<p>Triel dio un paso al frente, alzando las manos desarmadas para demostrar que no abrigaba intenciones hostiles:</p>
+<p>—No venimos a profanar nada —aseguró con voz clara y firme—. Sé lo que estás pensando al ver mis rasgos: soy una semi-drow, pero no represento a los elfos oscuros de Apostae ni sirvo a la oscuridad. Venimos persiguiendo a una secta apocalíptica que secuestró a una historiadora inocente y pretende desatar una catástrofe cósmica.</p>
+<p>El centinela clavó su mirada milenaria en la joven mecánica. Su expresión no cambió, pero la hoja de plasma se mantuvo erguida:</p>
+<p>—Las palabras son livianas como las hojas que arrastra el viento montañoso. Quienes cruzaron este umbral hace dos días también portaban ropajes de sabiduría y armas de fuego, y solo trajeron sangre y profanación a los altares.</p>
+<p>Fue entonces cuando Marloc Boosmar avanzó hacia el centro de la terraza. Con un movimiento deliberado y solemne, el tecnomante desabrochó el estuche sellado de su cinturón y extrajo la misteriosa <strong>esfera rúnica dorada</strong> que había condicionado su vida desde su despertar en el aula diecisiete del Arcanamirium.</p>
+<p>La pequeña esfera metálica comenzó a vibrar con una pulsación rítmica, iluminándose con los mismos glifos celestes que decoraban la armadura del guardián.</p>
+<p>El Último Elfo abrió los ojos con una mezcla de sorpresa y profundo respeto:</p>
+<p>—La llave de las estrellas... —murmuró el centinela, bajando levemente el filo solar—. Portas la reliquia de los antiguos observadores. Reconozco la marca de los Doce en tu espíritu, mortal. Sin embargo, mi voto supremo no me permite confiar las puertas del templo a quienes carezcan de la fuerza para prevalecer ante la noche cósmica que aguarda adentro. Si habéis de enfrentar al Devorador, debéis demostrar que vuestras almas son acero templado en el fuego.</p>
+<p>Sin mediar otra palabra, el guardián avanzó con una velocidad sobrehumana, convirtiéndose en un torbellino de luz dorada.</p>
+<p>El combate fue una lección magistral de esgrima celestial y táctica moderna. El elfo se movía como un espectro, esquivando ráfagas de plasma con fintas imposibles y descargando tajos incandescentes con su espada de energía solar que hendían el pavimento y hacían saltar chispas de los escudos de fuerza.</p>
+<p>Gerty cargó con sus cuatro brazos desplegados, interceptando un mandoble descendente que habría partido en dos a Benray. La espada solar del elfo dejó un surco al rojo vivo en el blindaje del meca, pero Gerty no retrocedió un milímetro, respondiendo con un contragolpe de su pica de asalto que obligó al guerrero a replegarse.</p>
+<p>Benray, empleando su prodigiosa labia y trucos de distracción, desorientó al centinela fingiendo un tropiezo hacia el borde del precipicio antes de rodar hacia su retaguardia.</p>
+<p>Marloc y Axel cerraron la pinza con una coordinación impecable. El tecnomante canalizó un potente cono de descarga electromagnética que sobrecargó la armadura ceremonial del elfo, paralizando momentáneamente sus articulaciones. En ese instante exacto, Axel disparó una bala perforante de gran calibre que atravesó el núcleo de energía solar en la pechera del guerrero.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El fin de la vigilia y el ascenso supremo</h3>
+<p>La hoja de plasma se extinguió con un suspiro sordo.</p>
+<p>El Último Elfo de Loskialua cayó de rodillas sobre las losas de mármol negro. Una grieta de luz azulina se abrió en su pecho, disipando la energía que lo había mantenido con vida a través de los milenios de la Brecha.</p>
+<p>Alzó el rostro hacia los cuatro aventureros. En sus ojos ya no había hostilidad ni desafío; solo una infinita paz serena y un agradecimiento conmovedor:</p>
+<p>—Vuestra causa es justa... y vuestra fuerza, indomable —susurró el elfo, apoyando la frente contra el mármol frío—. Mi vigilia... finalmente acaba. Salvad el templo... salvad las estrellas...</p>
+<p>Con un último destello de luz, el cuerpo del centinela se desvaneció en el aire, transformándose en una lluvia de motas doradas que ascendieron hacia la bóveda celeste de Castrovel, dejando sobre el suelo únicamente su empuñadura ceremonial.</p>
+<p>En ese instante de consagración mística y superación absoluta, una poderosa oleada de sincronización recorrió a los cuatro héroes. Los misterios descifrados, la supervivencia ante las bestias de Ukulam y la victoria frente al guardián milenario elevaron sus capacidades al <strong>quinto nivel de maestría</strong>. Sus reflejos se multiplicaron, su resistencia se forjó como el adamantine y sus reservas de poder alcanzaron un nuevo pináculo heroico.</p>
+<p>Frente a ellos, pesadas y enigmáticas, las grandes puertas de bronce y cristal del Templo de los Doce Soles aguardaban su llegada.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 57: <br><span class="chap-sub">Avissa-me Si Explota</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. La barricada del altar</h3>
+<p>Las pesadas puertas de bronce del Templo de los Doce Soles cedieron con un chirrido resonante tras el empuje combinado de Gerty y Marloc. Al cruzar el umbral, el pelotón penetró en el <strong>Gran Atrio Columnado</strong>, una nave colosal sustentada por doce pares de columnas de granito pulido que se elevaban hacia una cúpula acristalada donde los últimos rayos del crepúsculo teñían el suelo de púrpura y oro.</p>
+<p>Sin embargo, la solemnidad sacra del lugar había sido profanada de forma salvaje.</p>
+<p>En el centro del atrio, bloqueando el acceso hacia las cámaras del santuario interior, el Culto del Devorador había levantado una fortificación militar improvisada con sacos de arena, cajas de munición vacías y fragmentos de estatuas derribadas a martillazos.</p>
+<p>Pero lo más alarmante no era la trinchera.</p>
+<p>Sobre el altar principal de mármol blanco, donde los antiguos sacerdotes depositaban ofrendas estelares, se apilaba una cantidad monstruosa de <strong>cargas de demolición de plasma y explosivos plásticos C-4</strong>, conectadas en serie mediante cables detonadores a un temporizador remoto con luces parpadeantes.</p>
+<p>—Maldita sea... —susurró Triel, deteniéndose tras la base de la primera columna—. Han colocado suficiente explosivo como para derrumbar media montaña y sepultar todo el templo bajo miles de toneladas de granito.</p>
+<p>—Es una directiva de tierra quemada —analizó Axel con fría urgencia—. Tahomen quiere asegurarse de que nadie pueda seguirlo una vez que cruce la puerta estelar, o enterrar vivo a cualquier equipo de rescate.</p>
+<p>Antes de que pudieran trazar un plan de aproximación silenciosa, la puerta de bronce del fondo de la trinchera se abrió de par en par con un portazo violento.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. «¡Aquí viene su mamá!»</h3>
+<p>De la penumbra surgió una mujer de complexión ciclópea, enfundada en una armadura pesada de asalto con remaches toscos y el torso cruzado por cananas de munición de grueso calibre. Llevaba una bandana roja atada a la frente sobre una cabellera rapada a los costados, y una cicatriz profunda le cruzaba el rostro desde la oreja hasta la mandíbula, acentuando una sonrisa burlona y sanguinaria.</p>
+<p>En sus brazos musculosos sostenía una <strong>ametralladora rotatoria pesada de seis cañones</strong>, cuyo tambor comenzó a girar con un zumbido eléctrico ensordecedor.</p>
+<p>—¡Vaya, vaya! —rugió la mercenaria con una carcajada bronca que retumbó en las bóvedas del templo—. ¡Parece que las ratas de Absalón lograron superar a la idiota de Salas! ¡Pues se acabó el paseo campestre, escoria! ¡Aquí viene vuestra mamá a poneros a dormir para siempre!</p>
+<p>El tambor de la ametralladora escupió una tempestad de fuego continuo. Cientos de proyectiles cinéticos pesados barrieron el pasillo central, pulverizando los bajorrelieves de las columnas y levantando una lluvia de esquirlas y polvo que cegó los sensores del pelotón.</p>
+<p>—¡A cubierto! —aulló Benray arrojándose de cabeza tras una pilastra rota mientras las balas de gran calibre arrancaban pedazos de piedra a pocos centímetros de su hocico—. ¡Esa mujer no es una mamá, es una fragata de guerra con patas!</p>
+<p>Junto a la ametralladora de la capitana, media docena de cultistas del Devorador asomaron por encima de los sacos de arena, abriendo fuego cruzado con carabinas láser y arrojando granadas de fragmentación hacia los flancos.</p>
+<p>Gerty avanzó un paso, interponiendo sus dos escudos antidisturbios acoplados a sus brazos inferiores para formar un muro de contención móvil. Las balas de Avissa repiqueteaban contra el metal como granizo pesado:</p>
+<p>—Nivel de estrés mecánico en escudos frontales: sesenta y ocho por ciento —notificó Gerty con voz imperturbable—. Sugiero una réplica balística contundente antes de que la agresora agote sus reservas de munición o mi paciencia algorítmica.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Carrera contra el detonador</h3>
+<p>—¡Triel, Axel! —gritó Marloc sobre el estruendo de los cañones—. ¡Tienen que llegar al altar y neutralizar los explosivos! ¡Si esa psicópata activa el temporizador remoto, no quedará nada de este lugar! ¡Benray y yo mantendremos su fuego ocupado!</p>
+<p>—¡Hecho! —asintió la semi-drow, preparando sus cortadores de plasma y su omniherramienta.</p>
+<p>Marloc dio un paso al frente y alzó su báculo tecnomántico. Con una fórmula matemática precisa, desató un relámpago de energía de sobretensión directamente contra el tambor de alimentación de la ametralladora rotatoria. El mecanismo se atascó momentáneamente en una nube de chispas, interrumpiendo la ráfaga de Avissa.</p>
+<p>Benray aprovechó el segundo de tregua para asomarse y provocar a la mercenaria con su cinismo habitual:</p>
+<p>—¡Eh, señora del pañuelo rojo! ¿Esa chatarra gira tan despacio como sus neuronas? ¡Venga, dispárame a mí si tiene agallas!</p>
+<p>Avissa rugió de furia, golpeando el tambor con el puño acorazado para desbloquearlo y concentrando todo su fuego en la columna de Benray.</p>
+<p>Mientras la atención enemiga se desviaba hacia el flanco izquierdo, Axel y Triel avanzaron a la carrera por la galería derecha en una maniobra de infiltración perfecta. La androide se deslizó entre las sombras de las columnas, abatiendo con disparos quirúrgicos a dos cultistas que protegían el nido de ametralladoras.</p>
+<p>Triel alcanzó el altar de mármol de un salto.</p>
+<p>El panel del detonador marcaba apenas cuarenta segundos para la detonación forzada, con los dígitos en rojo parpadeando aceleradamente.</p>
+<p>—¡Tiene un circuito de trampa bimetálico! —exclamó Triel por el comunicador con las manos firmes sobre los cables—. Si corto el azul, se activa la espoleta de respaldo.</p>
+<p>—Utiliza el derivador de masa de tu omniherramienta —le indicó Axel desde su cobertura, disparando contra otro tirador que intentaba asomarse—. Drena la batería antes de cortar el contacto primario.</p>
+<p>Triel clavó la sonda de absorción cuántica en el corazón del temporizador. La corriente de la batería fluyó hacia su condensador en un destello azulado. Con un corte limpio de su alicate sónico, seccionó el cable detonador principal cuando el marcador indicaba exactamente tres segundos.</p>
+<p>La pantalla del explosivo se apagó.</p>
+<p>—¡Cargas neutralizadas! —gritó la mecánica con un júbilo triunfal.</p>
+<p>Al escuchar la noticia, Avissa se quedó lívida:</p>
+<p>—¡Inútiles! ¡Hijos de...!</p>
+<p>No tuvo tiempo de terminar la maldición.</p>
+<p>Axel asomó el cañón de su rifle de hielo desde el flanco derecho, mientras Benray y Marloc salían de su cobertura por la izquierda. Una descarga combinada de proyectiles criogénicos, rayos de plasma y saetas tecnománticas impactó en el torso y la cabeza de la mercenaria.</p>
+<p>La colosal ametralladora rotatoria cayó al suelo con un estrépito metálico. Avissa tambaleó hacia atrás, chocó contra la barricada rota y se desplomó pesadamente sobre el mármol, derrotada para siempre.</p>
+<p>Los últimos cultistas supervivientes arrojaron sus armas y huyeron a la desbandada hacia las profundidades del santuario.</p>
+<p>El gran atrio del templo volvía a estar en silencio. El camino hacia el sanctasanctórum estaba abierto.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 58: <br><span class="chap-sub">O Soles Míos</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. El hallazgo de la doctora Solstarni</h3>
+<p>Dejando atrás el atrio en ruinas y las cargas de demolición desactivadas, el pelotón avanzó por un pasadizo abovedado cuyas paredes estaban revestidas de mosaicos de lapislázuli y pan de oro. El corredor desembocaba en la <strong>Antecámara de las Constelaciones</strong>, un recinto circular dominado por un foso central de cristal y una escalinata ceremonial que conducía hacia el portal más sagrado del templo.</p>
+<p>Allí, sentada en el suelo y sujeta a la base de una pilastra con unas rígidas esposas de doble barra metálica que inmovilizaban sus cuatro muñecas, yacía una mujer kasatha de cabeza cónica alargada hacia atrás y piel surcada por finos tatuajes en tono verde agua: la <strong>doctora Omejia Solstarni Way-ir de la casa Raimar</strong>. Llevaba una chaqueta académica de cuello alto que cubría recatadamente la parte inferior de su rostro, y sus cuatro ojos parpadearon con asombro al ver entrar al pelotón con las armas desenfundadas.</p>
+<p>—¿Quiénes sois vosotros? —preguntó la arqueóloga en un susurro incrédulo—. ¿Más secuaces de Tahomen?</p>
+<p>Marloc enfundó su báculo de inmediato y corrió hacia ella, hincando una rodilla en el suelo para liberar sus cuatro extremidades con un cortador sónico:</p>
+<p>—Tranquila, doctora Solstarni. Somos agentes independientes comisionados por la rectoría de la Universidad de Qabarat e Inversiones Estelares. Venimos a rescatarla.</p>
+<p>La kasatha dejó escapar un hondo suspiro de alivio, frotándose las cuatro muñecas magulladas:</p>
+<p>—La rectoría... Alabados sean los Doce. Espero... espero que no haya problemas administrativos con que me hayan raptado; no quisiera perder mi plaza docente por abandono del puesto, ignoro si mi contrato contempla cláusulas de fuerza mayor por secuestro apocalíptico... Ese monstruo llamado Tahomen me obligó a punta de pistola a descifrar los anales astronómicos de las compuertas exteriores. Cuando terminé de traducir las coordenadas preliminares, me golpeó en la cabeza con la culata de su fusil y me dijo que contemplara mi propia muerte antes de que Avissa volara el templo entero por los aires.</p>
+<p>—Avissa y sus mercenarios ya no son una amenaza, doctora —aseguró Axel, ofreciéndole una cantimplora de agua y un estimulante médico—. ¿Qué es lo que Tahomen busca exactamente al otro lado de esa compuerta?</p>
+<p>Solstarni bebió con avidez antes de clavar sus cuatro ojos en los aventureros con una expresión de pavor cósmico:</p>
+<p>—No busca reliquias ni tesoros arqueológicos... busca la aniquilación absoluta. Este templo no es solo un lugar de adoración a Desna: es la estación de control y seguimiento de una superarma pre-Brecha conocida en los mitos antiguos como el <strong>Devastador Estelar</strong>. Una máquina de guerra colosal oculta en un demiplano hiperespacial, capaz de drenar la energía térmica de estrellas enteras hasta apagarlas en supernovas frías. ¡La Roca del Drift que cayó en Absalón no era un asteroide cualquiera, sino un fragmento desprendido del núcleo de control de esa misma arma!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Las lanzas de piedra despiertan</h3>
+<p>Antes de que pudieran asimilar la magnitud de la revelación, un crujido telúrico sacudió los cimientos de la antecámara.</p>
+<p>A ambos lados de la escalinata ceremonial que conducía a la puerta estelar, dos <strong>estatuas de piedra</strong> de cuatro metros de altura, esculpidas a imagen de antiguas sacerdotisas élficas armadas con lanzas solares, cobraron vida. Los ojos de cuarzo de las efigies se encendieron con una fulguración carmesí mientras el granito de sus articulaciones se flexionaba con un chirrido de roca viva.</p>
+<p>—¡Intrusos biológicos detectados en el umbral del sol central! —resonó una voz pétrea y monocorde desde el interior de las estatuas—. Activando protocolo de purga ceremonial.</p>
+<p>Los dos colosos descendieron las gradas con zancadas pesadas que hacían temblar el suelo, cruzando sus lanzas incandescentes en dirección al grupo.</p>
+<p>—¡Doctora, quédese detrás de esa columna! —ordenó Benray desenfundando su pistola mientras realizaba una pirueta acrobática para esquivar la primera embestida descendente.</p>
+<p>La punta de la lanza de piedra golpeó el pavimento a pocos centímetros del ysoki, hendiendo el mármol y desatando una onda de choque ígnea que abrasó el aire.</p>
+<p>Gerty cargó de frente contra el primer guardián. El meca trabó sus dos brazos superiores contra el asta de piedra de la estatua, forcejeando con toda la potencia de sus servomotores hidráulicos, mientras con sus garras inferiores descargaba una lluvia de impactos demoledores contra la rodilla del coloso:</p>
+<p>—Registrando densidad de material enemigo: granito reforzado con aleación mística —anunció Gerty—. Conclusión: sumamente quebradizo ante un traumatismo contundente repetitivo.</p>
+<p>Axel trepó con agilidad felina por las gradas laterales, ganando una posición de ventaja en el descanso superior. Desde allí, alineó su rifle con los puntos de ensamblaje en el cuello del segundo guardián. Dos disparos criogénicos de precisión milimétrica enfriaron bruscamente la piedra ardiente, agrietando su estructura interna.</p>
+<p>Marloc y Triel combinaron su potencia de fuego. La semi-drow disparó su fusil de plasma sobre la grieta provocada por Axel, mientras el tecnomante desataba un vórtice cinético que pulverizó la cabeza del guardián en una nube de escombros.</p>
+<p>La estatua descabezada tambaleó a ciegas antes de desplomarse por las escaleras, partiéndose en decenas de fragmentos inofensivos.</p>
+<p>Segundos después, Gerty logró derribar al segundo centinela, arrancándole la lanza de piedra y rematándolo con un golpe demoledor de su puño neumático que partió el torso del constructo por la mitad.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El umbral hacia la pesadilla</h3>
+<p>Con la antecámara despejada y los guardianes reducidos a polvo, Axel inspeccionó los nichos ceremoniales junto a las escaleras, descubriendo un artefacto de oricalco abandonado por los cultistas:</p>
+<p>—Es un <strong>Báculo de Sanación Mística</strong> (<em>Staff of Mystic Healing</em>) —diagnosticó la androide tras analizar sus frecuencias místicas—. Canaliza energías de restauración celular de quinto nivel... pero solo responde a la disciplina de un místico consagrado.</p>
+<p>Benray, Triel y Marloc intercambiaron miradas de cómica decepción.</p>
+<p>—Ni un solo místico a bordo —suspiró Benray sacudiendo la cabeza—. Doctora Solstarni... ¿usted no tendrá afición por la canalización espiritual, verdad?</p>
+<p>—Me temo que mi especialidad es la arqueoastronomía de campo —respondió la kasatha con sobria cortesía, extendiendo dos de sus manos para tomar el objeto—. Pero dejad que lo lleve yo para que no tengáis que cargarlo. A fin de cuentas... me sobran un par de brazos.</p>
+<p>Benray soltó una carcajada:</p>
+<p>—¡Un chiste kasatha! Me cae bien, doctora.</p>
+<p>Frente a ellos se alzaban por fin las puertas monumentales del sanctasanctórum.</p>
+<p>Eran dos batientes colosales de oricalco y cristal estelar, grabados con el círculo astronómico de los doce soles convergiendo hacia una ranura hexagonal central. Las compuertas estaban entornadas, y desde el interior emanaba un brillo pulsante de energía dimensional de color violeta oscuro, acompañado por el zumbido ominoso de un emisor cuántico de largo alcance.</p>
+<p>La doctora Solstarni señaló el umbral con el báculo en mano:</p>
+<p>—Tahomen está adentro... Ha sintonizado la consola de control con la frecuencia del Devastador Estelar. Si logra fijar el vector de enlace cuántico y transmitir los datos a su flota en el Vasto, nada en los Mundos del Pacto podrá detener el holocausto.</p>
+<p>Benray cargó su arma con un chasquido seco y miró a sus compañeros. En las pupilas del ysoki, de la semi-drow, de la androide y del tecnomante ardía la misma chispa indomable que los había llevado desde los muelles de Absalón hasta la cúspide de aquella montaña maldita:</p>
+<p>—Hemos cruzado medio Castrovel, hemos comido barro, nos han disparado plantas, monos, mercenarios y estatuas de piedra —dijo Benray con una sonrisa desafiante—. No hemos llegado hasta aquí para dejar que un cura loco del apocalipsis arruine la galaxia.</p>
+<p>—Aseguremos la cámara —sentenció Axel empujando la puerta de cristal—. Por la galaxia... y por Marlene.</p>
+<p>Los cuatro aventureros, seguidos de cerca por Gerty, cruzaron el umbral hacia la batalla final.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 59: <br><span class="chap-sub">Un Paso a la Izquierda</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. En el corazón del abismo estelar</h3>
+<p>La <strong>Cámara de las Estrellas</strong> era una estancia colosal de arquitectura ciclópea que desafiaba la cordura tridimensional. El techo no era de piedra ni de metal, sino una cúpula holográfica transparente abierta al vacío del espacio, donde miles de constelaciones giraban en una danza milimétrica gobernada por los doce soles prehistóricos. En el centro exacto de la sala, suspendida sobre un foso de energía gravitacional que emitía pulsos de luz violeta, flotaba la consola astronómica pre-Brecha que controlaba el alineamiento de la puerta cósmica.</p>
+<p>Frente a la consola, manipulando los paneles de control con dedos frenéticos, se encontraba el líder supremo de la expedición del culto: <strong>Tahomen</strong>.</p>
+<p>Era un lashunta de complexión alta y enjuta, de piel pálida como el yeso y ojos de un verde brillante y desquiciado. Llevaba la cabeza afeitada, cubierta de cicatrices rituales que le desfiguraban las facciones, y vestía una capa confeccionada con la piel escamosa de un depredador de Ukulam sobre una armadura blindada con hombreras erizadas de púas negras. A su alrededor montaban guardia tres mercenarios con armaduras mecánicas pesadas y máscaras de acero inexpresivas que ocultaban completamente sus rostros sintéticos.</p>
+<p>Al escuchar el eco de las botas del pelotón, Tahomen giró sobre sus talones con una escopeta de plasma en las manos y una sonrisa demencial en los labios:</p>
+<p>—¡Llegáis tarde, insectos de Absalón! —bramó el sumo sacerdote con una voz cavernosa impregnada de poder entrópico—. ¡Los Doce Soles han hablado! ¡La puerta dimensional hacia el Devastador Estelar está fijada y la gran noche cósmica del Devorador está a punto de caer sobre todos los mundos!</p>
+<p>Benray Galway no esperó a que el sacerdote terminara su monólogo apocalíptico. Con una audacia consumada, el ysoki dio un paso lateral deliberado, inclinando el cuerpo hacia la izquierda y lanzando un comentario burlón que descolocó por completo los reflejos de Tahomen:</p>
+<p>—Lo siento, amigo, pero tu apocalipsis tiene una falta de ortografía en el guión —dijo el emisario con un guiño socarrón—. ¡Un paso a la izquierda y fuego a discreción!</p>
+<p>El engaño funcionó con una precisión ridículamente efectiva. Tahomen parpadeó desconcertado, perdiendo la iniciativa por una fracción de segundo crítica.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La caída del profeta ciego</h3>
+<p>—¡Fuego concentrado! —ordenó Axel.</p>
+<p>La androide abrió la salva con un disparo fulminante de su fusil de precisión. El proyectil atravesó el hombro acorazado de Tahomen, haciéndole soltar la escopeta y derramando una sangre espesa y negruzca que siseó al tocar el suelo.</p>
+<p>Triel sobrecargó su fusil de plasma y disparó contra el primer guardia acorazado, mientras Gerty embestía como una locomotora imparable:</p>
+<p>—Procediendo a la desarticulación de elementos hostiles enmascarados —anunció el meca, descargando un doble puñetazo neumático que abolló la pechera del segundo guardia y lo arrojó al foso gravitacional.</p>
+<p>Marloc Boosmar levantó su báculo hacia la cúpula, canalizando la energía estelar del propio templo para neutralizar los rayos oscuros que Tahomen intentaba convocar desde el vacío. Los zarcillos de entropía se disiparon en chispas de luz dorada, dejando al fanático completamente desprotegido.</p>
+<p>Desesperado, Tahomen extrajo una pistola de ácido de su cinturón e intentó abalanzarse sobre Benray.</p>
+<p>El ysoki no retrocedió. Corrió en línea recta hacia el sacerdote, se deslizó por el suelo encerado esquivando el chorro cáustico, cerró un ojo para fijar la puntería a quemarropa y apretó el gatillo de su pistola balística.</p>
+<p>Un disparo seco.</p>
+<p>El proyectil impactó directamente en el pecho de Tahomen, atravesando el medallón del Devorador que colgaba de su cuello.</p>
+<p>El líder del culto se detuvo en seco. Miró hacia la cúpula estrellada con los ojos muy abiertos, como si contemplara por fin el vacío que tanto había anhelado, y se desplomó pesadamente de espaldas contra la base de la consola de control.</p>
+<p>Los últimos mercenarios enmascarados soltaron un chirrido metálico y cayeron bajo los disparos de Axel y Triel.</p>
+<p>La batalla por el Templo de los Doce Soles había terminado.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El mapa hacia la Diáspora</h3>
+<p>Con la cámara asegurada, Triel y Marloc corrieron hacia la consola astronómica central. Los paneles holográficos parpadeaban en un tono ámbar de alarma crítica, proyectando líneas de telemetría y diagramas celestes a escala galáctica.</p>
+<p>Triel conectó su omniherramienta a la interfaz pre-Brecha, conteniendo la respiración:</p>
+<p>—Marloc... ayúdame con las ecuaciones de sintonización. Hay miles de años de datos comprimidos en esta terminal.</p>
+<p>El tecnomante posó sus manos junto a las de la semi-drow, introduciendo la esfera rúnica dorada en una hendidura hexagonal del tablero. Al instante, la cúpula holográfica cobró una vida sobrecogedora:</p>
+<p>Un mapa estelar tridimensional de los Mundos del Pacto se desplegó en el aire. En el centro brillaba una representación a escala del <strong>Devastador Estelar</strong>, una estación de guerra prehistórica de proporciones astronómicas, rodeada por un escudo dimensional impenetrable alimentado por la constelación de los Doce Soles.</p>
+<p>Y flotando junto a ella, un gráfico explicativo confirmó la mayor sospecha de Marloc:</p>
+<p>—Miren esto... —susurró el tecnomante con el corazón encogido—. La <strong>Roca del Drift</strong>... El asteroide que Extracciones Estelares trajo a Absalón era efectivamente un componente desprendido del sistema de control del Devastador Estelar. El culto necesitaba los datos de este templo para vincular la clave de la Roca con las coordenadas exactas donde reposa el arma principal.</p>
+<p>—¿Y Tahomen logró transmitir la señal antes de que lo abatiéramos? —preguntó Axel con la mirada fija en el monitor de comunicaciones.</p>
+<p>Triel tecleó con rapidez, rastreando los últimos paquetes de datos emitidos por la antena cuántica de la cumbre:</p>
+<p>—Sí... pero no la envió a Castrovel ni al Vasto exterior —la joven levantó la vista hacia sus compañeros con una expresión de asombro y alarma—. El mensaje fue transmitido a un receptor oculto en el cinturón de asteroides de <strong>La Diáspora</strong>. Hay una base secreta del Culto del Devorador escondida en un planetoide sin cartografiar.</p>
+<p>Benray se acercó a la consola, contemplando las coordenadas vectoriales que parpadeaban en la pantalla:</p>
+<p>—La Diáspora... el hogar de los piratas, los corsarios y los asteroides olvidados. Justo de donde venimos.</p>
+<p>La doctora Solstarni, apoyada en el marco de la puerta con una sonrisa exhausta pero llena de gratitud, contempló a los cuatro aventureros:</p>
+<p>—Habéis salvado Castrovel... y tal vez a la galaxia entera, muchachos. Pero si el culto reúne sus fuerzas en la Diáspora para alcanzar el Devastador Estelar, el tiempo juega en vuestra contra.</p>
+<p>Axel miró a Benray, a Triel, a Marloc y a Gerty. La misión en las selvas de Ukulam había concluido con una victoria incontestable: la doctora estaba a salvo, los misterios del templo resueltos y los líderes del culto en Castrovel aniquilados. Pero el verdadero destino los aguardaba en la negrura del espacio profundo.</p>
+<p>—Comuniquen con la <em>Estrella Errante</em> y preparen los motores sublumínicos —ordenó Axel con voz firme y serena—. Regresamos a la civilización... y después, ponemos rumbo a la Diáspora.</p>
+<p>Con el amanecer iluminando los doce soles de la cúpula sagrada, los héroes de Absalón se prepararon para el siguiente salto hacia lo desconocido.</p>
+  </div>
+
+  <h2 class="chapter-name">Anexo Especial: <br><span class="chap-sub">Dossier de Personajes y Glosario</span></h2>
+  <div class="chapter-body">
+    <h3 class='section-title'>Volumen 5: <em>El Templo de los Doce Soles</em></h3>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>1. El Escenario</h3>
+<h4 class='subsection-title'>El Continente Salvaje de Ukulam</h4>
+<p>La masa continental más virgen, extensa y letal del planeta Castrovel, vedada al desarrollo industrial por las leyes conservacionistas de los Mundos del Pacto:</p>
+<ul class='bullet-list'>
+<li><strong>Cabo Turhalu:</strong> Antigua avanzadilla militar reconvertida en estación biológica en la punta de una península de Ukulam. Es el punto más occidental alcanzado por la red de portales mágicos de Aiakos y el último bastión de la civilización antes de la espesura.</li>
+<li><strong>Las Estepas de Hierba Blanca:</strong> Inmensas llanuras que rodean Cabo Turhalu, cubiertas por un mar vegetal de cañas de más de dos metros de altura que dificultan la visión y activan memorias bélicas reprimidas en el procesador de Axel.</li>
+<li><strong>El Valle de los Yaruks:</strong> Garganta natural donde pastan rebaños de colosos herbívoros hexápodos entre colonias de hongos gigantescos de rápido crecimiento.</li>
+<li><strong>El Obelisco de la Runa:</strong> Columna de piedra milenaria en un claro enlosado, decorada con bajorrelieves astronómicos pre-Brecha y rodeada por un lecho de flores azul marino. Sirvió de puesto de vigía y hito de orientación para el explorador Halkueth hace tres siglos.</li>
+<li>*<em>La Cordillera Cantante (</em>Singing Range<em>):</em>* Majestuosa cadena montañosa que cruza el norte de Ukulam. Debe su nombre al constante silbido polifónico que el viento polar produce al atravesar sus desfiladeros y formaciones kársticas.</li>
+<li>*<em>El Monumento de El Elfo Reclinado (</em>El Guardián de la Plaga<em>):</em>* Escultura colosal de más de cien metros labrada directamente en la pared viva de la montaña, representando a un sabio élfico dormido rodeado por doce constelaciones. Alberga en su interior galerías sagradas, la Fuente de la Purificación Mental y una cámara craneal con miradores panorámicos.</li>
+<li><strong>La Ciudad Olvidada de Loskialua:</strong> Acrópolis pre-Brecha enclavada en un valle de montaña, compuesta por cientos de pirámides escalonadas de basalto que en la antigüedad sirvieron de cimientos para estructuras palaciegas y observatorios suspendidos.</li>
+<li><strong>Las Escaleras a la Eternidad:</strong> Escalinata ciclópea de más de tres mil peldaños tallada a pico en el precipicio norte de Loskialua, que asciende hacia las cumbres perpetuamente cubiertas por la niebla.</li>
+<li><strong>El Templo de los Doce Soles:</strong> Santuario astronómico supremo en la cima de la Cordillera Cantante. Construido por los antiguos observadores élficos antes de la Brecha, alberga el Atrio de las Esferas, el Gran Atrio Columnado, la Antecámara de las Constelaciones y la Cámara de las Estrellas, donde reposa el enlace cuántico con el Devastador Estelar.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>2. Los Protagonistas</h3>
+<h4 class='subsection-title'>Triel Istrav</h4>
+<p><em>Mecánica Semi-drow (Jugadora: Irene)</em></p>
+<p>De 19 años, piel cenicienta con reflejos lilas y cabello níveo. En este volumen, Triel sobrevive a una experiencia cercana a la muerte al ser capturada en pleno vuelo por las fauces tentaculares de un Oshiga en los riscos de la montaña, derrotando a la bestia con su pica de choque. Hackea con brillantez el datapad militar de Salas, desactiva in extremis el temporizador de demolición de Avissa y sintoniza la consola cósmica pre-Brecha en el templo, desentrañando la conexión con la superarma y alcanzando el nivel 5 de maestría.</p>
+<h4 class='subsection-title'>Gerty</h4>
+<p><em>Dron de Combate y Soporte Pesado (Voz: Roberto)</em></p>
+<p>Meca bípedo cuadrúmano de asalto pesado, pintado con bandas de advertencia industrial y dotado de pica de alta frecuencia, ametralladora pesada y escudos de aleación. En Ukulam actúa como el escudo inquebrantable del pelotón frente a estampidas de Yaruks, ráfagas de ametralladora rotatoria y estatuas de piedra milenarias, mientras no deja de lamentar la falta de lubricante de alta calidad en la jungla.</p>
+<h4 class='subsection-title'>Benray Galway</h4>
+<p><em>Emisario Ysoki (Jugador: Miguel)</em></p>
+<p>Roedor elocuente, maestro del engaño y comunicador estelar. En este volumen asume un peso moral formidable al conceder un disparo piadoso a la cultista moribunda Aravask. Sus compañeros descubren en el datapad de Salas una antigua grabación de su juventud en la Espiga como temerario streamer de piruetas aéreas suicidas, y en el clímax descoloca a Tahomen con su táctica de «un paso a la izquierda» antes de abatir al líder del culto de un tiro certero.</p>
+<h4 class='subsection-title'>Marloc Boosmar</h4>
+<p><em>Tecnomante Humano (Jugador: Juan Pablo)</em></p>
+<p>Académico distinguido de túnica ceremonial y brazo cibernético. En Loskialua y en el Templo de los Doce Soles experimenta la culminación de sus investigaciones místicas: utiliza su misteriosa esfera rúnica dorada para apaciguar al Último Elfo de Loskialua, traduce las inscripciones astronómicas de Desna y neutraliza la magia entrópica del Devorador en el combate definitivo.</p>
+<h4 class='subsection-title'>A.Xel 42</h4>
+<p><em>Operativa Androide (Jugadora: Sofía)</em></p>
+<p>Tiradora de élite de fría precisión técnica y líneas rosadas bioluminiscentes. Sufre el asalto mnemónico de su servicio reprimido en la Unidad 42 y sobrevive a una dolorosa infección por esporas carroñeras tras ser atacada por un Khasari. Demuestra una puntería insuperable abatiendo al monstruo de un impacto crítico en el cráneo, neutralizando al francotirador Salas en su nido de águilas y acribillando a los mercenarios de Avissa.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>3. Personajes Secundarios y Antagonistas</h3>
+<h4 class='subsection-title'>Doctora Omejia Solstarni</h4>
+<p><em>Arqueóloga Superior de la Universidad de Qabarat (Kasatha)</em></p>
+<p>Científica ilustre y experta en lingüística pre-Brecha, secuestrada en Qabarat por el Culto del Devorador. Fue forzada bajo tortura y amenazas de muerte a descifrar los controles astronómicos del Templo de los Doce Soles antes de ser golpeada y abandonada para morir sepultada bajo los explosivos de Avissa. Es rescatada por el pelotón y revela la existencia del Devastador Estelar.</p>
+<h4 class='subsection-title'>Tahomen</h4>
+<p><em>Sumo Sacerdote del Culto del Devorador en Castrovel (Lashunta)</em></p>
+<p>Líder fanático, despiadado y megalómano, con el cráneo afeitado y el rostro desfigurado por escarificaciones rituales. Portaba una capa de piel de monstruo y armadura con púas negras. Obsesionado con desatar la noche cósmica del vacío, logra transmitir las coordenadas del templo antes de ser abatido a quemarropa por Benray en la Cámara de las Estrellas.</p>
+<h4 class='subsection-title'>Salas</h4>
+<p><em>Exoficial de la Legión del Fuego en el Cielo y Francotirador Renegado (Lashunta)</em></p>
+<p>Militar deshonrado y psicópata expulsado de la Legión tras enloquecer durante una emboscada en la selva, desarrollando una obsesión sádica por contemplar a seres vivos devorados por depredadores salvajes. Custodió el acceso a la Cordillera Cantante apostado en la cabeza del Elfo Reclinado junto a su Oshiga amaestrado, hasta ser abatido por Axel.</p>
+<h4 class='subsection-title'>Avissa</h4>
+<p><em>Capitana Mercenaria del Culto del Devorador (Humana)</em></p>
+<p>Gigantesca y brutal soldado de asalto con bandana roja, cicatriz cruzada en el rostro y una descomunal ametralladora rotatoria pesada de seis cañones. Comandó la defensa del Gran Atrio Columnado con órdenes de volar el templo entero por los aires, cayendo bajo el fuego coordinado del equipo tras ser neutralizado su detonador.</p>
+<h4 class='subsection-title'>Aravask</h4>
+<p><em>Cultista del Devorador (Lashunta)</em></p>
+<p>Exploradora del culto abandonada en la selva por Tahomen tras contraer una infección terminal de esporas carroñeras producida por el Khasari. En medio de su agonía febril y fanática, recibe un disparo de misericordia por parte de Benray y un entierro digno bajo las raíces de Ukulam.</p>
+<h4 class='subsection-title'>El Último Elfo de Loskialua</h4>
+<p><em>Centinela Inmortal del Templo (Elfo Pre-Brecha)</em></p>
+<p>Guardián espiritual que custodió el Atrio de las Esferas durante tres milenios blandiendo una espada de plasma solar inmaterial. Somete al pelotón a una prueba honorable de combate místico antes de caer con serenidad, declarando concluida su guardia y confiándoles la salvación del templo.</p>
+<h4 class='subsection-title'>Doctor Kaeral</h4>
+<p><em>Director Médico de la Estación de Cabo Turhalu (Lashunta)</em></p>
+<p>Científico bondadoso y pragmático que acoge al pelotón tras cruzar el portal de Aiakos, facilitándoles equipo médico, mapas topográficos y sabios consejos sobre los peligros letales de Ukulam.</p>
+<h4 class='subsection-title'>Halkueth (Halconzan)</h4>
+<p><em>Explorador Legendario de Castrovel (Histórico)</em></p>
+<p>Aventurero que exploró Ukulam hace más de trescientos años. Su diario de viaje y sus notas manuscritas, rescatadas por el pelotón, constituyen la guía fundamental para orientarse entre las selvas, monumentos y ruinas de la Cordillera Cantante.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>4. Bestiario y Peligros de Ukulam</h3>
+<ul class='bullet-list'>
+<li><strong>Yaruks:</strong> Titánicos herbívoros hexápodos de más de quince metros de longitud y placas óseas macizas en la cabeza. Pacíficos mientras se alimentan de hongos púrpuras, pero capaces de desatar estampidas sísmicas que derriban bosques y puentes milenarios si son asustados con fuego.</li>
+<li><strong>Kaukarikis:</strong> Simios voladores arbóreos provistos de alas membranosas y cola con aguijón ponzoñoso de veneno paralizante. Atacan en enjambres coordinados arrojando higos raelianos fermentados altamente corrosivos.</li>
+<li><strong>Brasilea:</strong> Colosal planta carnívora de emboscada. Posee zarcillos musculosos de decenas de metros que arrastran a sus presas hacia una corola armada con espinas óseas y enzimas digestivas ácidas, liberando nubes de esporas aturdidoras.</li>
+<li><strong>Khasari («El Perro Cthulín»):</strong> Aberración tetrapodal cazadora, cruce monstruoso entre tejido vegetal quitinoso y fibras musculares animales. Carece de ojos, dispara espinas tóxicas cargadas de esporas carroñeras desde su lomo y posee un racimo de tentáculos bucales prensiles sobre fauces retráctiles.</li>
+<li>*<em>Esporas Carroñeras (</em>Carrion Spores<em>):</em>* Plaga micótica hiperagresiva que infecta el torrente circulatorio de las presas, ramificándose bajo la dermis y devorando los órganos vitales en cuestión de horas si no se trata con potentes antibióticos y cirugía.</li>
+<li>*<em>Tormenta de Moho (</em>Mold Storm<em>):</em>* Cataclismo meteorológico cíclico de Castrovel, donde millones de colonias de hongos sincronizan su floración liberando billones de toneladas de esporas cáusticas y sofocantes que disuelven los tejidos blandos y corroen sellos de polímero.</li>
+<li><strong>Renkruda Barbado:</strong> Superdepredador ápice reptiliano de las selvas altas. Terópodo carnívoro de cuatro metros de altura con escamas verde oliva, garras cortantes y una mandíbula rodeada de zarcillos sensitivos.</li>
+<li><strong>Oshiga:</strong> Monstruosidad alada de alta montaña con forma de manta-raya estelar. Capaz de volverse invisible en pleno vuelo, captura presas con tentáculos ventrales y las desgarra en su pico circular de dientes giratorios mientras segrega bilis ácida.</li>
+<li><strong>Anguila de Montaña:</strong> Enorme depredador anfibio y serpentino que habita en las ruinas de Loskialua. Provisto de aletas pectorales con garras palmeadas, ojos compuestos y glándulas bioeléctricas capaces de descargar miles de voltios.</li>
+<li><strong>Estatuas Élficas Guardianas:</strong> Constructos milenarios de granito reforzado tallados a imagen de sacerdotisas con lanzas solares, programados para activarse y purgar a cualquier intruso que alcance la antecámara del santuario.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>5. Revelaciones Cósmicas y Nuevos Horizontes</h3>
+<ul class='bullet-list'>
+<li>*<em>El Devastador Estelar (</em>Stellar Degenerator<em>):</em>* La revelación fundamental de la campaña. Una superarma colosal construida en la era anterior a la Brecha, oculta en un demiplano sellado por la constelación de los Doce Soles, con el poder de consumir y extinguir soles enteros.</li>
+<li><strong>La Verdadera Naturaleza de la Roca del Drift:</strong> Se confirma definitivamente que el misterioso asteroide remolcado por la <em>Acreon</em> hasta Absalón no era una roca estéril, sino un componente esencial desprendido del sistema de control del Devastador Estelar.</li>
+<li><strong>El Destino en La Diáspora:</strong> Tahomen logró transmitir los datos de alineación del templo a un receptor clandestino oculto en el cinturón de asteroides de La Diáspora. El pelotón concluye su misión en Castrovel y se prepara para regresar al espacio y dar caza al culto en su propio feudo pirata.</li>
+</ul>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+# ==============================================================================
+# Archivos de audio pesados (fuentes descargadas de Libsyn / YouTube)
+# Las transcripciones limpias y raw se conservan en el repositorio.
+# ==============================================================================
+**/audios/
+*.mp3
+*.wav
+*.m4a
+*.ogg
+*.flac
+
+# ==============================================================================
+# Perfiles y archivos temporales generados por LibreOffice durante la maquetación
+# ==============================================================================
+.libreoffice_profile/
+**/.libreoffice_profile/
+.~lock.*.pdf#
+.~lock.*.html#
+.~lock.*.odt#
+
+# ==============================================================================
+# Caché de Python y entornos virtuales
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# ==============================================================================
+# Archivos temporales de sistema y editores
+# ==============================================================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

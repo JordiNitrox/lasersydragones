@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lasers y Dragones: El Misterio del Acreon</title>
+<style>
+  @page {
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
+  }
+  
+  body {
+    font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section-heading-main {
+    font-size: 22pt;
+    text-align: center;
+    color: #0b1a30;
+    margin-top: 0;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 10px;
+    page-break-before: always;
+    break-before: page;
+  }
+
+  /* Índice de contenidos */
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+  }
+  
+  .toc-table td {
+    padding: 7px 4px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 10.5pt;
+  }
+  
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+  }
+  
+  .toc-sub {
+    font-size: 9.2pt;
+    color: #718096;
+    font-style: italic;
+  }
+  
+  /* Título de Capítulo con salto de página infalible en LibreOffice */
+  h2.chapter-name {
+    page-break-before: always;
+    break-before: page;
+    font-size: 22pt;
+    color: #0b1a30;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1.3;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+  }
+  
+  .chap-sub {
+    font-size: 18pt;
+    font-style: italic;
+    color: #2b6cb0;
+    font-weight: normal;
+  }
+  
+  h3.section-title {
+    font-size: 14pt;
+    color: #2b6cb0;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    border-bottom: 1px dashed #e2e8f0;
+    padding-bottom: 4px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h3.subsection-title {
+    font-size: 12.5pt;
+    color: #2d3748;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Liberation Serif', serif;
+  }
+
+  h4.subsection-title {
+    font-size: 11.5pt;
+    color: #1a365d;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 0 12px 0;
+    text-indent: 1.5em;
+  }
+  
+  p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
+    text-indent: 0;
+  }
+  
+  .divider {
+    text-align: center;
+    margin: 25px 0;
+    color: #a0aec0;
+    font-size: 10pt;
+    letter-spacing: 6px;
+  }
+  
+  .bullet-list {
+    margin: 12px 0 15px 25px;
+    padding: 0;
+  }
+  
+  .bullet-list li {
+    margin-bottom: 6px;
+    text-align: justify;
+  }
+  
+  .quote {
+    margin: 18px 25px;
+    padding: 10px 18px;
+    border-left: 3px solid #b8860b;
+    background: #f7fafc;
+    font-style: italic;
+    color: #4a5568;
+  }
+</style>
+</head>
+<body>
+
+  <!-- 1. PORTADA -->
+  <div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+      Ópera Espacial · Universo Starfinder
+    </p>
+    
+    <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+    
+    <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+      LASERS Y DRAGONES
+    </div>
+    
+    <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+      El Misterio del Acreon
+    </div>
+    
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+    
+    <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+      ✦ &nbsp; ◈ &nbsp; ✦
+    </div>
+    
+    <p style="font-size: 11pt; line-height: 1.6; color: #4a5568; margin: 30px auto; max-width: 420px; text-indent: 0; text-align: center;">
+      Una adaptación novelada de la campaña oficial <em>Dead Suns</em> (Soles Muertos), inspirada en las sesiones de rol en vivo del podcast <strong>Lasers y Dragones</strong>.
+    </p>
+    
+    <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 50px auto 20px auto;">
+    
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 10pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+      Volumen II · Los Secretos del Vacío
+    </p>
+  </div>
+
+  <!-- 2. NOTA EDITORIAL E INTRODUCCIÓN -->
+  <h2 class="section-heading-main">Nota Editorial e Introducción</h2>
+  
+  <p>La presente obra constituye el segundo volumen de la novelización de las sesiones reales de juego de rol de mesa (<em>actual play</em>) emitidas en el podcast costarricense <strong>Lasers y Dragones</strong>, correspondiente a los episodios 11 al 22.</p>
+  
+  <p>La historia adapta los acontecimientos de la campaña oficial <strong>Dead Suns (Soles Muertos)</strong> del juego de rol <strong>Starfinder</strong> (creado y publicado por <em>Paizo Inc.</em>), enriquecida con la dirección, giros y modificaciones narrativas del Game Master <strong>Roberto</strong>, junto al elenco original de jugadores:</p>
+  
+  <div style="margin: 25px auto; max-width: 520px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 45%; margin: 15px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 9.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 12px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
+    </p>
+    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>)
+    </p>
+    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Miguel:</strong> Benray Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em>
+    </p>
+    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante Humano)</em>
+    </p>
+    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
+    </p>
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 45%; margin: 15px auto;">
+  </div>
+  
+  <p>El propósito de esta novelización es transformar la espontaneidad de la mesa de rol en una experiencia literaria inmersiva, cinematográfica y coherente, respetando con fidelidad la personalidad de los protagonistas, el tono de comedia y peligro espacial, y la evolución del canon.</p>
+
+  <!-- 3. ÍNDICE DE CONTENIDOS -->
+  <h2 class="section-heading-main">Índice de Contenidos</h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto y créditos del podcast original</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Prólogo: El Eco del Nivel 21</div>
+        <div class="toc-sub">Las secuelas del Club Fusión y la calma aparente</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 11: Desayuno para Llevar</div>
+        <div class="toc-sub">Basado en el Episodio 11 · Persecución en los bulevares del Ojo</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">5</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 12: Asesoría y Arbitraje</div>
+        <div class="toc-sub">Basado en el Episodio 12 · Las cláusulas de Kaerom y cuatro brazos para Gerty</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">11</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 13: El Saber del Arcanamirium</div>
+        <div class="toc-sub">Basado en el Episodio 13 · Infiltración en la academia y el expediente de Marlene</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">16</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 14: Pacto con la Cripta</div>
+        <div class="toc-sub">Basado en el Episodio 14 · Audiencia con Gevalarsk Nor y Keltus</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">22</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 15: Carnitas y Despedidas</div>
+        <div class="toc-sub">Basado en el Episodio 15 · El clan Galway, Rim Rey y la motoneta vespacial</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">27</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 16: El Caballito de Mar</div>
+        <div class="toc-sub">Basado en el Episodio 16 · El capitán Otal Seris y la nave Hippocampus</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">33</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 17: Insinuación Mortal</div>
+        <div class="toc-sub">Basado en el Episodio 17 · Travesía orbital y primer avistamiento del Acreon</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">37</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 18: Aka-Ta: El Horror en el Hangar</div>
+        <div class="toc-sub">Basado en el Episodio 18 · Abordaje en gravedad cero y combate en penumbra</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">40</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 19: Hasta la Cocina: Los Restos del Pasado</div>
+        <div class="toc-sub">Basado en el Episodio 19 · Pasillos helados y las fórmulas del ingeniero Olier</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">44</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 20: Amigoblins del Espacio</div>
+        <div class="toc-sub">Basado en el Episodio 20 · Willy, Naru y la alianza de la chatarra</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">47</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 21: Cajas Vemos, Contenidos no Sabemos</div>
+        <div class="toc-sub">Basado en el Episodio 21 · Bodegas de carga y el sarcófago de Eox</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">51</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 22: ¿Cuál Noqual?: El Destino del Acreon</div>
+        <div class="toc-sub">Basado en el Episodio 22 · Bitácoras de Elba Sohar, el oficial León y el umbral de la Roca</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">54</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">Facciones, Eox, Protectores, Goblins del Acreon y Bestiario</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">58</td>
+    </tr>
+  </table>
+
+  <h2 class="chapter-name">Prólogo: <br><span class="chap-sub">El Eco del Nivel 21</span></h2>
+  <div class="chapter-body">
+    <p>La Estación Absalón nunca duerme, pero a veces contiene la respiración.</p>
+<p>Apenas habían transcurrido unas horas desde que el humo de los rifles de plasma se disipara en los túneles inferiores del Club Fusión. En los corredores claustrofóbicos de la Espiga, las pandillas aún comentaban en susurros la caída fulminante de Ferani Nadaz y el desmantelamiento de los Reyes de la Fusión. Lo que para el Consejo de Síndicos y los titulares sensacionalistas de <em>Noticias en Movimiento</em> no era más que otro sangriento episodio de violencia callejera entre bandas rivales de los Bajos, para cuatro recién llegados había sido el bautismo de fuego que los unió para siempre.</p>
+<p>Benray Galway, el emisario ysoki de reflejos imposibles y verborrea infinita; Triel Istrav, la joven mecánica semi-drow de la Diáspora junto a Gerty, su meca de combate tan pesado como sarcástico; Marloc Boosmar, el tecnomante de gabán impoluto y brazo cibernético acosado por el enigma de Marlene; y A.Xel 42, la letal operativa androide de circuitos bioluminiscentes y mirada fría.</p>
+<p>Habían sobrevivido al fuego cruzado del muelle 94, a las apuestas clandestinas y a la trampa mortal tendida por la codicia de Extracciones Estelares. Pero la victoria en la estación espacial más grande de los Mundos del Pacto nunca viene acompañada de paz.</p>
+<p>Mientras los servicios de limpieza municipales borraban las manchas de refrigerante y sangre en el Nivel 21, en las altas esferas del Ojo y en los despachos blindados de las megacorporaciones comenzaba a moverse una maquinaria mucho más peligrosa que las pistolas láser: la burocracia, la ley y la diplomacia interestelar. Y más allá de la cúpula presurizada, flotando en el silencio gélido del vacío exterior, el verdadero enigma aguardaba inmóvil: el <em>Acreon</em>, un carguero minero fantasma arrastrando una roca arrancada de las entrañas del Drift, cuya tripulación había dejado de responder a las transmisiones hacía meses.</p>
+<p>La tormenta sobre Absalón no había terminado. Tan solo estaba tomando un breve respiro para servirse el desayuno.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 11: <br><span class="chap-sub">Desayuno para Llevar</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. La terraza del Ojo y el dron cortés</h3>
+<p>La luz artificial del Ojo de Absalón se filtraba a través de los cristales templados de la cúpula central con la suavidad engañosa de una mañana de primavera planetaria. Allá arriba, a decenas de metros de altura, paneles de diodos emisores de espectro completo recreaban un cielo azul celeste salpicado de nubes holográficas en lenta deriva. En las jardineras suspendidas crecían abetos enanos de Castrovel y arbustos aromáticos, mientras pequeños pájaros mecánicos de limpieza trinaban entre los setos para deleite de los dignatarios, comerciantes adinerados y altos funcionarios corporativos que transitaban por las avenidas marmóreas.</p>
+<p>Para cuatro aventureros que la noche anterior habían estado esquivando proyectiles de plasma entre la mugre condensada de la Espiga, la terraza al aire libre de aquel restaurante resultaba un espejismo casi insultante.</p>
+<p>Benray Galway tenía los bigotes cubiertos de mermelada de moras espaciales y dos tostadas doradas apretadas contra las comisuras de los labios. Sentado con las patas cruzadas sobre un mullido sillón ergonómico, el ysoki masticaba a velocidad vertiginosa mientras llenaba los amplios bolsillos de su chaleco con panecillos calientes y sobres de edulcorante.</p>
+<p>—Les digo que el secreto de la felicidad no son los créditos, sino los bufés con reposición ilimitada —declaró Benray con la boca medio llena, señalando una bandeja de hojaldres con su tenedor—. Miren este queso curado. ¡Es de leche de bestia de carga auténtica, no ese engrudo de soja sintética que te venden en los Bajos! Si sobrevivimos a esa loca de Ferani Nadaz, nos merecemos desayunar como síndicos.</p>
+<p>Frente a él, Marloc Boosmar sostenía una taza de porcelana blanca con la mano derecha, mientras los dedos mecánicos de su brazo cibernético izquierdo tamborileaban en silencio sobre el mantel de hilo. El tecnomante vestía un traje impecablemente planchado, gabán de cuello alto y corbata oscura, contrastando con las miradas de reojo de los camareros.</p>
+<p>—Disfruta de la abundancia mientras dure, Benray —murmuró Marloc, bebiendo un sorbo mesurado de café negro—. La pólvora aún impregna el aire de los niveles inferiores. La muerte de Marlene no fue un accidente y el sindicato minero sigue en pie de guerra. El Consejo de la estación no tardará en atar cabos sobre lo sucedido en el Club Fusión.</p>
+<p>—Siempre tan optimista, profesor —ironizó Triel Istrav desde el otro lado de la mesa. La joven semi-drow vestía su habitual traje de segunda piel con el chaleco técnico de los <em>Free Captains</em>. Con una pequeña llave de calibración, ajustaba los pernos del hombro izquierdo de Gerty, cuyo chasis grisáceo de dos metros de altura permanecía erguido junto a la mesa como una mole de acero silenciosa—. Déjanos respirar al menos cinco minutos. Gerty ha gastado un tercio de su batería principal en enfriar los servomotores y todavía tiene pegadas virutas de titanio de la puerta blindada.</p>
+<p>En la cúpula acristalada del dron, dos puntos ópticos de color azul zafiro parpadearon dos veces antes de emitir un chasquido sintetizado.</p>
+<p>—<em>Secuencia de enfriamiento: noventa y ocho por ciento</em> —articuló Gerty con la voz cavernosa y monótona de Roberto—. <em>Aviso para la tripulación orgánica: el aroma a manteca recalentada que emite el roedor está saturando mis sensores de admisión de aire. Solicito formalmente distanciamiento gastronómico.</em></p>
+<p>A.Xel 42 ni siquiera pestañeó. La operativa androide mantenía una postura rígidamente erguida frente a su plato. Con precisión quirúrgica, ensartaba una tira de tocino crujiente y una rodaja de melón exótico en su tenedor, introduciéndolos en su cavidad bucal mientras sus circuitos rosados bioluminiscentes pulsaban a un ritmo pausado bajo la piel sintética de porcelana.</p>
+<p>—El aporte proteico es óptimo para la regeneración tisular —afirmó Axel con frialdad analítica—. Aunque debo admitir que la textura crujiente del tocino produce una resonancia acústica satisfactoria en mi módulo auditivo.</p>
+<p>La apacible escena duró exactamente tres segundos más.</p>
+<p>Desde el bulevar ajardinado, flotando con un zumbido repulsivo casi inaudible, una pequeña esfera metálica de aleación dorada y plateada avanzó hacia la terraza. Del tamaño de una sandía y con un par de diminutos brazos mecánicos plegados en su base, el dron de seguridad policial lucía un único lente central que brillaba con luz ámbar parpadeante.</p>
+<p>El autómata se detuvo a tres metros de la mesa, proyectando un cono de escaneo holográfico que recorrió los rostros de los cuatro comensales.</p>
+<p>—<em>Buenos días, ciudadanos</em> —entonó el dron con una voz pregrabada empalagosamente cortés—. <em>Se les solicita de manera formal y pacífica que mantengan las manos visibles sobre la mesa y se abstengan de manipular armamento. La Oficina de Seguridad y los Protectores de la Estación Absalón requieren su presencia inmediata para responder a un cuestionario de rutina en relación con los disturbios acaecidos en el Nivel Veintiuno. Agradecemos de antemano su cívica colaboración.</em></p>
+<p>El silencio cayó sobre la terraza como una losa de plomo. Los clientes de las mesas colindantes bajaron los cubiertos, intercambiando miradas de pánico.</p>
+<p>Gerty fue el primero en reaccionar. Los servomotores de su torso giraron noventa grados con un chasquido ensordecedor. Su cañón láser rotatorio se desplegó con un zumbido de carga térmica mientras la cúpula brillaba en rojo carmesí.</p>
+<p>—<em>¡Mi nombre es Gerty y peleo por el usuario!</em> —bramó el meca por sus altavoces—. <em>¡La unidad Axel y yo nos defenderemos con la vida ante la tiranía policial!</em></p>
+<p>—¡Gerty, no dispares, es solo una bola de escaneo! —gritó Triel, arrojando la llave inglesa.</p>
+<p>Pero ya era tarde. Axel, sin soltar el tenedor cargado de tocino con la mano izquierda, extrajo con la derecha su pistola láser de bolsillo con la velocidad de un relámpago sintético y abrió fuego.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Cacería en el bulevar</h3>
+<p>El haz escarlata impactó de lleno en el chasis del dron esférico, arrancando chispas y esquirlas de revestimiento dorado. El aparato retrocedió en el aire, chirriando alarmas estridentes mientras sus pequeños apéndices desplegaban una macana eléctrica y una cápsula de dispersión pegajosa:</p>
+<p>—<em>¡Alerta de código rojo! ¡Resistencia armada! ¡Solicitando unidades de pacificación pesada!</em></p>
+<p>Benray reaccionó por puro instinto callejero. Agarró un puñado de tostadas, se las embutió en los carrillos hinchándolos como un hámster y derribó la mesa de café de una patada para crear una barricada improvisada.</p>
+<p>—¡Plan de contingencia noventa y nueve! —chilló el ysoki con la voz deformada por la comida—. ¡Correr como ratas espaciales! ¡A las habitaciones por el equipaje y fuera del hotel!</p>
+<p>Marloc alzó el puño cerrado de su brazo cibernético. Los filamentos arcanos que serpenteaban por su manga se encendieron en un relámpago de energía cuántica. Con un pase elegante de sus dedos, disparó un dardo de arco voltaico que envolvió al dron policial en una jaula crepitante de electricidad, dejándolo girando fuera de control contra las jardineras.</p>
+<p>Los comensales del restaurante gritaron despavoridos, tirándose bajo los manteles mientras el cuarteto salía disparado por la galería acristalada.</p>
+<p>Llegar a sus habitaciones del hotel fue cuestión de segundos. Recogieron sus macutos de viaje, rifles y mochilas técnicas mientras las sirenas de la estación comenzaban a aullar por los corredores de ventilación. Cuando bajaron por los montacargas traseros de la lavandería hacia el callejón de servicio, el panorama era abrumador: media docena de drones esféricos y patrullas de autómatas humanoides bipedales —pesadas moles blindadas de color blanco impoluto con cámaras rotatorias en la cabeza— convergían hacia la manzana.</p>
+<p>—¡Si nos quedamos juntos en formación, nos rodearán en dos esquinas! —advirtió Marloc, ajustándose el gabán mientras el viento del sistema de ventilación sacudía su cabello—. Debemos buscar rutas alternas y converger en un punto seguro.</p>
+<p>—¡A las oficinas de Chiskisk! —propuso Triel, jadeando mientras corría al paso acelerado de Gerty—. ¡En Inversiones Estelares tienen inmunidad corporativa y salvoconducto de arbitraje!</p>
+<p>El grupo se dispersó en tres direcciones por el entramado urbano del Ojo.</p>
+<p>Triel y Marloc enfilaron hacia las plazas superiores ajardinadas, pero al coronar una escalinata de mármol se toparon con un muro infranqueable: una multitudinaria concentración de fieles de la iglesia de Sarenrae. Cientos de devotos vestidos con túnicas blancas y botones dorados en forma de espadas flamígeras repartían panfletos luminosos y entonaban cánticos al sol, bloqueando por completo la avenida.</p>
+<p>—¡Maldita sea! —masculló Triel—. ¡Gerty, abre paso suavemente!</p>
+<p>—<em>Abriendo protocolo de dispersión pacífica mediante fuerza cinética bruta</em> —anunció el meca, arremetiendo contra la masa como un ariete de demolición.</p>
+<p>Con el dron empujando a los peregrinos atónitos y Marloc conjurando ráfagas de sonido ilusorio que imitaban el rugido de una bestia devoradora de mundos para sembrar el desconcierto, ambos lograron sortear el gentío y alcanzar las pasarelas técnicas de construcción. Allí, Triel sobrecargó los controles de dos grúas de carga, cruzando por sus brazos mecánicos extendidos sobre el vacío antes de que las patrullas policiales pudieran cortarles el paso.</p>
+<p>Mientras tanto, en el sector oriental, Axel corría con ligereza sobrehumana a través del zoológico botánico de la estación. Esquivó a los guardias arrojándose a los fosos de aclimatación, pasando a milímetros de las garras de varios tigres de seis patas adormilados por la atmósfera controlada, y trepó por las rejas de contención ejecutando acrobacias milimétricas sobre los cables de alta tensión.</p>
+<p>Por su parte, Benray se había metido en un callejón sin salida junto a un edificio en obras. Al toparse con un portón de rejas metálicas bloqueado con un candado industrial, el ysoki retrocedió unos pasos, tomó carrerilla y embistió con el hombro:</p>
+<p>—¡Abran paso al cometa Galway!</p>
+<p>El golpe contra el hierro sonó como una campana desafinada: <em>¡CLANG!</em> Benray rebotó hacia atrás, frotándose el hombro dolorido y soltando una maldición entre dientes.</p>
+<p>—Nota mental: los ysoki tenemos agilidad, no masa muscular de trox —se quejó el roedor—. Menos mal que no hay testigos...</p>
+<p>Con un suspiro de resignación, el emisario se contorsionó como solo los suyos saben hacerlo, deslizándose entre los barrotes estrechos con la flexibilidad de una anguila justo cuando una patrulla de drones sobrevolaba la entrada del callejón con sus reflectores encendidos.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La pantalla de Syd Velch y el despacho de Chiskisk</h3>
+<p>Al desembocar en la gran arteria comercial que conectaba el Ojo con los anillos de tránsito rápido, los cuatro volvieron a avistarse entre el gentío. Pero el tráfico peatonal estaba completamente paralizado.</p>
+<p>Miles de ciudadanos permanecían inmóviles, con la mirada clavada en la pantalla holográfica gigante de cien metros de ancho suspendida sobre el nudo de autopistas. En ella, la presentadora Joana Jiménez transmitía un boletín de última hora de <em>Noticias en Movimiento</em>:</p>
+<p>—<em>«...Imágenes exclusivas del último y perturbador concierto de Syd Velch antes de su misteriosa desaparición en los Mundos del Pacto...»</em></p>
+<p>En el vídeo, el célebre cantante galáctico Syd Velch detenía su actuación en seco en medio del escenario. Con los ojos desorbitados y gesticulando hacia las cámaras como un poseso, el artista comenzaba a destruir su propio sintetizador de sonido mientras balbuceaba frases inconexas sobre «sangre bajo el sol» y «la necesidad de seguir adelante». El espectáculo era tan hipnótico y desconcertante que la muchedumbre no apartaba la vista.</p>
+<p>—Aprovechemos el trance colectivo —susurró Benray, agarrando a Axel de la mano—. Con permiso, caballeros... Asunto de Estado... Disculpen la prisa...</p>
+<p>Abriéndose paso con diplomacia callejera, saltando sobre el capó de aerodeslizadores detenidos y bordeando las últimas esquinas del sector comercial, el grupo avistó al fin la silueta del edificio corporativo donde Inversiones Estelares S.C. mantenía su sede central en el Ojo de Absalón.</p>
+<p>A sus espaldas, el zumbido de tres robots de asalto pesados resonó con furia mecánica. Las luces estroboscópicas rojas bañaban las paredes del corredor.</p>
+<p>—¡Entren, rápido! —apremió Marloc, forzando la cerradura neumática con su ganzúa de bypass.</p>
+<p>Traspasaron el umbral a tropel, jadeantes y con las armas humeantes. La compuerta blindada se cerró tras ellos con un chasquido hermético justo cuando las patrullas policiales rodeaban el vestíbulo exterior, apuntando con docenas de rifles aturdidores.</p>
+<p>Desde el pasillo interior de la oficina, una figura alta, de complexión reptiliana imponente, enfundada en un traje sastre de corte impecable con una corbata chillona de piel de serpiente, dio un paso al frente. Era Kaerom, el letrado vesk de Inversiones Estelares S.C., quien sostenía una tableta holográfica con descarada suficiencia.</p>
+<p>—Disculpen las molestias, señores oficiales —anunció el abogado vesk con una sonrisa colmilluda, mostrando sus credenciales a través del panel transparente—. Estos ciudadanos se encuentran bajo la tutela jurídica directa de esta corporación y bajo la cláusula de arbitraje oficial del Consejo de Síndicos. Guarden sus juguetes antes de que les redacte una demanda por acoso institucional que les costará su jubilación.</p>
+<p>Benray se dejó caer de espaldas en el sillón de la recepción, soltando una carcajada exhausta mientras se sacaba el último panecillo aplastado del bolsillo.</p>
+<p>—Definitivamente —suspiró el ysoki—, amo el sistema judicial de esta estación.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 12: <br><span class="chap-sub">Asesoría y Arbitraje</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Las cláusulas de Kaerom</h3>
+<p>El despacho de Chiskisk olía a té de hongos aromáticos y ozono de terminales cuánticas. Tras las cristaleras blindadas que daban al vestíbulo corporativo, los oficiales de policía y los drones de patrulla se retiraban a regañadientes, derrotados no por el fuego de las armas, sino por la barrera impenetrable de la jurisprudencia de los Mundos del Pacto.</p>
+<p>Chiskisk, el directivo shirren de Inversiones Estelares S.C., se acomodó en su asiento articulado. Sus largas antenas sensoriales vibraron con un zumbido afable mientras entrelazaba sus apéndices quitinosos sobre el escritorio.</p>
+<p>—El estatuto 04-25 y la cláusula de viajero indocumentado son herramientas sumamente útiles cuando se combinan con la doctrina de legítima defensa frente a bandas armadas —explicó Chiskisk mediante su suave resonancia telepática—. Por supuesto, el Consejo de Síndicos no perdonará los daños a la propiedad pública: una torre publicitaria destrozada, un dron de seguridad con el procesador fundido y varios constructores enfurecidos por la reubicación no autorizada de sus grúas. Pero Inversiones Estelares S.C. asumirá las multas como gastos operativos de arbitraje.</p>
+<p>A un lado del despacho, apoyado con insolente elegancia contra una vitrina de artefactos antiguos, el abogado Kaerom ajustaba el nudo de su corbata de piel de serpiente sobre la pechera escamada.</p>
+<p>—En esta estación, mis queridos amigos, un buen abogado es más letal que un cañón de riel —declaró el letrado vesk, extendiendo una tarjeta holográfica dorada hacia Benray—. <em>Kaerom y Asociados: Destruya a sus oponentes en el jurado</em>. Tienen un diez por ciento de descuento si mencionan este tiroteo en su próxima consulta. Si alguna vez necesitan demandar a un consorcio minero por estrés postraumático o reclamar una indemnización por pérdida de equipaje en el Drift, soy su hombre.</p>
+<p>Benray tomó la tarjeta con dos dedos y la examinó con fingida reverencia antes de guardarla en su bolsillo junto a las provisiones rescatadas del bufé.</p>
+<p>—Me gusta su estilo, doctor —dijo el ysoki, guiñando un ojo—. Aunque espero no tener que contratarlo para defenderme de un pelotón de fusilamiento.</p>
+<p>En ese instante, la pantalla mural del despacho emitió un tono agudo y la imagen de Joana Jiménez, la presentadora estrella de <em>Noticias en Movimiento</em>, ocupó la transmisión:</p>
+<p>—<em>«Conectamos en directo con nuestra corresponsal Carne Yac desde los niveles inferiores de la Espiga, frente a las puertas del clausurado Club Fusión...»</em></p>
+<p>La imagen cambió a una toma callejera tenuemente iluminada por las balizas rojas de la policía. Al fondo, agentes de seguridad escoltaban a un grupo de individuos andrajosos y desorientados hacia transportes de asistencia médica.</p>
+<p>—<em>«Hola, Joana»</em> —narró la reportera Carne Yac, sosteniendo el micrófono frente a la fachada acribillada del local—. <em>«Nos encontramos aquí presenciando los resultados de la intervención policial tras el asalto de ayer. En los sótanos clandestinos bajo la pista de baile, las autoridades han hallado una red de túneles secretos donde la banda de Ferani Nadaz retenía al menos a una veintena de personas contra su voluntad, la inmensa mayoría de ellos androides traídos ilegalmente desde puestos fronterizos para ser vendidos como esclavos laborales fuera del Pacto... Intentaremos recabar declaraciones de los mandos a cargo.»</em></p>
+<p>La cámara siguió a la periodista mientras interceptaba a un oficial uniformado de los Protectores que supervisaba el perímetro con gesto severo. El agente se interpuso con el brazo en alto:</p>
+<p>—<em>Por favor, mantenga la distancia, señorita Yac. La investigación sigue en curso.</em></p>
+<p>—<em>Disculpe, oficial Monroe</em> —insistió la reportera—. <em>¿Podría confirmar si este centro de tráfico de especies conscientes operaba bajo el amparo de alguna corporación mayor?</em></p>
+<p>El oficial Monroe se quitó el casco táctico por un segundo, revelando un rostro curtido y ojeroso por la falta de sueño, antes de hablar con sequedad:</p>
+<p>—<em>Solo podemos confirmar que los implicados mantenían a estos individuos hacinados en túneles no cartografiados. Se sospecha que formaban parte de una red interestelar más amplia. No haremos más declaraciones hasta que el informe de balística esté completado.</em></p>
+<p>El oficial se encasquetó el yelmo y dio media vuelta, pero en el estudio central la voz de Joana Jiménez tomó el relevo con un tono aún más sombrío:</p>
+<p>—<em>«Gracias, Carne. Y en relación con este caso, acabamos de recibir un comunicado extraordinario de la penitenciaría central de la estación: la cabecilla de la banda, la humana Ferani Nadaz, ha sido hallada muerta en su celda de máxima seguridad hace escasos minutos. Informes preliminares de la administración carcelaria atribuyen el deceso a un paro funcional autoinfligido, a pesar de que el cadáver presentaba setenta y dos heridas punzantes de arma blanca. Las autoridades investigan la posible intervención de terceros...»</em></p>
+<p>Marloc frunció el ceño, apretando la mandíbula con amargura.</p>
+<p>—La silenciaron —sentenció el tecnomante en voz baja—. Extracciones Estelares no deja cabos sueltos. Si Ferani abría la boca ante un tribunal del Pacto, los contratos de la corporación habrían quedado invalidados. Tienen ojos y cuchillos en todas las celdas de Absalón.</p>
+<p>—Por eso mismo —terció Chiskisk con calma telepática—, su mejor protección en este momento es el anonimato. La estación aún los busca como sospechosos sin rostro, pero la opinión pública está distraída con el escándalo del tráfico de esclavos. Aprovechen este margen.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Cuatro brazos para Gerty</h3>
+<p>En el taller anexo a las oficinas, Triel tenía las herramientas esparcidas sobre un banco de trabajo magnético. Con el soldador de arco en una mano y un destornillador sónico en la otra, trabajaba concentrada en el torso de Gerty.</p>
+<p>El dron permanecía sentado sobre un palé de carga, con las placas pectorales abiertas de par en par, dejando al descubierto una maraña de cables de fibra óptica y refrigerante azulado.</p>
+<p>—A ver, gigantón, quédate quieto —le ordenó Triel con cariño—. Si te mueves, te cruzo los cables de la subrutina de habla con el ventilador trasero y vas a pasar tres días zumbando como una secadora de pelo.</p>
+<p>—<em>Objeción técnica, jefa</em> —replicó Gerty, cuyos sensores ópticos parpadeaban en un tono lánguido—. <em>La inmovilidad prolongada degrada mis articulaciones en un cero coma cero cuatro por ciento. Además, los añadidos estéticos que propone carecen de justificación militar.</em></p>
+<p>Triel soltó una carcajada mientras encajaba dos nuevos apéndices mecánicos en los laterales del chasis, justo debajo de los brazos principales de combate. Eran dos brazos manipuladores articulados, más estilizados y precisos, equipados con manos de cuatro dedos de motricidad fina capaces de teclear, manipular herramientas y operar cerraduras electrónicas.</p>
+<p>—No son estéticos, cabezón. Ahora tienes cuatro brazos. Con los de arriba disparas y con los de abajo puedes sostener una llave inglesa, abrir compuertas o llevarme la caja de herramientas.</p>
+<p>Con un chispazo limpio de soldadura, los nuevos actuadores cobraron vida. Los cuatro dedos metálicos se flexionaron uno a uno con un zumbido suave. Para coronar la obra, Triel sacó dos calcomanías holográficas de su bolsillo —un par de estrellas sonrientes con gafas de sol— y las pegó con esmero en el dorso de las nuevas muñecas.</p>
+<p>—Listo. ¿Cómo te sientes?</p>
+<p>Gerty alzó sus flamantes manos adicionales, observándolas con detenimiento a través de su cúpula transparente. Flexionó los dedos en una secuencia rítmica y luego miró a Triel:</p>
+<p>—<em>Evaluación de funcionalidad: dedos articulados operativos. Ausencia de tejido epidérmico: altamente eficiente. Deme esos cinco, señorita Triel.</em></p>
+<p>Triel chocó su mano abierta contra los fríos dedos de aleación del dron, sonriendo de oreja a oreja.</p>
+<p>—Mucho mejor. Ahora sí estás listo para lo que venga.</p>
+<p>A pocos metros de allí, sentada sobre una caja de repuestos navales, Axel 42 limpiaba meticulosamente la corredera de su pistola. La androide vestía su armadura ligera de combate, cuyas placas se ajustaban con elegancia biomecánica a su silueta esbelta. Sus ojos de iris digital rosado siguieron el trabajo de Triel hasta que la semi-drow guardó las herramientas y se acercó a sentarse a su lado.</p>
+<p>Triel se quitó el chaleco técnico de los <em>Free Captains</em> para sacudirle el polvo. El emblema desgastado de la calavera alada brillaba tenuemente bajo las lámparas halógenas.</p>
+<p>—Oye, Axel... —comenzó Triel con timidez, mirando de reojo a la androide—. Antes escuché que mencionaste haber vivido algún tiempo en los asteroides de la Diáspora.</p>
+<p>—Afirmativo —respondió Axel con su tono medido y pausado—. Realicé labores de extracción y seguridad privada en varios asentamientos menores. Sectores X-21 y 332-40, principalmente.</p>
+<p>—¿Alguna vez... tuviste contacto con los capitanes libres? ¿Con los corsarios?</p>
+<p>Axel ladeó ligeramente la cabeza, procesando la pregunta mientras sus circuitos faciales emitían un tenue fulgor rosado.</p>
+<p>—Conozco sus códigos y he visto sus naves atracar en los enclaves sin ley, pero nunca operé bajo su bandera. En la Diáspora abundan las leyendas sobre su honor pirata, aunque mi análisis de datos sugiere que la mayoría son simples forajidos con buen departamento de propaganda. —La androide clavó sus ojos en el parche de la chaqueta de Triel—. ¿Tienes familiares entre ellos?</p>
+<p>Triel tragó saliva y desvió la mirada hacia el suelo metálico, apretando la tela del chaleco entre sus dedos.</p>
+<p>—Algo así... Cuestiones personales que dejé atrás cuando escapé hacia Absalón. Tal vez algún día tenga que regresar a buscar respuestas. Si llega ese momento, me gustaría contar contigo. Conoces aquellos asteroides mejor que nadie.</p>
+<p>Axel guardó la pistola en la funda del muslo con un chasquido suave y se puso en pie.</p>
+<p>—Los androides no poseemos vínculos familiares biológicos, Triel. Pero la tripulación que comparte el fuego de combate adquiere una equivalencia relacional semejante. Si decides viajar a la Diáspora, calcularé las mejores rutas para mantenerte con vida.</p>
+<p>Triel esbozó una sonrisa agradecida justo cuando Marloc y Benray entraban al taller con el mapa holográfico de la Estación Absalón desplegado en sus terminales.</p>
+<p>—Descanso terminado, equipo —anunció Marloc, ajustándose el gabán—. Ya es casi mediodía. Las aulas del Arcanamirium están abiertas y la pista sobre los experimentos de Marlene nos espera en la academia. Es hora de descubrir qué secretos ocultaba la investigadora antes de morir.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 13: <br><span class="chap-sub">El Saber del Arcanamirium</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. La toga del doctorado</h3>
+<p>El campus central del Arcanamirium se alzaba en el sector septentrional del Ojo como una sinfonía de arquitectura tecnomágica y jardines flotantes. Torres esbeltas de piedra blanca pulida y cristal fotónico se elevaban hacia la cúpula celeste de la estación, unidas entre sí por puentes colgantes donde runas arcanas luminosas parpadeaban al compás de los servidores cuánticos de la universidad.</p>
+<p>Al cruzar los arcos monumentales de la entrada, el grupo descubrió que el destino les brindaba una cobertura perfecta: una multitudinaria ceremonia de graduación de doctorados colmaba el atrio principal. Cientos de estudiantes de diversas especies —humanos, elfos, kasathas con cuatro brazos enfundados en togas de gala y lashuntas ataviadas con armaduras ceremoniales— abarrotaban las gradas bajo una lluvia de confeti holográfico.</p>
+<p>En el estrado, una pequeña shirren vestida con birrete académico y toga carmesí gesticulaba nerviosamente con sus cuatro apéndices ante el micrófono:</p>
+<p>—<em>«...y en conclusión de estos diez años de investigación para mi tesis doctoral»</em> —proclamaba la flamante doctora por los altavoces del campus—, <em>«los datos demuestran que los agujeros negros no son meros colapsos gravitacionales de masa estelar, sino órganos sensoriales de titánicas entidades extraplanares que habitan el tejido dimensional previo a la Brecha...»</em></p>
+<p>Una lashunta fornida en primera fila alzó su espada rúnica al aire profiriendo un grito de júbilo guerrero, mientras los birretes comenzaban a volar por los aires propulsados por diminutos microcohetes de adorno.</p>
+<p>—Aprovechemos el desorden académico —susurró Marloc, alzando el mentón con ademán distinguido mientras alisaba las solapas de su gabán—. Actúen con naturalidad. Si alguien pregunta, somos miembros de la comisión evaluadora de tecnomagia aplicada.</p>
+<p>Benray enderezó la espalda de inmediato, estiró el cuello y comenzó a caminar con una rigidez cómica, imitando el porte solemne de Marloc con las manos cruzadas a la espalda y los bigotes tiesos. A su lado, Gerty marchaba marcando el paso con sus cuatro brazos perfectamente pegados a los costados, mientras en su cúpula proyectaba un icono holográfico de un libro abierto con una lechuza sabia.</p>
+<p>—<em>Activando subrutina de camuflaje intelectual</em> —anunció el meca en un susurro metálico—. <em>Probabilidad de que el cuerpo docente nos confunda con eruditos de la Sorbona interestelar: once por ciento. Probabilidad de que noten que el roedor lleva croquetas en los bolsillos: noventa y nueve por ciento.</em></p>
+<p>—Cállate, Gerty, y disimula —bufó Triel, ocultando su chaleco corsario bajo una bata de laboratorio que había tomado prestada de una percha del pasillo.</p>
+<p>Sortearon el banquete de canapés y copas de néctar espumoso sin levantar sospechas y se adentraron en el ala residencial de los profesores. Allí, la algarabía de la fiesta quedó amortiguada por pesados mamparos aislantes y alfombras rúnicas que amortiguaban las pisadas.</p>
+<p>Al final de un largo corredor flanqueado por bustos de antiguos archimagos, se toparon con el primer obstáculo: una imponente puerta de aleación de cuarzo y titanio que requería una tarjeta de acceso de docente de rango superior para desbloquear los despachos de investigación avanzada.</p>
+<p>Desde una de las aulas abiertas contiguas, resonó una melodía acuática desentonada. Al asomarse con sigilo, Axel divisó a una criatura de complexión viscosa, dotada de múltiples cilios sensoriales y membranas branquiales, que limpiaba el suelo tarareando con unos aparatosos auriculares acolchados sobre la cabeza. Un manojo de tarjetas magnéticas de todos los colores colgaba de su cinturón de trabajo.</p>
+<p>—Es el conserje —susurró Axel, extrayendo una aguja de derivación sintética—. Puedo aproximarme en silencio absoluto y sustraer el pase sin causar daño biológico.</p>
+<p>—Espera, operativa —la frenó Benray, componiendo su mejor sonrisa de diplomático galáctico—. A veces la lengua es más rápida que los dedos. Observa y aprende.</p>
+<p>El ysoki entró al aula con paso resuelto, carraspeó con elegancia y saludó con una reverencia teatral:</p>
+<p>—¡Hombre, Richie, mi querido amigo! ¡Qué excelente selección musical para una tarde tan solemne!</p>
+<p>El conserje alienígena dio un brinco, se bajó los auriculares hacia el cuello y agitó sus cilios con sorpresa afable:</p>
+<p>—¿Eh? ¿Profesor...? Ah, disculpe, con la música submarina a todo volumen casi no escucho las vibraciones del aire. ¿Necesita algo el claustro docente?</p>
+<p>—Un pequeño percance con los campos estáticos del Ojo, estimado Richie —explicó Benray con ademán compungido, señalando a Marloc—. La tarjeta del distinguido doctor Boosmar ha sufrido una desmagnetización accidental justo cuando nos dirigíamos a cotejar unos registros urgentes en el archivo. ¿Sería tan amable de franquearnos el paso con su llave maestra? El decanato estará sumamente complacido con su diligencia.</p>
+<p>El conserje miró el imponente porte de Marloc, el brazo cibernético repleto de conductores arcanos y la mole de Gerty haciendo guardia en el pasillo, y asintió complacido:</p>
+<p>—¡Faltaría más, profesor! Ya decía yo que los servidores del cuadrante norte andan dando problemas con el polvo estelar. Pasen, pasen.</p>
+<p>Richie deslizó su tarjeta dorada por el lector de cuarzo. La compuerta siseó al abrirse, revelando el silencioso pasillo de las oficinas privadas.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El comprobante del laboratorio</h3>
+<p>El despacho de la profesora Marlene Boosmar estaba precintado con bandas policiales holográficas de color amarillo brillante donde parpadeaba el sello de los Protectores: <em>«ESCENA DE INVESTIGACIÓN JUDICIAL - PROHIBIDO EL PASO»</em>.</p>
+<p>Marloc no vaciló. Rompió el sello de un tirón con su mano metálica y empujó la puerta.</p>
+<p>El interior era un desastre de estantes volcados y archivadores vacíos. La policía de Absalón y los agentes corporativos habían registrado cada rincón: los terminales de escritorio habían sido arrancados de cuajo, los discos de datos brillaban por su ausencia y los paneles del suelo técnico estaban levantados. Sin embargo, en las paredes aún colgaban varias pinturas que paralizaron al tecnomante en el umbral.</p>
+<p>Eran retratos al óleo y lienzos holográficos de una mujer de mirada serena y cabellos castaños, sonriendo frente a paisajes de mundos lejanos. En la esquina del escritorio yacía un marco roto con una fotografía de Marlene sonriente junto a su esposa Ángela, con una dedicatoria grabada a mano: <em>«Para mi amada Marlene, que tu luz ilumine las estrellas»</em>. Al contemplarla de cerca, la perturbadora semejanza en los rasgos faciales de la investigadora con los suyos propios volvió a estremecer al tecnomante, ahondando el misterio de su identidad.</p>
+<p>Triel se acercó en silencio y apoyó una mano en el hombro de Marloc.</p>
+<p>—Lo siento, profesor... Se llevaron todo.</p>
+<p>—No todo —respondió Marloc con voz ronca, tragando saliva con esfuerzo—. Marlene conocía la burocracia de esta academia mejor que nadie. Sabía que los registros digitales pueden borrarse con un pulso electromagnético, pero la contabilidad física del Arcanamirium es casi imposible de purgar.</p>
+<p>El tecnomante se arrodilló junto a la papelera metálica derribada y comenzó a examinar el forro interior del cesto de reciclaje. Oculto tras una doble pestaña de cartón sintético, extrajo un pequeño recibo de despacho impreso en papel carbón autocalcográfico, arrugado pero perfectamente legible.</p>
+<p>Benray y Axel se inclinaron sobre su hombro para leerlo.</p>
+<p>—Es un comprobante de requisición interna de los almacenes subterráneos —leyó Marloc, con los ojos brillando de intensa fascinación—. Fechado exactamente veinticuatro horas antes de que Marlene fuera asesinada... y un día antes de que yo despertara en el suelo del aula diecisiete.</p>
+<p>—¿Qué solicitó? —preguntó Axel.</p>
+<p>—Un espécimen arqueológico catalogado como <em>Reliquia X-9</em> —respondió Marloc, señalando el código numérico—. Procedencia: yacimientos profundos de Castrovel, previos a la Brecha. Una estructura tecnomágica inerte diseñada para interactuar con motores de salto Drift. Y miren el destino de entrega: el laboratorio de xenoarqueología contiguo al aula diecisiete.</p>
+<p>—El laboratorio junto al aula donde tú apareciste sin recuerdos —comprendió Triel, abriendo los ojos de par en par—. Marlene no murió en un simple tiroteo callejero. Estaba experimentando con un artefacto de la Brecha que conectaba con el Drift... y alguien la silenció para apoderarse de la investigación.</p>
+<p>Marloc dobló el recibo con sumo cuidado y guardó el documento en el bolsillo interior de su gabán, junto a su pecho.</p>
+<p>—Ahora sabemos qué buscaban los sicarios de Extracciones Estelares —sentenció el tecnomante, volviéndose hacia la compuerta—. La roca que el <em>Acreon</em> remolca en el espacio no es un simple trozo de mineral. Oculta la misma tecnología que Marlene estaba desentrañando. Pero antes de irnos... hay un lugar más al que debemos acudir. El laboratorio donde se entregó esta reliquia está a escasos metros de aquí.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La esfera de Qabarat y los doce luceros</h3>
+<p>Siguiendo las coordenadas del comprobante, el grupo avanzó con cautela hacia el ala de investigación contigua al aula diecisiete, el mismo punto exacto donde Marloc había despertado apenas unos días atrás sin recuerdos de su pasado.</p>
+<p>La compuerta del laboratorio estaba fuertemente asegurada. No se trataba de una cerradura administrativa ordinaria, sino de una salvaguarda de alta seguridad con protección mixta: un cerrojo digital encriptado acoplado a un conjuro defensivo de <em>Proyectiles Mágicos</em>, preparado para descargar ráfagas letales de energía pura sobre cualquier intruso que intentara forzar el acceso.</p>
+<p>Triel se arrodilló junto al teclado, desplegando su kit de herramientas sónicas, mientras Marloc canalizaba contraconjuros en el aire con su brazo cibernético para amortiguar la carga mística. Trabajando en perfecta sincronía tecnológica y arcana, Triel puenteó los relés de seguridad en el milisegundo exacto en que Marloc disipaba el hechizo. Con un chasquido sordo y un destello de chispas azuladas que se extinguió en el aire, el mecanismo cedió y la pesada puerta neumática se deslizó hacia un lado.</p>
+<p>El interior del laboratorio de xenoarqueología era un santuario de ciencia experimental. En el centro de la sala, suspendido en el aire mediante anillos de contención electromagnética sobre una bancada de diagnóstico, flotaba el objeto de las investigaciones de Marlene: <strong>el Artefacto 12-724</strong>.</p>
+<p>Era una esfera metálica del tamaño de un balón reglamentario, compuesta por placas de aleación cobriza superpuestas y orificios geométricos que dejaban entrever un intrincado núcleo hueco. Su manufactura no pertenecía a ninguna civilización catalogada de los Mundos del Pacto; su diseño era anterior a la Brecha, milenario y forjado mediante principios tecnomágicos extintos.</p>
+<p>Marloc se apresuró a conectar su terminal a la computadora principal del laboratorio. Los registros de Marlene confirmaron que la reliquia había sido enviada meses atrás desde los claustros arqueológicos de la prestigiosa <strong>Universidad de Qabarat</strong>, en el planeta <strong>Castrovel</strong>. La investigadora no había estado catalogando la pieza como una simple curiosidad museística: había estado sometiéndola a intensas emisiones de energía a frecuencias armónicas crecientes —de 200 a 800 hercios—, intentando sintonizarla como si fuera un receptor dimensional. El último ensayo registrado databa con exactitud de la noche previa a la aparición de Marloc en el aula vecina.</p>
+<p>Fascinado y sobrecogido, el tecnomante extendió su mano enguantada hacia la esfera.</p>
+<p>En cuanto sus dedos rozaron el campo de contención, el artefacto reaccionó violentamente. Un zumbido agudo saturó la estancia y una luminiscencia dorada envolvió la bancada. A los ojos de Marloc, el laboratorio entero se disolvió en una penumbra cósmica infinita: flotando en el vacío, contempló <strong>doce puntos de luz brillante que formaban un círculo perfecto en el firmamento</strong>, pulsando con una vibración ancestral que resonó en lo más hondo de su alma.</p>
+<p>—¡Marloc! —gritó Triel mientras Axel cortaba de inmediato la alimentación de la consola.</p>
+<p>Una distorsión espacial sacudió el cuerpo del tecnomante. Por un instante aterrador, la materia biológica y mecánica de Marloc se volvió translúcida: atravesó limpiamente la mesa de trabajo como si fuera un espectro y cayó de rodillas al suelo del otro lado, sangrando profusamente por la nariz. En la superficie metálica de la mesa quedó grabada una perturbadora estela de distorsión estática, la misma silueta fantasmagórica que marcaba la pared contigua que comunicaba con el aula diecisiete. El enigma de su repentina aparición en la estación quedaba al fin revelado: el experimento de Marlene había desgarrado el velo dimensional.</p>
+<p>La esfera emitió un chasquido sónico, sus luces se apagaron y descendió suavemente sobre la base de goma, fría e inerte.</p>
+<p>Benray ayudó a Marloc a ponerse en pie mientras Axel le alcanzaba un pañuelo para limpiar la sangre:</p>
+<p>—Profesor... por los bigotes de mi abuela, creí que se desintegraba en el éter. ¿Qué demonios ha visto?</p>
+<p>—Doce estrellas... doce luces en círculo sobre la oscuridad —susurró Marloc, respirando con dificultad mientras se frotaba las sienes—. La esfera no es un simple artefacto mineral. Es un transmisor... una llave hacia algo mucho más antiguo. Y está ligada a mi llegada a este universo.</p>
+<p>Triel contempló la reliquia apagada y luego miró a sus compañeros con resolución:</p>
+<p>—No podemos dejarla aquí. Si Extracciones Estelares o los Protectores vuelven a registrar el campus, confiscarán el laboratorio y jamás sabremos la verdad sobre Marlene ni sobre tu origen, Marloc. ¿Nos la llevamos?</p>
+<p>—Nos la llevamos —asintió Marloc con firmeza, envolviendo la esfera con un paño térmico reforzado antes de guardarla en su mochila de viaje—. Descarguen también todas las bitácoras y lecturas de frecuencias de Marlene en mi terminal. Dondequiera que nos lleve el <em>Acreon</em>, este artefacto viajará con nosotros.</p>
+<p>Con la esfera de Qabarat custodiada en el equipo del tecnomante, las investigaciones de Marlene a salvo y un lote de suministros de repuesto en los bolsillos de Triel, el grupo abandonó el Arcanamirium con paso ágil, fundiéndose con la noche de Absalón. Tenían su misión hacia la nave fantasma en el horizonte, pero ahora llevaban consigo la pieza clave de un enigma interestelar que apenas comenzaba a despertar.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 14: <br><span class="chap-sub">Pacto con la Cripta</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. El mausoleo de mármol y hueso</h3>
+<p>La invitación había aparecido deslizada bajo la puerta de sus habitaciones al caer la noche: una cartulina pesada, ribeteada con pan de plata sobre terciopelo negro y sellada con cera carmesí. En ella, con caligrafía gótica impecable, se leía un único nombre: <em>Gevalarsk Nor, Embajador Plenipotenciario de Eox en los Mundos del Pacto</em>.</p>
+<p>—Señores, esto es una locura —había protestado Benray a medianoche, agitando la tarjeta en el aire con los pelos de la nuca completamente erizados—. ¡Eox! El planeta de los muertos vivientes. Criaturas cadavéricas que no respiran, no comen y no duermen. ¿Saben lo que le hacen a los roedores en esos lugares? ¡Probablemente nos disecan para usarnos de adornos navideños en sus tumbas!</p>
+<p>Sin embargo, tras una consulta urgente con Chiskisk por comunicador encriptado, el mentor shirren había sido tajante: Eox formaba parte legal del Pacto y el embajador Nor había solicitado formalmente su concurso como mediadores imparciales para la crisis del <em>Acreon</em>. Negarse a una audiencia diplomática no solo cerraría las puertas al espacio exterior, sino que enfurecería a uno de los poderes políticos más temidos de la galaxia.</p>
+<p>Al mediodía siguiente, los cuatro aventureros se plantaron frente a la embajada de Eox, en uno de los distritos más exclusivos y solemnes del Ojo.</p>
+<p>El edificio parecía un insulto deliberado al resto de la arquitectura luminosa de la estación. Era un zigurat piramidal de varios niveles construido íntegramente con mármol blanco y negro, decorado con celosías de hierro forjado que recordaban a jaulas torácicas y columnas vertebrales retorcidas. Figuras biomecánicas grotescas se fundían con la piedra en bajorrelieves que evocaban mausoleos antiguos, diseñados deliberadamente con techos bajos y proporciones monumentales para abrumar psicológicamente al visitante.</p>
+<p>En la escalinata exterior hacían guardia dos colosos de tres metros de altura: caballeros de la tumba (<em>graveknights</em>) embutidos en servoarmaduras pesadas de placas blindadas, portando cañones de asalto descomunales. Bajo las viseras de sus cascos no había rostros biológicos, sino calaveras blanqueadas en cuyas cuencas ardían dos llamaradas de fuego verde esmeralda.</p>
+<p>Al ver acercarse al grupo, uno de los centinelas levantó un puño blindado y una voz gutural, cavernosa como el eco de un sarcófago vacío, resonó por sus emisores:</p>
+<p>—<em>Los emisarios han llegado. Entren y desármense ante la eternidad.</em></p>
+<p>Las compuertas dobles de hierro fundido se abrieron hacia adentro sin emitir el menor chirrido. En el zaguán de recepción, tras un mostrador de obsidiana pulida, un esqueleto pulcro vestido con esmoquin y una pajarita de seda roja los recibió con una sonrisa perpetua e inmóvil.</p>
+<p>—<em>Protocolo de armas activado</em> —susurró Gerty, que se había quedado en el umbral—. <em>Detecto cero latidos biológicos en un radio de veinte metros. Sugiero retirada táctica hacia el bufé de tostadas.</em></p>
+<p>—Silencio, Gerty —le ordenó Triel mientras depositaba su pistola láser y su llave de salto en la bandeja de terciopelo.</p>
+<p>El esqueleto recepcionista emitió un comprobante de entrega en papel timbrado y se inclinó con teatral cortesía antes de que una figura encapuchada emergiera de las sombras del corredor interior.</p>
+<p>Vestía una túnica talar de terciopelo negro noche. Al retirar la capucha, reveló un rostro de piel cerúlea, entre azulada y verdosa, ojos lechosos y una boca amplia de la que asomaba una lengua alargada y bífida.</p>
+<p>—Bienvenidos a la embajada de los pueblos eternos —saludó la criatura con una voz sibilante y sorprendentemente melodiosa—. Mi nombre es Keltus, asistente personal del honorable embajador. Por favor, acompáñenme.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Las galletitas de Keltus y la mirada de Nor</h3>
+<p>Keltus los guio a través de galerías iluminadas por braseros de fuego frío que no proyectaban humo ni calor. En el salón de audiencias principal, una mesa de banquete de caoba negra de quince metros de longitud presidía la estancia bajo una colosal pintura al óleo que cubría la pared del fondo: representaba la legendaria batalla de contacto en la que las legiones no-muertas de Eox habían frenado el avance de la horda voraz de los shirren antes de la firma del Pacto.</p>
+<p>Al fondo de la mesa, sentado en un trono de respaldo alto esculpido con motivos napoleónicos, aguardaba el embajador.</p>
+<p>Gevalarsk Nor era una estampa imponente de la aristocracia elebriana (<em>elebrian</em>). Su cráneo se extendía elegantemente hacia atrás, alargado y desprovisto de cabello, con la piel apergaminada tensada sobre los pómulos óseos como pergamino antiguo. Vestía una casaca militar azul marino con charreteras de plata labrada, cordones dorados cruzando el pecho y un cuello alto rígido que enmarcaba su rostro cadavérico. Pero lo que helaba la sangre eran sus ojos: dos orbes donde no existían pupilas, sino dos llamaradas vivas de fuego verde que danzaban con gélida inteligencia.</p>
+<p>Al verlos entrar, el embajador se puso en pie con una inclinación pausada y aristocrática:</p>
+<p>—Sean bienvenidos a mi humilde residencia, aventureros. Es un honor recibir a personalidades tan distinguidas.</p>
+<p>Nor recorrió al grupo con su mirada espectral, dedicando una palabra a cada uno con una precisión inquietante:</p>
+<p>—Señorita Triel Istrav... su linaje drow goza de gran prestigio y respeto entre los eruditos de Eox; que su casa prospere por diez milenios. Señor Marloc Boosmar... lamento profundamente la trágica desaparición de Marlene Boosmar, una mente brillante cuya pérdida empobrece la ciencia del Pacto. Unidad A.Xel 42... siento una profunda afinidad hacia los de su clase: ninguno de los dos cargamos con la engorrosa servidumbre de la respiración. Y señor Benray Galway... he seguido con genuino deleite sus temerarios holovídeos de acrobacias en la red; su audacia es legendaria.</p>
+<p>Benray tragó saliva ruidosamente, frotándose las orejas perforadas con aretes.</p>
+<p>—Eh... gracias, señor embajador. Es usted muy amable... para no tener pulso.</p>
+<p>Keltus se aproximó a la mesa portando una bandeja de plata y comenzó a servir con exquisita compostura:</p>
+<p>—¿Desean una copa de vino añejo de las bodegas de Eox? ¿Una taza de té caliente? ¿Agua purificada para el señor roedor? Y por favor, tomen una de estas galletitas con forma de estrella. Las he horneado personalmente esta mañana; tienen un toque sutil de anís estrellado que suele ser del agrado de los seres vivos.</p>
+<p>Triel y Marloc intercambiaron una mirada perpleja. Keltus, aquel necrófago de lengua bífida que en cualquier manual de combate aparecía catalogado como devorador de carroña, les ofrecía pastas caseras con la delicadeza de una abuela complaciente.</p>
+<p>—El anís... huele excelente, señor Keltus —murmuró Triel, tomando una galleta con cautela y masticándola despacio ante la sonrisa complacida del gul.</p>
+<p>El embajador Gevalarsk Nor tomó asiento de nuevo, entrelazando sus dedos largos y delgados sobre el tapete:</p>
+<p>—Vayamos a los asuntos de Estado. Como sabrán, la situación del <em>Acreon</em> y la llamada Roca del Drift ha alcanzado un punto muerto. La megacorporación Extracciones Estelares y el Colectivo minero Hardscrabble reclaman la posesión exclusiva del asteroide. El Consejo de Síndicos está paralizado por la burocracia y ninguna de las partes consiente que la otra ponga un pie en el pecio. Por ello, el gobierno de Eox ha ofrecido sus buenos oficios para costear y enviar una expedición de arbitraje completamente neutral e independiente. Y ustedes han sido los elegidos.</p>
+<p>Marloc dio un paso al frente, apoyando la mano en el respaldo de una silla:</p>
+<p>—¿Y qué gana Eox con este arbitraje, embajador? Su pueblo no suele involucrarse en disputas mineras por simple altruismo.</p>
+<p>Las flamas verdes en los ojos de Nor brillaron con mayor intensidad.</p>
+<p>—La estabilidad comercial del Pacto beneficia a todos, señor Boosmar. Además, he dispuesto con Inversiones Estelares que se les asigne una nave de exploración ligera adecuada para la misión: el <em>Hippocampus</em>, un transporte minero que he financiado para dotarlo de escudos reforzados y sistemas de armamento de grado naval. Pero... existe un pequeño detalle adicional. Un favor privado que deseo confiarles.</p>
+<p>Benray dio dos pasos hacia atrás, entrecerrando los ojos con suspicacia ysoki:</p>
+<p>—Sabía que había letra pequeña. Siempre hay una cláusula con trampa.</p>
+<p>—Nada ilegal, se lo aseguro, señor Galway —sonrió Nor, mostrando una hilera perfecta de dientes blanquecinos—. Antes de quedar a la deriva en el Drift, el <em>Acreon</em> transportaba una encomienda personal dirigida a mi persona. Una caja sellada de transporte diplomático, de tamaño mediano, que contiene reliquias y restos familiares de gran valor sentimental para mi linaje. Deseo que la localicen a bordo y la transfieran a su nave para entregármela directamente a mí, sin pasar por los tediosos inventarios de aduanas ni los ojos indiscretos de los reporteros.</p>
+<p>—¿Contrabando en un pecio en cuarentena? —terció Axel con su tono monocorde—. Eso incrementa el factor de riesgo legal en un cuatrocientos por ciento.</p>
+<p>—Por sus molestias —continuó el embajador con voz aterciopelada—, ofrezco gratificar a cada uno de ustedes con quinientos créditos adicionales al término de la misión.</p>
+<p>Benray carraspeó, dio un paso adelante y se mesó los bigotes con aire calculador:</p>
+<p>—Seiscientos créditos para cada uno, señor embajador. Y la tripulación no hará preguntas sobre el contenido de la caja ni nosotros nos haremos responsables si el embalaje viene rayado por la metralla.</p>
+<p>Gevalarsk Nor soltó una risita seca, como el crujido de hojas secas en otoño, y extendió su mano pálida y huesuda sobre la mesa:</p>
+<p>—Trato hecho, señor Galway. Su ambición es refrescante en un universo tan timorato. Recojan su transporte en los hangares mineros del Colectivo Hardscrabble mañana a primera hora. Y que las estrellas velen por su viaje... porque en el vacío del <em>Acreon</em>, mis queridos amigos, la muerte no siempre descansa en paz.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 15: <br><span class="chap-sub">Carnitas y Despedidas</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Cortesía corporativa y cristal azul</h3>
+<p>Antes de descender a los niveles obreros de la estación, la tripulación debió atender un compromiso ineludible. Un mensajero de Inversiones Estelares S.C. les había entregado una notificación prioritaria en el vestíbulo de su hotel: la megacorporación Extracciones Estelares requería una «audiencia preliminar de cortesía» con los mediadores designados por el Consejo.</p>
+<p>La sede central de la corporación ocupaba un rascacielos colosal de cristal azul cobalto en el corazón del Ojo. En el atrio principal, techos de cincuenta metros de altura cobijaban una escultura hidro-holográfica de trescientos millones de créditos que expulsaba finos chorros de agua vaporizada sobre placas de roca estelar pulida. Por doquier, pantallas de ultra-alta definición proyectaban escenas bucólicas de naves mineras extrayendo riqueza de asteroides lejanos bajo el lema corporativo: <em>«Prosperidad Compartida para los Mundos del Pacto»</em>.</p>
+<p>Una recepcionista de sonrisa ensayada los condujo hasta una sala de juntas privada en los pisos superiores. En cuanto las puertas blindadas se deslizaron, las luces ambientales se atenuaron súbitamente hasta la penumbra total. En el mamparo frontal se activó un holovídeo corporativo acompañado de música épica de sintetizadores:</p>
+<p>—<em>«Extracciones Estelares es muchas cosas...»</em> —narraba una voz institucional envolvente mientras en pantalla desfilaban mineros pulcros y sonrientes—. <em>«Es esfuerzo. Es oportunidad. Es crecimiento compartido. Y, sobre todo, es la pasión inquebrantable por conectar los recursos del cosmos con el corazón de cada hogar del Pacto.»</em></p>
+<p>Triel entrecerró los ojos en la penumbra. Sus sentidos entrenados en la Diáspora se fijaron en las letras pequeñas y en las siluetas de los cargueros escolta en el fondo de una de las tomas industriales:</p>
+<p>—Miren las torretas de esos transportes —le murmuró por lo bajo a Marloc—. No son modelos civiles. Llevan baterías pesadas de fabricación drow de Apostae. Estas corporaciones se llenan la boca de fraternidad, pero le compran el blindaje a los señores de la guerra de mi pueblo.</p>
+<p>El vídeo se apagó de golpe, la sala recuperó su luz blanca quirúrgica y una compuerta lateral se abrió.</p>
+<p>Por ella entró la señorita George.</p>
+<p>La ejecutiva de Extracciones Estelares era una lashunta de presencia impecable. Su piel de una suave tonalidad ambarina contrastaba con un traje sastre gris carbón de corte sobrio pero carísimo, y sobre su sien izquierda descansaba un estilizado visor de datos cuántico con auricular integrado. Sus largas antenas craneales, finas y alertas, se curvaron con calculada deferencia al contemplar al variopinto pelotón de mediadores.</p>
+<p>—Disculpen el pequeño inconveniente técnico con la iluminación —dijo la señorita George con un tono melifluo y profesional, ofreciendo una mano enguantada—. Soy la señorita George, enlace institucional y asesora jurídica de Extracciones Estelares. Les agradezco la puntualidad.</p>
+<p>Benray le estrechó la mano con una leve inclinación de cabeza:</p>
+<p>—Capitán Galway, a su servicio. Díganos, señorita George, ¿a qué debemos el honor de esta presentación cinematográfica?</p>
+<p>—Al sentido común, capitán —respondió la lashunta, tomando asiento al frente de la mesa de conferencias y entrelazando los dedos—. Saben que el Consejo de Síndicos y el magistrado Chiskisk los han propuesto como árbitros independientes para inspeccionar el <em>Acreon</em>. Extracciones Estelares valora profundamente la objetividad... pero también consideramos fundamental que los árbitros comprendan el marco legal antes de pisar el muelle.</p>
+<p>Marloc dio un paso al frente, ajustándose las mangas de su túnica:</p>
+<p>—El marco legal depende de los estatutos del Pacto, señorita George.</p>
+<p>—Por supuesto, tecnomante Boosmar —concedió ella con una sonrisa gélida—. Y el estatuto sobre prospección es concluyente. Extracciones Estelares financió íntegramente la expedición del <em>Acreon</em>: combustible, suministros, amortización de nave y los salarios de esos buenos muchachos del sindicato. Según la cláusula decimocuarta de su contrato de fletamento, cualquier depósito, veta o cuerpo celeste remolcado o descubierto en el curso de su actividad de prospección pertenece por derecho exclusivo a la corporación. Los mineros son apasionados, comprensiblemente sentimentales, pero las leyes de los Mundos del Pacto no se redactan con emociones.</p>
+<p>La lashunta se inclinó levemente sobre la mesa y se tocó sutilmente la aleta de la nariz con el dedo índice, un gesto corporativo que no pasó desapercibido para Axel ni para el emisario ysoki:</p>
+<p>—Nuestra compañía valora enormemente a los profesionales dotados de buen juicio y perspectiva de futuro. Colaborar con nosotros y garantizar que la ley se respete suele ser... extraordinariamente lucrativo para todas las partes.</p>
+<p>—Nuestra tripulación solo informará de la verdad material que hallemos en el pecio —respondió Axel con su tono analítico y gélido—. Cualquier interpretación sobre dividendos queda fuera de nuestro protocolo de inspección.</p>
+<p>La señorita George mantuvo la sonrisa, aunque una leve crispación recorrió sus antenas. Con un suave ademán, señaló una elegante cesta de mimbre sintético adornada con cintas plateadas que descansaba sobre una mesita auxiliar:</p>
+<p>—Por descontado. Confiamos en su profesionalidad. Y como muestra de nuestra consideración institucional, les ruego que acepten este pequeño detalle de bienvenida corporativa.</p>
+<p>Benray se asomó a la cesta: en su interior había tres frascos de crema hidratante dérmica, pastillas de jabón aromático con olor a lavanda sintética, sales de baño de burbujas y dos tarjetas holográficas que resultaron ser pases de cine válidos únicamente para sesiones matinales de los jueves.</p>
+<p>—Caramba... —soltó Benray, conteniendo la risa con esfuerzo mientras levantaba un frasco de jabón—. Casi siento deseos de llorar de la emoción. No todos los días una megacorporación multimillonaria te abre las puertas al glamur del baño con sales y películas entre semana.</p>
+<p>—Un simple detalle de cortesía, señor Galway —replicó la señorita George con sequedad, poniéndose en pie para dar por zanjada la cita—. Que tengan un viaje productivo al <em>Acreon</em>. Estaremos muy atentos a sus conclusiones.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El clan de la Espiga</h3>
+<p>El contraste entre el cristal glacial de las torres de Extracciones Estelares y el bullicio ardiente de los niveles inferiores de la Espiga era tan violento que a Benray le costó un par de minutos aclimatar los sentidos.</p>
+<p>Allí abajo, donde los conductos de ventilación principal de Absalón goteaban condensación sobre las pasarelas metálicas oxidadas y las luces de vapor titilaban en tonos anaranjados, no existían protocolos diplomáticos ni sonrisas aristocráticas. Existía la vida en su estado más puro, caótico y ruidoso: el corazón palpitante del clan Galway.</p>
+<p>Al final de un laberinto de corredores industriales, una plaza abierta entre talleres clandestinos de chatarra desprendía un aroma embriagador que hizo rugir los estómagos de la tripulación: carne asada chisporroteando sobre braseros hechos con mitades de barriles de combustible reciclados, cebolletas asadas, tortillas de maíz sintético prensadas a mano y especias picantes que hacían toser a los no acostumbrados.</p>
+<p>—¡Benray, cabronazo, estás vivo! —resonó un grito estentóreo desde el otro extremo de la plaza.</p>
+<p>Una marea de ysokis menudos de todos los tamaños y colores de pelaje —marrones, grises, atigrados y manchados— se abalanzó sobre el emisario. Tías con delantales manchados de grasa le tiraban de los bigotes, primos pequeños trepaban por sus pantalones cargo para arrebatarle caramelos y media docena de tíos le palmeaban la espalda con tal fuerza que casi le hacen escupir los pulmones.</p>
+<p>—¡Familia, familia, tranquilos, que arrugan el chaleco de gala! —reía Benray, repartiendo abrazos y esquivando mordisquitos cariñosos con la soltura de quien regresa al hogar.</p>
+<p>Al frente del asador principal, un ysoki rechoncho de pelaje grisáceo oscuro, con gafas de soldador descansando sobre su cabeza y las orejas repletas de aros de cobre, sostenía unas pinzas de cocina con destreza milimétrica. Era Rim Rey, el primo mecánico de Benray y el preparador clandestino más respetado de toda la Espiga.</p>
+<p>—¡Primo! —exclamó Rim Rey, soltando las pinzas para darle un abrazo que crujió las costillas de Benray—. ¡Por fin te dignas a bajar de los barrios finos del Ojo! Escuché que te andabas codeando con la policía y con los muertos vivientes. ¡Toma un taco de carnitas y cuéntamelo todo antes de que la tía Rosa te obligue a bailar!</p>
+<p>Marloc, Triel, Axel y Gerty se aproximaron al círculo familiar con cierta cautela. Axel observaba el ritual con sus sensores analíticos al máximo, registrando el intercambio calórico y los abrazos con fascinación distante, mientras Gerty permanecía a dos metros del fuego, desconfiando abiertamente de las chispas que saltaban hacia sus placas blindadas.</p>
+<p>—<em>Advertencia térmica</em> —anunció el meca por sus altavoces—. <em>La concentración de grasas animales en suspensión en este sector supera los parámetros de higiene militar. Solicito autorización para desplegar pantalla cortafuegos.</em></p>
+<p>—Cállate y come, Gerty... o al menos haz como que te diviertes —le susurró Triel, aceptando con una sonrisa radiante un plato de carnitas humeantes que una prima ysoki le ofrecía con timidez—. Señora, esto huele absolutamente delicioso. Muchas gracias.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La motoneta vespacial y las sombras corporativas</h3>
+<p>Tras el festín y los brindis con aguardiente de tubérculos fermentados, Rim Rey apartó a Benray hacia el fondo de su taller, descorriendo una lona ignífuga que cubría un rincón del garaje.</p>
+<p>Allí descansaba la mayor joya material del emisario: su motoneta «vespacial».</p>
+<p>Era una máquina de dos ruedas repulsoras, de chasis tubular ligero pintado en azul eléctrico con llamas plateadas aerografiadas a mano en los laterales, manillar elevado con espejos retrovisores cromados y un motor de gravitón modificado que zumbaba con un ronquido grave y seductor.</p>
+<p>—Mírala, primo... —suspiró Benray con los ojos empañados de orgullo paternal—. Más bonita que una fragata de batalla de los Mundos del Pacto.</p>
+<p>—Le cambié los inyectores de plasma, le afiné la suspensión magnética y le instalé un depósito de combustible auxiliar en el hueco bajo el asiento —explicó Rim Rey, secándose las manos grasientas con un trapo—. Además, el viejo Marcelo me dio esto para ti antes de que la policía cerrara el muelle.</p>
+<p>Rim Rey extrajo de debajo del banco de trabajo un saco de lona pesada, cerrado con cinta adhesiva donde alguien había escrito con rotulador rojo: <em>«NO TOCAR - PELIGRO DE MUERTE»</em>.</p>
+<p>Benray abrió la cremallera con cuidado: en el interior descansaban cuatro granadas de pulso de grado militar, dos cargadores de alta densidad para fusiles láser y una docena de parches dérmicos de coagulación rápida.</p>
+<p>—Regalo de despedida —dijo Rim Rey en voz baja, bajando las orejas y adoptando un tono inusualmente serio—. Y vas a necesitarlo, primo. Desde que salieron de la embajada de Eox, hay dos tipos con trajes grises y gabardinas corporativas rondando las esquinas del callejón. Preguntaron por ti en la cantina de abajo. Son sabuesos de Extracciones Estelares.</p>
+<p>Marloc y Axel se acercaron al escuchar el cambio de tono.</p>
+<p>—¿Los viste de cerca? —preguntó Marloc, posando los dedos mecánicos sobre la empuñadura de su pistola.</p>
+<p>—Llevaban implantes cibernéticos de combate en el cuello y comunicadores de enlace satelital —respondió Rim Rey—. No querían problemas con el clan porque saben que si se meten con un ysoki en la Espiga les caen cien llaves inglesas en la cabeza, pero les están siguiendo el rastro. Saben que van tras el <em>Acreon</em>.</p>
+<p>Benray montó en su motoneta, acariciando el manillar con una mueca burlona en los labios:</p>
+<p>—Que miren todo lo que quieran. Mañana estaremos en órbita a millones de kilómetros de sus oficinas. Rim, cuida a la familia y guárdame la motoneta en un lugar seguro. Si regreso sin ella, prefiero que me coma un monstruo del vacío.</p>
+<p>—Descuida, hermanito —sonrió Rim Rey, estrechándole la pata—. El clan Galway no olvida a los suyos. Salgan ahí fuera, demuéstrenles a esas corporaciones de qué estamos hechos y vuelvan vivos para la próxima carne asada.</p>
+<p>Con el saco de suministros cargado en los hombros metálicos de Gerty y el calor familiar templando sus ánimos, el grupo abandonó los Bajos en dirección a los astilleros del Anillo. La noche sobre Absalón tocaba a su fin; a pocas horas de distancia, su nueva nave los aguardaba en los muelles de atraque.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 16: <br><span class="chap-sub">El Caballito de Mar</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. El veterano del Corredor de Caminos</h3>
+<p>El sector minero del Anillo en la Estación Absalón no tenía el lustre corporativo del Ojo ni la decadencia asfixiante de la Espiga. Era un territorio de obreros del espacio, donde el aire sabía a óxido de hierro, queroseno espacial y sudor frío. En los muelles secos de gran tonelaje, gigantescas grúas de carga transportaban lingotes de mineral bruto entre el estrépito de martillos neumáticos y llamaradas de soldadura industrial.</p>
+<p>Fue en la esclusa de embarque número doce donde el grupo conoció al hombre que custodiaba su pasaje a las estrellas.</p>
+<p>El Capitán Otal Seris los aguardaba en la pasarela de atraque con los brazos cruzados y las piernas bien asentadas sobre la rejilla metálica, como si desafiara la gravedad artificial de la estación. Era un humano de complexión robusta y espalda ancha que rondaba la cincuentena, con el cabello castaño cortado casi al rape, salpicado de canas en las sienes. Vestía una chaqueta azul marino de paño grueso con ribetes náuticos espaciales y botones de bronce desgastados. En el lado izquierdo de su rostro, un implante cibernético ocular de aleación mate reemplazaba el ojo biológico, emitiendo un tenue zumbido sónico y una lente irisada calibrada para enfocar en la penumbra del vacío.</p>
+<p>Al verlos llegar, el veterano capitán dio dos pasos al frente con una amplia sonrisa afable y franca:</p>
+<p>—¡Por las lunas de Liavara, al fin están aquí! —exclamó Seris con voz de barítono curtida en puentes de mando—. Bienvenidos al muelle del Colectivo Hardscrabble. Soy el capitán Otal Seris, comandante del <em>Corredor de Caminos</em>. Es un auténtico honor recibir a los mediadores que el Consejo e Inversiones Estelares nos han enviado.</p>
+<p>El capitán se detuvo frente a Triel, inclinó ligeramente el torso y le tomó la mano con galantería de la vieja guardia:</p>
+<p>—Señorita Istrav... un auténtico placer contar con una ingeniera de su calibre a bordo. —Luego se volvió hacia el ysoki, extendiéndole una mano ancha y callosa—. Y el señor Benray Galway. He visto sus vídeos acrobáticos en la holored, muchacho; hay que tener un par de propulsores muy bien puestos para tirarse al vacío en una motoneta como usted lo hace.</p>
+<p>Benray infló el pecho, devolviéndole el apretón con entusiasmo:</p>
+<p>—El secreto está en calcular el vector de escape, capitán... y en rezar para que los amortiguadores no revienten. Díganos, ¿dónde está nuestra belleza?</p>
+<p>Otal Seris soltó una carcajada ronca, mesándose la barba entrecana:</p>
+<p>—Tranquilo, muchacho, está lista en la dársena. Pero antes díganme una cosa: me imagino que la señorita George y su corte corporativa ya intentaron dorarles la píldora en sus torres de cristal, ¿verdad? Esos burócratas de Extracciones Estelares siempre hacen lo mismo cuando el Consejo nombra árbitros independientes: les proyectan vídeos de propaganda y les encasquetan una cesta de bienvenida con jaboncitos perfumados, cremas de baño y pases de cine baratos para los jueves. Creen que el hedor del vacío y la sangre se disimulan con cosméticos de lujo.</p>
+<p>Benray se atusó los bigotes con una sonrisa pícara:</p>
+<p>—Nos tragamos su vídeo institucional y casi nos ahogamos en su lavanda sintética, capitán. La cesta se quedó en el vestíbulo del hotel. Hará falta mucho más que sales de baño y cremas corporativas para comprar el dictamen de esta tripulación.</p>
+<p>—Bien dicho —asintió Seris con franca satisfacción obrera, dándole una palmada en el hombro—. Esa calaña de cuello blanco cree que todo el mundo tiene un precio. Vengan, permítanme mostrarles su montura.</p>
+<p>Otal Seris señaló con el pulgar hacia la bahía de despresurización tras la compuerta blindada:</p>
+<p>—En la dársena principal. Es una nave ligera de exploración y transporte minero del Colectivo. Nosotros la apodamos cariñosamente el <em>Hippocampus</em>... el <em>Caballito de Mar</em>.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Calibrando los motores del Hippocampus</h3>
+<p>Al entrar en el hangar, la tripulación se detuvo a contemplar su nueva montura estelar.</p>
+<p>El <em>Hippocampus</em> medía unos cuarenta metros de eslora. Su diseño rompía con las líneas puntiagudas de los cazas militares: tenía un casco redondeado y robusto de aleación de duracero reforzado, con una cabina frontal acristalada que recordaba la cabeza de un caballito de mar, alas dorsales curvadas que albergaban los estabilizadores magnéticos y dos góndolas de propulsión masivas en la popa. Aunque originalmente había servido como transporte geológico para prospectores independientes, las modificaciones costeadas por la embajada de Eox e Inversiones Estelares saltaban a la vista: una torreta de cañón láser doble instalada en la panza, escudos deflectores de grado naval y sensores de largo alcance recién pulidos.</p>
+<p>—Es magnífica —susurró Triel, con los ojos carmesíes brillando de emoción genuina—. Gerty, acompáñame a la sala de máquinas. Hay que revisar los condensadores y el núcleo del Drift antes del despegue.</p>
+<p>—<em>Accediendo a la sala de máquinas</em> —confirmó el dron, avanzando con pasos metálicos pesados por la rampa de acceso—. <em>Aviso: detecto residuos de lubricante mineral grado cuatro. Un entorno mecánicamente civilizado, al fin.</em></p>
+<p>Mientras Marloc y Axel revisaban las consolas del puente de mando y Benray aseguraba sus provisiones y su saco de armamento en los camarotes de estribor, Triel se sumergió en las entrañas técnicas de la nave.</p>
+<p>La sala de máquinas olía a refrigerante fresco y campos magnéticos cargados. El núcleo del motor Drift —una esfera de aleación de contención cuántica donde se canalizaba el salto a través de la dimensión hiperespacial— zumbaba con una vibración armónica perfecta.</p>
+<p>Gerty, utilizando con pasmosa soltura sus dos nuevas manos inferiores de motricidad fina, ajustaba los sellos de las válvulas de combustible mientras Triel tecleaba en la pantalla de diagnóstico:</p>
+<p>—Los inyectores responden al cien por ciento —anunció la semi-drow secándose la frente con el dorso de la manga—. Los tanques de oxígeno tienen autonomía para seis semanas y la atmósfera interna está estabilizada a presión terrestre. Gerty, ajusta el sincronizador de los motores a noventa y ocho megavatios.</p>
+<p>—<em>Parámetro ajustado</em> —respondió el dron, girando una válvula con sus dedos metálicos antes de admirar su propia extremidad—. <em>Debo admitir, jefa, que estas manos añadidas aumentan mi rendimiento en un cuarenta por ciento. Si algún goblin insolente intenta desatornillarme una placa, podré estrangularlo con los brazos inferiores mientras sigo disparando con los superiores.</em></p>
+<p>Triel soltó una carcajada y le dio una palmada en el hombro al meca.</p>
+<p>En el puente de mando, el capitán Otal Seris se reunió con Marloc y Axel frente a la consola de navegación táctica. El veterano marino espacial insertó un chip de datos en la ranura de comunicaciones:</p>
+<p>—Aquí tienen las coordenadas de aproximación orbital. El <em>Acreon</em> flota a unas doscientas mil millas de la estación, más allá del cinturón de seguridad de la Armada. Flota completamente inerte. Los escáneres a distancia confirman que sus motores principales están apagados y no hay señales de radio en las frecuencias de emergencia.</p>
+<p>Seris hizo una pausa, y su único ojo biológico se ensombreció con una profunda tristeza obrera:</p>
+<p>—A bordo de esa nave viajaban compañeros nuestros. Familias enteras de mineros del Colectivo. La capitana Elba Sohar era una mujer dura, prudente y leal como pocas. Si la nave fue abandonada o si ocurrió una catástrofe biológica, necesito que traigan sus bitácoras de vuelta. Limpien el nombre de nuestros muchachos ante el Consejo. No permitan que Extracciones Estelares invente excusas para robarles su reclamo.</p>
+<p>Marloc asintió con solemnidad, colocando su mano sobre el hombro del capitán:</p>
+<p>—Tiene mi palabra de honor, capitán Seris. Descubriremos la verdad de lo que ocurrió a bordo del <em>Acreon</em>.</p>
+<p>—Que el vacío les sea leve, muchachos —se despidió Seris, descendiendo por la rampa mientras las sirenas de desacople del muelle comenzaban a sonar—. El <em>Caballito de Mar</em> es todo suyo.</p>
+<p>Las compuertas del hangar se cerraron herméticamente. En el puente, Triel tomó los controles de ingeniería, Benray ocupó el puesto de comunicaciones, Marloc se situó en los sensores de escaneo y Axel aferró el timón de maniobra con pulso milimétrico.</p>
+<p>Los motores del <em>Hippocampus</em> cobraron vida con un rugido ensordecedor que hizo vibrar el casco. Las luces de la bahía se apagaron, la compuerta espacial exterior se deslizó hacia los lados, y ante la proa de la nave se abrió el abismo infinito y estrellado del cosmos.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 17: <br><span class="chap-sub">Insinuación Mortal</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Más allá del enjambre</h3>
+<p>El desacople del muelle doce se sintió como una suave sacudida en la espina dorsal.</p>
+<p>Los propulsores de maniobra del <em>Hippocampus</em> expulsaron breves ráfagas de gas comprimido, separando el casco de las guías magnéticas del muelle. Lentamente, la nave avanzó por el cañón de amarre hasta emerger al espacio abierto, donde la colosal estructura de la Estación Absalón comenzó a empequeñecerse en las pantallas panorámicas de la cabina.</p>
+<p>Dejar atrás el Ojo y el Anillo significaba despedirse del ruido, de las luces de neón y de la confortable ilusión de la atmósfera terrestre. Ante ellos se extendía el cinturón exterior de la Armada: miles de pontones oxidados, barcazas de combustible y chatarreros que orbitaban en formación caótica. Conforme el <em>Hippocampus</em> aumentaba la potencia de sus propulsores principales de gravitón, las siluetas de las naves piratas y los refugios flotantes quedaron atrás, disolviéndose en el silencio absoluto del vacío interestelar.</p>
+<p>En el puente de mando, dos pequeños dispositivos mecánicos sobrevolaban a la tripulación con zumbidos magnéticos característicos.</p>
+<p>El primero era el dron diplomático de la embajada de Eox: un aparato esférico de metal oscuro labrado con filigranas barrocas, cuyo lente óptico verde seguía con fría insistencia cada movimiento de Marloc y Triel.</p>
+<p>El segundo, flotando obstinadamente a la altura del hombro de Benray, era una cámara deportiva ultraligera pintada de rojo fuego con llamas amarillas en los costados. Era un regalo de <strong>Marcellus</strong>, un enigmático y extravagante editor audiovisual y productor de contenidos de los bajos fondos de Absalón con quien el ysoki mantenía un pacto comercial en la sombra: Benray le transmitía paquetes de metraje crudo a través de una frecuencia cuántica privada, y Marcellus se encargaba de editar los vídeos, añadir fanfarrias dramáticas y filtrar la holotransmisión en los canales no oficiales de la estación para gloria, fama y patrocinio del grupo.</p>
+<p>—¡Qué tal, suscriptores de la holored y amantes del peligro extremo! —narraba Benray con entusiasmo desbordante frente a su lente, acomodándose sus gafas de sol a pesar de encontrarse en una cabina presurizada—. Aquí su amigo Benray Galway transmitiendo en exclusiva desde el cuadrante exterior de Absalón. A mi espalda, la tripulación más temeraria del sistema y nuestra fiel nave, el <em>Caballito de Mar</em>. En escasos minutos realizaremos el primer abordaje oficial al pecio fantasma del <em>Acreon</em>. ¡No olviden suscribirse, darle al pulgar y dejar sus donaciones en créditos antes de que el vacío nos trague! Marcellus, viejo amigo, ¡recorta mis tomas malas y asegúrate de que mi perfil bueno salga en primera plana!</p>
+<p>—Benray —intervino Axel sin apartar la vista del cuadrante de navegación—, transmitir coordenadas y frecuencias operativas en un canal público incrementa la probabilidad de ser interceptados por naves corsarias en un ochenta y dos por ciento. Y desconozco qué protocolos de cifrado utiliza ese editor tuyo.</p>
+<p>—Tranquila, operativa —replicó el roedor, guiñando un ojo a la cámara—. El metraje pasa primero por los filtros de Marcellus y sale en diferido con un retardo cuántico de dos horas. Si nos atacan, al menos mi canal ganará diez millones de visualizaciones póstumas.</p>
+<p>Marloc sonrió de medio lado mientras calibraba el espectrómetro de masas en la consola de sensores:</p>
+<p>—La vanidad del roedor no tiene cura. Atención, todos: estamos entrando en el sector de alcance visual.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La sombra del pecio y la roca</h3>
+<p>El silencio en el puente se volvió espeso cuando Axel redujo la aceleración de crucero.</p>
+<p>En la pantalla panorámica principal, recortada contra el tapiz infinito de estrellas distantes, emergió la imponente y desolada silueta del <em>Acreon</em>.</p>
+<p>Era un carguero minero de gran tonelaje, de casi doscientos metros de longitud, con un casco macizo de aleación gris oscuro que exhibía profundas cicatrices de impactos de micrometeoritos y paneles de blindaje abollados. Sus motores principales estaban muertos, con las toberas de escape cubiertas por una capa de escarcha estelar. No había luces de posición parpadeando en sus antenas, ni balizas de emergencia emitiendo en las frecuencias del Pacto. Flotaba a la deriva, inerte y silenciosa como un leviatán de hierro dormido en el abismo.</p>
+<p>Pero lo más sobrecogedor no era la nave, sino lo que arrastraba tras de sí.</p>
+<p>Unida a la popa del carguero mediante cinco cables de tracción titánicos, de decenas de metros de grosor y anclados a la roca mediante gigantescos pernos mecánicos de tornillo, flotaba la llamada <strong>Roca del Drift</strong>.</p>
+<p>Era un asteroide de forma irregular, de casi trescientos metros de diámetro. A diferencia de los pedruscos minerales habituales de la Diáspora, cuya superficie solía ser áspera y porosa, la roca presentaba una tonalidad negruzca y lustrosa, casi vítrea, salpicada de vetas de un mineral azulado que parecía refractar la luz lejana con pulsaciones tenues y anómalas. En varias secciones del promontorio rocoso se apreciaban aberturas geométricas perfectamente rectilíneas que desafiaban cualquier explicación geológica natural.</p>
+<p>Triel contuvo el aliento, ajustándose los auriculares de comunicaciones:</p>
+<p>—Los escáneres confirman atmósfera cero en las cubiertas del <em>Acreon</em>. La compuerta exterior del hangar de estribor está encallada en posición entreabierta. No detecto emisiones de radio, ni señales de calor biológico en el interior.</p>
+<p>—Esa roca no es de origen natural —apuntó Marloc, analizando las lecturas cuánticas con el ceño fruncido—. El espectro energético coincide con las firmas arcanas que Marlene investigaba en el Arcanamirium. El <em>Acreon</em> enganchó esa estructura durante su salto en el Drift y la arrastró consigo fuera del hiperespacio.</p>
+<p>Axel activó los retropropulsores del <em>Hippocampus</em>, alineando la proa de la nave exploradora con la esclusa de carga del pecio a paso de maniobra:</p>
+<p>—Iniciando maniobra de aproximación y anclaje magnético. Despresuricen las bahías de abordaje. Es momento de ponerse los trajes de vacío.</p>
+<p>En la esclusa de salida del <em>Hippocampus</em>, los cuatro aventureros ajustaron los sellos de sus escafandras. Triel comprobó los tanques de oxígeno de su traje de segunda piel mientras revisaba los actuadores de Gerty, quien esperaba erguido con sus cuatro brazos listos y su cañón láser sobrecargado. Benray ajustó su rifle con una cinta magnética al pecho, palpando las granadas de su cinturón con nerviosismo disimulado.</p>
+<p>El silbido sordo de la descompresión vació la esclusa de aire. La compuerta exterior se deslizó hacia arriba, revelando la inmensidad negra del espacio y las fauces abiertas del hangar desierto del <em>Acreon</em>.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 18: <br><span class="chap-sub">Aka-Ta: El Horror en el Hangar</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Silencio en gravedad cero</h3>
+<p>En el vacío absoluto, el sonido no existe.</p>
+<p>Cuando las botas magnéticas de Axel 42 hicieron contacto con la rejilla metálica del hangar de estribor del <em>Acreon</em>, el impacto no produjo ningún estruendo aéreo, sino una vibración sorda que ascendió a través de las suelas de su armadura hasta el receptor de audio de su casco.</p>
+<p>El interior del carguero minero estaba completamente a oscuras, iluminado únicamente por los potentes haces de las linternas tácticas montadas sobre los hombros de Gerty y los fusiles de la tripulación. El frío del espacio profundo impregnaba cada centímetro de metal: finas capas de escarcha blanca cubrían los mamparos y en el aire enrarecido flotaban pequeñas esferas de refrigerante congelado y virutas de metal que bailaban como motas de polvo estelar al paso de los exploradores.</p>
+<p>Triel avanzó con el rifle en guardia, sintiendo la extraña ligereza de sus diecinueve años amortiguada por el lastre de los generadores magnéticos de sus botas:</p>
+<p>—<em>Comprobación de radio</em> —transmitió la semi-drow por el canal interno del comunicador—. <em>Gerty, mantén los sensores térmicos en barrido de trescientos sesenta grados.</em></p>
+<p>—<em>Sensores operativos</em> —respondió la voz metálica del dron directamente en los auriculares del equipo—. <em>Atmósfera exterior: presión cero. Temperatura: noventa Kelvin. Ausencia total de ventilación o sistemas de filtrado. Aviso: detecto una perturbación cinética en el cuadrante oriental de las pasarelas superiores.</em></p>
+<p>Benray se agachó tras un contenedor de herramientas industriales abollado. A través de la visera de su escafandra adaptada para orejas de ysoki, sus ojos negros escudriñaban la penumbra con nerviosismo felino:</p>
+<p>—Miren allá arriba, en las vigas del techo... Entre las cajas de transporte. Hay algo que no es chatarra.</p>
+<p>Marloc elevó el haz de su linterna acoplada al antebrazo cibernético.</p>
+<p>Adherida al metal de una pasarela suspendida a diez metros sobre el suelo, descansaba una estructura biológica aberrante: una especie de capullo esférico o crisálida de aspecto rocoso, de casi dos metros de longitud, hecha de una secreción calcificada dura y translúcida que semejaba cuarzo opaco. Y a pocos metros de aquel nido fosilizado, recortada contra el mamparo, una silueta cuadrúpeda se movía con espasmódica lentitud.</p>
+<p>No era humana. Tampoco era ninguna de las especies conocidas de los Mundos del Pacto.</p>
+<p>Medía casi metro y medio a la cruz y más de dos metros de largo. Carecía por completo de ojos o rasgos faciales reconocibles: su cabeza era una prolongación roma acorazada con placas duras de color azul pizarra, coronada por una crin de zarcillos carnosos y sensoriales que se agitaban en el vacío como tentáculos hambrientos olfateando las vibraciones magnéticas del hangar. Sus cuatro patas terminaban en garras curvas prensiles capaces de perforar el blindaje de una nave, y sus fauces inferiores se abrieron en cuatro valvas triangulares repletas de colmillos vítreos.</p>
+<p>—Un Akata —susurró Marloc con un escalofrío que no pudo disimular tras contrastar las lecturas de su visor con los archivos de xenozoología—. Depredadores del vacío cósmico... Criaturas que hibernan en el corazón de los asteroides y sobreviven siglos sin aire ni calor. Su fisiología celular es hiperxerófila, adaptada a la deshidratación absoluta del espacio profundo. El agua salada les provoca un choque osmótico instantáneo y atroz: disuelve sus tejidos celulares como el ácido más cáustico... Lástima que no tengamos un barril de salmuera a mano.</p>
+<p>En ese instante, la bestia giró su cabeza roma hacia la luz, sus zarcillos se tensaron como resortes y saltó al vacío hacia ellos con la ferocidad de un asteroide cayendo en picado.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Fuego en la penumbra</h3>
+<p>El combate en gravedad cero es un ejercicio de física despiadada: cada disparo genera un retroceso que amenaza con desprender al tirador de sus anclajes magnéticos.</p>
+<p>Axel 42 calculó la trayectoria de la aberración en milésimas de segundo. Sin esperar a que el monstruo tocara el suelo, flexionó las rodillas, apoyó la espalda contra un montacargas inerte y abrió fuego con su pistola de energía. Dos proyectiles de plasma atravesaron el vacío en silencio absoluto, impactando en el pecho pedregoso del Akata y arrancando esquirlas incandescentes de su coraza biológica.</p>
+<p>La bestia ni siquiera aminoró la caída. Chocó contra la cubierta a tres metros del grupo, provocando una sacudida que vibró en las botas de todos, y se abalanzó con las fauces abiertas directamente hacia Triel.</p>
+<p>—<em>¡Intervención prioritaria para la preservación del usuario!</em> —bramó Gerty por los altavoces de casco.</p>
+<p>El meca de dos metros alzó sus dos brazos superiores principales y desató una ráfaga devastadora con su cañón láser rotatorio. Los haces de luz escarlata perforaron el hombro y el flanco de la bestia, haciendo retroceder al Akata mientras el monstruo rugía en una frecuencia inaudible, agitando sus tentáculos sensoriales con furia enloquecida.</p>
+<p>Al mismo tiempo, desde la penumbra del fondo del hangar, una segunda silueta cuadrúpeda emergió de entre las sombras de las cajas de carga, saltando sobre los palés con intenciones asesinas hacia Benray.</p>
+<p>—¡A mí no me hincas los dientes, bicho feo! —chilló el ysoki por la radio, activando los amortiguadores de sus botas para dar un salto lateral y desenfundar su fusil con la destreza de un acróbata.</p>
+<p>Marloc alzó su brazo cibernético, cerrando el puño con fuerza. Los filamentos mágicos de su gabán resplandecieron en un estallido violeta y tres proyectiles de fuerza arcana pura salieron disparados de sus nudillos, curvándose en el vacío como cometas teledirigidos para estallar en la cabeza del segundo Akata con una fuerza demoledora que quebró sus placas óseas.</p>
+<p>Acorralada entre el fuego cruzado y las ráfagas concentradas de Axel y Gerty, la primera bestia intentó morder el brazo izquierdo del dron de combate. Los colmillos rasparon el titanio sin lograr atravesar el blindaje mientras Gerty utilizaba una de sus nuevas manos inferiores para aferrar a la criatura por los zarcillos de la nuca, inmovilizándola contra la compuerta.</p>
+<p>Axel dio dos zancadas rápidas hacia adelante, desenfundó su cuchillo táctico de hoja monomolecular y lo hundió con precisión quirúrgica en la unión dorsal del cuello del monstruo.</p>
+<p>El Akata se convulsionó por última vez antes de quedar completamente inerte, flotando con las patas agarrotadas en el vacío.</p>
+<p>A pocos metros, el segundo depredador, herido de muerte por los misiles mágicos de Marloc y los disparos certeros de Benray, se desplomó pesadamente sobre las rejillas de la esclusa.</p>
+<p>El silencio volvió a adueñarse del hangar. Cuatro respiraciones agitadas resonaron al unísono por los canales de los intercomunicadores.</p>
+<p>Triel bajó su arma con las manos temblorosas, acercándose con cautela al cadáver de la bestia:</p>
+<p>—Por todos los dioses... Esa cosa no tiene órganos respiratorios. Es una máquina perfecta de matar en el espacio.</p>
+<p>—Y no están solos —advirtió Axel, señalando con el haz de su linterna hacia el fondo del pasillo que conducía a las cubiertas habitables del carguero—. Allá arriba hay más capullos rotos. Si la tripulación del <em>Acreon</em> se enfrentó a una colonia entera de estas criaturas sin armas pesadas... dudo mucho que alguno de ellos haya sobrevivido.</p>
+<p>Benray recargó su fusil con un chasquido seco y miró hacia la puerta de acceso interior que parpadeaba con una débil luz de emergencia:</p>
+<p>—Bueno, muchachos... El hangar está asegurado. Ahora entramos hasta la cocina.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 19: <br><span class="chap-sub">Hasta la Cocina: Los Restos del Pasado</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Las huellas de la masacre</h3>
+<p>Traspasar la compuerta interior del hangar fue como adentrarse en la garganta helada de una tumba de hierro.</p>
+<p>Los corredores principales del <em>Acreon</em> eran angostos y funcionales, diseñados para el tránsito de obreros con mono de trabajo y carretillas de mineral, no para paseos de cortesía. Las paredes metálicas de tono ocre estaban cubiertas por una pátina de escarcha que brillaba como polvo de diamante bajo los reflectores de Gerty. Pero más elocuentes que el hielo eran las marcas de violencia que desfiguraban cada metro de mamparo: surcos profundos de garras que habían arrancado el revestimiento térmico, impactos dispersos de fusiles láser mineros y casquillos vacíos de proyectiles cinéticos flotando en la ingravidez como diminutas boyas olvidadas.</p>
+<p>—Aquí hubo una retirada desesperada —observó Axel en un susurro por la radio del casco, deteniéndose a examinar un panel de control chamuscado—. Alguien intentó sellar las compuertas de seguridad para contener el avance desde el hangar, pero los mecanismos fueron forzados desde el exterior.</p>
+<p>Avanzaron con extrema cautela en formación de rombo: Axel y Gerty en vanguardia, Triel y Marloc cubriendo los flancos técnicos, y Benray guardando la retaguardia con el fusil apoyado en el hombro.</p>
+<p>Al llegar a la intersección del comedor común, la desolación de la nave se hizo palpable. En las mesas metálicas atornilladas al suelo aún descansaban bandejas con restos de comida fosilizada por el frío del vacío: raciones deshidratadas a medio consumir y tazas volcadas donde el café se había solidificado en extrañas estalactitas oscuras.</p>
+<p>Flotando cerca del techo, atrapado entre las rejillas de ventilación secundarias, un bulto inerte heló la sangre de los exploradores.</p>
+<p>Era el cadáver descompuesto y desecado de uno de los tripulantes. Su mono de trabajo anaranjado llevaba bordado el emblema del Colectivo Hardscrabble sobre el pecho. La escafandra estaba destrozada por una mordedura brutal que había expuesto el cráneo al vacío, y en el torso seco se apreciaban orificios circulares donde los parásitos larvarios de los Akata habían eclosionado antes de abandonar el cuerpo huésped.</p>
+<p>Benray bajó la mirada por un segundo, sintiendo una punzada de amargura:</p>
+<p>—Pobres diablos... Ni siquiera tuvieron tiempo de llegar a las cápsulas de escape. Fueron cazados como ratas en su propia casa.</p>
+<p>—El ciclo biológico de estas criaturas es parasitario —apuntó Marloc con voz sombría, analizando las lesiones con su escáner médico—. Inoculan larvas a través de la saliva. Si la víctima sobrevive a la mordedura, la infección cerebral la transforma en un autómata zombificado antes de que el parásito madure y devore el cuerpo desde adentro. Debemos extremar las precauciones: un solo rasguño en un traje sellado puede ser una sentencia de muerte.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El enigma del ingeniero Olier</h3>
+<p>Continuaron la incursión hacia el sector residencial de popa, donde se ubicaban los camarotes de la oficialidad del carguero. Las puertas de acceso a los dormitorios estaban entreabiertas o reventadas por impactos de garras, dejando al descubierto habitaciones desiertas donde las pertenencias personales de los mineros flotaban en desorden.</p>
+<p>En el primer camarote, Benray y Triel inspeccionaron las taquillas ancladas bajo las literas. Las placas identificativas llevaban grabados los nombres del enano Orin Thunder, oficial de comunicaciones, y de la artillera vesk Mago. Entre ropa de trabajo y cartas familiares rescataron dos barras de créditos con quinientos créditos no reclamados y una llave maestra de acceso informático.</p>
+<p>—Esto servirá para desbloquear los registros de la terminal de navegación —dijo Triel, pasándole la tarjeta a Axel—. Pero busquemos el cuarto del ingeniero jefe. Si alguien intentó comprender qué ocurría con los motores, fue él.</p>
+<p>Dos puertas más adelante hallaron el camarote del ingeniero Olier.</p>
+<p>A diferencia de los demás dormitorios, este espacio presentaba una devoción casi obsesiva. En el mamparo principal colgaba un imponente tapiz con el símbolo de <strong>Weydan</strong>, la deidad del descubrimiento y los horizontes infinitos, representada por una silueta estelar navegando hacia lo desconocido. Debajo de la litera, una caja metálica sellada con una combinación simple guardaba decenas de hojas de papel pergamino y cuadernos manuscritos.</p>
+<p>Marloc tomó uno de los cuadernos con sus dedos mecánicos, hojeando con avidez las páginas arrugadas.</p>
+<p>La mayoría eran dibujos a carboncillo. Representaban una figura antropomorfa sin rostro, envuelta en sombras tenebrosas y estelas de energía estelar, que parecía extender sus brazos hacia el <em>Acreon</em> desde el centro de una singularidad cósmica. Y al pie de cada ilustración, garabateadas con tinta apresurada y tachones febriles, figuraban complejas ecuaciones matemáticas.</p>
+<p>Triel se inclinó sobre el hombro del tecnomante, reconociendo al instante la estructura de los algoritmos:</p>
+<p>—Por el dios Triune... Son fórmulas de navegación para motores de salto Drift. Pero están alteradas manualmente. Nadie modifica esos cálculos a mano; el motor los procesa de forma automática a través de las balizas estelares.</p>
+<p>—Olier no estaba calculando un salto ordinario —susurró Marloc con los ojos desorbitados por la revelación—. Intentó desviar el vector de la nave hacia una coordenada no cartografiada en el hiperespacio. Creía estar siguiendo una revelación divina... una llamada que le susurraba desde las profundidades del Drift.</p>
+<p>—Y esa llamada —completó Axel con frialdad lógica— condujo a la nave directamente hasta la órbita de la Roca del Drift. La anclaron, la remolcaron fuera del salto y trajeron a los Akata consigo.</p>
+<p>En ese instante, una serie de golpes sordos y apresurados resonó a través de los mamparos metálicos desde el final del pasillo contiguo:</p>
+<p><em>¡CLAC, CLAC, CLAC! ¡PAM!</em></p>
+<p>La tripulación levantó las armas al unísono.</p>
+<p>Los ruidos no provenían del exterior, sino de detrás de la compuerta blindada que daba a la cocina y almacenes de provisiones. Y entre el tableteo metálico, una vocecilla aguda y estridente gritaba improperios en dialecto goblin a todo pulmón.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 20: <br><span class="chap-sub">Amigoblins del Espacio</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Los náufragos de la chatarra</h3>
+<p>Gerty no se anduvo con rodeos. Con un zumbido de sobrecarga en sus actuadores hidráulicos, el meca levantó su pierna derecha y descargó una patada monumental contra la compuerta atrancada de la cocina.</p>
+<p>El cerrojo reventó con estrépito: <em>¡BUM!</em> La puerta se dobló hacia adentro desprendiendo virutas metálicas, y los cuatro aventureros irrumpieron en la estancia con los cañones por delante.</p>
+<p>El espectáculo que los recibió al otro lado era tan grotesco como inesperado.</p>
+<p>En medio de una montaña de cajas de raciones abiertas, paquetes de cereales flotando por el aire ingrávido y muebles volcados a modo de trinchera, dos figuras diminutas de piel verdosa arrugada y cabezas desproporcionadamente anchas se arrojaron de rodillas sobre el linóleo helado, alzando los brazos con chillidos histéricos:</p>
+<p>—¡No disparen, no disparen! ¡Por las lunas del infierno, sáquennos de aquí! ¡Haremos lo que sea, limpiaremos sus botas, les daremos chatarra brillante!</p>
+<p>El que hablaba más rápido era un goblin menudo con unas aparatosas gafas de soldador torcidas sobre la frente, una sonrisa maníaca repleta de dientes afilados y un mono de vuelo remendado con cinta aislante donde llevaba enganchadas una docena de granadas de todos los colores. A su lado, una goblin femenina con el ceño fruncido y mirada pendenciera —enfundada en un traje de vacío improvisado con parches de cuero y placas de chapa atornilladas— lo apartó de un codazo furioso:</p>
+<p>—¡Cállate, Willy! ¡Deja de humillarte frente a los altos! Si nos van a matar, ¡que me miren a los ojos!</p>
+<p>Benray bajó lentamente el cañón de su fusil, rascándose la oreja con perplejidad:</p>
+<p>—¿Goblins espaciales? ¿En un carguero minero fantasma a doscientas mil millas de Absalón? ¿Cómo demonios llegaron hasta aquí?</p>
+<p>El goblin de las gafas, Willy, se puso en pie de un salto con una energía hiperactiva que desafiaba la falta de gravedad:</p>
+<p>—¡Fue una jugada maestra de ingeniería! —proclamó Willy—. Nos hicimos unos trajes espaciales artesanales con bolsas herméticas que aguantaban diez minutos de aire exactos para el salto. Tomamos un transbordador público, abrimos la escotilla de emergencia en mitad del vuelo espacial —los demás pasajeros no se lo tomaron muy bien, la verdad—, saltamos al vacío exterior y nos enganchamos con arpones al casco del <em>Acreon</em> cuando pasó cerca del cuadrante. ¡Y una vez dentro, saqueamos los armarios de mantenimiento! Encontramos filtros de reciclaje de aire y botellas de oxígeno de repuesto de los mineros. Con un poco de cinta aislante y tubos de goma, Willy adaptó el soporte vital para aguantar semanas enteras.</p>
+<p>—Hasta que aparecieron los perros de piedra —gruñó la goblin hembra, suavizando un poco el tono—. Mi nombre es Naru. Mi hermana Martha murió en el pasillo... Una de esas bestias sin ojos le saltó a la yugular antes de que pudiéramos atrincherarnos en la despensa. Con los filtros de aire de los mineros y las cajas de raciones hemos aguantado aquí encerrados varios días, oyendo cómo arañaban la puerta.</p>
+<p>Triel, conmovida por la mención de la hermana caída, extrajo un inyector dérmico con una dosis de suero curativo de su cinturón y se lo ofreció a Naru:</p>
+<p>—Nosotros matamos a las bestias del hangar y del pasillo. Tu hermana está vengada.</p>
+<p>Naru miró el dispositivo con recelo, pero extendió el brazo enfundado en su tosca escafandra. Con un chasquido mecánico, Triel acopló la boquilla del inyector al puerto médico sellado del traje goblin. El pistón neumático descargó el suero directamente en el flujo subcutáneo sin romper el sello hermético contra el vacío. Naru soltó un bufido de alivio a través del intercomunicador mientras el calor reparador del fármaco aliviaba sus magulladuras y comenzaba a cerrar las heridas de sus extremidades.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Granadas, cables y la trampa del pasillo</h3>
+<p>Mientras Naru agradecía el gesto, Willy ya se había deslizado por el suelo hasta quedar debajo del chasis de Gerty. Con un destornillador herrumbroso en una mano y una pinza de electricista en la otra, el goblin comenzó a forcejear con entusiasmo infantil para desatornillar la placa de mantenimiento del dron:</p>
+<p>—¡Uuuh, miren qué piezas tan exquisitas! ¡Este blindaje tiene aleación de titanio de primera! Si le conecto este cable pelado al generador de plasma, ¡el robot disparará el doble de rápido antes de estallar en mil pedazos!</p>
+<p>—<em>¡Alerta de intrusión parasitaria!</em> —tronó la voz de Gerty por los altavoces, bajando uno de sus brazos manipuladores inferiores para agarrar a Willy por el cuello del mono y levantarlo en el aire como a un muñeco de trapo—. <em>Solicito autorización a la señorita Triel para desintegrar a este organismo invasor antes de que comprometa mi circuitería.</em></p>
+<p>—¡Willy, suelta eso y no toques mi robot! —reprendió Triel, arrebatándole el destornillador de un manotazo.</p>
+<p>—¡Bueno, bueno, qué carácter tienen los mecánicos finos! —protestó Willy, pataleando en el aire con una carcajada divertida—. Solo quería colaborar. Para demostrar que somos buenos socios de negocios, tomen esto. ¡Regalos de la casa!</p>
+<p>El goblin metió ambas manos en los bolsillos de su mono y comenzó a repartir artefactos entre la tripulación como si fuera una fiesta de cumpleaños: dos granadas incendiarias de magnesio para Axel, dos granadas eléctricas para Marloc, un par de bombas adhesivas de masa pegajosa para Benray y un extintor de espuma pesada que colgó con descaro del torso de Gerty.</p>
+<p>Fue entonces cuando Marloc reparó en los bidones de reserva de la despensa: depósitos de agua técnica y garrafas de salmuera saturada utilizada para la conservación de alimentos mineros.</p>
+<p>—Un momento... —intervino el tecnomante, señalando los contenedores de salmuera—. En el hangar comprobé que los Akata son organismos xerófilos del vacío absoluto; el agua salada les provoca un choque osmótico devastador, licuando sus células como ácido. Willy, ¿tienes carcasas de granadas vacías o detonadores de dispersión hidráulica?</p>
+<p>—¡Tengo tres cilindros presurizados con válvula de dispersión que sobraron de una bomba de humo! —chilló Willy, dando saltos de emoción—. ¡Si los rellenamos con salmuera concentrada y les ponemos un microrretardo de ignición, tendremos granadas de salmuera líquida a presión!</p>
+<p>Trabajando en equipo con la habilidad manual de Benray y la supervisión técnica de Marloc, en cinco minutos fabricaron tres granadas improvisadas de salmuera concentrada. Benray se guardó los tres cilindros en su bandolera con una sonrisa satisfecha:</p>
+<p>—Esto sí que es cocina de combate. Con estas tres bombas de salmuera vamos a derretir a cualquier bicho que se cruce. Pero caminen delante y mantengan las manos lejos de los detonadores.</p>
+<p>El grupo, reforzado ahora con la presencia caótica de Willy y Naru, avanzó hacia las bahías de almacenamiento secundarias.</p>
+<p>Al llegar frente a una compuerta metálica que daba acceso al almacén de repuestos, Triel se adelantó para accionar el mando manual. Apenas la placa se deslizó dos centímetros, un fino rayo láser de detección invisible se interrumpió en el umbral.</p>
+<p>Un mecanismo de defensa automático —un fusil láser sobrecargado montado sobre un trípode improvisado en el interior— se activó con un zumbido agudo y disparó una ráfaga a quemarropa. El haz de energía impactó en el hombro de Triel, perforando la capa externa de su armadura <em>second skin</em> y chamuscando la carne en una fracción de segundo.</p>
+<p>Una alarma estridente de despresurización comenzó a pitar en el casco de la muchacha.</p>
+<p>—¡Maldición! ¡Fuga en el traje! —gimió Triel, cayendo de espaldas contra el mamparo mientras el fusil de la trampa estallaba por sobrecalentamiento dentro del cuarto.</p>
+<p>Gerty se interpuso al instante con sus escudos desplegados, mientras Benray actuaba con reflejos felinos: sacó un parche médico sellador de emergencia (<em>medpatch</em>) y lo estampó con fuerza sobre el hombro perforado de la semi-drow. El polímero expansivo del parche se endureció en milésimas de segundo, sellando herméticamente la brecha contra el vacío del espacio y deteniendo la descompresión al tiempo que liberaba una dosis concentrada de analgésico y coagulante a través de la membrana.</p>
+<p>La alarma del casco se apagó y la presión del traje se estabilizó de inmediato.</p>
+<p>—Tranquila, Triel... Brecha sellada y dolor neutralizado —susurró el ysoki por la radio—. Solo fue un susto. La trampa se ha destruido a sí misma.</p>
+<p>Al asomarse al interior de la bodega asegurada, Axel iluminó las estanterías con su linterna. Allí, entre repuestos mecánicos y detectores de movimiento, descansaban varias cajas selladas que contenían lingotes de mineral <strong>noqual</strong>, un material ultrarresistente y cotizadísimo en la industria armamentística estelar, valorado en miles de créditos.</p>
+<p>Pero el hallazgo quedó interrumpido por un aullido sordo y vibrante que resonó a través de la cubierta inferior. Dos nuevos Akata, alertados por el disparo de la trampa, avanzaban a toda carrera por el corredor transversal, trepando por las paredes metálicas con las fauces abiertas de par en par.</p>
+<p>Naru alzó su rifle tosco con una carcajada feroz, apostándose junto a Gerty:</p>
+<p>—¡Aquí vienen los perros de piedra! ¡Willy, pásame los cartuchos buenos y enséñales cómo disparamos los goblins del espacio!</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 21: <br><span class="chap-sub">Cajas Vemos, Contenidos no Sabemos</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Salmuera y fuego en el corredor</h3>
+<p>Los dos Akata cargaron por el pasillo estrecho con la velocidad aterradora de bestias ciegas guiadas por el calor corporal de la tripulación. Sus garras raspaban las planchas del suelo levantando virutas de acero y sus tentáculos sensoriales azotaban el aire como látigos enloquecidos.</p>
+<p>Benray no lo dudó un instante. Metió la mano en su bandolera táctica, extrajo uno de los tres cilindros presurizados de salmuera recién ensamblados en la despensa y activó el detonador hidráulico de Willy:</p>
+<p>—¡Cortesía del laboratorio goblin! ¡Salmuera concentrada para los cachorros del vacío!</p>
+<p>La granada salió despedida por el corredor en una trayectoria impecable y detonó en el aire justo entre los dos monstruos. En lugar de una bola de fuego, el artefacto estalló en una nube densa y presurizada de agua salada saturada a presión térmica.</p>
+<p>El efecto sobre los Akata fue instantáneo y atroz. Para los depredadores del vacío, cuya fisiología celular depende de la hibernación seca y la ausencia de humedad, la salmuera marina actuaba como el ácido más corrosivo. Las bestias aullaron en silencio mientras su piel azulada comenzaba a licuarse y desprender vapores sulfurosos.</p>
+<p>—¡Fuego a discreción! —ordenó Axel por el intercomunicador.</p>
+<p>La androide dio un paso al frente, apoyó la rodilla en el suelo y desató una cadencia milimétrica con su pistola láser. Cada disparo impactaba en las articulaciones expuestas de los monstruos, mientras Marloc, canalizando un torrente de energía voltaica desde su brazo cibernético, descargaba un rayo que encadenó a ambos alienígenas en un abrazo crepitante de electricidad.</p>
+<p>Gerty remató la faena con una andanada de su cañón principal, mientras Naru y Willy vaciaban los cargadores de sus toscas carabinas goblin gritando vítores salvajes. Despedazadas por el fuego y derretidas por la salmuera, las dos aberraciones colapsaron sobre la rejilla, disolviéndose en una masa informe de roca porosa y fango inerte.</p>
+<p>—Eso les enseñará a respetar la gastronomía ysoki —jadeó Benray, enfundando el lanzador con una reverencia teatral—. Pasillo despejado.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El sarcófago flotante de Eox</h3>
+<p>Dejando atrás los restos humeantes de las criaturas, el grupo franqueó el mamparo blindado que custodiaba la bahía de carga principal del <em>Acreon</em>.</p>
+<p>Era una nave monumental de casi sesenta metros de longitud por veinte de altura, dominada por una penumbra glacial. A ambos lados se apilaban contenedores industriales de mineral en bruto, repuestos de maquinaria pesada y bobinas de cable de tracción. Pero en el centro exacto de la estancia, descansando sobre una plataforma de amarre magnético, destacaba un objeto que no guardaba relación alguna con la industria minera.</p>
+<p>Era una caja rectangular de un metro ochenta de largo, forjada con una combinación insólita de basalto negro pulido y aleación de platino mate. En sus esquinas se apreciaban grabados heráldicos de Eox —calaveras estilizadas entrelazadas con rosas metálicas— y en los laterales llevaba incorporado un arnés repulsor antigravedad de alta gama.</p>
+<p>En la superficie superior, sobre un precinto holográfico intacto, parpadeaba una única etiqueta oficial:</p>
+<p><em>«DESTINATARIO: EXCMO. EMBAJADOR GEVALARSK NOR - EMBAJADA DE EOX, ESTACIÓN ABSALÓN. CARGA DIPLOMÁTICA CLASIFICADA. PROHIBIDA SU APERTURA.»</em></p>
+<p>Benray se frotó los bigotes con perplejidad, alumbrando la caja con su linterna:</p>
+<p>—Bueno, bueno... El señor embajador dijo que era una «pequeña encomienda personal». Pero esto tiene la forma, las medidas y la decoración exacta de un ataúd de lujo.</p>
+<p>Willy se aproximó dando saltitos, esgrimiendo una palanca de desguace con ojos brillantes de codicia infantil:</p>
+<p>—¡Uuuh! ¡Caja bonita con secretos de muertos! ¿La abrimos? ¡Apuesto diez tornillos a que adentro hay una momia con joyas o un robot esqueleto de oro!</p>
+<p>—¡Ni se te ocurra tocar ese precinto, Willy! —lo frenó Triel de un manotazo—. El embajador Nor dejó muy claro que si el embalaje sufría el menor daño, no veríamos un solo crédito de la recompensa. Y créeme, no quieres tener a un nigromante inmortal de enemigo.</p>
+<p>—Mi análisis coincide —secundó Axel, pasando su escáner biomédico sobre el basalto—. El receptáculo está sellado al vacío con tecnología de estasis criogénica. No detecto pulsos de calor ni radiación biológica activa, pero el blindaje interno contiene plomo y capas de dispersión arcana diseñadas específicamente para bloquear escaneos de largo alcance. Si forzamos la cerradura, los sensores de la embajada registrarán la intrusión al instante.</p>
+<p>Marloc asintió con ademán pragmático:</p>
+<p>—Seiscientos créditos por cabeza nos permitirán equipar el <em>Hippocampus</em> con escudos de última generación y saldar nuestras cuentas con la estación. Traslademos la caja a nuestra nave tal como acordamos. La curiosidad es un lujo que los mediadores no pueden permitirse.</p>
+<p>Triel accionó el botón del arnés repulsor. Con un suave zumbido magnético, la caja de basalto se elevó dos palmos sobre el suelo, flotando en perfecto equilibrio ingrávido.</p>
+<p>Guiando el sarcófago flotante con la ayuda de Gerty y vigilando que los goblins no intentaran clavarle clavos decorativos al embalaje, la tripulación recorrió el camino de vuelta hasta la esclusa del <em>Hippocampus</em>. Depositaron el ataúd en la bodega de carga de su nave, asegurándolo firmemente con cinchas magnéticas al mamparo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Sombras en el hangar: La lista de los terrores</h3>
+<p>De regreso en los oscuros corredores del <em>Acreon</em>, mientras se tomaban un breve respiro para comprobar los niveles de oxígeno de sus escafandras antes de subir al puente de mando, el silencio sepulcral del pecio comenzó a pesar como plomo sobre el ánimo del grupo.</p>
+<p>Rodeados por los contenedores herrumbrosos, el eco distante de los mamparos crujiendo por la fatiga del metal y los restos licuados de los monstruos que habían purgado, la atmósfera invitaba a desenterrar los fantasmas más íntimos.</p>
+<p>Triel se recostó contra una viga de soporte, con los dedos todavía temblorosos aferrando la empuñadura de su llave inglesa de percusión:</p>
+<p>—Esos malditos akatas... —murmuró la semi-drow, estremeciéndose mientras sus ojos carmesíes escrutaban las sombras del techo—. Les juro que jamás había visto un monstruo alienígena cara a cara en toda mi vida. Había leído manuales técnicos en los cargueros civiles, pero ver a esas aberraciones saltando hacia ti con sus tentáculos... Eso te marca para siempre. A partir de hoy, los akatas encabezan oficialmente el puesto número uno en mi lista de peores pesadillas.</p>
+<p>Benray resopló, ajustándose el chaleco táctico con una mueca nerviosa mientras lanzaba una mirada de soslayo hacia la esclusa donde descansaba la caja de Eox:</p>
+<p>—Bueno, yo te cambio dos docenas de akatas por un solo muerto viviente de esos que caminan sin alma. Estar en esa embajada de Eox, rodeado de zombis con levita y diplomáticos cadavéricos de ojos llameantes, me puso los pelos de punta como nada en este universo. Los <em>undead</em> y ese maldito planeta marchito me provocan un pavor que ni diez cargadores de plasma pueden calmar.</p>
+<p>Marloc sonrió con melancólica pesadumbre, cruzando los brazos sobre el pecho mientras la luz parpadeante de su brazo cibernético proyectaba reflejos azulados en su rostro enjuto:</p>
+<p>—Cada mente alberga sus propios abismos, amigos míos. En la academia solemos estudiar los horrores cosmológicos con distanciamiento teórico... Pero confieso que el solo pensamiento de Aucturn, ese mundo viviente y purulento en los confines del sistema, me estremece las entrañas de una forma casi física. Aunque en el terreno personal... no hay terror en el vacío comparable al de volver a perder a un ser amado. Es una pesadilla que creí haber sepultado y que a veces regresa para recordarme lo frágiles que somos.</p>
+<p>Axel permaneció inmóvil en el centro de la bahía de carga. Sus sensores ópticos recorrían las hileras de contenedores estibados, las cadenas de arrastre y las marcas de desgaste del suelo industrial. Cuando habló, su sintetizador vocal carecía de la frialdad habitual; sonaba casi distante, teñido por una gravedad sombría:</p>
+<p>—Ustedes temen a los monstruos del cosmos o a los muertos sin descanso... Mi mayor temor es mucho más terrenal y calculable.</p>
+<p>Triel y Benray la miraron con curiosidad. La androide bajó la mirada hacia sus manos articuladas de aleación blanca:</p>
+<p>—Mi primer recuerdo consciente al despertar en este chasis no fue una cuna ni una familia orgánica. Fue el polvo asfixiante de una mina de asteroides, una pala colocada a la fuerza entre mis dedos y una orden tajante de los capataces corporativos: trabajar y callar. Nací siendo una esclava minera en un cuerpo adulto que ya estaba condenado al trabajo forzado. Durante años, mi único algoritmo de existencia consistió en no morir hoy.</p>
+<p>Hizo una pausa, mientras las tenues líneas bioluminiscentes de su cuello pulsaban en un tono violáceo tenue:</p>
+<p>—Null-9 y los suyos me rescataron en el Vasto hace diez años. Desde entonces soy dueña de mis decisiones y he aprendido a disparar con precisión milimétrica para defender mi vida. Pero estar aquí, en este carguero minero abandonado, me recuerda lo cerca que estamos siempre del abismo. En una galaxia dominada por megacorporaciones sin escrúpulos y corsarios despiadados, cualquier fragata armada podría interceptarnos en el Drift y volver a encadenarnos. Usted puede alcanzar la libertad formal, pero el trauma de la esclavitud nunca sale de usted. Y no permitiré que nadie vuelva a arrebatarme mi autonomía.</p>
+<p>El silencio volvió a adueñarse de la bahía, pero esta vez teñido de un respeto profundo y cómplice entre los cuatro compañeros. Se miraron a los ojos, reconociendo en las cicatrices ajenas la misma determinación de seguir adelante.</p>
+<p>Con el encargo de Eox a buen recaudo y sus lazos más estrechos que nunca, solo quedaba un objetivo prioritario antes de dar por concluida la misión en el carguero: el puente de mando y las grabaciones de la capitana Elba Sohar.</p>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 22: <br><span class="chap-sub">¿Cuál Noqual?: El Destino del Acreon</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Las últimas palabras de Elba Sohar</h3>
+<p>El puente de mando del <em>Acreon</em> se abría al cosmos a través de un imponente ventanal panorámico de aluminio transparente. A través del cristal blindado, el resplandor distante de la Estación Absalón parecía una joya solitaria en la inmensidad negra, mientras en la popa se recortaba la ominosa silueta de la Roca del Drift, atada a la nave por sus titánicos cables de amarre.</p>
+<p>En el interior de la cabina reinaba una quietud sepulcral. Sillas de mando volcadas, pantallas astilladas y restos de instrumental flotaban en la gravedad cero.</p>
+<p>Axel se deslizó con suavidad hacia la consola del timonel principal, insertando la tarjeta maestra que habían recuperado en los camarotes. Triel y Marloc se apostaron a sus lados, conectando sus derivaciones técnicas a los bancos de memoria secundaria del ordenador de a bordo:</p>
+<p>—Energía auxiliar restablecida —anunció Triel mientras una hilera de luces ámbar parpadeaba en el tablero—. Los sectores de almacenamiento de bitácora están intactos. Reproduciendo la última grabación de la oficialidad.</p>
+<p>La pantalla holográfica central cobró vida con un chisporroteo de estática, proyectando la figura tridimensional de una mujer de mediana edad, de rostro enjuto y mirada firme, enfundada en el mono reglamentario del Colectivo Hardscrabble. Era la capitana Elba Sohar.</p>
+<p>Al fondo de la imagen se apreciaba el ajetreo en el puente: un operador enano ajustando pantallas de navegación y una artillera vesk cargando fusiles con evidente tensión:</p>
+<p>—<em>«Bitácora de la capitana Elba Sohar, día cuarenta y dos tras el salto en el Drift»</em> —comenzó la grabación con voz quebrada pero decidida—. <em>«El ingeniero Olier logró acoplar los arpones de tracción al asteroide que emergió junto a nosotros en el hiperespacio. Nuestros primeros escaneos indicaban concentraciones masivas de noqual y geodas de alto valor mineral... Pero cometimos un error fatal.»</em></p>
+<p>La capitana hizo una pausa, y en la grabación se escucharon alaridos sordos y tableteo de disparos provenientes de las cubiertas inferiores:</p>
+<p>—<em>«Las geodas no eran minerales. Eran crisálidas biológicas. Bestias del vacío... Akatas. Salieron de los capullos en mitad de la noche, deslizándose por los conductos de ventilación. Atacaron a los mineros en los dormitorios. Quienes no murieron desangrados enfermaron a las pocas horas; la infección les pudre la mente y los convierte en cadáveres andantes que atacan a sus propios compañeros. He ordenado el desalojo inmediato hacia la roca y el bloqueo total de los sistemas de navegación del carguero. Si alguien encuentra este mensaje... por favor, digan a nuestras familias en Absalón que luchamos hasta el último cartucho.»</em></p>
+<p>La transmisión se cortó en un destello de ruido blanco cuando la sombra de una bestia cuadrúpeda se abalanzó sobre la cámara en el registro final.</p>
+<p>Marloc bajó la vista en silencio. Benray se quitó las gafas de sol, conmovido por la tragedia de los mineros.</p>
+<p>—Ya tenemos la prueba definitiva —dijo Axel, descargando el archivo cifrado en su memoria interna—. La tripulación no abandonó su deber por cobardía ni hubo motín corporativo. Fue una catástrofe biológica. El nombre de los muchachos de Hardscrabble está limpio.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La llamada del oficial León</h3>
+<p>Axel activó el transmisor de largo alcance del <em>Acreon</em>, sincronizando la antena parabólica con las frecuencias seguras de la estación:</p>
+<p>—Aquí la unidad A.Xel 42 en enlace con Inversiones Estelares y la Oficina de Seguridad de los Mundos del Pacto. Transmitiendo bitácoras de vuelo, autopsias preliminares e inventario del carguero <em>Acreon</em>. El pecio ha sido purgado de amenazas activas y queda formalmente bajo custodia neutral.</p>
+<p>La señal tardó apenas unos segundos en atravesar las doscientas mil millas de vacío. En la pantalla del comunicador apareció el rostro de un joven oficial de los Protectores: cabello oscuro pulcro, mandíbula firme y un uniforme verde olivo con las insignias doradas del cuerpo de pacificación. Era el oficial León, enlace táctico de guardia en la torre de comunicaciones de Absalón.</p>
+<p>El oficial revisó los datos entrantes en su terminal con gravedad y asentimiento protocolario:</p>
+<p>—<em>Paquete de datos recibido, peritos</em> —respondió el oficial León con voz marcial tras examinar las lecturas de telemetría—. <em>Su informe preliminar es minucioso. El Alto Mando de los Protectores tomará nota de la neutralización de las amenazas biológicas y de la recuperación de las bitácoras. Sin embargo, deben mantener el perímetro sellado hasta que concluya el arbitraje oficial.</em></p>
+<p>En ese instante, Benray se abrió paso hasta la holocámara, plantando su hocico bigotudo en primer plano con una sonrisa socarrona:</p>
+<p>—Oiga, señor León, una preguntita de profesional a profesional... ¿No se supone que ustedes, los gloriosos Protectores de la ley, son expertos en situaciones tácticas extremas? Porque aquí tenemos un carguero infestado de aberraciones del vacío, tripulantes convertidos en monstruos y una roca hiperespacial atada a la popa que da escalofríos. ¿Por qué no se sube a una fragata y usa sus poderes de paladín para venir a echarnos una mano en vez de darnos sermones desde su cómodo sillón en el Ojo?</p>
+<p>El oficial León apretó los labios, conteniendo la exasperación ante la impertinencia del ysoki:</p>
+<p>—<em>Señor Galway, este no es momento ni canal para sus habituales payasadas. Su contrato con Inversiones Estelares estipula labores de peritaje y salvamento independiente, no auxilio militar en tiempo real...</em></p>
+<p>En ese instante, un operador de comunicaciones de fondo se inclinó hacia el oído de León en la pantalla, susurrándole algo con urgencia. El rostro del oficial se endureció de golpe:</p>
+<p>—<em>Un momento... Acabo de recibir una notificación de alerta de la red de seguridad de Absalón. Al parecer, fragmentos en vídeo de sus combates contra los Akata y la exploración del Acreon se están retransmitiendo de forma clandestina en bucle en los paneles públicos y holopantallas del Ojo de la estación. Una emisión pirata que está congregando a miles de espectadores. ¿Tienen alguna explicación para esta flagrante brecha de confidencialidad judicial?</em></p>
+<p>Benray soltó una risita cómplice, sabiendo perfectamente que Marcellus ya estaba haciendo su magia mediática en Absalón, y fingió un súbito espasmo de preocupación:</p>
+<p>—¡Caramba, mi estimado oficial de la ley, las interferencias cósmicas de la Roca del Drift son terribles! ¡Se nos está yendo la señal cuántica... bzzzt, crac! Qué pena, no le escucho nada... ¡Cortando transmisión!</p>
+<p>El ysoki oprimió el conmutador de radio antes de que el oficial pudiera replicar. Axel y Marloc lo observaron con una mirada de severa reprobación, pero Benray se limitó a guiñar un ojo mientras se acomodaba las gafas de sol con perfecta impunidad.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El umbral de la Roca del Drift</h3>
+<p>Con el <em>Acreon</em> pacificado, las bitácoras salvaguardadas y Willy y Naru seguros a bordo del <em>Hippocampus</em> custodiando el sarcófago de Eox bajo estricta advertencia de no tocar las bisagras, la tripulación se dirigió hacia la popa exterior del carguero.</p>
+<p>Avanzaron sobre las planchas metálicas exteriores del casco, anclados por sus botas magnéticas en medio del silencio majestuoso del vacío. Frente a ellos, los cinco descomunales cables de tracción se extendían como puentes colgantes de acero trenzado sobre el abismo, uniendo la nave a la colosal mole negra de la <strong>Roca del Drift</strong>.</p>
+<p>Al cruzar por el cable principal y posar por primera vez las botas sobre la superficie del asteroide, el grupo sintió una extraña vibración que no procedía de ningún motor.</p>
+<p>El suelo no era de roca común. Bajo una fina capa de polvo estelar negruzco descansaba una aleación milenaria, lisa y fría como el vidrio volcánico. A escasos metros del anclaje, en un promontorio rocoso resguardado de la radiación solar, se abría una hendidura imponente.</p>
+<p>No era una caverna natural. Era un pozo perfectamente cilíndrico, de diez metros de diámetro, tallado en la roca con precisión geométrica imposible, que descendía perpendicularmente hacia las entrañas del asteroide en una oscuridad absoluta que devoraba la luz de las estrellas.</p>
+<p>Triel se asomó al borde, iluminando con su linterna:</p>
+<p>—La caída es vertical. Cien pies... doscientos pies de profundidad. No hay asideros ni escalerillas.</p>
+<p>Axel desenfundó su pistola láser, apuntó hacia el fondo del pozo y disparó un único pulso de luz escarlata.</p>
+<p>El rayo atravesó el abismo en silencio. Cien pies más abajo, el haz impactó contra una superficie metálica pulida, iluminando por una fracción de segundo la estancia inferior: muros labrados con frisos alienígenas de un imperio olvidado por el tiempo y dos compuertas titánicas selladas con jeroglíficos luminosos.</p>
+<p>—No es una cueva —susurró Marloc, con el pulso acelerado y los ojos fijos en la negrura—. Es un templo. Un edificio ancestral enterrado en el corazón de la roca desde antes de que existiera la Brecha.</p>
+<p>Benray sonrió bajo su casco, asegurando los arneses de descenso mientras Gerty se colocaba en cabeza con sus cuatro brazos listos para abrir el camino:</p>
+<p>—Bueno, muchachos... El <em>Acreon</em> fue solo el aperitivo. Bienvenidos al misterio de la Roca del Drift.</p>
+  </div>
+
+  <h2 class="chapter-name">Anexo Especial: <br><span class="chap-sub">Dossier de Personajes y Glosario</span></h2>
+  <div class="chapter-body">
+    <h3 class='section-title'>Volumen 2: <em>El Misterio del Acreon</em></h3>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>1. El Escenario</h3>
+<h4 class='subsection-title'>La Nave Hippocampus (<em>El Caballito de Mar</em>)</h4>
+<p>Una nave ligera de exploración y transporte cedida a la tripulación por mediación del Colectivo Hardscrabble e Inversiones Estelares S.C., convenientemente mejorada con fondos diplomáticos de Eox. Maniobrable, dotada de motores Drift básicos, bahía de carga adaptada y camarotes funcionales, se convierte en el primer cuartel móvil y hogar estelar de Benray, Triel, Gerty, Marloc y Axel 42.</p>
+<h4 class='subsection-title'>El Pecio Fantasma <em>Acreon</em></h4>
+<p>Un carguero minero de gran tonelaje perteneciente al Colectivo Hardscrabble que reapareció inesperadamente del Drift tras meses de silencio absoluto en el vacío exterior de la Estación Absalón. Con sus sistemas de soporte vital en cuarentena, la atmósfera despresurizada y rastros de combates violentos a bordo, la nave oculta el trágico destino de su tripulación y una infestación de depredadores alienígenas.</p>
+<h4 class='subsection-title'>La Roca del Drift (<em>The Drift Rock</em>)</h4>
+<p>Un enigmático asteroide de composición geológica anómala unido a la popa del <em>Acreon</em> mediante colosales cables de tracción y anclajes mecánicos. Reclamado fieramente tanto por el Colectivo Hardscrabble como por la megacorporación Extracciones Estelares, sus conductos interiores esconden estructuras artificiales ancestrales que desafían la ciencia conocida.</p>
+<h4 class='subsection-title'>El Arcanamirium</h4>
+<p>La mayor academia de tecnomagia y ciencias arcanas de los Mundos del Pacto, situada en el Ojo de la Estación Absalón. Sus archivos y laboratorios custodian investigaciones sobre la Brecha (<em>The Gap</em>) y reliquias extraplanares.</p>
+<h4 class='subsection-title'>La Embajada de Eox en Absalón</h4>
+<p>Mausoleo piramidal de arquitectura ósea, mármol blanco y negro, hierro forjado y atmósfera glacial situado en el Ojo de la estación. Diseñado deliberadamente para inspirar reverencia y sobrecogimiento psicológico, es la sede diplomática del planeta de los no-muertos.</p>
+<h4 class='subsection-title'>El Artefacto 12-724 (La Esfera de Qabarat)</h4>
+<p>Enigmática esfera de aleación cobriza y placas superpuestas pre-Brecha, remitida desde los yacimientos arqueológicos de la Universidad de Qabarat (Castrovel) al Arcanamirium. Era el objeto central de las investigaciones secretas de Marlene Boosmar sobre frecuencias de resonancia interdimensional. Al ser activada accidentalmente por Marloc, desata una visión premonitoria de doce estrellas en círculo (el Templo de los Doce) y un desfase cuántico que explica su despertar en el aula contigua. La tripulación recupera el artefacto y lo custodia a bordo del <em>Hippocampus</em>.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>2. Los Protagonistas</h3>
+<h4 class='subsection-title'>Triel Istrav</h4>
+<p><em>Mecánica Semi-drow (Jugadora: Irene)</em></p>
+<p>De piel grisácea con suave tonalidad lila, cabellos níveos y ojos carmesíes brillantes. Joven mecánica independiente curtida en cargueros de la Diáspora. Luce una cazadora negra con la iconografía de los Capitanes Libres, aunque jamás perteneció a dicha hermandad pirata. Su destreza técnica con sistemas de propulsión y maquinaria pesada es vital para reacondicionar el <em>Hippocampus</em>, anular trampas en el pecio del <em>Acreon</em> y comprender las alteraciones teóricas del salto Drift.</p>
+<h4 class='subsection-title'>Gerty</h4>
+<p><em>Dron de Soporte y Combate Táctico (Voz: Roberto)</em></p>
+<p>Unidad bípeda pesada de dos metros de altura con cúpula acristalada, cañón láser de asalto y calcomanías infantiles en el chasis. En este volumen recibe mejoras mecánicas significativas (dos brazos manipuladores adicionales dotados de motricidad fina), aunque mantiene sus clásicos reinicios estilo "Windows 95", su mordaz desprecio hacia la fragilidad de los seres orgánicos y su paranoia constante ante los goblins que intentan desmontarle piezas.</p>
+<h4 class='subsection-title'>Marloc Boosmar</h4>
+<p><em>Tecnomante Humano (Jugador: Juan Pablo)</em></p>
+<p>Erudito elegante y reflexivo, con brazo izquierdo cibernético, túnica entrelazada con circuitos mágicos y peinado pulcro. Marcado por el asesinato de Marlene Boosmar, el enigma de sus recuerdos divergentes y las visiones fragmentarias previas a la Brecha, recurre a los claustros del Arcanamirium en busca de respuestas y canaliza conjuros devastadores de energía cuántica en los pasillos helados del <em>Acreon</em>.</p>
+<h4 class='subsection-title'>Benray Galway</h4>
+<p><em>Emisario Ysoki (Jugador: Miguel)</em></p>
+<p>Pícaro orador, temerario negociador callejero y antiguo creador de holovídeos virales de acrobacias extremas. Con su pelaje blanco níveo y antifaz natural negro alrededor de los ojos, Benray despliega su carisma para sortear a la justicia, mantener a raya a los matones corporativos, conducir su inseparable motoneta "vespacial" en los Bajos y coordinar tácticamente a la tripulación ante lo desconocido.</p>
+<h4 class='subsection-title'>A.Xel 42</h4>
+<p><em>Operativa Androide (Jugadora: Sofía)</em></p>
+<p>Androide estilizada de líneas bioluminiscentes rosadas, cabello rapado en un lateral y mirada analítica imperturbable. Letal en combate con pistolas y combate cuerpo a cuerpo. Nacida como esclava minera en un cuerpo adulto y rescatada por Null-9, guarda un terror visceral a volver a ser encadenada. Conducida por una lógica implacable y devoción por la causa de emancipación de sus congéneres sintéticos, actúa con serenidad profesional y absoluta falta de interés por sentimentalismos orgánicos.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>3. Personajes de Eox</h3>
+<h4 class='subsection-title'>Embajador Gevalarsk Nor</h4>
+<p><em>Embajador Plenipotenciario de Eox en Absalón</em></p>
+<p>Aristócrata elebriano (<em>elebrian</em>) inmortal. De cráneo alargado hacia atrás, piel apergaminada cadavérica y ojos en los que arden dos hipnóticas flamas de fuego esmeralda. Viste un impecable uniforme de corte militar napoleónico con hombreras metálicas labradas. Culto, refinado y de cortesía gélida, ofrece la mediación diplomática para enviar al grupo como árbitros independientes al <em>Acreon</em>, encargándoles en secreto la recuperación de una misteriosa caja/sarcófago personal sin notificar a las autoridades de la estación.</p>
+<h4 class='subsection-title'>Keltus</h4>
+<p><em>Asistente Diplomático de la Embajada de Eox</em></p>
+<p>Criatura gul (<em>ghoul</em>) vestida con túnica y capucha de terciopelo negro. De piel azulada-verdosa, movimientos fluidos casi flotantes y una lengua bífida alargada. Pese a su naturaleza inquietante, ejerce de anfitrión solícito y afable: atiende a los protagonistas con reverencias, les sirve vino selecto y hornea personalmente galletitas con forma de estrella aromatizadas con anís.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>4. Los Mandos de la Ley y los Protectores (<em>The Stewards</em>)</h3>
+<h4 class='subsection-title'>Oficial León</h4>
+<p><em>Oficial de Comunicaciones y Enlace de los Protectores</em></p>
+<p>Oficial del cuerpo de pacificadores espaciales asignado a la supervisión y monitorización orbital de la misión del <em>Acreon</em>. Militar estricto, formal y severo, recibe las transmisiones de datos y bitácoras enviadas por el grupo desde el pecio. Es continuamente puesto a prueba por la irreverencia de Benray Galway, quien adora burlarse de sus "poderes de paladín" y colgarle transmisiones fingiendo estática cada vez que León descubre las filtraciones de vídeos clandestinos.</p>
+<h4 class='subsection-title'>Oficial Monroe</h4>
+<p><em>Oficial de Campo de los Protectores</em></p>
+<p>Mando de intervención rápida en la Espiga (<em>The Spike</em>). Encargado de coordinar el precinto policial del Club Fusión y atender a los medios de comunicación (noticiero <em>Noticias en Movimiento</em>) tras la desarticulación de la red de tráfico clandestino de Ferani Nadaz.</p>
+<h4 class='subsection-title'>Anastasio Oryander</h4>
+<p><em>Delegado de Seguridad y Mando Psíquico de Absalón</em></p>
+<p>Alto cargo gubernamental de la estación, portavoz de los comités de seguridad ciudadana frente a las crisis de pandillas y fallos en las redes de seguridad del puerto.</p>
+<h4 class='subsection-title'>Kaerom</h4>
+<p><em>Letrado Vesk de Inversiones Estelares SC</em></p>
+<p>Abogado defensor vesk, imponente, vestido con saco a medida y llamativa corbata de piel de serpiente. Especialista en litigios por daños corporativos, cláusulas de autodefensa pandillera y leyes de viajero indocumentado, cuya oportuna intervención legal rescata a la tripulación de los cargos policiales inmediatos por el tiroteo del Nivel 21.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>5. Los Goblins Espaciales del Acreon (Aliados Recurrentes)</h3>
+<h4 class='subsection-title'>Willy</h4>
+<p><em>Goblin chatarrero y artificiero espacial</em></p>
+<p>Menudo, con gafas protectoras torcidas sobre la frente, sonrisa amplia y una desquiciada fascinación por los explosivos y la electrónica. Sobreviviente del asalto inicial de los Akatas en el <em>Acreon</em>, lleva los bolsillos repletos de cables pelados, detonadores y granadas caseras. Siente una irresistible compulsión por "tunear" y desmontar a Gerty. Contra todo pronóstico del director de juego, Willy sobrevive a la nave y se convierte en un fiel, ruidoso y recurrente compañero del grupo.</p>
+<h4 class='subsection-title'>Naru</h4>
+<p><em>La Dama Goblin del Acreon</em></p>
+<p>Compañera y hermana de clan de Willy. Vestida con un traje de vacío remendado con cinta y placas de metal, es la más sensata y beligerante de los goblins. Dispara con ferocidad para dar cobertura a sus nuevos aliados y mantiene acaloradas discusiones con Willy para evitar que haga estallar las naves por accidente. Al igual que Willy, sobrevive al pecio y pasa a formar parte de la tripulación extendida.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>6. Colectivo Hardscrabble y la Tripulación del Acreon</h3>
+<h4 class='subsection-title'>Capitán Otal Seris</h4>
+<p><em>Comandante del Corredor de Caminos (Wayfinder)</em></p>
+<p>Veterano capitán espacial humano del Colectivo Hardscrabble. De complexión robusta, cabello corto canoso, chaqueta marinera espacial y un implante cibernético ocular para visión en penumbra. Recibe al grupo con calidez y franqueza obrera en su nave nodriza para hacerles entrega del <em>Hippocampus</em>, encomendándoles que limpien el nombre de sus mineros y descubran qué ocurrió con sus hermanos espaciales.</p>
+<h4 class='subsection-title'>Capitana Elba Sohar (<em>Helba Sohar</em>)</h4>
+<p>Capitana del <em>Acreon</em>. Minera experimentada cuyas grabaciones de bitácora en la cabina de mando revelan la pesadilla que vivió su nave tras extraer la Roca del Drift, la pérdida de control frente a los parásitos cósmicos y su último sacrificio por aislar la amenaza.</p>
+<h4 class='subsection-title'>Ingeniero Olier</h4>
+<p>Ingeniero en jefe del <em>Acreon</em> y devoto de la deidad exploradora Weydan. Fascinado por visiones dimensionales y cálculos matemáticos anómalos, alteró los vectores del motor Drift durante el salto, atrayendo la Roca del Drift y desencadenando involuntariamente la tragedia.</p>
+<h4 class='subsection-title'>Oficial Orin Thunder y Artillera Mago</h4>
+<p>Miembros de la oficialidad del <em>Acreon</em> (un enano de comunicaciones y una artillera vesk) cuyos camarotes y registros atestiguan los últimos momentos de resistencia en el pecio.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>7. Aliados en Absalón y el Entorno Ysoki</h3>
+<h4 class='subsection-title'>Chiskisk</h4>
+<p>Comisionado y directivo shirren de <strong>Inversiones Estelares S.C.</strong> Mentor diplomático y protector legal del grupo, cuya hábil maniobra política ante el Consejo de Síndicos y el Colectivo Hardscrabble asegura que los protagonistas sean designados árbitros oficiales e independientes para la misión del <em>Acreon</em>.</p>
+<h4 class='subsection-title'>Rim Rey</h4>
+<p><em>Mecánico de los Bajos y primo de Benray Galway</em></p>
+<p>Ingenioso mecánico ysoki que cuida y pone a punto la motoneta vespacial de Benray en la Espiga, proveyendo al grupo de provisiones clandestinas (incluyendo sus célebres tacos de carnitas espaciales) y repuestos antes de que abandonen la estación.</p>
+<h4 class='subsection-title'>Marcellus</h4>
+<p><em>Productor audiovisual, editor y promotor en la sombra de Benray Galway</em></p>
+<p>Misteriosa y extravagante figura de los bajos fondos de la comunicación y el espectáculo en la Estación Absalón. Entregó a Benray el dron deportivo con el que el ysoki retransmite sus andanzas espaciales y con quien mantiene un pacto comercial en la sombra: Marcellus recibe el metraje crudo en tiempo real mediante un enlace cuántico privado, lo edita con sensacionalismo heroico, añade fanfarrias y lo filtra como emisión pirata a las holopantallas del Ojo de Absalón, convirtiendo a la tripulación en una sensación pública de masas.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>8. Celebridades y Figuras del Vasto</h3>
+<h4 class='subsection-title'>Syd Velch</h4>
+<p><em>Cantante y estrella del rock galáctico (Personaje recurrente futuro)</em></p>
+<p>Célebre y aclamado vocalista de los Mundos del Pacto cuya música sacude las ondas de la holored. Justo antes de desaparecer sin dejar rastro de la escena pública, protagonizó un perturbador e hipnótico incidente durante su último concierto multitudinario: en mitad de la canción se detuvo en seco, destrozó sus sintetizadores ante miles de fans atónitos y comenzó a desvariar hacia las cámaras con advertencias inconexas sobre «sangre bajo el sol» y «la necesidad de seguir adelante». Las imágenes exclusivas de su colapso, retransmitidas por <em>Noticias en Movimiento</em> en las pantallas gigantes del Ojo de Absalón, congregaron a una masa de ciudadanos absortos que los protagonistas aprovecharon para eludir la persecución policial. Es una figura de gran trascendencia cuyo enigma y reaparición marcarán episodios posteriores de la campaña.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>9. Corporaciones y Litigios: Extracciones Estelares (<em>Astral Extractions</em>)</h3>
+<h4 class='subsection-title'>Señorita George (<em>Ms. George / Ms. Joss</em>)</h4>
+<p><em>Representante legal, jefa de relaciones institucionales y portavoz de Extracciones Estelares</em></p>
+<p>Ejecutiva lashunta de porte distinguido, piel de una suave tonalidad ambarina, largas antenas atentas y peinado estricto. Viste trajes ejecutivos de corte impecable y lleva un visor de datos cuántico con auricular en la sien. Fría, calculadora y dotada de una cortesía pasivo-agresiva consumada, representa los intereses de la poderosa corporación minera frente al Consejo de Absalón y el Colectivo Hardscrabble. En este volumen convoca a la tripulación en los rascacielos de cristal azul de El Ojo para someterlos a un vídeo propagandístico institucional, justificar la propiedad corporativa de la Roca del Drift bajo la doctrina de prospección comercial y regalarles una cómica cesta de bienvenida con jabones aromáticos, cremas hidratantes y pases de cine válidos únicamente para los jueves. Reaparecerá en el Volumen 3 como la feroz oponente legal del grupo en el juicio de arbitraje.</p>
+  </div>
+
+</body>
+</html>
