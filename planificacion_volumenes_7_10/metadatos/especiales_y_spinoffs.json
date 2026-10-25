@@ -1,0 +1,738 @@
+{
+  "campaña_hielo_y_sangre_2020": {
+    "nombre": "Hielo y Sangre (HyS)",
+    "año": 2020,
+    "periodo": "Abril 2020 - Septiembre 2020 (En plena pandemia de COVID-19)",
+    "contexto": "Pausa de la campaña de Starfinder entre los Episodios 17 y 18 para jugar a distancia una campaña completa en Discord.",
+    "sistema": "Pathfinder 2e",
+    "ambientacion": "El Gran Imperio Dreki (Fantasía medieval en tierras heladas y prisioneros en el Peñón de la Pena).",
+    "mesa": {
+      "director": "Roberto (GM)",
+      "jugadores": [
+        "Irene",
+        "Sofía",
+        "Miguel",
+        "Juan Pablo"
+      ],
+      "jugadores_adicionales": "Mesa regular conectada en remoto por Discord."
+    },
+    "total_episodios": 22,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "HyS Episodio 001 - El Peñón de la Pena",
+        "fecha": "Wed, 29 Apr 2020 06:26:47 +0000",
+        "youtube_id": "Lzf4m3J0Ek8",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE001.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-001-el-pen-de-la-pena",
+        "sinopsis": "Una nueva aventura, en tierras mágicas medievales del Gran Imperio Dreki. Los jugadores se enfrentan a las más temible prisión, sin esperanza, sin posibilidades y quebrados por los grilletes. Escuchen esta mini aventura de Hielo y Sangre!           Síganos en Facebook e"
+      },
+      {
+        "numero": 2,
+        "titulo": "HyS Episodio 002 - Descuidados Susurros",
+        "fecha": "Wed, 06 May 2020 06:57:06 +0000",
+        "youtube_id": "wHw2J93L3HA",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE002.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-002-descuidados-susurros",
+        "sinopsis": "Los prisioneros aceptan su destino en el peñón de la pena, pero tal vez susurros en la oscuridad tenga la respuesta que buscan y la salvación que añoran o la libertad que da la muerte.           Síganos en Facebook e"
+      },
+      {
+        "numero": 3,
+        "titulo": "HyS Episodio 003 - El Foso",
+        "fecha": "Wed, 13 May 2020 04:13:48 +0000",
+        "youtube_id": "7ImT5sSrQZc",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE003.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/episodio-003-el-foso",
+        "sinopsis": "El momento ha llegado, todos los planes de los prisioneros en el peñón de la pena están por llegar a término, todo puede arruinarse con una mirada. Y aun no saben que hará Vrisk y cuánto deben arriesgar.            Síganos en Facebook e"
+      },
+      {
+        "numero": 4,
+        "titulo": "HyS Episodio 004 - Libertad, Horrible horrible libertad",
+        "fecha": "Wed, 20 May 2020 06:07:57 +0000",
+        "youtube_id": "nw7nhVsOUyc",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE004.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-004-libertad-horrible-horrible-libertad",
+        "sinopsis": "Los prisioneros logran su cometido y escapan por la mínima arriesgando su vida en el oscuro desagüe de la prisión. Sin embargo. ¿Habrán cambiado una vida de trabajos forzados por una rápida muerte?           Síganos en Facebook e"
+      },
+      {
+        "numero": 5,
+        "titulo": "HyS Episodio 005 - Entomología de Acción",
+        "fecha": "Wed, 27 May 2020 05:38:52 +0000",
+        "youtube_id": "bODFLGVP364",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE005.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-005-entomologa-de-accin",
+        "sinopsis": "Sorprendidos por insectos gigantes de nuevo los prisioneros deberán combatir una lucha que no esperaban y enfrentar a sus venenosos enemigos en condiciones menos que ideales por un premio que tal vez no valga la pena.            Síganos en Facebook e"
+      },
+      {
+        "numero": 6,
+        "titulo": "HyS Episodio 006 - Ojos en el Espejo",
+        "fecha": "Wed, 03 Jun 2020 05:33:12 +0000",
+        "youtube_id": "3Cm5qx0jJB0",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE006.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-006-ojos-en-el-espejo",
+        "sinopsis": "Una caída, un gruñido en la oscuridad, solo al fondo de una misteriosa sala inundada. ¿Podrá Jack enfrentar solo lo que espera en la oscuridad? O ¿Aquí acaba su historia de escape?            Síganos en Facebook e"
+      },
+      {
+        "numero": 7,
+        "titulo": "HyS Episodio 007 - Lilas y Ajenjo",
+        "fecha": "Wed, 10 Jun 2020 05:14:09 +0000",
+        "youtube_id": "JrkDinZiH4Y",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE007.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-007-lilas-y-ajenjo",
+        "sinopsis": "Han sobrevivido, pero con graves heridas, ademá ecos en las oscuridad  sugieren que estas ruinas son más de lo que parecen. Aún Vrisk se encuentra desaparecido, y no hay otro camino más que hacia adelante.           Síganos en Facebook e"
+      },
+      {
+        "numero": 8,
+        "titulo": "HyS Episodio 008 - Busca la Magia Interior",
+        "fecha": "Wed, 17 Jun 2020 04:51:26 +0000",
+        "youtube_id": "WvAXwuJlrjY",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE008.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-008-busca-la-magia-interior",
+        "sinopsis": "Síganos en Facebook e"
+      },
+      {
+        "numero": 9,
+        "titulo": "HyS Episodio 009 - Trágame Tierra",
+        "fecha": "Wed, 24 Jun 2020 04:00:00 +0000",
+        "youtube_id": "SVBf8w0lzKs",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE009.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-009-trgame-tierra",
+        "sinopsis": "Una amenaza silenciosa los acecha. ¿Será la enfermedad quien finalmente acabe sus sueños de libertad? Sin embargo, deben seguir adelante y extrañas cosas los esperan en la oscuridad.          Síganos en Facebook e"
+      },
+      {
+        "numero": 10,
+        "titulo": "HyS Episodio 010 - Oscuridad mi vieja amiga",
+        "fecha": "Wed, 01 Jul 2020 04:47:06 +0000",
+        "youtube_id": "8qLpuhi11aA",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE010.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-010-oscuridad-mi-vieja-amiga",
+        "sinopsis": "Hundido en la tierra, perdido en la oscuridad, el grupo se separa y la muerte los acecha en la oscuridad impenetrable. ¿Esta Jack perdido por siempre? ¿Tienen esperanza sin él?         Síganos en Facebook e"
+      },
+      {
+        "numero": 11,
+        "titulo": "HyS Episodio 011 - El Teurgo en la Piedra",
+        "fecha": "Wed, 08 Jul 2020 05:20:40 +0000",
+        "youtube_id": "YGo9t9iqIU0",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE011.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-011-el-teurgo-en-la-piedra",
+        "sinopsis": "Ahora Jack y Adga están atrapados. Separados del resto, o el resto separados de ellos. Con apenas un poco de luz y con la vida escapando. ¿Quién podrá sacarlos? ¿Levik? ¿Ena? ¿La pata de chancho?         Síganos en Facebook e"
+      },
+      {
+        "numero": 12,
+        "titulo": "HyS Episodio 012 - Jack el Santo",
+        "fecha": "Wed, 15 Jul 2020 04:00:00 +0000",
+        "youtube_id": "NEI_0G8SxTw",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE012.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-012-jack-el-santo",
+        "sinopsis": "Cuando finalmente tiene la pieza que requieren para poner en paz al espíritu, ¿Pero que obtendrán por ello? ¿Una recompensa o solo mas oscuridad los espera?          Síganos en Facebook e"
+      },
+      {
+        "numero": 13,
+        "titulo": "HyS Episodio 013 - Magas Vienen, Magas Van",
+        "fecha": "Wed, 22 Jul 2020 03:53:07 +0000",
+        "youtube_id": "zjFrOfGto2A",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE013.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-013-magas-vienen-magas-van",
+        "sinopsis": "Una vida pende de un solo check, ¿Es este el final de Adga? Pero pase lo que pase, al menos tienen un cofre con tesoros.          Síganos en Facebook e"
+      },
+      {
+        "numero": 14,
+        "titulo": "HyS Episodio 014 - Espíritus en el Mundo Material",
+        "fecha": "Wed, 29 Jul 2020 04:00:00 +0000",
+        "youtube_id": "8D8rbxcI1Ek",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE014.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-014-espritus-en-el-mundo-material",
+        "sinopsis": "Jack encuentra alguien conocido en la oscuridad. ¿Es acaso un espíritu de su pasado? ¿O más bien sombras de cosas por venir? Y más allá de esto, oscuras puertas los esperan y algo que por mucho tiempo los ha observado.          Síganos en Facebook e"
+      },
+      {
+        "numero": 15,
+        "titulo": "HyS Episodio 015 - La Balada del Diablo y el Esqueleto",
+        "fecha": "Wed, 05 Aug 2020 05:28:22 +0000",
+        "youtube_id": "aRDUcD_kUsE",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE015.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-015-la-balada-del-diablo-y-el-esqueleto-0",
+        "sinopsis": "El encuentro final entre los prisioneros y la fuerza que los separa de la libertad, y tal vez de su cabeza. ¿Estarán listos para enfrentarlo y a su diabólico compañero? Este encuentro decide el destino de sus almas!         Síganos en Facebook e"
+      },
+      {
+        "numero": 16,
+        "titulo": "HyS Episodio 016 - Nadando por un Sueño",
+        "fecha": "Wed, 12 Aug 2020 04:00:00 +0000",
+        "youtube_id": "Bum3oXEpFt8",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE016.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-016-nadando-por-un-sueo",
+        "sinopsis": "Han logrado vencer al carcelero, por ahora, pero aun el escape no es seguro. Una craneo vuela y grita hacia ellos. ¿Qué horrores les esperan… en las profundidades?         Síganos en Facebook e"
+      },
+      {
+        "numero": 17,
+        "titulo": "HyS Episodio 017 - Hermano Oso",
+        "fecha": "Wed, 19 Aug 2020 05:54:21 +0000",
+        "youtube_id": "5yHbEzvFUBA",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE017.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-017-hermano-oso",
+        "sinopsis": "Respiran libertad, y finalmente están a unos pasos del sol. Sin embargo, aún el camino hacia un escape real es incierto a lo sumo. Y el camino es largo en las peligrosas montañas. Donde más peligros de los que creen los esperan.          Síganos en Facebook e"
+      },
+      {
+        "numero": 18,
+        "titulo": "HyS Episodio 018 - Entre la Maga y la Pared",
+        "fecha": "Wed, 26 Aug 2020 04:00:00 +0000",
+        "youtube_id": "0Cr5nazcyM4",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE018.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-018-entre-la-maga-y-la-pared",
+        "sinopsis": "Después de un sangriento encuentro con sus perseguidores, los fugitivos se encuentran atrapados entre soldados de la prisión, una maga investigadora y una caída de 30 metros. ¿Cuál será la peor?          Síganos en Facebook e"
+      },
+      {
+        "numero": 19,
+        "titulo": "HyS Episodio 019 - Leche de Yak",
+        "fecha": "Wed, 02 Sep 2020 04:00:00 +0000",
+        "youtube_id": "P_4oFCrN2jU",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE019.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-019-leche-de-yak",
+        "sinopsis": "Rodeados por la cruel naturaleza, en forma de hielo, de niebla y criaturas hambrientas. Al caer fueron directo de una espada y magia directo a una docena de fauces. Ahora deben sobrevivir, y correr. La carrera final empieza.          Síganos en Facebook e"
+      },
+      {
+        "numero": 20,
+        "titulo": "HyS Episodio 020 - La Bestia de la Montaña Calva",
+        "fecha": "Wed, 09 Sep 2020 06:15:36 +0000",
+        "youtube_id": "PgDBq0WSiIQ",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE020.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-020-la-bestia-de-la-montaa-calva",
+        "sinopsis": "¿La familia que les prestó ayuda está solo engañandolos? Si así es, están atrapados en una sótano sin salida. Y Lin Bao sacará a la luz cosas que hasta ahora se han mantenido en silencio.          Síganos en Facebook e"
+      },
+      {
+        "numero": 21,
+        "titulo": "HyS Episodio 021 - Engaño, Traición, Herejía y Venganza",
+        "fecha": "Wed, 16 Sep 2020 04:00:00 +0000",
+        "youtube_id": "16surRndmVY",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE021.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-021-engao-traicin-hereja-y-venganza",
+        "sinopsis": "Revelaciones en el grupo ponen en evidencia lo poco que saben sobre sus compañeros. ¿Podrán seguir adelante sabiendo lo que algunos de ellos han hecho? Tal vez este es el momento en los compañeros se vuelven uno contra el otro.          Síganos en Facebook e"
+      },
+      {
+        "numero": 22,
+        "titulo": "HyS Episodio 022 - Hielo y Sangre",
+        "fecha": "Wed, 23 Sep 2020 04:55:51 +0000",
+        "youtube_id": "LtftgipiA6o",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE022.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-022-hielo-y-sangre",
+        "sinopsis": "La batalla final donde el destino de los prisioneros se decide. .Una Batalla en el borde de la hoja, donde pueden ganar su libertad y un futuro. O tal vez solo una tumba sin marcar en medio de la nieve. Un Episodio doble para el gran final de hielo y sangre.          Síganos en Facebook e"
+      }
+    ]
+  },
+  "campaña_mundo_de_oscuridad_2022_2023": {
+    "nombre": "Mundo de Oscuridad (MdO)",
+    "año": "2022-2023",
+    "periodo": "Septiembre 2022 - Agosto 2023",
+    "contexto": "Pausa de 1 año en Starfinder tras el clímax de Apostae (Episodio 120) hasta el reinicio (Episodio 121).",
+    "sistema": "Pathfinder 2e (Aventura oficial de Paizo: 'The Fall of Plaguestone' / 'La Caída de Piedra de Plaga')",
+    "ambientacion": "El pueblo de Piedra de Plaga, alquimistas renegados, Vilree y misterios sobrenaturales.",
+    "mesa": {
+      "director": "Roberto (GM)",
+      "jugadores": [
+        "Irene",
+        "Sofía",
+        "Miguel",
+        "Juan Pablo"
+      ],
+      "jugadores_adicionales": "Mesa regular."
+    },
+    "total_episodios": 48,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "MdO Episodio 001 - Érase una Vez…",
+        "fecha": "Wed, 21 Sep 2022 04:00:24 +0000",
+        "youtube_id": "6ceHyiSjYIs",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio001MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-001-rase-una-vez",
+        "sinopsis": "Un nuevo camino inicia. Ahora en medio de un mundo extraño y misterioso donde eventos sobrenaturales y peligrosos habitan cada esquina. Y retará un nuevo equipo a hacer todo desentrañar sus misterios y sobrevivir."
+      },
+      {
+        "numero": 2,
+        "titulo": "MdO Episodio 002 - Vuelta Carreta",
+        "fecha": "Wed, 28 Sep 2022 20:35:00 +0000",
+        "youtube_id": "Anesgr50XBw",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio002MundoDeOscuridad.mp3.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-002-vuelta-carreta",
+        "sinopsis": "La suerte parece no acompañar a los extraños viajeros por mucho tiempo y en medio de la tormenta el piso cede bajo su carreta, llevándolos a una peligrosa caída en la húmeda oscuridad."
+      },
+      {
+        "numero": 3,
+        "titulo": "MdO Episodio 003 - Nabos y Caos",
+        "fecha": "Wed, 05 Oct 2022 04:00:00 +0000",
+        "youtube_id": "wQNj-nX_Lq4",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio003MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-003-nabos-y-caos",
+        "sinopsis": "La batalla contra las bestias los deja mojados, heridos y en el fondo de un precipicio. Si esto es lo primero que los recibe de camino a la Caída de Ethran, que los esperara en el misterioso pueblo."
+      },
+      {
+        "numero": 4,
+        "titulo": "MdO Episodio 004 - Chupando Rueda",
+        "fecha": "Wed, 12 Oct 2022 04:00:00 +0000",
+        "youtube_id": "ICNHms7xXsc",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio004MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-004-chupando-rueda",
+        "sinopsis": "El momento que tanto han esperado, el temible chupacabras los enfrenta en un encuentro de latinoamericanas proporciones. ¿Podrán contra esta hambrienta criatura o serán una cabra más en su camino?"
+      },
+      {
+        "numero": 5,
+        "titulo": "MdO Episodio 005 - Sinfonía de Destrucción",
+        "fecha": "Wed, 19 Oct 2022 04:00:00 +0000",
+        "youtube_id": "zSWMXk-Xe4I",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio005MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-005-sinfona-de-destruccin",
+        "sinopsis": "El caos rompe alrededor de ellos, y el comedero se convierte en una arena de furia y destrucción. Una guitarra mágica los amenaza y las profundidades de este misterios se vuelven cada vez más peligrosas."
+      },
+      {
+        "numero": 6,
+        "titulo": "MdO Episodio 006 - Las Pistas de Bort",
+        "fecha": "Wed, 26 Oct 2022 04:00:00 +0000",
+        "youtube_id": "MikCMmZyaik",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio006MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-006-las-pistas-de-bort",
+        "sinopsis": "Un horrible crimen ha ocurrido en el Comedero después de que la furia se desatara entre los comensales. Tres cadáveres en un pueblo apartado y extrañas cosas ocurren en la noche. Ahora deben investigar, pero podrían ser las próximas víctimas."
+      },
+      {
+        "numero": 7,
+        "titulo": "MdO Episodio 007 - La Princesa Marina",
+        "fecha": "Wed, 02 Nov 2022 04:00:00 +0000",
+        "youtube_id": "YyYh30qpJ60",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio007MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-007-la-princesa-marina",
+        "sinopsis": "El misterio continúa, ahora con 66% menos evidencia física. Pero una nueva, extraña y espeluznante criatura se une a ellos en busca de respuesta y tambien un crustaceo."
+      },
+      {
+        "numero": 8,
+        "titulo": "MdO Episodio 008 - Avispamientos Extraños",
+        "fecha": "Wed, 09 Nov 2022 05:00:00 +0000",
+        "youtube_id": "9sD9MZJrB70",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio008MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-008-avispamientos-extraos",
+        "sinopsis": "Los aventureros, con su nueva compañera, exploran nuevos sospechosos en la maraña de misterios del pueblo. Sin embargo, mientras tratan de atar cabos, miles de enemigos los acechan en sus viajes."
+      },
+      {
+        "numero": 9,
+        "titulo": "MdO Episodio 009 - El Club de la Cocina",
+        "fecha": "Wed, 16 Nov 2022 05:00:00 +0000",
+        "youtube_id": "C62GHt9D6Rs",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio009MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-009-el-club-de-la-cocina",
+        "sinopsis": "Una extraña criatura los amenaza en el huerto, pero esta figura de metal, tela y humo podría ser el mayor enemigo que han enfrentado o tan solo un barato cliffhanger. Pero será junto al fuego que se verá algo de la verdad."
+      },
+      {
+        "numero": 10,
+        "titulo": "MdO Episodio 010 - Corazón Partío",
+        "fecha": "Wed, 23 Nov 2022 05:00:00 +0000",
+        "youtube_id": "uJwWp6JVtsI",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio010MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-010-corazn-parto",
+        "sinopsis": "Entes de sombra y luz se manifiestan alrededor del paladín caído. Las voces alrededor de ellos hablan de sus pasados y de una terrible oscuridad más allá del horizonte, algo mayor que este pueblo."
+      },
+      {
+        "numero": 11,
+        "titulo": "MdO Episodio 011 - El Camino del Alcoholismo",
+        "fecha": "Wed, 30 Nov 2022 05:00:00 +0000",
+        "youtube_id": "k4M3uGpqBSg",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio011MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-011-el-camino-del-alcoholismo",
+        "sinopsis": "Los secretos de la sombra y el espíritu cuentan una triste historia, pero hay una más triste historia al final del camino, una historia por la que deberán luchar, correr y brincar para llegar al fondo."
+      },
+      {
+        "numero": 12,
+        "titulo": "MdO Episodio 012 - Baconator",
+        "fecha": "Wed, 07 Dec 2022 05:00:00 +0000",
+        "youtube_id": "8mHLkDmC82E",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio012MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-012-baconator",
+        "sinopsis": "Historias en los caminos, relatos de la más grande música, locura, drogas y diablos. En una episodio que cuestiona la sanidad de sus participantes y donde la sombra del jamón se cierne oscura y terrible."
+      },
+      {
+        "numero": 13,
+        "titulo": "MdO Episodio 013 - 20-20-17-17-10-10",
+        "fecha": "Wed, 14 Dec 2022 05:00:00 +0000",
+        "youtube_id": "_aHGa1jwJrA",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio013MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-013-20-20-17-17-10-10",
+        "sinopsis": "Muerto el cerdo es hora de disfrutar el tocino de nivel 4. Pero este nuevo poder se ve envuelto en el misterio de la naturaleza del ataque. Y además místicos números parecen traer portentos aciagos."
+      },
+      {
+        "numero": 14,
+        "titulo": "MdO Episodio 014 - Jale onde Hallod",
+        "fecha": "Wed, 21 Dec 2022 05:00:00 +0000",
+        "youtube_id": "srbsVv9bNJw",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio014MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-014-jale-onde-hallod",
+        "sinopsis": "Lo que se pospuso finalmente está a la orden del día. La misteriosa casa de Hallod, el bravucón local, es la siguiente parada en el misterio del pueblo. Y tal vez en ella descubran cosas en lo profundo de Piedra de Plaga."
+      },
+      {
+        "numero": 15,
+        "titulo": "MdO Episodio 015 - Perreo Intenso",
+        "fecha": "Wed, 11 Jan 2023 05:00:00 +0000",
+        "youtube_id": "KtLSnSEEfJA",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio015MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-015-perreo-intenso",
+        "sinopsis": "Una mala pisada lleva a un desastre perruno, y esta perrosa emboscada puede traerles gran remordimiento. La gata negra tendrá que vérselas con un hambriento y emperrado enemigo."
+      },
+      {
+        "numero": 16,
+        "titulo": "MdO Episodio 016 - La Mansioncita de los Errores",
+        "fecha": "Wed, 18 Jan 2023 05:00:00 +0000",
+        "youtube_id": "sBbfU8xYfBU",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio016MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-016-la-mansioncita-de-los-errores",
+        "sinopsis": "¿Finalmente se dirigen a la extraña mansión en la colina? ¿Qué pistas sobre el misterio podrán encontrar en el pueblo, entre la servidumbre y los dueños? ¿Cuán importante serán las cuentas de un pobre comedero?"
+      },
+      {
+        "numero": 17,
+        "titulo": "MdO Episodio 017 - ¡Qué Troncote!",
+        "fecha": "Wed, 25 Jan 2023 05:00:00 +0000",
+        "youtube_id": "R_NCa9Rzbl4",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio017MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-017-qu-troncote",
+        "sinopsis": "La mansión de la colina ha resultado un extraño y peligroso escondite. Lleno de misterios y trampas en cada esquina. Y ahora ellos están justo frente a una pendulante trampa mortal de masivas proporciones."
+      },
+      {
+        "numero": 18,
+        "titulo": "MdO Episodio 018 - El Fondo del Barril",
+        "fecha": "Wed, 01 Feb 2023 05:00:00 +0000",
+        "youtube_id": "4DPPZCQy7cI",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio018MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-018-el-fondo-del-barril",
+        "sinopsis": "Pisadas se alejan al otro lado de la puerta. ¿Quién podrá estar atentando contra la vida de los aventureros? El tiempo se acaba, pero primero deben atender asuntos más personales."
+      },
+      {
+        "numero": 19,
+        "titulo": "MdO Episodio 019 - Soldado del Amor",
+        "fecha": "Wed, 08 Feb 2023 05:00:00 +0000",
+        "youtube_id": "o-aXYND50ME",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio019MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-019-soldado-del-amor",
+        "sinopsis": "El que estaba muerto ahora camina entre ellos, mostrando a todos su orgullo y gracia. Pero, ellos están enfrentando no solo a un ícono de la moda sino a un peligroso soldado que desea su silencio."
+      },
+      {
+        "numero": 20,
+        "titulo": "MdO Episodio 020 - Gato Encerrado",
+        "fecha": "Wed, 15 Feb 2023 05:00:00 +0000",
+        "youtube_id": "n_vRkklxBVQ",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio020MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-020-gato-encerrado",
+        "sinopsis": "La batalla ha concluido con la pérdida de un gran hombre y amante. Pero ahora, uno de los aventureros se encuentra en una apretada situación, que le llevará a volver a el lejano pasado."
+      },
+      {
+        "numero": 21,
+        "titulo": "MdO Episodio 021 - Apelotamiento Espiritual",
+        "fecha": "Wed, 22 Feb 2023 05:00:00 +0000",
+        "youtube_id": "7HzkKuOiMeo",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio021MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-021-apelotamiento-espiritual",
+        "sinopsis": "Las flamas hablan pero solo para aquellos que están dispuestos a escuchar. Aunque hay quienes dicen que ni siquiera se puede confiar en los muertos, porque hasta ellos tienen codicia."
+      },
+      {
+        "numero": 22,
+        "titulo": "MdO Episodio 022 - Miss Músculo",
+        "fecha": "Wed, 01 Mar 2023 05:00:00 +0000",
+        "youtube_id": "T7IClJrGxRI",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio022MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-022-miss-msculo",
+        "sinopsis": "El viaje los lleva al bosque, donde una misteriosa mujer los conduce a la única pista que ella tiene para encontrar el origen de la corrupción en estas tierras. En la oscuridad de un extraño árbol, algo los espera."
+      },
+      {
+        "numero": 23,
+        "titulo": "MdO Episodio 023 - Cien Pies Más Adelante",
+        "fecha": "Wed, 08 Mar 2023 05:00:00 +0000",
+        "youtube_id": "CVEj_uSOLWg",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio023MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-023-cien-pies-ms-adelante",
+        "sinopsis": "Una oscura y húmeda caverna en ascenso es la única forma de continuar la investigación. Un largo túnel en completa oscuridad promete sólo buenas noticias más adelante, donde nada puede salir mal."
+      },
+      {
+        "numero": 24,
+        "titulo": "MdO Episodio 024 - Duende Cómplice",
+        "fecha": "Wed, 15 Mar 2023 04:00:00 +0000",
+        "youtube_id": "mKZBJP1kykw",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio024MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-024-duende-cmplice",
+        "sinopsis": "Una extraña casita en medio de un retorcido pantano, no puede traer más que problemas. Sin embargo cayendo la noche y en medio de tierras imposibles de transitar las opciones se agotan y una cama caliente no estaría mal."
+      },
+      {
+        "numero": 25,
+        "titulo": "MdO Episodio 025 - ReGateando Tratos",
+        "fecha": "Wed, 22 Mar 2023 04:00:00 +0000",
+        "youtube_id": "R96Du2r3uVo",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio025MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-025-regateando-tratos",
+        "sinopsis": "La misteriosa les abre nuevas oportunidades pero también los coloca en nuevos riesgos. Ahora se abre ante ellos un valle lleno de extraños peligros y oscuras oportunidades."
+      },
+      {
+        "numero": 26,
+        "titulo": "MdO Episodio 026 - NSFW",
+        "fecha": "Wed, 29 Mar 2023 04:00:00 +0000",
+        "youtube_id": "sKOuwOMMJDQ",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio026MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-026-nsfw",
+        "sinopsis": "Las puertas al cuarto de Albán se abren para ellos. Que misterios oculta el cuarto del joven elfo muerto. Que se oculta en su trabajo y que nos puede decir de la misteriosa y maligna Vilree."
+      },
+      {
+        "numero": 27,
+        "titulo": "MdO Episodio 027 - Llórame un Río",
+        "fecha": "Wed, 05 Apr 2023 04:00:00 +0000",
+        "youtube_id": "ZBcgTjIwni4",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio027MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-027-llrame-un-ro",
+        "sinopsis": "Horripilantes criaturas los emboscan en su camino por el río. ¿Será que los agentes del Frente de Liberación Imperial subestiman a sus enemigos y reciben una terrible sorpresa?"
+      },
+      {
+        "numero": 28,
+        "titulo": "MdO Episodio 028 - La Sombra del Amor",
+        "fecha": "Wed, 12 Apr 2023 04:00:00 +0000",
+        "youtube_id": "xZ5ITxTpOV0",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio028MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-028-la-sombra-del-amor",
+        "sinopsis": "Golpeados, cortados y vomitados. Los agentes imperiales logran sobrevivir y ahora tienen un nuevo nivel de poder. Sin embargo, van a necesitar toda la ayuda que puedan para poder continuar con una misión que cada vez parece más grande."
+      },
+      {
+        "numero": 29,
+        "titulo": "MdO Episodio 029 - La Alianza Francesa",
+        "fecha": "Wed, 19 Apr 2023 04:00:00 +0000",
+        "youtube_id": "OKrmvHKEcUQ",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio029MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-029-la-alianza-francesa",
+        "sinopsis": "El campamento de trabajo orco se encuentra cerca. Cientos tal vez miles de orcos trabajan en la construcción de un oscuro monumento. Pero deben llegar hasta allí si quieren tener el explosivo final que requieren."
+      },
+      {
+        "numero": 30,
+        "titulo": "MdO Episodio 030 - La Vie en Vert",
+        "fecha": "Wed, 26 Apr 2023 04:00:00 +0000",
+        "youtube_id": "lZMEL6FbUUA",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio030MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-030-la-vie-en-vert",
+        "sinopsis": "Una tenue alianza con el que fuera el líder de los orcos es su mejor esperanza de no terminar su misión en un baño de sangre. Sin embargo es tal vez un baño lo que más van a ocupar."
+      },
+      {
+        "numero": 31,
+        "titulo": "MdO Episodio 031 - Caliente y Pegajoso",
+        "fecha": "Wed, 03 May 2023 04:00:00 +0000",
+        "youtube_id": "HDGoQolPYM0",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio031MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-031-caliente-y-pegajoso",
+        "sinopsis": "Una secreta misión los obliga de nuevo a embarcarse en un viaje por los rincones más oscuros de la tierra. ¿Que podría encontrarse en estas ruinas que asusta hasta los espíritus del bosque?"
+      },
+      {
+        "numero": 32,
+        "titulo": "MdO Episodio 032 - La Mancha Voraz",
+        "fecha": "Wed, 10 May 2023 04:00:00 +0000",
+        "youtube_id": "Kz9E4D5c-js",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio032MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-032-la-mancha-voraz",
+        "sinopsis": "La muerta criatura envuelta en brea mágica los envuelve en oscura sangre. la brea y el fuego es una peligrosa combinación y ahora los aventureros están rodeadas de ambas."
+      },
+      {
+        "numero": 33,
+        "titulo": "MdO Episodio 033 - Adivina Adivinador",
+        "fecha": "Wed, 17 May 2023 04:00:00 +0000",
+        "youtube_id": "izRzjlAw3RA",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio033MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-033-adivina-adivinador",
+        "sinopsis": "Han llegado a su destino en el templo de Bodua, ahora deben encontrar a su líder y ser capaces de negociar una tregua con feroces, bestíales y franceses orcos."
+      },
+      {
+        "numero": 34,
+        "titulo": "MdO Episodio 034 - ¡Adgamos Algo!",
+        "fecha": "Wed, 24 May 2023 04:00:00 +0000",
+        "youtube_id": "os7kd2vy1uY",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio034MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-034-adgamos-algo",
+        "sinopsis": "Adga ha sido encontrada, o Úrsula o como se llame. Ahora, deben sacar todo lo que esta misteriosa maga sabe, y también deben pensar como sacarla de donde están."
+      },
+      {
+        "numero": 35,
+        "titulo": "MdO Episodio 035 - Faunográfico",
+        "fecha": "Wed, 31 May 2023 04:00:00 +0000",
+        "youtube_id": "JrrpsGkkH3g",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio035MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-035-faunogrfico",
+        "sinopsis": "Los preparativos para el asedio siguen adelante. Deben prepararse con todo lo que tienen para los horrores que la fortaleza puede ocultar. Y también deben buscar misterioso y sensual concejo."
+      },
+      {
+        "numero": 36,
+        "titulo": "MdO Episodio 036 - Rock Globster",
+        "fecha": "Wed, 07 Jun 2023 04:00:00 +0000",
+        "youtube_id": "S_LEHNGcb4U",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio036MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-036-rock-globster",
+        "sinopsis": "Asquerosas masas de carne y putrefacción cobran vida para ponerse en medio del camino del Frente de Liberación Imperial y las cosas verdaderamente horribles que les esperan."
+      },
+      {
+        "numero": 37,
+        "titulo": "MdO Episodio 037 - Mundo de Orcscuridad",
+        "fecha": "Wed, 14 Jun 2023 04:00:00 +0000",
+        "youtube_id": "I8pA0rFSP6Q",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio037MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-037-mundo-de-orcscuridad",
+        "sinopsis": "Deben infiltrarse en una fortaleza donde cientos de orcos los esperan. Mucho más de lo que podrían enfrentar. Así que el sigilo es su única opción, a menos claro… que los dados estén en su contra."
+      },
+      {
+        "numero": 38,
+        "titulo": "MdO Episodio 038 - Juegos Varoniles",
+        "fecha": "Wed, 21 Jun 2023 04:00:00 +0000",
+        "youtube_id": "eXoXqCICtcM",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio038MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-038-juegos-varoniles",
+        "sinopsis": "Una simple infiltración se torna en un desastre cuando las palabras fallan. Y ahora el grupo dividido deberá enfrentar muy distintos problemas mientras tratan de no ser acabados por cientos de hostiles orcos."
+      },
+      {
+        "numero": 39,
+        "titulo": "MdO Episodio 039 - Hyena de Emoción",
+        "fecha": "Wed, 28 Jun 2023 04:00:00 +0000",
+        "youtube_id": "7KUQuP7HbgM",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio039MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-039-hyena-de-emocin",
+        "sinopsis": "El plan sigue adelante, a pesar de sus mayores intentos de fracasar. Y ahora cada vez están más inmersos en la política orca y se mueven hacia la siguiente fase del plan, si es que tienen uno."
+      },
+      {
+        "numero": 40,
+        "titulo": "MdO Episodio 040 - Andamios Armados",
+        "fecha": "Wed, 05 Jul 2023 04:00:00 +0000",
+        "youtube_id": "nNNX2R9HhEo",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio040MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-040-andamios-armados",
+        "sinopsis": "El combate contra Colmillo Gris no parece empezar muy bien. Y ahora enfrentan un enemigo preparado y dispuesto a todo para eliminarlos. Este puede ser el momento en el peligro se vuelve fatal."
+      },
+      {
+        "numero": 41,
+        "titulo": "MdO Episodio 041 - Técnicas Deshonorosas",
+        "fecha": "Wed, 12 Jul 2023 04:00:00 +0000",
+        "youtube_id": "8igGSaBVAeA",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio041MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-041-tcnicas-deshonorosas",
+        "sinopsis": "El combate ha terminado, pero el conflicto entre los líderes orcos apenas empieza. La victoria o derrota de su campeón elegido puede significar cosas muy distintas para el entrometido equipo."
+      },
+      {
+        "numero": 42,
+        "titulo": "MdO Episodio 042 - Gooooooolem",
+        "fecha": "Wed, 19 Jul 2023 04:00:00 +0000",
+        "youtube_id": "DoZGTkmgCkY",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio042MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-042-gooooooolem",
+        "sinopsis": "El interior de la fortaleza es más una casa de horrores que un fuerte militar. Y ahora, a cómo se adentran en este templo al ego de su dueña. Podrán ver la profundidad de su retorcido plan."
+      },
+      {
+        "numero": 43,
+        "titulo": "MdO Episodio 043 -  Ave de Mal Agüero",
+        "fecha": "Wed, 26 Jul 2023 04:00:00 +0000",
+        "youtube_id": "JXEF7ZInOAw",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio043MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-043-ave-de-mal-agero",
+        "sinopsis": "Una trampa ha caído y parece que el corazón de la fortaleza está justo detrás de unas ominosas puertas. ¿Qué puede ocultar este retorcido lugar?, ¿Qué ecos del pasado se encuentran por desenterrar?"
+      },
+      {
+        "numero": 44,
+        "titulo": "MdO Episodio 044 -  ¿Qué me dice, cara e' Bort?",
+        "fecha": "Wed, 02 Aug 2023 04:00:00 +0000",
+        "youtube_id": "Pk0DrXt_slU",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio044MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-044-qu-me-dice-cara-e-bort",
+        "sinopsis": "Desastre, fuego, caos. Las cosas fueron en un instante de un común combate en una viejo laboratorio a una lucha por la vida en medio de fuego y humo contra una bestia que una vez fue un rostro conocido."
+      },
+      {
+        "numero": 45,
+        "titulo": "MdO Episodio 045 - Curvas Pervertidas",
+        "fecha": "Wed, 09 Aug 2023 04:00:00 +0000",
+        "youtube_id": "_a18M7Ni0mY",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio045MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-045-curvas-pervertidas",
+        "sinopsis": "Una vez vencida la aberrante amalgama, ahora se encuentran en una fortaleza que se desmorona. Rodeados de fuego, deben avanzar hasta las últimas consecuencias, sin vuelta atrás."
+      },
+      {
+        "numero": 46,
+        "titulo": "MdO Episodio 046 - Situación Crítica",
+        "fecha": "Wed, 16 Aug 2023 05:52:00 +0000",
+        "youtube_id": "ad4QF-sxlzI",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio046MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-046-situacin-crtica",
+        "sinopsis": "Finalmente están ante la autora de toda la oscuridad que han enfrentado hasta llegar aquí, no hay oportunidad de negociar más. Ahora deben cruzar garritas y ballestas."
+      },
+      {
+        "numero": 47,
+        "titulo": "MdO Episodio 047 - Mundo de Oscuridad: Parte 1",
+        "fecha": "Wed, 23 Aug 2023 04:00:00 +0000",
+        "youtube_id": "FQE_LvZt5zI",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio047MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-047-mundo-de-oscuridad-parte-1",
+        "sinopsis": "El enfrentamiento con Vilree se vuelve más cruento y peligroso así como se revela el costo del poder que ha caído sobre ella y sobre toda su familia tocados por las flamas."
+      },
+      {
+        "numero": 48,
+        "titulo": "MdO Episodio 048 - Mundo de Oscuridad: Parte 2",
+        "fecha": "Wed, 30 Aug 2023 05:10:00 +0000",
+        "youtube_id": "s1fyMTruElw",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio048MundoDeOscuridad.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/mdo-episodio-048-mundo-de-oscuridad-parte-2",
+        "sinopsis": "Todas las mascaras han caido, la autora de toda la miseria en Piedra de Plaga esta frente a ellos. Pero no esta sola, el tomo de oscuridad esta en sus manos, y ella utilizara su poder para obtener al menos venganza."
+      }
+    ]
+  },
+  "especiales_halloween_spooky_octubre": {
+    "nombre": "Especiales Anuales de Halloween ('Spooky Octubre')",
+    "años": [
+      2021,
+      2025,
+      2026
+    ],
+    "ediciones": [
+      {
+        "edicion": "Spooky Octubre 2021 (Pesadilla en Viejo Golarion)",
+        "episodios_podcast": "Episodios 073 al 076a",
+        "sistema": "Pathfinder 2e en Viejo Golarion (Simulación virtual neural en Ábsalon)",
+        "mesa": "Roberto (GM), Irene (Monstruo), Miguel (Isopi Flower), Juan Pablo (Valor), Sofía (Pastinaxcel)",
+        "jugadores_adicionales": "Ninguno"
+      },
+      {
+        "edicion": "Spooky Octubre 2025 (Trilogía de la Muerte)",
+        "episodios_podcast": "Partes 1 a 3 (Visiones de Verano, El Brindis de la Muerte, La Danza de la Muerte)",
+        "sistema": "Shadowdark RPG",
+        "mesa": "Roberto (GM), Irene, Miguel, Juan Pablo, Sofía",
+        "jugadores_adicionales": "Daneris (invitada especial por petición popular)"
+      },
+      {
+        "edicion": "Spooky Octubre 2026 (La Guardia de Medianoche)",
+        "episodios_podcast": "Episodio 1 en adelante",
+        "sistema": "Aventura especial de terror anual",
+        "mesa": "Roberto (GM), Irene, Miguel, Juan Pablo, Sofía"
+      }
+    ],
+    "episodios": [
+      {
+        "titulo": "Spookie Octubre 2026 - Episodio 1: La Guardia de Medianoche",
+        "fecha": "Wed, 21 Oct 2026 04:00:00 +0000",
+        "youtube_id": "",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/Spookie_Octubre2026_001.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/spookie-octubre-2026-episodio-1-la-guardia-de-medianoche",
+        "sinopsis": "La oscuridad cae sobre el imperio cuando un oscuro grupo de criaturas se une para realizar una misteriosa misión. Acompáñenos en esta misteriosa aventura de Spooky Octubre® 2026.          Si desean apoyarnos, ahora tenemos un Patreon:   patreon.com/LasersyDragonesPodcast   Discord:  https://discord.gg/V5NnHwbGBv"
+      },
+      {
+        "titulo": "Spookie Octubre - Parte 3: La Danza de la Muerte",
+        "fecha": "Wed, 15 Oct 2025 04:00:00 +0000",
+        "youtube_id": "H2DPNnUKTXI",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/Spookie_Octubre2025_003.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/spookie-octubre-parte-3-la-danza-de-la-muerte",
+        "sinopsis": "En la fortaleza, en medio de horrores y vacíos de décadas. Deben continuar camino, hacia la música de los niveles superiores. Y hacia el desenlace de esta fatídica historia en el final de Spookyoctubre.          Se desean apoyarnos, ahora tenemos un Patreon:   patreon.com/LasersyDragonesPodcast   Discord:  https://discord.gg/V5NnHwbGBv"
+      },
+      {
+        "titulo": "Spookie Octubre - Parte 2: El Brindis de la Muerte",
+        "fecha": "Wed, 08 Oct 2025 04:00:00 +0000",
+        "youtube_id": "4rDsHeidesw",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/Spookie_Octubre2025_002.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/spookie-octubre-parte-2-el-brindis-de-la-muerte",
+        "sinopsis": "En medio de un pueblo abandonado donde nada crece y tras décadas aún las cenizas no se dispersan deben continuar su maldita caminata hacia el corazón de esta oscuridad, la fortaleza de la que no se vuelve.          Se desean apoyarnos, ahora tenemos un Patreon:   patreon.com/LasersyDragonesPodcast   Discord:  https://discord.gg/V5NnHwbGBv"
+      },
+      {
+        "titulo": "Spookie Octubre - Parte 1: Visiones de Verano",
+        "fecha": "Wed, 01 Oct 2025 04:00:00 +0000",
+        "youtube_id": "VcL6Cqx81Dk",
+        "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/Spookie_Octubre2025_001.mp3?dest-id=1801772",
+        "url_pagina": "https://lasersydragones.libsyn.com/spookie-octubre-parte-1-visiones-de-verano",
+        "sinopsis": "Bienvenidos a SPOOKY OCTUBRE, esta semana empezamos con un viaje de tres semanas por la oscuridad del sistema SHADOW DARK. Todo empieza en un olvidado pueblo en medio bosque como muchas cosas terribles empiezan.          Se desean apoyarnos, ahora tenemos un Patreon:   patreon.com/LasersyDragonesPodcast   Discord:  https://discord.gg/V5NnHwbGBv"
+      }
+    ]
+  }
+}

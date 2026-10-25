@@ -81,6 +81,12 @@ lasersydragones/
 │       ├── generar_libro_pdf.py             # Script maquetador LibreOffice con 2 pases de TOC
 │       └── Lasers_y_Dragones_Volumen_6_El_Fantasma_en_la_Maquina.pdf  # PDF Final Maquetado (60 páginas)
 │
+├── planificacion_volumenes_7_10/            # Lote Procesado: Episodios 73 al 122 (50 episodios)
+│   ├── PLAN_VOLUMENES_7_A_10.md             # Plan maestro y correspondencia con libros de Dead Suns y arcos de mesa
+│   ├── metadatos/                           # episodios_73_122.json (metadatos completos, URLs y mapeo)
+│   ├── transcripciones/                     # 50 transcripciones raw y limpias (541,511 palabras)
+│   └── scripts/                             # Script descargador y extractor automático
+│
 └── .agents/skills/novelizacion-lasers-y-dragones/  # Skill y reglas metodológicas del proyecto
     ├── SKILL.md                             # Protocolo integral de descarga, escritura, portadas y PDF
     ├── references/canon_y_personajes.md     # Registro canónico continuo de personajes y facciones
@@ -125,6 +131,40 @@ lasersydragones/
 7. **[Contexto Completo y Guía de Continuidad](file:///home/jordi/Proyectos/lasersydragones/Contexto%20completo/Contexto_Completo_Lasers_y_Dragones.pdf)**
    * *Contenido:* Dossier maestro de todos los escenarios, personajes, corporaciones, bestias y matriz de continuidad con etiquetas de presencia por volumen (`[Volumen 1 al Volumen 6]`).
    * *Extensión:* 48 páginas, A4 editorial con índice y portada homogénea.
+
+---
+
+## 🚀 Próximos Volúmenes en Planificación y Catálogo de Especiales
+
+Para consultar el mapeo exhaustivo de los 272 episodios frente a los libros de Paizo (*Dead Suns*), la rotación de personajes en mesa y los spin-offs, consulte la **[Guía Maestra Global de Novelización y Especiales](file:///home/jordi/Proyectos/lasersydragones/planificacion_volumenes_7_10/PLAN_GLOBAL_SAGA_Y_ESPECIALES.md)**:
+
+### 🌌 Saga Principal (*Starfinder: Dead Suns*):
+* **Volumen 7:** *Mundos Fragmentados I: La Diáspora de Sangre* (Episodios 76b al 88)  
+  *Arco:* Emboscada real del Culto en Ábsalon, rescate de Valdo, visión cósmica de Marloc, salto al Drift hacia La Diáspora, asteroide sarcesiano, base del Culto y batalla naval contra la Flota de los Cuerpos.
+* **Volumen 8:** *Mundos Fragmentados II: El Planeta de los Muertos* (Episodios 89 al 110)  
+  *Arco:* Eox, Sabios Óseos, asesinos nihili, Café Calavera, reality show de Zo! («El Camino Furibundo») y asedio a la Necrogarganta contra Xerantha Zatus (Cierre Libro 3).
+* **Volumen 9:** *Lazos de Sangre: La Sombra de Apostae* (Episodios 111 al 122)  
+  *Arco:* Marcelus al descubierto, infiltración encubierta como sirvientes drow en la Casa Istrav, secretos de Keiden Ashton y duelo fratricida de Triel contra Jhidel.
+* **Volumen 10:** *El Rally de la Muerte en el Asteroide-Casino* (Episodios 123 al 135)  
+  *Arco:* Transición espacial, apuestas, robots corruptos y la carrera vehicular mortal en el vacío con Marloc de piloto.
+* **Volumen 11:** *La Odisea de La Galway* (Episodios 136 al 162)  
+  *Arco:* Salida temporal de Marloc; Juan Pablo introduce a Zivok; conflicto de clanes ysoki, deudas de honor y Roberto llevando a Marloc en segundo plano.
+* **Volumen 12:** *Las Nubes Arruinadas: La Ciudadela de Istamak* (Episodios 163 al 185)  
+  *Arco:* Retorno de Juan Pablo y Marloc (Ep 163), descenso en Nejeor, ciudad flotante de Istamak, civilización Kishalee y misterio de la Puerta Estelar (Libro 4).
+* **Volumen 13:** *El Corazón del Padre: La Redención de Apostae* (Episodios 186 al 222)  
+  *Arco:* Descubrimiento de que Keiden Ashton vive prisionero; asalto definitivo a Apostae, caída de la jerarquía drow y rescate agónico del padre de Triel.
+
+### 🎭 Volúmenes Especiales y Spin-offs (Fuera de Serie):
+* **Especial 1:** *Hielo y Sangre (HyS)* (22 Episodios, 2020)  
+  *Arco:* Campaña medieval de *Pathfinder 2e* jugada durante el confinamiento de la pandemia. Prisioneros encadenados en el Peñón de la Pena en el Gran Imperio Dreki.
+* **Especial 2:** *Mundo de Oscuridad (MdO) - La Caída de Piedra de Plaga* (48 Episodios, 2022-2023)  
+  *Arco:* Campaña completa de *Pathfinder 2e* adaptando la aventura oficial de Paizo durante la pausa de un año de Starfinder. Misterios y alquimia en Piedra de Plaga.
+* **Especial 3:** *Spooky Octubre 2021: Pesadilla en el Viejo Golarion* (Episodios 73 al 76a)  
+  *Arco:* Simulación virtual de rol dentro del rol (*Pathfinder 2e* en Ábsalon): *Isopi Flower* (druida rana), *Valor* (orco), *Pastinaxcel* (leshy) y *Monstruo* (mutante).
+* **Especial 4:** *Spooky Octubre 2025: La Trilogía de la Muerte* (3 Episodios)  
+  *Arco:* Sistema *Shadowdark RPG*, con la participación de la **jugadora invitada especial Daneris**.
+* **Especial 5:** *Spooky Octubre 2026: La Guardia de Medianoche* (Episodio 1+)  
+  *Arco:* Entrega anual de horror y misiones nocturnas para el Imperio.
 
 ---
 
