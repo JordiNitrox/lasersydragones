@@ -44,7 +44,7 @@ La única respuesta que llegó a través del altavoz fue una risa gutural, fría
 
 —Bueno, no digan que no intenté la vía diplomática —suspiró Benray—. ¡Axel, Marloc, acérquense tanto a esa nave que puedan oler su falta de desodorante! ¡Es hora de estrenar el espolón!
 
-Marloc tomó los mandos de pilotaje auxiliar junto a Axel. El místico kasatha cerró los ojos, sincronizando su respiración arcana con los sensores de inercia de la nave corsaria. Con un movimiento envolvente digno de una danza ceremonial, Marloc ejecutó un derrape lateral cerrado alrededor de un monolito de basalto de trescientos metros, colocándose exactamente en el flanco ciego del interceptor enemigo.
+Marloc tomó los mandos de pilotaje auxiliar junto a Axel. El tecnomante cerró los ojos, sincronizando su concentración con los sensores de inercia de la nave corsaria. Con un movimiento envolvente, Marloc ejecutó un derrape lateral cerrado alrededor de un monolito de basalto de trescientos metros, colocándose exactamente en el flanco ciego del interceptor enemigo.
 
 —¡Ahora, Triel! —rugió Marloc por la radio—. ¡Despliega la hoja!
 

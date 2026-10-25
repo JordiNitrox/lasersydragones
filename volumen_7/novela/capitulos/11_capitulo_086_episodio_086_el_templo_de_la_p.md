@@ -43,7 +43,7 @@ Triel posó su mano enguantada sobre el hombro de Axel, apretándolo con afecto 
 
 —Cree que lo abandoné —murmuró Axel, apretando el cuaderno contra su pecho de aleación—. Cuando despertó en la clínica y me preguntó si había algo para él... no pude mirarlo a los ojos. Todo lo que veía era la muerte de Éclair. Huí de él. Y Null lo recogió del suelo para traerlo al culto.
 
-Marloc cerró los ojos y canalizó una breve resonancia mística sobre las páginas escritas. El kasatha suspiró con solemnidad:
+Marloc cerró los ojos y canalizó una breve resonancia mística sobre las páginas escritas. El tecnomante suspiró con solemnidad:
 —Hay una madurez espiritual asombrosa en estas líneas. Este no es el desvarío de un fanático ni la mente maleable de un títere. Este joven androide comprende la paradoja del dolor mejor que la propia Null-9. Hay luz en su conciencia, Axel. No se ha rendido al vacío.
 
 —Lo encontraremos —prometió Benray, golpeando el mamparo con determinación—. Aunque tengamos que perseguir a Null-9 hasta los calderos de fuego de la Flota Cadáver. Galway no deja a un chico sin nombre atrás.
@@ -126,7 +126,7 @@ Debido a la distancia interestelar del Drift, la respuesta de Chiskisk tardó se
 
 Durante la espera, Marloc recibió un mensaje personal en su terminal privado. Era de Ángela, la mujer sarcesiana con la que había compartido confidencias en Absalom. La invitación era formal y afectuosa: una celebración vecinal en el asteroide residencial Ceres, en pleno cinturón de la Diáspora, para inaugurar su nuevo asentamiento y despedirse de Marloc antes de que sus deberes lo alejaran definitivamente de la región.
 
-El kasatha contempló la pantalla con una mirada de profunda ternura:
+Marloc contempló la pantalla con una mirada de profunda ternura:
 —Estaré allí, Ángela. Te lo prometo.
 
 Poco después, la pantalla principal del puente se iluminó con el holograma de Chiskisk. El rostro insectoide de la shirren temblaba con una mezcla de consternación y urgencia suprema:

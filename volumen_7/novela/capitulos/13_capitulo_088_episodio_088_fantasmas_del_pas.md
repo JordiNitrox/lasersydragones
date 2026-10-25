@@ -80,7 +80,7 @@ Benray Galway dio un paso al frente, ajustándose la chaqueta con la elegancia d
 El oficial morsa entornó los ojos, miró la tableta, miró al ysoki y soltó un bufido que hizo temblar sus bigotes:
 —A mi hijo le encanta su programa... aunque yo prefiero los debates de Gallito Peligro. Trato hecho: ochenta créditos. Tienen el muelle doce asegurado.
 
-El kasatha Marloc se acercó a Triel, consultando su cronómetro personal con una suave sonrisa:
+Marloc se acercó a Triel, consultando su cronómetro personal con una suave sonrisa:
 —La recepción vecinal de Ángela comenzará mañana al mediodía en el sector residencial de Ceres. Tendremos tiempo suficiente para reabastecernos y descansar antes de partir hacia Eox.
 
 —Descansaremos en cuanto aseguremos esta nave —respondió Triel con el ceño fruncido—. Llevo días sintiendo ruidos anómalos en la popa. Valdo asegura que los mamparos están limpios, pero mis sensores siguen registrando variaciones térmicas en el subsuelo de la sala de máquinas. No pienso bajar a Ceres hasta revisar el último compartimento de la *Estrella Errante*.
@@ -122,7 +122,7 @@ El impacto de treinta y un voltios de pura furia derribó al emisario contra los
 
 —¡Benray! —gritó Axel, desenfundando su pistola de partículas. La androide ajustó la frecuencia para infligir únicamente daño no letal: a pesar del peligro, comprendía que Radavox no era un criminal del Devorador, sino un padre destrozado por el duelo.
 
-Marloc Boosmar actuó con la velocidad del rayo. Alzando sus brazos hacia el Veszk enfurecido, el kasatha canalizó un hechizo de transmutación regresiva:
+Marloc Boosmar actuó con la velocidad del rayo. Alzando sus brazos hacia el Veszk enfurecido, el tecnomante canalizó un hechizo de transmutación regresiva:
 —*¡Retrorsum vestigium!*
 
 Un resplandor místico envolvió la musculatura del general. Las escamas de Radavox se engrosaron y sus facciones se volvieron más toscas y lentas, reduciendo su agilidad de combate mientras la magia lo forzaba a luchar contra su propia torpeza motriz.

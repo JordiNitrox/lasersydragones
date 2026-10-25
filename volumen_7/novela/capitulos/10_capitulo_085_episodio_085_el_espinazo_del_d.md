@@ -15,9 +15,9 @@ Benray Galway estaba sentado en el suelo de piedra, apoyado contra la base de la
 Triel, arrodillada frente a los sistemas del dron de combate, cerró la placa dorsal de Gerty con un chasquido metálico de su soldador sónico. La elfa oscura sonrió de medio lado:
 —Gerty está completamente operativo. Sus servos reforzados aguantaron el grueso del castigo. Y en cuanto a nosotros... bueno, hemos sobrevivido a lo peor que este nivel tenía reservado. Marloc, ¿cómo van tus lecturas?
 
-El kasatha no respondió de inmediato. Permanecía de pie, erguido frente a la mole monumental de nueve metros de ancho que presidía la estancia: la computadora central del complejo, bautizada en las interfaces del culto como el Mainframe de la Agonía. Sus monitores de fósforo rojo parpadeaban como un enjambre de ojos carmesíes en la penumbra.
+El tecnomante no respondió de inmediato. Permanecía de pie, erguido frente a la mole monumental de nueve metros de ancho que presidía la estancia: la computadora central del complejo, bautizada en las interfaces del culto como el Mainframe de la Agonía. Sus monitores de fósforo rojo parpadeaban como un enjambre de ojos carmesíes en la penumbra.
 
-—No hay firmas vitales adicionales en este sector —dijo Marloc con su voz de cuatro resonancias, pasando sus dedos enjoyados por las consolas cubiertas de runas—. Pero esta máquina custodia los secretos más oscuros de la secta. Triel, conecta tu plataforma. Debemos arrancarle las respuestas antes de que las contramedidas borren sus memorias.
+—No hay firmas vitales adicionales en este sector —dijo Marloc con tono pausado y solemne, pasando sus dedos por las consolas cubiertas de runas—. Pero esta máquina custodia los secretos más oscuros de la secta. Triel, conecta tu plataforma. Debemos arrancarle las respuestas antes de que las contramedidas borren sus memorias.
 
 ***
 
@@ -58,13 +58,13 @@ Benray dio un respingo, abriendo la boca con estupor:
 
 —O Syd Velch ha tenido visiones similares sin comprender su origen místico —señaló Axel con frialdad matemática—, o las letras de sus canciones fueron utilizadas como canal de captación subliminal por los mecenas del culto.
 
-Marloc no escuchaba la discusión. El kasatha había posado su palma directamente sobre el cristal de la pantalla donde los textos originales de Nyara desfilaban en caracteres élficos antiguos. Su respiración se aceleró.
+Marloc no escuchaba la discusión. El tecnomante había posado su palma directamente sobre el cristal de la pantalla donde los textos originales de Nyara desfilaban en caracteres élficos antiguos. Su respiración se aceleró.
 
 —Marloc, ¿qué haces? —advirtió Triel—. ¡Aparta la mano!
 
 Era tarde. La mente de Marloc se hundió en el abismo.
 
-En la visión que asaltó su conciencia, el kasatha ya no estaba en la consola. Se encontraba en una cámara de piedra negra sin fin. Frente a él, Nyara ya no era una figura holográfica estilizada: era una anciana marchita, desnuda, con el cuerpo surcado por cientos de cadenas de hierro frío clavadas directamente en su carne viva. La mujer se inclinaba sobre un cadáver mutilado, untándose la sangre caliente sobre el rostro mientras desgarraba las entrañas para leer las líneas del destino.
+En la visión que asaltó su conciencia, el tecnomante ya no estaba en la consola. Se encontraba en una cámara de piedra negra sin fin. Frente a él, Nyara ya no era una figura holográfica estilizada: era una anciana marchita, desnuda, con el cuerpo surcado por cientos de cadenas de hierro frío clavadas directamente en su carne viva. La mujer se inclinaba sobre un cadáver mutilado, untándose la sangre caliente sobre el rostro mientras desgarraba las entrañas para leer las líneas del destino.
 
 De pronto, en medio del horror infinito, la anciana detuvo su cántico.
 
@@ -76,7 +76,7 @@ Marloc cayó de rodillas al suelo de la sala de control, jadeando con violencia.
 Axel y Triel lo sujetaron por los hombros antes de que su frente golpeara las losas.
 —¡Marloc! ¡Respira! —exclamó la drow, limpiándole el rostro con un pañuelo estéril—. ¿Qué has visto?
 
-El místico temblaba de pies a cabeza. Sus cuatro manos se aferraron a los brazos de sus compañeros con una fuerza desesperada:
+El místico temblaba de pies a cabeza. Sus manos se aferraron a los brazos de sus compañeros con una fuerza desesperada:
 —No son fanáticos jugando a ser monstruos... —balbuceó con la mirada extraviada—. Es real. La Devoradora de Soles... el arma estelar existe. Y quienquiera que esté financiando esto desde hace veinte años, no está interpretando metáforas poéticas. Saben exactamente dónde está la llave. Y nos están esperando.
 
 ***
