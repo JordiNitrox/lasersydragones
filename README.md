@@ -81,11 +81,12 @@ lasersydragones/
 │       ├── generar_libro_pdf.py             # Script maquetador LibreOffice con 2 pases de TOC
 │       └── Lasers_y_Dragones_Volumen_6_El_Fantasma_en_la_Maquina.pdf  # PDF Final Maquetado (60 páginas)
 │
-├── planificacion_volumenes_7_10/            # Lote Procesado: Episodios 73 al 122 (50 episodios)
-│   ├── PLAN_VOLUMENES_7_A_10.md             # Plan maestro y correspondencia con libros de Dead Suns y arcos de mesa
-│   ├── metadatos/                           # episodios_73_122.json (metadatos completos, URLs y mapeo)
-│   ├── transcripciones/                     # 50 transcripciones raw y limpias (541,511 palabras)
-│   └── scripts/                             # Script descargador y extractor automático
+├── planificacion_global/                    # Plan Maestro y 150 Episodios Procesados (Episodios 73 al 222)
+│   ├── PLAN_GLOBAL_SAGA_Y_ESPECIALES.md     # Guía Maestra Global de los 272 episodios de la serie y spin-offs
+│   ├── PLAN_DETALLADO_VOLUMENES_7_A_13.md   # Mapeo y desglose detallado de los 150 episodios procesados
+│   ├── metadatos/                           # Catálogos JSON consolidados (150 eps Starfinder y especiales)
+│   ├── transcripciones/                     # 150 transcripciones raw y limpias (1.686.839 palabras)
+│   └── scripts/                             # Utilidades de descarga, extracción y consolidación
 │
 └── .agents/skills/novelizacion-lasers-y-dragones/  # Skill y reglas metodológicas del proyecto
     ├── SKILL.md                             # Protocolo integral de descarga, escritura, portadas y PDF
@@ -136,7 +137,7 @@ lasersydragones/
 
 ## 🚀 Próximos Volúmenes en Planificación y Catálogo de Especiales
 
-Para consultar el mapeo exhaustivo de los 272 episodios frente a los libros de Paizo (*Dead Suns*), la rotación de personajes en mesa y los spin-offs, consulte la **[Guía Maestra Global de Novelización y Especiales](file:///home/jordi/Proyectos/lasersydragones/planificacion_volumenes_7_10/PLAN_GLOBAL_SAGA_Y_ESPECIALES.md)**:
+Para consultar el mapeo exhaustivo de los 272 episodios frente a los libros de Paizo (*Dead Suns*), la rotación de personajes en mesa y los spin-offs, consulte la **[Guía Maestra Global de Novelización y Especiales](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_GLOBAL_SAGA_Y_ESPECIALES.md)** y el desglose de los 150 episodios procesados en el **[Plan Detallado de Volúmenes 7 al 13](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_DETALLADO_VOLUMENES_7_A_13.md)**:
 
 ### 🌌 Saga Principal (*Starfinder: Dead Suns*):
 * **Volumen 7:** *Mundos Fragmentados I: La Diáspora de Sangre* (Episodios 76b al 88)  

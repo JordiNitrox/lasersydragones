@@ -4,7 +4,7 @@
 > **Proyecto:** *Lasers y Dragones: La Novela*  
 > **Fuente de Audio:** Podcast Oficial de Rol en Vivo *Lasers y Dragones* (Feed RSS de Libsyn y Canal Oficial de YouTube)  
 > **Campaña Troncal:** *Starfinder: Dead Suns Adventure Path* (Paizo Publishing, Libros 1 al 6) enriquecida con arcos canónicos de la mesa de juego.  
-> **Material Descargado y Limpio:** 150 episodios continuos (Ep 73 al 222) en texto limpio (**1.686.839 palabras** acumuladas) listos en `planificacion_volumenes_7_10/transcripciones/limpias/`.
+> **Material Descargado y Limpio:** 150 episodios continuos (Ep 73 al 222) en texto limpio (**1.686.839 palabras** acumuladas) listos en [`planificacion_global/transcripciones/limpias/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/transcripciones/limpias/).
 
 ---
 
@@ -123,11 +123,15 @@ graph TD
 
 ## 4. Estructura de Metadatos y Recursos en el Proyecto
 
-Todos los recursos se encuentran organizados y vinculados en el repositorio:
-1. **Metadatos de la Saga Troncal:**
-   * [`planificacion_volumenes_7_10/metadatos/episodios_73_122.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_volumenes_7_10/metadatos/episodios_73_122.json) (50 episodios).
-   * [`planificacion_volumenes_7_10/metadatos/episodios_123_222.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_volumenes_7_10/metadatos/episodios_123_222.json) (100 episodios).
-2. **Metadatos de Especiales y Spin-offs:**
-   * [`planificacion_volumenes_7_10/metadatos/especiales_y_spinoffs.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_volumenes_7_10/metadatos/especiales_y_spinoffs.json) (HyS: 22 eps, MdO: 48 eps, Spooky Octubre 2021, 2025 y 2026).
-3. **Transcripciones Limpias en Texto Corrido:**
-   * 150 archivos continuos en [`planificacion_volumenes_7_10/transcripciones/limpias/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_volumenes_7_10/transcripciones/limpias/) (**1.686.839 palabras**).
+Todos los recursos se encuentran organizados y vinculados en el repositorio dentro de [`planificacion_global/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/):
+1. **Plan Detallado de Episodios (Volúmenes 7 al 13):**
+   * [`PLAN_DETALLADO_VOLUMENES_7_A_13.md`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_DETALLADO_VOLUMENES_7_A_13.md) (tabla completa y detallada episodio por episodio de los 150 capítulos procesados).
+2. **Metadatos de la Saga Troncal:**
+   * [`planificacion_global/metadatos/episodios_starfinder_73_222.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_73_222.json) (Catálogo maestro consolidado de 150 episodios).
+   * [`planificacion_global/metadatos/episodios_starfinder_73_122.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_73_122.json) (50 episodios).
+   * [`planificacion_global/metadatos/episodios_starfinder_123_222.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_123_222.json) (100 episodios).
+3. **Metadatos de Especiales y Spin-offs:**
+   * [`planificacion_global/metadatos/especiales_y_spinoffs.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/especiales_y_spinoffs.json) (HyS: 22 eps, MdO: 48 eps, Spooky Octubre 2021, 2025 y 2026).
+4. **Transcripciones Limpias en Texto Corrido:**
+   * 150 archivos continuos en [`planificacion_global/transcripciones/limpias/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/transcripciones/limpias/) (**1.686.839 palabras**).
+
