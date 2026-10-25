@@ -22,7 +22,7 @@ Un silbido agudo y penetrante, como el escape de una olla a presión a punto de 
 En el mamparo de la bodega de carga, donde descansaban las cajas de raciones y la hamaca de los goblins, uno de los remaches de la compuerta de ventilación cedió ante la fuerza del vendaval. Una nube de gas tóxico y ceniza radiactiva comenzó a filtrarse al interior de la cabina con la furia de un géiser:
 —¡Alarma de despresurización! —chilló el ordenador de a bordo con una sirena roja—. *¡Contaminación atmosférica en compartimento de popa! ¡Tiempo de seguridad biológica: dos minutos!*
 
-Willy y Naru se lanzaron bajo una lona chillando aterrados mientras Benray saltaba de su asiento con su escafandra de emergencia puesta:
+Benray se aferró a la barandilla saltando de su asiento con su escafandra de emergencia puesta:
 —¡No hay respeto! ¡Ni siquiera en medio de un apocalipsis nuclear podemos viajar tranquilos! ¡Triel, la compuerta exterior se está desquiciando! ¡Si se abre del todo, la tormenta nos arrancará las tripas!
 
 Triel se puso el casco de su traje de un solo golpe y bloqueó los mandos del vehículo con el piloto automático inercial:

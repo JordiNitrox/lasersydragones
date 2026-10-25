@@ -42,15 +42,20 @@ El shirren movió sus antenas con suavidad, emitiendo un chasquido inescrutable:
 Benray Galway frunció el ceño, masticando una barrita energética mientras ajustaba la correa de su rifle de francotirador:
 —Vaya con el señor Klamburg. Siempre tan poético para decirnos que nos pueden reventar la nave en cualquier esquina. ¿Y qué hay de nuestras mascotas de a bordo? ¿Tienen autorización de vuelo?
 
-Desde la esclusa de la nave, dos risas chillonas y el sonido de una llave inglesa cayendo por una rejilla respondieron a la pregunta: Willy y Naru, los goblins espaciales rescatados en el Acreon, asomaron sus cabezas calvas y orejas puntiagudas cubiertas de grasa, saludando frenéticamente con llaves inglesas en alto.
+En la pantalla holográfica del muelle, la emisión de última hora de *Noticias en Movimiento* mostraba en directo al flamante Oficial León Holden ofreciendo declaraciones sobre la seguridad del Nivel 21. Marloc entrecerró los ojos y se detuvo en seco:
 
-—¡Nave lista! ¡Poco fuego en tubos, mucho gas en motor! —chilló Willy con entusiasmo desbordante.
+—Miren detrás del oficial, en la grúa de carga de los Protectores —señaló el tecnomante con un brillo divertido en la mirada.
 
-—¡Goblins no tocar cable rojo... casi nada! —añadió Naru, escondiendo un manojo de cables pelados tras la espalda.
+Triel y Benray enfocaron la vista. Con una tirada prodigiosa de percepción, distinguieron claramente cómo dos pequeñas figuras verdes con orejas puntiagudas y monos grasientos asomaban las narices por la rendija de una caja de suministros que estaba siendo izada a la nave de los Protectores: ¡Willy y Naru!
 
-—*Aviso técnico prioritario* —intervino Gerty desde la rampa, con sus cuatro brazos cargados con cajas de munición pesada—. *Los parásitos verdes han intentado instalar un quemador de basura en el sistema de ventilación de emergencia. Solicito autorización formal para utilizarlos como proyectiles de artillería.*
+Axel aplicó el zoom óptico de su procesador:
+—Confirmado: los sujetos Willy y Naru han burlado el perímetro de seguridad y se han infiltrado con éxito en la bodega de la patrulla del Oficial Holden.
 
-—¡Nada de lanzar goblins al vacío! —zanjó Triel entre risas—. ¡Todos a bordo! ¡Tenemos un salto que calcular!
+Benray soltó una carcajada que resonó en todo el hangar:
+—¡Por las siete madrigueras! ¡El profesor Marloc los mandó con el señor León y esos pillos se han metido de polizones en su nave de guerra! Pobre León... cuando descubra que tiene a toda la familia goblin viviendo en su despensa de plasma, va a pedir el traslado a una luna desierta.
+
+Triel se sonrojó levemente, conteniendo una sonrisa pícara:
+—León sabrá lidiar con ellos... Y al menos el motor de su patrulla tendrá un veinte por ciento más de potencia antes de que hagan saltar los fusibles. ¡Todos a bordo! ¡Tenemos un salto que calcular!
 
 ***
 

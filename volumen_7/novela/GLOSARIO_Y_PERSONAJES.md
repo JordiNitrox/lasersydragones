@@ -15,7 +15,7 @@
 * **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Su verborrea y astucia diplomática se ponen a prueba ante los piratas de la Diáspora. Mantiene contacto con su red familiar de los Galway y su primo Rim Rey, aunque comienza a percibir rumores inquietantes sobre naves ysoki desaparecidas.
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo). Sigue arrastrando el duelo melancólico por Clara/Ángela y el enigma cósmico de Marlene Boosmar. Se muestra introspectivo y protector ante las maquinaciones de Inversiones Estelares S.C.
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Se enfrenta al dilema ético y ontológico tras capturar a la prisionera androide Null-9. Empieza a sospechar que su propio cuerpo y código albergan secretos muy anteriores a su memoria consciente.
-* **Willy y Naru:** Goblins espaciales rescatados en el Acreon. Cumplen tareas auxiliares de mantenimiento (y sabotaje involuntario) en el *Hippocampus*.
+* **Willy y Naru:** Goblins espaciales rescatados en el Acreon. En el Episodio 35, tras intentar acampar con toda su familia en la sala de máquinas del *Hippocampus*, Marloc los convenció de mudarse a la nave del Oficial León Holden de los Protectores. En el Episodio 78 son avistados en el noticiero de Absalón colándose como polizones en las cajas de la patrulla de León, permaneciendo bajo la custodia involuntaria de los Protectores.
 
 ---
 

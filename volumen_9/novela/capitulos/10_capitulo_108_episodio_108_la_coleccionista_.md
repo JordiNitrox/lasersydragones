@@ -34,8 +34,7 @@ El ascenso de dos kilómetros por el acantilado fue un viaje suspendido sobre el
 
 A medida que el elevador ganaba altura, la luz violeta de los faroles subterráneos dio paso al resplandor plomizo del cielo de Eox. Las ráfagas de viento frío cargadas de ceniza comenzaron a azotar la cabina abierta, recordándoles que los páramos radiactivos aún aguardaban arriba.
 
-Al coronar el borde del cañón, el Goliath Terrestre los esperaba intacto junto al promontorio rocoso, con Willy y Naru saludando frenéticamente desde el techo con llaves inglesas en alto:
-—¡Jefes vivos! ¡Coche listo para correr mucho!
+Al coronar el borde del cañón, el Goliath Terrestre los esperaba intacto junto al promontorio rocoso, con sus motores auxiliares listos para la ignición:
 
 Triel respiró hondo, quitándose el casco para sentir el aire helado en el rostro:
 —Primera fase cumplida. Ahora solo tenemos que cruzar el desierto de regreso a Orphys y subir a bordo del *Hippocampus* antes de que la Flota bloquee la órbita.

@@ -25,8 +25,8 @@ Marloc remató la maniobra con un dardo de choque eléctrico que paralizó los i
 
 —¡Todos a bordo! ¡Despegue inmediato! —ordenó Triel al cruzar la rampa del *Hippocampus*.
 
-Willy y Naru ya estaban en la sala de máquinas, chillando de emoción mientras alimentaban los inyectores de plasma con barras de combustible secundario:
-—¡Roca se rompe! ¡Fuego bonito en el cielo! —gritaba Willy agarrado a una palanca.
+Gerty ya estaba en la sala de máquinas coordinando los inyectores auxiliares con dos de sus brazos mientras con los otros dos aseguraba los mamparos de presión:
+—*Sistemas de propulsión al ciento doce por ciento* —articuló el meca—. *Parámetros térmicos al límite tolerable.*
 
 El carguero rugió con toda la potencia de sus propulsores, despegando de la grieta en el preciso instante en que la Roca de Sarcesia se fracturaba en tres fragmentos colosales que salieron despedidos hacia el cinturón de la Diáspora. Maniobrando entre una nube mortal de metralla espacial, Triel guió la nave con maestría consumada, esquivando pedruscos incandescentes hasta alcanzar el espacio libre de asteroides.
 

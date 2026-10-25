@@ -35,8 +35,8 @@ Benray abrió la boca para protestar, pero la cerró de golpe al comprobar que A
 Gerty se colocó en la vanguardia del brocal del abismo. Sus cuatro extremidades mecánicas revisaron los anclajes de su mochila de propulsión de salto pesado, mientras en su cúpula acristalada dos ópticos azules parpadeaban listos para la acción:
 —*Sistemas de propulsión inercial calibrados* —informó el meca con voz firme—. *Aceleración de caída estimada: cuarenta metros por segundo al cuadrado en la gravedad local de Eox. Tiempo de vuelo hasta el tejado de la fortaleza: cuarenta y cinco segundos. Sugiero cerrar bien la boca durante el trayecto para evitar la ingestión involuntaria de polvo atómico.*
 
-Willy y Naru asomaron sus cabezas por la ventanilla del Goliath, saludando con pañuelos grasientos:
-—¡Jefes volar como pájaros de fuego! ¡Goblins cuidar coche y no tocar nada... mucho!
+Triel dejó el vehículo asegurado con el sistema de bloqueo remoto y los sensores perimetrales activos:
+—El Goliath resistirá aquí hasta nuestro regreso. Si todo sale bien, saldremos en nave; si no, tenemos un transporte blindado para volver a Orphys.
 
 Triel respiró hondo, ajustó su casco hermético y miró a sus compañeros con determinación absoluta:
 —Hemos cruzado la Diáspora, burlado a los ministros de Orphys y sobrevivido a los páramos radiactivos. La verdad sobre la Devoradora de Soles nos espera en el fondo de esa fosa.

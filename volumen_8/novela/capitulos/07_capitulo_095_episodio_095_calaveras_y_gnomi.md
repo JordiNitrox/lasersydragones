@@ -12,21 +12,17 @@ El problema era que el vehículo llevaba cincuenta años abandonado en un hangar
 
 —Tenemos doce horas antes de que el ministerio descubra nuestra incursión en el archivo —le recordó Axel, vigilando el portón del taller con el rifle montado sobre un trípode.
 
-En ese momento, dos chillidos agudos y el sonido de una carcajada histérica resonaron desde la parte trasera del convoy: Willy y Naru salieron despedidos de una tubería de escape, cubiertos de grasa negra hasta las orejas y blandiendo sendas llaves de impacto neumáticas con una sonrisa maníaca.
+En ese momento, un pitido en el comunicador de Triel trajo una transmisión de voz comprimida desde Absalón. Era el Oficial León Holden, con un trasfondo de quejas y martillazos lejanos:
+—*«Triel... si sobrevives a Eox, juro que te cobraré personalmente por la custodia de tus amigos verdes. Willy acaba de reprogramar los dispensadores del cuartel para que solo sirvan salsa picante, y Naru intentó soldar una antena parabólica a mi litera. Dicen que es para que el motor de mi patrulla tenga más "brrrum-brrrum". Cuídate ahí fuera... y date prisa en volver.»*
+
+Triel soltó una carcajada que alivió la tensión del taller:
+—Parece que León tiene las manos ocupadas con nuestros protegidos. ¡Gerty, ayúdame a montar el inyector de plasma en la línea secundaria! ¡Axel, calibremos el sellado hermético de la cabina!
 
 ***
 
-### II. Los goblins y el peligro radiactivo
+### II. Los preparativos y el blindaje pesado
 
-—¡Goblins encontrar pieza gorda! ¡Hacer brrrum-brrrum muy rápido! —chilló Willy, mostrando triunfalmente un inyector de combustible militar que había robado de un generador vecino.
-
-—¡Naru conectar cables con chicle y alambre de cobre! —añadió su compinche, exhibiendo un empalme casero que despedía chispas violetas a diez centímetros de un bidón de combustible inflamable.
-
-—¡Cuidado con eso, parásitos verdes! —gritó Benray, arrojándose sobre el bidón para apartarlo antes de que volaran todos por los aires—. ¡Si nos hacen estallar en este basurero, juro que los uso como ruedas de repuesto!
-
-—*Aviso de seguridad laboral* —articuló Gerty avanzando hacia el motor con dos llaves inglesas de tres metros en sus brazos superiores—. *El índice de accidentes provocados por la tripulación goblin supera el estándar galáctico en un cuatrocientos por ciento. Solicito autorización para confinarlos en una caja de herramientas hasta nuevo aviso.*
-
-—¡Dejadlos trabajar, son un desastre pero tienen intuición para la chatarra! —ordenó Triel, riendo a pesar de la tensión—. ¡Willy, monta ese inyector en la línea secundaria! ¡Naru, suelda las compuertas del filtro de aire exterior con plomo líquido! ¡Axel, ayúdame a calibrar el sellado hermético de la cabina!
+Durante las siguientes horas, la tripulación se dedicó en cuerpo y alma a transformar el viejo transporte minero en una fortaleza rodante. Con la ayuda de los cuatro brazos de Gerty y la precisión milimétrica de Axel, reforzaron las uniones del chasis con placas de plomo galvanizado y soldaron filtros de aire estancos.
 
 Durante las siguientes ocho horas, el taller de desguace se convirtió en una sinfonía de martillazos, soldaduras al arco y órdenes cruzadas. Triel instaló un purificador de aire de grado militar extraído del *Hippocampus*, mientras Marloc grababa runas arcanas de protección contra la radiación en las ventanas de cristal blindado del transporte.
 
@@ -41,7 +37,7 @@ Un ronroneo grave y poderoso, libre de fallos de encendido, inundó la estancia.
 Triel se secó la frente con el dorso de la mano ensangrentada por un corte de chapa, mirando el vehículo con orgullo de fabricante:
 —Cabina presurizada al cien por cien. Blindaje contra radiación gamma activo. Autonomía de combustible para mil doscientos kilómetros. La bestia está lista para rodar.
 
-Benray cargó su macuto en la bodega de popa, donde Willy y Naru ya se habían acomodado en una hamaca improvisada entre cajas de raciones de campaña:
+Benray cargó su macuto en la bodega de popa, asegurando las cajas de raciones de campaña:
 —Bueno, muchachos... Próxima parada: la gran nada de ceniza. Si no volvemos en una semana, recuerden ponerle a la taberna de Absalón una placa conmemorativa con mi nombre en letras doradas.
 
 Marloc cerró la pesada compuerta blindada de acceso y activó el sello hermético con un chasquido definitivo: *¡PSSSHT!*

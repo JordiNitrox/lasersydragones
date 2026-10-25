@@ -40,7 +40,7 @@ El puente de mando quedó sumido en un silencio reverente. Marloc acarició la p
 Triel se giró hacia sus compañeros con una sonrisa radiante y decidida:
 —Ya lo han oído, muchachos. Nuestro jefe nos ha despedido... pero nos ha dejado la nave, los créditos y el billete para la mayor aventura de nuestras vidas.
 
-Gerty dio dos pasos al frente, alzando sus cuatro brazos mecánicos en una pose marcial que arrancó las risas de Willy y Naru:
+Gerty dio dos pasos al frente, alzando sus cuatro brazos mecánicos en una pose marcial que arrancó una sonrisa a la tripulación:
 —*Sistemas de navegación preparados* —articuló el meca por sus altavoces—. *Aviso para la tripulación: el asteroide Kairos es famoso en los registros por albergar casinos de alta gama y bufés con reposición ilimitada de bollería.*
 
 Benray saltó de su asiento como impulsado por un resorte, con los ojos brillando de entusiasmo:

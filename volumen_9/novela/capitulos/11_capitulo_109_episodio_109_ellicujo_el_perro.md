@@ -25,8 +25,7 @@ Triel condujo a máxima velocidad a través de los cañones protegidos, siguiend
 
 Al alcanzar los muelles privados del sector diplomático, el *Hippocampus* los aguardaba con los motores encendidos en modo de precalentamiento.
 
-Willy y Naru subieron por la rampa cargando sus macutos de herramientas entre risotadas:
-—¡Nave bonita! ¡Adiós planeta de huesos feos!
+Los tripulantes subieron por la rampa asegurando el equipo y los contenedores de datos:
 
 Xerantha Zatus fue entregada bajo custodia secreta a los oficiales de la embajada de los Mundos del Pacto, garantizando que sus confesiones llegaran directamente al Consejo de Síndicos en Absalón sin ser interceptadas por los ministros corruptos de Eox.
 
