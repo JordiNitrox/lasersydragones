@@ -10,11 +10,11 @@ Benray Galway no dudó en adjudicarse el camarote principal del capitán, transf
 
 Triel Istrav, por su parte, rechazó de plano los camarotes estándar. Fiel a su naturaleza forjada en los talleres de la Espiga, la mecánica colgó una hamaca militar directamente en la cubierta de máquinas, durmiendo plácidamente arrullada por el zumbido atronador del reactor y rodeada de bidones de lubricante, cables pelados y sus herramientas de impacto.
 
-El habitáculo de Axel 42 era un prodigio de contradicciones: orden táctico en su armero y un absoluto caos juvenil en el resto de la estancia, con ropa apilada sobre las sillas y carteles publicitarios retro recogidos en sus viajes por el Vasto. Para evitar incursiones nocturnas de los goblins, la androide había instalado un sensor biométrico en su mini-nevera que disparaba una ruidosa sirena de abordaje si alguien intentaba tocar sus provisiones.
+El habitáculo de Axel 42 era un prodigio de contradicciones: orden táctico en su armero y un absoluto caos juvenil en el resto de la estancia, con ropa apilada sobre las sillas y carteles publicitarios retro recogidos en sus viajes por el Vasto. Para evitar incursiones nocturnas de Benray o Triel en busca de refrigerios, la androide había instalado un sensor biométrico en su mini-nevera que disparaba una ruidosa sirena de abordaje si alguien intentaba tocar sus provisiones.
 
 Fue precisamente en su camarote donde Axel abrió el paquete anónimo que los estibadores habían dejado junto a la esclusa antes de zarpar.
 
-Dentro de la caja metálica reposaba la vieja cazadora de vuelo de **Eclair**, con su nombre bordado en hilo dorado en el forro interior, acompañada por dos de los collares de cuentas mecánicas que el humano siempre lucía en el cuello. Bajo las prendas, protegida por plástico de burbujas, descansaba una fotografía física enmarcada: en ella aparecían Null-9, Eclair y la propia Axel sonriendo y abrazados frente a una cantina del Vasto durante sus años de fugitivos. La androide contempló la imagen en silencio durante varios minutos. Con una delicadeza inusual en sus actuadores de combate, colocó el marco sobre su mesilla junto a su fusil láser, dejando que un destello rosáceo de afecto titilara en los circuitos de sus mejillas.
+Dentro de la caja metálica reposaba la vieja cazadora de vuelo de **Eclair**, con su nombre bordado en hilo dorado en el forro interior, acompañada por dos de los collares de cuentas mecánicas que el veterano androide siempre lucía sobre el chasis. Bajo las prendas, protegida por plástico de burbujas, descansaba una fotografía física enmarcada: en ella aparecían Null-9, Eclair y la propia Axel sonriendo y abrazados frente a una cantina del Vasto durante sus años de fugitivos. La androide contempló la imagen en silencio durante varios minutos. Con una delicadeza inusual en sus actuadores de combate, colocó el marco sobre su mesilla junto a su fusil láser, dejando que un destello rosáceo de afecto titilara en los circuitos de sus mejillas.
 
 La paz del viaje, sin embargo, se vio alterada la tercera noche cuando los sensores de movimiento de la cocina registraron una presencia espectral a las tres de la madrugada.
 
@@ -91,12 +91,12 @@ Nadie volvió a hablar. En medio de una tensión espesa que se podía cortar con
 ### III. Desembarco en Shin'Kari
 
 Al abrirse la rampa de popa, una bocanada de aire húmedo, denso y cargado de aromas florales y tierra mojada envolvió al grupo, rompiendo momentáneamente el pesado silencio del puente.
+ 
+El calor tropical contrastaba de golpe con la atmósfera controlada del espacio profundo. Triel se detuvo en el umbral, aspirando el aire denso de la jungla con una mueca entre fascinada y sofocada mientras se recogía el cabello blanco:
 
-El calor tropical contrastaba de golpe con la atmósfera controlada del espacio profundo. Willy y Naru bajaron la rampa a toda prisa, deteniéndose en seco al sentir las gotas de lluvia templada resbalar sobre sus narices aplastadas; los dos goblins comenzaron a dar saltos y lengüetazos al aire, fascinados por la existencia de agua que caía directamente del cielo sin tuberías de por medio.
+—Por los dioses... Este planeta entero se siente como un invernadero descontrolado. Gerty, sella la compuerta y quédate a cargo de la bodega. Si a la vuelta falta un solo tornillo del fuselaje, usaré tus amortiguadores de repuesto.
 
-—¡Adentro los dos, renacuajos verdes! —les ladró Triel, agradeciendo la oportunidad de romper la tensión mientras empujaba a los goblins rampa arriba hacia la esclusa y le arrebataba a Willy una tuerca que intentaba meterse en la boca—. Ni se les ocurra asomar el hocico por la dársena ni tocar los trenes de aterrizaje. Gerty, sella la compuerta y quédate a cargo de la bodega. Si a la vuelta falta un solo tornillo del fuselaje, usaré a los tres de lastre.
-
-—Recibido, jefa —resopló el dron desde el umbral de la esclusa con su sintetizador ofendido—. Un baño de lubricante y doce horas en la bodega vigilando que estos dos pirómanos de guardería no prendan fuego a los repuestos es exactamente lo que mi procesador central requería.
+—Recibido, jefa —respondió el dron desde el interior con su sintetizador imperturbable—. Un baño de lubricante y doce horas de diagnóstico estático es exactamente lo que mi procesador central requería. Que disfruten de la humedad orgánica.
 
 Con el mamparo blindado sellado a sus espaldas y la corbeta asegurada, los cuatro aventureros descendieron a la plataforma de desembarco.
 

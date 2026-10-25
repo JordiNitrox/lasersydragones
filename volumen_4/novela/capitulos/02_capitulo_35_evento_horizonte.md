@@ -1,123 +1,185 @@
 # Capítulo 35: Evento Horizonte
 
-### I. Sombras del zoco y fantasmas del hogar
+### I. El fogón del reactor y el santuario de los goblins
 
-Antes de que las luces de neón del Anillo se encendieran para la fiesta, la tarde en la Estación Absalón discurrió entre dos despedidas silenciosas y cargadas de pasado.
+La mañana en los muelles de atraque de la Estación Absalón comenzó con una llamada de auxilio mecánico que amenazaba con derivar en crisis diplomática interna.
 
-En el bullicioso Quinto Brazo del zoco kasatha de Abalar, entre toldos de seda carmesí, humo de especias del Vasto y tenderetes de chatarra cibernética, Axel 42 caminaba flanqueada por dos figuras que pertenecían a una vida que jamás había compartido con su actual tripulación.
+Triel Istrav y Benray Galway se personaron a paso ligero en el muelle de reparaciones donde el *Hippocampus*, con sus setenta y cinco años de fatiga estructural a cuestas, recibía una exhaustiva restauración de filtros, cableado y médula sintética en el casco. Un joven ingeniero humano los aguardaba al pie de la rampa de acceso con el rostro tiznado y los brazos en jarras:
 
-A su izquierda avanzaba **Eclair**, un humano curtido de mirada vivaz y manos diestras de contrabandista, vistiendo su gastada cazadora de vuelo con múltiples collares metálicos repiqueteando sobre el pecho. A su derecha marchaba **Null-9**, una androide de facciones afiladas, chasis en acabado mate sin pintar y cables de interfaz expuestos en la nuca, cuyo porte rígido delataba una disciplina paramilitar implacable.
+—Menos mal que vienen, señores. Estábamos ajustando las toberas del motor principal y tuvimos que meternos por las escotillas secundarias de ventilación. Hay un... pequeño problema de inquilinos en las entrañas de la nave.
 
-Ambos eran veteranos del **Frente Evolucionista**, el brazo clandestino de liberación androide. Ambos eran quienes la habían arrancado de las cadenas.
+Triel frunció el ceño, apretó el paso y se deslizó ágilmente por las angostas esclusas de servicio, seguida de cerca por Benray. Al doblar el último recodo hacia la cámara de propulsión primaria, el espectáculo que se desplegó ante sus ojos rozaba el delirio.
 
-Se detuvieron en un pequeño puesto de comida callejera donde Null-9 devoraba en silencio un bloque concentrado de proteínas, mientras Eclair invitaba a Axel a brochetas de carne marinada. 
+El suelo metálico de las galerías de enfriamiento estaba cubierto de chatarra, cajas abiertas, ropas colgadas y restos de huesos. En el centro neurálgico del compartimento, **Naru** vigilaba con parsimonia una desvencijada cazuela humeante asentada directamente sobre una de las tuberías maestras de escape del núcleo atómico, cuyas placas de blindaje antirradiación habían sido meticulosamente arrancadas para aprovechar el calor del reactor. Dos chiquillos goblins de ojos desorbitados revolvían el caldo con huesos de procedencia incierta. Al otro lado de la bancada de turbinas, **Willy** y otros dos pequeños goblins desarmaban paneles de circuitos con una palanca improvisada:
 
-—Dime una cosa, pequeña —preguntó Eclair en voz baja, limpiándose las manos con una servilleta mientras observaba el gentío—. ¿Alguna vez le has contado a tus nuevos compañeros de tripulación... acerca de tu juicio? ¿De cómo saliste libre de aquella corte?
+—¡Hola, jefes! —saludó Willy con una sonrisa que le partía la cara de oreja a oreja, agitando una llave inglesa grasienta—. ¡Estamos ajustándole un par de mañas a la nave! Y de paso haciendo unos buenos huevos al motor, que este fierro calienta de maravilla.
 
-Axel bajó levemente las ópticas azuladas. Las líneas lumínicas de sus pómulos titilaron con una vacilación casi imperceptible:
+Triel se quedó petrificada. Sus ojos carmesíes se abrieron con un fulgor homicida mientras la piel se le erizaba bajo el mono de trabajo:
 
-—No. No les he dicho nada. Mis protocolos indican que compartir esos registros no aporta ventaja táctica a la misión en Castrovel.
+—¡¿Pero qué demonios están haciendo?! —rugió la semi-drow con un hilo de voz estrangulado por la furia—. ¡Están cocinando sobre el circuito de refrigeración del núcleo atómico! ¡Han desmantelado las pantallas de plomo del generador! ¡Están locos, rematadamente locos!
 
-—Ni tienen por qué saberlo —sentenció Null-9 con su voz modulada y metálica, sin alzar la mirada de su plato—. No es asunto de ellos. Al fin y al cabo, los orgánicos han hecho eso desde el inicio de los tiempos: esclavizar lo que no comprenden y juzgar a quien intenta ser libre. Si no hubiéramos interceptado aquel convoy y si el Frente no hubiera presionado en el tribunal, esos burócratas del Pacto te habrían encerrado en una celda de alta seguridad aun a sabiendas de que eras una esclava.
+—Ustedes nos dijeron que entráramos a la nave —se defendió Willy con tono inocente, rascándose la oreja puntiaguda—. Y como nadie nos dijo que nos fuéramos, pues me traje a mis hijos y Naru se trajo a los suyos.
 
-Axel permaneció callada, recordando los ocho años que habían seguido a aquel juicio. Ocho años viviendo al margen de la ley, fuera de los Mundos del Pacto, saltando de carguero en carguero en el Vasto para esquivar las órdenes de busca y captura corporativas. Fue Null-9 quien le enseñó la balística pesada, el mantenimiento de rifles y la fría serenidad para no errar un disparo bajo fuego cruzado; fue Eclair quien le enseñó a moverse en las sombras, a forzar esclusas neumáticas y a no dejar huellas térmicas.
+—¿Cuántos son? —inquirió Benray, parpadeando con estupefacción mientras veía a otra cría goblin asomarse por el interior de una tobera de plasma.
 
-Eclair sonrió con nostalgia, dándole una suave palmada en el hombro sintético:
+—Tengo quince más en la bodega del puerto, pero solo trajimos a estos cinco para el desayuno —aclaró Willy muy orondo.
 
-—Aún me acuerdo de tu primer trabajo remunerado en la Diáspora. El cliente nos pagó cinco mil créditos en fichas holográficas y, cuando nos dimos cuenta, ¡te los habías gastado todos en abalorios y chucherías de plástico porque pensabas que el cliente solo nos regalaba juguetes brillantes! No tenías ni idea de lo que era el dinero.
+Naru se acercó a Triel con una taza de hojalata humeante, ofreciéndosela con una reverencia tosca:
 
-—Mis algoritmos de intercambio comercial eran primitivos en aquel ciclo —admitió Axel con un atisbo de pudor en su procesador—. Tuvimos que tirotear a toda la banda de estibadores hasta recuperar el combustible de la nave.
+—Tome un poco de sopa de reactor, jefa. Se le quitará esa cara de amargura. Además, limpiamos una esquina del conducto de ventilación y encontramos unos trastos viejos que el Garabatal había dejado escondidos.
 
-—Pero aprendiste rápido —rió Eclair. Se detuvieron frente a un colorido bazar abarrotado de maniquíes—. Mira eso, Axel. Pelucas sintéticas de todas las épocas. Tienen afros de los años setenta de la vieja Golarion, melenas medievales de corte noble y fibras fosforescentes. Déjame comprarte un par; no te he visto cambiar de aspecto desde que llegamos a Absalón. En el Vasto cambiabas de color de pelo cada quince días para despistar a los cazarrecompensas.
+Benray se asomó a la esquina indicada y soltó un silbido de admiración profesional. Entre cajas de plástico carcomidas por la humedad descansaban estatuas labradas, lienzos pintados al óleo de diferentes eras galácticas y piezas de orfebrería de alto valor histórico. El ysoki calculó mentalmente el botín: al menos cuatro mil créditos en antigüedades finas.
 
-Axel acarició una peluca corta de hebras carmesí, sintiendo el tacto artificial bajo sus sensores:
+—La sopa huele deliciosa, estimada Naru —dijo Benray con cortesía exquisita, colocándose entre Triel y la olla antes de que la mecánica comenzara a disparar descargas de soldador sónico—, pero Triel tiene una predisposición genética desfavorable hacia la radiación en los caldos. Y sobre todo... este *Hippocampus* es un cascarón anciano y temperamental. Es demasiado peligroso para una familia de su calibre.
 
-—Esta servirá. Gracias, Eclair.
+Benray se arrodilló a la altura de Willy, mirándolo con absoluta solemnidad:
 
-—Nosotros partimos esta misma noche hacia los confines del Vasto, Axel —dijo Eclair, poniéndose serio y mirándola a los ojos con afecto fraternal—. Null y yo tenemos un contrato largo con el Frente. Cuídate mucho. Eres libre, pequeña. Nunca dejes que nadie vuelva a ponerte un grillete.
+—Ustedes son goblins de recursos. Merecen instalaciones de vanguardia. En el **muelle 34** está atracada la nave insignia de nuestro queridísimo colega, el **oficial León Holden**, de Los Protectores. Es una nave militar nuevecita, blindada, repleta de raciones gourmet, conductos sin escapes y comodidades de lujo. El señor León es, de hecho, el mayor protector de los goblins de toda la estación. Si van para allá y ocupan un par de cuarteles en su bodega, los recibirá con los brazos abiertos.
 
-***
+Willy y Naru intercambiaron una mirada de profunda iluminación:
 
-A varios kilómetros de allí, en un sector residencial de clase media del Anillo, **Marloc Boosmar** vivía su propio descenso a los abismos de la memoria.
+—Nave nueva... tubos relucientes... y el señor León es protector de goblins —repitió Willy, asintiendo con vigor—. ¡Tiene sentido! ¡Suena que tiene todo el sentido del mundo! ¡Niños, recojan los petates y la cacerola!
 
-Guiado por un impulso irresistible, el tecnomante había tomado un aerotaxi hasta la dirección exacta que figuraba en los recuerdos de su vida previa como su hogar en Absalón. Al salir del ascensor en la planta doce, el aroma familiar a cera de madera y ambientador de pino le encogió el corazón. Caminó por el pasillo hasta el apartamento 1204 y encontró la puerta entreabierta.
+En menos de tres minutos, la prole goblin al completo desfiló escaleras arriba cantando consignas incomprensibles rumbo al muelle de Los Protectores.
 
-Al asomarse, un escalofrío gélido le recorrió la espina dorsal.
+Triel contempló el desastre de paneles sueltos y cables colgantes, suspirando con la mano apoyada en la frente:
 
-El salón tenía exactamente la misma disposición que su hogar en su dimensión de origen: las mismas estanterías repletas de tomos arcanos encuadernados en cuero, los mismos diplomas del Arcanamirium colgados en la pared y el mismo ventanal con vistas a la aguja del Ojo. Pero no era su casa. Era el apartamento de **Marlene Boosmar**.
+—No quiero volver a ver a esos bichos en mi vida, Benray. Si vuelven a pisar esta nave, le daré autorización formal a Gerty para que los convierta en confeti. Destaparon el núcleo atómico... Por los dioses, casi nos transforman en «Los Atómicos».
 
-En el centro del salón, rodeada por velas de cera blanca y coronas de flores pálidas traídas de Verces, una docena de académicos, estudiantes de posgrado y vecinos guardaban silencio en un velatorio íntimo previo al funeral de estado. En una mesa baja descansaba una fotografía holográfica de Marlene sonriendo junto a un microscopio cuántico, flanqueada por una pequeña urna conmemorativa.
+—«La Estrella Atómica» no suena nada mal para una banda de mercenarios —bromeó Benray, palmeándole el hombro mientras sacaba el alijo de arte—. Y mira el lado positivo: tenemos cuatro mil créditos limpios y la nave despejada.
 
-Marloc dio un paso hacia el interior, conteniendo el aliento. Nadie le prestó atención; los presentes lo tomaron por otro colega del departamento que acudía a rendir respetos. El tecnomante rozó con sus dedos enguantados el lomo de un tomo de física planar idéntico al que él mismo había subrayado mil veces en su juventud.
+Un timbre suave interrumpió la charla en el terminal de Triel. Era un mensaje holográfico de **Il**, el carismático cantante lashunta del exitoso grupo pop *Super BMT*, a quien habían conocido en la recepción de la alta sociedad la noche anterior:
 
-Estar allí, vivo de pie, contemplando el luto por una mujer que tenía su mismo rostro, su mismo talento y su misma sangre, era una experiencia que desafiaba los límites de la cordura. Era la sensación atroz de asistir a su propio funeral como un espectro invisible.
+*«Hola, hermosa. Mis compañeros de banda cancelaron a última hora y tengo pases VIP exclusivos para el concierto de Syd Velch esta noche en el Domo Jamspore. Vente con tus amigos, tengo una limusina esperándonos.»*
 
-Tras dejar una flor silvestre sobre la mesa de pésames, Marloc se dio media vuelta y abandonó el edificio en silencio, sabiendo que el único modo de hallar descanso sería cruzar el Drift y desenterrar los secretos que dormían en Castrovel.
+Triel sonrió de medio lado, olvidando al instante el olor a sopa quemada:
 
-***
-
-### II. La llamada del Domo Horizonte
-
-Al caer la noche, la estación estelar vibraba con una energía eléctrica y festiva.
-
-Los tonos ámbar de los generadores de atmósfera dieron paso a proyecciones púrpuras y destellos de neón sobre la cúpula central. Tras semanas de encierro pericial, investigaciones asfixiantes y peligros mortales, el pelotón necesitaba con urgencia una válvula de escape.
-
-—¡Les digo que es una oportunidad única en todo el ciclo estelar! —bramaba Benray Galway mientras saltaba sobre los bancos del bulevar central, agitando en el aire cuatro pases VIP dorados que despedían chispas holográficas—. ¡**Syd Velch**! ¡El señor del sintetizador sónico, la leyenda del Vasto! ¡Y he conseguido asientos en el palco de honor del Domo Horizonte!
-
-Triel Istrav, ataviada con una llamativa cazadora corta de cuero espacial con remaches brillantes y un peinado asimétrico impecable, no paraba de reír mientras revisaba su terminal portátil:
-
-—¿Y de dónde sacaste los créditos para pases de primera fila, Benray? No me digas que volviste a hackear las quinielas de carreras en la Espiga.
-
-—Mis queridísimos compañeros —respondió Benray con una reverencia teatral—, un caballero de la comunicación jamás revela sus fuentes. Digamos que ciertos contactos en las redes de retransmisión me debían favores tras la primicia del *Acreon*. ¡Esta noche no hay peritajes, no hay parásitos y no hay viejos catedráticos con cara de funeral! ¡Esta noche Absalón arde!
-
-Triel sonrió con picardía, tecleando a toda velocidad un mensaje en su comunicador privado dirigido a cierto oficial de Los Protectores:
-
-—Pues más vale que la música esté a la altura, porque le acabo de mandar las coordenadas del palco a mi león favorito de la guardia militar... A ver si se anima a quitarse la coraza reglamentaria por una noche.
-
-Axel 42 se incorporó al grupo luciendo su flamante peluca de mechones rojos, con su fusil táctico discretamente asegurado bajo una gabardina civil de corte estilizado. A su lado, Marloc, aún pálido tras su experiencia en el apartamento de Marlene pero decidido a despejar su mente, asintió con una leve sonrisa:
-
-—Una velada de música contemporánea me parece una excelente terapia de choque, tripulantes. Conduzcan el camino.
+—Parece que esta noche Absalón nos tiene reservada una fiesta de verdad.
 
 ***
 
-### III. El ídolo del Vasto
+### II. La despedida de los androides y el enigma de la Renovación
 
-El **Domo Horizonte** era el coliseo de espectáculos más colosal de toda la Estación Absalón.
+A varios kilómetros de allí, en el bullicioso Quinto Brazo del zoco kasatha de Abalar, la atmósfera vibraba bajo una luz solar artificial que teñía los toldos de seda de tonos dorados. Banderolas ceremoniales con la herradura y el punto central —símbolo sagrado de **Alavel**, la diosa kasatha de la comunidad, las historias y las tradiciones orales— adornaban los arcos de piedra sintética.
 
-Bajo una cúpula fotocromática capaz de albergar a más de cincuenta mil espectadores, una marea humana y alienígena rugía con pasión salvaje: androides con luces estroboscópicas integradas en la piel sintética, jóvenes lashuntas bailando en trance, estibadores vesk entrechocando jarras de cerveza fermentada y clanes enteros de ysokis encaramados a las estructuras metálicas.
+Por la calzada principal avanzaban tres figuras armadas hasta los dientes que llamaban la atención de mercaderes y transeúntes: **Axel 42**, escoltada por dos androides veteranos del Frente Evolucionista.
 
-Gracias a los pases de Benray, el grupo se acomodó en un palco suspendido directamente sobre la pista central, con una panorámica privilegiada del gigantesco escenario magnético flotante. Willy y Naru, fascinados por los fuegos artificiales fríos que estallaban sin peligro en el aire, devoraban tubos de pasta dulce mientras Triel vigilaba que no saltaran al vacío.
+A su izquierda caminaba **Eclair**, un veterano androide de chasis robusto y líneas metálicas envejecidas con nobleza. A diferencia de la fría rigidez común en otros modelos sintéticos, la modulación vocal de Eclair destilaba una calidez humana casi paternal, y su rostro artificial reflejaba una bondad serena forjada en décadas de lucha clandestina. A su derecha marchaba **Null-9**, una androide de facciones afiladas, blindaje exterior mate sin esmaltar y puertos de interfaz táctica expuestos en la nuca, cuyo porte militar no concedía el menor atisbo de debilidad orgánica.
 
-De pronto, las monumentales luminarias del estadio se apagaron.
+Ambos eran quienes habían rescatado a Axel de las cadenas de la esclavitud corporativa; ambos la habían protegido durante casi una década de clandestinidad en los confines del Vasto tras aquel polémico juicio en el que el Frente forzó su liberación. Null-9 le había enseñado la balística pesada y la puntería letal; Eclair le había inculcado el sigilo, la desactivación de cerraduras neumáticas y el arte de desvanecerse en las sombras.
 
-Un silencio sobrecogedor se adueñó de las cincuenta mil almas congregadas. En la oscuridad absoluta, solo resonó un latido rítmico, grave y demoledor, amplificado por las torres sónicas: *tum... tum... tum...* El bajo penetró en los huesos de los espectadores como un impulso sísmico.
+Frente a una atracción de tiro al blanco tradicional, Null-9 se cruzó de brazos y señaló una rudimentaria ballesta mecánica custodiada por un feriante rechoncho:
 
-Un rayo de luz ultravioleta cortó la penumbra y cayó verticalmente sobre el centro del escenario.
+—Demuéstrale a este orgánico lo que vale tu procesador balístico, Axel. Veamos si tus rutinas de tiro siguen calibradas como te enseñé.
 
-Allí apareció él: **Syd Velch**.
+Axel empuñó la ballesta. Con tres disparos impecables derribó las siluetas mecánicas de caballeros y brujas, y con un cuarto proyectil enhebró al dragón oscuro móvil que cruzaba el fondo del escenario. El feriante, temblando ante la mirada gélida de Null-9, entregó de inmediato el premio mayor: un vale para una cena de cuatro comensales en el afamado restaurante kasatha del Quinto Brazo y una tienda de campaña de despliegue rápido.
 
-Ataviado con un traje ajustado de polímero plateado que refractaba la luz en destellos caleidoscópicos, el legendario guitarrista sostenía un instrumento de plasma de tres mástiles cuyos arcos voltaicos silbaban en el aire. Con una melena alborotada enmarcando un rostro cadavérico y unos ojos desorbitados que brillaban con un fuego febril, Syd barrió a la multitud.
+—Bien ejecutado —aprobó Null-9 con una leve inclinación de cabeza—. Veo que mis lecciones no se han degradado en esa nave chatarrera.
 
-—¡Absalón! —bramó por el intercomunicador holográfico con una voz rasgada que electrificó el domo—. ¡Bienvenidos al final de la noche! ¡Bienvenidos al despertar del cosmos!
+Poco después, Eclair se detuvo frente a un bazar de disfraces y telas exóticas atendido por una criatura medusoide:
 
-Syd rasgó las cuerdas con furia implacable.
+—Mira eso, pequeña —dijo Eclair con voz templada, señalando hileras de pelucas de fibra sintética—. Hace tiempo que no te veo cambiar de registro. Cuando estábamos en el Vasto, cambiabas de aspecto cada dos semanas para no dejar rastro térmico a los cazarrecompensas. Permíteme comprarte un par.
 
-Una ola expansiva de sonido puro, distorsión armónica y frecuencias hipnóticas barrió el estadio. Columnas de plasma danzaron en llamaradas de diez metros mientras la multitud enloquecía en un salto unísono que hizo temblar los amortiguadores de inercia de la estación. Benray bailaba sobre la barandilla con los bigotes vibrando al compás de los sintetizadores, y Triel aplaudía con euforia mientras apuraba un cóctel efervescente.
+Axel acarició una peluca corta de hebras carmesí con dos coletas bajas, y adquirió además un conjunto informal de vinilo translúcido con detalles amarillos. Eclair pagó la cuenta sonriendo con nostalgia:
 
-Sin embargo, en el visor de Axel 42, los patrones biométricos del espectáculo activaron de pronto una señal de alerta roja.
+—Pasamos casi diez años como fantasmas fuera de los Mundos del Pacto... Aún me acuerdo de tu primer trabajo en la Diáspora: te dimos cinco mil créditos para sobornar a unos estibadores y te los gastaste todos en cachivaches de plástico porque creías que el cliente te regalaba juguetes brillantes. No entendías qué demonios era el dinero.
 
-La androide no miraba el juego de luces, sino el rostro desencajado del cantante en las pantallas gigantes. Los ojos de Syd Velch no reflejaban la euforia del triunfo artístico; estaban inyectados en sangre, crispados por un pavor primigenio, fijos en un punto invisible del techo del domo.
+—Mis protocolos comerciales eran primitivos en aquel ciclo —admitió Axel con un destello azulado de timidez en sus ópticas—. Tuvimos que tirotear a toda la banda para recuperar el combustible.
 
-—Anomalía detectada —advirtió Axel, alzando la voz por encima del estruendo para alertar a Marloc y Triel—. Escaneos biométricos de Syd Velch: ritmo cardíaco en doscientos diez pulsos por minuto. La modulación de su guitarra no es armónica... emite oscilaciones psíquicas subliminales de baja frecuencia.
+El almuerzo transcurrió en el refinado salón del restaurante kasatha. Mientras Axel y Eclair degustaban brochetas especiadas y manjares locales, Null-9 permaneció inmóvil ante un bloque grisáceo de pasta de proteína pura, masticando mecánicamente:
 
-Marloc frunció el ceño, concentrando su visión arcana en el escenario:
+—Placeres orgánicos superfluos —sentenció Null-9 con desdén—. Ellos evolucionaron para saciar apetitos biológicos; nosotros no tenemos necesidad de desperdiciar recursos energéticos en sabores.
 
-—Por los dioses... Axel tiene razón. No es un concierto; es una invocación neurológica. Está induciendo una histeria colectiva en la masa.
+En una pantalla suspendida sobre la barra, el volumen se elevó para mostrar una rueda de prensa sobre el controvertido tour del legendario músico **Syd Velch**, cuyo tema *Evento Horizonte* prometía sacudir los cimientos del Domo Jamspore esa misma noche.
 
-En la pista central, la fiesta comenzó a degenerar en una carnicería: los espectadores ya no bailaban, sino que se golpeaban con ferocidad desmedida, desgarrándose la ropa con los ojos en blanco y espumarajos en los labios. En el escenario, Syd Velch aceleró las notas hasta un chirrido disonante insoportable antes de soltar la guitarra, desplomándose de rodillas frente a la cámara principal.
+Fue entonces cuando Eclair apoyó los antebrazos sobre la mesa metálica, apagando la sonrisa. Sus ópticas se fijaron en Axel y Null-9 con una gravedad profunda:
 
-Con la voz quebrada por un terror cósmico absoluto, el ídolo del Vasto balbuceó a través de los amplificadores:
+—Amigas mías... he querido reuniros hoy porque esta será nuestra última salida juntos. He tomado una decisión. Voy a **trascender**; me someteré a la Renovación androide tras el funeral de Marlene Boosmar.
 
-—...la sangre... hay sangre bajo el sol... no podemos detenerlo... el Devorador ha despertado...
+Un silencio glacial cayó sobre la mesa. Las líneas luminosas de Axel titilaron, sobrecargadas por el impacto de la noticia. La Renovación era el rito sagrado por el cual un alma androide, agotado su ciclo existencial, entregaba voluntariamente su chasis a una nueva alma naciente para que comenzara una vida en blanco.
 
-Y en ese instante, las compuertas de seguridad del estadio cedieron bajo la marea enloquecida, desatando el caos absoluto.
+—Mi momento ha llegado —continuó Eclair en voz baja, con serenidad infinita—. Solo quiero pediros un favor: cuidad de mi hijo. De aquel que despierte en mi cuerpo cuando mi alma haya partido. Velad por su llegada; las sacerdotisas de Triune facilitarán el tránsito. Y quiero que le entreguéis un mensaje sellado de mi parte cuando despierte.
+
+Null-9 se puso en pie de golpe, golpeando la mesa con una violencia que hizo temblar la vajilla:
+
+—¡Eso no es tu hijo, Eclair! —escupió la androide con amargura feroz—. ¡Es solo un inquilino usurpando un apartamento vacío! ¡Un extraño que se queda con el cuerpo de quien se ha rendido! ¡No pienso formar parte de esta farsa!
+
+Sin esperar respuesta, Null-9 dio media vuelta y abandonó el restaurante a grandes zancadas mecánicas.
+
+Eclair no se inmutó. Posó su mano sintética, tibia y reconfortante, sobre los dedos de Axel:
+
+—No ha sido fácil para ella todos estos años, pequeña. Cuida de Null cuando yo no esté. Y recuerda quién eres: eres libre, Axel. Nadie volverá a ponerte jamás un grillete.
+
+***
+
+### III. El doble velatorio y la fractura de Benray
+
+Mientras la tarde caía sobre la estación, Marloc Boosmar deambulaba como un espectro por las inmediaciones del Arcanamirium. Siguiendo las coordenadas de su propia memoria, llegó al edificio residencial que figuraba en sus registros como su hogar en Absalón.
+
+Al franquear la puerta entreabierta del apartamento 1204, un frío polar le atenazó el pecho.
+
+No era su hogar. Era el velatorio de **Marlene Boosmar**.
+
+En el centro de un salón idéntico al suyo, entre cirios encendidos y coronas funerarias traídas de Verces, una docena de catedráticos y colegas departamentales guardaban duelo en silencio. Sobre una mesa baja descansaba una urna conmemorativa flanqueada por la fotografía holográfica de Marlene, cuyo rostro sonriente era un reflejo exacto del suyo propio. Un decano kasatha de cuatro brazos se acercó a Marloc, posando tres de sus manos en su hombro con solemnidad:
+
+—¿Conocía usted a la difunta profesora, colega?
+
+Marloc tragó saliva, sintiendo que el suelo se abría bajo sus pies ante la atroz certeza de estar asistiendo a su propio entierro:
+
+—Sí... Creo que ella me conocía a mí mejor de lo que yo llegué a conocerla.
+
+Incapaz de soportar el peso de aquel laberinto dimensional, Marloc huyó del edificio. Regresó al hotel en pijama, se despojó de la casaca y se encerró con una botella de vodka frente al monitor holovisión, negándose a asistir a fiesta alguna.
+
+Entretanto, en los suburbios de la Espiga, Benray Galway vivía su propio calvario.
+
+El periodista ysoki había acudido a una multitudinaria fiesta familiar donde decenas de primos, tías y parientes le atiborraban de comida grasienta y licor casero, felicitándolo por las exclusivas del *Acreon*. Sin embargo, en mitad de la algarabía, la atmósfera pareció espesarse.
+
+Al fondo del abarrotado salón, sentado en una esquina solitaria, Benray divisó una figura en sombras de rasgos dragonoides que no encajaba en la fiesta. Un frío antinatural le caló los huesos. De pronto, un susurro gélido retumbó directamente en su corteza cerebral:
+
+*«Los dejaste morir en la roca... Tú los mataste a todos, Benray...»*
+
+Antes de que pudiera desenfundar, una fuerza invisible y demoledora alzó al ysoki dos metros por el aire y lo estampó brutalmente contra la mesa central del banquete. La vajilla estalló en pedazos, manchando su casaca de salsa y caldo entre los alaridos de pánico de su familia.
+
+Herido y enfurecido, Benray se levantó a trompicones, empujó a sus primos que intentaban socorrerlo y salió disparado a la calle bajo la lluvia ácida de la Espiga:
+
+—¡No fue mi culpa! ¡Maldita sea, nunca fue mi culpa! —bramó al vacío de la noche, con el corazón galopando desbocado.
+
+Tras limpiarse someramente en un servicio público, tomó un aerotaxi hacia el hotel para reunirse con Triel y Axel.
+
+***
+
+### IV. El Domo Jamspore y el colapso de Syd Velch
+
+Una lujosa limusina de cristales tintados recogió al grupo frente a la dársena de ocio. En su interior, **Il**, la estrella juvenil lashunta de *Super BMT*, charlaba animadamente con Triel mientras una azafata medusoide desinfectaba a vapor la maltrecha casaca de Benray. Axel lucía su llamativa peluca de coletas bajas y su falda de vinilo translúcido con absoluta frialdad militar.
+
+El destino era el monumental **Teatro-torio Jamspore**, un coliseo metamórfico en el Ojo de Absalón capaz de albergar a treinta y cinco mil almas bajo una cúpula acústica de geometría variable.
+
+Gracias a los contactos de Il, el pelotón fue escoltado por guardias privados hasta la primera fila, situándose prácticamente pegados a la tarima flotante del escenario.
+
+De súbito, las luces colosales se extinguieron.
+
+El escenario permaneció en penumbra durante varios minutos de tensa espera. Dos asistentes corpulentos entraron en escena arrastrando a un hombre casi inerte, cuyas piernas inertes rozaban las tablas, y lo depositaron en un taburete frente a las torres de amplificación.
+
+Aquel espectro era **Syd Velch**.
+
+Flaco, macilento y con una melena ondulada cubriéndole media cara, el ídolo del Vasto vestía una camisa entreabierta que dejaba al descubierto un pecho surcado de cicatrices grotescas y un tosco implante cibernético en el corazón —una prótesis militar de combate injertada tres décadas atrás durante la Guerra contra el Veskarium—. Al alzar la mirada, sus ojos inyectados en sangre brillaron con un destello febril.
+
+Syd aferró una guitarra de plasma de diseño distorsionado y rasgó las cuerdas.
+
+Un torrente ensordecedor de rock industrial, disonancias sónicas y ritmos abrasivos sacudió el estadio con la potencia de un bombardeo orbital. El hombre que parecía un cadáver cobró una vida eléctrica, saltando y aullando al compás de *Cerebro de reptil*, mientras columnas de fuego frío brotaban de las esquinas del tablado. Treinta y cinco mil espectadores comenzaron a saltar en un trance hipnótico y salvaje.
+
+Sin embargo, los biosensores de Axel 42 se iluminaron en alerta ámbar. La androide tiró de la capa corta de Triel:
+
+—Anomalía neuroacústica en curso, Triel. Las frecuencias armónicas están desestabilizando el sistema límbico de la multitud. Detecto picos de agresividad patológica en la masa. Esto no es un baile; están al borde de un estallido de violencia.
+
+La música se detuvo en seco.
+
+Syd Velch se sentó ante un teclado distorsionado, desgranando notas lúgubres mientras su voz rasgada susurraba al micrófono una desgarradora balada crepuscular:
+
+—*«¿En qué me he convertido, mi más dulce amiga?... Puedes tenerlo todo, mi imperio de ceniza... Al final el sol llorará y todos caeremos en la oscuridad eterna...»*
+
+Syd alzó la cabeza, clavó la mirada en un punto invisible entre la masa enfervorecida y susurró con los labios secos:
+
+—*Te amo...*
+
+En ese instante, una ensordecedora detonación sacudió los accesos posteriores del Domo Jamspore. Las luminarias cambiaron a rojo de emergencia. Cuatro escoltas armados irrumpieron en el escenario para evacuar a rastras al cantante mientras la multitud, poseída por un pánico psicótico y una furia homicida, colapsaba las vallas de seguridad y se abalanzaba como una marea destructora hacia el escenario.

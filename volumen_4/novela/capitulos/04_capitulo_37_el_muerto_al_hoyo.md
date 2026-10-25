@@ -14,7 +14,7 @@ La viuda de Marlene parecía haber envejecido diez años desde aquella fatídica
 
 A pocos pasos de ella, con la rigidez de una estatua de mármol y las manos entrelazadas a la espalda, se alzaba el catedrático **Ambrose Boosmar**. Su presencia en la ceremonia era impecable en las formas, pero tan gélida que parecía congelar las flores a su alrededor.
 
-Marloc, ataviado con su gabardina ceremonial de tecnomante y el brazo cibernético oculto bajo un guante de paño negro, se detuvo a la cabecera del memorial. A su espalda, en formación respetuosa y solemne, se encontraban Triel Istrav, Benray Galway y Axel 42. Incluso Willy y Naru, inusualmente silenciosos y con sendos lazos negros atados en las orejas, permanecían con las cabezas gachas en señal de respeto.
+Marloc, ataviado con su gabardina ceremonial de tecnomante y el brazo cibernético oculto bajo un guante de paño negro, se detuvo a la cabecera del memorial. A su espalda, en formación respetuosa y solemne, se encontraban Triel Istrav, Benray Galway y Axel 42.
 
 ***
 

@@ -68,15 +68,11 @@ Axel 42, apostada en la escotilla superior con su nueva peluca carmesí y los es
 
 El aire de la dársena noventa y cuatro vibró con el bramido sordo de los motores sublumínicos de la *Estrella Errante*.
 
-A bordo de la nave, el ajetreo era incesante. Triel aseguraba los últimos acoples del conducto principal de refrigerante, con la llave de impacto al cinto y el ceño fruncido mientras vigilaba de reojo la compuerta de la bodega.
+A bordo de la nave, el ajetreo era incesante. Triel aseguraba los últimos acoples del conducto principal de refrigerante, con la llave de impacto al cinto y el ceño fruncido mientras terminaba de sellar los paneles que los goblins habían abierto días atrás.
 
-—¡Alerta de sabotaje, jefa! —chilló de pronto Gerty a través del interfono de la pasarela, haciendo sonar sus cuatro pinzas metálicas con histriónica indignación—. El goblin verde menudo anda merodeando el reactor con una tenaza oxidada y tres metros de cable pelado. Insiste en que puede añadirle un «modo turbo» puenteando el flujo de plasma. Si intenta volver a desatornillar mi placa pectoral juro por mis condensadores que descargaré las baterías auxiliares en sus orejas.
+—Al menos la sala de máquinas vuelve a oler a lubricante y no a sopa de reactor —comentó Gerty a través del interfono de la pasarela, haciendo sonar sus pinzas metálicas—. Saber que esa horda de pequeños salvajes está ahora bajo la custodia reglamentaria del oficial León en el muelle treinta y cuatro es el mayor bálsamo para mis circuitos lógicos.
 
-—¡Willy! —bramó Triel, asomándose a la barandilla y blandiendo la llave de impacto como si fuera un garrote—. ¡Como vuelva a ver tus zarpas grasientas a menos de dos metros de los inyectores de salto, te encierro en el compactador de basura hasta que entremos en la atmósfera de Castrovel! ¡Y tú, Naru, saca a tu hermano de la sala de máquinas antes de que los desguace a los dos!
-
-Los dos goblins soltaron un chillido de pánico culpable y salieron disparados hacia los conductos inferiores entre risotadas estridentes, tropezando con una caja de remaches mientras Gerty sellaba apresuradamente el mamparo blindado con un estrépito protector. Triel suspiró con exasperación, frotándose las sienes con las manos tiznadas de grasa antes de volver a su consola:
-
-—Un día de estos van a hacernos volar en pedazos... —masculló la semi-drow, ajustando los niveles de compresión del motor Drift—. Todo en orden en ingeniería, Axel. El núcleo responde y los escudos están acoplados. Cuando quieras.
+—Y para mi salud mental —suspiró Triel con una sonrisa de alivio, ajustando los niveles de compresión del motor Drift—. Todo en orden en ingeniería, Axel. El núcleo responde y los escudos están acoplados. Cuando quieras.
 
 En el puente de mando, Marloc Boosmar ocupaba su puesto en la consola científica, con el medallón de Marlene descansando sobre la mesa de cartas estelares junto a las notas de campo de la investigadora. A su lado, Benray Galway se acomodaba en el sillón de mando, sacudiéndose el peso de la despedida, ajustando las solapas de su casaca y desplegando su dron de retransmisión holográfica:
 

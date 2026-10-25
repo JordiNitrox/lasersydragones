@@ -1,105 +1,119 @@
 # Capítulo 36: El Mosh de la Rata
 
-### I. Caos en el Domo
+### I. Avalancha en el foso y la huida vertical
 
-La detonación sónica fue tan violenta que reventó los prismas de cuarzo de los focos cenitales, haciendo llover chispas incandescentes sobre las cincuenta mil almas congregadas en el Domo Horizonte.
+La detonación en los accesos del Domo Jamspore no fue una explosión sónica ordinaria: fue la mecha que prendió una histeria colectiva salvaje.
 
-En el escenario flotante, Syd Velch estrelló su guitarra de plasma contra la consola de amplificadores con un grito desgarrador. El cortocircuito estalló en una llamarada cegadora de arco voltaico de color índigo que envolvió al cantante en una nube de humo denso. Cuando los ventiladores de emergencia despejaron la neblina un segundo después, el escenario estaba desierto. Syd Velch se había desvanecido en el aire sin dejar rastro.
+En cuestión de segundos, las frecuencias psíquicas residuales de Syd Velch y el pavor a un atentado transformaron a la multitud en una marea ciega de violencia. Treinta y cinco mil almas comenzaron a arremeter unas contra otras a empujones, mordiscos y puñetazos, colapsando las barandillas de contención y abalanzándose como un alud humano hacia la tarima frontal.
 
-Pero las frecuencias psíquicas que su música había desatado continuaban reverberando en el estadio.
+Axel 42, con sus biosensores en alerta máxima, reaccionó antes de que la ola rompiera contra ellos:
 
-Una histeria ciega se apoderó de la pista central. Lo que había comenzado como una marea eufórica de baile se transformó instantáneamente en un torbellino de violencia descontrolada: fanáticos de ojos inyectados en sangre comenzaron a desgarrarse las ropas, derribar las vallas de contención de aleación reforzada y abalanzarse unos sobre otros a puñetazos y mordiscos, presas de un frenesí maníaco que desafiaba toda lógica.
+—¡Suban a la tarima ahora! —ordenó con voz metálica cortante—. ¡El foso quedará aplastado en diez segundos!
 
-—¡Es un colapso neuroacústico masivo! —gritó Marloc Boosmar por el comunicador, mientras el suelo del palco vibraba bajo la violencia del motín—. Las modulaciones sónicas de la guitarra de Syd Velch han sobrecargado el sistema límbico de la multitud. ¡No están en sus cabales, están atrapados en un bucle psicótico de agresión!
+**Il**, el cantante de *Super BMT*, saltó con agilidad atlética aferrándose al borde de la tarima flotante, mientras Axel lo seguía de un impulso limpio. Triel intentó encaramarse tras ellos, pero la masa desbocada chocó contra sus piernas, haciéndola tambalearse entre gritos de dolor. Con la ayuda combinada de Il y Axel tirando de su brazo, la semi-drow logró rodar sobre el escenario, magullada y jadeante.
 
-—¡Al diablo con la psicología! —bramó Benray Galway con los ojos encendidos de pura adrenalina—. ¡Esto es el mosh pit definitivo! ¡El mosh de la rata galáctica!
+Sin embargo, **Benray Galway** no tuvo la misma suerte.
 
-Antes de que nadie pudiera detenerlo, el ysoki saltó por encima de la barandilla del palco, aterrizando ágilmente sobre los hombros de un fornido estibador vesk que arremetía a ciegas contra un grupo de lashuntas.
+Un empellón brutal de un estibador vesk desequilibró al ysoki, arrojándolo de espaldas a la vorágine de la pista. Las botas de la multitud amenazaban con pisotearlo en cuestión de segundos:
 
-—¡Benray, imbécil, vuelve aquí! —rugió Triel Istrav, asomándose al vacío mientras desenfundaba su soldador sónico en modo de aturdimiento—. ¡Como te rompan esa nariz peluda no te la voy a reparar con soldadura fría!
+—¡Benray! —gritó Triel, asomándose al vacío e intentando tenderle la mano.
 
-—¡Protocolo de extracción no letal inmediato! —ordenó Axel 42, con sus ópticas brillando en rojo táctico al evaluar la marea humana que colapsaba las rampas del recinto—. La avalancha bloqueará las esclusas en noventa segundos. Marloc, Triel, cubran a los goblins. Hay que bajar a la pista, pescar a Benray de esa carnicería y abrirnos paso hacia la salida este.
+Guardias de seguridad privados del recinto irrumpieron en el escenario con porras eléctricas, intentando despejar la tarima para sellar los accesos de emergencia. Axel desenfundó discretamente la pistola táctica que guardaba oculta bajo su falda de vinilo, pero Il se interpuso ante los guardias con porte autoritario:
 
-—Por las escaleras de servicio —asintió Marloc, concentrando energía arcana en su mano cibernética—. Si nos atrapa la masa en los pasillos principales, nos pisotearán.
+—¡Soy Il, de *Super BMT*! —exclamó con aplomo absoluto—. Vienen conmigo. ¡Déjenlas pasar a la zona de camerinos si no quieren que mi productora demande a todo este coliseo!
 
-Con Willy y Naru pegados a las botas de Triel, los tres saltaron tras Benray a la vorágine de la arena.
+El oficial de seguridad vaciló, reconoció el rostro del ídolo pop y les franqueó el paso hacia el pasillo de servicio tras bambalinas. Al cruzar las compuertas, Triel activó su comunicador con desesperación:
 
-***
+—¡Gerty! ¡Código de extracción de emergencia alfa! ¡Trae tu chasis aquí ahora mismo!
 
-### II. Furia en la pista
+Apenas dos minutos después, una compuerta lateral se abrió con un crujido de bisagras forzadas y el dron de combate **Gerty** apareció en el corredor. Blandía su pica de asalto goteando fluidos sintéticos y polvo de impacto en la coraza:
 
-El descenso a la pista central fue una inmersión directa en una caldera de violencia desenfrenada.
-
-Benray se movía entre la masa enloquecida como una anguila aceitada. Esquivaba puñetazos monumentales de estibadores deslizándose entre sus piernas, mordía las botas de los agresores para desestabilizarlos y propinaba certeros golpes con la culata de su pistola en los nervios de las rodillas:
-
-—¡Paso al emisario! ¡Muévete, cabezón de escamas! ¡Cuidado con la derecha, fanático del demonio! —voceaba el ysoki con una carcajada histérica mientras utilizaba la casaca de un cantante rival como capa de torero para hacer que dos matones chocaran de frente.
-
-A pocos metros, Axel operaba como un ariete táctico implacable.
-
-La androide avanzaba abriendo una cuña de contención, interceptando arremetidas con paradas milimétricas de sus brazos de aleación sintética, desviando ataques con barridos de pierna y neutralizando a los fanáticos más violentos mediante pulsos electrostáticos directos a los centros nerviosos. A su espalda, Triel y Marloc protegían el avance de los dos goblins: la semi-drow blandía su rifle láser en modo de dispersión defensiva, trazando líneas de plasma incandescente en el suelo de linóleo para forzar a la multitud a retroceder ante el calor abrasador, mientras Marloc canalizaba ráfagas de *Proyectiles Mágicos* no letales teñidos de azul zafiro, disipando las acumulaciones de histeria psíquica con descargas estáticas.
-
-—¡Toma jugo, cara de simio! —chillaba Willy mientras vaciaba un extintor de espuma criogénica en la cara de un grupo de forofos que intentaban cerrarles el paso, congelándoles los pantalones hasta las rodillas entre los aplausos feroces de Naru.
-
-Axel derribó a un corpulento humano que intentaba descargar una barra de metal sobre la cabeza de Benray, alzó al ysoki en volandas por el cuello de su casaca y lo arrojó tras su hombro:
-
-—Objetivo prioritario asegurado. ¡Todos a la compuerta este, ahora!
-
-Sin embargo, al enfilar el túnel de evacuación, un cuello de botella de más de doscientos fanáticos enfurecidos taponaba la salida, aplastando a decenas de civiles aterrorizados contra las compuertas de seguridad blindadas.
-
-En ese instante crítico, las compuertas de emergencia exteriores se estremecieron bajo una detonación controlada.
-
-El portón blindado se abrió de golpe en una nube de vapor refrigerante y una cuña de asalto táctico de Los Protectores irrumpió en el recinto como un muro de hierro. Equipados con armaduras de intervención pesadas, cascos integrales con visores polarizados y grandes escudos de dispersión sónica, el destacamento policial SWAT comenzó a barrer a la multitud violenta con descargas aturdidoras coordinadas.
-
-Al frente de la vanguardia, abriendo brecha con su porra de choque y una pistola de pulso electrostático, avanzaba el oficial León Holden.
-
-—¡Contención sónica desplegada! —bramaba León con voz de mando a través del modulador de su casco—. ¡Despejen los túneles de evacuación! ¡Abran pasillo para los civiles!
-
-Entre el humo y los destellos azules de los escudos, León divisó de golpe al grupo tratando de abrirse paso entre los rezagados. Al reconocer los cabellos níveos y los ojos carmesíes de Triel con su rifle al hombro, el oficial detuvo su avance un segundo, con los ojos desorbitados por el impacto y el alivio:
-
-—¡Triel! —rugió León, abriéndose paso a golpes de porra hasta interponer su escudo entre los aventureros y una horda de estibadores enloquecidos—. ¡¿Pero qué demonios hacen ustedes aquí abajo?! ¡El estadio entero está bajo estado de sitio!
-
-—¡Vinimos por el concierto, oficial, pero el público se puso un poco intenso! —le gritó Triel con una sonrisa desafiante en mitad de la refriega, descargando un fogonazo de aturdimiento sobre un matón que cargaba por el flanco—. ¡Qué oportuno verle con el uniforme de faena completo!
-
-—¡Saquen a esos goblins y a ese ysoki por el cordón este! —ordenó León, empujando a los agresores con la barrera de energía de su escudo y cubriéndoles la retirada con su escuadrón—. ¡Mi unidad mantendrá abierta la compuerta! ¡Corran!
+—Aquí estoy, señora Triel —anunció el dron con su voz sintética imperturbable—. No pretendo aburrirla con los detalles de mi milagroso escape entre la servidumbre, pero sugiero continuar el movimiento táctico hacia cotas superiores.
 
 ***
 
-### III. Sirenas en la noche
+### II. El mosh pit de la rata
 
-El pelotón logró cruzar la brecha abierta por los Protectores y desembocar en la gran explanada del Anillo tras veinte minutos de brutal refriega cuerpo a cuerpo.
+En el foso central, Benray Galway no estaba dispuesto a morir aplastado por fanáticos enloquecidos.
 
-Benray salió disparado del túnel de acceso con el pelaje completamente erizado, la casaca de terciopelo desgarrada en un hombro y una sonrisa de oreja a oreja:
+Haciendo gala del instinto de supervivencia ancestral de los ysokis, el periodista se encogió sobre sí mismo, bajó el centro de gravedad y comenzó a escurrirse entre las piernas de los agresores como una anguila aceitada:
 
-—¡Díganme que mi dron grabó eso! ¡El mosh de la rata pasará a la historia de la holored de Absalón! ¡Vi a un kasatha intentar estrangularse a sí mismo con tres de sus propios brazos!
+—¡Paso al reportero! ¡Cuidado con esa pezuña, cara de lagarto! —mascullaba entre dientes mientras se deslizaba por debajo de capas, faldas y botas pesadas.
 
-—Cállate y sigue corriendo, imbécil con cola —bufó Triel, arreándole un empellón mientras arrastraba a Willy en volandas de la pechera para que no se quedara rezagado.
+El foso era una pesadilla dantesca: ojos inyectados en sangre, alaridos incomprensibles en lenguas muertas y fanáticos golpeándose las cabezas contra el suelo. Benray comprendió al instante que intentar alcanzar las puertas principales de evacuación a ras de suelo sería un suicidio; los accesos terrestres estaban completamente taponados por muros humanos de quinientas personas aplastándose contra el blindaje.
 
-Al cruzar los accesos exteriores y desembocar en la gran explanada del Anillo, el resplandor rojo y azul de docenas de patrulleras de Los Protectores tiñó la noche de la estación. Columnas enteras de agentes antidisturbios fuertemente armados descendían de transportes blindados, desplegando campos de contención sónica para sellar el perímetro del Domo Horizonte.
+La única salvación estaba arriba.
 
-El oficial León se detuvo en el umbral tras replegar a su última escuadra, respirando con fuerza mientras se retiraba el casco táctico empapado de sudor. Se volvió hacia Triel y el pelotón, con el rostro enrojecido por el esfuerzo:
+Aprovechando su diminuto tamaño, Benray trepó por las rejas metálicas de ventilación que separaban el foso de las galerías de palcos VIP. Se coló entre los barrotes con la soltura que solo un ysoki de la Espiga poseía y desembocó en el corredor alfombrado del segundo nivel.
 
-—Tengo que coordinar con el mando táctico del Sector Cuatro. Van a declarar el toque de queda en todo el distrito mientras averiguan qué demonios ocurrió en ese escenario.
+Sin embargo, al enfilar el pasillo hacia las escaleras del techo, se topó de frente con un fanático corpulento que blandía una pata de silla metálica arrancada de cuajo, golpeando las paredes con furia homicida.
 
-Triel dio un paso hacia él, cruzándose de brazos con una sonrisa ladeada y el rostro arrebolado por la adrenalina:
+Benray retrocedió sigilosamente, se deslizó en una cabina de control audiovisual contigua y localizó la consola maestra del circuito cerrado de televisión. Con una sonrisa socarrona, subió los potenciómetros al máximo y encendió todas las holopantallas del pasillo a volumen ensordecedor.
 
-—Gracias por la cobertura de emergencia, mi león. Tienes buenos reflejos con ese escudo. Te debo una copa en la Espiga... cuando volvamos de Castrovel, claro.
+El estruendo repentino de un rugido sónico aturdió al maniático, que se abalanzó contra las pantallas intentando destruirlas a golpes. Aprovechando la distracción, Benray cruzó el corredor como una centella, propinó una certera patada a la endeble cerradura de la puerta de servicio y comenzó a escalar la empinada escalerilla de mantenimiento que conducía a la cubierta exterior.
 
-León soltó una carcajada apagada, pasándose el dorso del guantelete por la frente con una mezcla de fatiga y ternura ante la mirada descarada de la mecánica:
+***
 
-—Me temo que te tomo la palabra, Istrav. Cuídate mucho en ese viaje; Absalón se va a quedar demasiado tranquila sin ti armando jaleo en los muelles. Y ustedes —añadió, mirando a Axel y a Marloc con respeto profesional—, asegúrense de que esta chica no desmonte ningún reactor en el hiperespacio.
+### III. El abismo del andamiaje
 
-—Protocolos de contención de Triel asegurados al setenta por ciento, oficial —respondió Axel con rigidez militar y una leve inclinación de cabeza.
+Mientras tanto, en las entrañas técnicas del coliseo, Triel, Axel, Il y Gerty buscaban una ruta vertical tras comprobar que las esclusas de planta baja habían sido clausuradas por Los Protectores para evitar que la violencia se derramara a las calles del Anillo.
 
-León sonrió por última vez a la semi-drow antes de colocarse de nuevo el casco y trotar hacia la línea de mando de Los Protectores.
+—Por el andamiaje superior —indicó Triel, consultando el plano arquitectónico en su visor portátil—. Si alcanzamos las pasarelas de iluminación, podremos salir a la plataforma de aterrizaje del helipuerto en la cúpula.
 
-Minutos después, refugiados en el mirador del Muelle 94 con la *Estrella Errante* custodiando sus espaldas, la tripulación contempló las pantallas públicas de noticias en la holored. La periodista **Carne Yac** aparecía en vivo frente a las puertas selladas del Domo Horizonte con su inseparable dron-medusa holo-óptico flotando sobre su hombro:
+El grupo comenzó a trepar por una estrecha escalerilla metálica adosada a la estructura de soporte. A cuarenta metros del suelo, sobre las torres de sonido suspendidas en el vacío, una sacudida telúrica estremeció el coliseo: la marea humana derribó un pilar secundario en el escenario, provocando que una pesada torre de proyectores se desplomara en péndulo.
 
-*«...reiteramos la noticia de última hora: Syd Velch, la máxima celebridad musical de los Mundos del Pacto, se encuentra en paradero desconocido tras interrumpir abruptamente su concierto y desatar una batalla campal con más de cuatrocientos heridos. Fuentes médicas señalan que el vocalista emitió crípticas advertencias sobre una catástrofe cósmica inminente antes de esfumarse de la escena pública. Los Protectores mantienen el código rojo en el Ojo de Absalón...»*
+El impacto partió en dos la pasarela de servicio. Una brecha de más de tres metros —diez pies de caída libre hacia el foso infernal— se abrió entre los aventureros y la salida superior.
 
-Marloc apagó la pantalla con un chasquido del comunicador. El tecnomante alzó la vista hacia el mar infinito de estrellas que titilaba a través de la cúpula:
+—¡Hay que saltar! —gritó Triel, ajustándose la cazadora.
 
-—«Sangre bajo el sol... el destructor está despierto»... Esas fueron sus palabras exactas antes de colapsar. La misma advertencia que hallamos en la Roca del Drift.
+Sin pensarlo dos veces, la mecánica tomó carrerilla sobre la rejilla temblorosa, dio un salto acrobático y aterrizó al otro lado con un derrape de sus botas de plataforma, aferrándose al pasamanos.
 
-Triel se cruzó de brazos, sintiendo un escalofrío helado recorrer su columna:
+Il dudó un segundo, contemplando el abismo:
 
-—Mañana enterramos a Marlene, Marloc. Y pasado mañana nos largamos de esta estación para averiguar qué demonios está despertando en el Vasto.
+—¡No voy a llegar! ¡Mis piernas no tienen esa potencia de salto!
+
+Gerty no perdió el tiempo en debates: agarró al elegante cantante lashunta por el cinturón y los hombros y lo lanzó por los aires con un impulso hidráulico monumental. Il aterrizó de espaldas junto a Triel, despeinado pero intacto:
+
+—¡Gracias por el impulso, hojalata! —balbuceó el cantante entre jadeos.
+
+Para el cruce final, Gerty sostuvo la mano de Axel con precisión coreográfica, haciéndola girar como una bailarina sintética antes de proyectarla a través del vacío. Axel voló sobre el hueco con elegancia milimétrica, aterrizando limpiamente sobre sus rodillas de aleación. Un segundo después, Gerty activó sus impulsores neumáticos y superó el corte de un solo salto.
+
+Sin mirar atrás, el cuarteto enfiló la última escalerilla de caracol hacia el aire libre.
+
+***
+
+### IV. La extracción en pijama
+
+En el hotel de la dársena, **Marloc Boosmar** contemplaba las pantallas de la holored con el corazón en un puño.
+
+Las imágenes aéreas del Domo Jamspore mostraban columnas de humo, destellos de fuego sónico y patrulleras de Los Protectores acordonando el sector. En pantalla apareció el rostro del oficial León Holden coordinando escuadrones antidisturbios en la puerta este:
+
+*«...código rojo en el distrito. La histeria desatada en el interior amenaza con desbordar las barreras de contención...»*
+
+Marloc no lo pensó. Olvidó el dolor, el luto y el pavor existencial. En pijama de dormir, zapatillas de paño y con su capa arcana echada al hombro de cualquier manera, salió disparado a la calle.
+
+Al llegar a las inmediaciones del coliseo, el tecnomante divisó un destartalado aerotaxi estacionado frente a un puesto callejero. Un taxista enano fumaba tranquilamente apoyado en la ventanilla, ajeno al motín:
+
+—Necesito ese vehículo. Cincuenta créditos de propina si me deja los mandos ahora mismo —espetó Marloc sin aliento.
+
+El enano tomó los créditos con parsimonia, le dedicó una mirada burlona a su atuendo de dormir y se apartó:
+
+—Todo suyo, colega. Si se mata, no me pida el recibo.
+
+Marloc se deslizó tras el volante. El interior del vehículo olía a tabaco rancio y humedad, con una funda de bolitas de madera en el asiento del conductor y una estatuilla de la Sagrada Familia sujeta con cinta adhesiva al salpicadero. Activando sus circuitos arcanománticos para sincronizarse con la rudimentaria computadora de a bordo, el hechicero aceleró los propulsores verticales y elevó el aerotaxi a trompicones hacia la cúpula del Domo, esquivando a duras penas los avisos de alto de los drones policiales.
+
+En el helipuerto del tejado, azotado por el viento artificial de la estación, Triel, Axel, Il y Gerty acababan de franquear la escotilla exterior justo cuando Benray asomaba la cabeza por la escalera de servicio opuesta, jadeando y cubierto de tizne:
+
+—¡Benray! —exclamó Triel corriendo hacia él—. ¡Maldito seas, sigues de una pieza!
+
+—¡El mosh de la rata nunca falla! —festejó el ysoki alzando los brazos—. ¡He surfeado sobre trescientos energúmenos y he burlado a un gigante con pantallas de alta definición!
+
+En el extremo norte del helipuerto, una nave privada de lujo con motores de plasma silenciosos despegaba a toda prisa. A través de la ventanilla trasera polarizada, el rostro demacrado y pálido de Syd Velch los observó durante una fracción de segundo antes de desvanecerse en el tráfico espacial del Ojo.
+
+En ese instante, un ruido chirriante de motores mal afinados descendió sobre ellos.
+
+El aerotaxi de Marloc derrapó en el aire, frenó a escasos centímetros del suelo del helipuerto y abrió de golpe las compuertas neumáticas. Asomado por la ventanilla con el pelo revuelto, gafas torcidas y su casaca de pijama desabrochada, Marloc rugió por encima del viento:
+
+—¡¿Quieren subir de una maldita vez antes de que la guardia de Los Protectores nos derribe?!
+
+Il, Triel, Axel, Benray y Gerty se amontonaron a trompicones en el asiento trasero sobre las bolitas de madera. Marloc pisó a fondo el acelerador y el aerotaxi se disparó en picado hacia las sombras del Quinto Brazo, perdiéndose en el laberinto de neón de Absalón mientras las sirenas de la policía aullaban a lo lejos.
