@@ -139,6 +139,7 @@ graph TD
 #### ☠️ VOLUMEN 9: *Mundos Fragmentados III: La Necrogarganta de Eox* (Episodios 99 al 110)
 * **Episodios:** 99 al 110 (12 episodios / ~12 capítulos).
 * **Mapeo:** *Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 3: The Necrogorge)*.
+* **Giro Maestro (Episodio 106 - «Una Segunda Oportunidad»):** Revelación del anagrama de **Sambert Klamburg = Marloc Boosmar**. Triel descubre que la megacorporación que los contrató (Inversiones Estelares S.C.) fue fundada por un Marloc de una línea temporal futura para darles una segunda oportunidad y evitar la destrucción del cosmos.
 * **Sinopsis:** Con el favor de la audiencia no-muerta, los Atómicos marchan por los páramos marchitos de Eox hacia la profunda Necrogarganta. Tras pactar con el Dragonkin y abatir al titánico y monstruoso Ellicoth («Ellicujo»), asaltan el complejo fortificado, derrotan a la sabio óseo Xerantha Zatus y escapan al filo del bombardeo orbital con los secretos de la Flota de los Cuerpos (Cierre del Libro 3 de Paizo).
 
 #### 🕸️ VOLUMEN 10: *Lazos de Sangre: La Sombra de Apostae* (Episodios 111 al 122)
@@ -190,11 +191,13 @@ graph TD
 #### ☀️ VOLUMEN 18: *La Decimotercera Puerta I: Los Doce Soles* (Episodios 223 al 235)
 * **Episodios:** 223 al 235 (13 episodios / ~12 capítulos).
 * **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 5: The Thirteenth Gate (Parte 1: Doce Soles)*.
+* **Hito de Personaje (Secretos de Axel, Ep. 233-234):** Axel-42 descubre a sus «hijas» y descendientes sintéticos directos (Jennifer/Miseria y los gemelos 9S), destapando el enigma de las almas que precedieron a su chasis.
 * **Sinopsis:** Tras expulsar al perturbador polizón conocido como Hombre Tintineante, la nave salta hacia el misterioso sistema estelar de los Doce Soles. Mientras exploran las descomunales estaciones orbitales Kishalee y sortean bestias milenarias de laboratorio, Axel-42 se enfrenta a revelaciones críticas sobre sus chasis sintéticos previos y las memorias de sus almas anteriores («Chicas Pesadas», «¿Es este el fin de Axel 42?»).
 
 #### 🚪 VOLUMEN 19: *La Decimotercera Puerta II: El Duelo de los Androides* (Episodios 236 al 249)
 * **Episodios:** 236 al 249 (14 episodios / ~13 capítulos).
 * **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 5: The Thirteenth Gate (Parte 2: Null-9)*.
+* **Giro Maestro (Episodio 246 - La Verdad de Ashera y la Forja):** Confrontación ideológica con Null-9. Se desvela que el chasis de Axel fue habitado por Ashera, la "madre" de Null, y que **el chasis de Axel es la Forja viviente** capaz de reproducir androides, un secreto que Ashera ocultó al trascender para evitar que Null lo corrompiera.
 * **Sinopsis:** Los héroes penetran en el complejo de mando Kishalee. Allí deben confrontar a su antigua aliada y jerarca androide Null-9 y doblegar a la hostil IA Eltreth. En un combate táctico al límite de sus fuerzas («Null-9», «I.A.hora Qué Hacemos»), abren triunfalmente la Decimotercera Puerta interdimensional que conduce a la ubicación del Devastador Estelar (Cierre del Libro 5 de Paizo).
 
 #### ☠️ VOLUMEN 20: *El Imperio de los Huesos: El Asalto al Dreadnought* (Episodios 250 al 272+)
@@ -236,6 +239,22 @@ La grandeza de esta campaña radica en la genialidad creativa compartida entre e
 * **Naturaleza del Giro:** La subversión del misterio del padre de Triel.
 * **Contexto:** Keiden no estaba secuestrado pasivamente por la Casa Istrav en Apostae; era el audaz capitán que robó el motor de Besmara y quedó atrapado en el limbo temporal del Maelstrom. La Piedra Corazón actúa como faro de retorno.
 * **Ejecución Literaria:** El surrealismo de la física del Maelstrom (cambio temporal de cuerpos en el Ep. 202) contrasta con la intensidad emocional del reencuentro paternofilial y el juicio del Inevitable.
+
+### 🏢 GIRO 5: El Enigma de Inversiones Estelares S.C. y el Anagrama de Sambert Klamburg (Volumen 9, Ep. 106)
+* **Naturaleza del Giro:** Paradoja temporal de causa y efecto / Conspiración corporativa de auxilio propio.
+* **Contexto:** Desde su fundación en la Estación Ábsalon, la tripulación opera bajo contrato de la megacorporación **Inversiones Estelares S.C.** (*IESC*), cuyo presidente invisible es el magnate **Sambert Klamburg**.
+* **El Descubrimiento en Eox (Episodio 106: *«Una Segunda Oportunidad»*):**
+  Triel analiza la correspondencia y los registros corporativos, reordenando las letras del nombre de su enigmático jefe en una brillante revelación analítica:
+  $$\text{SAMBERT KLAMBURG} \longleftrightarrow \text{MARLOC BOOSMAR}$$
+* **La Revelación:** Inversiones Estelares S.C. fue fundada por un **Marloc Boosmar de una línea temporal futura o dimensión alterna** (donde los héroes fracasaron ante el Devastador Estelar y presenciaron el fin del universo).
+* **Ejecución Literaria:** Este Marloc del futuro creó la corporación, financió la nave *Estrella Errante*, contrató a los cuatro protagonistas en Ábsalon, envió los mensajes de advertencia a través de Marlín y manipuló sutilmente los acontecimientos (salvando a Olivia y guiando el rescate de Ángela) para brindarle a su contraparte del presente **«una segunda oportunidad»** con la que enmendar sus errores y salvar la galaxia.
+
+### 🤖 GIRO 6: El Secreto de Ashera y la Naturaleza de A.Xel como la Forja Viviente (Volumen 18 y 19, Ep. 233, 246)
+* **Naturaleza del Giro:** Tragedia transhumanista, maternidad sintética y el código de la vida androide.
+* **El Chasis Previo (Ashera):** El cuerpo cibernético de Axel-42 no es un chasis ordinario de producción en masa. Perteneció originalmente a **Ashera**, una figura legendaria entre los androides y compañera fundacional de Claire (Eclero).
+* **El Milagro de la Reproducción Androide:** En el universo del Pacto, los androides no pueden procrear biológicamente. Sin embargo, Ashera exploró las ruinas ancestrales de Istamak y descubrió el mayor enigma tecnológico de la galaxia: **¡la Forja kishalee viviente era ella misma!** Su chasis biotecnológico contenía el código evolutivo («crack the code») capaz de engendrar nuevos androides (sus descendientes directos: Jennifer/Miseria, los gemelos 9S, Panquecito y Null-9).
+* **El Drama y el Rencor de Null-9:** Ashera crio y protegió a **Null-9** como a su propia hija. Al percatarse de la inestabilidad psicológica y el fanatismo radical de Null, Ashera comprendió que entregarle ese conocimiento desataría una catástrofe. Antes de que Null pudiera forzarla a revelar el secreto, Ashera decidió trascender voluntariamente en secreto, pidiéndole a Claire en su lecho de muerte que guardara el secreto bajo juramento. De esa trascendencia nació el alma inocente y renovada de **Axel-42**.
+* **La Ironía Trágica:** Null-9 cuidó después a la recién nacida Axel-42 creyéndola una extraña, sin sospechar jamás que Axel habitaba el cuerpo de su propia "madre" Ashera y que portaba el secreto de la reproducción androide. Descubrir que se le ocultó la verdad empujó a Null-9 al despecho y a aliarse con el Culto del Devorador, intentando apoderarse de la superarma estelar para forzar la evolución androide a costa del holocausto cósmico.
 
 ---
 
