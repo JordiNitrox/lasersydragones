@@ -81,11 +81,11 @@ lasersydragones/
 │       ├── generar_libro_pdf.py             # Script maquetador LibreOffice con 2 pases de TOC
 │       └── Lasers_y_Dragones_Volumen_6_El_Fantasma_en_la_Maquina.pdf  # PDF Final Maquetado (60 páginas)
 │
-├── planificacion_global/                    # Plan Maestro y 150 Episodios Procesados (Episodios 73 al 222)
+├── planificacion_global/                    # Plan Maestro y 201 Transcripciones Procesadas (Episodios 73 al 272 + Especial 2026)
 │   ├── PLAN_GLOBAL_SAGA_Y_ESPECIALES.md     # Guía Maestra Global de los 272 episodios de la serie y spin-offs
-│   ├── PLAN_DETALLADO_VOLUMENES_7_A_13.md   # Mapeo y desglose detallado de los 150 episodios procesados
-│   ├── metadatos/                           # Catálogos JSON consolidados (150 eps Starfinder y especiales)
-│   ├── transcripciones/                     # 150 transcripciones raw y limpias (1.686.839 palabras)
+│   ├── PLAN_DETALLADO_VOLUMENES_7_A_15.md   # Mapeo y desglose detallado de los 200 episodios de Starfinder y Especial
+│   ├── metadatos/                           # Catálogos JSON consolidados (200 eps Starfinder y especiales)
+│   ├── transcripciones/                     # 201 transcripciones raw y limpias (2.313.687 palabras)
 │   └── scripts/                             # Utilidades de descarga, extracción y consolidación
 │
 └── .agents/skills/novelizacion-lasers-y-dragones/  # Skill y reglas metodológicas del proyecto
@@ -137,7 +137,7 @@ lasersydragones/
 
 ## 🚀 Próximos Volúmenes en Planificación y Catálogo de Especiales
 
-Para consultar el mapeo exhaustivo de los 272 episodios frente a los libros de Paizo (*Dead Suns*), la rotación de personajes en mesa y los spin-offs, consulte la **[Guía Maestra Global de Novelización y Especiales](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_GLOBAL_SAGA_Y_ESPECIALES.md)** y el desglose de los 150 episodios procesados en el **[Plan Detallado de Volúmenes 7 al 13](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_DETALLADO_VOLUMENES_7_A_13.md)**:
+Para consultar el mapeo exhaustivo de los 272 episodios frente a los libros de Paizo (*Dead Suns*), la rotación de personajes en mesa y los spin-offs, consulte la **[Guía Maestra Global de Novelización y Especiales](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_GLOBAL_SAGA_Y_ESPECIALES.md)** y el desglose de los 200 episodios procesados en el **[Plan Detallado de Volúmenes 7 al 15](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_DETALLADO_VOLUMENES_7_A_15.md)**:
 
 ### 🌌 Saga Principal (*Starfinder: Dead Suns*):
 * **Volumen 7:** *Mundos Fragmentados I: La Diáspora de Sangre* (Episodios 76b al 88)  
@@ -154,6 +154,10 @@ Para consultar el mapeo exhaustivo de los 272 episodios frente a los libros de P
   *Arco:* Retorno de Juan Pablo y Marloc (Ep 163), descenso en Nejeor, ciudad flotante de Istamak, civilización Kishalee y misterio de la Puerta Estelar (Libro 4).
 * **Volumen 13:** *El Corazón del Padre: La Redención de Apostae* (Episodios 186 al 222)  
   *Arco:* Descubrimiento de que Keiden Ashton vive prisionero; asalto definitivo a Apostae, caída de la jerarquía drow y rescate agónico del padre de Triel.
+* **Volumen 14:** *La Decimotercera Puerta* (Episodios 223 al 249)  
+  *Arco:* Sistema de los Doce Soles, misterios de las almas previas de Axel-42, exploración de mega-ingeniería Kishalee, caída de Null-9 y de la IA Eltreth, apertura triunfal de la Decimotercera Puerta al Devastador Estelar (Libro 5).
+* **Volumen 15:** *El Imperio de los Huesos (Parte 1 / En Curso)* (Episodios 250 al 272+)  
+  *Arco:* La armada no-muerta de la Flota de los Cuerpos moviliza su nave insignia («Atómicos Assemble»), infiltración en el super-dreadnought *Imperio de los Huesos*, persecución en tren de la muerte, duelo con Malakar, francotiradores baykok, visiones de sangre de Marloc y combate contra la tejedora Anasi rumbo al Almirante (*Historia en curso / Campaña activa en mesa*).
 
 ### 🎭 Volúmenes Especiales y Spin-offs (Fuera de Serie):
 * **Especial 1:** *Hielo y Sangre (HyS)* (22 Episodios, 2020)  
@@ -164,8 +168,9 @@ Para consultar el mapeo exhaustivo de los 272 episodios frente a los libros de P
   *Arco:* Simulación virtual de rol dentro del rol (*Pathfinder 2e* en Ábsalon): *Isopi Flower* (druida rana), *Valor* (orco), *Pastinaxcel* (leshy) y *Monstruo* (mutante).
 * **Especial 4:** *Spooky Octubre 2025: La Trilogía de la Muerte* (3 Episodios)  
   *Arco:* Sistema *Shadowdark RPG*, con la participación de la **jugadora invitada especial Daneris**.
-* **Especial 5:** *Spooky Octubre 2026: La Guardia de Medianoche* (Episodio 1+)  
-  *Arco:* Entrega anual de horror y misiones nocturnas para el Imperio.
+* **Especial 5:** *Spooky Octubre 2026: La Guardia de Medianoche* (Episodio 1 en adelante)  
+  *Arco:* Entrega anual de horror para la temporada de Halloween de 2026. Misión nocturna para el Imperio (*Temporada en emisión activa / No finalizada*).
+
 
 ---
 

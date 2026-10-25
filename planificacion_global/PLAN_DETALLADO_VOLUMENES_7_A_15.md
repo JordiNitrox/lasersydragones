@@ -1,0 +1,314 @@
+# Plan Detallado de Novelización: Volúmenes 7 al 15 y Especiales Fuera de Serie
+## Mapeo Integral de 200 Episodios de Starfinder (73 al 272) y Especiales frente a *Starfinder: Dead Suns*
+
+> **Proyecto:** *Lasers y Dragones: La Novela*  
+> **Fuente de Audio:** Podcast Oficial de Rol en Vivo *Lasers y Dragones* (Feed RSS de Libsyn y Canal Oficial de YouTube)  
+> **Campaña Base:** *Starfinder: Dead Suns Adventure Path* (Paizo Publishing) enriquecida con subtramas canónicas de la mesa de juego  
+> **Estado Actual:** 201 transcripciones limpias (200 episodios de Starfinder + Spooky Octubre 2026 Ep 1) sumando **2.313.687 palabras** en [`planificacion_global/transcripciones/limpias/`](./transcripciones/limpias/).  
+> **Nota de Continuidad y En Emisión:** La historia de la campaña principal **no está aún terminada** (la mesa se encuentra combatiendo en el núcleo del dreadnought *Imperio de los Huesos* en los episodios 270–272+), y la entrega de Halloween **Spooky Octubre 2026** acaba de comenzar su emisión con el Episodio 1 (21 de octubre de 2026) y continúa en curso.
+
+---
+
+## 1. Visión Panorámica: Volúmenes 7 al 15 y Especiales
+
+| Volumen / Libro | Episodios Podcast | Escenario Principal | Arco / Conflicto Clave | Estado Editorial |
+| :--- | :---: | :--- | :--- | :---: |
+| **Volumen Especial Extra** | 073 – 076a | Realidad Virtual (*Pathfinder 2e*) | *Spooky Octubre 2021: Pesadilla en el Viejo Golarion* | Planificado |
+| **Volumen 7** | 076b – 088 | Ábsalon y La Diáspora | *Mundos Fragmentados I: La Diáspora de Sangre* (Corsarios y Templo del Devorador) | Planificado |
+| **Volumen 8** | 089 – 110 | Planeta Eox | *Mundos Fragmentados II: El Planeta de los Muertos* (Reality Show Zo! y Necrogarganta) | Planificado |
+| **Volumen 9** | 111 – 122 | Planetoide Apostae | *Lazos de Sangre: La Sombra de Apostae* (Infiltración Drow y Duelo Fratricida) | Planificado |
+| **Volumen 10** | 123 – 135 | Asteroide-Casino | *El Rally de la Muerte* (Apuestas espaciales, carrera en el vacío y Marloc piloto) | Planificado |
+| **Volumen 11** | 136 – 162 | Nave *La Galway* y Vasto | *La Odisea de La Galway* (Clanes ysoki, Zivok y ausencia de Marloc) | Planificado |
+| **Volumen 12** | 163 – 185 | Nejeor e Istamak | *Las Nubes Arruinadas* (Retorno de Marloc, ruinas Kishalee, Museo y Puerta Estelar) | Planificado |
+| **Volumen 13** | 186 – 222 | Fortalezas de Apostae | *El Corazón del Padre* (Guerra contra la Casa Istrav y rescate de Keiden Ashton) | Planificado |
+| **Volumen 14** | 223 – 249 | Doce Soles / Kishalee | *La Decimotercera Puerta* (Chasis de Axel, caída de Null-9 y apertura del portal) | Planificado |
+| **Volumen 15** | 250 – 272+ | *Imperio de los Huesos* | *El Imperio de los Huesos* (Infiltración en dreadnought, tren de la muerte, Malakar y Anasi) | **En Curso (Mesa Activa)** |
+| **Especial Halloween 2026** | Ep 1+ | Ambientación Gótica | *Spooky Octubre 2026: La Guardia de Medianoche* | **En Emisión** |
+
+---
+
+## 2. Detalle Editorial Volumen por Volumen
+
+### 🎃 VOLUMEN ESPECIAL EXTRA: *Spooky Octubre: Pesadilla en el Viejo Golarion*
+* **Episodios:** 73 al 76a (4 episodios / ~4 capítulos).
+* **Sistema:** *Pathfinder 2e* en Viejo Golarion (Simulador virtual neural de la corporación EPIX).
+* **Avatares Cómicos:** Benray como la rana druida *Isopi Flower*, Marloc como el orco luchador *Valor con Bigote Sangrienta*, Axel como la leshy *Pastinaxcel 42* y Triel como la barda mutante *Monstruo*.
+* **Sinopsis:** Tras el desgaste en Castrovel, la tripulación se sumerge en una sesión virtual inmersiva de fantasía gótica medieval en el pueblo de Durham. Resuelven fallas de posadas bugueadas, enfrentan a los horrores no-muertos del castillo quemado y vencen a Damien en un homenaje cómico de Halloween.
+
+### 📕 VOLUMEN 7: *Mundos Fragmentados I: La Diáspora de Sangre*
+* **Episodios:** 76b al 88 (~13 episodios / ~14 capítulos).
+* **Mapeo:** *Dead Suns Libro 3 (Parte 1: The Diaspora)* + Secuelas en Ábsalon.
+* **Sinopsis:** Despertar abrupto en Ábsalon al descubrir que la sesión virtual era una emboscada armada del Culto del Devorador. Tras resistir el asalto de gnolls gracias al ingeniero halfling Valdo y presenciar la reveladora visión estelar de Marloc con la esfera jerarca, Triel se despide de León (quien le regala un cuervo de madera sagrada). Salto al Drift hacia La Diáspora: tensión con corsarios de los Capitanes Libres, exploración en baja gravedad de un asteroide sarcesiano habitado por vampiros plateados, asalto a la base del Culto y combate naval contra la Flota de los Cuerpos que revive memorias de los chasis de Axel.
+
+### 💀 VOLUMEN 8: *Mundos Fragmentados II: El Planeta de los Muertos*
+* **Episodios:** 89 al 110 (22 episodios / ~18 capítulos).
+* **Mapeo:** *Dead Suns Libro 3 (Parte 2: Eox - The Planet of the Dead & The Necrogorge)*.
+* **Sinopsis:** Descenso sobre la atmósfera radiactiva de Eox. Lucha burocrática en el Ministerio de los Vivos, emboscadas de asesinos nihili y visita al Café Calavera. El magnate mediático Zo! les exige sobrevivir a su sádico reality show en vivo (*«El Camino Furibundo»*) esquivando al Golem de Neutrones. Con el favor de la audiencia no-muerta, asaltan la Necrogarganta, pactan con el Dragonkin, destruyen al monstruoso Ellicoth (*Ellicujo*) y ejecutan a la sabio óseo Xerantha Zatus, huyendo bajo bombardeo orbital.
+
+### 🕸️ VOLUMEN 9: *Lazos de Sangre: La Sombra de Apostae*
+* **Episodios:** 111 al 122 (12 episodios / ~12 capítulos).
+* **Mapeo:** *Arco Canónico Propio de la Mesa (Inversiones Estelares S.C. y la Casa Istrav)*.
+* **Sinopsis:** Marcelus se manifiesta en persona para cobrar sus deudas corporativas. Triel lidera una peligrosa misión encubierta en el planetoide cavernoso de Apostae, infiltrando al equipo como sirvientes domésticos en la fortaleza de la aristocracia drow. Descubren los archivos sobre la huida de Keiden Ashton y el desprecio de su madre drow, culminando en un feroz duelo fratricida a muerte entre Triel y su hermanastra Jhidel Istrav antes de huir hacia Thanox.
+
+### 🎲 VOLUMEN 10: *El Rally de la Muerte en el Asteroide-Casino*
+* **Episodios:** 123 al 135 (13 episodios / ~12 capítulos).
+* **Mapeo:** Transición hacia el Libro 4 / Aventura en el límite del espacio civilizado.
+* **Sinopsis:** Necesitados de créditos y repuestos, los héroes atracan en un asteroide-casino gobernado por mafias y androides de placer. Para saldar cuentas, se inscriben en el letal «Rally de la Muerte»: una despiadada carrera vehicular a través de cinturones de asteroides y campos de plasma donde Marloc asume el mando como piloto estrella, antes de que tensiones personales lo lleven a tomar un receso.
+
+### 🐀 VOLUMEN 11: *La Odisea de La Galway*
+* **Episodios:** 136 al 162 (27 episodios / ~18 capítulos).
+* **Notas de Mesa:** Juan Pablo da descanso a Marloc e introduce a **Zivok**. Roberto gestiona a Marloc como PNJ en segundo plano.
+* **Sinopsis:** A bordo del destartalado carguero familiar *La Galway*, Benray debe lidiar con las vendettas, deudas y paranoias de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Entre motines, abordajes en el vacío y claustrofobia espacial, Zivok demuestra su lealtad al equipo y Triel mantiene unida la nave mientras se aproximan a las coordenadas del misterioso sistema Nejeor.
+
+### ☁️ VOLUMEN 12: *Las Nubes Arruinadas: La Ciudadela de Istamak*
+* **Episodios:** 163 al 185 (23 episodios / ~16 capítulos).
+* **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 4: The Ruined Clouds*.
+* **Notas de Mesa:** En el Episodio 163 (*«Si te he Fallado te Pido Perdón»*), **se produce el emotivo regreso de Juan Pablo y Marloc Boosmar**.
+* **Sinopsis:** Reintegrado Marloc al grupo, la *Estrella Errante* desciende en el tormentoso gigante gaseoso Nejeor y localiza la fabulosa ciudadela flotante de Istamak. Contactan con los degenerados kishalee, exploran el gigantesco Museo de Istamak esquivando aberraciones micóticas y reactivan las inteligencias artificiales para revelar las coordenadas de la legendaria Puerta de los Doce Soles.
+
+### 🗡️ VOLUMEN 13: *El Corazón del Padre: La Redención de Apostae*
+* **Episodios:** 186 al 222 (37 episodios / ~20 capítulos).
+* **Mapeo:** *Arco Canónico Propio (Conclusión de la Casa Istrav y rescate de Keiden Ashton)*.
+* **Sinopsis:** Se confirma la noticia que conmociona a Triel: su padre biológico, el corsario humano Keiden Ashton, sigue con vida, recluido en los calabozos más tenebrosos de Apostae. El equipo organiza un asalto de rescate a gran escala contra los bastiones de la Casa Istrav. Entre combates mágicos en los abismos subterráneos y conspiraciones matriarcales, Triel derrota a la jerarquía drow y rescata a su padre, cerrando las heridas de su linaje.
+
+### 🚪 VOLUMEN 14: *La Decimotercera Puerta*
+* **Episodios:** 223 al 249 (27 episodios / ~18 capítulos).
+* **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 5: The Thirteenth Gate*.
+* **Sinopsis:** Siguiendo las coordenadas de Nejeor, los aventureros viajan al remoto sistema estelar de los Doce Soles. Mientras Axel-42 investiga perturbadoras revelaciones sobre sus chasis anteriores y su verdadera naturaleza sintética («Chicas Pesadas», «¿Es este el fin de Axel 42?»), el equipo explora las descomunales estaciones Kishalee, esquivando trampas en gravedad cero y superando a bestias milenarias de laboratorio. El arco alcanza su clímax definitivo en el combate a muerte contra la jerarca androide Null-9 y la hostil IA Eltreth, logrando abrir la Decimotercera Puerta interdimensional que custodia el Devastador Estelar.
+
+### ☠️ VOLUMEN 15: *El Imperio de los Huesos (Parte 1 / En Curso)*
+* **Episodios:** 250 al 272+ (23 episodios emitidos a la fecha / ~16 capítulos).
+* **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 6: Empire of Bones*.
+* **Estado Narrativo:** **Historia en curso / Campaña activa en mesa**. Los episodios 270–272 culminan en el interior del acorazado; la saga de Dead Suns continúa emitiéndose.
+* **Sinopsis:** El portal revela el Devastador Estelar, pero la Flota de los Cuerpos de Eox hace su aparición con una fuerza colosal encabezada por su buque insignia: el super-dreadnought *Imperio de los Huesos*. Con el Pacto en peligro de muerte, los héroes organizan una desesperada maniobra de distracción («Atómicos Assemble») y abordan la nave enemiga. En su marcha por hangares y prisiones enfrentan a la pistolera Malakar, libran una frenética persecución sobre vías férreas en movimiento («Tren de la Muerte», «Se Descarriló Esta Vara») esquivando a francotiradores baykok, mientras Marloc sufre visiones de sangre y el grupo combate a la tejedora de sangre Anasi rumbo al puente de mando.
+
+### 🕯️ ESPECIAL DE HALLOWEEN 2026: *Spooky Octubre: La Guardia de Medianoche*
+* **Episodios:** Episodio 1 en adelante (emitido el 21 de octubre de 2026).
+* **Estado Narrativo:** **En emisión / Temporada de Halloween 2026 en curso**.
+* **Sinopsis:** Homenaje anual de horror en la mesa de Lasers y Dragones. Los jugadores encarnan a la Guardia de Medianoche, patrullando fortificaciones sombrías en una misión nocturna plagada de misterio y amenazas sobrenaturales.
+
+---
+
+## 3. Catálogo Completo Episodio por Episodio (73 al 272 + Especial 2026)
+
+| Ep | Título Oficial | Fecha Emisión | Libro Starfinder / Subtrama | Asignación Editorial | Notas de Mesa / Síntesis |
+| :-: | :--- | :-: | :--- | :-: | :--- |
+| **073** | Episodio 073 - Spooky Octubre: El Pueblo Maldito | Wed, 20 Oct 2021 | Especial de Halloween / Meta-Rol en Viejo Golarion (Pathfinder 2e) | **Volumen Especial Extra (Spooky Octubre)** | El terror inicia, al entrar en un mundo virtual con la esperanza de un premio, y una tranquila ... |
+| **074** | Episodio 074 - Spooky Octubre: El Castillo del Mal | Wed, 27 Oct 2021 | Especial de Halloween / Meta-Rol en Viejo Golarion (Pathfinder 2e) | **Volumen Especial Extra (Spooky Octubre)** | Eventos inesperados disuelven la realidad y juego. ¿Los jugadores están en una aventura más gra... |
+| **075** | Episodio 075 - Spooky Octubre: La Bodeguita del Terror | Wed, 03 Nov 2021 | Especial de Halloween / Meta-Rol en Viejo Golarion (Pathfinder 2e) | **Volumen Especial Extra (Spooky Octubre)** | Atrapados sin un camino que seguir, perdidos en mundo virtual. Con la extraña sensación, de que... |
+| **076** | Episodio 076 - Aquí está su Premio | Wed, 10 Nov 2021 | Bisagra: Fin Especial Spooky Octubre / Despertar en Ábsalon | **Volumen Especial Extra / Volumen 7 (Bisagra)** | Han logrado despertar, pero eso es solo el inicio, porque si bien sus aventuras fantásticas han... |
+| **077** | Episodio 077 - Null-ca lo hubiera imaginado | Wed, 17 Nov 2021 | Transición entre Libro 2 y Libro 3 | **Volumen 7** | Una prisionera, un misterio y muchas preguntas. Descubrir que ocurrió en su juego es apenas el ... |
+| **078** | Episodio 078 - Peligro es mi segundo nombre | Wed, 24 Nov 2021 | Transición entre Libro 2 y Libro 3 | **Volumen 7** | Una vez todo listo para la partida, se preparan para el largo viaje en la oscuridad del drift, ... |
+| **079** | Episodio 079 - Corazón Pirateado | Wed, 01 Dec 2021 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7** | Un inesperado encuentro con piratas pone en peligro la tripulación. ¿Son acaso amigos? Tal vez,... |
+| **080** | Episodio 080 - Sarcesinato en el Asteroide | Wed, 08 Dec 2021 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7** | El asteroide dista de ser un ambiente acogedor. En baja gravedad, rodeados de oscuridad, el vac... |
+| **081** | Episodio 081 - Guardería: Vampiritos de Plata | Wed, 15 Dec 2021 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7** | En la oscuridad de una caverna en medio de un asteroide oscuro, furiosas alas y dientes se prep... |
+| **082** | Episodio 082 - No Puedo Sacarte de Mi Mente | Wed, 22 Dec 2021 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7** | lgo a tocado la mente de Triel, y su influencia la lleva hasta el borde de un pozo, pero tambié... |
+| **083** | Episodio 083 - Bienvenidos al Hoyito del Diablo | Wed, 29 Dec 2021 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7** | Se adentran en lo profundo de una misteriosa estructura en un desolado asteroide. Nadie que se ... |
+| **084** | Episodio 084 - Si las Miradas Mataran | Wed, 05 Jan 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7** | El conocimiento del culto aun los elude. Y la única opción es adentrarse más en la guarida del ... |
+| **085** | Episodio 085 - El Espinazo del Devorador | Wed, 12 Jan 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7** | La bestia que protegía creó una confusa situación para ellos. Pero ahora finalmente pueden expl... |
+| **086** | Episodio 086 - El Templo de la Puñalada | Wed, 19 Jan 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7** | La información de la computadora revela oscuras y místicas profundidades, revelando un rostro m... |
+| **087** | Episodio 087 - El Secreto de la Caja | Wed, 26 Jan 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7 / Volumen 8 (Bisagra)** | Naves de combate se ciernen sobre los aventureros, dispuestos a acabar con ellos, un combate de... |
+| **088** | Episodio 088 - Fantasmas del Pasado | Wed, 02 Feb 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7 / Volumen 8 (Bisagra)** | Trozos de información se revelan. Partes de memorias fragmentadas, tal vez incapaces de revelar... |
+| **089** | Episodio 089 - Promesas | Wed, 09 Feb 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7 / Volumen 8 (Bisagra)** | El misterio de fantasma de la nave se ah revelado. Y ahora Benray debe enfrentar las consecuenc... |
+| **090** | Episodio 090 - Mas Allá de las Estrellas | Wed, 16 Feb 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 7 / Volumen 8 (Bisagra)** | Marloc volverá a ver Ángela, o al menos la mujer que se ve justo como la esposa que perdió. ¿Có... |
+| **091** | Episodio 091 - ¡Un Planeta para Morirse! | Wed, 23 Feb 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | El planeta de los muertos Eox los recibe, sus muerta superficie y sus retorcidos habitantes en ... |
+| **092** | Episodio 092 - Trámites Muertocráticos | Wed, 02 Mar 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | En un planeta sin pulso los aventureros deberán decidir en que dirección seguir sus investigaci... |
+| **093** | Episodio 093 - Antes Muerta que Sencilla | Wed, 09 Mar 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Peligrosas y oscuras criaturas parece moverse en el borde de un mortal misterio. En medio del p... |
+| **094** | Episodio 094 - La Debilidad de la Carne | Wed, 16 Mar 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | La investigaciones en el dilapidado apartamento de la solado de huesos revelan perturvantes obs... |
+| **095** | Episodio 095 - Calaveras y Gnomitos | Wed, 23 Mar 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Asesinos nihili odian toda la vida que ellos perdieron, y ahora su ira cae sobre los aventurero... |
+| **096** | Episodio 096 - El Café Calavera | Wed, 30 Mar 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | El Café Calavera es un antro donde los muertos viene a observar con retorcido deleite a los viv... |
+| **097** | Episodio 097 - ¡No Hay Respeto! | Wed, 06 Apr 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Se adentran buscando pistas en medio de un antro donde los muertos observan a los vivos. Sin em... |
+| **098** | Episodio 098 - Como Caido del Cielo | Wed, 13 Apr 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Bajo la superficie de Eox hay un desierto que pretende ser Akiton. Es un planeta de sombras y e... |
+| **099** | Episodio 099 - El Baile de la Bolita | Wed, 20 Apr 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Los juegos de Zo! son peligrosa aventura para todos los involucrados, pero para algunos una mor... |
+| **100** | Episodio 100 - El Corazón del Ratón | Wed, 27 Apr 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Benrey esta en el una encrucijada, su enemigo se encuentra en peligro, pero salvarlo es ponerse... |
+| **101** | Episodio 101 - Por la Grasa de Dios | Wed, 04 May 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Cara a cara contra un cazador imparable, invisible, tal vez indestructible. Ellos deben encontr... |
+| **102** | Episodio 102 - El Camino Furibundo | Wed, 11 May 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Por ahora han escapado los indestructibles puños del Golem de Neutrones, y ahora deben encontra... |
+| **103** | Episodio 103 - El Camino Furibundo - Parte II | Wed, 18 May 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | El combate en las calles no acaba y el grupo enfrenta la muerte en esquina. Los muertos los ace... |
+| **104** | Episodio 104 - Érase una Vez un Puerco | Wed, 25 May 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Dentro del edificio final, las tensiones aumentan a medida que todos los ojos muertos se enfoca... |
+| **105** | Episodio 105 - Caída de Gracia | Wed, 01 Jun 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Los aliados se vuelven contra ellos en el peor momento. Ahora el enfrentamiento no es solo cont... |
+| **106** | Episodio 106 - Una Segunda Oportunidad | Wed, 08 Jun 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | La extraña figura del Dragonkin los amenaza. Pero al mismo tiempo se detiene de atacarlos. ¿Por... |
+| **107** | Episodio 107 - ¿Cómo está el arroz? | Wed, 15 Jun 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Después de la impactante teoría sobre Marloc y sus implicaciones. ¿Cómo pueden continuar los av... |
+| **108** | Episodio 108 - La Coleccionista de Huesos | Wed, 22 Jun 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | El impacto de la escala del guardián de la maligna Xerantha los saca de todo plan que tenían de... |
+| **109** | Episodio 109 - Ellicujo el Perro Asesino | Wed, 29 Jun 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Atrapados en la retorcida casa de Xerantha, la victoria tiene un amargo sabor, al darse cuenta ... |
+| **110** | Episodio 110 - Carta de Despido | Wed, 06 Jul 2022 | Dead Suns Libro 3: Splintered Worlds (Mundos Fragmentados) | **Volumen 8** | Una ataque aéreo al la guarida de Xerantha los fuerza a buscar rápidas soluciones. A menos que ... |
+| **111** | Episodio 111 - It's Morbin Time | Wed, 13 Jul 2022 | Arco Canónico Propio de la Mesa: Inversiones Estelares S.C. | **Volumen 9** | Marcelus hace finalmente su aparición y esta dispuesto a cerrar todos los cabos sueltos, en med... |
+| **112** | Episodio 112 - ¿Quién es el Jefe? | Wed, 20 Jul 2022 | Arco Canónico Propio de la Mesa: Inversiones Estelares S.C. | **Volumen 9** | Una reunión que por mucho tiempo ha estado pesando sobre sus cabezas. ¿Qué misterios oculta la ... |
+| **113** | Episodio 113 - Juego de Niños | Wed, 27 Jul 2022 | Arco Canónico Propio de la Mesa: Inversiones Estelares S.C. | **Volumen 9** | Ahora que saben quién está detrás de las empresa que los contrata, como seguirán sus caminos. Y... |
+| **114** | Episodio 114 - Lo que Oculta la Orcriada | Wed, 03 Aug 2022 | Arco Canónico Propio de la Mesa: La Casa Istrav en Apostae | **Volumen 9** | Han encontrado un contacto dispuesto a ayudarles. Pero, ¿A qué costo?, y más aún, ¿Qué peligros... |
+| **115** | Episodio 115 - El Nido de la Araña | Wed, 10 Aug 2022 | Arco Canónico Propio de la Mesa: La Casa Istrav en Apostae | **Volumen 9** | Tras las puertas de la organización Istrav se ocultan oscuros secretos, que ellos bajo el disfr... |
+| **116** | Episodio 116 - Servidumbre con Pesadumbre | Wed, 17 Aug 2022 | Arco Canónico Propio de la Mesa: La Casa Istrav en Apostae | **Volumen 9** | Servir a las señoras drow resulta una labor mucho más arriesgada de lo esperado. Inmersos e inv... |
+| **117** | Episodio 117 - Babitas pa' que las Quiero | Wed, 24 Aug 2022 | Arco Canónico Propio de la Mesa: La Casa Istrav en Apostae | **Volumen 9** | Benray se encuentra en un problema del cual no será fácil de salir. Solo, sin armas en una alca... |
+| **118** | Episodio 118 - Naves de Sangre | Wed, 31 Aug 2022 | Arco Canónico Propio de la Mesa: La Casa Istrav en Apostae | **Volumen 9** | Se adentran al corazón de información de la familia Istrav. Donde el pasado de Triel y su impro... |
+| **119** | Episodio 119 - Amor Fraternal | Wed, 07 Sep 2022 | Arco Canónico Propio de la Mesa: La Casa Istrav en Apostae | **Volumen 9** | Jhidel los enfrenta directamente. Y las hermnas Istrav, parece que resolveran sus conflictos co... |
+| **120** | Episodio 120 - Todo Sobre Mi Madre | Wed, 14 Sep 2022 | Arco Canónico Propio de la Mesa: La Casa Istrav en Apostae | **Volumen 9** | El combate contra Jhidel ha pasado a ser una lucha de sobrevivencia contra un enemigo mucho muy... |
+| **121** | Episodio 121 - Siempre nos quedará Thanox | Wed, 06 Sep 2023 | Arco Canónico Propio de la Mesa: Epílogo de Apostae y Reanudación | **Volumen 9** | Regresamos a Lasers y Dragones con nuestro grupo de aventureros espaciales que tal vez tenga un... |
+| **122** | Episodio 122 -  El verdadero valor de A.xel | Wed, 13 Sep 2023 | Arco Canónico Propio de la Mesa: Epílogo de Apostae y Reanudación | **Volumen 9** | Habiendo salvado la vida más por suerte que otra cosa. El grupo sale con el rabo entre las pier... |
+| **123** | Episodio 123 -  Ahora ves, ahora Na-ves | Wed, 20 Sep 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | El mayor horror no de los personajes sino de los jugadores, el combate entre naves. Pero esta v... |
+| **124** | Episodio 124 -  El Casino al fin del Universo | Wed, 27 Sep 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | Se acercan al asteroide-casino en el borde de la galaxia, ¿Es este el ultimo refugio de civiliz... |
+| **125** | Episodio 125 -  Juegos de Azar y Robotzuelas | Wed, 04 Oct 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | El casino invita a entregarse a sus alocados deseos de riqueza, desenfreno y ¿moda? En esta roc... |
+| **126** | Episodio 126 - La Forma del Corazón | Wed, 11 Oct 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | ¿Qué es la verdadera naturaleza del casino? ¿Qué puede una entidad como est,a cuanto tiene a Tr... |
+| **127** | Episodio 127 - Abadarme un Fiestón | Wed, 18 Oct 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | Es momento de adentrarse en el asteroide para resolver sus sus misterios, pero más aún sus prob... |
+| **128** | Episodio 128 - Cerrando Ciclos | Wed, 25 Oct 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | Conseguir patrocinio para carreras siempre es difícil. Y cuando no hay empresas de refrescos, a... |
+| **129** | Episodio 129 - Enchúlame la Máquina | Wed, 01 Nov 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | La competencia vehicular es un negoció de vida o muerte. Y tener la información correcta, las m... |
+| **130** | Episodio 130 - El Rally de la Muerte ¡Inicia! | Wed, 08 Nov 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | ¿Encontrarán sus marcas? ¿Estarán listos? ¿Que es afuera? El rally de la muerte comienza. ¿Sabr... |
+| **131** | Episodio 131 - El Rally de la Muerte ¡Continúa! | Wed, 15 Nov 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | La carrera sigue su curso. Los enfrentamientos se hacen cada vez más intensos y mortales. ¿Cont... |
+| **132** | Episodio 132 - El Rally de la Muerte ¡Última vuelta! | Wed, 22 Nov 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | Algunos de los favoritos han caído, pero no están en las mejores condiciones, y son ahora el ob... |
+| **133** | Episodio 133 - Tome el Trofeo | Wed, 29 Nov 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | Es momento de celebración ha llegado. Y más importante aún, el momento de obtener los premios. ... |
+| **134** | Episodio 134 - Lao Shu Po en el Callejón | Wed, 06 Dec 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | ¿Quien diria que seria la mas tierna la traidora? En realidad es la mas apropiada para ser la t... |
+| **135** | Episodio 135 - Lo Dejaría Todo por que te Quedaras | Wed, 13 Dec 2023 | Transición hacia Libro 4 / Aventura en el Casino | **Volumen 10** | Anita se escapa, y ahora en medio del estupor de Marloc y la confusión de su magia parece que s... |
+| **136** | Episodio 136 - Zivokvieramos a Vernos | Wed, 20 Dec 2023 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | Un golpe para todo el equipo. Fue acaso traición o simplemente lo que tenía que hacer. Y ahora ... |
+| **137** | Episodio 137 - Ecos del más allá | Wed, 24 Jan 2024 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | El viaje por el espacio es largo y oscuro. Y a medida que el tiempo pasa y su destino se vuelve... |
+| **138** | Episodio 138 - Trieliciosísimo | Wed, 31 Jan 2024 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | Una oscura bestia los recibe sobre el casco de La Galway. Aún no ponen un pie en la misteriosa ... |
+| **139** | Episodio 139 - El Corazón de la Oscuridad | Wed, 07 Feb 2024 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | En la oscuridad del espacio hay un punto aún más oscuro que el vacío. Una nave,de kilómetros de... |
+| **140** | Episodio 140 - Ratones en Conflicto | Wed, 14 Feb 2024 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | Los Galway parece que no tienen otras maneras de solucionar sus conflictos. Ahora, Rinrey, loco... |
+| **141** | Episodio 141 - Un Tranvía Llamado Parálisis | Wed, 21 Feb 2024 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | Pudiendo irse, decidieron seguir adelante movidos por su sentido del honor, del deber, curiosid... |
+| **142** | Episodio 142 - Parque Holográfico | Wed, 28 Feb 2024 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | Los aventureros se exponen a los soles sin bloqueador y ahora tendran que sufrir las consecuenc... |
+| **143** | Episodio 143 - El Laberinto del Minotauro | Wed, 06 Mar 2024 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | El pobre Benrey está ahora bajo tierra. Aún no está muerto, pero sí enterrado, aunque puede que... |
+| **144** | Episodio 144 - En memoria de Steve 34 | Wed, 13 Mar 2024 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | Tuvieron suerte con el primero, pero los entes que quedan son agentes de destrucción de la flot... |
+| **145** | Episodio 145 - No Pegue Hueco | Wed, 20 Mar 2024 | Arco Canónico Propio: Familia Galway y Nave La Galway | **Volumen 11** | Finalmente los espectros han sido vencidos aunque no sin dejar una última ola de veneno alucinó... |
+| **146** | Episodio 146 - Directo al Corazóooon | Wed, 27 Mar 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Más eventos sobre naturales acosan al equipo. Pero ahora armados con más conocimiento sobre la ... |
+| **147** | Episodio 147 - Corazón Espinado | Wed, 03 Apr 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | La oscura revelación apunta a un misterio más y más extraño y oscuro. ¿Cuál fué el destino fina... |
+| **148** | Episodio 148 - Mithra-es Confundido | Wed, 10 Apr 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Los Lovelorn los atacan y los tiene rodeados. Sus estrategias los han sacado de foco, y Benrey ... |
+| **149** | Episodio 149 - Leyendas de la Nave Escondida | Wed, 17 Apr 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Entre más tiempo pierden enfrentando los horrores que la nave les lanza, menos tiempo tienen lo... |
+| **150** | Episodio 150 - Hallmark y Valentina | Wed, 24 Apr 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Separados, perdidos y con la vida de Yolmar y Valentina en sus manos. Los menos esperados comba... |
+| **151** | Episodio 151 - Tres abajo, dos arriba | Wed, 01 May 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | La pelea parece estar en un punto desesperado, Axel y Yolmar están al filo de sus vidas, pero e... |
+| **152** | Episodio 152 - Mimir o Morir | Tue, 07 May 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Mermados y enfrentando que algunos de sus esfuerzos fueron en vano. Deben prepararse para llega... |
+| **153** | Episodio 153 - Muñeca Brava | Wed, 15 May 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Una criatura, un caparazón vacío, un horrible reflejo o tal vez un inevitable futuro. Lo que en... |
+| **154** | Episodio 154 - Axel Vs Axel | Wed, 22 May 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Es un sangriento enfrentamiento, rodeados de los engendros de Axel, se dan tantos golpes como s... |
+| **155** | Episodio 155 - Taquicardia | Wed, 29 May 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Con el corazón en la mano, el implacable ataque de la criatura que tal vez fue una Axel se ha p... |
+| **156** | Episodio 156 - Camino de la Perdición | Wed, 05 Jun 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Sin energía, física o eléctrica el camino de regreso es largo y oscuro, encerrados en un laberi... |
+| **157** | Episodio 157 - Entre Aquí y Allá | Wed, 12 Jun 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | La misteriosa puerta del cuarto de comando es la única parada que queda. ¿Qué es lo que yace do... |
+| **158** | Episodio 158 - Fantasma del espacio | Wed, 19 Jun 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | ¿Un espectro? ¿La vision de una vida que puso ser? ¿O tal vez un extraño nudo en el tiempo y el... |
+| **159** | Episodio 159 - Benrey vs Benrey | Wed, 26 Jun 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | La conección entre este mundo y otro pende de una nave. Y las misticas fuerzas que mantienen al... |
+| **160** | Episodio 160 - Anatomía según Triel | Wed, 03 Jul 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Casi todos están fuera de peligro, pero la vida de Gazit pende de un hilo si acaso. Y algunos o... |
+| **161** | Episodio 161 - Teorías Supositorias | Wed, 10 Jul 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | La indiscreción de Axel pone en peligro la misión y saca a la luz oscuras partes del pasado de ... |
+| **162** | Episodio 162 - 8 Son Suficientes | Wed, 17 Jul 2024 | Arco Canónico Propio: La Galway, Gazit y Rumbo a Nejeor | **Volumen 11** | Las semanas en el espacio, encerrados en unos metros cuadrados puede ser mucho para la tripulac... |
+| **163** | Episodio 163 - Si te he Fallado te Pido Perdón | Wed, 24 Jul 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Marloc enfrenta los retorcidos eventos que sus compañeros enfrentaron sin él y cómo estos event... |
+| **164** | Episodio 164 - Camino al Estrellato | Wed, 31 Jul 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Los planes para llegar al tormentoso planeta se ponen en marcha. Todos los sistemas deben estar... |
+| **165** | Episodio 165 - Encuentro de Culturas | Wed, 07 Aug 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Después de un menos que elegante aterrizaje, Triel queda colgando, a un movimiento de caer haci... |
+| **166** | Episodio 166 - Encuentro Cercano del Tercer Tipo | Wed, 14 Aug 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Una vez resulto el asunto de relaciones culturales y ahora parte de la rica cultura de los habi... |
+| **167** | Episodio 167 - Caso Cerrado | Wed, 21 Aug 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | La lider del pequeño pueblo de Kish los recibe en sus sagrados aposentos. ¿Qué misterios profun... |
+| **168** | Episodio 168 - Pánico Satánico | Wed, 28 Aug 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | El viaje por las ruinas de Ishtamak es un camino lleno de secretos. Entre sus gigantescos edifi... |
+| **169** | Episodio 169 - Que Culebrón | Wed, 04 Sep 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Los aventureros llegan a su destino. El museo de Ishtamak puede que tenga muchas de las respues... |
+| **170** | Episodio 170 - ¿Kish'ta pasando? | Wed, 11 Sep 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | El museo de Ishtamak ya ah sacado los colmillos una vez. Pero ahora ellos se adentran a sus mis... |
+| **171** | Episodio 171 - Una Noche en el Museo | Wed, 18 Sep 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | En medio del museo de Ishtamak poco a poco sus secretos pintan un conflicto que se extiende mas... |
+| **172** | Episodio 172 - Acupuntura de Combate | Wed, 25 Sep 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Otra entrada diplomatica con los nativos de Ishtamak. El centro médico parece un lugar de medit... |
+| **173** | Episodio 173 - El Hospitalcito de los Horrores | Wed, 02 Oct 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Zivoc enfrenta una centena de agujas en el rostro mientras oscuras y retorcidas figuras se muev... |
+| **174** | Episodio 174 - La Máquina del Misterio | Wed, 09 Oct 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Explorando las ruinas de la clínica los aventureros aún no encuentran la información que buscan... |
+| **175** | Episodio 175 - Sagrada Selección Natural | Wed, 16 Oct 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Que extrañas consecuencias habrá tenido el pasaje de Zivok por la antigua máquina de curación. ... |
+| **176** | Episodio 176 - El Episodio de Axel | Wed, 23 Oct 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | El círculo de familia, amigos, pasado y previas encarnaciones de Axel-42 es una retorcida marañ... |
+| **177** | Episodio 177 - El Random Encounter | Wed, 30 Oct 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Entre brincos y saltos de dirigen hacia Tecnologías de Seguridad buscando la clave para poder e... |
+| **178** | Episodio 178 - Micótico Furincular | Wed, 06 Nov 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Cosas, tal vez pokemonsosas ah salido del pasto. En medio de una isla voladora en medio de una ... |
+| **179** | Episodio 179 - Teamwork is Dreamwork | Wed, 13 Nov 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Todo el complejo está tomado por una forma de hongo que parece sostenerla de pie a pesar de los... |
+| **180** | Episodio 180 - La Princesa no Está en este Castillo | Wed, 20 Nov 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | El edificio entero se pone en contra de los aventureros y el micótico ataque los tomó de imprev... |
+| **181** | Episodio 181 - ¡Azucá! | Wed, 27 Nov 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Todo se derrumba alrededor de los aventureros. Y a como los restos del antiguo centro de seguri... |
+| **182** | Episodio 182 - El Discurso del (Ben)rey | Wed, 04 Dec 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | A veces el mayor reto no es enfrentar la muerte, la enfermedad o lo desconocido. Sino enfrentar... |
+| **183** | Episodio 183 - Les Misérables | Wed, 11 Dec 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | La misma isla flotante de Ishtamak tiembla a medida que los aventureros se acercan a la forja. ... |
+| **184** | Episodio 184 - ¡¡Está cañón!! | Wed, 18 Dec 2024 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Parece que la forja no esta sin protecciones. Los aventureros se encuentran en un delgado corre... |
+| **185** | Episodio 185 - El Elemento Sorpresa | Wed, 08 Jan 2025 | Dead Suns Libro 4: The Ruined Clouds (Las Nubes Arruinadas) | **Volumen 12** | Después de enfrentar una de las criaturas que se alimenta de los despojos de toda una civilizac... |
+| **186** | Episodio 186 - Ridículo en el Cubículo | Wed, 15 Jan 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Después de un inesperado encuentro con fuerzas mas allá de esta dimensión, deben seguir adentra... |
+| **187** | Episodio 187 - La Señora de los Aliolis | Wed, 22 Jan 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Triel esta en el borde fatal mordisco que los dejaría en aún mas en desventaja contra una terri... |
+| **188** | Episodio 188 - Xavrá Dios | Wed, 29 Jan 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Finalmente, el mas temible de los guerreros de la facción tradicionalista Kish los enfrente en ... |
+| **189** | Episodio 189 - Dios Xavrá | Wed, 05 Feb 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Xavra despliega todo su poder. La esencia del fuego y la gravedad cae sobre ellos y el camino d... |
+| **190** | Episodio 190 - La Telaraña de Charlotte | Wed, 12 Feb 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | El grupo ah fallado, pero la mismo tiempo ah logrado lo que no pensaron que podría pasar. Ahora... |
+| **191** | Episodio 191 - Escape de Nejeor | Wed, 19 Feb 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Las reparaciones de la Estrella Errante deben hacerse lo antes posible. Pero en el proceso nues... |
+| **192** | Episodio 192 - Yo Soy tu Amigobling Fiel | Wed, 26 Feb 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | De vuelta la asteroide Kairos, extraños visitantes han convertido el asteroide en un peligroso ... |
+| **193** | Episodio 193 - Abuelita Dime Tú | Wed, 05 Mar 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | La tiena abuelita de Triel ah llegado en su armadura de combate. ¿Vino a salvarla o a tener el ... |
+| **194** | Episodio 194 - Se Me Subió el Muerto | Wed, 12 Mar 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Dos misteriosos visitantes llegan a la puerta de Marloc, ¿Que podrían estos no muertos con el l... |
+| **195** | Episodio 195 - Todos Somos Keiden Ashton | Wed, 19 Mar 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Nadie esperaba otra cosa que fuera una gresca en una bar, cuando se trata de piratas y Triel. ¿... |
+| **196** | Episodio 196 - Dos hombres, un Camino | Wed, 26 Mar 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Triel finalmente se ve con un viejo "amigo", y aunque poco tiempo ah pasado mucho ah ocurrido. ... |
+| **197** | Episodio 197 - Mama Mia | Wed, 02 Apr 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Finalmente el misterioso planeta de agua esta frente a ellos. Años de secretos, convulsas relac... |
+| **198** | Episodio 198 - El Episodio de la Playa | Wed, 09 Apr 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | El secreto de Axel-42 y sus anteriores encarnaciones se encuentra ahora a la luz. En medio de u... |
+| **199** | Episodio 199 - Láser y Dragon | Wed, 16 Apr 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Benrey y Shirka deben enfrentar su pasado juntos y con ello la furia de la Legión del Fuego en ... |
+| **200** | Episodio 200 - De un Monstruo a Otro | Wed, 23 Apr 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | La vitoria los llena de orgullo y cierra un capítulo para el Capitan Benrey. Pero ahora deben r... |
+| **201** | Episodio 201 - El As Bajo la Manga | Wed, 30 Apr 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Triel se enfrenta a una pregunta que la ha acosado toda su vida. Y debe responder ante un ente ... |
+| **202** | Episodio 202 - Un ¿Viernes? de Locos | Wed, 07 May 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | La nave de Besmara se encuentra en el centro del remolino del caos. Y tal como se esperaba todo... |
+| **203** | Episodio 203 - Se Viene el Culebrón | Wed, 14 May 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | La nave de Besmara cambia y gira alrededor de ellos. Altera sus cuerpos, sus mentes, deseos y e... |
+| **204** | Episodio 204 - La Sombra del Cuervo | Wed, 21 May 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Las criaturas han caído, y personas parecen estar dentro de ellas. ¿Quienes son? y ¿De qué form... |
+| **205** | Episodio 205 - Esto me Parece Familiar | Wed, 28 May 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | La amenaza de Jhidel hace que la sangre de Triel hierva. Especialmente ahora que está tan cerca... |
+| **206** | Episodio 206 - King Golarian vs Los Atómicos | Wed, 04 Jun 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Perdídos en carceles de sus propias mentes el grupo trata de encontrar el camino de regreso a l... |
+| **207** | Episodio 207 - Splinter Axcell | Wed, 11 Jun 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | En giros inesperados atravéz de recovecos de la nave de Besmara dejan a los aventureros sobre s... |
+| **208** | Episodio 208 - El Podel Jhidel | Wed, 18 Jun 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Triel y sus compañeros vuelven a enfrentarse a su hermana. La última vez tuvo resultados catast... |
+| **209** | Episodio 209 - Triel vs Jhidel (la Revancha) | Wed, 25 Jun 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | Las capas del combate van cayendo poco a poco. Y ahora deben enfrentarse directamente a la espa... |
+| **210** | Episodio 210 - A Mi Hermana con Cariño | Wed, 02 Jul 2025 | Arco Canónico Propio: Retorno a Apostae / Conspiración Drow | **Volumen 13** | El combate ha terminado, pero ahora Triel tiene en sus manos a su hermana mayor, una mujer que ... |
+| **211** | Episodio 211 - Elemental Mi Querido Marloc | Wed, 09 Jul 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | La maleable naturaleza de la nave de Besmara los coloca en un peligroso acto donde deben manten... |
+| **212** | Episodio 212 - Llamada Mortal | Wed, 16 Jul 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | Dejos del pasado regresan cuando Marloc y Triel se separan del grupo. Ahora solos en una extrañ... |
+| **213** | Episodio 213 - ¡Caracoles amigos! | Wed, 23 Jul 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | Aún piezas de la investigación están en el aire, no solo entender un viejo misterio, sino una a... |
+| **214** | Episodio 214 - Los Psicoplásticos son Inevitables | Wed, 30 Jul 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | Más allá del nodo del casino se encuentra el objetivo de Triel, su padre, la nave misma. Pero o... |
+| **215** | Episodio 215 - Nadie Espera la Inevitable Inquisición | Wed, 06 Aug 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | Una entidad de ley los enfrenta llamada por la venganza de una madre. Y a su vez viejos amigos ... |
+| **216** | Episodio 216 - Marloc - El Juicio Final | Wed, 13 Aug 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | El Inevitable extiende su juicio sobre todos ellos. Mientras viejos aliados y una mujer revivid... |
+| **217** | Episodio 217 - Triel, Eres un Caos | Wed, 20 Aug 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | Triel está frente a la visión de su padre una figura cambiante y lejana. Y hordas de enemigos c... |
+| **218** | Episodio 218 - Los Atómicos y el Multiverso de la Locura | Wed, 27 Aug 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | Enfrentar a Triel alterada reto sus capacidades estratégicas. Pero ahora deben enfrentar la ira... |
+| **219** | Episodio 219 - Keiden Ashton | Wed, 03 Sep 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | El momento que Triel ha esperado toda su vida está frente a ella. Pero la nave ha retorcido al ... |
+| **220** | Episodio 220 - El Corazón del Padre | Wed, 10 Sep 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | Han vencido, pero la vida de Keiden Ashton se desvanece con cada minuto. Despues de intentarlo ... |
+| **221** | Episodio 221 - Piratas a la Plancha | Wed, 17 Sep 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | La verdad sobre la posible traición de Alera está por aclararse. Y finalmente Triel podrá pasar... |
+| **222** | Episodio 222 - Tintineo Intenso | Wed, 24 Sep 2025 | Arco Canónico Propio: El Rescate de Keiden Ashton | **Volumen 13** | Finalmente dejan atrás al padre de Triel y su misteriosa nave, y da inicio a la confrontación c... |
+| **223** | Episodio 223 - El Tintineo se Intensifica | Wed, 22 Oct 2025 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | Un intruso en la nave, un maniático asesino, un degenerado que por años aterrorizó la infoesfer... |
+| **224** | Episodio 224 - En el Espacio Nadie Te Puede Oír Tintinear | Wed, 29 Oct 2025 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | El enfrentamiento en los estrechos corredores de la Estrella Errante hace que cada movimiento s... |
+| **225** | Episodio 225 - Ponce de Ratón | Wed, 05 Nov 2025 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | Nadie escuchó su último tintineo, pero la terrible nave de Hombre Tintineante está ahora abiert... |
+| **226** | Episodio 226 - De Boca en Boca | Wed, 12 Nov 2025 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | Una bestia enfurecida se avalanza sobre ellos. A su paso el bosque se desploma y la tierra tiem... |
+| **227** | Episodio 227 - Mi Pobre Angelito | Wed, 19 Nov 2025 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | A sus pies yace la gigantesca criatura que acaban de eliminar y están aún cubiertos de grasa y ... |
+| **228** | Episodio 228 - Maldita Axel | Tue, 25 Nov 2025 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | Axel-42 ha caído maldita por el ángel del Devorador. Sus posibilidades están totalmente en su c... |
+| **229** | Episodio 229 - Granada que Ver | Wed, 03 Dec 2025 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | Una estratégica retirada lanza a los retorcidos y crueles cultistas sobre la posición de los av... |
+| **230** | Episodio 230 - ¿Quién es Ustheth? | Wed, 10 Dec 2025 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | Después de un encarnizado enfrentamiento, ahora deben enfrentar a la criatura que pretendían sa... |
+| **231** | Episodio 231 - Syfus? Cyrus? Sisyrus? Sisyfo? | Wed, 17 Dec 2025 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | Perturbantes revelaciones en el centro de computadoras del antiguo centro de comando. Ahora sol... |
+| **232** | Episodio 232 - ¿Es este el fin de Axel 42? | Wed, 07 Jan 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | Cada batalla continua sin parar, la caída de Sangre Fría deja aún 3 habitaciones en el complejo... |
+| **233** | Episodio 233 - Chicas Pesadas | Wed, 14 Jan 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 1) | **Volumen 14** | Una de las hijas de anteriores Axel esta aparapetada en una pequeña habitación detras de un peq... |
+| **234** | Episodio 234 - Mi Nombre es Jennifer | Wed, 21 Jan 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | Solo queda una habitación, el I.A. corrupto se encuentra ahi rodeado con algunos de los mas fie... |
+| **235** | Episodio 235 - No sé lo que Hicimos el Año Pasado | Wed, 28 Jan 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | Miseria la mas fiel de la antigua guardia del culto los enfrenta, entre sollozos y terribles po... |
+| **236** | Episodio 236 - Tiempo de no Velchte | Wed, 04 Feb 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | Finalmente fue sacada de su miseria, y ahora el corrupto IA se aferra al centro de comando. Sin... |
+| **237** | Episodio 237 -  Tal vez Syd Tal Vez No | Wed, 11 Feb 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | El contacto con Sid, explica muchas cosas pero también los deja con grandes preocupaciones. ¿Si... |
+| **238** | Episodio 238 -  No me Digas las Probabilidades | Wed, 18 Feb 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | La llegada a la Puerta 2 marca el inicio del encuentro final contra las fuerzas del Devorador. ... |
+| **239** | Episodio 239 - Emboscada Inesperada | Wed, 25 Feb 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | Una lluvia de lazer, temibles enemigos listos para enfrentarlos, es lo que los recibe en la pue... |
+| **240** | Episodio 240 - Ley 7600 | Wed, 04 Mar 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | La emboscada se recrudece y cada momento que no logran acabar el combate es la oportunidad de q... |
+| **241** | Episodio 241 - El Día que Marloc Arruinó el Combate | Wed, 11 Mar 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | Drech el general de combate del culto ah venido a ver que es todo el ruido que estos entrometid... |
+| **242** | Episodio 242 - Maroon 1 | Wed, 18 Mar 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | La caida del general gracias a la desafortunada intervención de un tecnomancer los ah dejado li... |
+| **243** | Episodio 243 - Terror en el Toilette | Wed, 25 Mar 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | Inesperadamente, algo más que el culto los espera en este abandonado lugar, y más aún los sorpr... |
+| **244** | Episodio 244 - Nunca Te Dije Que Te Quería | Wed, 01 Apr 2026 | Dead Suns Libro 5: The Thirteenth Gate (Parte 2) | **Volumen 14** | Encerrados en un antiguo laboratorio dos bestias milenarias son liberadas, sin salida y con sol... |
+| **245** | Episodio 245 - Escaneando Ando | Wed, 08 Apr 2026 | Dead Suns Libro 5: The Thirteenth Gate (Clímax) | **Volumen 14** | El antiguo centro de control aún guarda sus secretos, y muchas de sus habitaciones son un miste... |
+| **246** | Episodio 246 - Null-9 | Wed, 15 Apr 2026 | Dead Suns Libro 5: The Thirteenth Gate (Clímax) | **Volumen 14** | Después meses de perseguir a Null-9 y su culto de destrucción atravez de la mitad de la galaxia... |
+| **247** | Episodio 247 - ¿I.A.hora qué Hacemos? | Wed, 22 Apr 2026 | Dead Suns Libro 5: The Thirteenth Gate (Clímax) | **Volumen 14** | Eltreth ah regresado con venganza, el antiguo investigador Kishlae, convertido en Inteligencia ... |
+| **248** | Episodio 248 - La Gran Loco-motora que No Pudo | Wed, 29 Apr 2026 | Dead Suns Libro 5: The Thirteenth Gate (Clímax) | **Volumen 14** | El espíritu del Devorador que aún queda en la puerta de los doce soles les enfrenta con toda la... |
+| **249** | Episodio 249 - La Treceava Puerta | Wed, 06 May 2026 | Dead Suns Libro 5: The Thirteenth Gate (Clímax) | **Volumen 14** | Ya nada se encuentra en sus caminos para abrir el portal que los llevará al misterioso artefact... |
+| **250** | Episodio 250 - Supercolossal Ultra Dreadnought | Wed, 13 May 2026 | Dead Suns Libro 6: Empire of Bones (Parte 1) | **Volumen 15 (En Curso)** | Siempre los estuvieron vigilando, y finalmente se revelan cuando el premio se revela. Ahora tod... |
+| **251** | Episodio 251 - Clásico Movimiento de Tijeras | Wed, 20 May 2026 | Dead Suns Libro 6: Empire of Bones (Parte 1) | **Volumen 15 (En Curso)** | Ante una guerra imposible, es mejor hacer el primer movimiento. La emboscada contra los marines... |
+| **252** | Episodio 252 - Los Esqueletos Mueren de Pie | Wed, 27 May 2026 | Dead Suns Libro 6: Empire of Bones (Parte 1) | **Volumen 15 (En Curso)** | El enfrentamiento en la jungla continua y las fuerzas de la flota deben mantener su posición a ... |
+| **253** | Episodio 253 - Cambio y Muerte | Wed, 03 Jun 2026 | Dead Suns Libro 6: Empire of Bones (Parte 1) | **Volumen 15 (En Curso)** | Enfrentado a una difícil decisión, el capitán Benrey medita sobre su pasado, mientras las fuerz... |
+| **254** | Episodio 254 - Atómicos Assemble | Wed, 10 Jun 2026 | Dead Suns Libro 6: Empire of Bones (Parte 1) | **Volumen 15 (En Curso)** | Las cartas están sobre la mesa, los aliados ponen todo lo que tienen en una jugada desesperada ... |
+| **255** | Episodio 255 - Pero… ¿¡Y el brazo!? | Wed, 17 Jun 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | Atrapados en el hangar del Imperio de los Huesos, los intrépidos aventureros deben usar todos e... |
+| **256** | Episodio 256 - Roombea conmigo | Wed, 24 Jun 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | Ojos observan por todas partes, y aunque la nave parece solitaria, miles de muertos se encuentr... |
+| **257** | Episodio 257 - Corto Circuito | Wed, 01 Jul 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | Los muertos vivientes dan su particular giro macabro a toda su tecnología, incluyendo sus robot... |
+| **258** | Episodio 258 - ¿Marooned 5? | Wed, 08 Jul 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | En cada rincón de la nave de los muertos los enfrenta la muerte. Al entrar al calabozo de la na... |
+| **259** | Episodio 259 - Pegarle a Tololo | Wed, 15 Jul 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | La emboscada de los muertos los pone en una difícil situación en la que cada ataque fallido y c... |
+| **260** | Episodio 260 - Mensajus Ocultus | Wed, 22 Jul 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | Un misterioso escondite en la nave, parece ser una oportunidad de ganar una muy necesaria venta... |
+| **261** | Episodio 261 - Hay una Muerta en Mi Bota | Wed, 29 Jul 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | Fuego y extraños filamentos explotan alrededor de ellos, a como lo que creían que era una sigil... |
+| **262** | Episodio 262 - Disculpe Que No Me Levante | Wed, 05 Aug 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | La lucha contra Malakar no termina y la pistolera muerta aún tiene una bala bajo la manga. Pero... |
+| **263** | Episodio 263 - Mitad Undead, 100% Espía. | Wed, 12 Aug 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | Cuartos sin tocar en el área de hangares ocultan oscuros secretos y elementos necesarios para p... |
+| **264** | Episodio 264 - Paralizada, ciega, sordomuda. | Wed, 19 Aug 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | Son emboscados, de nuevo, en la estación de trenes dentro de la oscura nave de los cuerpos. Es ... |
+| **265** | Episodio 265 - Tengo un Baykok en el Pantalón | Wed, 26 Aug 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | En la mira de los temibles baykok, uno de ellos está apunto de saber si tiene la resistencia pa... |
+| **266** | Episodio 266 - Bye-Bay Kok | Mon, 31 Aug 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | El combate se vuelve contra ellos, los muertos son combatientes duros, y cada encuentro los dre... |
+| **267** | Episodio 267 - Tren de la Muerte | Wed, 09 Sep 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | Cuando piensan que se han escapado, sus enemigos no dejan de seguirlos. Ahora, tren contra tren... |
+| **268** | Episodio 268 - Se Descarriló Esta Vara | Wed, 16 Sep 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | El tren sigue su camino y los muertos no se detienen. Envueltos en una ola de fuego y metal der... |
+| **269** | Episodio 269 - La Puerta | Wed, 23 Sep 2026 | Dead Suns Libro 6: Empire of Bones (Parte 2: Infiltración) | **Volumen 15 (En Curso)** | Los motores, un lugar que han visto antes, hace un par de meses; hace un universo atrás. ¿Que l... |
+| **270** | Episodio 270 - M.Sc. Marloc o cómo dejé de preocuparme y aprendí a amar la bebida | Wed, 30 Sep 2026 | Dead Suns Libro 6: Empire of Bones (Parte 3: Núcleo y Sangromancia) | **Volumen 15 (En Curso)** | Sangrientas entidades aparecen en los sueños del Máster Marloc. Estas traen acaso ¿Dominación? ... |
+| **271** | Episodio 271 - Tentaculeado | Wed, 07 Oct 2026 | Dead Suns Libro 6: Empire of Bones (Parte 3: Núcleo y Sangromancia) | **Volumen 15 (En Curso)** | La llamada de la sangre perturba al Marloc, y se enfrenta ante una encrucijada, entre el conoci... |
+| **272** | Episodio 272 - Sangromancia | Wed, 14 Oct 2026 | Dead Suns Libro 6: Empire of Bones (Parte 3: Núcleo y Sangromancia) | **Volumen 15 (En Curso)** | La tejedora de sangre, Anasi, extrae sangre y secretos. Mientras ellos tratan de evitar que sus... |
+| **Esp** | Spooky Octubre 2026 - Ep 1: La Guardia de Medianoche | Wed, 21 Oct 2026 | Especial de Terror Anual / Halloween 2026 | **Especial Halloween 2026** | Inicio de la campaña anual de horror 2026. Temporada en emisión activa. |
+
+---
+
+## 4. Recursos en el Repositorio
+
+1. **Metadatos Oficiales Consolidados:**  
+   [`metadatos/episodios_starfinder_73_272.json`](./metadatos/episodios_starfinder_73_272.json) (200 episodios continuos de Starfinder con enlaces de audio, YouTube y notas de mesa).
+2. **Catálogos por Lotes:**  
+   * [`metadatos/episodios_starfinder_73_122.json`](./metadatos/episodios_starfinder_73_122.json) (50 episodios)
+   * [`metadatos/episodios_starfinder_123_222.json`](./metadatos/episodios_starfinder_123_222.json) (100 episodios)
+   * [`metadatos/episodios_starfinder_223_272.json`](./metadatos/episodios_starfinder_223_272.json) (50 episodios)
+3. **Catálogo de Especiales y Spin-offs:**  
+   [`metadatos/especiales_y_spinoffs.json`](./metadatos/especiales_y_spinoffs.json) (*Hielo y Sangre*, *Mundo de Oscuridad*, *Spooky Octubre 2021, 2025 y 2026 en emisión*).
+4. **Transcripciones Limpias en Texto Corrido:**  
+   201 archivos en [`transcripciones/limpias/`](./transcripciones/limpias/) (**2.313.687 palabras** acumuladas).
+5. **Guía Maestra Global de la Saga:**  
+   [`PLAN_GLOBAL_SAGA_Y_ESPECIALES.md`](./PLAN_GLOBAL_SAGA_Y_ESPECIALES.md).
+

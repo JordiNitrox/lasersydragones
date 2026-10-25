@@ -697,7 +697,12 @@
         "edicion": "Spooky Octubre 2026 (La Guardia de Medianoche)",
         "episodios_podcast": "Episodio 1 en adelante",
         "sistema": "Aventura especial de terror anual",
-        "mesa": "Roberto (GM), Irene, Miguel, Juan Pablo, Sofía"
+        "mesa": "Roberto (GM), Irene, Miguel, Juan Pablo, Sofía",
+        "estado": "En emisión / No terminado",
+        "episodios_disponibles": [
+          "Episodio 1: La Guardia de Medianoche (21 Oct 2026)"
+        ],
+        "nota": "El podcast continúa emitiendo la temporada de Halloween."
       }
     ],
     "episodios": [

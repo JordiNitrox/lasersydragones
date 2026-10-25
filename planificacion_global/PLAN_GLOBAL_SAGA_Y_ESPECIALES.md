@@ -4,7 +4,8 @@
 > **Proyecto:** *Lasers y Dragones: La Novela*  
 > **Fuente de Audio:** Podcast Oficial de Rol en Vivo *Lasers y Dragones* (Feed RSS de Libsyn y Canal Oficial de YouTube)  
 > **Campaña Troncal:** *Starfinder: Dead Suns Adventure Path* (Paizo Publishing, Libros 1 al 6) enriquecida con arcos canónicos de la mesa de juego.  
-> **Material Descargado y Limpio:** 150 episodios continuos (Ep 73 al 222) en texto limpio (**1.686.839 palabras** acumuladas) listos en [`planificacion_global/transcripciones/limpias/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/transcripciones/limpias/).
+> **Material Descargado y Limpio:** 201 transcripciones limpias (200 episodios de Starfinder: Ep 73 al 272 + Spooky Octubre 2026 Ep 1) sumando **2.313.687 palabras** listos en [`planificacion_global/transcripciones/limpias/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/transcripciones/limpias/).  
+> **Estado de la Historia y Emisión:** La campaña troncal de Starfinder **no está aún terminada** (la mesa se encuentra combatiendo en el corazón del acorazado *Imperio de los Huesos* en los episodios 270–272+), y la entrega de Halloween **Spooky Octubre 2026** acaba de comenzar su emisión con el Episodio 1 (21 de octubre de 2026) y continúa en curso.
 
 ---
 
@@ -21,8 +22,8 @@
 | **Arco Canónico: Familia Galway & Zivok** | 136 – 162 | **Volumen 11** | La nave *La Galway*, clanes ysoki, ausencia Marloc | **Planificado y Transcrito** |
 | **Libro 4: The Ruined Clouds** | 163 – 185 | **Volumen 12** | Nejeor e Istamak (Kishalee, Templo y Museo) | **Planificado y Transcrito** |
 | **Arco Canónico: Rescate de Keiden Ashton** | 186 – 222 | **Volumen 13** | Apostae (Duelo final drow y rescate del padre) | **Planificado y Transcrito** |
-| **Libro 5: The Thirteenth Gate** | 223 – 250 | **Volumen 14** | La Puerta de los Doce Soles y Mega-Ingeniería | *Proyección futura* |
-| **Libro 6: Empire of Bones** | 251 – 272 | **Volumen 15** | El Degenerador Estelar y Clímax de Campaña | *Proyección futura* |
+| **Libro 5: The Thirteenth Gate** | 223 – 249 | **Volumen 14** | Doce Soles (Chasis de Axel, Null-9 y la Puerta) | **Planificado y Transcrito** |
+| **Libro 6: Empire of Bones** | 250 – 272+ | **Volumen 15 (Parte 1)** | Acorazado *Imperio de los Huesos*, Tren de la Muerte y Sangromancia | **En Curso (Mesa Activa)** |
 
 ---
 
@@ -64,13 +65,14 @@ Todos los episodios que no pertenecen a la campaña principal de *Starfinder* ha
 
 ---
 
-### 🕯️ ESPECIAL 5: *Spooky Octubre 2026: La Guardia de Medianoche* (Episodio 1+)
-* **Fecha de Emisión:** 21 de octubre de 2026 en adelante.
-* **Trama:** Nueva entrega anual de terror donde un oscuro grupo de criaturas debe cumplir una misión nocturna suicida para el Imperio.
+### 🕯️ ESPECIAL 5: *Spooky Octubre 2026: La Guardia de Medianoche* (Episodio 1 en adelante)
+* **Fecha de Emisión:** 21 de octubre de 2026 en adelante (**En emisión / Temporada de Halloween 2026 no finalizada**).
+* **Sistema de Juego:** Sistema de horror gótico nocturno.
+* **Trama:** Nueva entrega anual de terror donde los jugadores encarnan a los centinelas de la Guardia de Medianoche en una misión nocturna suicida y siniestra.
 
 ---
 
-## 3. Delimitación de los Volúmenes Principales (Volúmenes 7 al 13)
+## 3. Delimitación de los Volúmenes Principales (Volúmenes 7 al 15)
 
 ```mermaid
 graph TD
@@ -92,11 +94,17 @@ graph TD
         V13["Volumen 13: El Corazón del Padre (Ep 186-222)<br/><i>Asedio a Apostae y Rescate Final de Keiden Ashton</i>"]
         V11 --> V12 --> V13
     end
+
+    subgraph V14to15 ["BLOQUE IV: Los Doce Soles y el Imperio de los Huesos"]
+        V14["Volumen 14: La Decimotercera Puerta (Ep 223-249)<br/><i>Doce Soles, Chasis de Axel, Caída de Null-9 y la Puerta</i>"]
+        V15["Volumen 15: El Imperio de los Huesos (Ep 250-272+)<br/><i>Dreadnought No-Muerto, Tren de la Muerte, Malakar y Sangromancia (En Curso)</i>"]
+        V13 --> V14 --> V15
+    end
 ```
 
 ---
 
-### Detalle de los Nuevos Volúmenes Planificados (10 al 13)
+### Detalle de los Volúmenes Planificados (10 al 15)
 
 #### 🎲 VOLUMEN 10: *El Rally de la Muerte en el Asteroide-Casino* (Episodios 123 al 135)
 * **Episodios:** 123 al 135 (13 episodios / ~12 capítulos).
@@ -119,19 +127,30 @@ graph TD
 * **Mapeo:** *Arco Canónico Propio de la Mesa (Clímax de la Casa Istrav y Keiden Ashton)*.
 * **Sinopsis:** Triel descubre que su padre, el humano Keiden Ashton, no murió en el pasado: está prisionero en las mazmorras más profundas de la nobleza drow, torturado y agonizante. La tripulación ejecuta un asalto a gran escala contra los dominios de la Casa Istrav. Tras una guerra de guerrillas en la oscuridad subterránea, Triel derrota a la jerarquía matriarcal y rescata a su padre biológico en un clímax desgarrador que sella para siempre las heridas de su infancia.
 
+#### 🚪 VOLUMEN 14: *La Decimotercera Puerta* (Episodios 223 al 249)
+* **Episodios:** 223 al 249 (27 episodios / ~18 capítulos).
+* **Mapeo Oficial:** ***Starfinder: Dead Suns - Libro 5: The Thirteenth Gate***.
+* **Sinopsis:** Con las coordenadas estelares de Nejeor, los héroes viajan al remoto sistema de los Doce Soles. Mientras Axel-42 se enfrenta a las revelaciones sobre sus chasis previos y las memorias de sus almas sintéticas anteriores («Chicas Pesadas», «¿Es este el fin de Axel 42?»), el grupo explora la descomunal mega-estructura Kishalee, sorteando laboratorios abandonados y bestias milenarias. El arco culmina con el enfrentamiento a muerte contra la jerarca androide Null-9 y la hostil IA Eltreth, abriendo triunfalmente la Decimotercera Puerta interdimensional que conduce a la ubicación del Devastador Estelar.
+
+#### ☠️ VOLUMEN 15: *El Imperio de los Huesos (Parte 1 / En Curso)* (Episodios 250 al 272+)
+* **Episodios:** 250 al 272+ (23 episodios emitidos a la fecha / ~16 capítulos).
+* **Mapeo Oficial:** ***Starfinder: Dead Suns - Libro 6: Empire of Bones***.
+* **Estado de la Mesa:** **En curso / Campaña activa en mesa**. La historia de Dead Suns aún no ha terminado.
+* **Sinopsis:** La Flota de los Cuerpos de Eox hace su aparición masiva con su navío insignia: el colosal super-dreadnought *Imperio de los Huesos*, decidido a reclamar la superarma ancestral para aniquilar los Mundos del Pacto. Benray, Triel, Marloc y Axel organizan una desesperada maniobra de asalto («Atómicos Assemble») y penetran en el titánico acorazado no-muerto. Entre hangares embrujados, duelos contra la pistolera Malakar, una feroz persecución tren contra tren en las entrañas de la nave y francotiradores baykok, Marloc es asediado por visiones místicas de sangre y el grupo combate a la tejedora de sangre Anasi rumbo al puente de mando y al Almirante de la Flota.
+
 ---
 
 ## 4. Estructura de Metadatos y Recursos en el Proyecto
 
 Todos los recursos se encuentran organizados y vinculados en el repositorio dentro de [`planificacion_global/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/):
-1. **Plan Detallado de Episodios (Volúmenes 7 al 13):**
-   * [`PLAN_DETALLADO_VOLUMENES_7_A_13.md`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_DETALLADO_VOLUMENES_7_A_13.md) (tabla completa y detallada episodio por episodio de los 150 capítulos procesados).
+1. **Plan Detallado de Episodios (Volúmenes 7 al 15 y Especiales):**
+   * [`PLAN_DETALLADO_VOLUMENES_7_A_15.md`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_DETALLADO_VOLUMENES_7_A_15.md) (tabla completa y detallada de los 200 episodios de Starfinder y Especial 2026).
 2. **Metadatos de la Saga Troncal:**
-   * [`planificacion_global/metadatos/episodios_starfinder_73_222.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_73_222.json) (Catálogo maestro consolidado de 150 episodios).
+   * [`planificacion_global/metadatos/episodios_starfinder_73_272.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_73_272.json) (Catálogo maestro consolidado de 200 episodios).
    * [`planificacion_global/metadatos/episodios_starfinder_73_122.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_73_122.json) (50 episodios).
    * [`planificacion_global/metadatos/episodios_starfinder_123_222.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_123_222.json) (100 episodios).
+   * [`planificacion_global/metadatos/episodios_starfinder_223_272.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_223_272.json) (50 episodios).
 3. **Metadatos de Especiales y Spin-offs:**
-   * [`planificacion_global/metadatos/especiales_y_spinoffs.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/especiales_y_spinoffs.json) (HyS: 22 eps, MdO: 48 eps, Spooky Octubre 2021, 2025 y 2026).
+   * [`planificacion_global/metadatos/especiales_y_spinoffs.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/especiales_y_spinoffs.json) (HyS: 22 eps, MdO: 48 eps, Spooky Octubre 2021, 2025 y 2026 en emisión).
 4. **Transcripciones Limpias en Texto Corrido:**
-   * 150 archivos continuos en [`planificacion_global/transcripciones/limpias/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/transcripciones/limpias/) (**1.686.839 palabras**).
-
+   * 201 archivos en [`planificacion_global/transcripciones/limpias/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/transcripciones/limpias/) (**2.313.687 palabras**).
