@@ -1,199 +1,357 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<title>Lasers y Dragones · Volumen VII · Mundos Fragmentados I: El Rastro hacia Eox</title>
+<meta charset="utf-8">
+<title>Lasers y Dragones: Mundos Fragmentados I: El Rastro hacia Eox</title>
 <style>
   @page {
-    size: 152.4mm 228.6mm; /* 6x9 pulgadas */
-    margin-top: 20mm;
-    margin-bottom: 20mm;
-    margin-left: 20mm;
-    margin-right: 20mm;
-    @bottom-center {
-      content: counter(page);
-      font-family: 'Liberation Serif', Georgia, serif;
-      font-size: 9pt;
-      color: #4a5568;
-    }
-  }
-
-  body {
-    font-family: 'Liberation Serif', Georgia, serif;
-    font-size: 10.5pt;
-    line-height: 1.55;
-    color: #1a202c;
-    margin: 0;
-    padding: 0;
-    text-align: justify;
-    text-justify: inter-word;
-  }
-
-  /* Portada limpia sin H1/H2 para marcadores limpios */
-  .cover-page {
-    page-break-after: always;
-    text-align: center;
-    padding-top: 45mm;
-  }
-  .cover-series {
-    font-family: 'Liberation Sans', sans-serif;
-    font-size: 12pt;
-    letter-spacing: 4px;
-    text-transform: uppercase;
-    color: #718096;
-    margin-bottom: 8mm;
-  }
-  .cover-title {
-    font-family: 'Liberation Sans', sans-serif;
-    font-size: 24pt;
-    font-weight: 700;
-    line-height: 1.2;
-    color: #0f172a;
-    margin-bottom: 5mm;
-  }
-  .cover-sub {
-    font-family: 'Liberation Sans', sans-serif;
-    font-size: 14pt;
-    font-weight: 400;
-    color: #2b6cb0;
-    letter-spacing: 1.5px;
-    margin-bottom: 25mm;
-  }
-  .cover-footer {
-    font-family: 'Liberation Sans', sans-serif;
-    font-size: 9.5pt;
-    letter-spacing: 2.5px;
-    text-transform: uppercase;
-    color: #1a365d;
-    margin-top: 35mm;
-  }
-
-  /* Capítulos y títulos */
-  .chapter {
-    page-break-before: always;
-    padding-top: 15mm;
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
   }
   
-  h2.chapter-name {
-    font-family: 'Liberation Sans', sans-serif;
-    font-size: 16pt;
-    font-weight: 700;
+  body {
+    font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section-heading-main {
+    font-size: 22pt;
     text-align: center;
-    color: #0f172a;
-    margin-bottom: 8mm;
-    page-break-after: avoid;
+    color: #0b1a30;
+    margin-top: 0;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 10px;
+    page-break-before: always;
+    break-before: page;
   }
 
-  h3.subsection-title {
-    font-family: 'Liberation Sans', sans-serif;
-    font-size: 12pt;
-    font-weight: 600;
+  /* Índice de contenidos */
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 4px 0;
+  }
+  
+  .toc-table td {
+    padding: 2px 3px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 8.8pt;
+    line-height: 1.15;
+  }
+  
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+  }
+  
+  .toc-sub {
+    font-size: 7.8pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 1.1;
+  }
+  
+  /* Título de Capítulo con salto de página infalible en LibreOffice */
+  h2.chapter-name {
+    page-break-before: always;
+    break-before: page;
+    font-size: 22pt;
+    color: #0b1a30;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1.3;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+  }
+  
+  .chap-sub {
+    font-size: 18pt;
+    font-style: italic;
     color: #2b6cb0;
-    margin-top: 7mm;
-    margin-bottom: 4mm;
-    page-break-after: avoid;
+    font-weight: normal;
   }
-
+  
   h3.section-title {
-    font-family: 'Liberation Sans', sans-serif;
-    font-size: 13pt;
-    font-weight: 700;
-    color: #1a365d;
-    border-bottom: 1px solid #cbd5e1;
-    padding-bottom: 2mm;
-    margin-top: 8mm;
-    margin-bottom: 4mm;
-    page-break-after: avoid;
+    font-size: 14pt;
+    color: #2b6cb0;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    border-bottom: 1px dashed #e2e8f0;
+    padding-bottom: 4px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h3.subsection-title {
+    font-size: 12.5pt;
+    color: #2d3748;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Liberation Serif', serif;
   }
 
   h4.subsection-title {
-    font-family: 'Liberation Sans', sans-serif;
-    font-size: 10.5pt;
-    font-weight: 700;
-    color: #2d3748;
-    margin-top: 5mm;
-    margin-bottom: 2mm;
-    page-break-after: avoid;
+    font-size: 11.5pt;
+    color: #1a365d;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    font-family: 'Liberation Serif', serif;
   }
-
+  
   p {
-    margin-top: 0;
-    margin-bottom: 3.5mm;
-    text-indent: 5mm;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 0 12px 0;
+    text-indent: 1.5em;
   }
-
-  /* Primer párrafo sin sangría */
-  h2.chapter-name + p,
-  h3.subsection-title + p,
-  h3.section-title + p,
-  .divider + p,
-  blockquote + p {
+  
+  p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
     text-indent: 0;
   }
-
+  
   .divider {
     text-align: center;
-    font-size: 11pt;
+    margin: 25px 0;
     color: #a0aec0;
-    margin-top: 5mm;
-    margin-bottom: 5mm;
-    page-break-inside: avoid;
+    font-size: 10pt;
+    letter-spacing: 6px;
   }
-
-  blockquote {
-    border-left: 3px solid #2b6cb0;
-    background-color: #f8fafc;
-    padding: 3mm 5mm;
-    margin: 4mm 0;
+  
+  .bullet-list {
+    margin: 12px 0 15px 25px;
+    padding: 0;
+  }
+  
+  .bullet-list li {
+    margin-bottom: 6px;
+    text-align: justify;
+  }
+  
+  .quote {
+    margin: 18px 25px;
+    padding: 10px 18px;
+    border-left: 3px solid #b8860b;
+    background: #f7fafc;
     font-style: italic;
     color: #4a5568;
-    text-indent: 0;
-  }
-  blockquote p {
-    text-indent: 0;
-    margin-bottom: 0;
-  }
-
-  ul {
-    margin-top: 0;
-    margin-bottom: 4mm;
-    padding-left: 6mm;
-  }
-
-  li {
-    margin-bottom: 2mm;
   }
 </style>
 </head>
 <body>
 
-<!-- PORTADA -->
-<div class="cover-page">
-  <div class="cover-series">Lasers y Dragones · Saga Principal</div>
-  <div class="cover-title">MUNDOS FRAGMENTADOS I</div>
-  <div class="cover-sub">El Rastro hacia Eox</div>
-  <div class="divider">✦ &nbsp; ◈ &nbsp; ✦</div>
-  <div class="cover-footer">VOLUMEN VII · MUNDOS FRAGMENTADOS I: EL RASTRO HACIA EOX</div>
-</div>
+  <!-- 1. PORTADA EDITORIAL HOMOGÉNEA -->
+  <div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+      Ópera Espacial · Universo Starfinder
+    </p>
+    
+    <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+    
+    <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+      LASERS Y DRAGONES
+    </div>
+    
+    <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+      Mundos Fragmentados I: El Rastro hacia Eox
+    </div>
+    
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+    
+    <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+      ✦ &nbsp; ◈ &nbsp; ✦
+    </div>
+    
+    <p style="font-size: 11pt; line-height: 1.6; color: #4a5568; margin: 30px auto; max-width: 420px; text-indent: 0; text-align: center;">
+      Una adaptación novelada de la campaña oficial <em>Dead Suns</em> (Soles Muertos), inspirada en las sesiones de rol en vivo del podcast <strong>Lasers y Dragones</strong>.
+    </p>
+    
+    <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 50px auto 20px auto;">
+    
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 10pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+      Volumen VII · Mundos Fragmentados I: El Rastro hacia Eox
+    </p>
+  </div>
 
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Prólogo: El Despertar de la Sombra</h2>
-<p>El abismo entre el sueño y la vigilia tiene la textura engañosa del cristal templado.</p>
+  <!-- 2. NOTA EDITORIAL E INTRODUCCIÓN -->
+  <h2 class="section-heading-main" style="margin-top: 5px; margin-bottom: 12px; font-size: 19pt; padding-bottom: 6px;">Nota Editorial e Introducción</h2>
+  
+  <p style="font-size: 9.5pt; line-height: 1.4; margin-bottom: 6px;">La presente obra constituye el séptimo volumen de la novelización de las sesiones reales de juego de rol de mesa (<em>actual play</em>) emitidas en el podcast costarricense <strong>Lasers y Dragones</strong>, correspondiente a los episodios 76 al 88.</p>
+  
+  <p style="font-size: 9.5pt; line-height: 1.4; margin-bottom: 6px;">En este volumen se inicia el tercer gran arco argumental de la campaña oficial <strong>Dead Suns (Soles Muertos)</strong> del juego de rol <strong>Starfinder</strong> (creado y publicado por <em>Paizo Inc.</em>), correspondiente a la aventura <em>Mundos Fragmentados</em> (<em>Splintered Worlds</em>). Tras el vertiginoso retorno de Castrovel y el despertar de la simulación mental en los tanques de inmersión de la Espiga, la tripulación de la <em>Estrella Errante</em> (Benray Galway, Triel Istrav, Marloc Boosmar, A.Xel 42 y Gerty) descubre que los asesinos de la Flota de Cadáveres y los fanáticos del Culto del Devorador operan en connivencia a través de las profundidades del Cinturón de la Diáspora. Siguiendo las pistas de una misteriosa baliza sarcesiana y las coordenadas de una superarma pre-Brecha, los aventureros se adentran en el infame Espinazo del Diablo: un complejo minero subterráneo excavado en un asteroide hostil repleto de horrores biológicos, parásitos astrales y devotos de la aniquilación cósmica. La odisea los llevará desde tiroteos frenéticos en hangares hasta los umbrales del planeta no-muerto Eox.</p>
+  
+  <p style="font-size: 9.5pt; line-height: 1.4; margin-bottom: 6px;">La historia adapta con fidelidad y pulso literario la dirección, giros y modificaciones narrativas del Game Master <strong>Roberto</strong>, junto al elenco original de jugadores:</p>
+  
+  <div style="margin: 8px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 8.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 6px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benray Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante Humano)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
+    </p>
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+  </div>
+  
+  <p style="font-size: 9.5pt; line-height: 1.4; margin-bottom: 6px;">El propósito de esta novelización es transformar la espontaneidad de la mesa de rol en una experiencia literaria inmersiva, cinematográfica y coherente, respetando con fidelidad la personalidad de los protagonistas, el tono de comedia y peligro espacial, y la evolución del canon.</p>
+
+  <table style="width: 100%; margin: 10px 0 0 0; border: 1px solid #cbd5e0; background-color: #f8fafc; border-collapse: collapse; page-break-inside: avoid; break-inside: avoid;">
+    <tr>
+      <td style="padding: 8px 12px; font-size: 7.5pt; color: #4a5568; line-height: 1.35; text-align: justify; border: none;">
+        <p style="margin: 0 0 4px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+          Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+        </p>
+        <p style="margin: 0 0 4px 0; text-indent: 0;">
+          Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
+        </p>
+        <p style="margin: 0; text-indent: 0;">
+          Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benray Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Marloc Boosmar) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <!-- 3. ÍNDICE DE CONTENIDOS -->
+  <h2 class="section-heading-main" style="margin-top: 5px; margin-bottom: 12px; font-size: 19pt; padding-bottom: 6px;">Índice de Contenidos</h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto, créditos y canon del podcast original</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Prólogo: El Despertar de la Sombra</div>
+        <div class="toc-sub">Transición desde Castrovel, el despertar en la Espiga y la llamada hacia la Diáspora</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 1: Aquí está su Premio</div>
+        <div class="toc-sub">Basado en el Episodio 76 · La salida del tanque de inmersión, el encargo de Chiskisk y el asalto en el nivel 14</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">6</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 2: Null-ca lo Hubiera Imaginado</div>
+        <div class="toc-sub">Basado en el Episodio 77 · Emboscada de androides en la Espiga, la pista de Null-9 y las confesiones de Axel</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">14</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 3: Peligro es mi Segundo Nombre</div>
+        <div class="toc-sub">Basado en el Episodio 78 · Tiroteo en los túneles de ventilación y despegue furtivo de la Estrella Errante</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">23</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 4: Corazón Pirateado</div>
+        <div class="toc-sub">Basado en el Episodio 79 · Salto al hiperespacio Drift, la señal encriptada y el rumbo hacia el cinturón minero</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">30</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 5: Sarcesinato en el Espacio</div>
+        <div class="toc-sub">Basado en el Episodio 80 · Aproximación al Cinturón de la Diáspora y el pecio del asteroide sarcesiano</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">37</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 6: Guardería Vampírica</div>
+        <div class="toc-sub">Basado en el Episodio 81 · Infiltración en el complejo orbital y el laboratorio criogénico de no-muertos</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">42</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 7: No Puedo Sacarte de la Cabeza</div>
+        <div class="toc-sub">Basado en el Episodio 82 · Asedio psíquico, alucinaciones en el vacío y las fórmulas arcanas de Marloc</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">47</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 8: Bienvenidos al Hotel del Asteroide</div>
+        <div class="toc-sub">Basado en el Episodio 83 · Descenso a los niveles inferiores de la mina y el enigma del puesto de guardia</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">52</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 9: Si las Miradas Mataran</div>
+        <div class="toc-sub">Basado en el Episodio 84 · Duelo en la caverna de basaltos y la resistencia contra los sectarios del Devorador</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">58</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 10: El Espinazo del Diablo</div>
+        <div class="toc-sub">Basado en el Episodio 85 · Combate contra la bestia abisal del asteroide y la brecha en la esclusa sellada</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">68</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 11: El Templo de la Perdición</div>
+        <div class="toc-sub">Basado en el Episodio 86 · El santuario oculto de la aniquilación y el descifrado del datapad necrótico</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">77</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 12: El Secreto de la Diáspora</div>
+        <div class="toc-sub">Basado en el Episodio 87 · Batalla naval entre asteroides, la trampa de fuego cruzado y el salto de emergencia</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">86</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 13: Fantasmas del Pasado</div>
+        <div class="toc-sub">Basado en el Episodio 88 · Datos recuperados del destructor estelar, la sombra de Eox y el horizonte sombrío</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">94</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">Facciones, La Diáspora, el Culto del Devorador, la Flota de Cadáveres y Héroes de la Saga</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">102</td>
+    </tr>
+  </table>
+
+  <h2 class="chapter-name">Prólogo: <br><span class="chap-sub">El Despertar de la Sombra</span></h2>
+  <div class="chapter-body">
+    <p>El abismo entre el sueño y la vigilia tiene la textura engañosa del cristal templado.</p>
 <p>Durante semanas interminables en las selvas asfixiantes de Castrovel, bajo el dosel esmeralda de Ukulam y entre las ruinas ciclópicas del Templo de las Doce Plumas, cuatro aventureros habían creído tocar el límite de sus fuerzas. Habían burlado a las bestias saurídeas de la jungla, descifrado los enigmas del templo primitivo y sobrevivido a una trampa de simulación mental orquestada con diabólica precisión por el avatar virtual de Damien. Allí, en un universo ilusorio donde las leyes del espacio parecían obedecer a un juego macabro, cada combate había costado sangre y lágrimas que se sentían tan reales como la carne misma.</p>
 <p>Pero la ilusión había llegado a su fin.</p>
 <p>Al rasgarse el velo de la simulación, el retorno a la realidad no trajo consigo el ansiado descanso en los salones dorados de la Estación Absalón, sino el olor acre del ozono quemado y el chasquido ensordecedor de los proyectiles de plasma rebotando contra los mamparos. La guerra cósmica no esperaba a que los héroes recuperaran el aliento. En los pasillos de la gran metrópolis orbital, los fanáticos del Culto del Devorador y las sombras mercenarias de la Flota de Cadáveres ya habían tomado posiciones para asegurarse de que nadie saliera con vida de aquella habitación.</p>
 <p>Benray Galway, el emisario ysoki cuya lengua afilada y reflejos imposibles desafiaban cualquier probabilidad estadística; Triel Istrav, la joven mecánica semi-drow de la Diáspora y artífice incansable de la supervivencia del grupo; Marloc Boosmar, el tecnomante humano de gabán impoluto que arrastraba consigo el misterio insondable de Inversiones Estelares S.C. y el enigma cósmico de Marlene Boosmar; y A.Xel 42, la letal operativa androide de circuitos rosados bioluminiscentes cuya serenidad analítica ocultaba el mayor enigma ontológico de su especie.</p>
 <p>Junto a ellos, erguido como un baluarte de acero y blindaje compuesto, permanecía Gerty: el dron de asalto bípedo de dos metros reconstruido por Triel, dotado ahora de cuatro brazos mecánicos y un procesador sarcástico que jamás concedía una tregua dialéctica a sus compañeros orgánicos. Atrás quedaban también los singulares náufragos del Acreon, Willy y Naru, quienes tras llenar de grasa y trastos el muelle de Absalón habían sido derivados a los cuarteles de los Protectores, convirtiéndose en el dolor de cabeza predilecto del Oficial León Holden.</p>
 <p>Atrás quedaban las leyendas de Castrovel. Delante de ellos se abría el frío insondable del cinturón de asteroides de la Diáspora, donde viejos fantasmas del linaje corsario de Triel aguardaban entre rocas mudas, y más allá, el destino que aterrorizaba hasta la médula al emisario ysoki: el planeta Eox, la corte fúnebre de los muertos vivientes.</p>
-<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
-<blockquote><p><strong>Nota Editorial y Atribución:</strong></p></blockquote>
-<blockquote><p><em>Lasers y Dragones: Mundos Fragmentados I: El Rastro hacia Eox</em> es una obra de ficción novelada basada en la campaña real de rol de <em>Lasers y Dragones</em> (adaptación libre y no oficial de la senda de aventuras <em>Starfinder: Dead Suns</em>, propiedad de Paizo Inc.).</p></blockquote>
-<blockquote><p>Esta obra se distribuye de manera gratuita bajo la <strong>Política de Uso Comunitario de Paizo Inc.</strong> ([paizo.com/communityuse]). No está respaldada ni afiliada formalmente a Paizo Inc.</p></blockquote>
-<blockquote><p>Un tributo especial a la mesa de juego: Roberto (Director de Juego), Irene (Triel Istrav), Juan Pablo (Marloc Boosmar), Miguel (Benray Galway) y Sofía (A.Xel 42), cuya imaginación y genialidad dieron vida a esta historia.</p></blockquote>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 1: Aquí está su Premio</h2>
-<h3 class='subsection-title'>I. El despertar en la Espiga y la voz entre las estrellas</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 1: <br><span class="chap-sub">Aquí está su Premio</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. El despertar en la Espiga y la voz entre las estrellas</h3>
 <p>La transición entre la simulación y el mundo real no fue suave ni piadosa. Fue como estrellarse contra un mamparo de hormigón reforzado a trescientos kilómetros por hora.</p>
 <p>Triel Istrav abrió los ojos bajo el agua tibia y viscosa del tanque de inmersión, ahogando un grito en su garganta mientras sus pulmones rechazaban el fluido amniótico sintético. La joven semi-drow tosió con violencia, arqueando la espalda dentro de la cápsula mientras sus dedos buscaban a tientas los pestillos de apertura neumática. Al liberarse la compuerta, una cascada de líquido translúcido se desbordó contra las baldosas metálicas del suelo, arrastrándola en una oleada de náusea y vértigo atroz. El zumbido industrial de los generadores de la Espiga, el hedor rancio a ozono, desinfectante barato y polvo de taller la golpearon sin contemplaciones, borrando de un plumazo las selvas ilusorias de Castrovel y la macabra pesadilla medieval de Damien.</p>
 <p>A menos de dos metros, Benray Galway rodó sobre su costado emitiendo un chillido lastimero de pura desorientación sensorial. El ysoki pataleaba en el charco, sacudiéndose el hocico y frotándose los ojos con zarpas temblorosas. Sus bigotes estaban apelmazados por la baba química del tanque y su cola parecía un látigo empapado.</p>
@@ -278,10 +436,11 @@
 <p><em>Null-9.</em> Su unidad hermana. La androide rebelde que la había rescatado del horror hacía diez años en el Vasto.</p>
 <p>Axel apretó el arma con más fuerza contra el cráneo de la mujer.</p>
 <p>—Hablarás —sentenció la androide con un hilo de voz letal—. Y nos dirás exactamente qué tiene que ver Null-9 con ustedes.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 2: Null-ca lo Hubiera Imaginado</h2>
-<h3 class='subsection-title'>I. La confesión de la recepcionista y el rescate de Valdo</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 2: <br><span class="chap-sub">Null-ca lo Hubiera Imaginado</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. La confesión de la recepcionista y el rescate de Valdo</h3>
 <p>El pasillo de servicio de la clínica Epix olía a ozono quemado, chamusquina de grasa y fluidos de inmersión todavía goteando por las baldosas metálicas.</p>
 <p>Bajo la fría luz de los proyectores auxiliares, la falsa recepcionista permanecía de rodillas, con las manos en alto y los dedos temblorosos. La larga chaqueta de cuero púrpura y su top táctico estaban manchados de hollín; a menos de un palmo de su nuca, el cañón helado del rifle de A.Xel 42 no dejaba margen a dudas.</p>
 <p>—¡Por favor! —gimió la mujer, con una voz rota y una mirada desorbitada que buscaba desesperadamente una salida—. ¡No me disparen! ¡Les juro que hablaré! Yo... yo solo estaba haciendo lo que me ordenaron. ¡Me obligaron! Necesitaba el dinero, no quería que nadie muriera...</p>
@@ -381,10 +540,11 @@
 <p>El holograma parpadeó y se apagó de golpe, dejando el puente de mando de la <em>Estrella Errante</em> en un silencio denso como el plomo.</p>
 <p>Axel permaneció inmóvil en la oscuridad, con sus circuitos rosados brillando con una intensidad dolorosa.</p>
 <p>—La Diáspora —dijo la androide con voz queda pero implacable—. Es allí donde está mi hermana. Triel... enciende los motores. Nos vamos de Absalón.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 3: Peligro es mi Segundo Nombre</h2>
-<h3 class='subsection-title'>I. Noticias en Movimiento y el fantasma mediático</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 3: <br><span class="chap-sub">Peligro es mi Segundo Nombre</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Noticias en Movimiento y el fantasma mediático</h3>
 <p>En el hangar privado de la Estación Absalón, los motores de la <em>Estrella Errante</em> zumbaban con una cadencia suave mientras los sistemas de presurización completaban el ciclo de carga. La nave lucía imponente: tras las reparaciones y las reformas recientes, el carguero contaba ahora con una flamante bahía médica, un laboratorio científico equipado para los análisis arcanos de Marloc y un puesto de puntería digital integrado en la consola de computación.</p>
 <p>En la sala común, la pantalla holográfica sintonizaba la emisión de mediodía de <em>Noticias en Movimiento</em>.</p>
 <p>La sintonía de cabecera sonó con su fanfarria estridente antes de dar paso al plató central, donde Joanna Jiménez, luciendo su habitual peinado arquitectónico y una sonrisa corporativa inmutable, abrió el informativo:</p>
@@ -470,10 +630,11 @@
 <p>—<em>«¿La hija de Ashton? ¡Por las barbas de Besmara! El capitán me habló de ti... Mierda, otro atraco que se me va al garete por culpa de los lazos familiares. Bajen las armas, muchachos... Síganme al fondeadero del asteroide. Tenemos mucho de qué hablar.»</em></p>
 <p>Triel sonrió y miró a sus compañeros con complicidad:</p>
 <p>—Bienvenidos a la Diáspora, chicos. El peligro es nuestro segundo nombre.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 4: Corazón Pirateado</h2>
-<h3 class='subsection-title'>I. A bordo del <em>Ribete Herrumbrado</em></h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 4: <br><span class="chap-sub">Corazón Pirateado</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. A bordo del <em>Ribete Herrumbrado</em></h3>
 <p>La corbeta corsaria maniobró con destreza entre los peñascos flotantes del Campo de los Perdidos hasta acoplar su esclusa de abordaje al costado de la <em>Estrella Errante</em>. El fuselaje de la nave pirata era una oda a la supervivencia improvisada: chapas de aleación marrón cubiertas de herrumbre, parches de soldadura apresurados y placas de blindaje suplementario arrancadas de cargueros militares. Sobre la proa, pintado con esmalte blanco desvaído, destacaba su nombre: el <em>Ribete Herrumbrado</em>.</p>
 <p>Triel, Marloc, Axel y Benray cruzaron el tubo presurizado de interconexión con las armas enfundadas, escoltados por Valdo, quien se quedó en el puente de la nave nodriza asegurando los mamparos del motor para evitar que el misterioso polizón causara estragos durante su ausencia.</p>
 <p>Al entrar en la rotonda central del <em>Ribete</em>, una docena de piratas levantaron sus armas al unísono, encañonándolos con subfusiles láser, rifles de plasma y sables dentados. Entre ellos destacaba Q-4, un androide de chasis negro obsidiana con circuitos bioluminiscentes de un azul eléctrico glacial; Secanoy Destructor de Picos, un colosal guerrero vesk enfundado en un chaleco de cuero tachonado de púas de escalador; y Corina Colmillo de Acero, una mujer lashunta de facciones ofidias cuya armadura imitaba escamas de reptil.</p>
@@ -543,10 +704,11 @@
 <p>—¡CUBIERTO! —gritó Triel por el canal de radio cerrado.</p>
 <p>En la cima de las rocas, la silueta agazapada de un francotirador alineó su rifle de largo alcance. Una llamarada de plasma cruzó el vacío en silencio mortal, impactando contra el suelo de esquirlas metálicas a centímetros de las botas de Benray.</p>
 <p>La emboscada en el templo del Devorador acababa de comenzar.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 5: Sarcesinato en el Espacio</h2>
-<h3 class='subsection-title'>I. Duelo en baja gravedad</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 5: <br><span class="chap-sub">Sarcesinato en el Espacio</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Duelo en baja gravedad</h3>
 <p>El rayo láser del francotirador cortó el vacío en un silencio absoluto, fundiendo una costra de metal negro a escasos centímetros de las botas de Benray Galway. En el asteroide K-9204, sin atmósfera que transmitiese el trueno de la detonación, la muerte viajaba como una línea de luz roja invisible hasta el impacto.</p>
 <p>—¡Fuego de precisión a cuarenta pies de altura! —transmitió Triel por el canal cerrado del intercomunicador, arrojándose de espaldas tras una roca de basalto—. ¡Está en la cima de la cornisa este!</p>
 <p>A través de las miras de combate, los cuatro aventureros lograron vislumbrar por fin a su atacante. Era una silueta imponente, de más de cuatro metros de altura, con extremidades alargadas y dedos delgados como ramas de hierro. Su piel era de un gris ceniciento pulido; llevaba gafas de protección ocular ajustadas a un rostro anguloso y sostenía un rifle de tirador de casi tres metros de largo.</p>
@@ -601,10 +763,11 @@
 <p>La androide comenzó a retroceder lentamente, paso a paso, buscando la salida del domo.</p>
 <p>Pero era demasiado tarde.</p>
 <p>Desde una galería lateral que conectaba con la segunda entrada de la caverna, una criatura cuadrúpeda de cuerpo quitinoso, alas membranosas y una larga cola erizada de púas venenosas emergió de un salto directo hacia Benray. Y tras ella, el mar de plata del interior de la cueva estalló en una docena de surcos: una horda de larvas y engendros del vacío brotaron de las dunas, cerrándoles el paso con fauces babeantes en la oscuridad absoluta del asteroide.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 6: Guardería Vampírica</h2>
-<h3 class='subsection-title'>I. La emboscada de los Skreelings</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 6: <br><span class="chap-sub">Guardería Vampírica</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. La emboscada de los Skreelings</h3>
 <p>La quietud de la caverna estalló en una pesadilla de garras y silbidos secos.</p>
 <p>Desde el mar de virutas de plata que cubría el suelo del domo natural, tres siluetas emergieron de un salto, batiendo alas membranosas de murciélago en el vacío. Eran criaturas del tamaño de un perro mediano, pero de aspecto aterrador: pellejo grisáceo pegado a los huesos como piel curtida sobre una calavera, cuencas oculares vacías, fauces repletas de dientes en aguja y una cola larga y segmentada que recordaba el espinazo curvado de un pez abisal. Eran Skreelings: las crías voraces de la abominación que moraba en el asteroide.</p>
 <p>—¡Atrás! —chilló Benray Galway por el enlace táctico, pero una de las alimañas ya se abalanzaba sobre él por la espalda.</p>
@@ -658,10 +821,11 @@
 <p>—Triel... ¿qué ves en el panel? —preguntó Benray desde la retaguardia, con la pistola lista.</p>
 <p>La joven semi-drow no respondió. Bajó los brazos lentamente, dejando que su carabina colgase inerte de la correa. Con pasos mecánicos, lentos y arrastrados, comenzó a caminar directamente hacia la orilla del pozo de ácido, donde las sombras del vacío parecían curvarse en torno a unas fauces titánicas agazapadas bajo el fango.</p>
 <p>—¡Triel! —gritó Axel, detectando la súbita caída en los parámetros de voluntad de la mecánica en el monitor de telemetría—. ¡Está bajo control mental! ¡El monstruo la está llamando!</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 7: No Puedo Sacarte de la Cabeza</h2>
-<h3 class='subsection-title'>I. El canto del pozo verde</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 7: <br><span class="chap-sub">No Puedo Sacarte de la Cabeza</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. El canto del pozo verde</h3>
 <p>La voz en la mente de Triel Istrav no gritaba ni amenazaba: susurraba con la dulzura de una melodía olvidada, haciéndole creer que la idea más brillante y razonable del universo era contemplar el estanque de desecho minero.</p>
 <p>—Esperen un momento, chicos —dijo Triel por el comunicador con una calma desconcertante, bajando su carabina mientras caminaba hacia la orilla del líquido verde—. Antes de abrir la compuerta blindada... creo que deberíamos revisar esa agua. Brilla de una forma muy bonita. Siento que hay algo importante ahí abajo.</p>
 <p>Axel, que observaba la escena desde la retaguardia, detectó de inmediato una anomalía crítica en los biosensores de la semi-drow.</p>
@@ -719,10 +883,11 @@
 <p>Bajo la abertura se revelaba un pozo vertical de cinco metros de profundidad provisto de una escalerilla metálica de servicio. Al fondo del conducto, una tenue iluminación carmesí de baja potencia teñía las sombras de un tono siniestro. Las paredes de roca del pozo estaban cubiertas de inscripciones toscas y blasfemas talladas con cincel: espirales infinitas, fauces voraces y runas pre-Brecha dedicadas al fin de la existencia.</p>
 <p>Triel ajustó la linterna de su casco y miró a sus compañeros:</p>
 <p>—Bienvenidos al templo del Devorador, chicos. Vigilen sus espaldas.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 8: Bienvenidos al Hotel del Asteroide</h2>
-<h3 class='subsection-title'>I. La esclusa y las esporas de la demencia</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 8: <br><span class="chap-sub">Bienvenidos al Hotel del Asteroide</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. La esclusa y las esporas de la demencia</h3>
 <p>El descenso por el pozo vertical de servicio concluyó en una galería estrecha de roca viva revestida con una tosca capa de hormigón proyectado. En el asteroide K-9204, el aire seguía ausente: el silencio del vacío envolvía los pasos pesados de Gerty, cuyas orugas magnéticas levantaban partículas de polvo negro sobre el pavimento metálico.</p>
 <p>Al final del túnel se abría una cámara intermedia de despresurización. La compuerta exterior estaba abierta de par en par; al otro lado, una pesada puerta hermética sellaba el acceso al corazón de las instalaciones.</p>
 <p>Triel avanzó con su <em>Custom Rig</em> en la mano, acompañada por Gerty, examinando el marco de acero en busca de trampas.</p>
@@ -781,10 +946,11 @@
 <p>El segundo coloso cayó de espaldas contra un armario de herramientas, despidiendo humo negro y chispas agónicas antes de apagarse para siempre.</p>
 <p>Axel descendió de la litera superior de un salto silencioso, envainando su cuchillo táctico mientras contemplaba los restos calcinados de las máquinas:</p>
 <p>—Sector de barracones despejado. La armería es nuestra.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 9: Si las Miradas Mataran</h2>
-<h3 class='subsection-title'>I. Alta costura del vacío y credencias mineras</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 9: <br><span class="chap-sub">Si las Miradas Mataran</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Alta costura del vacío y credencias mineras</h3>
 <p>El silencio que siguió a la destrucción de los dos autómatas de seguridad en el armero subterráneo fue denso, roto únicamente por el siseo del oxígeno reciclado y el zumbido mortecino de los fluorescentes amarillentos. En torno a ellos, las paredes no eran de metal pulido ni de cerámica militar: eran toscas galerías de perforación minera a las que los fanáticos del Devorador habían adosado apresuradamente paneles modulares de plástico y aislante acústico. El techo conservaba la roca viva, agrietada por barrenos ancestrales y ennegrecida por el hollín.</p>
 <p>—Míralos nada más —comentó Benray Galway, apoyando la culata de su carabina en el suelo y dándole una patada con desdén a la cabeza decapitada de uno de los robots, cuyo delineador de ojos negro todavía brillaba bajo los cascos—. Autómatas con ínfulas de estrella de rock gótica. Tanta pose intimidante y no nos aguantaron ni dos asaltos frente a la táctica del camarote.</p>
 <p>Axel, con su agilidad silenciosa habitual, ya estaba inspeccionando las largas estanterías metálicas que recorrían el perímetro del almacén. Tres filas de aparadores bajos y curvos, anclados a la roca, servían como perchero para los pertrechos de asalto del culto.</p>
@@ -889,10 +1055,11 @@
 <p>—La bestia ha caído. Y con ella, el último centinela biológico de este nivel.</p>
 <p>Triel respiró hondo, bajó su rifle y contempló los monitores de la consola central que ahora comenzaban a sincronizarse, desbloqueando el acceso a las zonas más profundas del complejo. Una sensación de madurez táctica y temple forjado en el peligro recorrió al grupo: habían sobrevivido a las trampas, a la niebla de locura y a los monstruos del Devorador.</p>
 <p>—Descansen un instante y recarguen condensadores —dijo la drow con determinación serena—. Estamos listos. El corazón del Espinazo del Diablo nos espera abajo.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 10: El Espinazo del Diablo</h2>
-<h3 class='subsection-title'>I. Las secuelas de la bestia y el teclado de sangre</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 10: <br><span class="chap-sub">El Espinazo del Diablo</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Las secuelas de la bestia y el teclado de sangre</h3>
 <p>El hedor a ozono quemado y sangre viscosa del Feolist abatido aún flotaba en el aire estancado del santuario subterráneo. Sobre la alfombra ceremonial deshilachada, el reptil monstruoso yacía inerte, con sus cuencas vacías apagadas y desprovistas por fin de aquella bruma oscura que había estado a punto de fracturar la cordura de la tripulación.</p>
 <p>Benray Galway estaba sentado en el suelo de piedra, apoyado contra la base de la consola informática. Con un quejido sordo, el roedor se desabrochó la hombrera de su flamante traje refractor ysoki, retirando con cuidado una gasa empapada en un suero curativo que desprendía un persistente y desagradable olor a vainilla artificial.</p>
 <p>—Por todos los santos de la Diáspora —rezongó Benray, tocándose el borde de las marcas de los colmillos que aún supuraban en su hombro—. Lagartos del vacío con mirada de pesadilla cósmica. Juré que no dejaría que me tocaran ni un pelo del bigote en esta misión, y casi termino convertido en su aperitivo de medianoche. ¿Vainilla? ¿Quién en los Mundos del Pacto sintetiza un estimulante médico con sabor a pastelería barata?</p>
@@ -992,10 +1159,11 @@
 <p>Axel tomó uno de los retratos entre sus manos de acero. Sus procesadores ópticos parpadearon con un brillo azul vacilante, incapaces de procesar la marea de datos y memorias perdidas que aquellos trazos despertaban en su núcleo lógico:</p>
 <p>—Ella... me recordaba. No como un número de serie ni como una herramienta de combate. Me dibujó viva.</p>
 <p>En el silencio sepulcral de la habitación inmaculada, el eco del pasado acababa de tender un puente entre la fría oscuridad del Devorador y el corazón herido de la androide.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 11: El Templo de la Perdición</h2>
-<h3 class='subsection-title'>I. La inocencia entre las cenizas</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 11: <br><span class="chap-sub">El Templo de la Perdición</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. La inocencia entre las cenizas</h3>
 <p>La compuerta blindada del ala sur del Espinazo del Diablo se abrió con un murmullo hidráulico aséptico. Al cruzar el umbral, el grupo sintió que abandonaba una pesadilla de óxido y sangre para adentrarse en un santuario imposible.</p>
 <p>El dormitorio privado no tenía nada que ver con los infectos cuarteles de la secta. Las paredes de piedra viva habían sido pulidas con esmero y cubiertas con paneles aislantes blancos. No había oraciones nihilistas, ni calaveras con velas consumidas, ni el hedor a rancio que impregnaba el resto de la base. El aire olía a lino limpio, a antiséptico y al rastro dulce de aceites vegetales para pigmentos artísticos.</p>
 <p>Sobre el escritorio de madera sintética, bañados por el cono de luz de una lámpara halógena, descansaban decenas de pliegos de papel auténtico.</p>
@@ -1010,13 +1178,13 @@
 <p>—Pero ella no dibujó esto —dijo Axel con un tono sordo, señalando la otra litera.</p>
 <p>Bajo una manta de lana blanca doblada con precisión militar, la androide encontró un cuaderno de tapas de cuero. Al abrirlo, sus fotorreceptores escanearon una caligrafía limpia, geométrica y vacilante a la vez, semejante a la de un niño que aprende a domesticar la pluma sobre el papel.</p>
 <p>Axel leyó en voz alta, mientras su sintetizador de voz luchaba contra una sobrecarga de datos emocionales:</p>
-<blockquote><p><em>«Ella me ha enseñado muchas cosas... Me ha enseñado a disparar, me ha enseñado a defenderme en el vacío. Me dio con qué expresarme; lo primero que me ofreció fue pintura. He tratado de reconstruir quién soy a partir de sus silencios. Me ha dado todo... menos un nombre.</em></p></blockquote>
+<blockquote class='quote'><em>«Ella me ha enseñado muchas cosas... Me ha enseñado a disparar, me ha enseñado a defenderme en el vacío. Me dio con qué expresarme; lo primero que me ofreció fue pintura. He tratado de reconstruir quién soy a partir de sus silencios. Me ha dado todo... menos un nombre.</em></blockquote>
 <p>></p>
-<blockquote><p><em>Siento que ella debería darme un nombre. Éclair dijo que soy su hijo, pero he aprendido que los padres nombran a sus hijos y yo todavía no tengo un nombre. Ella no me lo ha dado... y la que fue hallada tal vez debería darme uno.</em></p></blockquote>
+<blockquote class='quote'><em>Siento que ella debería darme un nombre. Éclair dijo que soy su hijo, pero he aprendido que los padres nombran a sus hijos y yo todavía no tengo un nombre. Ella no me lo ha dado... y la que fue hallada tal vez debería darme uno.</em></blockquote>
 <p>></p>
-<blockquote><p><em>Ella me dice que no hay nada, que todo el cosmos se precipita hacia el vacío absoluto. Pero siento que no es cierto: alguien tan lleno de ira como ella no puede creer de verdad que no hay nada. Mi padre pensaba que continuábamos en lo que dejábamos atrás. Decía que éramos las huellas de nuestros actos.</em></p></blockquote>
+<blockquote class='quote'><em>Ella me dice que no hay nada, que todo el cosmos se precipita hacia el vacío absoluto. Pero siento que no es cierto: alguien tan lleno de ira como ella no puede creer de verdad que no hay nada. Mi padre pensaba que continuábamos en lo que dejábamos atrás. Decía que éramos las huellas de nuestros actos.</em></blockquote>
 <p>></p>
-<blockquote><p><em>Axel... no sé si ella lo sepa, pero sus respuestas deben ser mejores que las mías. Si no me abandonaste, Axel... espero que estés leyendo esto.»</em></p></blockquote>
+<blockquote class='quote'><em>Axel... no sé si ella lo sepa, pero sus respuestas deben ser mejores que las mías. Si no me abandonaste, Axel... espero que estés leyendo esto.»</em></blockquote>
 <p>El silencio cayó sobre la habitación como una losa de plomo.</p>
 <p>Triel posó su mano enguantada sobre el hombro de Axel, apretándolo con afecto fraternal:</p>
 <p>—Es la nueva conciencia... El alma que despertó en el cuerpo de Éclair en el Templo de Triune en Absalom. Null-9 se lo llevó. Lo trajo a este abismo para moldear su mente recién nacida con su propia rabia.</p>
@@ -1094,10 +1262,11 @@
 <p>—¡Nos estaban esperando en la sombra de los asteroides! —gritó Axel, aferrando los controles de guiado mientras las naves enemigas abrían fuego con sus armas térmicas—. ¡La Flota Cadáver no piensa dejarnos salir vivos de la Diáspora!</p>
 <p>Los haces de plasma hendieron el vacío, sacudiendo los escudos de la <em>Estrella Errante</em> en una tormenta de chispas.</p>
 <p>—¡A los puestos de combate! —bramó Benray Galway, amartillando los mandos de artillería—. ¡Que comience el espectáculo!</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 12: El Secreto de la Diáspora</h2>
-<h3 class='subsection-title'>I. Duelo de ataúdes en el vacío</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 12: <br><span class="chap-sub">El Secreto de la Diáspora</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. Duelo de ataúdes en el vacío</h3>
 <p>El vacío del Campo de los Perdidos se iluminó con el destello lívido de los cañones de energía.</p>
 <p>Los dos interceptores de la Flota Cadáver —los <em>Necroplaneadores Cabeza de Muerto</em>— viraron al unísono con una agilidad antinatural. No maniobraban con la inercia de una nave con tripulación biológica que teme a las fuerzas gravitatorias: al estar pilotados por esqueletos cibernéticos cuyos nervios de alambre se fundían directamente con el núcleo de vuelo, las naves giraban en ángulos de noventa grados, como insectos de hueso negro rozando los peñascos errantes.</p>
 <p>En el puente de la <em>Estrella Errante</em>, la tripulación ocupó sus puestos de combate con la precisión adquirida tras meses de supervivencia al límite.</p>
@@ -1191,10 +1360,11 @@
 <p>La respuesta de la androide tardó apenas dos segundos en llegar:</p>
 <p>—<em>En camino, Triel.</em></p>
 <p>En el corazón de la nave espacial, mientras el vacío de la Diáspora se deslizaba tras los ojos de buey, la búsqueda de una superarma apocalíptica estaba a punto de ceder su lugar a la verdad más íntima y desgarradora de sus vidas: la voz de Éclair, esperando en la oscuridad para hablarles desde el otro lado de la muerte.</p>
-</div>
-<div class='chapter'>
-<h2 class='chapter-name' style='page-break-before: always;'>Capítulo 13: Fantasmas del Pasado</h2>
-<h3 class='subsection-title'>I. La voz del inquilino anterior</h3>
+  </div>
+
+  <h2 class="chapter-name">Capítulo 13: <br><span class="chap-sub">Fantasmas del Pasado</span></h2>
+  <div class="chapter-body">
+    <h3 class='subsection-title'>I. La voz del inquilino anterior</h3>
 <p>La sala de simulación holográfica de la <em>Estrella Errante</em> quedó sumida en una penumbra azulada cuando Triel desconectó los proyectores auxiliares del techo. En el centro del habitáculo circular, una columna de luz tridimensional comenzó a parpadear con el grano tembloroso de una cinta electromagnética desgastada por los siglos.</p>
 <p>Axel permanecía de pie en el centro de la sala, con sus fotorreceptores calibrados en modo de captura directa. A su lado, Triel, Benray y Marloc aguardaban en silencio.</p>
 <p>El archivo recuperado de la matriz de Éclair —apenas un veinticinco por ciento de su contenido original— se desdobló en el aire. Pequeños píxeles de luz se ensamblaron hasta formar la figura de un androide esbelto, de rasgos serenos y circuitos dorados que brillaban bajo un abrigo desgastado de la Sociedad Starfinder.</p>
@@ -1282,19 +1452,20 @@
 <p>Axel bajó el cañón de su pistola y Triel desactivó los quemadores de Gerty.</p>
 <p>En el hangar silencioso del asteroide Ceres, el fantasma más doloroso del pasado de la tripulación acababa de encontrar su tregua. No había odio suficiente en el cosmos para borrar las cicatrices de la guerra, pero mientras los tripulantes ayudaban al viejo general a ponerse en pie, comprendieron que la verdadera redención estaba por delante.</p>
 <p>El sector residencial de Ceres los aguardaba con la calidez del hogar y el adiós de Ángela. Y más allá de las estrellas de la Diáspora, en los páramos radiactivos del planeta Eox, la batalla final por el destino de los Mundos del Pacto estaba a punto de comenzar.</p>
-</div>
-<div class='chapter glossary'>
-<h2 class='chapter-name' style='page-break-before: always;'>Glosario y Personajes: <em>Lasers y Dragones</em></h2>
-<h3 class='section-title'>Volumen VII · Mundos Fragmentados I: El Rastro hacia Eox</h3>
+  </div>
+
+  <h2 class="chapter-name">Anexo Especial: <br><span class="chap-sub">Dossier de Personajes y Glosario</span></h2>
+  <div class="chapter-body">
+    <h3 class='section-title'>Volumen VII · Mundos Fragmentados I: El Rastro hacia Eox</h3>
 <div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
 <h3 class='section-title'>1. El Escenario Principal</h3>
-<ul>
+<ul class='bullet-list'>
 <li><strong>Estación Absalón (Distrito de la Espiga y Muelles), el Vórtice del Drift y el Cinturón de Asteroides de la Diáspora.</strong></li>
 <li><strong>Marco de Campaña:</strong> Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 1: La Diáspora y la Base Sarcesiana del Culto del Devorador).</li>
 </ul>
 <div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
 <h3 class='section-title'>2. Los Protagonistas y su Evolución Emocional</h3>
-<ul>
+<ul class='bullet-list'>
 <li><strong>Triel Istrav:</strong> Mecánica Semi-drow (Jugadora: Irene). Enfrenta el retorno a su región natal: el cinturón de la Diáspora, donde creció entre contrabandistas y piratas. Mantiene en secreto sus temores por el pasado de su padre humano, Keiden Ashton, y gestiona sus comunicaciones a distancia con el Oficial León Holden de los Protectores.</li>
 <li><strong>Gerty:</strong> Dron de Combate y Asalto Pesado de Triel (Voz: Roberto). Equipado con chasis bípedo de dos metros y cuatro brazos mecánicos. Su procesador sarcástico y lealtad incondicional son el ancla protectora del equipo.</li>
 <li><strong>Benray Galway:</strong> Emisario Ysoki (Jugador: Miguel). Su verborrea y astucia diplomática se ponen a prueba ante los piratas de la Diáspora. Mantiene contacto con su red familiar de los Galway y su primo Rim Rey, aunque comienza a percibir rumores inquietantes sobre naves ysoki desaparecidas.</li>
@@ -1305,7 +1476,7 @@
 </ul>
 <div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
 <h3 class='section-title'>3. Personajes Secundarios y Facciones</h3>
-<ul>
+<ul class='bullet-list'>
 <li><strong>Null-9:</strong> Veterana francotiradora androide y antigua mentora de Axel. Tras huir de Absalón destrozada por la Renovación de Éclair, se une clandestinamente a las operaciones del Culto del Devorador y se lleva consigo a la nueva conciencia nacida del chasis de su amigo, protegiéndolo en el búnker del Espinazo del Diablo mientras lo adiestra en el manejo de armas y pintura.</li>
 <li><strong>La Nueva Conciencia («El Hijo de Éclair»):</strong> Nueva alma androide que habita el chasis de circuitos blancos de Éclair. Acompaña a Null-9 en la Diáspora buscando su propia identidad; en su camarote privado del asteroide deja dibujos de Axel y un conmovedor diario manuscrito en el que reflexiona sobre su falta de nombre y el dolor de haber sido dejado atrás por Axel tras su nacimiento en Absalón.</li>
 <li><strong>Los Sarcesianos:</strong> Gigantes alienígenas nativos de la Diáspora que habitan asteroides y viajan por el vacío impulsados por alas de energía lumínica pura.</li>
@@ -1323,6 +1494,7 @@
 <p>El interrogatorio a Null-9 sacude a A.Xel: Null-9 la acusa de ser un peón de los biológicos y de ignorar el verdadero propósito para el que fue construido su chasis. Este choque siembra las primeras dudas sobre la identidad y el pasado borrado de Axel.</p>
 <h4 class='subsection-title'>💀 El Rastro Cadavérico hacia Eox:</h4>
 <p>Los documentos y registros encriptados recuperados en la base del asteroide revelan que el Culto del Devorador no actúa solo: está financiado y coordinado por facciones renegadas de la Flota de Cadáveres de Eox, forzando al grupo a un destino que aterroriza profundamente a Benray Galway: el planeta de los muertos vivientes.</p>
-</div>
+  </div>
+
 </body>
 </html>

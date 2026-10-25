@@ -1,18 +1,19 @@
-# Volumen 7: La Diáspora de Sangre (Episodios 76 a 88)
+# Volumen 7: Mundos Fragmentados I: El Rastro hacia Eox (Episodios 76 a 88)
 
 > **Proyecto:** *Lasers y Dragones: La Novela* (Adaptación fan no oficial)  
 > **Fuente de Audio:** Podcast Oficial de Rol en Vivo *Lasers y Dragones*  
 > **Campaña Paizo:** Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 1: La Diáspora)  
-> **Estado:** Recursos preparados y estructurados (listo para redacción y adaptación literaria)
+> **Estado:** Novela completamente adaptada y maquetada en PDF editorial A4 estándar.
 
 ---
 
 ## 📖 Ficha Técnica del Libro
 
-* **Título:** *Lasers y Dragones: La Diáspora de Sangre*
-* **Subtítulo:** *Volumen VII · Mundos Fragmentados I: La Diáspora de Sangre*
+* **Título:** *Lasers y Dragones: Mundos Fragmentados I: El Rastro hacia Eox*
+* **Subtítulo:** *Volumen VII · Mundos Fragmentados I: El Rastro hacia Eox*
 * **Episodios Asignados:** Episodios 76 al 88 (13 episodios).
-* **Escenario Principal:** Estación Ábsalon, cinturón de La Diáspora, asteroide sarcesiano y base del Culto del Devorador.
+* **Escenario Principal:** Estación Absalón, cinturón de La Diáspora, asteroide sarcesiano y base del Culto del Devorador.
+* **Compilación PDF:** [Lasers_y_Dragones_Volumen_7_Mundos_Fragmentados_I_El_Rastro_hacia_Eox.pdf](./novela/Lasers_y_Dragones_Volumen_7_Mundos_Fragmentados_I_El_Rastro_hacia_Eox.pdf)
 
 ---
 

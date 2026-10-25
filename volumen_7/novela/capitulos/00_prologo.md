@@ -13,10 +13,3 @@ Benray Galway, el emisario ysoki cuya lengua afilada y reflejos imposibles desaf
 Junto a ellos, erguido como un baluarte de acero y blindaje compuesto, permanecía Gerty: el dron de asalto bípedo de dos metros reconstruido por Triel, dotado ahora de cuatro brazos mecánicos y un procesador sarcástico que jamás concedía una tregua dialéctica a sus compañeros orgánicos. Atrás quedaban también los singulares náufragos del Acreon, Willy y Naru, quienes tras llenar de grasa y trastos el muelle de Absalón habían sido derivados a los cuarteles de los Protectores, convirtiéndose en el dolor de cabeza predilecto del Oficial León Holden.
 
 Atrás quedaban las leyendas de Castrovel. Delante de ellos se abría el frío insondable del cinturón de asteroides de la Diáspora, donde viejos fantasmas del linaje corsario de Triel aguardaban entre rocas mudas, y más allá, el destino que aterrorizaba hasta la médula al emisario ysoki: el planeta Eox, la corte fúnebre de los muertos vivientes.
-
----
-
-> **Nota Editorial y Atribución:**  
-> *Lasers y Dragones: Mundos Fragmentados I: El Rastro hacia Eox* es una obra de ficción novelada basada en la campaña real de rol de *Lasers y Dragones* (adaptación libre y no oficial de la senda de aventuras *Starfinder: Dead Suns*, propiedad de Paizo Inc.).  
-> Esta obra se distribuye de manera gratuita bajo la **Política de Uso Comunitario de Paizo Inc.** ([paizo.com/communityuse]). No está respaldada ni afiliada formalmente a Paizo Inc.  
-> Un tributo especial a la mesa de juego: Roberto (Director de Juego), Irene (Triel Istrav), Juan Pablo (Marloc Boosmar), Miguel (Benray Galway) y Sofía (A.Xel 42), cuya imaginación y genialidad dieron vida a esta historia.
