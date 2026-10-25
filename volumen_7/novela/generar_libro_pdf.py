@@ -37,7 +37,7 @@ def md_to_html(text, is_glossary=False):
                 html_lines.append("</ul>")
                 in_list = False
             title = inline_formatting(line_s[2:].strip())
-            html_lines.append(f"<h2 class='chapter-name'>{title}</h2>")
+            html_lines.append(f"<h2 class='chapter-name' style='page-break-before: always;'>{title}</h2>")
             continue
         elif line_s.startswith("## "):
             if in_list:
