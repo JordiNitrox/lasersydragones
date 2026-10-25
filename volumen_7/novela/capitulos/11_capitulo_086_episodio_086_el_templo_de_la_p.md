@@ -43,4 +43,42 @@ Sus dedos bailaron sobre la consola táctica en una lucha desesperada contra el 
 
 Con un chirrido agónico que heló el aire, la esfera negra sobre el pedestal implosionó sobre sí misma. Un destello de luz blanca cegadora bañó el sanctasanctórum antes de apagarse por completo, dejando tras de sí un silencio espeso y el olor a metal calcinado.
 
-El ritual había sido interrumpido. Pero en la terminal del altar, los bancos de datos aún continuaban parpadeando, revelando el mayor secreto que el Culto del Devorador guardaba en la Diáspora.
+El ritual había sido interrumpido. Pero mientras Marloc aseguraba las terminales del altar, Triel y Axel avanzaron hacia las compuertas traseras para asegurar el perímetro de los barracones residenciales del complejo.
+
+***
+
+### IV. El rastro del nuevo inquilino
+
+A diferencia de las celdas comunes del culto —cubiertas de inmundicia, huesos amontonados y pintadas fanáticos con letras de Syd Velch—, el pasillo lateral desembocaba en un recinto resguardado por una compuerta blindada con trampas dispuestas únicamente para repeler intrusos desde el exterior.
+
+Al desactivar el cerrojo magnético, Triel y Axel quedaron paralizadas en el umbral.
+
+La habitación estaba meticulosamente ordenada. No había símbolos de destrucción ni oraciones nihilistas. Sobre una mesa metálica iluminada por un foco auxiliar descansaban decenas de hojas de dibujo trabajadas con una sensibilidad artística asombrosa: trazos firmes de carboncillo y pigmentos que capturaban con exactitud casi fotográfica rostros de fanáticos, escenas cotidianas del búnker y, sobre todo... **retratos de A.Xel 42**. Decenas de estudios anatómicos de su rostro sintético, con sombras sutiles que exploraban cada ángulo de sus fotorreceptores.
+
+—Por los dioses... —susurró Triel, acercándose a la mesa con el corazón en un puño—. Mira esto, Axel. Estos dibujos... son tuyos.
+
+Axel avanzó con pasos mecánicos y lentos, contemplando los retratos con una conmoción que saturaba sus circuitos lógicos. Sobre una de las dos literas del fondo, varias hebras inconfundibles de cabello sintético color fucsia y un estuche desgastado de mantenimiento de armas confirmaban la presencia de **Null-9**.
+
+Pero fue en la otra litera, oculta bajo una manta limpia, donde Axel encontró el golpe más devastador.
+
+Entre las mantas reposaba un cuaderno manuscrito cubierto por una caligrafía limpia, geométrica y vacilante a la vez, como la de alguien que aprende a sostener una pluma por primera vez en su vida. La androide leyó las líneas en silencio, sintiendo que cada palabra era una descarga directa a su procesador:
+
+> *«Ella me ha enseñado muchas cosas... Me ha enseñado a disparar, me ha enseñado a defenderme. Me dio con qué expresarme; lo primero que me ofreció fue pintura. He tratado de reconstruir quién soy. Me ha dado todo... menos un nombre.*
+> 
+> *Siento que ella debería darme un nombre. Éclair dijo que soy su hijo, pero he aprendido que los padres nombran a sus hijos y yo no tengo un nombre. Ella no me lo ha dado... y la que fue hallada tal vez debería darme uno.*
+> 
+> *Ella me dice que no hay nada, pero siento que no es cierto: alguien tan lleno de ira no puede creer de verdad que no hay nada. Mi padre pensaba que continuábamos y decía que éramos lo que dejábamos.*
+> 
+> *Axel... no sé si ella sepa, pero sus respuestas deben ser mejores que las mías. Si no me abandonaste, Axel... espero que estés leyendo esto.»*
+
+Triel posó una mano temblorosa sobre el hombro de su compañera:
+
+—Es él, Axel... Es la nueva conciencia. El alma que despertó en el cuerpo de Éclair en el Templo de Triune. Null se lo llevó consigo... se lo trajo a este pozo de oscuridad.
+
+Axel apretó el cuaderno contra su pecho de aleación. En su memoria resonó el eco de aquella mañana en Absalón, cuando el cuerpo de Éclair despertó convulsionando con circuitos blancos inmaculados y le preguntó si había algo para ella. Recordó cómo ella misma había rehuido sus mensajes, incapaz de mirarlo sin sentir el dolor de la pérdida.
+
+—Cree que lo abandoné... —susurró Axel, con la voz apagada por un nudo digital en sus sintetizadores—. Null lo trajo aquí para moldearlo a su propia rabia... mientras él solo buscaba un nombre y una razón para existir.
+
+—Lo encontraremos, Axel —le prometió Triel con fiereza protectora—. Te juro que lo arrancaremos de las garras de Null y de este culto maldito.
+
+La androide guardó el cuaderno junto a sus bancos de memoria más protegidos. En el corazón de la Diáspora, la misión de la *Estrella Errante* ya no era solo desentrañar una conspiración galáctica: se había convertido en el rescate de la inocencia nacida del mayor sacrificio de su vida.

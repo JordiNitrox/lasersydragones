@@ -114,13 +114,21 @@ Psicópata despiadado que escolta a los secuestradores de Solstarni. Enloqueció
 *Archivista del Ala Oeste de la Universidad de Qabarat*  
 Bibliotecario estirado y xenófobo que protagoniza una hilarante trifulca en el suelo con Benray disputándose la muñeca Annabelle, siendo posteriormente obligado por la decana Muhali a disculparse y a asistir a cursos de tolerancia.
 
+### Éclair
+*Veterano Androide de Absalón y Mentor Espiritual de Axel 42*  
+Figura venerada entre las comunidades androides de la estación y primer protector de Axel tras su rescate de la esclavitud. Con más de un siglo de vivencias a sus espaldas, decide someterse voluntariamente al ritual de Renovación en el Templo Sin Nombre tras la muerte de Marlene Boosmar. En su despedida en el trono de madera blanca de la capilla de Triune, entrega a Axel un datachip con una carta dirigida a su sucesor, pronuncia sus últimas palabras («Cumpliré mi promesa») y trasciende hacia la Gran Red, liberando su chasis para una nueva alma.
+
+### La Nueva Conciencia («El Hijo de Éclair» / «El Nuevo Inquilino»)
+*Nueva Alma Androide que Habita el Chasis de Éclair*  
+Conciencia recién nacida que despierta convulsionando tras la Trascendencia de Éclair en la capilla de Triune. Su despertar físico transforma las líneas bioluminiscentes del chasis de ámbar a un blanco brillante inmaculado y palidece su tez sintética. Recibe de manos de Axel el datachip de memoria dejado por su predecesor, insertándolo en su interfaz craneal y reconociendo a la joven antes de ser acogido por los sacerdotes de Triune para aprender a caminar y vivir en el universo.
+
 ### Null-9
-*Unidad Androide Hermana y Aliada en Absalón*  
-Mantiene contacto cifrado con Axel desde los suburbios de la Espiga, vigilando los movimientos de las corporaciones y los cultos oscuros mientras la tripulación navega por mundos lejanos.
+*Veterana Androide, Francotiradora y Mentora Táctica de Axel*  
+Compañera inseparable de Éclair y adiestradora de combate de Axel. Arrasada por el dolor y la desesperación ante la partida de su mejor amigo, protagoniza un violento motín en la capilla de Triune encañonando a Éclair en el trono antes de desviar su disparo a la madera y huir entre lágrimas. En un desgarrador monólogo ante Axel en las galerías exteriores, denuncia la crueldad biológica que los dotó de sentimientos inútiles y el deseo de morir, abandonando la estación rumbo a paraderos desconocidos en el Vasto.
 
 ### Willy y Naru (Los Amigoblins)
-*Goblins Espaciales de la Tripulación*  
-Permanecen a bordo de la nave en los hangares orbitales de Qabarat, encargados del mantenimiento menor y de no pulsar los botones rojos mientras sus capitanes se internan en la jungla.
+*Goblins Espaciales Reubicados en Absalón*  
+Náufragos rescatados del *Acreon*. Tras acampar con su prole en la sala de máquinas del *Hippocampus*, Benray y Marloc los convencen de mudarse con todo su clan a la patrulla artillada del Oficial León Holden en el Muelle 34 («el gran protector de los goblins»). Quedan custodiados en la estación espacial, dejando la sala de máquinas de la *Estrella Errante* limpia y operativa para la expedición a Castrovel.
 
 ---
 

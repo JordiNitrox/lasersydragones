@@ -20,7 +20,8 @@
 ---
 
 ## 3. Personajes Secundarios y Facciones
-* **Null-9:** Operativa y tecnomante androide capturada tras la trampa virtual en Absalón. Sirve como fuente hostil de información sobre la conspiración del Culto del Devorador y las megacorporaciones.
+* **Null-9:** Veterana francotiradora androide y antigua mentora de Axel. Tras huir de Absalón destrozada por la Renovación de Éclair, se une clandestinamente a las operaciones del Culto del Devorador y se lleva consigo a la nueva conciencia nacida del chasis de su amigo, protegiéndolo en el búnker del Espinazo del Diablo mientras lo adiestra en el manejo de armas y pintura.
+* **La Nueva Conciencia («El Hijo de Éclair»):** Nueva alma androide que habita el chasis de circuitos blancos de Éclair. Acompaña a Null-9 en la Diáspora buscando su propia identidad; en su camarote privado del asteroide deja dibujos de Axel y un conmovedor diario manuscrito en el que reflexiona sobre su falta de nombre y el dolor de haber sido dejado atrás por Axel tras su nacimiento en Absalón.
 * **Los Sarcesianos:** Gigantes alienígenas nativos de la Diáspora que habitan asteroides y viajan por el vacío impulsados por alas de energía lumínica pura.
 * **Piratas de la Diáspora:** Clanes independientes de forajidos que recuerdan el nombre del legendario corsario Keiden Ashton.
 * **Culto del Devorador:** Fanáticos nihilistas que buscan reactivar una superarma pre-Brecha capaz de aniquilar sistemas estelares completos.

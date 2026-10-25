@@ -46,7 +46,7 @@ Académico distinguido de mente analítica, brazo cibernético y nueva capa cere
 
 ### A.Xel 42
 *Operativa Androide (Jugadora: Sofía)*  
-Tiradora de élite de fría precisión y líneas bioluminiscentes rosadas. En este volumen enfrenta su mayor dilema existencial: tras recibir una notificación del Templo de Triuno sobre la renovación de Claire y examinar una fotografía analógica en la Avenida 41, descubre que su chasis fue habitado por otra alma antes de su propio despertar en el Vasto. Supera la conmoción gracias al apoyo de sus camaradas, abatiendo a la señorita Joss en el tiroteo del despacho y pilotando la *Estrella Errante* hacia el salto al Drift.
+Tiradora de élite de fría precisión y líneas bioluminiscentes rosadas. En este volumen enfrenta su mayor dilema existencial: tras recibir un misterioso mensaje anónimo y examinar la fotografía holográfica de la Avenida 41 guardada junto a la cazadora de Éclair, descubre que su chasis fue habitado por otra alma antes de su propio despertar en el Vasto. Supera la conmoción gracias al apoyo de sus camaradas, abatiendo a la señorita Joss en el tiroteo del despacho y pilotando la *Estrella Errante* hacia el salto al Drift.
 
 ---
 
@@ -81,8 +81,8 @@ Científica ilustre rescatada del Templo de los Doce Soles. Acompaña al pelotó
 Voz etérea y melancólica que despierta en los altavoces y mamparos de la *Estrella Errante* tras la instalación del procesador militar recuperado en Ukulam. Con lagunas de memoria sobre su vida previa, reconoce de forma intuitiva el nombre de Benray Galway y asume el control de los sistemas de navegación de la nave para guiar a la tripulación a través de la Diáspora.
 
 ### Willy y Naru
-*Ingenieros de Mantenimiento y Custodios de la Nave (Goblins Espaciales)*  
-Leales tripulantes de la *Estrella Errante*. Reciben al grupo con júbilo en el puerto de Qabarat y preparan la nave para el salto hiperespacial, cuidando los reactores entre recetas de cocina incomibles y ajustes mecánicos caóticos pero sorprendentemente funcionales.
+*Goblins Espaciales de Absalón (Bajo la Tutela de Los Protectores)*  
+Goblins rescatados del *Acreon*. Permanecen en la Estación Absalón asignados a la patrulla del Oficial León Holden desde el Episodio 35, manteniendo la sala de máquinas de la *Estrella Errante* despejada de caldos radioactivos y travesuras mientras sus antiguos rescatadores exploran las profundidades del Vasto.
 
 ---
 
