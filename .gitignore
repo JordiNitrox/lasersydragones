@@ -1,13 +1,16 @@
 # ==============================================================================
 # Archivos de audio pesados (fuentes descargadas de Libsyn / YouTube)
 # Las transcripciones limpias y raw se conservan en el repositorio.
-# ==============================================================================
-**/audios/
+# Archivos multimedia pesados (las carpetas audios/ se rastrean con README.md y .gitkeep)
 *.mp3
 *.wav
 *.m4a
 *.ogg
 *.flac
+!**/audios/
+!**/audios/**/
+!**/audios/README.md
+!**/audios/.gitkeep
 
 # ==============================================================================
 # Perfiles y archivos temporales generados por LibreOffice durante la maquetación

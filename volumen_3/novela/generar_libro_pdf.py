@@ -408,44 +408,33 @@ def generate_html(page_numbers=None):
   </div>
 
   <!-- 2. NOTA EDITORIAL E INTRODUCCIÓN -->
-  <h2 class="section-heading-main">Nota Editorial e Introducción</h2>
+  <h2 class="section-heading-main" style="margin-top: 5px; margin-bottom: 12px; font-size: 19pt; padding-bottom: 6px;">Nota Editorial e Introducción</h2>
   
-  <p>La presente obra constituye el tercer volumen de la novelización de las sesiones reales de juego de rol de mesa (<em>actual play</em>) emitidas en el podcast costarricense <strong>Lasers y Dragones</strong>, correspondiente a los episodios 23 al 33.</p>
+  <p style="font-size: 9pt; line-height: 1.35; margin-bottom: 5px;">La presente obra constituye el tercer volumen de la novelización de las sesiones reales de juego de rol de mesa (<em>actual play</em>) emitidas en el podcast costarricense <strong>Lasers y Dragones</strong>, correspondiente a los episodios 23 al 33.</p>
   
-  <p>Con este volumen culmina el primer gran arco argumental de la campaña oficial <strong>Dead Suns (Soles Muertos)</strong> del juego de rol <strong>Starfinder</strong> (creado y publicado por <em>Paizo Inc.</em>), correspondiente a la aventura <em>Incidente en la Estación Absalón</em>. La trama narra el descenso de la expedición a las entrañas de la misteriosa Roca del Drift, el descubrimiento de una civilización alienígena anterior a la Brecha (<em>The Gap</em>), la lucha sin cuartel contra el letal depredador vampírico del hiperespacio —el <em>Garaggakal</em>—, el legado de la legendaria exploradora Moriko Nash y el apoteósico regreso de la tripulación a la Estación Absalón ante el tribunal de arbitraje del Consejo de Síndicos.</p>
+  <p style="font-size: 9pt; line-height: 1.35; margin-bottom: 5px;">Con este volumen culmina el primer gran arco argumental de la campaña oficial <strong>Dead Suns (Soles Muertos)</strong> de <strong>Starfinder</strong> (publicado por <em>Paizo Inc.</em>), correspondiente a la aventura <em>Incidente en la Estación Absalón</em>. Narra el descenso a la Roca del Drift, el hallazgo de una civilización anterior a la Brecha, la lucha contra el vampírico <em>Garaggakal</em>, el legado de Moriko Nash y el apoteósico triunfo judicial en Absalón.</p>
   
-  <p>La historia adapta con fidelidad y pulso literario la dirección, giros y modificaciones narrativas del Game Master <strong>Roberto</strong>, junto al elenco original de jugadores:</p>
-  
-  <div style="margin: 25px auto; max-width: 520px;">
-    <hr style="border: none; border-top: 1px solid #b8860b; width: 45%; margin: 15px auto;">
-    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 9.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 12px 0; text-indent: 0; text-align: center;">
+  <div style="margin: 6px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 5px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 8.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 5px 0; text-indent: 0; text-align: center;">
       ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
     </p>
-    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
-      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>)
+    <p style="margin: 2px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> GM / Gerty &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benray Galway <em>(Emisario)</em>
     </p>
-    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
-      <strong style="color: #1a365d;">Miguel:</strong> Benray Galway <em>(Emisario Ysoki)</em>
+    <p style="margin: 2px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc <em>(Tecnomante)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa)</em>
     </p>
-    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
-      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em>
-    </p>
-    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
-      <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante Humano)</em>
-    </p>
-    <p style="margin: 6px 0; text-indent: 0; text-align: center; font-size: 10.5pt; color: #2d3748;">
-      <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
-    </p>
-    <hr style="border: none; border-top: 1px solid #b8860b; width: 45%; margin: 15px auto;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 5px auto;">
   </div>
   
-  <p>El propósito de esta novelización es transformar la espontaneidad de la mesa de rol en una experiencia literaria inmersiva, cinematográfica y coherente, respetando con fidelidad la personalidad de los protagonistas, el tono de comedia y peligro espacial, y la evolución del canon.</p>
+  <p style="font-size: 9pt; line-height: 1.35; margin-bottom: 5px;">El propósito de esta novelización es transformar la espontaneidad de la mesa de rol en una experiencia literaria inmersiva, cinematográfica y coherente, respetando con fidelidad a los protagonistas, el humor espacial y la evolución del canon.</p>
 
-  <div style="margin: 30px auto 10px auto; padding: 14px 18px; border: 1px solid #cbd5e0; background-color: #f8fafc; font-size: 8.5pt; color: #4a5568; line-height: 1.5; text-align: justify; border-radius: 4px;">
-    <p style="margin: 0 0 6px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 9pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+  <div style="margin: 8px auto 0 auto; padding: 8px 14px; border: 1px solid #cbd5e0; background-color: #f8fafc; font-size: 7.5pt; color: #4a5568; line-height: 1.35; text-align: justify; border-radius: 4px; page-break-inside: avoid; break-inside: avoid;">
+    <p style="margin: 0 0 4px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
       Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
     </p>
-    <p style="margin: 0 0 6px 0; text-indent: 0;">
+    <p style="margin: 0 0 4px 0; text-indent: 0;">
       Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
     </p>
     <p style="margin: 0; text-indent: 0;">

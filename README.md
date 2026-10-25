@@ -49,6 +49,7 @@ lasersydragones/
 │       └── Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf  # PDF Final Maquetado (70 páginas)
 │
 ├── volumen_4/                               # Volumen 4: Las Torres de Qabarat (Episodios 34 a 45)
+│   ├── audios/                              # Registro y enlaces de los 12 episodios (Libsyn / YouTube)
 │   ├── transcripciones/                     # Subtítulos .vtt y transcripciones limpias (136,356 palabras)
 │   ├── metadatos/                           # episodios_volumen_4.json
 │   ├── scripts/                             # Script de descarga y procesamiento
@@ -59,6 +60,7 @@ lasersydragones/
 │       └── Lasers_y_Dragones_Volumen_4_Las_Torres_de_Qabarat.pdf  # PDF Final Maquetado (78 páginas)
 │
 ├── volumen_5/                               # Volumen 5: El Templo de los Doce Soles (Episodios 46 a 59)
+│   ├── audios/                              # Registro y enlaces de los 14 episodios (Libsyn / YouTube)
 │   ├── transcripciones/                     # Subtítulos .vtt y transcripciones limpias (160,439 palabras)
 │   ├── metadatos/                           # episodios_volumen_5.json
 │   ├── scripts/                             # Scripts de descarga y procesamiento
@@ -69,6 +71,7 @@ lasersydragones/
 │       └── Lasers_y_Dragones_Volumen_5_El_Templo_de_los_Doce_Soles.pdf  # PDF Final Maquetado (67 páginas)
 │
 ├── volumen_6/                               # Volumen 6: El Fantasma en la Máquina (Episodios 60 a 72)
+│   ├── audios/                              # Registro y enlaces de los 13 episodios (Libsyn / YouTube)
 │   ├── transcripciones/                     # Subtítulos .vtt y transcripciones limpias (150,000 palabras)
 │   ├── metadatos/                           # episodios_volumen_6.json
 │   ├── scripts/                             # Scripts de extracción y análisis

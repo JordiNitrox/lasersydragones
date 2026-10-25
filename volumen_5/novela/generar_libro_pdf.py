@@ -435,9 +435,40 @@ def generate_html(page_numbers=None):
   </div>
 
   <!-- 2. NOTA EDITORIAL E INTRODUCCIÓN -->
-  <h2 class="section-heading-main">Nota Editorial e Introducción</h2>
-  <div class="chapter-body">
-    {editorial_html}
+  <h2 class="section-heading-main" style="margin-top: 5px; margin-bottom: 12px; font-size: 19pt; padding-bottom: 6px;">Nota Editorial e Introducción</h2>
+  
+  <p style="font-size: 9.5pt; line-height: 1.4; margin-bottom: 6px;">La presente obra constituye el quinto volumen de la novelización de las sesiones reales de juego de rol de mesa (<em>actual play</em>) emitidas en el podcast costarricense <strong>Lasers y Dragones</strong>, correspondiente a los episodios 46 al 59.</p>
+  
+  <p style="font-size: 9.5pt; line-height: 1.4; margin-bottom: 6px;">La narración sumerge a los protagonistas en las profundidades inhóspitas del continente salvaje de Ukulam, en el planeta Castrovel: desde las estepas de Cabo Turhalu hasta los desfiladeros de la Cordillera Cantante, pasando por los vestigios pre-Brecha de El Elfo Reclinado, la ciudad olvidada de Loskialua y el asedio a la cima sagrada del <strong>Templo de los Doce Soles</strong> frente a las hordas del Culto del Devorador y el fanático Tahomen.</p>
+  
+  <p style="font-size: 9.5pt; line-height: 1.4; margin-bottom: 6px;">La historia adapta los acontecimientos de la campaña oficial <strong>Dead Suns (Soles Muertos)</strong> de <strong>Starfinder</strong> (<em>Paizo Inc.</em>), enriquecida con la dirección narrativa del Game Master <strong>Roberto</strong> y el elenco original de jugadores:</p>
+  
+  <div style="margin: 8px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 8.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 6px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benray Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa)</em>
+    </p>
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+  </div>
+  
+  <p style="font-size: 9.5pt; line-height: 1.4; margin-bottom: 6px;">El propósito de esta novelización es transformar la espontaneidad de la mesa de rol en una experiencia literaria inmersiva, cinematográfica y coherente, respetando con fidelidad la personalidad de los protagonistas, el tono de comedia y peligro espacial, y la evolución del canon.</p>
+
+  <div style="margin: 10px auto 0 auto; padding: 10px 14px; border: 1px solid #cbd5e0; background-color: #f8fafc; font-size: 7.5pt; color: #4a5568; line-height: 1.35; text-align: justify; border-radius: 4px; page-break-inside: avoid; break-inside: avoid;">
+    <p style="margin: 0 0 4px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+      Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+    </p>
+    <p style="margin: 0 0 4px 0; text-indent: 0;">
+      Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
+    </p>
+    <p style="margin: 0; text-indent: 0;">
+      Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benray Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Marloc Boosmar) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+    </p>
   </div>
 
   <!-- 3. ÍNDICE DE CONTENIDOS -->
