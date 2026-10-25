@@ -14,7 +14,7 @@ Este directorio funciona como la **Única Fuente de Verdad** (*Single Source of 
    - Dossier exhaustivo de personajes protagonistas y secundarios con sus arcos, armas, evoluciones y estado actual.
    - Directorio de corporaciones, facciones galácticas, bestiario cósmico y matriz de continuidad comparativa.
 
-2. **[Descargar PDF Editorial (48 Páginas)](Contexto_Completo_Lasers_y_Dragones.pdf)**:
+2. **[Descargar PDF Editorial (46 Páginas)](Contexto_Completo_Lasers_y_Dragones.pdf)**:
    Versión maquetada con la misma portada y diseño tipográfico de las novelas, ideal para una lectura cómoda y rápida de toda la historia acumulada.
 
 3. **`generar_contexto_pdf.py`**:

@@ -150,19 +150,19 @@ CTX_TOC_ITEMS = [
         "id": "sec_1",
         "search_key": "1. Resumen Cronológico de los Volúmenes",
         "title": "1. Resumen Cronológico de los Volúmenes",
-        "sub": "Sinopsis argumental y puntos de giro: Volumen 1 al Volumen 5"
+        "sub": "Sinopsis argumental y puntos de giro: Volumen 1 al Volumen 6"
     },
     {
         "id": "sec_2",
         "search_key": "2. Índice Maestro de Escenarios y Ubicaciones",
         "title": "2. Índice Maestro de Escenarios y Ubicaciones",
-        "sub": "Estación Absalón, Castrovel, Qabarat, Aiakos, Ukulam y Templo de los Doce Soles"
+        "sub": "Estación Absalón, Castrovel, Qabarat, Aiakos, Ukulam, La Diáspora y Torre Prisma"
     },
     {
         "id": "sec_3",
         "search_key": "3. Dossier Maestro de Personajes",
         "title": "3. Dossier Maestro de Personajes",
-        "sub": "Protagonistas (Nivel 5), aliados, secundarios y comandantes del Devorador"
+        "sub": "Protagonistas (Nivel 6), aliados, secundarios, corsarios y rivales corporativos"
     },
     {
         "id": "sec_4",
@@ -174,13 +174,13 @@ CTX_TOC_ITEMS = [
         "id": "sec_5",
         "search_key": "5. Bestiario y Amenazas Cósmicas",
         "title": "5. Bestiario y Amenazas Cósmicas",
-        "sub": "Garaggakal, Driftdead, Akatas, Yaruks, Khasaris, Oshiga y fauna de Ukulam"
+        "sub": "Garaggakal, Driftdead, Akatas, Yaruks, Khasaris, Oshiga, Campin y autómatas de asalto"
     },
     {
         "id": "sec_6",
         "search_key": "6. Matriz de Continuidad y Estado de la Tripulación",
         "title": "6. Matriz de Continuidad y Estado de la Tripulación",
-        "sub": "Tabla comparativa de naves, armamento, romances y estado activo (Vol. 1-5)"
+        "sub": "Tabla comparativa de naves, armamento, romances y estado activo (Vol. 1 al 6)"
     }
 ]
 
