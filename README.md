@@ -100,12 +100,12 @@ Todos los recursos se encuentran preparados en sus directorios correspondientes 
   *Arco:* Marcelus al descubierto, infiltración encubierta como sirvientes drow en la Casa Istrav, secretos de Keiden Ashton y duelo fratricida de Triel contra Jhidel.
 * **[Volumen 10: El Rally de la Muerte en el Asteroide-Casino](file:///home/jordi/Proyectos/lasersydragones/volumen_10/)** (Episodios 123 al 135) · *[RECURSOS PREPARADOS]*  
   *Arco:* Transición espacial, apuestas, robots corruptos y la carrera vehicular mortal en el vacío con Marloc de piloto.
-* **[Volumen 11: La Odisea de La Galway](file:///home/jordi/Proyectos/lasersydragones/volumen_11/)** (Episodios 136 al 162) · *[RECURSOS PREPARADOS]*  
-  *Arco:* Salida temporal de Marloc; Juan Pablo introduce a Zivok; conflicto de clanes ysoki, deudas de honor y Roberto llevando a Marloc en segundo plano.
+* **[Volumen 11: La Nave Fantasma y la Odisea de La Galway](file:///home/jordi/Proyectos/lasersydragones/volumen_11/)** (Episodios 136 al 162) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Salida temporal de Marloc y llegada de Zivok a *La Galway*; incursión y pesadilla de más de 20 episodios (Ep 138-159) atrapados en una colosal nave fantasma eoxiana de los no-muertos (*El Corazón de la Oscuridad*), combatiendo espectros de la Flota de los Cuerpos, abominaciones *Lovelorn*, anomalías temporales y clones oscuros de Axel y Benrey.
 * **[Volumen 12: Las Nubes Arruinadas - La Ciudadela de Istamak](file:///home/jordi/Proyectos/lasersydragones/volumen_12/)** (Episodios 163 al 185) · *[RECURSOS PREPARADOS]*  
   *Arco:* Retorno de Juan Pablo y Marloc (Ep 163), descenso en Nejeor, ciudad flotante de Istamak, civilización Kishalee y misterio de la Puerta Estelar (Libro 4).
-* **[Volumen 13: El Corazón del Padre - La Redención de Apostae](file:///home/jordi/Proyectos/lasersydragones/volumen_13/)** (Episodios 186 al 222) · *[RECURSOS PREPARADOS]*  
-  *Arco:* Descubrimiento de que Keiden Ashton vive prisionero; asalto definitivo a Apostae, caída de la jerarquía drow y rescate agónico del padre de Triel.
+* **[Volumen 13: El Corazón del Padre - La Nave de Besmara](file:///home/jordi/Proyectos/lasersydragones/volumen_13/)** (Episodios 186 al 222) · *[RECURSOS PREPARADOS]*  
+  *Arco:* La abuela Alistrav revela que Keiden Ashton no murió ni está prisionero: quedó perdido en el Maelstrom de la Deriva en la mística nave pirata de Besmara. Los Atómicos viajan a la Deriva tras la nave viva y cambiante, derrotan a Jhidel Istrav y restauran el corazón del motor para salvar a Keiden, forjando una gran alianza pirata.
 * **[Volumen 14: La Decimotercera Puerta](file:///home/jordi/Proyectos/lasersydragones/volumen_14/)** (Episodios 223 al 249) · *[RECURSOS PREPARADOS]*  
   *Arco:* Sistema de los Doce Soles, misterios de las almas previas de Axel-42, exploración de mega-ingeniería Kishalee, caída de Null-9 y de la IA Eltreth, apertura triunfal de la Decimotercera Puerta al Devastador Estelar (Libro 5).
 * **Volumen 15: El Imperio de los Huesos (Parte 1 / En Curso)** (Episodios 250 al 272+) · *[EN CURSO]*  

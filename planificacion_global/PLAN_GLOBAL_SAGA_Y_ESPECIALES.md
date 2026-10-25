@@ -84,15 +84,15 @@ graph TD
         V7 --> V8 --> V9
     end
 
-    subgraph V10to11 ["BLOQUE II: El Casino Espacial y la Saga Galway"]
+    subgraph V10to11 ["BLOQUE II: El Casino Espacial y la Nave Fantasma"]
         V10["Volumen 10: El Rally de la Muerte (Ep 123-135)<br/><i>Asteroide-Casino y Carrera Mortal en el Vacío</i>"]
-        V11["Volumen 11: La Odisea de La Galway (Ep 136-162)<br/><i>Ausencia de Marloc, Zivok y Conflicto del Clan Galway</i>"]
+        V11["Volumen 11: La Nave Fantasma (Ep 136-162)<br/><i>Zivok, La Galway, Pecio No-Muerto de Eox y los Lovelorn</i>"]
         V9 --> V10 --> V11
     end
 
-    subgraph V12to13 ["BLOQUE III: Las Nubes Arruinadas y el Rescate de Keiden"]
+    subgraph V12to13 ["BLOQUE III: Las Nubes Arruinadas y la Nave de Besmara"]
         V12["Volumen 12: Las Nubes Arruinadas (Ep 163-185)<br/><i>Retorno de Marloc, Istamak y los Secretos Kishalee</i>"]
-        V13["Volumen 13: El Corazón del Padre (Ep 186-222)<br/><i>Asedio a Apostae y Rescate Final de Keiden Ashton</i>"]
+        V13["Volumen 13: El Corazón del Padre (Ep 186-222)<br/><i>La Nave de Besmara en la Deriva, Jhidel y Keiden Ashton</i>"]
         V11 --> V12 --> V13
     end
 
@@ -112,10 +112,10 @@ graph TD
 * **Mapeo:** Transición hacia el Libro 4 de Paizo / Aventura de mesa en el límite del espacio civilizado.
 * **Sinopsis:** Con la necesidad de reparar su nave y limpiar fondos tras su fuga de Apostae, la tripulación arriba al legendario asteroide-casino. Entre timbas intergalácticas, robots de protocolo corruptos y apuestas ilegales, se inscriben en el despiadado "Rally de la Muerte": una carrera vehicular extrema a través de campos de minas y fuego cruzado en el vacío espacial donde Marloc ejerce de piloto estelar antes de tomar una decisión que cambiará el destino del grupo.
 
-#### 🐀 VOLUMEN 11: *La Odisea de La Galway* (Episodios 136 al 162)
-* **Episodios:** 136 al 162 (27 episodios / ~16-18 capítulos).
-* **Notas de Mesa Vitales:** En el Episodio 136, **Juan Pablo decide dar un receso temporal a Marloc Boosmar** para probar una nueva clase e introduce al operativo **Zivok**. Durante este largo viaje, **Marloc permanece fuera de juego o es llevado puntualmente por Roberto como PNJ**.
-* **Sinopsis:** A bordo del crucero familiar *La Galway*, Benray se enfrenta a las deudas de honor y vendettas de su clan ysoki. Junto a parientes impredecibles como Yolmar, Valentina, Gazit y Rinrey, la tripulación sufre semanas de claustrofobia, emboscadas y abordajes en la oscuridad del espacio profundo mientras Zivok se gana la confianza del equipo.
+#### 👻 VOLUMEN 11: *La Nave Fantasma: El Pecio de Eox y la Odisea de La Galway* (Episodios 136 al 162)
+* **Episodios:** 136 al 162 (27 episodios / ~18-20 capítulos).
+* **Notas de Mesa Vitales:** En el Episodio 136, **Juan Pablo decide dar un receso temporal a Marloc Boosmar** para probar una nueva clase e introduce al operativo enano **Zivok**. Durante este largo viaje, **Marloc permanece fuera de juego o es llevado puntualmente por Roberto como PNJ**.
+* **Sinopsis:** A bordo del crucero familiar *La Galway*, Benray se reúne con parientes de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Sin embargo, el viaje se transforma en una pesadilla cósmica cuando la nave se topa con un pecio colosal en el vacío profundo: una **nave fantasma eoxiana de kilómetros de longitud** carcomida por los eones (*El Corazón de la Oscuridad*). Durante **más de 20 episodios ininterrumpidos de horror y supervivencia (Episodios 138 al 159)**, la tripulación queda atrapada explorando sus oscuras entrañas óseas, enfrentando a espectros no-muertos de la Flota de los Cuerpos, los aterradores *Lovelorn*, toxinas alucinógenas y perturbadoras anomalías temporales donde el espacio se pliega sobre sí mismo. Axel-42 debe batirse en duelo a muerte contra espantosas versiones alternativas de sí misma y sus engendros («Axel vs Axel», «Taquicardia»), mientras Benray sufre visiones fantasmales de sus propios reflejos («Benrey vs Benrey») antes de lograr rescatar a los parientes supervivientes y escapar rumbo a Nejeor.
 
 #### ☁️ VOLUMEN 12: *Las Nubes Arruinadas: La Ciudadela de Istamak* (Episodios 163 al 185)
 * **Episodios:** 163 al 185 (23 episodios / ~16 capítulos).
@@ -123,10 +123,10 @@ graph TD
 * **Notas de Mesa Vitales:** En el Episodio 163 (*"Si te he Fallado te Pido Perdón"*), **se produce el esperado retorno de Juan Pablo y Marloc Boosmar a la tripulación**.
 * **Sinopsis:** Tras el emotivo reencuentro con Marloc, la *Estrella Errante* penetra en la densa atmósfera tóxica del planeta Nejeor. Descubren la fabulosa ciudad flotante de Istamak, habitada por los degenerados descendientes de los Kishalee. Entre el asedio de bestias micóticas y la exploración del gigantesco Museo de Istamak, los héroes reactivan las antiguas inteligencias artificiales para descubrir la ubicación de la legendaria Puerta Estelar que conduce a la Superarma.
 
-#### 🗡️ VOLUMEN 13: *El Corazón del Padre: La Redención de Apostae* (Episodios 186 al 222)
+#### ⚓ VOLUMEN 13: *El Corazón del Padre: La Nave de Besmara y el Secreto de la Deriva* (Episodios 186 al 222)
 * **Episodios:** 186 al 222 (37 episodios / ~20 capítulos).
-* **Mapeo:** *Arco Canónico Propio de la Mesa (Clímax de la Casa Istrav y Keiden Ashton)*.
-* **Sinopsis:** Triel descubre que su padre, el humano Keiden Ashton, no murió en el pasado: está prisionero en las mazmorras más profundas de la nobleza drow, torturado y agonizante. La tripulación ejecuta un asalto a gran escala contra los dominios de la Casa Istrav. Tras una guerra de guerrillas en la oscuridad subterránea, Triel derrota a la jerarquía matriarcal y rescata a su padre biológico en un clímax desgarrador que sella para siempre las heridas de su infancia.
+* **Mapeo:** *Arco Canónico Propio de la Mesa (La Nave de Besmara, Keiden Ashton y el Conflicto con la Casa Istrav)*.
+* **Sinopsis:** La abuela drow de Triel revela una verdad trascendental: su padre biológico, el corsario humano **Keiden Ashton**, no murió ni está prisionero en mazmorras subterráneas. Años atrás, su madre Naeae robó el corazón-motor de la legendaria nave pirata bendecida de **Besmara**, dejando a Keiden **atrapado y perdido en el torbellino del Maelstrom dentro de la Deriva (el Drift)**, apareciendo periódicamente entre dimensiones en una nave cambiante y maleable que desafía las leyes de la física y puede surcar el cosmos sin necesidad de balizas. Tras regresar al asteroide Kairos y ser emboscados por conspiraciones drow, los Atómicos se lanzan a la Deriva tras la pista de la nave de Besmara. Allí sufren las distorsiones psíquicas y corporales de la nave viva («Un ¿Viernes? de Locos», «Se Viene el Culebrón»), libran un duelo fratricida decisivo contra su implacable hermana **Jhidel Istrav** («Triel vs Jhidel») y alcanzan el núcleo del navío para restaurar el corazón del motor y estabilizar la vida de Keiden Ashton («El Corazón del Padre»). Padre e hija se reencuentran como aliados navales, ganando el apoyo pirata de la nave de Besmara para la guerra que se avecina contra la Flota de los Cuerpos.
 
 #### 🚪 VOLUMEN 14: *La Decimotercera Puerta* (Episodios 223 al 249)
 * **Episodios:** 223 al 249 (27 episodios / ~18 capítulos).
