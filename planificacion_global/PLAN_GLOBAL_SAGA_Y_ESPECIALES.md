@@ -149,6 +149,7 @@ graph TD
 #### 🎲 VOLUMEN 11: *El Rally de la Muerte en el Asteroide-Casino* (Episodios 123 al 135)
 * **Episodios:** 123 al 135 (13 episodios / ~12 capítulos).
 * **Mapeo:** *Transición hacia Libro 4 / Aventura Canónica Propia en el Casino*.
+* **Hito y Giro de Personaje (Marloc y Ángela):** En este volumen reaparece **Ángela**, la mujer idéntica a la difunta esposa de Marloc que conoció en Castrovel (Vol. 4). En el **Episodio 135 (*«Lo Dejaría Todo por que te Quedaras»*)**, tras una conmovedora carta personal y un profundo conflicto espiritual y amoroso, **Marloc decide quedarse temporalmente en el casino junto a Ángela** para investigar la Piedra Corazón y sanar sus heridas. Juan Pablo entrega la posta temporal al operativo enano **Zivok**, quien se incorpora a la tripulación.
 * **Sinopsis:** Necesitados de créditos y repuestos para reparar la Estrella Errante, los héroes atracan en un asteroide-casino gobernado por mafias y androides de placer. Para saldar cuentas, se inscriben en el letal «Rally de la Muerte»: una despiadada carrera vehicular a través de cinturones de asteroides y campos de plasma donde Marloc asume el mando como piloto estrella, antes de que tensiones personales lo lleven a tomar un receso temporal.
 
 #### 🚢 VOLUMEN 12: *La Odisea de La Galway I: El Pecio de la Oscuridad* (Episodios 136 al 147)
@@ -176,11 +177,14 @@ graph TD
 #### 🗝️ VOLUMEN 16: *El Corazón del Padre I: El Secreto de la Deriva* (Episodios 186 al 201)
 * **Episodios:** 186 al 201 (16 episodios / ~14 capítulos).
 * **Mapeo:** *Arco Canónico Propio: Retorno a Kairos y la Convocatoria Drow*.
+* **Giro Maestro A (Episodio 190):** La inquietante visión en el abismo estelar de una nave ciclópea y un **Marloc anciano, barbado y deshecho** siendo servido por un androide decrépito, prefigurando los horrores del tiempo y la Deriva.
+* **Giro Maestro B (Episodio 201 - El As Bajo la Manga):** Apertura del portal al Maelstrom con la Piedra Corazón y **el sacrificio de Gerty**: la entidad del asteroide-casino (**Kairos**, un SRO con alma) sobrecarga su núcleo para abrir la brecha y va a desaparecer para siempre. Triel, conectada a su *Custom Rig*, no tiene memoria suficiente para dos conciencias. En un desgarrador acto de deber moral, Triel despide a su fiel dron («*Lo siento, Gerty... adiós, sea una gran pirata*») y sobreescribe su memoria para albergar a Kairos. Kairos renace en el cuerpo de Gerty, le tiende la mano y declara: *«De qué forma extraña se han repartido las cartas...»*.
 * **Sinopsis:** Tras escapar de Nejeor y recalar en el asteroide Kairos para reparar la nave, Triel es convocada por su abuela, la matriarca drow Alistrav. Esta le revela la verdad: su padre Keiden Ashton no murió ni está cautivo, sino que quedó a la deriva en el torbellino del Maelstrom tras el robo del motor de la mística nave pirata de Besmara por parte de Naeae. Los Atómicos se preparan y saltan hacia el vórtice de la Deriva.
 
 #### ⚓ VOLUMEN 17: *El Corazón del Padre II: La Nave de Besmara* (Episodios 202 al 222)
 * **Episodios:** 202 al 222 (21 episodios / ~16 capítulos).
 * **Mapeo:** *Arco Canónico Propio: La Nave de Besmara y Keiden Ashton*.
+* **Continuidad de Personaje (Kairos en el cuerpo de Gerty):** Durante toda la travesía (iniciando con el surrealista intercambio de cuerpos por las mareas del Maelstrom en el Ep. 202), **Gerty es habitado por la personalidad de Kairos**, hablando con jerga de tahúr, naipes y probabilidades cósmicas. En el **Episodio 221**, Triel le confiesa a su padre Keiden la dolorosa verdad de cómo tuvo que sacrificar a Gerty original para salvar a Kairos.
 * **Sinopsis:** Incursión en la legendaria nave corsaria bendecida por Besmara, atrapada en el Maelstrom. La tripulación sufre las delirantes alteraciones físicas y psíquicas del navío («Un ¿Viernes? de Locos»). Afrontan el asalto y la revancha definitiva contra Jhidel Istrav («Triel vs Jhidel»), superan el severo juicio del Inevitable y devuelven el corazón del motor a la nave, salvando a Keiden Ashton («El Corazón del Padre») y sellando una alianza pirata interdimensional para la guerra venidera.
 
 #### ☀️ VOLUMEN 18: *La Decimotercera Puerta I: Los Doce Soles* (Episodios 223 al 235)
@@ -201,7 +205,41 @@ graph TD
 
 ---
 
-## 4. Estructura de Metadatos y Recursos en el Proyecto
+## 4. Giros Argumentales Cruciales de la Mesa (Mandatorios para la Novelización)
+
+La grandeza de esta campaña radica en la genialidad creativa compartida entre el Director de Juego (Roberto) y los jugadores (Irene, Juan Pablo, Sofía y Miguel). Los siguientes arcos narrativos no provienen de los módulos comerciales de Paizo, sino de la evolución viva de la mesa. **Bajo ningún concepto deben omitirse o diluirse al novelizar**:
+
+### 🎯 GIRO 1: El Sacrificio de Gerty y el Renacimiento de Kairos (Vol. 16, Ep. 201; Vol. 17)
+* **Naturaleza del Giro:** Tragedia íntima y dilema ético artificial.
+* **Contexto:** Kairos es un *SRO* (Organismo Robótico Sintiente dotado de alma verdadera) que rige el asteroide-casino. Al drenar su núcleo para abrir el portal hacia el Maelstrom, el asteroide colapsa gravitatoriamente y Kairos va a ser destruido para siempre.
+* **El Dilema:** Triel está enlazada por su *Custom Rig*. Solo tiene ancho de banda y memoria para conservar una matriz. Salvar a Kairos requiere sobrescribir la matriz de datos de Gerty (su dron de toda la vida, un autómata leal sin alma teológica pero profundamente amado por Triel).
+* **Ejecución Literaria:**
+  - Triel llora al comprender que debe dejar ir a su compañero: *«Esto está mal. Lo siento, Gerty... adiós, sea una gran pirata»*.
+  - Gerty se apaga; Kairos se descarga en el chasis.
+  - Al despertar, el chasis de Gerty adopta una compostura erguida, elegante y misteriosa. Le tiende la mano a Triel y pronuncia su sentencia de tahúr cósmico: *«De qué forma extraña se han repartido las cartas...»*.
+  - A lo largo de todo el **Volumen 17**, el dron ya no responde como la vieja máquina ruda de asalto: habla con metáforas de casino, apuestas, naipes y azar, desconcertando a la tripulación hasta que Triel revela la verdad a su padre en el Ep. 221.
+
+### 🍷 GIRO 2: El Arco de Redención, Duelo y Amor de Marloc Boosmar (Vol. 4, 11, 14, 16, 20)
+* **Naturaleza del Giro:** Evolución dramática de un héroe quebrado por el duelo y el alcoholismo.
+* **El Pasado:** Marloc arrastra el trauma incurable de la muerte repentina de su antigua esposa (a quien no pudo salvar).
+* **El Encuentro en Castrovel (Vol. 4, Ep. 37-38):** Conoce a **Ángela**, una mujer sorprendentemente idéntica en rostro y temperamento a su difunta esposa, quien también perdió a su marido ("Marlí"). Marloc vive una catarsis: *«Sé que usted no es mi Ángela y yo nunca seré su Marlí»*, sellando una amistad nacida del dolor compartido.
+* **La Pausa en el Casino (Vol. 11, Ep. 135):** Tras el horror de Eox y recibir una carta personal decisiva, Marloc confiesa su miedo a morir sin sentido en una guerra cósmica antes de entender por qué lucha. Decide quedarse en el casino con Ángela para protegerla e investigar la Piedra Corazón, cediendo su puesto a **Zivok**.
+* **La Visión Profética de la Deriva (Vol. 16, Ep. 190):** Una visión espeluznante en el vacío muestra un futuro/pasado alterno: una nave colosal desolada donde un robot decrépito sirve licor a un **Marloc anciano, barbado y consumido**, presagiando el peligro del encierro temporal en la Deriva.
+* **El Reencuentro y Madurez:** Marloc se reúne con el grupo renovado, asume el rango de Centurión del Fuego en el Cielo y, en el combate final del Dreadnought (Vol. 20, Ep. 269), acaricia con ternura el anillo de su mano pensando en Ángela, habiendo encontrado por fin la razón por la que vale la pena luchar y sobrevivir.
+
+### 🐀 GIRO 3: El Clan Galway y el Crucero Fantasma (Vol. 12 y 13)
+* **Naturaleza del Giro:** De comedia familiar ysoki a auténtico horror psicológico espacial.
+* **Contexto:** Lo que comienza como una reunión disfuncional con los primos y tíos de Benray (Yolmar, Valentina, Gazit, Rinrey) a bordo de *La Galway*, se transforma en una pesadilla claustrofóbica al toparse con el pecio eoxiano a la deriva.
+* **Ejecución Literaria:** El asedio de los Lovelorn, las toxinas alucinógenas y el enfrentamiento contra dobles espectrales (*Axel vs Axel*, *Benrey vs Benrey*) ponen a prueba la cordura del grupo y demuestran la valentía inquebrantable de los ysoki.
+
+### ⚓ GIRO 4: La Deriva, Keiden Ashton y el Legado Pirata de Besmara (Vol. 16 y 17)
+* **Naturaleza del Giro:** La subversión del misterio del padre de Triel.
+* **Contexto:** Keiden no estaba secuestrado pasivamente por la Casa Istrav en Apostae; era el audaz capitán que robó el motor de Besmara y quedó atrapado en el limbo temporal del Maelstrom. La Piedra Corazón actúa como faro de retorno.
+* **Ejecución Literaria:** El surrealismo de la física del Maelstrom (cambio temporal de cuerpos en el Ep. 202) contrasta con la intensidad emocional del reencuentro paternofilial y el juicio del Inevitable.
+
+---
+
+## 5. Estructura de Metadatos y Recursos en el Proyecto
 
 Todos los recursos se encuentran organizados y vinculados en el repositorio dentro de [`planificacion_global/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/):
 1. **Plan Detallado de Episodios (Volúmenes 7 al 20 y Especiales):**
