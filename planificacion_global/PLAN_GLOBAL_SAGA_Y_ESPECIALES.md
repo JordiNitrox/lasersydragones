@@ -1,7 +1,7 @@
 # Plan Global de Novelización: Saga Principal (Vol. 1 al 15) y Catálogo de Especiales
 ## Mapeo Integral de 272 Episodios de *Lasers y Dragones* frente a *Starfinder: Dead Suns*, Spin-offs y Especiales
 
-> **Proyecto:** *Lasers y Dragones: La Novela*  
+> **Proyecto:** *Lasers y Dragones: La Novela* (Adaptación fan no oficial sin ánimo de lucro)  
 > **Fuente de Audio:** Podcast Oficial de Rol en Vivo *Lasers y Dragones* (Feed RSS de Libsyn y Canal Oficial de YouTube)  
 > **Campaña Troncal:** *Starfinder: Dead Suns Adventure Path* (Paizo Publishing, Libros 1 al 6) enriquecida con arcos canónicos de la mesa de juego.  
 > **Material Descargado y Limpio:** 201 transcripciones limpias (200 episodios de Starfinder: Ep 73 al 272 + Spooky Octubre 2026 Ep 1) sumando **2.313.687 palabras** listos en [`planificacion_global/transcripciones/limpias/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/transcripciones/limpias/).  
@@ -13,17 +13,18 @@
 
 | Libro de Paizo / Arco | Episodios Podcast | Volúmenes Literarios | Escenario Principal | Estado / Planificación |
 | :--- | :---: | :---: | :--- | :---: |
-| **Libro 1: Incident at Absalom Station** | 001 – 032 | **Volumen 1 y Volumen 2** | Estación Ábsalon, Roca del Drift, *Acreon* | **Publicados en PDF** |
-| **Libro 2: Temple of the Twelve** | 033 – 072 | **Volúmenes 3, 4, 5 y 6** | Castrovel (Qabarat, Selvas de Ukulam, Templo) | **Publicados en PDF** |
-| **Libro 3: Splintered Worlds (Parte 1)** | 076b – 088 | **Volumen 7** | Ábsalon (emboscada) y La Diáspora (asteroides) | **Planificado y Transcrito** |
-| **Libro 3: Splintered Worlds (Parte 2)** | 089 – 110 | **Volumen 8** | Eox (Planeta de los Muertos, Reality Show Zo!) | **Planificado y Transcrito** |
-| **Arco Canónico Propio: Casa Istrav** | 111 – 122 | **Volumen 9** | Apostae (Infiltración Drow, Duelo Fratricida) | **Planificado y Transcrito** |
-| **Transición: Asteroide-Casino** | 123 – 135 | **Volumen 10** | El Casino al fin del Universo y Rally de la Muerte | **Planificado y Transcrito** |
-| **Arco Canónico: Familia Galway & Zivok** | 136 – 162 | **Volumen 11** | La nave *La Galway*, clanes ysoki, ausencia Marloc | **Planificado y Transcrito** |
-| **Libro 4: The Ruined Clouds** | 163 – 185 | **Volumen 12** | Nejeor e Istamak (Kishalee, Templo y Museo) | **Planificado y Transcrito** |
-| **Arco Canónico: Rescate de Keiden Ashton** | 186 – 222 | **Volumen 13** | Apostae (Duelo final drow y rescate del padre) | **Planificado y Transcrito** |
-| **Libro 5: The Thirteenth Gate** | 223 – 249 | **Volumen 14** | Doce Soles (Chasis de Axel, Null-9 y la Puerta) | **Planificado y Transcrito** |
+| **Libro 1: Incident at Absalom Station** | 001 – 032 | **Volumen 1 y Volumen 2** | Estación Ábsalon, Roca del Drift, *Acreon* | **Vol. 1: Finalizado / Vol. 2: En Revisión** |
+| **Libro 2: Temple of the Twelve** | 033 – 072 | **Volúmenes 3, 4, 5 y 6** | Castrovel (Qabarat, Selvas de Ukulam, Templo) | **En Revisión y Corrección** |
+| **Libro 3: Splintered Worlds (Parte 1)** | 076b – 088 | **Volumen 7** | Ábsalon (emboscada) y La Diáspora (asteroides) | **Recursos y Carpeta Preparados** |
+| **Libro 3: Splintered Worlds (Parte 2)** | 089 – 110 | **Volumen 8** | Eox (Planeta de los Muertos, Reality Show Zo!) | **Recursos y Carpeta Preparados** |
+| **Arco Canónico Propio: Casa Istrav** | 111 – 122 | **Volumen 9** | Apostae (Infiltración Drow, Duelo Fratricida) | **Recursos y Carpeta Preparados** |
+| **Transición: Asteroide-Casino** | 123 – 135 | **Volumen 10** | El Casino al fin del Universo y Rally de la Muerte | **Recursos y Carpeta Preparados** |
+| **Arco Canónico: Familia Galway & Zivok** | 136 – 162 | **Volumen 11** | La nave *La Galway*, clanes ysoki, ausencia Marloc | **Recursos y Carpeta Preparados** |
+| **Libro 4: The Ruined Clouds** | 163 – 185 | **Volumen 12** | Nejeor e Istamak (Kishalee, Templo y Museo) | **Recursos y Carpeta Preparados** |
+| **Arco Canónico: Rescate de Keiden Ashton** | 186 – 222 | **Volumen 13** | Apostae (Duelo final drow y rescate del padre) | **Recursos y Carpeta Preparados** |
+| **Libro 5: The Thirteenth Gate** | 223 – 249 | **Volumen 14** | Doce Soles (Chasis de Axel, Null-9 y la Puerta) | **Recursos y Carpeta Preparados** |
 | **Libro 6: Empire of Bones** | 250 – 272+ | **Volumen 15 (Parte 1)** | Acorazado *Imperio de los Huesos*, Tren de la Muerte y Sangromancia | **En Curso (Mesa Activa)** |
+
 
 ---
 

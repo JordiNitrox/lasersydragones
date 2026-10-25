@@ -1,7 +1,7 @@
 # Plan Detallado de Novelización: Volúmenes 7 al 15 y Especiales Fuera de Serie
 ## Mapeo Integral de 200 Episodios de Starfinder (73 al 272) y Especiales frente a *Starfinder: Dead Suns*
 
-> **Proyecto:** *Lasers y Dragones: La Novela*  
+> **Proyecto:** *Lasers y Dragones: La Novela* (Adaptación fan no oficial sin ánimo de lucro)  
 > **Fuente de Audio:** Podcast Oficial de Rol en Vivo *Lasers y Dragones* (Feed RSS de Libsyn y Canal Oficial de YouTube)  
 > **Campaña Base:** *Starfinder: Dead Suns Adventure Path* (Paizo Publishing) enriquecida con subtramas canónicas de la mesa de juego  
 > **Estado Actual:** 201 transcripciones limpias (200 episodios de Starfinder + Spooky Octubre 2026 Ep 1) sumando **2.313.687 palabras** en [`planificacion_global/transcripciones/limpias/`](./transcripciones/limpias/).  
@@ -13,17 +13,18 @@
 
 | Volumen / Libro | Episodios Podcast | Escenario Principal | Arco / Conflicto Clave | Estado Editorial |
 | :--- | :---: | :--- | :--- | :---: |
-| **Volumen Especial Extra** | 073 – 076a | Realidad Virtual (*Pathfinder 2e*) | *Spooky Octubre 2021: Pesadilla en el Viejo Golarion* | Planificado |
-| **Volumen 7** | 076b – 088 | Ábsalon y La Diáspora | *Mundos Fragmentados I: La Diáspora de Sangre* (Corsarios y Templo del Devorador) | Planificado |
-| **Volumen 8** | 089 – 110 | Planeta Eox | *Mundos Fragmentados II: El Planeta de los Muertos* (Reality Show Zo! y Necrogarganta) | Planificado |
-| **Volumen 9** | 111 – 122 | Planetoide Apostae | *Lazos de Sangre: La Sombra de Apostae* (Infiltración Drow y Duelo Fratricida) | Planificado |
-| **Volumen 10** | 123 – 135 | Asteroide-Casino | *El Rally de la Muerte* (Apuestas espaciales, carrera en el vacío y Marloc piloto) | Planificado |
-| **Volumen 11** | 136 – 162 | Nave *La Galway* y Vasto | *La Odisea de La Galway* (Clanes ysoki, Zivok y ausencia de Marloc) | Planificado |
-| **Volumen 12** | 163 – 185 | Nejeor e Istamak | *Las Nubes Arruinadas* (Retorno de Marloc, ruinas Kishalee, Museo y Puerta Estelar) | Planificado |
-| **Volumen 13** | 186 – 222 | Fortalezas de Apostae | *El Corazón del Padre* (Guerra contra la Casa Istrav y rescate de Keiden Ashton) | Planificado |
-| **Volumen 14** | 223 – 249 | Doce Soles / Kishalee | *La Decimotercera Puerta* (Chasis de Axel, caída de Null-9 y apertura del portal) | Planificado |
+| **Volumen Especial Extra** | 073 – 076a | Realidad Virtual (*Pathfinder 2e*) | *Spooky Octubre 2021: Pesadilla en el Viejo Golarion* | Recursos en `especiales/03_...` |
+| **Volumen 7** | 076b – 088 | Ábsalon y La Diáspora | *Mundos Fragmentados I: La Diáspora de Sangre* (Corsarios y Templo del Devorador) | Recursos en `volumen_7/` |
+| **Volumen 8** | 089 – 110 | Planeta Eox | *Mundos Fragmentados II: El Planeta de los Muertos* (Reality Show Zo! y Necrogarganta) | Recursos en `volumen_8/` |
+| **Volumen 9** | 111 – 122 | Planetoide Apostae | *Lazos de Sangre: La Sombra de Apostae* (Infiltración Drow y Duelo Fratricida) | Recursos en `volumen_9/` |
+| **Volumen 10** | 123 – 135 | Asteroide-Casino | *El Rally de la Muerte* (Apuestas espaciales, carrera en el vacío y Marloc piloto) | Recursos en `volumen_10/` |
+| **Volumen 11** | 136 – 162 | Nave *La Galway* y Vasto | *La Odisea de La Galway* (Clanes ysoki, Zivok y ausencia de Marloc) | Recursos en `volumen_11/` |
+| **Volumen 12** | 163 – 185 | Nejeor e Istamak | *Las Nubes Arruinadas* (Retorno de Marloc, ruinas Kishalee, Museo y Puerta Estelar) | Recursos en `volumen_12/` |
+| **Volumen 13** | 186 – 222 | Fortalezas de Apostae | *El Corazón del Padre* (Guerra contra la Casa Istrav y rescate de Keiden Ashton) | Recursos en `volumen_13/` |
+| **Volumen 14** | 223 – 249 | Doce Soles / Kishalee | *La Decimotercera Puerta* (Chasis de Axel, caída de Null-9 y apertura del portal) | Recursos en `volumen_14/` |
 | **Volumen 15** | 250 – 272+ | *Imperio de los Huesos* | *El Imperio de los Huesos* (Infiltración en dreadnought, tren de la muerte, Malakar y Anasi) | **En Curso (Mesa Activa)** |
-| **Especial Halloween 2026** | Ep 1+ | Ambientación Gótica | *Spooky Octubre 2026: La Guardia de Medianoche* | **En Emisión** |
+| **Especial Halloween 2026** | Ep 1+ | Ambientación Gótica | *Spooky Octubre 2026: La Guardia de Medianoche* | **En Emisión** (en `especiales/05_...`) |
+
 
 ---
 

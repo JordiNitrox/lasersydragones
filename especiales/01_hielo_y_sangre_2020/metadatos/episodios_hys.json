@@ -1,0 +1,219 @@
+{
+  "nombre": "Hielo y Sangre (HyS)",
+  "año": 2020,
+  "periodo": "Abril 2020 - Septiembre 2020 (En plena pandemia de COVID-19)",
+  "contexto": "Pausa de la campaña de Starfinder entre los Episodios 17 y 18 para jugar a distancia una campaña completa en Discord.",
+  "sistema": "Pathfinder 2e",
+  "ambientacion": "El Gran Imperio Dreki (Fantasía medieval en tierras heladas y prisioneros en el Peñón de la Pena).",
+  "mesa": {
+    "director": "Roberto (GM)",
+    "jugadores": [
+      "Irene",
+      "Sofía",
+      "Miguel",
+      "Juan Pablo"
+    ],
+    "jugadores_adicionales": "Mesa regular conectada en remoto por Discord."
+  },
+  "total_episodios": 22,
+  "episodios": [
+    {
+      "numero": 1,
+      "titulo": "HyS Episodio 001 - El Peñón de la Pena",
+      "fecha": "Wed, 29 Apr 2020 06:26:47 +0000",
+      "youtube_id": "Lzf4m3J0Ek8",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE001.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-001-el-pen-de-la-pena",
+      "sinopsis": "Una nueva aventura, en tierras mágicas medievales del Gran Imperio Dreki. Los jugadores se enfrentan a las más temible prisión, sin esperanza, sin posibilidades y quebrados por los grilletes. Escuchen esta mini aventura de Hielo y Sangre!           Síganos en Facebook e"
+    },
+    {
+      "numero": 2,
+      "titulo": "HyS Episodio 002 - Descuidados Susurros",
+      "fecha": "Wed, 06 May 2020 06:57:06 +0000",
+      "youtube_id": "wHw2J93L3HA",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE002.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-002-descuidados-susurros",
+      "sinopsis": "Los prisioneros aceptan su destino en el peñón de la pena, pero tal vez susurros en la oscuridad tenga la respuesta que buscan y la salvación que añoran o la libertad que da la muerte.           Síganos en Facebook e"
+    },
+    {
+      "numero": 3,
+      "titulo": "HyS Episodio 003 - El Foso",
+      "fecha": "Wed, 13 May 2020 04:13:48 +0000",
+      "youtube_id": "7ImT5sSrQZc",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE003.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/episodio-003-el-foso",
+      "sinopsis": "El momento ha llegado, todos los planes de los prisioneros en el peñón de la pena están por llegar a término, todo puede arruinarse con una mirada. Y aun no saben que hará Vrisk y cuánto deben arriesgar.            Síganos en Facebook e"
+    },
+    {
+      "numero": 4,
+      "titulo": "HyS Episodio 004 - Libertad, Horrible horrible libertad",
+      "fecha": "Wed, 20 May 2020 06:07:57 +0000",
+      "youtube_id": "nw7nhVsOUyc",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE004.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-004-libertad-horrible-horrible-libertad",
+      "sinopsis": "Los prisioneros logran su cometido y escapan por la mínima arriesgando su vida en el oscuro desagüe de la prisión. Sin embargo. ¿Habrán cambiado una vida de trabajos forzados por una rápida muerte?           Síganos en Facebook e"
+    },
+    {
+      "numero": 5,
+      "titulo": "HyS Episodio 005 - Entomología de Acción",
+      "fecha": "Wed, 27 May 2020 05:38:52 +0000",
+      "youtube_id": "bODFLGVP364",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE005.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-005-entomologa-de-accin",
+      "sinopsis": "Sorprendidos por insectos gigantes de nuevo los prisioneros deberán combatir una lucha que no esperaban y enfrentar a sus venenosos enemigos en condiciones menos que ideales por un premio que tal vez no valga la pena.            Síganos en Facebook e"
+    },
+    {
+      "numero": 6,
+      "titulo": "HyS Episodio 006 - Ojos en el Espejo",
+      "fecha": "Wed, 03 Jun 2020 05:33:12 +0000",
+      "youtube_id": "3Cm5qx0jJB0",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE006.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-006-ojos-en-el-espejo",
+      "sinopsis": "Una caída, un gruñido en la oscuridad, solo al fondo de una misteriosa sala inundada. ¿Podrá Jack enfrentar solo lo que espera en la oscuridad? O ¿Aquí acaba su historia de escape?            Síganos en Facebook e"
+    },
+    {
+      "numero": 7,
+      "titulo": "HyS Episodio 007 - Lilas y Ajenjo",
+      "fecha": "Wed, 10 Jun 2020 05:14:09 +0000",
+      "youtube_id": "JrkDinZiH4Y",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE007.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-007-lilas-y-ajenjo",
+      "sinopsis": "Han sobrevivido, pero con graves heridas, ademá ecos en las oscuridad  sugieren que estas ruinas son más de lo que parecen. Aún Vrisk se encuentra desaparecido, y no hay otro camino más que hacia adelante.           Síganos en Facebook e"
+    },
+    {
+      "numero": 8,
+      "titulo": "HyS Episodio 008 - Busca la Magia Interior",
+      "fecha": "Wed, 17 Jun 2020 04:51:26 +0000",
+      "youtube_id": "WvAXwuJlrjY",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE008.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-008-busca-la-magia-interior",
+      "sinopsis": "Síganos en Facebook e"
+    },
+    {
+      "numero": 9,
+      "titulo": "HyS Episodio 009 - Trágame Tierra",
+      "fecha": "Wed, 24 Jun 2020 04:00:00 +0000",
+      "youtube_id": "SVBf8w0lzKs",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE009.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-009-trgame-tierra",
+      "sinopsis": "Una amenaza silenciosa los acecha. ¿Será la enfermedad quien finalmente acabe sus sueños de libertad? Sin embargo, deben seguir adelante y extrañas cosas los esperan en la oscuridad.          Síganos en Facebook e"
+    },
+    {
+      "numero": 10,
+      "titulo": "HyS Episodio 010 - Oscuridad mi vieja amiga",
+      "fecha": "Wed, 01 Jul 2020 04:47:06 +0000",
+      "youtube_id": "8qLpuhi11aA",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE010.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-010-oscuridad-mi-vieja-amiga",
+      "sinopsis": "Hundido en la tierra, perdido en la oscuridad, el grupo se separa y la muerte los acecha en la oscuridad impenetrable. ¿Esta Jack perdido por siempre? ¿Tienen esperanza sin él?         Síganos en Facebook e"
+    },
+    {
+      "numero": 11,
+      "titulo": "HyS Episodio 011 - El Teurgo en la Piedra",
+      "fecha": "Wed, 08 Jul 2020 05:20:40 +0000",
+      "youtube_id": "YGo9t9iqIU0",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE011.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-011-el-teurgo-en-la-piedra",
+      "sinopsis": "Ahora Jack y Adga están atrapados. Separados del resto, o el resto separados de ellos. Con apenas un poco de luz y con la vida escapando. ¿Quién podrá sacarlos? ¿Levik? ¿Ena? ¿La pata de chancho?         Síganos en Facebook e"
+    },
+    {
+      "numero": 12,
+      "titulo": "HyS Episodio 012 - Jack el Santo",
+      "fecha": "Wed, 15 Jul 2020 04:00:00 +0000",
+      "youtube_id": "NEI_0G8SxTw",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE012.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-012-jack-el-santo",
+      "sinopsis": "Cuando finalmente tiene la pieza que requieren para poner en paz al espíritu, ¿Pero que obtendrán por ello? ¿Una recompensa o solo mas oscuridad los espera?          Síganos en Facebook e"
+    },
+    {
+      "numero": 13,
+      "titulo": "HyS Episodio 013 - Magas Vienen, Magas Van",
+      "fecha": "Wed, 22 Jul 2020 03:53:07 +0000",
+      "youtube_id": "zjFrOfGto2A",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE013.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-013-magas-vienen-magas-van",
+      "sinopsis": "Una vida pende de un solo check, ¿Es este el final de Adga? Pero pase lo que pase, al menos tienen un cofre con tesoros.          Síganos en Facebook e"
+    },
+    {
+      "numero": 14,
+      "titulo": "HyS Episodio 014 - Espíritus en el Mundo Material",
+      "fecha": "Wed, 29 Jul 2020 04:00:00 +0000",
+      "youtube_id": "8D8rbxcI1Ek",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE014.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-014-espritus-en-el-mundo-material",
+      "sinopsis": "Jack encuentra alguien conocido en la oscuridad. ¿Es acaso un espíritu de su pasado? ¿O más bien sombras de cosas por venir? Y más allá de esto, oscuras puertas los esperan y algo que por mucho tiempo los ha observado.          Síganos en Facebook e"
+    },
+    {
+      "numero": 15,
+      "titulo": "HyS Episodio 015 - La Balada del Diablo y el Esqueleto",
+      "fecha": "Wed, 05 Aug 2020 05:28:22 +0000",
+      "youtube_id": "aRDUcD_kUsE",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE015.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-015-la-balada-del-diablo-y-el-esqueleto-0",
+      "sinopsis": "El encuentro final entre los prisioneros y la fuerza que los separa de la libertad, y tal vez de su cabeza. ¿Estarán listos para enfrentarlo y a su diabólico compañero? Este encuentro decide el destino de sus almas!         Síganos en Facebook e"
+    },
+    {
+      "numero": 16,
+      "titulo": "HyS Episodio 016 - Nadando por un Sueño",
+      "fecha": "Wed, 12 Aug 2020 04:00:00 +0000",
+      "youtube_id": "Bum3oXEpFt8",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE016.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-016-nadando-por-un-sueo",
+      "sinopsis": "Han logrado vencer al carcelero, por ahora, pero aun el escape no es seguro. Una craneo vuela y grita hacia ellos. ¿Qué horrores les esperan… en las profundidades?         Síganos en Facebook e"
+    },
+    {
+      "numero": 17,
+      "titulo": "HyS Episodio 017 - Hermano Oso",
+      "fecha": "Wed, 19 Aug 2020 05:54:21 +0000",
+      "youtube_id": "5yHbEzvFUBA",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE017.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-017-hermano-oso",
+      "sinopsis": "Respiran libertad, y finalmente están a unos pasos del sol. Sin embargo, aún el camino hacia un escape real es incierto a lo sumo. Y el camino es largo en las peligrosas montañas. Donde más peligros de los que creen los esperan.          Síganos en Facebook e"
+    },
+    {
+      "numero": 18,
+      "titulo": "HyS Episodio 018 - Entre la Maga y la Pared",
+      "fecha": "Wed, 26 Aug 2020 04:00:00 +0000",
+      "youtube_id": "0Cr5nazcyM4",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE018.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-018-entre-la-maga-y-la-pared",
+      "sinopsis": "Después de un sangriento encuentro con sus perseguidores, los fugitivos se encuentran atrapados entre soldados de la prisión, una maga investigadora y una caída de 30 metros. ¿Cuál será la peor?          Síganos en Facebook e"
+    },
+    {
+      "numero": 19,
+      "titulo": "HyS Episodio 019 - Leche de Yak",
+      "fecha": "Wed, 02 Sep 2020 04:00:00 +0000",
+      "youtube_id": "P_4oFCrN2jU",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE019.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-019-leche-de-yak",
+      "sinopsis": "Rodeados por la cruel naturaleza, en forma de hielo, de niebla y criaturas hambrientas. Al caer fueron directo de una espada y magia directo a una docena de fauces. Ahora deben sobrevivir, y correr. La carrera final empieza.          Síganos en Facebook e"
+    },
+    {
+      "numero": 20,
+      "titulo": "HyS Episodio 020 - La Bestia de la Montaña Calva",
+      "fecha": "Wed, 09 Sep 2020 06:15:36 +0000",
+      "youtube_id": "PgDBq0WSiIQ",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE020.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-020-la-bestia-de-la-montaa-calva",
+      "sinopsis": "¿La familia que les prestó ayuda está solo engañandolos? Si así es, están atrapados en una sótano sin salida. Y Lin Bao sacará a la luz cosas que hasta ahora se han mantenido en silencio.          Síganos en Facebook e"
+    },
+    {
+      "numero": 21,
+      "titulo": "HyS Episodio 021 - Engaño, Traición, Herejía y Venganza",
+      "fecha": "Wed, 16 Sep 2020 04:00:00 +0000",
+      "youtube_id": "16surRndmVY",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE021.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-021-engao-traicin-hereja-y-venganza",
+      "sinopsis": "Revelaciones en el grupo ponen en evidencia lo poco que saben sobre sus compañeros. ¿Podrán seguir adelante sabiendo lo que algunos de ellos han hecho? Tal vez este es el momento en los compañeros se vuelven uno contra el otro.          Síganos en Facebook e"
+    },
+    {
+      "numero": 22,
+      "titulo": "HyS Episodio 022 - Hielo y Sangre",
+      "fecha": "Wed, 23 Sep 2020 04:55:51 +0000",
+      "youtube_id": "LtftgipiA6o",
+      "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodioHYSE022.mp3?dest-id=1801772",
+      "url_pagina": "https://lasersydragones.libsyn.com/hys-episodio-022-hielo-y-sangre",
+      "sinopsis": "La batalla final donde el destino de los prisioneros se decide. .Una Batalla en el borde de la hoja, donde pueden ganar su libertad y un futuro. O tal vez solo una tumba sin marcar en medio de la nieve. Un Episodio doble para el gran final de hielo y sangre.          Síganos en Facebook e"
+    }
+  ]
+}
