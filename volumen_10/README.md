@@ -1,24 +1,24 @@
-# Volumen 10: El Rally de la Muerte en el Asteroide-Casino (Episodios 123 a 135)
+# Volumen 10: La Sombra de Apostae (Episodios 111 a 122)
 
 > **Proyecto:** *Lasers y Dragones: La Novela* (Adaptación fan no oficial)  
 > **Fuente de Audio:** Podcast Oficial de Rol en Vivo *Lasers y Dragones*  
-> **Campaña Paizo:** Transición hacia el Libro 4 de Paizo / Aventura en el límite del espacio civilizado  
+> **Campaña Paizo:** Arco Canónico Propio: Inversiones Estelares S.C. y la Casa Istrav  
 > **Estado:** Recursos preparados y estructurados (listo para redacción y adaptación literaria)
 
 ---
 
 ## 📖 Ficha Técnica del Libro
 
-* **Título:** *Lasers y Dragones: El Rally de la Muerte en el Asteroide-Casino*
-* **Subtítulo:** *Volumen X · El Rally de la Muerte*
-* **Episodios Asignados:** Episodios 123 al 135 (13 episodios).
-* **Escenario Principal:** Asteroide-Casino, circuitos de plasma y cinturón de asteroides exterior.
+* **Título:** *Lasers y Dragones: La Sombra de Apostae*
+* **Subtítulo:** *Volumen X · Lazos de Sangre: La Sombra de Apostae*
+* **Episodios Asignados:** Episodios 111 al 122 (12 episodios).
+* **Escenario Principal:** Planetoide Apostae, ciudad cavernosa de Nightarch y fortalezas de la Casa Istrav.
 
 ---
 
 ## 🌌 Sinopsis del Volumen
 
-Necesitados de créditos y repuestos, los héroes atracan en un asteroide-casino gobernado por mafias y androides de placer. Para saldar cuentas, se inscriben en el letal «Rally de la Muerte»: una despiadada carrera vehicular a través de cinturones de asteroides y campos de plasma donde Marloc asume el mando como piloto estrella, antes de que tensiones personales lo lleven a tomar un receso.
+Marcelus se manifiesta en persona para cobrar sus deudas corporativas. Triel lidera una peligrosa misión encubierta en el planetoide cavernoso de Apostae, infiltrando al equipo como sirvientes domésticos en la fortaleza de la aristocracia drow. Descubren los archivos sobre la huida de Keiden Ashton y el desprecio de su madre drow, culminando en un feroz duelo fratricida a muerte entre Triel y su hermanastra Jhidel Istrav antes de huir hacia Thanox.
 
 ---
 
@@ -43,19 +43,18 @@ volumen_10/
 
 | Cap | Ep Podcast | Título Episodio | Arco Narrativo |
 | :-: | :---: | :--- | :--- |
-| 01 | 123 | Episodio 123 -  Ahora ves, ahora Na-ves | El Rally de la Muerte en el Asteroide-Casino |
-| 02 | 124 | Episodio 124 -  El Casino al fin del Universo | El Rally de la Muerte en el Asteroide-Casino |
-| 03 | 125 | Episodio 125 -  Juegos de Azar y Robotzuelas | El Rally de la Muerte en el Asteroide-Casino |
-| 04 | 126 | Episodio 126 - La Forma del Corazón | El Rally de la Muerte en el Asteroide-Casino |
-| 05 | 127 | Episodio 127 - Abadarme un Fiestón | El Rally de la Muerte en el Asteroide-Casino |
-| 06 | 128 | Episodio 128 - Cerrando Ciclos | El Rally de la Muerte en el Asteroide-Casino |
-| 07 | 129 | Episodio 129 - Enchúlame la Máquina | El Rally de la Muerte en el Asteroide-Casino |
-| 08 | 130 | Episodio 130 - El Rally de la Muerte ¡Inicia! | El Rally de la Muerte en el Asteroide-Casino |
-| 09 | 131 | Episodio 131 - El Rally de la Muerte ¡Continúa! | El Rally de la Muerte en el Asteroide-Casino |
-| 10 | 132 | Episodio 132 - El Rally de la Muerte ¡Última vuelta! | El Rally de la Muerte en el Asteroide-Casino |
-| 11 | 133 | Episodio 133 - Tome el Trofeo | El Rally de la Muerte en el Asteroide-Casino |
-| 12 | 134 | Episodio 134 - Lao Shu Po en el Callejón | El Rally de la Muerte en el Asteroide-Casino |
-| 13 | 135 | Episodio 135 - Lo Dejaría Todo por que te Quedaras | El Rally de la Muerte en el Asteroide-Casino |
+| 01 | 111 | Episodio 111 - It's Morbin Time | El Rostro de Marcelus |
+| 02 | 112 | Episodio 112 - ¿Quién es el Jefe? | El Rostro de Marcelus |
+| 03 | 113 | Episodio 113 - Juego de Niños | El Rostro de Marcelus |
+| 04 | 114 | Episodio 114 - Lo que Oculta la Orcriada | La Sombra de la Casa Istrav y Duelo Fratricida |
+| 05 | 115 | Episodio 115 - El Nido de la Araña | La Sombra de la Casa Istrav y Duelo Fratricida |
+| 06 | 116 | Episodio 116 - Servidumbre con Pesadumbre | La Sombra de la Casa Istrav y Duelo Fratricida |
+| 07 | 117 | Episodio 117 - Babitas pa' que las Quiero | La Sombra de la Casa Istrav y Duelo Fratricida |
+| 08 | 118 | Episodio 118 - Naves de Sangre | La Sombra de la Casa Istrav y Duelo Fratricida |
+| 09 | 119 | Episodio 119 - Amor Fraternal | La Sombra de la Casa Istrav y Duelo Fratricida |
+| 10 | 120 | Episodio 120 - Todo Sobre Mi Madre | La Sombra de la Casa Istrav y Duelo Fratricida |
+| 11 | 121 | Episodio 121 - Siempre nos quedará Thanox | Epílogo en Thanox y Secuelas |
+| 12 | 122 | Episodio 122 -  El verdadero valor de A.xel | Epílogo en Thanox y Secuelas |
 
 ---
 

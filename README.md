@@ -88,28 +88,38 @@ lasersydragones/
 
 ---
 
-## 🚀 Volúmenes en Desarrollo de la Saga Troncal (7 al 15)
+## 🚀 Volúmenes en Desarrollo de la Saga Troncal (7 al 20)
 
-Todos los recursos se encuentran preparados en sus directorios correspondientes ([`volumen_7/`](file:///home/jordi/Proyectos/lasersydragones/volumen_7/) al [`volumen_14/`](file:///home/jordi/Proyectos/lasersydragones/volumen_14/)):
+Para garantizar un formato literario equilibrado y homogéneo (entre 10 y 14 capítulos por libro, ~55 a 75 páginas), todos los arcos han sido estructurados en entregas autoconclusivas en sus directorios correspondientes ([`volumen_7/`](file:///home/jordi/Proyectos/lasersydragones/volumen_7/) al [`volumen_20/`](file:///home/jordi/Proyectos/lasersydragones/volumen_20/)):
 
-* **[Volumen 7: Mundos Fragmentados I - La Diáspora de Sangre](file:///home/jordi/Proyectos/lasersydragones/volumen_7/)** (Episodios 76b al 88) · *[RECURSOS PREPARADOS]*  
-  *Arco:* Emboscada real del Culto en Ábsalon, rescate de Valdo, visión cósmica de Marloc, salto al Drift hacia La Diáspora, asteroide sarcesiano, base del Culto y batalla naval contra la Flota de los Cuerpos.
-* **[Volumen 8: Mundos Fragmentados II - El Planeta de los Muertos](file:///home/jordi/Proyectos/lasersydragones/volumen_8/)** (Episodios 89 al 110) · *[RECURSOS PREPARADOS]*  
-  *Arco:* Eox, Sabios Óseos, asesinos nihili, Café Calavera, reality show de Zo! («El Camino Furibundo») y asedio a la Necrogarganta contra Xerantha Zatus (Cierre Libro 3).
-* **[Volumen 9: Lazos de Sangre - La Sombra de Apostae](file:///home/jordi/Proyectos/lasersydragones/volumen_9/)** (Episodios 111 al 122) · *[RECURSOS PREPARADOS]*  
-  *Arco:* Marcelus al descubierto, infiltración encubierta como sirvientes drow en la Casa Istrav, secretos de Keiden Ashton y duelo fratricida de Triel contra Jhidel.
-* **[Volumen 10: El Rally de la Muerte en el Asteroide-Casino](file:///home/jordi/Proyectos/lasersydragones/volumen_10/)** (Episodios 123 al 135) · *[RECURSOS PREPARADOS]*  
-  *Arco:* Transición espacial, apuestas, robots corruptos y la carrera vehicular mortal en el vacío con Marloc de piloto.
-* **[Volumen 11: La Nave Fantasma y la Odisea de La Galway](file:///home/jordi/Proyectos/lasersydragones/volumen_11/)** (Episodios 136 al 162) · *[RECURSOS PREPARADOS]*  
-  *Arco:* Salida temporal de Marloc y llegada de Zivok a *La Galway*; incursión y pesadilla de más de 20 episodios (Ep 138-159) atrapados en una colosal nave fantasma eoxiana de los no-muertos (*El Corazón de la Oscuridad*), combatiendo espectros de la Flota de los Cuerpos, abominaciones *Lovelorn*, anomalías temporales y clones oscuros de Axel y Benrey.
-* **[Volumen 12: Las Nubes Arruinadas - La Ciudadela de Istamak](file:///home/jordi/Proyectos/lasersydragones/volumen_12/)** (Episodios 163 al 185) · *[RECURSOS PREPARADOS]*  
-  *Arco:* Retorno de Juan Pablo y Marloc (Ep 163), descenso en Nejeor, ciudad flotante de Istamak, civilización Kishalee y misterio de la Puerta Estelar (Libro 4).
-* **[Volumen 13: El Corazón del Padre - La Nave de Besmara](file:///home/jordi/Proyectos/lasersydragones/volumen_13/)** (Episodios 186 al 222) · *[RECURSOS PREPARADOS]*  
-  *Arco:* La abuela Alistrav revela que Keiden Ashton no murió ni está prisionero: quedó perdido en el Maelstrom de la Deriva en la mística nave pirata de Besmara. Los Atómicos viajan a la Deriva tras la nave viva y cambiante, derrotan a Jhidel Istrav y restauran el corazón del motor para salvar a Keiden, forjando una gran alianza pirata.
-* **[Volumen 14: La Decimotercera Puerta](file:///home/jordi/Proyectos/lasersydragones/volumen_14/)** (Episodios 223 al 249) · *[RECURSOS PREPARADOS]*  
-  *Arco:* Sistema de los Doce Soles, misterios de las almas previas de Axel-42, exploración de mega-ingeniería Kishalee, caída de Null-9 y de la IA Eltreth, apertura triunfal de la Decimotercera Puerta al Devastador Estelar (Libro 5).
-* **Volumen 15: El Imperio de los Huesos (Parte 1 / En Curso)** (Episodios 250 al 272+) · *[EN CURSO]*  
-  *Arco:* La armada no-muerta de la Flota de los Cuerpos moviliza su nave insignia («Atómicos Assemble»), infiltración en el super-dreadnought *Imperio de los Huesos*, persecución en tren de la muerte, duelo con Malakar, francotiradores baykok, visiones de sangre de Marloc y combate contra la tejedora Anasi rumbo al Almirante (*Historia en curso / Campaña activa en mesa*).
+* **[Volumen 7: Mundos Fragmentados I - La Diáspora de Sangre](file:///home/jordi/Proyectos/lasersydragones/volumen_7/)** (Episodios 76 al 88) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Emboscada del Culto en Ábsalon, visión cósmica de Marloc, salto a La Diáspora, asteroide sarcesiano, base del Culto y batalla naval contra la Flota de los Cuerpos.
+* **[Volumen 8: Mundos Fragmentados II - El Camino Furibundo](file:///home/jordi/Proyectos/lasersydragones/volumen_8/)** (Episodios 89 al 98) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Descenso en Eox, Ministerio de los Vivos, asesinos nihili, Café Calavera y supervivencia en el sádico reality show en vivo de Zo! esquivando al Golem de Neutrones.
+* **[Volumen 9: Mundos Fragmentados III - La Necrogarganta](file:///home/jordi/Proyectos/lasersydragones/volumen_9/)** (Episodios 99 al 110) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Marcha por los páramos marchitos de Eox, pacto con el Dragonkin, combate contra el monstruoso Ellicoth («Ellicujo»), caída de Xerantha Zatus y huida bajo fuego orbital.
+* **[Volumen 10: Lazos de Sangre - La Sombra de Apostae](file:///home/jordi/Proyectos/lasersydragones/volumen_10/)** (Episodios 111 al 122) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Marcelus al descubierto, infiltración encubierta como sirvientes drow en la Casa Istrav, secretos de Keiden Ashton y primer duelo fratricida de Triel contra Jhidel.
+* **[Volumen 11: El Rally de la Muerte en el Asteroide-Casino](file:///home/jordi/Proyectos/lasersydragones/volumen_11/)** (Episodios 123 al 135) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Apuestas espaciales, robots corruptos y la despiadada carrera vehicular mortal en el vacío con Marloc de piloto estrella antes de su receso.
+* **[Volumen 12: La Odisea de La Galway I - El Pecio de la Oscuridad](file:///home/jordi/Proyectos/lasersydragones/volumen_12/)** (Episodios 136 al 147) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Salida temporal de Marloc y llegada de Zivok a *La Galway*; reunión con el clan ysoki y abordaje del colosal pecio no-muerto eoxiano de kilómetros de largo en el vacío (*El Corazón de la Oscuridad*).
+* **[Volumen 13: La Odisea de La Galway II - El Laberinto de los Lovelorn](file:///home/jordi/Proyectos/lasersydragones/volumen_13/)** (Episodios 148 al 162) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Asedio de abominaciones *Lovelorn*, rescate del clan Galway, combate fratricida contra clones no-muertos de Axel («Axel vs Axel») y reflejos espectrales de Benrey antes de huir a Nejeor.
+* **[Volumen 14: Las Nubes Arruinadas I - La Ciudadela de Istamak](file:///home/jordi/Proyectos/lasersydragones/volumen_14/)** (Episodios 163 al 173) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Emotivo retorno de Juan Pablo y Marloc (Ep 163), descenso en Nejeor, contacto con los Kish y exploración de la fabulosa ciudad flotante de Istamak y su Museo.
+* **[Volumen 15: Las Nubes Arruinadas II - La Forja Kishalee](file:///home/jordi/Proyectos/lasersydragones/volumen_15/)** (Episodios 174 al 185) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Complejos micóticos, clínica médica ancestral, la forja kishalee, combate contra el campeón Xavra y obtención de las coordenadas de los Doce Soles.
+* **[Volumen 16: El Corazón del Padre I - El Secreto de la Deriva](file:///home/jordi/Proyectos/lasersydragones/volumen_16/)** (Episodios 186 al 201) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Escape de Nejeor, reparaciones en Kairos, la matriarca Alistrav revela la supervivencia de Keiden Ashton a la deriva en la nave de Besmara y travesía hacia el torbellino del Maelstrom.
+* **[Volumen 17: El Corazón del Padre II - La Nave de Besmara](file:///home/jordi/Proyectos/lasersydragones/volumen_17/)** (Episodios 202 al 222) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Incursión en la nave viva de Besmara en el Maelstrom, distorsiones psicoplásticas, revancha contra Jhidel Istrav, juicio del Inevitable y salvación de Keiden Ashton con el motor recuperado.
+* **[Volumen 18: La Decimotercera Puerta I - Los Doce Soles](file:///home/jordi/Proyectos/lasersydragones/volumen_18/)** (Episodios 223 al 235) · *[RECURSOS PREPARADOS]*  
+  *Arco:* El Hombre Tintineante, salto a los Doce Soles, exploración de portales y estaciones Kishalee, y misterios de las almas anteriores de Axel-42.
+* **[Volumen 19: La Decimotercera Puerta II - El Duelo de los Androides](file:///home/jordi/Proyectos/lasersydragones/volumen_19/)** (Episodios 236 al 249) · *[RECURSOS PREPARADOS]*  
+  *Arco:* Asalto al complejo de mando Kishalee, confrontación contra la jerarca androide Null-9 y la hostil IA Eltreth, apertura triunfal de la Decimotercera Puerta al Devastador Estelar.
+* **[Volumen 20: El Imperio de los Huesos - El Asalto al Dreadnought](file:///home/jordi/Proyectos/lasersydragones/volumen_20/)** (Episodios 250 al 272+) · *[EN CURSO]*  
+  *Arco:* Movilización masiva de la Flota de los Cuerpos («Atómicos Assemble»), asalto al super-dreadnought *Imperio de los Huesos*, persecución en tren de la muerte, duelo con Malakar, francotiradores baykok, visiones de sangre de Marloc y combate contra la tejedora Anasi (*Campaña activa en mesa*).
 
 ---
 

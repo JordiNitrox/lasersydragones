@@ -1,24 +1,24 @@
-# Volumen 9: Lazos de Sangre: La Sombra de Apostae (Episodios 111 a 122)
+# Volumen 9: La Necrogarganta (Episodios 99 a 110)
 
 > **Proyecto:** *Lasers y Dragones: La Novela* (Adaptación fan no oficial)  
 > **Fuente de Audio:** Podcast Oficial de Rol en Vivo *Lasers y Dragones*  
-> **Campaña Paizo:** Arco Canónico Propio de la Mesa (Inversiones Estelares S.C. y la Casa Istrav)  
+> **Campaña Paizo:** Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 3: The Necrogorge)  
 > **Estado:** Recursos preparados y estructurados (listo para redacción y adaptación literaria)
 
 ---
 
 ## 📖 Ficha Técnica del Libro
 
-* **Título:** *Lasers y Dragones: La Sombra de Apostae*
-* **Subtítulo:** *Volumen IX · Lazos de Sangre*
-* **Episodios Asignados:** Episodios 111 al 122 (12 episodios).
-* **Escenario Principal:** Planetoide cavernoso de Apostae, Bastiones Drow de la Casa Istrav y Thanox.
+* **Título:** *Lasers y Dragones: La Necrogarganta*
+* **Subtítulo:** *Volumen IX · Mundos Fragmentados III: La Necrogarganta de Eox*
+* **Episodios Asignados:** Episodios 99 al 110 (12 episodios).
+* **Escenario Principal:** Páramos radiactivos de Eox, la fosa de la Necrogarganta y el santuario de Xerantha Zatus.
 
 ---
 
 ## 🌌 Sinopsis del Volumen
 
-Marcelus se manifiesta en persona para cobrar sus deudas corporativas. Triel lidera una peligrosa misión encubierta en el planetoide cavernoso de Apostae, infiltrando al equipo como sirvientes domésticos en la fortaleza de la aristocracia drow. Descubren los archivos sobre la huida de Keiden Ashton y el desprecio de su madre drow, culminando en un feroz duelo fratricida a muerte entre Triel y su hermanastra Jhidel Istrav antes de huir hacia Thanox.
+Con el favor de la audiencia no-muerta, los Atómicos marchan por los páramos marchitos de Eox hacia la profunda Necrogarganta. Tras pactar con el Dragonkin y abatir al titánico y monstruoso Ellicoth («Ellicujo»), asaltan el complejo fortificado, derrotan a la sabio óseo Xerantha Zatus y escapan al filo del bombardeo orbital con los secretos de la Flota de los Cuerpos (Cierre del Libro 3 de Paizo).
 
 ---
 
@@ -43,18 +43,18 @@ volumen_9/
 
 | Cap | Ep Podcast | Título Episodio | Arco Narrativo |
 | :-: | :---: | :--- | :--- |
-| 01 | 111 | Episodio 111 - It's Morbin Time | El Rostro de Marcelus |
-| 02 | 112 | Episodio 112 - ¿Quién es el Jefe? | El Rostro de Marcelus |
-| 03 | 113 | Episodio 113 - Juego de Niños | El Rostro de Marcelus |
-| 04 | 114 | Episodio 114 - Lo que Oculta la Orcriada | La Sombra de la Casa Istrav y Duelo Fratricida |
-| 05 | 115 | Episodio 115 - El Nido de la Araña | La Sombra de la Casa Istrav y Duelo Fratricida |
-| 06 | 116 | Episodio 116 - Servidumbre con Pesadumbre | La Sombra de la Casa Istrav y Duelo Fratricida |
-| 07 | 117 | Episodio 117 - Babitas pa' que las Quiero | La Sombra de la Casa Istrav y Duelo Fratricida |
-| 08 | 118 | Episodio 118 - Naves de Sangre | La Sombra de la Casa Istrav y Duelo Fratricida |
-| 09 | 119 | Episodio 119 - Amor Fraternal | La Sombra de la Casa Istrav y Duelo Fratricida |
-| 10 | 120 | Episodio 120 - Todo Sobre Mi Madre | La Sombra de la Casa Istrav y Duelo Fratricida |
-| 11 | 121 | Episodio 121 - Siempre nos quedará Thanox | Epílogo en Thanox y Secuelas |
-| 12 | 122 | Episodio 122 -  El verdadero valor de A.xel | Epílogo en Thanox y Secuelas |
+| 01 | 99 | Episodio 099 - El Baile de la Bolita | El Show Macabro de Zo! |
+| 02 | 100 | Episodio 100 - El Corazón del Ratón | El Show Macabro de Zo! |
+| 03 | 101 | Episodio 101 - Por la Grasa de Dios | El Show Macabro de Zo! |
+| 04 | 102 | Episodio 102 - El Camino Furibundo | El Show Macabro de Zo! |
+| 05 | 103 | Episodio 103 - El Camino Furibundo - Parte II | El Show Macabro de Zo! |
+| 06 | 104 | Episodio 104 - Érase una Vez un Puerco | El Show Macabro de Zo! |
+| 07 | 105 | Episodio 105 - Caída de Gracia | El Show Macabro de Zo! |
+| 08 | 106 | Episodio 106 - Una Segunda Oportunidad | La Caída de Xerantha Zatus (Clímax Libro 3) |
+| 09 | 107 | Episodio 107 - ¿Cómo está el arroz? | La Caída de Xerantha Zatus (Clímax Libro 3) |
+| 10 | 108 | Episodio 108 - La Coleccionista de Huesos | La Caída de Xerantha Zatus (Clímax Libro 3) |
+| 11 | 109 | Episodio 109 - Ellicujo el Perro Asesino | La Caída de Xerantha Zatus (Clímax Libro 3) |
+| 12 | 110 | Episodio 110 - Carta de Despido | La Caída de Xerantha Zatus (Clímax Libro 3) |
 
 ---
 

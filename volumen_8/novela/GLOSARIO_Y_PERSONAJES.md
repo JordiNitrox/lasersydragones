@@ -1,11 +1,11 @@
 # Glosario y Personajes: *Lasers y Dragones*
-## Volumen VIII · Mundos Fragmentados II
+## Volumen VIII · Mundos Fragmentados II: El Camino Furibundo de Zo!
 
 ---
 
 ## 1. El Escenario Principal
-* **Planeta Eox, Ministerio de los Vivos, Café Calavera y la Necrogarganta:** Escenario central de los eventos de este volumen.
-* **Marco de Campaña:** Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 2: Eox).
+* **Planeta Eox, Ministerio de los Vivos, Café Calavera y arenas mediáticas de Zo!**
+* **Marco de Campaña:** Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 2: Eox y Zo!).
 
 ---
 
@@ -15,9 +15,8 @@
 * **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo).
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía).
-* *(Ver notas de mesa en metadatos para rotaciones de personajes como Zivok en Volumen 11).*
 
 ---
 
 ## 3. Sinopsis y Conflictos Clave
-Descenso sobre la atmósfera radiactiva y necromántica de Eox. Lucha burocrática en el Ministerio de los Vivos, emboscadas de asesinos nihili y visita al Café Calavera. El magnate mediático Zo! les exige sobrevivir a su sádico reality show en vivo («El Camino Furibundo») esquivando al Golem de Neutrones. Con el favor de la audiencia no-muerta, asaltan la Necrogarganta, pactan con el Dragonkin, destruyen al monstruoso Ellicoth («Ellicujo») y ejecutan a la sabio óseo Xerantha Zatus, huyendo bajo bombardeo orbital.
+Descenso sobre la atmósfera radiactiva de Eox. Lucha burocrática en el Ministerio de los Vivos, emboscadas de asesinos nihili y visita clandestina al Café Calavera. El magnate mediático no-muerto Zo! les exige sobrevivir a su sádico reality show en vivo («El Camino Furibundo») esquivando al Golem de Neutrones para obtener el salvoconducto a las tierras prohibidas de la Necrogarganta.

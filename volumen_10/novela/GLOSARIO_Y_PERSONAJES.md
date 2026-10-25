@@ -1,11 +1,11 @@
 # Glosario y Personajes: *Lasers y Dragones*
-## Volumen X · El Rally de la Muerte
+## Volumen X · Lazos de Sangre: La Sombra de Apostae
 
 ---
 
 ## 1. El Escenario Principal
-* **Asteroide-Casino, circuitos de plasma y cinturón de asteroides exterior:** Escenario central de los eventos de este volumen.
-* **Marco de Campaña:** Transición hacia el Libro 4 de Paizo / Aventura en el límite del espacio civilizado.
+* **Planetoide Apostae, ciudad cavernosa de Nightarch y fortalezas de la Casa Istrav.**
+* **Marco de Campaña:** Arco Canónico Propio: Inversiones Estelares S.C. y la Casa Istrav.
 
 ---
 
@@ -15,9 +15,8 @@
 * **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo).
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía).
-* *(Ver notas de mesa en metadatos para rotaciones de personajes como Zivok en Volumen 11).*
 
 ---
 
 ## 3. Sinopsis y Conflictos Clave
-Necesitados de créditos y repuestos, los héroes atracan en un asteroide-casino gobernado por mafias y androides de placer. Para saldar cuentas, se inscriben en el letal «Rally de la Muerte»: una despiadada carrera vehicular a través de cinturones de asteroides y campos de plasma donde Marloc asume el mando como piloto estrella, antes de que tensiones personales lo lleven a tomar un receso.
+Marcelus se manifiesta en persona para cobrar sus deudas corporativas. Triel lidera una peligrosa misión encubierta en el planetoide cavernoso de Apostae, infiltrando al equipo como sirvientes domésticos en la fortaleza de la aristocracia drow. Descubren los archivos sobre la huida de Keiden Ashton y el desprecio de su madre drow, culminando en un feroz duelo fratricida a muerte entre Triel y su hermanastra Jhidel Istrav antes de huir hacia Thanox.

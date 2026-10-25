@@ -73,84 +73,141 @@ Todos los episodios que no pertenecen a la campaña principal de *Starfinder* ha
 
 ---
 
-## 3. Delimitación de los Volúmenes Principales (Volúmenes 7 al 15)
+## 3. Delimitación de los Volúmenes Principales (Volúmenes 7 al 20)
+
+Para garantizar una extensión literaria homogénea de entre **10 y 14 capítulos por novela** (evitando tomos desproporcionados de más de 120 páginas), los arcos extensos han sido subdivididos en entregas autoconclusivas y equilibradas:
 
 ```mermaid
 graph TD
-    subgraph V7to9 ["BLOQUE I: La Diáspora, Eox y Apostae"]
-        V7["Volumen 7: La Diáspora de Sangre (Ep 76b-88)<br/><i>Ábsalon, Corsarios, Asteroide Sarcesiano y Flota de los Cuerpos</i>"]
-        V8["Volumen 8: El Planeta de los Muertos (Ep 89-110)<br/><i>Eox, Sabios Óseos, Reality Show de Zo! y Necrogarganta</i>"]
-        V9["Volumen 9: La Sombra de Apostae (Ep 111-122)<br/><i>Infiltración Drow y Duelo Fratricida de Triel</i>"]
+    subgraph B1 ["BLOQUE I: La Diáspora y Eox (Libro 3 Paizo)"]
+        V7["Volumen 7: La Diáspora de Sangre (Ep 76-88)<br/><i>Ábsalon, Corsarios, Asteroide Sarcesiano y Flota</i>"]
+        V8["Volumen 8: El Camino Furibundo (Ep 89-98)<br/><i>Eox, Ministerio de los Vivos y Reality Show de Zo!</i>"]
+        V9["Volumen 9: La Necrogarganta (Ep 99-110)<br/><i>Dragonkin, Ellicujo y Derrota de Xerantha Zatus</i>"]
         V7 --> V8 --> V9
     end
 
-    subgraph V10to11 ["BLOQUE II: El Casino Espacial y la Nave Fantasma"]
-        V10["Volumen 10: El Rally de la Muerte (Ep 123-135)<br/><i>Asteroide-Casino y Carrera Mortal en el Vacío</i>"]
-        V11["Volumen 11: La Nave Fantasma (Ep 136-162)<br/><i>Zivok, La Galway, Pecio No-Muerto de Eox y los Lovelorn</i>"]
+    subgraph B2 ["BLOQUE II: Apostae y el Casino (Arco Propio)"]
+        V10["Volumen 10: La Sombra de Apostae (Ep 111-122)<br/><i>Infiltración Drow y Primer Duelo contra Jhidel</i>"]
+        V11["Volumen 11: El Rally de la Muerte (Ep 123-135)<br/><i>Asteroide-Casino y Carrera Mortal en el Vacío</i>"]
         V9 --> V10 --> V11
     end
 
-    subgraph V12to13 ["BLOQUE III: Las Nubes Arruinadas y la Nave de Besmara"]
-        V12["Volumen 12: Las Nubes Arruinadas (Ep 163-185)<br/><i>Retorno de Marloc, Istamak y los Secretos Kishalee</i>"]
-        V13["Volumen 13: El Corazón del Padre (Ep 186-222)<br/><i>La Nave de Besmara en la Deriva, Jhidel y Keiden Ashton</i>"]
+    subgraph B3 ["BLOQUE III: La Nave Fantasma (La Galway y Zivok)"]
+        V12["Volumen 12: El Pecio de la Oscuridad (Ep 136-147)<br/><i>Zivok, La Galway y Abordaje del Pecio Eoxiano</i>"]
+        V13["Volumen 13: El Laberinto de los Lovelorn (Ep 148-162)<br/><i>Asedio Lovelorn, Dobles de Axel y Huida</i>"]
         V11 --> V12 --> V13
     end
 
-    subgraph V14to15 ["BLOQUE IV: Los Doce Soles y el Imperio de los Huesos"]
-        V14["Volumen 14: La Decimotercera Puerta (Ep 223-249)<br/><i>Doce Soles, Chasis de Axel, Caída de Null-9 y la Puerta</i>"]
-        V15["Volumen 15: El Imperio de los Huesos (Ep 250-272+)<br/><i>Dreadnought No-Muerto, Tren de la Muerte, Malakar y Sangromancia (En Curso)</i>"]
+    subgraph B4 ["BLOQUE IV: Nejeor e Istamak (Libro 4 Paizo)"]
+        V14["Volumen 14: La Ciudadela de Istamak (Ep 163-173)<br/><i>Retorno de Marloc, Descenso en Nejeor y Museo Kish</i>"]
+        V15["Volumen 15: La Forja Kishalee (Ep 174-185)<br/><i>Brote Micótico, Combate contra Xavra y Coordenadas</i>"]
         V13 --> V14 --> V15
+    end
+
+    subgraph B5 ["BLOQUE V: La Nave de Besmara (Arco de Triel)"]
+        V16["Volumen 16: El Secreto de la Deriva (Ep 186-201)<br/><i>Asteroide Kairos, Abuela Alistrav y Corsarios</i>"]
+        V17["Volumen 17: La Nave de Besmara (Ep 202-222)<br/><i>Maelstrom, Duelo Fratricida y Rescate de Keiden</i>"]
+        V15 --> V16 --> V17
+    end
+
+    subgraph B6 ["BLOQUE VI: Los Doce Soles (Libro 5 Paizo)"]
+        V18["Volumen 18: Los Doce Soles (Ep 223-235)<br/><i>Hombre Tintineante, Estaciones Kishalee y Axel</i>"]
+        V19["Volumen 19: La Decimotercera Puerta (Ep 236-249)<br/><i>Caída de Null-9, IA Eltreth y Apertura del Portal</i>"]
+        V17 --> V18 --> V19
+    end
+
+    subgraph B7 ["BLOQUE VII: El Imperio de los Huesos (Libro 6 Paizo)"]
+        V20["Volumen 20: El Imperio de los Huesos (Ep 250-272+)<br/><i>Asalto al Dreadnought, Tren de la Muerte, Malakar y Anasi (En Curso)</i>"]
+        V19 --> V20
     end
 ```
 
 ---
 
-### Detalle de los Volúmenes Planificados (10 al 15)
+### Detalle de los Volúmenes Planificados (7 al 20)
 
-#### 🎲 VOLUMEN 10: *El Rally de la Muerte en el Asteroide-Casino* (Episodios 123 al 135)
+#### 🔴 VOLUMEN 7: *Mundos Fragmentados I: La Diáspora de Sangre* (Episodios 76 al 88)
+* **Episodios:** 76 al 88 (13 episodios / ~12 capítulos).
+* **Mapeo:** *Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 1: La Diáspora)*.
+* **Sinopsis:** Despertar abrupto en Ábsalon al descubrir que la sesión virtual era una emboscada armada del Culto del Devorador. Tras resistir el asalto de gnolls gracias al ingeniero halfling Valdo y presenciar la reveladora visión estelar de Marloc con la esfera jerarca, Triel se despide de León. Salto al Drift hacia La Diáspora: tensión con corsarios de los Capitanes Libres, exploración en baja gravedad de un asteroide sarcesiano habitado por vampiros plateados, asalto a la base del Culto y combate naval contra la Flota de los Cuerpos.
+
+#### 💀 VOLUMEN 8: *Mundos Fragmentados II: El Camino Furibundo de Zo!* (Episodios 89 al 98)
+* **Episodios:** 89 al 98 (10 episodios / ~10 capítulos).
+* **Mapeo:** *Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 2: Eox y Zo!)*.
+* **Sinopsis:** Descenso sobre la atmósfera radiactiva de Eox. Lucha burocrática en el Ministerio de los Vivos, emboscadas de asesinos nihili y visita clandestina al Café Calavera. El magnate mediático no-muerto Zo! les exige sobrevivir a su sádico reality show en vivo («El Camino Furibundo») esquivando al Golem de Neutrones para obtener el salvoconducto a las tierras prohibidas de la Necrogarganta.
+
+#### ☠️ VOLUMEN 9: *Mundos Fragmentados III: La Necrogarganta de Eox* (Episodios 99 al 110)
+* **Episodios:** 99 al 110 (12 episodios / ~12 capítulos).
+* **Mapeo:** *Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 3: The Necrogorge)*.
+* **Sinopsis:** Con el favor de la audiencia no-muerta, los Atómicos marchan por los páramos marchitos de Eox hacia la profunda Necrogarganta. Tras pactar con el Dragonkin y abatir al titánico y monstruoso Ellicoth («Ellicujo»), asaltan el complejo fortificado, derrotan a la sabio óseo Xerantha Zatus y escapan al filo del bombardeo orbital con los secretos de la Flota de los Cuerpos (Cierre del Libro 3 de Paizo).
+
+#### 🕸️ VOLUMEN 10: *Lazos de Sangre: La Sombra de Apostae* (Episodios 111 al 122)
+* **Episodios:** 111 al 122 (12 episodios / ~12 capítulos).
+* **Mapeo:** *Arco Canónico Propio: Inversiones Estelares S.C. y la Casa Istrav*.
+* **Sinopsis:** Marcelus se manifiesta en persona para cobrar sus deudas corporativas. Triel lidera una peligrosa misión encubierta en el planetoide cavernoso de Apostae, infiltrando al equipo como sirvientes domésticos en la fortaleza de la aristocracia drow. Descubren los archivos sobre la huida de Keiden Ashton y el desprecio de su madre drow, culminando en un feroz duelo fratricida a muerte entre Triel y su hermanastra Jhidel Istrav antes de huir hacia Thanox.
+
+#### 🎲 VOLUMEN 11: *El Rally de la Muerte en el Asteroide-Casino* (Episodios 123 al 135)
 * **Episodios:** 123 al 135 (13 episodios / ~12 capítulos).
-* **Mapeo:** Transición hacia el Libro 4 de Paizo / Aventura de mesa en el límite del espacio civilizado.
-* **Sinopsis:** Con la necesidad de reparar su nave y limpiar fondos tras su fuga de Apostae, la tripulación arriba al legendario asteroide-casino. Entre timbas intergalácticas, robots de protocolo corruptos y apuestas ilegales, se inscriben en el despiadado "Rally de la Muerte": una carrera vehicular extrema a través de campos de minas y fuego cruzado en el vacío espacial donde Marloc ejerce de piloto estelar antes de tomar una decisión que cambiará el destino del grupo.
+* **Mapeo:** *Transición hacia Libro 4 / Aventura Canónica Propia en el Casino*.
+* **Sinopsis:** Necesitados de créditos y repuestos para reparar la Estrella Errante, los héroes atracan en un asteroide-casino gobernado por mafias y androides de placer. Para saldar cuentas, se inscriben en el letal «Rally de la Muerte»: una despiadada carrera vehicular a través de cinturones de asteroides y campos de plasma donde Marloc asume el mando como piloto estrella, antes de que tensiones personales lo lleven a tomar un receso temporal.
 
-#### 👻 VOLUMEN 11: *La Nave Fantasma: El Pecio de Eox y la Odisea de La Galway* (Episodios 136 al 162)
-* **Episodios:** 136 al 162 (27 episodios / ~18-20 capítulos).
-* **Notas de Mesa Vitales:** En el Episodio 136, **Juan Pablo decide dar un receso temporal a Marloc Boosmar** para probar una nueva clase e introduce al operativo enano **Zivok**. Durante este largo viaje, **Marloc permanece fuera de juego o es llevado puntualmente por Roberto como PNJ**.
-* **Sinopsis:** A bordo del crucero familiar *La Galway*, Benray se reúne con parientes de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Sin embargo, el viaje se transforma en una pesadilla cósmica cuando la nave se topa con un pecio colosal en el vacío profundo: una **nave fantasma eoxiana de kilómetros de longitud** carcomida por los eones (*El Corazón de la Oscuridad*). Durante **más de 20 episodios ininterrumpidos de horror y supervivencia (Episodios 138 al 159)**, la tripulación queda atrapada explorando sus oscuras entrañas óseas, enfrentando a espectros no-muertos de la Flota de los Cuerpos, los aterradores *Lovelorn*, toxinas alucinógenas y perturbadoras anomalías temporales donde el espacio se pliega sobre sí mismo. Axel-42 debe batirse en duelo a muerte contra espantosas versiones alternativas de sí misma y sus engendros («Axel vs Axel», «Taquicardia»), mientras Benray sufre visiones fantasmales de sus propios reflejos («Benrey vs Benrey») antes de lograr rescatar a los parientes supervivientes y escapar rumbo a Nejeor.
+#### 🚢 VOLUMEN 12: *La Odisea de La Galway I: El Pecio de la Oscuridad* (Episodios 136 al 147)
+* **Episodios:** 136 al 147 (12 episodios / ~12 capítulos).
+* **Mapeo:** *Arco Canónico Propio: La Nave Fantasma Eoxiana (Parte 1)*.
+* **Notas de Mesa:** Juan Pablo da descanso temporal a Marloc e introduce al operativo enano **Zivok**. Roberto gestiona a Marloc como PNJ.
+* **Sinopsis:** A bordo del destartalado carguero familiar *La Galway*, Benray se reúne con parientes de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Sin embargo, la travesía se interrumpe drásticamente al hallar un pecio colosal eoxiano de kilómetros de longitud en el vacío (*El Corazón de la Oscuridad*). La tripulación aborda el navío óseo, enfrentándose a las primeras trampas mortales y espectros no-muertos de la Flota de los Cuerpos.
 
-#### ☁️ VOLUMEN 12: *Las Nubes Arruinadas: La Ciudadela de Istamak* (Episodios 163 al 185)
-* **Episodios:** 163 al 185 (23 episodios / ~16 capítulos).
-* **Mapeo Oficial:** ***Starfinder: Dead Suns - Libro 4: The Ruined Clouds***.
-* **Notas de Mesa Vitales:** En el Episodio 163 (*"Si te he Fallado te Pido Perdón"*), **se produce el esperado retorno de Juan Pablo y Marloc Boosmar a la tripulación**.
-* **Sinopsis:** Tras el emotivo reencuentro con Marloc, la *Estrella Errante* penetra en la densa atmósfera tóxica del planeta Nejeor. Descubren la fabulosa ciudad flotante de Istamak, habitada por los degenerados descendientes de los Kishalee. Entre el asedio de bestias micóticas y la exploración del gigantesco Museo de Istamak, los héroes reactivan las antiguas inteligencias artificiales para descubrir la ubicación de la legendaria Puerta Estelar que conduce a la Superarma.
+#### 👻 VOLUMEN 13: *La Odisea de La Galway II: El Laberinto de los Lovelorn* (Episodios 148 al 162)
+* **Episodios:** 148 al 162 (15 episodios / ~14 capítulos).
+* **Mapeo:** *Arco Canónico Propio: La Nave Fantasma Eoxiana (Parte 2: Lovelorn y Ecos)*.
+* **Sinopsis:** Atrapados en la colosal nave fantasma, la tripulación sufre el despiadado asedio de las abominaciones Lovelorn y sus toxinas alucinógenas. Mientras rescatan con vida a Yolmar, Valentina y un malherido Gazit, Axel-42 debe batirse en combate fratricida contra espantosos clones no-muertos de sí misma («Axel vs Axel», «Taquicardia») y Benrey encara sus propios reflejos («Benrey vs Benrey») antes de desacoplar la nave y escapar rumbo a Nejeor.
 
-#### ⚓ VOLUMEN 13: *El Corazón del Padre: La Nave de Besmara y el Secreto de la Deriva* (Episodios 186 al 222)
-* **Episodios:** 186 al 222 (37 episodios / ~20 capítulos).
-* **Mapeo:** *Arco Canónico Propio de la Mesa (La Nave de Besmara, Keiden Ashton y el Conflicto con la Casa Istrav)*.
-* **Sinopsis:** La abuela drow de Triel revela una verdad trascendental: su padre biológico, el corsario humano **Keiden Ashton**, no murió ni está prisionero en mazmorras subterráneas. Años atrás, su madre Naeae robó el corazón-motor de la legendaria nave pirata bendecida de **Besmara**, dejando a Keiden **atrapado y perdido en el torbellino del Maelstrom dentro de la Deriva (el Drift)**, apareciendo periódicamente entre dimensiones en una nave cambiante y maleable que desafía las leyes de la física y puede surcar el cosmos sin necesidad de balizas. Tras regresar al asteroide Kairos y ser emboscados por conspiraciones drow, los Atómicos se lanzan a la Deriva tras la pista de la nave de Besmara. Allí sufren las distorsiones psíquicas y corporales de la nave viva («Un ¿Viernes? de Locos», «Se Viene el Culebrón»), libran un duelo fratricida decisivo contra su implacable hermana **Jhidel Istrav** («Triel vs Jhidel») y alcanzan el núcleo del navío para restaurar el corazón del motor y estabilizar la vida de Keiden Ashton («El Corazón del Padre»). Padre e hija se reencuentran como aliados navales, ganando el apoyo pirata de la nave de Besmara para la guerra que se avecina contra la Flota de los Cuerpos.
+#### ☁️ VOLUMEN 14: *Las Nubes Arruinadas I: La Ciudadela de Istamak* (Episodios 163 al 173)
+* **Episodios:** 163 al 173 (11 episodios / ~11 capítulos).
+* **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 4: The Ruined Clouds (Parte 1: Istamak)*.
+* **Notas de Mesa:** En el Episodio 163 (*«Si te he Fallado te Pido Perdón»*), **se produce el esperado retorno de Juan Pablo y Marloc Boosmar**.
+* **Sinopsis:** Tras el emotivo reencuentro con Marloc, la *Estrella Errante* penetra en la densa atmósfera tóxica del planeta Nejeor. Descubren la fabulosa ciudad flotante de Istamak, contactan con los pacíficos kishalee y exploran el gigantesco Museo de Istamak descifrando el origen de la Superarma ancestral.
 
-#### 🚪 VOLUMEN 14: *La Decimotercera Puerta* (Episodios 223 al 249)
-* **Episodios:** 223 al 249 (27 episodios / ~18 capítulos).
-* **Mapeo Oficial:** ***Starfinder: Dead Suns - Libro 5: The Thirteenth Gate***.
-* **Sinopsis:** Con las coordenadas estelares de Nejeor, los héroes viajan al remoto sistema de los Doce Soles. Mientras Axel-42 se enfrenta a las revelaciones sobre sus chasis previos y las memorias de sus almas sintéticas anteriores («Chicas Pesadas», «¿Es este el fin de Axel 42?»), el grupo explora la descomunal mega-estructura Kishalee, sorteando laboratorios abandonados y bestias milenarias. El arco culmina con el enfrentamiento a muerte contra la jerarca androide Null-9 y la hostil IA Eltreth, abriendo triunfalmente la Decimotercera Puerta interdimensional que conduce a la ubicación del Devastador Estelar.
+#### ⚙️ VOLUMEN 15: *Las Nubes Arruinadas II: La Forja Kishalee* (Episodios 174 al 185)
+* **Episodios:** 174 al 185 (12 episodios / ~12 capítulos).
+* **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 4: The Ruined Clouds (Parte 2: La Forja)*.
+* **Sinopsis:** Continuando la exploración en Istamak, los héroes inspeccionan la clínica médica y enfrentan un aterrador brote micótico que corroe las instalaciones. Al adentrarse en la forja protegida por defensas ancestrales, libran un duelo a muerte contra el campeón kishalee Xavra y reactivan los núcleos de inteligencia artificial para obtener la ubicación definitiva de la Puerta a la Superarma (Cierre del Libro 4 de Paizo).
 
-#### ☠️ VOLUMEN 15: *El Imperio de los Huesos (Parte 1 / En Curso)* (Episodios 250 al 272+)
+#### 🗝️ VOLUMEN 16: *El Corazón del Padre I: El Secreto de la Deriva* (Episodios 186 al 201)
+* **Episodios:** 186 al 201 (16 episodios / ~14 capítulos).
+* **Mapeo:** *Arco Canónico Propio: Retorno a Kairos y la Convocatoria Drow*.
+* **Sinopsis:** Tras escapar de Nejeor y recalar en el asteroide Kairos para reparar la nave, Triel es convocada por su abuela, la matriarca drow Alistrav. Esta le revela la verdad: su padre Keiden Ashton no murió ni está cautivo, sino que quedó a la deriva en el torbellino del Maelstrom tras el robo del motor de la mística nave pirata de Besmara por parte de Naeae. Los Atómicos se preparan y saltan hacia el vórtice de la Deriva.
+
+#### ⚓ VOLUMEN 17: *El Corazón del Padre II: La Nave de Besmara* (Episodios 202 al 222)
+* **Episodios:** 202 al 222 (21 episodios / ~16 capítulos).
+* **Mapeo:** *Arco Canónico Propio: La Nave de Besmara y Keiden Ashton*.
+* **Sinopsis:** Incursión en la legendaria nave corsaria bendecida por Besmara, atrapada en el Maelstrom. La tripulación sufre las delirantes alteraciones físicas y psíquicas del navío («Un ¿Viernes? de Locos»). Afrontan el asalto y la revancha definitiva contra Jhidel Istrav («Triel vs Jhidel»), superan el severo juicio del Inevitable y devuelven el corazón del motor a la nave, salvando a Keiden Ashton («El Corazón del Padre») y sellando una alianza pirata interdimensional para la guerra venidera.
+
+#### ☀️ VOLUMEN 18: *La Decimotercera Puerta I: Los Doce Soles* (Episodios 223 al 235)
+* **Episodios:** 223 al 235 (13 episodios / ~12 capítulos).
+* **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 5: The Thirteenth Gate (Parte 1: Doce Soles)*.
+* **Sinopsis:** Tras expulsar al perturbador polizón conocido como Hombre Tintineante, la nave salta hacia el misterioso sistema estelar de los Doce Soles. Mientras exploran las descomunales estaciones orbitales Kishalee y sortean bestias milenarias de laboratorio, Axel-42 se enfrenta a revelaciones críticas sobre sus chasis sintéticos previos y las memorias de sus almas anteriores («Chicas Pesadas», «¿Es este el fin de Axel 42?»).
+
+#### 🚪 VOLUMEN 19: *La Decimotercera Puerta II: El Duelo de los Androides* (Episodios 236 al 249)
+* **Episodios:** 236 al 249 (14 episodios / ~13 capítulos).
+* **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 5: The Thirteenth Gate (Parte 2: Null-9)*.
+* **Sinopsis:** Los héroes penetran en el complejo de mando Kishalee. Allí deben confrontar a su antigua aliada y jerarca androide Null-9 y doblegar a la hostil IA Eltreth. En un combate táctico al límite de sus fuerzas («Null-9», «I.A.hora Qué Hacemos»), abren triunfalmente la Decimotercera Puerta interdimensional que conduce a la ubicación del Devastador Estelar (Cierre del Libro 5 de Paizo).
+
+#### ☠️ VOLUMEN 20: *El Imperio de los Huesos: El Asalto al Dreadnought* (Episodios 250 al 272+)
 * **Episodios:** 250 al 272+ (23 episodios emitidos a la fecha / ~16 capítulos).
-* **Mapeo Oficial:** ***Starfinder: Dead Suns - Libro 6: Empire of Bones***.
+* **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 6: Empire of Bones (En Curso / Mesa Activa)*.
 * **Estado de la Mesa:** **En curso / Campaña activa en mesa**. La historia de Dead Suns aún no ha terminado.
-* **Sinopsis:** La Flota de los Cuerpos de Eox hace su aparición masiva con su navío insignia: el colosal super-dreadnought *Imperio de los Huesos*, decidido a reclamar la superarma ancestral para aniquilar los Mundos del Pacto. Benray, Triel, Marloc y Axel organizan una desesperada maniobra de asalto («Atómicos Assemble») y penetran en el titánico acorazado no-muerto. Entre hangares embrujados, duelos contra la pistolera Malakar, una feroz persecución tren contra tren en las entrañas de la nave y francotiradores baykok, Marloc es asediado por visiones místicas de sangre y el grupo combate a la tejedora de sangre Anasi rumbo al puente de mando y al Almirante de la Flota.
+* **Sinopsis:** La Flota de los Cuerpos de Eox despliega su buque insignia para reclamar el Devastador Estelar. Los Atómicos organizan un ataque desesperado («Atómicos Assemble») y abordan el colosal acorazado no-muerto. Combaten en hangares embrujados, libran una persecución frenética a bordo de un tren en marcha («Tren de la Muerte»), eluden a la pistolera Malakar y a francotiradores baykok, mientras Marloc es acosado por visiones místicas de sangre rumbo a la tejedora Anasi y al Almirante de la Flota.
 
 ---
 
 ## 4. Estructura de Metadatos y Recursos en el Proyecto
 
 Todos los recursos se encuentran organizados y vinculados en el repositorio dentro de [`planificacion_global/`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/):
-1. **Plan Detallado de Episodios (Volúmenes 7 al 15 y Especiales):**
-   * [`PLAN_DETALLADO_VOLUMENES_7_A_15.md`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_DETALLADO_VOLUMENES_7_A_15.md) (tabla completa y detallada de los 200 episodios de Starfinder y Especial 2026).
+1. **Plan Detallado de Episodios (Volúmenes 7 al 20 y Especiales):**
+   * [`PLAN_DETALLADO_VOLUMENES_7_A_20.md`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/PLAN_DETALLADO_VOLUMENES_7_A_20.md) (tabla completa y detallada de los 200 episodios de Starfinder y Especiales).
 2. **Metadatos de la Saga Troncal:**
    * [`planificacion_global/metadatos/episodios_starfinder_73_272.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_73_272.json) (Catálogo maestro consolidado de 200 episodios).
-   * [`planificacion_global/metadatos/episodios_starfinder_73_122.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_73_122.json) (50 episodios).
-   * [`planificacion_global/metadatos/episodios_starfinder_123_222.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_123_222.json) (100 episodios).
-   * [`planificacion_global/metadatos/episodios_starfinder_223_272.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/episodios_starfinder_223_272.json) (50 episodios).
 3. **Metadatos de Especiales y Spin-offs:**
    * [`planificacion_global/metadatos/especiales_y_spinoffs.json`](file:///home/jordi/Proyectos/lasersydragones/planificacion_global/metadatos/especiales_y_spinoffs.json) (HyS: 22 eps, MdO: 48 eps, Spooky Octubre 2021, 2025 y 2026 en emisión).
 4. **Transcripciones Limpias en Texto Corrido:**

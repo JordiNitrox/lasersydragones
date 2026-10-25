@@ -1,11 +1,11 @@
 # Glosario y Personajes: *Lasers y Dragones*
-## Volumen XIV · La Decimotercera Puerta
+## Volumen XIV · Las Nubes Arruinadas I: La Ciudadela de Istamak
 
 ---
 
 ## 1. El Escenario Principal
-* **Sistema de los Doce Soles, estaciones de control Kishalee y la Decimotercera Puerta:** Escenario central de los eventos de este volumen.
-* **Marco de Campaña:** Starfinder: Dead Suns - Libro 5: The Thirteenth Gate.
+* **Atmósfera de Nejeor, enclave de los Kish y la fabulosa ciudad flotante de Istamak.**
+* **Marco de Campaña:** Starfinder: Dead Suns - Libro 4: The Ruined Clouds (Parte 1: Istamak).
 
 ---
 
@@ -15,9 +15,8 @@
 * **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo).
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía).
-* *(Ver notas de mesa en metadatos para rotaciones de personajes como Zivok en Volumen 11).*
 
 ---
 
 ## 3. Sinopsis y Conflictos Clave
-Con las coordenadas de Nejeor, los héroes viajan al remoto sistema de los Doce Soles. Mientras Axel-42 investiga la verdad sobre sus almas sintéticas previas y su chasis mecánico, el equipo explora la descomunal mega-estructura Kishalee, sorteando laboratorios abandonados y bestias milenarias. El arco culmina con el enfrentamiento a muerte contra la jerarca androide Null-9 y la IA Eltreth, abriendo triunfalmente la Decimotercera Puerta hacia el Devastador Estelar.
+Tras el emotivo regreso de Juan Pablo y Marloc Boosmar («Si te he Fallado te Pido Perdón»), la Estrella Errante desciende a través de la densa atmósfera tóxica del gigante gaseoso Nejeor. Descubren la majestuosa ciudad flotante de Istamak, contactan con los pacíficos pero degenerados kishalee y exploran el gigantesco Museo de Istamak descifrando el origen de la Superarma ancestral.

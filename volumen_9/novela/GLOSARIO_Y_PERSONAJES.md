@@ -1,11 +1,11 @@
 # Glosario y Personajes: *Lasers y Dragones*
-## Volumen IX · Lazos de Sangre
+## Volumen IX · Mundos Fragmentados III: La Necrogarganta de Eox
 
 ---
 
 ## 1. El Escenario Principal
-* **Planetoide cavernoso de Apostae, Bastiones Drow de la Casa Istrav y Thanox:** Escenario central de los eventos de este volumen.
-* **Marco de Campaña:** Arco Canónico Propio de la Mesa (Inversiones Estelares S.C. y la Casa Istrav).
+* **Páramos radiactivos de Eox, la fosa de la Necrogarganta y el santuario de Xerantha Zatus.**
+* **Marco de Campaña:** Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 3: The Necrogorge).
 
 ---
 
@@ -15,9 +15,8 @@
 * **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo).
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía).
-* *(Ver notas de mesa en metadatos para rotaciones de personajes como Zivok en Volumen 11).*
 
 ---
 
 ## 3. Sinopsis y Conflictos Clave
-Marcelus se manifiesta en persona para cobrar sus deudas corporativas. Triel lidera una peligrosa misión encubierta en el planetoide cavernoso de Apostae, infiltrando al equipo como sirvientes domésticos en la fortaleza de la aristocracia drow. Descubren los archivos sobre la huida de Keiden Ashton y el desprecio de su madre drow, culminando en un feroz duelo fratricida a muerte entre Triel y su hermanastra Jhidel Istrav antes de huir hacia Thanox.
+Con el favor de la audiencia no-muerta, los Atómicos marchan por los páramos marchitos de Eox hacia la profunda Necrogarganta. Tras pactar con el Dragonkin y abatir al titánico y monstruoso Ellicoth («Ellicujo»), asaltan el complejo fortificado, derrotan a la sabio óseo Xerantha Zatus y escapan al filo del bombardeo orbital con los secretos de la Flota de los Cuerpos (Cierre del Libro 3 de Paizo).
