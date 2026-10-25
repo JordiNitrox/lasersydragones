@@ -9,23 +9,23 @@ Este directorio funciona como la **Única Fuente de Verdad** (*Single Source of 
 
 1. **[CONTEXTO_COMPLETO_SAGA.md](CONTEXTO_COMPLETO_SAGA.md)**:
    Documento maestro en Markdown que consolida:
-   - Resumen cronológico y canónico del **Volumen 1 (*Sombras sobre Absalón*)** y del **Volumen 2 (*El Misterio del Acreon*)**.
+   - Resumen cronológico y canónico de los **Volúmenes 1 al 6** (Episodios 1 al 72: desde la llegada a Absalón hasta el salto al Drift hacia la Diáspora).
    - Índice maestro de todos los escenarios y ubicaciones con indicación explícita de aparición en volúmenes (`[Aparece en: ...]`).
    - Dossier exhaustivo de personajes protagonistas y secundarios con sus arcos, armas, evoluciones y estado actual.
    - Directorio de corporaciones, facciones galácticas, bestiario cósmico y matriz de continuidad comparativa.
 
-2. **[Descargar PDF Editorial (23 Páginas)](Contexto_Completo_Lasers_y_Dragones.pdf)**:
+2. **[Descargar PDF Editorial (48 Páginas)](Contexto_Completo_Lasers_y_Dragones.pdf)**:
    Versión maquetada con la misma portada y diseño tipográfico de las novelas, ideal para una lectura cómoda y rápida de toda la historia acumulada.
 
 3. **`generar_contexto_pdf.py`**:
-   Script de compilación que transforma el archivo Markdown en HTML estructurado y lo compila a PDF mediante LibreOffice headless.
+   Script de compilación que transforma el archivo Markdown en HTML estructurado y lo compila a PDF mediante LibreOffice headless en dos pases con pdftotext.
 
 ---
 
 ## 🔄 Protocolo de Actualización para Futuros Volúmenes
 
 De acuerdo con el skill de novelización:
-1. **Fase Pre-Novelización:** Consultar este directorio antes de redactar cualquier volumen futuro (ej. Volumen 3) para mantener estricta coherencia con las naves, mejoras de Gerty, armas, deudas y vínculos románticos previos.
+1. **Fase Pre-Novelización:** Consultar este directorio antes de redactar cualquier volumen futuro (ej. Volumen 7) para mantener estricta coherencia con las naves, mejoras de Gerty, armas, deudas y vínculos románticos previos.
 2. **Fase Post-Novelización:** Tras finalizar la redacción de cada nuevo volumen:
    - Añadir el resumen del volumen en la Sección 1.
    - Actualizar las etiquetas de aparición `[Aparece en: Volumen X, Volumen Y...]` de personajes y lugares recurrentes.

@@ -24,6 +24,16 @@ Archivos, grabaciones, transcripciones y materiales de novelización correspondi
 
 ---
 
+## Ficha Técnica del Libro
+
+* **Título:** *Lasers y Dragones: La Roca del Drift*
+* **Subtítulo:** *Volumen III · El Enigma Ancestral*
+* **Episodios Adaptados:** Episodios 23 al 33 (11 episodios, 11 capítulos novelados + prólogo, nota editorial y anexo).
+* **Extensión del PDF:** 70 páginas en formato A4 editorial de alta fidelidad.
+* **Archivo PDF:** [Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf](novela/Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf)
+
+---
+
 ## 2. Estructura del Volumen
 
 - `audios/`: 11 archivos MP3 oficiales descargados desde Libsyn (477 MB).
@@ -31,7 +41,8 @@ Archivos, grabaciones, transcripciones y materiales de novelización correspondi
 - `transcripciones/limpias/`: Texto continuo deduplicado y formateado en párrafos.
 - `plan_volumen_3.md`: Plan maestro de adaptación literaria capítulo a capítulo.
 - `novela/`:
-  - `capitulos/`: Capítulos novelizados en Markdown.
+  - `capitulos/`: 11 capítulos novelizados en Markdown (Capítulos 23 al 33) más el prólogo. Incluye el cierre canónico del capítulo 33 con las mejoras cibernéticas, compras en Absalón y el mensaje de citación del profesor Ambrose Boosmar.
   - `GLOSARIO_Y_PERSONAJES.md`: Dossier de nuevos personajes y escenario de la Roca del Drift.
-  - `generar_libro_pdf.py`: Script de compilación y maquetación editorial en PDF con LibreOffice.
-  - `Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf`: Libro maquetado final.
+  - `generar_libro_pdf.py`: Script de compilación y maquetación editorial en PDF con LibreOffice en dos pases.
+  - `libro_maquetado.html`: Documento HTML estructurado intermedio.
+  - `Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf`: Libro maquetado final (70 páginas).

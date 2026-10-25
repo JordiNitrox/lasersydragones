@@ -23,6 +23,16 @@ Archivos, grabaciones, transcripciones y materiales de novelización correspondi
 
 ---
 
+## Ficha Técnica del Libro
+
+* **Título:** *Lasers y Dragones: El Misterio del Acreon*
+* **Subtítulo:** *Volumen II · Los Secretos del Vacío*
+* **Episodios Adaptados:** Episodios 11 al 22 (12 episodios, 12 capítulos novelados + prólogo, nota editorial y anexo).
+* **Extensión del PDF:** 59 páginas en formato A4 editorial de alta fidelidad.
+* **Archivo PDF:** [Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf](novela/Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf)
+
+---
+
 ## 2. Estructura del Volumen
 
 - `audios/`: 12 archivos MP3 originales descargados de Libsyn (más de 600 MB).
@@ -30,9 +40,11 @@ Archivos, grabaciones, transcripciones y materiales de novelización correspondi
 - `transcripciones/limpias/`: Transcripciones filtradas de muletillas de subtitulado, unificadas en texto corrido.
 - `plan_volumen_2.md`: Plan maestro de novelización que mapea los 12 capítulos correspondientes a la trama del *Acreon*.
 - `novela/`:
+  - `capitulos/`: 12 capítulos novelizados en Markdown (Capítulos 11 al 22) más el prólogo.
   - `GLOSARIO_Y_PERSONAJES.md`: Canon expandido con facciones, nombres propios clave (Embajador Gevalarsk Nor, asistente Keltus, goblins Willy y Naru, oficiales Monroe y León de los Protectores, capitán Otal Seris, tripulación del Acreon).
   - `generar_libro_pdf.py`: Script de compilación y maquetación editorial HTML/CSS con motor de renderizado LibreOffice.
-  - `capitulos/`: Carpeta preparada para recibir los capítulos novelizados en Markdown.
+  - `libro_maquetado.html`: Documento HTML estructurado intermedio.
+  - `Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf`: Libro maquetado final (59 páginas).
 - `metadatos/`: Registro JSON estructurado con URLs, sinopsis y hashes.
 - `scripts/`: Herramientas de automatización y descarga.
 

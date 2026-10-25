@@ -12,7 +12,7 @@ El proyecto se organiza en volúmenes narrativos modulares y autocontenidos:
 lasersydragones/
 ├── Contexto completo/                       # Archivo Maestro de Canon, Continuidad y Resumen de la Saga
 │   ├── CONTEXTO_COMPLETO_SAGA.md            # Documento maestro con referencias cruzadas de volúmenes
-│   ├── Contexto_Completo_Lasers_y_Dragones.pdf  # Versión editorial en PDF (23 páginas)
+│   ├── Contexto_Completo_Lasers_y_Dragones.pdf  # Versión editorial en PDF (48 páginas)
 │   ├── generar_contexto_pdf.py              # Script compilador con LibreOffice
 │   └── README.md                            # Protocolo de mantenimiento
 │
@@ -39,13 +39,14 @@ lasersydragones/
 │       └── Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf  # PDF Final Maquetado (59 páginas)
 │
 ├── volumen_3/                               # Volumen 3: La Roca del Drift (Episodios 23 a 33)
+│   ├── audios/                              # 11 episodios MP3 originales descargados
 │   ├── transcripciones/                     # Subtítulos .vtt y transcripciones limpias
 │   ├── metadatos/                           # episodios_volumen_3.json
 │   └── novela/
 │       ├── capitulos/                       # Capítulos 23 al 33 completos en Markdown
 │       ├── GLOSARIO_Y_PERSONAJES.md         # Canon expandido (Roca del Drift, Garaggakal, etc.)
 │       ├── generar_libro_pdf.py             # Script maquetador LibreOffice
-│       └── Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf  # PDF Final Maquetado (69 páginas)
+│       └── Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf  # PDF Final Maquetado (70 páginas)
 │
 ├── volumen_4/                               # Volumen 4: Las Torres de Qabarat (Episodios 34 a 45)
 │   ├── transcripciones/                     # Subtítulos .vtt y transcripciones limpias (136,356 palabras)
@@ -55,7 +56,7 @@ lasersydragones/
 │       ├── capitulos/                       # Capítulos 34 al 45 completos en Markdown
 │       ├── GLOSARIO_Y_PERSONAJES.md         # Canon expandido (Castrovel, Qabarat, Turhalu, etc.)
 │       ├── generar_libro_pdf.py             # Script maquetador LibreOffice
-│       └── Lasers_y_Dragones_Volumen_4_Las_Torres_de_Qabarat.pdf  # PDF Final Maquetado (76 páginas)
+│       └── Lasers_y_Dragones_Volumen_4_Las_Torres_de_Qabarat.pdf  # PDF Final Maquetado (78 páginas)
 │
 ├── volumen_5/                               # Volumen 5: El Templo de los Doce Soles (Episodios 46 a 59)
 │   ├── transcripciones/                     # Subtítulos .vtt y transcripciones limpias (160,439 palabras)
@@ -100,12 +101,12 @@ lasersydragones/
 
 3. **[Volumen 3: La Roca del Drift](file:///home/jordi/Proyectos/lasersydragones/volumen_3/novela/Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf)**
    * *Subtítulo:* `El Enigma Ancestral` (Episodios 23–33).
-   * *Extensión:* 69 páginas, A4 editorial, navegación por marcadores, prólogo y anexo.
-   * *Arco:* Descenso en gravedad cero a la Roca del Drift, caída de Clara-247, Driftdead de Moriko Nash, batalla contra el Garaggakal, rescate de la *Estrella Errante*, regreso a Absalón, arbitraje del juez Keltrosho y homenaje en *El Pulmón Negro*.
+   * *Extensión:* 70 páginas, A4 editorial, navegación por marcadores, prólogo y anexo.
+   * *Arco:* Descenso en gravedad cero a la Roca del Drift, caída de Clara-247, Driftdead de Moriko Nash, batalla contra el Garaggakal, rescate de la *Estrella Errante*, regreso a Absalón, arbitraje del juez Keltrosho, homenaje en *El Pulmón Negro*, mejoras cibernéticas y citación de Ambrose Boosmar.
 
 4. **[Volumen 4: Las Torres de Qabarat](file:///home/jordi/Proyectos/lasersydragones/volumen_4/novela/Lasers_y_Dragones_Volumen_4_Las_Torres_de_Qabarat.pdf)**
    * *Subtítulo:* `El Horizonte Esmeralda` (Episodios 34–45).
-   * *Extensión:* 76 páginas, A4 editorial, navegación por marcadores, prólogo y anexo.
+   * *Extensión:* 78 páginas, A4 editorial, navegación por marcadores, prólogo y anexo.
    * *Arco:* Despedida en Absalón (concierto de Syd Velch, mosh pit de Benray, funeral de Marlene, token de León), llegada a Castrovel, investigación del secuestro de Solstarni con Muhali, persecución automovilística contra la Legión, pacto corsario con *La Venganza*, expolio cómico de Annabelle en los archivos, portal de Aiakos, llegada al puesto de Turhalu con el Dr. Kaeral y penetración en la jungla de Ukulam.
 
 5. **[Volumen 5: El Templo de los Doce Soles](file:///home/jordi/Proyectos/lasersydragones/volumen_5/novela/Lasers_y_Dragones_Volumen_5_El_Templo_de_los_Doce_Soles.pdf)**
@@ -121,3 +122,11 @@ lasersydragones/
 7. **[Contexto Completo y Guía de Continuidad](file:///home/jordi/Proyectos/lasersydragones/Contexto%20completo/Contexto_Completo_Lasers_y_Dragones.pdf)**
    * *Contenido:* Dossier maestro de todos los escenarios, personajes, corporaciones, bestias y matriz de continuidad con etiquetas de presencia por volumen (`[Volumen 1 al Volumen 6]`).
    * *Extensión:* 48 páginas, A4 editorial con índice y portada homogénea.
+
+---
+
+## ⚖️ Aviso Legal, Licencia Comunitaria y Atribución
+
+Esta obra literaria y de documentación sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de **Paizo Inc.**, utilizados bajo la *Política de Uso Comunitario de Paizo* ([paizo.com/communityuse](https://paizo.com/communityuse)). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de *Starfinder* y *Pathfinder*, visite [paizo.com](https://paizo.com).
+
+Asimismo, este proyecto constituye un homenaje no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense **Lasers y Dragones**. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: **Roberto** (Game Master y Gerty), **Miguel** (Benray Galway), **Irene** (Triel Istrav), **Juan Pablo** (Marloc Boosmar) y **Sofía** (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.

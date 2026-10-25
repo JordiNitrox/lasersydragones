@@ -1,6 +1,12 @@
 # Lasers y Dragones: Contexto Completo y Guía de Continuidad
 ## Dossier Maestro de Escenarios, Personajes, Facciones y Resumen de la Saga
 
+> ### ⚖️ Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+>
+> Esta obra literaria y de documentación sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de **Paizo Inc.**, utilizados bajo la *Política de Uso Comunitario de Paizo* ([paizo.com/communityuse](https://paizo.com/communityuse)). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de *Starfinder* y *Pathfinder*, visite [paizo.com](https://paizo.com).
+>
+> Asimismo, este dossier maestro constituye una recopilación de referencia no oficial y de difusión cultural inspirada en la campaña de rol en vivo del podcast costarricense **Lasers y Dragones**. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: **Roberto** (Game Master y Gerty), **Miguel** (Benray Galway), **Irene** (Triel Istrav), **Juan Pablo** (Marloc Boosmar) y **Sofía** (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+
 ---
 
 ## 1. Resumen Cronológico de los Volúmenes

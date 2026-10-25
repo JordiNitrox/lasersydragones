@@ -19,3 +19,11 @@ Siguiendo el riguroso protocolo de fidelidad canónica del proyecto, todos los s
 * **Doctora Omejia Solstarni:** Prestigiosa profesora de arqueología y lingüística de la Universidad de Qabarat, secuestrada por el Culto del Devorador y retenida en el santuario de la montaña para descifrar los secretos de la superarma estelar.
 * **Tahomen:** Sumo sacerdote y comandante del Culto del Devorador en Castrovel, fanático despiadado obsesionado con abrir la Puerta de los Doce Soles y desatar el Devastador Estelar sobre la galaxia.
 * **Salas y Avissa:** Las lugartenientes y ejecutoras del culto; una exoficial sádica de la Legión del Fuego en el Cielo y una mercenaria acorazada con armamento pesado de asalto.
+
+---
+
+> ### Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+>
+> Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de **Paizo Inc.**, utilizados bajo la *Política de Uso Comunitario de Paizo* ([paizo.com/communityuse](https://paizo.com/communityuse)). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de *Starfinder* y *Pathfinder*, visite [paizo.com](https://paizo.com).
+>
+> Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense **Lasers y Dragones**. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: **Roberto** (Game Master y Gerty), **Miguel** (Benray Galway), **Irene** (Triel Istrav), **Juan Pablo** (Marloc Boosmar) y **Sofía** (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.

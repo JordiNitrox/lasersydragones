@@ -412,7 +412,19 @@ def render_html(page_numbers=None):
     <li><strong>Para el lector:</strong> Disponer de un compendio accesible, estructurado y de lectura ágil que resuma el viaje de los protagonistas a lo largo de los volúmenes, refresque los misterios desvelados y organice las fichas de todos los personajes y escenarios con indicación precisa de sus apariciones.</li>
     <li><strong>Para el equipo editorial:</strong> Actuar como la <em>Única Fuente de Verdad</em> (Single Source of Truth) para asegurar la coherencia absoluta de las tramas, la evolución del equipo, el estado de las relaciones románticas y las deudas contraídas conforme la saga se amplía con nuevos tomos.</li>
   </ul>
-  
+
+  <div style="margin: 25px auto 10px auto; padding: 14px 18px; border: 1px solid #cbd5e0; background-color: #f8fafc; font-size: 8.5pt; color: #4a5568; line-height: 1.5; text-align: justify; border-radius: 4px;">
+    <p style="margin: 0 0 6px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 9pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+      Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+    </p>
+    <p style="margin: 0 0 6px 0; text-indent: 0;">
+      Esta obra literaria y de documentación sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
+    </p>
+    <p style="margin: 0; text-indent: 0;">
+      Asimismo, este dossier maestro constituye una recopilación de referencia no oficial y de difusión cultural inspirada en la campaña de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benray Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Marloc Boosmar) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+    </p>
+  </div>
+
   <div class="divider">✦ &nbsp; ◈ &nbsp; ✦</div>
   
   <!-- 3. ÍNDICE DE CONTENIDOS -->
