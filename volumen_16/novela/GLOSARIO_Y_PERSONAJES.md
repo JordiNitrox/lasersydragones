@@ -10,14 +10,13 @@
 ---
 
 ## 2. Los Protagonistas y Entidades Clave
-* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Enfrenta el dilema más desgarrador de su vida al conectar su *Custom Rig* en el núcleo del asteroide.
-* **Gerty (Original):** Dron de Combate y Asalto Pesado de Triel (Voz: Roberto). Compañero incondicional de Triel; su conciencia artificial es sacrificada en el Episodio 201.
+* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Enfrenta el dilema más desgarrador de su vida al conectar su *Custom Rig* en el núcleo del asteroide en el Episodio 201.
+* **Gerty (Original):** Dron de Combate y Asalto Pesado de Triel (Voz: Roberto). Compañero incondicional de Triel; su conciencia artificial es sacrificada con inmenso dolor en el Episodio 201.
 * **Kairos:** Organismo Robótico Sintiente (*SRO*) dotado de alma verdadera y regente supremo del asteroide-casino. Sacrifica la energía de su núcleo para abrir el portal hacia el Maelstrom. Tras el sacrificio de Gerty, su conciencia y alma son descargadas en el chasis del dron.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
-* **Marloc Boosmar:** Tecnomante Humano y Centurión de la Legión del Fuego en el Cielo (Jugador: Juan Pablo).
-* **A.Xel 42:** Operativa Androide (Jugadora: Sofía).
-* **Keiden Ashton:** Capitán Pirata Humano y padre biológico de Triel, atrapado en el Maelstrom en la nave de Besmara.
-* **Alistrav:** Matriarca Drow suprema de la Casa Istrav.
+* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Asiste atónito y conmovido al cambio ontológico en el cuerpo del dron.
+* **Zivok:** Operativo Enano (Jugador: Juan Pablo). Monta guardia militar en el núcleo durante el apagón del asteroide.
+* **A.Xel 42:** Operativa Androide (Jugadora: Sofía). En el Episodio 197 confirma que su chasis albergó a la matriarca Ashera y que está conectada con el destino de la Forja.
+* **Keiden Ashton (Mención/Búsqueda):** Capitán Pirata Humano y padre biológico de Triel, cuyo rastro apunta directamente al corazón del Maelstrom.
 
 ---
 

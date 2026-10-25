@@ -1,27 +1,34 @@
 # Glosario y Personajes: *Lasers y Dragones*
-## Volumen XI · El Rally de la Muerte en el Asteroide-Casino
+## Volumen XI · Mundos Fragmentados V: La Despedida de Marloc
 
 ---
 
 ## 1. El Escenario Principal
-* **Asteroide-casino en los confines del espacio, arenas de carreras y el vacío estelar.**
-* **Marco de Campaña:** Transición hacia Libro 4 / Aventura Canónica Propia en el Casino.
+* **El Asteroide Kairos:** Salones de la alta sociedad, la Ruleta de Fortuna y los jardines hidropónicos privados del casino.
+* **Marco de Campaña:** Clímax del Arco del Casino y Transición hacia Dead Suns Libro 4.
 
 ---
 
-## 2. Los Protagonistas
-* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene).
-* **Gerty:** Dron de Combate y Asalto Pesado (Voz: Roberto).
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
-* **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo). Piloto estrella del Rally, cuyo arco personal alcanza un punto de inflexión decisivo al final del volumen.
-* **A.Xel 42:** Operativa Androide (Jugadora: Sofía).
-* **Ángela:** Habitante del asteroide, idéntica en fisonomía a la difunta esposa de Marloc. Representa la oportunidad de sanación y redención emocional para Marloc.
-* **Zivok:** Veterano operativo enano con armadura pesada meca (Jugador: Juan Pablo durante el receso de Marloc). Se incorpora a la tripulación en el Episodio 135.
+## 2. Los Protagonistas y su Evolución Emocional
+* **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo). Protagonista absoluto del arco emocional: tras reencontrarse con Ángela y comprender que tiene la oportunidad de una vida de amor y paz, toma la desgarradora decisión de abandonar la tripulación en el Episodio 135.
+* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Llora la partida de su mentor y compañero intelectual; acepta su decisión con inmenso cariño y asume la capitanía moral de la nave.
+* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Afligido por perder a su amigo de gabán y magia; le entrega un recuerdo especial antes de despedirse.
+* **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Expresa conmovida su respeto por la elección humana de Marloc, reconociendo que el amor es el mayor enigma que ha presenciado.
+* **Gerty:** Dron de Asalto (Voz: Roberto). Emite un chirrido quebrado de despedida, recordando los momentos en que Marloc potenció sus armas con tecnomancia.
 
 ---
 
-## 3. Sinopsis y Conflictos Clave
-Necesitados de créditos y repuestos para reparar la Estrella Errante, los héroes atracan en un asteroide-casino gobernado por mafias y androides de placer. Para saldar cuentas, se inscriben en el letal «Rally de la Muerte»: una despiadada carrera vehicular a través de cinturones de asteroides y campos de plasma donde Marloc asume el mando como piloto estrella.
+## 3. Personajes Secundarios y Facciones
+* **Ángela:** La mujer del casino que devuelve la luz a la vida de Marloc.
+* **Kairos:** Regente del asteroide que otorga a Marloc y Ángela asilo permanente y una posición honoraria en el gobierno del casino.
+* **Zivok (Anticipación):** Operativo enano y veterano de guerra enviado para relevar a Marloc en el próximo volumen.
 
-### ⚠️ Hito Dramático Mandatorio (Episodio 135):
-Al finalizar el Rally, Marloc toma una decisión existencial: conmovido por una carta personal y el anhelo de no morir en vano en una guerra cósmica, decide quedarse en el casino con Ángela para investigar la Piedra Corazón y cuidar de ella, cediendo su camarote y su puesto de combate al enano Zivok.
+---
+
+## 4. Giros Canónicos, Lazos Familiares y Vidas Personales Mandatorios
+
+### ❤️ El Reencuentro Definitivo de Marloc y Ángela:
+A lo largo de los salones de Kairos, Marloc confirma que el vínculo con Ángela es genuino. El dolor acumulado desde la muerte de su esposa se transforma en redención y esperanza.
+
+### 😢 La Despedida de Marloc Boosmar (Episodio 135):
+En el hangar del Hippocampus, Marloc anuncia que no viajará hacia las nubes mortales de Nejeor. Prefiere quedarse al lado de Ángela para construir un hogar. El abrazo colectivo entre lágrimas de toda la tripulación sella uno de los momentos más conmovedores de toda la saga de *Lasers y Dragones*.

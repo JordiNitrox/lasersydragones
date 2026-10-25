@@ -1,29 +1,34 @@
 # Glosario y Personajes: *Lasers y Dragones*
-## Volumen XIX · La Decimotercera Puerta II: El Duelo de los Androides
+## Volumen XIX · La Ciudadela Perdida II: El Enigma de la Forja Viviente
 
 ---
 
 ## 1. El Escenario Principal
-* **Megaestructura central de mando Kishalee, la Puerta 2 y el umbral de la Decimotercera Puerta.**
-* **Marco de Campaña:** Starfinder: Dead Suns - Libro 5: The Thirteenth Gate (Parte 2: Null-9 y la Puerta).
+* **El Núcleo de la Forja Viviente y el Umbral de la Treceava Puerta:** Cámara de gestación de almas sintéticas pre-Brecha y el portal dimensional que conduce al Devastador Estelar.
+* **Marco de Campaña:** Starfinder: Dead Suns - Libro 5: The Thirteenth Gate (Clímax de la Ciudadela y Revelación de Ashera).
 
 ---
 
-## 2. Los Protagonistas y Facciones
-* **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Descubre la asombrosa verdad de su existencia: su chasis albergó a **Ashera** y guarda en su matriz el código de la Forja viviente.
-* **Null-9:** Jerarca androide, antigua compañera de Claire y líder fanática del Culto del Devorador. Hija y protegida de Ashera; consumida por el rencor al descubrir que se le ocultó la verdad sobre la reproducción androide.
-* **Ashera:** Alma legendaria que habitó el chasis previo de Axel. Descubrió que ella misma era la Forja viva y trascendió en secreto para impedir que Null-9 corrompiera dicho poder.
-* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene).
-* **Gerty / Kairos:** Dron de asalto habitado por la conciencia y alma de Kairos (Voz: Roberto).
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
-* **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo).
-* **Eltreth:** Ancestro científico kishalee convertido en inteligencia artificial hostil.
+## 2. Los Protagonistas y su Evolución Emocional
+* **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Protagonista de la mayor revelación ontológica y mística de la saga: en el Episodio 246 comprende que su cuerpo es la **Forja Viviente**, receptáculo del alma de Ashera y matriz divina capaz de engendrar vida androide consciente.
+* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Calibra la interfaz entre el Custom Rig y la Forja, asistiendo a Axel en su comunión mística y protegiendo el portal.
+* **Kairos (en el cuerpo de Gerty):** Entidad Sintiente (Voz: Roberto). Juega su papel definitivo como hermano mayor y testigo espiritual del renacimiento de la Forja.
+* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Media el armisticio final con las huestes androides rebeldes, demostrando que la libertad de las máquinas no requiere la aniquilación de los biológicos.
+* **Zivok:** Operativo Enano (Jugador: Juan Pablo). Abate a los últimos comandantes de la Flota de Cadáveres que intentaban sabotear el núcleo.
 
 ---
 
-## 3. Giro Canónico Mandatorio: El Secreto de Ashera y la Forja Viviente (Episodio 246)
-El cara a cara definitivo entre Axel-42 y Null-9 desvela el misterio transhumanista central de la saga:
-1. **La Maternidad de Ashera:** Ashera y Claire encontraron y criaron a Null-9. Null es, en sentido estricto, descendiente directa del cuerpo que hoy ocupa Axel.
-2. **La Forja Viviente:** Al buscar la mítica Forja de los Kishalee, Ashera comprendió que su propio chasis contenía la clave («crack the code») para engendrar nuevos androides.
-3. **El Silencio Protector:** Viendo que Null-9 era inestable y mesiánica, Ashera prefirió trascender en secreto (haciéndole jurar silencio a Claire) para proteger la vida androide.
-4. **La Tragedia de Null-9:** Ignorante de que Axel-42 portaba el cuerpo de su "madre" Ashera, Null-9 cuidó de ella en Ábsalon. Al saberse engañada, su dolor se tornó en nihilismo cósmico, buscando usar el Devastador Estelar para reescribir la realidad.
+## 3. Personajes Secundarios y Facciones
+* **Ashera:** La Gran Madre y deidad tutelar de los androides; su memoria y esencia despiertan en el interior de Axel.
+* **Null-9:** Archirrival de Axel; vencida dialéctica y moralmente en el Episodio 246 al comprender que la Forja no es un arma de poder, sino un acto de amor y maternidad.
+* **Miseria (Jennifer) y las Hijas de la Forja:** Androides que juran lealtad y protección a Axel como su Madre Viviente.
+
+---
+
+## 4. Giros Canónicos, Lazos Familiares y Vidas Personales Mandatorios
+
+### 🌟 La Revelación de la Forja Viviente y Ashera (Episodio 246):
+Al fusionar su conciencia con el núcleo de la Ciudadela, A.Xel no solo salva la Puerta: se revela que su chasis albergó la matriz de Ashera. Axel no es una máquina común; es la fuente viva que concederá almas y dignidad a las futuras generaciones androides de la galaxia.
+
+### 🚪 La Apertura de la Treceava Puerta (Episodio 249):
+Con la Forja estabilizada y Null-9 derrotada, la tripulación activa la Treceava Puerta, abriendo el salto definitivo hacia el interior del Devastador Estelar, donde se decidirá el destino del universo en el Volumen XX.

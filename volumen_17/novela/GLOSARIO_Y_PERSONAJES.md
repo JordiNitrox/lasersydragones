@@ -4,30 +4,31 @@
 ---
 
 ## 1. El Escenario Principal
-* **El Maelstrom en la Deriva, la nave corsaria bendecida por Besmara y el vórtice interdimensional.**
-* **Marco de Campaña:** Arco Canónico Propio: La Nave de Besmara, Keiden Ashton y el Legado Pirata.
+* **El Maelstrom de la Deriva y la legendaria Nave Pirata de Besmara:** Un cementerio de pecios y corrientes hiperespaciales enloquecidas donde la reina pirata Besmara atrapa navíos en el tiempo.
+* **Marco de Campaña:** Arco Canónico Propio: El Rescate de Keiden Ashton y la Reconciliación Filial de Triel.
 
 ---
 
-## 2. Los Protagonistas
-* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Carga con el dolor silencioso del sacrificio de Gerty hasta confesárselo a su padre Keiden.
-* **Gerty / Kairos:** El chasis de combate del dron de Triel, **ahora habitado por la conciencia y alma de Kairos** (Voz: Roberto). Ya no es una máquina de guerra agresiva y ruda; habla con solemnidad, elegancia y constantes metáforas de naipes, apuestas cósmicas y azar.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
-* **Marloc Boosmar:** Tecnomante Humano y Centurión de la Legión del Fuego en el Cielo (Jugador: Juan Pablo).
-* **A.Xel 42:** Operativa Androide (Jugadora: Sofía).
-* **Keiden Ashton:** Capitán Pirata Humano y padre biológico de Triel. Atrapado en el núcleo de la nave corsaria tras robar el motor de Besmara.
-* **Jhidel Istrav:** Hermanastra drow de Triel y rival a muerte en el asalto a la nave.
-* **El Inevitable:** Árbitro cósmico que juzga las leyes del pacto y el destino del navío.
+## 2. Los Protagonistas y su Evolución Emocional
+* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Protagonista de la catarsis familiar: rescata a su padre biológico humano, Keiden Ashton, enfrentando sus recuerdos de abandono y perdonándolo en un abrazo histórico.
+* **Kairos (en el cuerpo de Gerty):** Entidad Sintiente con Chasis de Dron Bípedo (Voz: Roberto). Estrena su nueva existencia física: con modales refinados, pausas reflexivas y sabiduría tahúr, aporta calma y estrategia superior al combate.
+* **Keiden Ashton:** Capitán Pirata Humano y padre de Triel. Carismático, envejecido por las corrientes temporales del Maelstrom, portador de reliquias de Besmara y devoto protector de su hija a la distancia.
+* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Asiste conmovido a la reunión de Triel y su padre, recordando la importancia de los lazos familiares.
+* **Zivok:** Operativo Enano (Jugador: Juan Pablo). Su temple militar es fundamental para mantener a raya a la tripulación espectral de Besmara.
+* **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Vela por la adaptación de Kairos a su nuevo chasis mientras asimila su propio destino divino.
 
 ---
 
-## 3. Sinopsis y Giros de Personaje Mandatorios
+## 3. Personajes Secundarios y Facciones
+* **La Tripulación Espectral de Besmara:** Corsarios no-muertos y sombras atrapadas en la nave que obedecen las leyes piratas de la Diosa de la Deriva.
+* **Panquecito:** Pequeña criatura/mascota rescatada en los pecios que acompaña al grupo.
 
-### 🌀 Intercambio de Cuerpos en el Maelstrom (Episodio 202):
-Al ingresar en el vórtice de la Deriva, las mareas temporales y caóticas provocan un desajuste cósmico: las almas de los protagonistas se intercambian de cuerpo durante el abordaje (*«Un ¿Viernes? de Locos»*), obligándolos a combatir en formas ajenas.
+---
 
-### 🎲 Kairos en el Chasis de Gerty (A lo largo de todo el volumen):
-La presencia de Kairos en el cuerpo del dron desconcierta y fascina a los Atómicos. Su comportamiento es el de un veterano apostador cósmico que analiza la batalla como una mano de póker.
+## 4. Giros Canónicos, Lazos Familiares y Vidas Personales Mandatorios
 
-### 💔 La Confesión a Keiden (Episodio 221):
-Tras el emotivo rescate de Keiden Ashton (*«El Corazón del Padre»*), Triel tiene una conversación íntima y conmovedora con su padre: le confiesa la dolorosa pérdida de Gerty original y cómo se vio obligada a sobrescribir su dron para salvar a Kairos.
+### ⚓ El Rescate y Reencuentro con Keiden Ashton (Episodios 220-221):
+Tras sortear las trampas del Maelstrom y abordar la nave insignia de Besmara, Triel encuentra con vida a su padre. Keiden confiesa que nunca la abandonó por egoísmo, sino para protegerla de la implacable persecución de la Casa Istrav de Apostae. Ambos se funden en un abrazo entre lágrimas.
+
+### 🎲 La Nueva Dinámica con Kairos en el Chasis de Gerty:
+El cambio de conciencia altera la dinámica del grupo: donde antes había sarcasmo y quejas mecánicas de Gerty, ahora resuenan las frases elegantes de tahúr de Kairos, quien cuida de Triel como un tutor leal y agradecido por haberle concedido un cuerpo físico y un alma salvada.

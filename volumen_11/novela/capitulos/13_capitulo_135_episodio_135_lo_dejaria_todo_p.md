@@ -1,18 +1,24 @@
-# Capítulo 13: Lo Dejaría Todo por que te Quedaras
+# Capítulo 13
 
-*Adaptado del Episodio 135: Episodio 135 - Lo Dejaría Todo por que te Quedaras*
+*Adaptado del Episodio 135 - Lo Dejaría Todo por que te Quedaras*
 
-> **Sinopsis Oficial:** Anita se escapa, y ahora en medio del estupor de Marloc y la confusión de su magia parece que sus atacantes se irán, para poder apuñalarlos una vez más cuando menos se lo esperen. A menos que se saquen un truco final.
+> **Sinopsis Oficial:** Anita se escapa, y ahora en medio del estupor de Marloc y la confusión de su magia parece que sus atacantes se irán, para poder apuñalarlos una vez más cuando menos se lo esperen. A menos que se saquen un truco final.          Se desean apoyarnos, ahora tenemos un Patreon:   patreon.com/LasersyDragonesPodcast   Discord:  https://discord.gg/V5NnHwbGBv
 
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Este capítulo representa el cierre del Volumen 11 y contiene uno de los momentos de interpretación y evolución de personaje más emotivos de la campaña (creación de Juan Pablo y la mesa):
-1. **La huida y el final del Rally:** Resolución del caos vehicular y el conflicto con Anita.
-2. **La confesión de Marloc:** Tras los horrores vividos en Eox y recibir una carta personal conmovedora, Marloc confiesa a Benrey, Triel y Axel que el miedo a morir sin sentido lo ha paralizado. Necesita entender por qué lucha.
-3. **El vínculo con Ángela:** Marloc decide quedarse en el asteroide-casino para proteger a Ángela (la mujer idéntica a su difunta esposa que conoció en Castrovel) y para investigar el misterio de la Piedra Corazón.
-4. **La llegada de Zivok:** Para no dejar desprotegida a la tripulación, Marloc presenta a **Zivok**, el veterano operativo enano (con su meca blindado), quien tomará la habitación y el puesto de Marloc en la *Estrella Errante*.
+¡HITO SUPREMO DE MARLOC! Marloc se queda de pie en el muelle junto a Ángela tomada de la mano. Con lágrimas en los ojos, agita la mano mientras el Hippocampus despega hacia lo desconocido. Cierre de su etapa en la tripulación.
 
 ---
 
-<!-- Escribir el texto novelado aquí siguiendo la transcripción limpia correspondiente -->
+### ESTRUCTURA DE ESCENAS SUGERIDA:
+#### I. El Abrazo Final al Pie de la Escala
+<!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
+
+#### II. Lo Dejaría Todo por Ti: La Elección del Amor
+<!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
+
+#### III. El Hippocampus se Aleja en el Vacío
+<!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
+
+<!-- Escribir el texto novelado completo aquí siguiendo la transcripción limpia correspondiente -->
