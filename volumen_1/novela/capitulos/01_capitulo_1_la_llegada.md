@@ -8,27 +8,15 @@ Triel Istrav apoyaba la frente contra el polímero templado de la ventanilla. Su
 
 A sus diecinueve años recién cumplidos, Triel llevaba en la mirada la fatiga acumulada de quien ha aprendido a esquivar preguntas sobre sus orígenes. Su figura curvilínea vestía un traje ceñido de segunda piel (*second skin*) y una chaqueta negra con forro interior luminiscente amarillo; en la espalda lucía, serigrafiado en gran formato, el vistoso diseño de los *Free Captains* —una máscara con forma de calavera y dos sables morados cruzados—, una prenda resistente adquirida en los mercadillos de segunda mano de la Diáspora que no reflejaba pertenencia alguna a la hermandad corsaria, sino el gusto estético y la actitud rebelde de una muchacha independiente. Su piel, de un tono grisáceo claro con un tenue matiz lila, y sus cabellos blancos como la escarcha delataban su herencia semi-drow; un mestizaje que en los Mundos del Pacto despertaba miradas de recelo inmediato. 
 
-A su espalda, resonó un zumbido hidráulico grave, seguido por el estruendo metálico de pisadas pesadas: *¡CLAC, CLAC, CLAC!* Guiado únicamente por el protocolo motor esclavo —la tosca rutina de bajo nivel programada para rastrear y seguir la baliza del comunicador de Triel en traslados de bodega—, un armazón de aleación de dos metros de altura, con placas de blindaje gris sin pintar y una cúpula superior de visualización a modo de cabeza, avanzó torpemente por las rejillas de acero.
+Desde el banco de trabajo contiguo, Sal —un joven técnico lashunta de piel verdosa y antenas sensoriales inquietas que vibraban sobre su frente— apagó la consola portátil con la que acababa de disputar una partida de carreras antigravitatorias con Triel. Llevaba el mono de trabajo manchado de grasa sintética y una llave inglesa colgando de la solapa.
 
-En la pantalla curva del domo, sin embargo, el núcleo cognitivo del autómata aún se debatía en un ciclo de arranque interminable. Su conciencia sintética no respondía: un icono circular giraba sin descanso junto a una barra de progreso que se llenaba, se vaciaba a trompicones y volvía a empezar, parpadeando con la exasperante lentitud de un sistema operativo arcaico.
+—Bueno, Triel —dijo Sal con una sonrisa amistosa, guardándose la consola en el bolsillo—. Supongo que aquí termina nuestro viaje. Se me ha hecho el doble de corto gracias a tus palizas en el simulador. Dime... ¿tienes dónde quedarte en la estación?
 
-Triel se volvió hacia el meca, cruzándose de brazos con una ceja arqueada y una media sonrisa burlona.
+Triel ladeó la cabeza, frotándose los nudillos tiznados.
 
-—Por los dioses del Vasto, Gerty... Este cacharro tuyo opera como si tuviera instalado Windows 95 —resopló la joven mecánica—. Las actualizaciones de firmware te van a matar un día de estos. ¿Todavía estás reiniciando el núcleo? No habías tardado tanto en la vida. ¿Cuánto más le falta a la secuencia de arranque?
+—No, la verdad es que no conozco a nadie en Absalón. Pero estaré bien. Tengo a Gerty para cubrirme las espaldas; su proceso de reinicio está casi listo... Aunque es una lástima que no vayas a poder verlo cuando despierte.
 
-Un pitido agudo resonó en los altavoces torácicos del meca. El círculo de carga colapsó en un destello azul eléctrico, dando paso a dos puntos ópticos luminosos que parpadearon con desgano en la cúpula. Los servos del cuello chisporrotearon levemente mientras la unidad calibraba sus giroscopios. En el pecho del autómata, pegada sobre el metal cepillado, destacaba una calcomanía holográfica infantil de una carita sonriente con un parche pirata en el ojo.
-
-—*Secuencia de inicio completada. Firmware versión 4.2 restaurado sin optimismo biológico* —anunció el meca con una voz sintetizada, plana y carente de toda cortesía—. *Temperatura exterior: tres Kelvin. Tráfico orbital: disparatado. Probabilidad de colisión con escombros por negligencia de los pilotos orgánicos: sesenta y dos por ciento.*
-
-Triel no pudo contener una sonrisa.
-
-—Cállate, Gerty. Es la primera vez que veo la estación con mis propios ojos. Déjame fingir que tiene algo de majestuoso antes de que los burócratas del puerto nos cobren hasta por respirar su oxígeno reciclado.
-
-—*«Majestuoso» es una etiqueta defectuosa inventada por especies de carbono para maquillar la acumulación ineficiente de chatarra, jefa.*
-
-Una risa cantarina interrumpió el intercambio. Desde el banco de trabajo contiguo, Sal —un joven técnico lashunta de piel verdosa y antenas sensoriales inquietas que vibraban sobre su frente— apagó la consola portátil con la que acababa de disputar una partida de carreras antigravitatorias con Triel. Llevaba el mono de trabajo manchado de grasa sintética y una llave inglesa colgando de la solapa.
-
-—No le hagas caso a la lata, Triel —dijo Sal con una sonrisa amistosa, guardándose la consola en el bolsillo—. El viaje desde la Diáspora se me ha hecho el doble de corto gracias a tus palizas en el simulador. Oye, si de verdad buscas dónde encajar en ese monstruo de metal sin que los burócratas te miren mal por tu piel ceniza o tus orejas, hazme caso: vete al *Club 13*, en la Espiga. Aquello es el paraíso de los mecánicos independientes y los androides; nadie pregunta de dónde vienes. Y respecto a esas dudas raras que me contabas sobre tus chispas de magia y los circuitos... si alguien tiene respuestas para eso, son los eruditos del Arcanamirium.
+—Una pena perdernos sus quejas —sonrió el lashunta—. Pero hazme caso: si de verdad buscas dónde encajar en ese monstruo de metal sin que los burócratas te miren mal por tu piel ceniza o tus orejas, vete directo al *Club 13*, en la Espiga. Aquello es el paraíso de los mecánicos independientes y los androides; nadie pregunta de dónde vienes. Y respecto a esas dudas raras que me contabas sobre tus chispas de magia y los circuitos... si alguien tiene respuestas para eso, son los eruditos del Arcanamirium.
 
 Triel asintió con gratitud, tocándose de forma inconsciente las yemas de los dedos, donde a menudo sentía un hormigueo eléctrico inexplicable.
 
@@ -44,24 +32,40 @@ Triel apartó la mirada de la ventana y lo miró con timidez, frotándose el bra
 
 —Improvisar con éxito a cuatro años luz de cualquier estación de servicio es la única credencial que vale algo en el Vasto —repuso el capitán, bebiendo un sorbo largo—. Ven al puente. Tendrás una vista mejor antes del descenso.
 
-En el puente de mando, rodeado de consolas secundarias que parpadeaban en verde y ámbar, el piloto de la nave —un humano joven cuyo cuello y brazos estaban cubiertos de intrincados tatuajes tribales y diagramas estelares— maniobraba con suavidad. Al notar que Triel entraba seguida por los pasos metálicos de Gerty, giró la cabeza hacia ella.
+En el puente de mando, rodeado de consolas secundarias que parpadeaban en verde y ámbar, el piloto de la nave —un humano joven cuyo cuello y brazos estaban cubiertos de intrincados tatuajes tribales y diagramas estelares— maniobraba con suavidad. Al notar que Triel entraba en la cabina, giró la cabeza hacia ella.
 
 —Mira a estribor, Triel. Te presento la bienvenida oficial de la gente libre: la Armada.
 
 Triel contuvo el aliento. Frente al morro del carguero, dispersas en una órbita baja caótica, flotaban miles de naves. Era un enjambre monumental de fragatas desarmadas, barcazas de combustible goteantes, pontones habitacionales oxidados y cargueros civiles amarrados entre sí con cables magnéticos. Parecía una ciudad flotante construida con los despojos de una docena de guerras olvidadas.
 
-—Son todos aquellos para quienes las leyes del Consejo de Síndicos son demasiado caras o demasiado estrictas —explicó el piloto tatuado con una mezcla de orgullo y tristeza—. Nómadas, piratas retirados, familias enteras de mineros que no pueden pagar la tarifa de amarre del Anillo. Cuando deje este viejo cacharro, tal vez me instale allí. Voy a buscar a mi hermana; escuché que consiguió trabajo en una flotilla de reciclaje. ¿Crees que me recuerde después de tantos años?
+—Son todos aquellos para quienes las leyes del Consejo de Síndicos son demasiado caras o demasiado estrictas —explicó el piloto tatuado con una mezcla de orgullo y tristeza—. Nómadas, piratas retirados, familias enteras de mineros que no pueden pagar la tarifa de amarre del Anillo. Cuando deje este viejo cacharro, tal vez me instale allí. Voy a buscar a mi familia; tal vez tenga otra oportunidad con ellos. ¿Crees que me recuerden después de tantos años?
 
 —Las familias siempre recuerdan —dijo Triel en voz muy baja, bajando los párpados carmesíes—. O al menos eso quiero creer. Todo el mundo merece una segunda oportunidad para empezar de cero.
 
 —Ojalá Absalón te dé la tuya, muchacha —suspiró Frederick, dándole una palmada paternal en el hombro—. Y hazle caso a Sal: mantén la cabeza baja y busca a gente de fiar en ese Club 13.
 
-En ese instante, el sol lejana bañó el sector, y la verdadera mole de la Estación Absalón emergió tras el enjambre de la Armada. 
-
-Era un espectáculo sobrecogedor y aterrador a partes iguales: una aguja descomunal de aleaciones desconocidas, coronada por la inmensa cúpula dorada del Ojo central, rodeada por el disco concéntrico del Anillo con sus cientos de dársenas de atraque iluminadas como un árbol navideño galáctico, y rematada en su base por la tenebrosa Espiga inferior, perdiéndose en sombras industriales.
+En ese instante, la verdadera mole de la Estación Absalón emergió tras el enjambre de la Armada: una aguja descomunal de aleaciones desconocidas, coronada por la inmensa cúpula dorada del Ojo central, rodeada por el disco concéntrico del Anillo con sus cientos de dársenas de atraque iluminadas y rematada en su base por la tenebrosa Espiga inferior, perdiéndose en sombras industriales.
 
 Los altavoces del puente emitieron un crujido estático antes de dar paso a una locución pregrabada:  
 *«Atención, nave no identificada. Ha entrado en la zona de aproximación automática del sector Anillo 9. Transfieran el control de navegación a los servidores de la estación. Por favor, reporten armamento de grado militar, especímenes biológicos clase tres, alcohol y tabaco no regulados. El Consejo de Síndicos les desea una productiva estancia en Absalón.»*
+
+El *Halcón de Hierro* se estremeció con una leve sacudida hidráulica al encajar en la gravedad artificial de la dársena de amarre. El capitán Frederick apuró su café y se volvió hacia ella con una sonrisa franca:
+
+—Bueno, linda, es el momento. Vaya por ese robot suyo, agarre su petate y bienvenida a la Estación Absalón. Detesto que se vaya, pero me alegra verla volar libre.
+
+—Gracias, capitán. Por todo. Sin ustedes jamás habría salido de la Diáspora.
+
+Triel se puso de puntillas para abrazar al corpulento marino y le plantó un beso cariñoso en la mejilla antes de bajar apresuradamente hacia la bodega de carga.
+
+Allí, junto al banco de herramientas, se escuchó un sordo quejido neumático seguido de pisadas metálicas: *¡CLAC, CLAC, CLAC!* Un armazón bipedal de dos metros de altura, con placas de blindaje gris cepillado y una cúpula de visualización a modo de cabeza, avanzó torpemente hacia ella. Respondía únicamente a la rutina motora esclava de bajo nivel, siguiendo mecánicamente la señal del comunicador de Triel. En el domo frontal, su núcleo cognitivo aún no despertaba: un icono circular giraba sin descanso junto a una barra de progreso que se llenaba, se vaciaba a trompicones y volvía a empezar.
+
+Triel se cruzó de brazos, contemplando la pantalla con una mezcla de ternura y exasperación.
+
+—Por los dioses del Vasto, Gerty... este cacharro tuyo opera como si tuviera instalado Windows 95. Las actualizaciones te van a matar un día de estos. ¿Todavía estás cargando? No habías tardado tanto en la vida. ¿Cuánto más le falta a esa secuencia de arranque? En fin... en marcha, muchacho.
+
+Ajustándose la mochila al hombro, Triel guio a la pesada mole de metal por la rampa de desembarco del *Halcón de Hierro*. El capitán Frederick, apoyado en la barandilla de la plataforma, le dedicó un último saludo con la mano mientras la joven mecánica pisaba por primera vez el suelo enrejado del puerto civil de Absalón. A su lado, Gerty marchaba con pasos pesados y rítmicos, con el circulito de carga aún dando vueltas en su rostro de cristal.
+
+Sobre sus cabezas, una gigantesca pantalla holográfica dominaba el bullicio de los muelles, proyectando la faz desgarrada de **Syd Velch** y anunciando con llamaradas de neón su concierto *Evento Horizonte*. Triel alzó la vista un instante hacia el holograma antes de ajustar el cuello de su chaqueta con el emblema corsario y perderse entre la multitud en dirección a las sombras de la Espiga.
 
 ***
 

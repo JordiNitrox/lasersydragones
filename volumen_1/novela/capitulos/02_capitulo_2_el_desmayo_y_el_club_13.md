@@ -86,9 +86,9 @@ En la intersección del Bulevar de los Mecánicos, el rótulo del *Club 13* era 
 
 No estaba hecho de tubos de neón estándar, sino soldado a mano con desechos de naves espaciales: una biela de motor formaba la barra de la «L», dos resortes gigantes componían la «B» y un engranaje de dientes rotos giraba lentamente iluminado por filamentos incandescentes de color ámbar y púrpura. El local tenía la reputación de ser un punto neutral entre los bajos fondos y el gremio de ingenieros de la estación.
 
-Triel Istrav se detuvo ante la entrada protegida por una cortina de cuentas de plástico pesado. Tras ella, la silueta colosal de Gerty proyectaba una sombra de dos metros que obligaba a los transeúntes a apartarse con miradas de alarma.
+Triel Istrav se detuvo ante la entrada protegida por una cortina de cuentas de plástico pesado. Tras ella, la silueta colosal de Gerty proyectaba una sombra de dos metros que obligaba a los transeúntes a apartarse con miradas de alarma. En su cúpula frontal, el interminable círculo de carga colapsó por fin en un destello azul eléctrico, dando paso a dos puntos ópticos que parpadearon con desgano mientras los servos de su cuello calibraban los giroscopios.
 
-—*Sensores de audio detectan música estridente de frecuencia desagradable en el interior* —reportó el meca con su habitual tono impertinente—. *Adicionalmente, registro olores a alcohol destilado de baja graduación y fluidos corporales fermentados. Sugiero abrir fuego preventivo contra el establecimiento.*
+—*Secuencia de inicio completada. Firmware versión 4.2 restaurado sin optimismo biológico* —anunció el meca con una voz sintetizada, plana y carente de toda cortesía—. *Sensores de audio detectan música estridente de frecuencia desagradable en el interior. Adicionalmente, registro olores a alcohol destilado de baja graduación y fluidos corporales fermentados. Sugiero abrir fuego preventivo contra el establecimiento.*
 
 —Gerty, compórtate —ordenó Triel en un susurro cortante—. Vamos a entrar, buscar a nuestro contacto, tomarnos algo decente y conseguir una habitación. No busques pelea.
 
