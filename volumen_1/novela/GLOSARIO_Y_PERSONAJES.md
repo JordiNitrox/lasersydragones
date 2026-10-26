@@ -125,6 +125,10 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 ### Silo y Luigi
 - Habituales de las mesas clandestinas del Club 13. Silo es una ruda contrabandista humana de trenzas fucsia fosforescentes; Luigi es un viejo minero ysoki desdentado y experto en dados de plasma.
 
+### Syd Velch
+- **Rol:** Estrella del pop-metal y rock galáctico de los Mundos del Pacto (figura recurrente de la saga).
+- **Aparición en este volumen:** Su rostro desgarrado y el anuncio de su gira *Evento Horizonte* dominan las pantallas holográficas de los muelles de Absalón a la llegada de Triel y A.Xel 42 tras el sonado incidente de Hirigala. Su figura y sus letras cobrarán una profunda trascendencia cósmica en volúmenes posteriores.
+
 ---
 
 ## 4. Corporaciones y Facciones

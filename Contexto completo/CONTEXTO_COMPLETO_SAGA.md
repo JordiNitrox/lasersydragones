@@ -437,6 +437,12 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 * **Aparición en volúmenes:** **Volumen 4**  
 * **Descripción:** Piratas refugiados en un almacén portuario de Qabarat que suministran credenciales falsas al equipo y reconocen la leyenda de Keiden Ashton.
 
+#### Syd Velch
+* **Especie:** Humana  
+* **Rol:** Estrella del pop-metal y rock galáctico / Figura profética recurrente  
+* **Aparición en volúmenes:** **Volumen 1 (pantallas de atraque), Volumen 2 (colapso público), Volumen 4 (concierto del Domo Horizonte), Volumen 7, Volumen 14**  
+* **Descripción:** Legendario y carismático vocalista de los Mundos del Pacto. Anunciado con llamaradas holográficas en los muelles de Absalón en el Volumen 1 (*Evento Horizonte*), su figura atormentada y sus letras poéticas ocultan un trasfondo de resonancia cósmica. Su multitudinario concierto en el Domo Horizonte (Volumen 4) desata un motín psíquico de masas, y su vínculo con Null-9 y la resistencia androide lo proyecta como un personaje recurrente clave en arcos avanzados de la saga.
+
 ---
 
 ### Antagonistas y Rivales
