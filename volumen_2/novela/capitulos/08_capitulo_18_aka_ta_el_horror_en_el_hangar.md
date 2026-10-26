@@ -4,9 +4,7 @@
 
 En el vacío absoluto, el sonido no existe.
 
-Cuando las botas magnéticas de Axel 42 hicieron contacto con la rejilla metálica del hangar de estribor del *Acreon*, el impacto no produjo ningún estruendo aéreo, sino una vibración sorda que ascendió a través de las suelas de su armadura hasta el receptor de audio de su casco.
-
-El interior del carguero minero estaba completamente a oscuras, iluminado únicamente por los potentes haces de las linternas tácticas montadas sobre los hombros de Gerty y los fusiles de la tripulación. El frío del espacio profundo impregnaba cada centímetro de metal: finas capas de escarcha blanca cubrían los mamparos y en el aire enrarecido flotaban pequeñas esferas de refrigerante congelado y virutas de metal que bailaban como motas de polvo estelar al paso de los exploradores.
+Cuando las botas magnéticas de Axel 42 hicieron contacto con la rejilla metálica del hangar de estribor del *Acreon*, el impacto no produjo ningún estruendo aéreo, sino una vibración sorda que ascendió a través de las suelas de su armadura hasta el receptor de audio de su En el interior del carguero minero estaba completamente a oscuras, iluminado únicamente por los potentes haces de las linternas tácticas montadas sobre los hombros de Gerty y los fusiles de la tripulación. Detrás de ellos, dos pequeños artefactos sobrevolaban la escena en silencio: el dron diplomático de Eox, cuyo ojo verde grababa con fría perseverancia, y la microcámara deportiva de Marcellus que Benray llevaba orientada hacia el pasillo. El frío del espacio profundo impregnaba cada centímetro de metal: finas capas de escarcha blanca cubrían los mamparos y en el aire enrarecido flotaban pequeñas esferas de refrigerante congelado y virutas de metal que bailaban como motas de polvo estelar al paso de los exploradores.
 
 Triel avanzó con el rifle en guardia, sintiendo la extraña ligereza de sus diecinueve años amortiguada por el lastre de los generadores magnéticos de sus botas:
 
@@ -60,12 +58,44 @@ A pocos metros, el segundo depredador, herido de muerte por los misiles mágicos
 
 El silencio volvió a adueñarse del hangar. Cuatro respiraciones agitadas resonaron al unísono por los canales de los intercomunicadores.
 
-Triel bajó su arma con las manos temblorosas, acercándose con cautela al cadáver de la bestia:
+***
 
-—Por todos los dioses... Esa cosa no tiene órganos respiratorios. Es una máquina perfecta de matar en el espacio.
+### III. El tesoro de Noqual y la salmuera
 
-—Y no están solos —advirtió Axel, señalando con el haz de su linterna hacia el fondo del pasillo que conducía a las cubiertas habitables del carguero—. Allá arriba hay más capullos rotos. Si la tripulación del *Acreon* se enfrentó a una colonia entera de estas criaturas sin armas pesadas... dudo mucho que alguno de ellos haya sobrevivido.
+Triel bajó su arma con las manos visiblemente temblorosas, retrocediendo dos pasos con la respiración entrecortada:
 
-Benray recargó su fusil con un chasquido seco y miró hacia la puerta de acceso interior que parpadeaba con una débil luz de emergencia:
+—Por todos los dioses... —jadeó la muchacha por la radio, apoyándose en el hombro metálico de Gerty—. He peleado con matones de pandilla y con corsarios en la Diáspora, pero jamás... jamás en mi vida había visto un monstruo así. Esas cosas son horrores del vacío. Si una de esas fauces me atrapa la escafandra...
+
+Axel colocó una mano enguantada sobre el brazo de Triel:
+
+—Tus signos vitales indican taquicardia por choque traumático, Triel. La amenaza inmediata ha sido neutralizada. Respira hondo.
+
+Mientras Axel asistía a la joven, Marloc se arrodilló junto a los restos de las dos crisálidas esféricas adheridas a la viga superior. El tecnomante raspó la superficie calcificada con su bisturí de análisis y observó las lecturas espectrométricas con asombro creciente:
+
+—Increíble... Miren la composición molecular de estos capullos. No es roca silícea ordinaria. Es **Noqual puro**. El *metal de las estrellas*.
+
+Benray dio un salto en gravedad cero, sujetándose a una barandilla con los ojos muy abiertos:
+
+—¿Noqual? ¿El mineral metamágico que absorbe la radiación y potencia los blindajes pesados? ¿Cuánto vale eso, profesor?
+
+—En el mercado de Absalón, cada uno de estos cascarones equivale fácilmente a **quinientos créditos** en mineral bruto —respondió Marloc, sopesando un fragmento translúcido—. Mil créditos flotando en el techo.
+
+—Ni de broma dejamos mil créditos aquí tirados para que se los quede Extracciones Estelares —sentenció el ysoki con una sonrisa pícara—. Gerty, amigo de acero, haz tu magia.
+
+Aprovechando la cercanía de la esclusa, Gerty desprendió con sus brazos de combate los dos pesados capullos de Noqual y saltó a través del abismo de tres metros, depositándolos a buen recaudo en la bodega del *Hippocampus* antes de regresar al hangar.
+
+Triel, recuperando la compostura profesional de ingeniera, miró hacia el pasillo interior:
+
+—Profesor... si el agua salada les provoca un colapso osmótico tan devastador, tenemos una ventaja. El *Acreon* es un carguero minero de largo recorrido; obligatoriamente tiene cocinas y almacenes de víveres con agua corriente y sal común para las raciones. Si llegamos a la cocina, puedo fabricar rociadores presurizados o granadas improvisadas de salmuera.
+
+—Una idea brillante —aprobó Marloc—. Busquemos los almacenes de víveres.
+
+En ese instante, una serie de vibraciones rítmicas resonó a través de las suelas magnéticas de sus botas: *clac, clac, clac... rrrras*.
+
+Un chirrido espeluznante de garras afiladas raspando el interior de los conductos de ventilación recorrió los mamparos superiores. En la oscuridad del pecio, algo grande y hambriento los estaba escuchando.
+
+Benray amartilló su fusil con decisión:
+
+—Bueno, muchachos... El hangar está asegurado. Ahora entramos hasta la cocina.hasquido seco y miró hacia la puerta de acceso interior que parpadeaba con una débil luz de emergencia:
 
 —Bueno, muchachos... El hangar está asegurado. Ahora entramos hasta la cocina.

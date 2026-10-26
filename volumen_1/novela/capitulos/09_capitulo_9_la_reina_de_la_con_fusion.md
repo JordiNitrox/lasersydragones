@@ -4,108 +4,120 @@ El *Club Con-Fusión* no intentaba ocultar su naturaleza de fortaleza clandestin
 
 Ocupaba un gigantesco hangar de manufactura en desuso, en el corazón del Sector Spire-Cero. A través de la fachada de chapa ondulada, carteles de neón parpadeaban en tonos cian y magenta violento, proyectando sombras temblorosas sobre la fila de clientes marginales que aguardaban para entrar. El suelo vibraba con el retumbar de unos bajos sintéticos tan potentes que hacían sonar las herramientas sueltas en el cinturón de Triel.
 
-En el acceso principal, flanqueando una puerta acorazada de doble batiente, dos matones de los *Reyes del Nivel 21* —vestidos con cazadoras de cuero erizadas de remaches afilados y visores ópticos de LED rojo— montaban guardia con rifles de pulsos apoyados en el pecho.
+En el acceso principal, dos fornidos matones de los *Reyes del Nivel 21* custodiaban la entrada. Pero antes de que pudieran alzar sus armas, la comitiva del farol se abrió paso con una arrogancia calculada.
 
-Al divisar a los cuatro forasteros emergiendo de las sombras del túnel —en particular a la descomunal mole de dos metros de Gerty, cuya cúpula metálica apenas libraba las vigas del techo—, los guardias reaccionaron con la agresividad paranoica de quien vive en estado de sitio constante.
+Triel avanzó con la cabeza erguida, la mirada gélida y el paso altivo propio de la nobleza matriarcal de Apostae. A su lado, Benray Galway marchaba con las solapas de la gabardina estiradas, hinchando el pecho como un diplomático de carrera, mientras Marloc y A.Xel, provistos de gafas oscuras y trajes cerrados, flanqueaban a la semi-drow con las manos cruzadas rígidamente a la espalda. Tras ellos, Gerty cerraba la formación con sus dos metros de aleación pesada.
 
-—¡Alto ahí! —bramó el primer matón, alzando el arma con el seguro quitado—. ¡Nadie pasa sin autorización de la jefa! Y menos una drow con una lata gigante y una rata con gabardina. ¡Están con la banda de Downing Street! ¡Abran fuego!
+Los guardias de la puerta titubearon, desconcertados ante semejante estampa aristocrática en mitad de los suburbios, y se apartaron sin atreverse a exigir credenciales.
 
-No hubo tiempo para la diplomacia.
+Cruzaron la pista de baile entre una marea de cuerpos sudorosos que se agitaban bajo lásers de colores disonantes. Al fondo, tras una cortina de lona industrial, Triel empujó una puerta de doble batiente que daba a la trastienda privada del local.
 
-A.Xel 42 se movió con la rapidez de una chispa en un circuito cerrado. Antes de que el cañón del pandillero terminara de encararla, la androide dio un paso lateral en ángulo perfecto, desenfundó su pistola de proyectiles electrificados y disparó a quemarropa. Un dardo de descarga tesla impactó en el plexo solar del atacante; una red de relámpagos azulados envolvió su cuerpo, agarrotando sus músculos al instante y haciéndolo desplomarse contra el suelo de ferrocreta entre convulsiones involuntarias.
+En la antesala, sentados sobre cajones de cerveza sintética alrededor de una mesa improvisada, tres pandilleros —dos humanos rapados y un corpulento androide de combate— se disputaban un montón de fichas de crédito tirando dados. Al ver irrumpir a los recién llegados, los tres se pusieron en pie de un salto, echando mano a las pistolas enfundadas en sus cinturones:
 
-El segundo guardia intentó retroceder hacia el interfono de alarma, pero Benray ya estaba en acción. El ysoki se deslizó por el suelo aceitoso, se colocó tras la cobertura de las piernas blindadas de Gerty y metió la pata delantera en una de sus mejillas elásticas.
+—¡Alto ahí! ¿Quién diablos los dejó pasar?
 
-—¡Toma una muestra de cortesía roedora, descerebrado! —gritó Benray, extrayendo de su cavidad bucal una microgranada de destello aturdidor y arrojándola en una parábola perfecta hacia la puerta.
+Benray dio un paso al frente con una solemnidad teatral impecable, señalando a Triel con un gesto majestuoso:
 
-El artefacto detonó con un chasquido blanco y ensordecedor que cegó al segundo guardia, arrojándolo de espaldas con las manos en los ojos. 
+—¡Atención, escoria de los muelles! —bramó el ysoki con voz engolada—. Ha llegado la honorable Señorita Istrav, representante plenipotenciaria de la Casa Istrav de Apostae. Ha venido en persona a resolver cuentas pendientes con Ferani Nadaz. Y mantengan esas zarpas lejos del armamento si no quieren que sus nombres figuren en el registro de decesos corporativos antes del amanecer.
 
-Triel avanzó corriendo con su rifle en posición de guardia, mientras Gerty embestía la puerta entornada con el hombro hidráulico. La chapa de doscientos kilos cedió con un estruendo brutal que se perdió bajo el estrépito de la música electrónica del interior.
+Triel clavó sus ojos carmesíes en los matones, dibujando en su rostro la expresión de asco y desprecio más pura y aristocrática que jamás había ensayado en su vida. A sus espaldas, A.Xel permaneció inmóvil como una estatua de mármol negro tras sus gafas oscuras.
 
-***
+Los tres pandilleros se miraron entre sí, completamente intimidados por la presencia de una dama drow y la mole de Gerty que asomaba tras el marco. El humano más joven tragó saliva, bajó el arma y retrocedió hacia la puerta del fondo:
 
-El club era un torbellino de niebla aromática, láseres danzantes y cuerpos sudorosos apiñados en una pista de baile hundida. Nadie en la multitud pareció prestar atención al tiroteo del acceso; en los Bajos de Absalón, una ráfaga de disparos a la entrada era considerada poco más que una molestia acústica habitual.
+—D-deme un momento... voy a anunciarlos a la jefa.
 
-Mientras se abrían paso discretamente entre el gentío, Triel se detuvo en seco, tirando del brazo de Benray para parapetarse de inmediato tras una gruesa columna de ventilación. Sus ojos carmesíes se clavaron con frialdad en dos figuras que salían en ese instante del área reservada de la planta superior.
+El matón abrió la puerta del fondo y gritó con voz temblorosa:
 
-El primero era un elfo oscuro de porte aristocrático e imponente, vestido con un elegante traje de paño negro y púrpura con solapas bordadas en hilo oscuro. Caminaba con la altivez gélida de la nobleza drow de Apostae. A su lado marchaba un joven elfo de no más de dieciocho años que registraba datos apresuradamente en una tablilla digital mientras escoltaba a su superior hacia una salida privada.
+—¡Señora Ferani! ¡Ha venido la Señorita Istrav con su escolta!
 
-—¿Qué ocurre, mecánica? ¿Viste un fantasma? —susurró Benray, agachando las orejas y tanteando su pistola.
+Una voz ronca y cortante resonó desde el interior:
 
-—Alguien de mi pasado... —respondió Triel en un susurro cargado de amargura, bajándose el cuello de su chaqueta negra para ocultar sus facciones—. Es un pariente lejano de Apostae, un primo tercero asociado a los consorcios corporativos que maneja mi hermana mayor. Jamás me he llevado bien con ella; si averiguan que estoy en la estación, el asunto familiar se volverá letal. Pero que emisarios drow de alto nivel salgan de las oficinas de los Reyes del Nivel 21 solo significa una cosa: Ferani Nadaz no es una simple cabecilla callejera; está negociando alianzas con corporaciones de los mundos exteriores.
-
-—Pues subamos a cortarle los tratos antes de que se le ocurra llamar a más parientes tuyos —masculló el ysoki.
-
-Siguiendo el rastro de los cables de alta seguridad que corrían por el techo, el grupo subió por una pasarela metálica que conducía a la zona VIP: una estructura suspendida sobre la pista, protegida por ventanales de cristal blindado unidireccional.
-
-Al final del corredor elevado, custodiando la entrada del despacho principal, una silueta colosal aguardaba de pie.
-
-Era un guerrero formidable de la especie **vesk**: un reptiliano de dos metros y medio de altura, con escamas de color verde musgo curtidas por docenas de cicatrices de combate. Vestía una armadura pesada de aleación mate y empuñaba un mazo de guerra de dos manos con cabezal electrificado que chisporroteaba con una furia contenida. En los bajos fondos todos lo conocían como **Brock Hilario, el Rompeportones**; un apodo que se había ganado a pulso tras arrancar de cuajo una compuerta de seguridad blindada con sus propias manos y estamparla contra el suelo.
-
-—De aquí no pasa nadie vivo —rugió el lagarto con un siseo gutural, dando un paso al frente que hizo crujir las placas de la pasarela.
-
-Marloc Boosmar no aminoró el paso. 
-
-La frialdad que se había apoderado del tecnomante desde la muerte de Marlene congeló cualquier atisbo de duda en su pecho. Los filamentos de cobre de su brazo izquierdo ardieron con un resplandor cobalto tan brillante que iluminó las paredes del pasaje. Levantó la mano cibernética hacia el gigante.
-
-—Muévete de mi camino —dijo Marloc con voz serena y letal.
-
-El vesk alzó su mazo para golpear, pero Marloc fue más rápido. Un torrente de proyectiles de energía arcana —cinco dardos de fuerza concentrada— brotaron de sus nudillos mecánicos con el silbido ensordecedor de un arco voltaico. Impactaron de lleno contra el peto blindado del guerrero, astillando las placas cerámicas y empujando sus trescientos kilos hacia atrás en una explosión de chispas y calor sofocante.
-
-Antes de que el reptil pudiera recuperar el equilibrio, A.Xel apareció a su flanco, propinándole un impacto balístico preciso en la articulación de la rodilla, mientras Gerty avanzaba a zancadas pesadas y estampaba su brazo manipulador de aleación contra el pecho del guerrero, inmovilizándolo contra la pared con un crujido de hierro.
-
-—*Resistencia biológica reducida al tres por ciento* —dictaminó Gerty con desdén—. *Sugiero que el espécimen reptil permanezca en silencio si desea conservar el uso de sus extremidades.*
-
-Marloc pateó la puerta del despacho privado. La cerradura electrónica reventó y el grupo irrumpió en la sala.
+—¡Que pasen!
 
 ***
 
-El despacho era un santuario de decadencia criminal.
+### II. Nieve verde y fuego cruzado
 
-Alfombras de piel sintética cubrían el suelo, y las paredes estaban tapizadas con pantallas holográficas que monitorizaban los muelles de carga y los callejones del Sector Cero. Tras un amplio escritorio de caoba espacial repleto de botellas de licor caro y montoncitos de polvo estimulante blanco que brillaba como purpurina bajo los focos, estaba sentada una mujer humana de unos cuarenta años.
+El despacho de la líder era un santuario de decadencia y paranoia.
 
-Llevaba el pelo teñido de un verde esmeralda eléctrico, cortado en una cresta asimétrica, y vestía una cazadora de oficial naval reconvertida con hombreras de metal pulido. En su mano derecha sostenía una pistola de plasma con el cañón humeante, pero al ver a su guardaespaldas derrotado y al meca apuntándole directamente a la cara, la mujer no disparó.
+En una pared lateral, una docena de monitores de seguridad transmitían tomas en directo de la pista de baile, los callejones y las compuertas de ventilación. Y tras un amplio escritorio de caoba espacial cubierto de botellas de licor de importación y montoncitos de polvo estimulante que brillaba como purpurina verde esmeralda bajo los focos, estaba de pie **Ferani Nadaz**, la *Reina de la Con-Fusión*. Lucía una cresta verde teñida sobre el cráneo rapado, cazadora naval con hombreras cromadas y tatuajes cibernéticos que serpenteaban por sus brazos desnudos.
 
-Se reclinó con lentitud en su sillón de cuero, esbozando una sonrisa torcida y peligrosa.
+A su derecha, con la pesadez de una montaña de escamas y cicatrices, montaba guardia **Brock Hilario, el Rompeportones**: un colosal vesk de dos metros y medio de altura que sostenía un mazo de guerra electrificado y un rifle de asalto pesado.
 
-Era **Ferani Nadaz**, conocida en los bajos fondos como la *Reina de la Con-Fusión*.
+Ferani entrecerró los ojos verdes al ver entrar a Triel y a su grupo, apoyando las manos sobre el escritorio con evidente irritación:
 
-—Vaya, vaya... —dijo Ferani con voz ronca por el humo—. Los cinco fantasmas del Muelle 94 en persona. Debo admitir que tienen agallas para venir a mi casa después de matar a la mitad de mi cuadrilla matutina.
+—¿Qué demonios es esto? Ya me reuní hace cuatro días con el emisario de Apostae y el trato de armas quedó cerrado. ¿Qué más quieren?
 
-—Tus hombres dispararon primero —repuso Triel, avanzando con el cañón de su rifle encañonando el pecho de la mujer—. Y mataron a una científica desarmada que no les había hecho ningún daño.
+Benray carraspeó, intentando mantener la farsa:
 
-Ferani soltó una carcajada seca, dejando la pistola sobre la madera del escritorio con calculada parsimonia.
+—La Señorita Istrav no responde ante los acuerdos de otros intermediarios; viene a verificar sus propios intereses de forma...
 
-—¿Desarmada? Esa mujer del Arcanamirium llevaba consigo información capaz de provocar una guerra corporativa en todo el sistema. Pero no se equivoquen, amigos míos: los Reyes del Nivel 21 no teníamos nada personal contra la profesora Boosmar. Para nosotros era solo un encargo. Un contrato de eliminación limpia.
+—¡Mentira podrida! —bramó Ferani, reconociendo de pronto las descripciones del noticiero—. ¡No son de la Casa Istrav! ¡Son los bastardos del tiroteo del Muelle 94!
 
-Marloc dio un paso adelante. Sus ojos oscuros centelleaban con una intensidad volcánica; apoyó su brazo metálico sobre el escritorio con tanta fuerza que la madera crujió bajo sus dedos cromados.
+Sin dar tiempo a réplica, Ferani descargó una patada furiosa contra el borde de su escritorio. La pesada madera voló hacia adelante, y los montículos de cocaína cósmica se esparcieron por toda la sala, levantando una nube densa y brillante de polvo verde fosforescente que saturó el aire de chispas luminosas.
 
-—¿Quién pagó el golpe, Ferani? —preguntó Marloc en un susurro gélido que hizo que la mujer borrara su sonrisa por primera vez—. Y piénsalo muy bien antes de responder. Mi autómata tiene el gatillo muy flojo y mi paciencia se agotó esta mañana en el muelle.
+—¡Mátenlos, Brock! —rugió la mujer, desenfundando una pistola láser.
 
-Ferani tragó saliva, mirando de reojo a A.Xel, que cubría el ángulo de tiro con frialdad matemática. La jefa criminal suspiró, encogiéndose de hombros con resignación fingida.
+El colosal vesk reaccionó al instante. Arrancó una granada de choque eléctrico de su arnés y la arrojó al centro del grupo con fuerza demoledora. El artefacto detonó con un chasquido atronador; una red de arcos voltaicos azules envolvió a los cuatro aventureros, haciendo crujir los blindajes y sacudiéndolos con un latigazo de energía que les heló los músculos.
 
-—Si hablo, los Protectores me van a colgar de una espiga... Pero si no hablo, ustedes me van a vaporizar aquí mismo. Negociemos: me entregan a la policía para un juicio con abogado del sindicato, y les diré quién puso los créditos sobre la mesa.
+—*¡Null-Vector!* —rugió Marloc, sobreponiéndose al dolor. Los filamentos de su brazo mecánico ardieron en azul zafiro y tres proyectiles de fuerza mágica impactaron de lleno en el pecho acorazado de Brock Hilario, quebrando sus placas cerámicas.
 
-—Trato hecho —dijo Benray desde el flanco, cruzándose de brazos—. Habla rápido antes de que el profesor de la corbata decida convertir tu oficina en un cráter humeante.
+Triel alzó su rifle y abrió fuego con una puntería quirúrgica. El rayo escarlata impactó en el hombro del reptil en un destello cegador que incendió los circuitos de su armadura pesada.
 
-Ferani apoyó los codos en la mesa y bajó la voz.
+A.Xel ejecutó una finta lateral perfecta a través de la nube de polvo verde. Desenfundó su pistola rápida y descerrajó dos tiros balísticos certeros a la rodilla de Brock, haciendo que el gigante de trescientos kilos se desplomara contra una silla y cayera noqueado sobre el suelo entre estertores agónicos.
 
-—El intermediario fue un emisario de la raza drow. Un mercenario de alto nivel que opera como enlace encubierto en la estación. Pero el dinero... el dinero no venía de los bajos fondos. Venía directamente de las cuentas opacas de **Extracciones Estelares**.
+Ferani trepó sobre el escritorio derribado con una pirueta acrobática y abrió fuego contra Benray, rozándole la oreja izquierda con un haz de plasma. Pero antes de que pudiera amartillar de nuevo, Axel se deslizó por debajo de la mesa y le propinó un golpe contundente en el plexo con la culata reforzada de su arma.
 
-Triel contuvo un estremecimiento al escuchar la mención de su linaje drow, mientras Marloc apretaba los dientes.
+La *Reina de la Con-Fusión* soltó el aire de golpe y cayó de espaldas contra las baldosas, inconsciente.
 
-—¿Por qué Extracciones Estelares quería a Marlene muerta? —insistió el tecnomante.
+En ese instante, la puerta trasera se abrió de golpe. Los tres pandilleros de la antesala irrumpieron con fusiles de asalto, apuntando directamente a las espaldas de Triel y Marloc:
 
-—Porque la junta directiva de Extracciones Estelares sabe lo que hay dentro de la Roca del Drift —reveló Ferani—. La nave *Acreon* encontró algo allí fuera, en el Vasto. Una estructura alienígena enterrada en el asteroide que emite una firma energética de proporciones apocalípticas. Si el Consejo de Síndicos o el Colectivo Hardscrabble tomaban el control de la nave a través del arbitraje de Marlene, la corporación perdería el monopolio del mayor descubrimiento arqueológico desde la Brecha. Marlene tenía las frecuencias de decodificación en su tablilla. Por eso ordenaron silenciarla antes de que pudiera entregar el informe.
+—¡Señora! ¡Quietos todos o los cosemos a...!
 
-A.Xel conectó un terminal portátil a la consola de Ferani, descargando en cinco segundos los registros de transferencia bancaria y los registros de comunicación con el emisario de Extracciones Estelares.
+No pudieron terminar la frase.
 
-—Datos confirmados —anunció la androide—. Rutas de pago verificadas hacia la división de operaciones especiales de Extracciones Estelares. Evidencia concluyente.
+Benray Galway saltó sobre el escritorio derribado como un resorte. Plantó sus botas sobre el pecho de Ferani inconsciente, le apoyó el cañón de su pistola láser directamente en la sien y bramó con una ferocidad salvaje que heló la sangre de los atacantes:
 
-Marloc miró a Ferani por última vez.
+—¡BAJEN LAS MALDITAS ARMAS O LE VUELO LOS SESOS A SU JEFA AQUÍ MISMO! ¡Ella todavía respira, pero si mueven un solo dedo, saldrán de esta oficina en bolsas de basura! ¡AL SUELO, DIJE!
 
-—Tu gente mató a la persona equivocada por el dinero equivocado.
+Los tres pandilleros se quedaron paralizados. Miraron el cuerpo inerte de Brock Hilario, contemplaron el meca de Gerty apuntándoles con su cañón pectoral y vieron la fría determinación en los ojos del roedor. Lentamente, temblando de pánico, soltaron los fusiles sobre las baldosas y alzaron las manos.
 
-Antes de que la jefa de la banda pudiera responder, el panel de alarma del escritorio comenzó a emitir un pitido frenético de color rojo escarlata. En los monitores de seguridad, una docena de drones de asalto corporativos, con la librea azul y plata de Extracciones Estelares, acababan de atravesar las compuertas del club abriendo fuego contra todo lo que se movía.
+—Tranquilos... tranquilos, no disparen —balbuceó el androide de la banda.
 
-—¡Maldita sea! —gritó Benray desenfundando su arma—. ¡Parece que los jefes corporativos han venido a limpiar los cabos sueltos!
+Axel recogió las armas con frialdad matemática. Cinco minutos después, los tres pandilleros y el gigantesco vesk estaban amordazados y atados de pies y manos en una esquina de la oficina con varios rollos de cinta de embalaje industrial.
+
+***
+
+### III. Confesiones en la Espiga
+
+Marloc conectó su interfaz cibernética a la consola de seguridad de las pantallas murales, descargando los archivos de vídeo de la reunión previa de Ferani y purgando las grabaciones de las cámaras para no dejar rastro de su asalto.
+
+Mientras tanto, Triel hackeó la terminal principal de Ferani, accediendo a los registros financieros y a los registros de mensajería cifrada:
+
+—¡Bingo! —exclamó la semi-drow—. Pagos masivos triangulados desde cuentas corporativas de **Extracciones Estelares** a nombre de Ferani para acosar a los mineros de Hardscrabble. Y miren esto: para el golpe del Muelle 94, Ferani solo envió a dos de sus hombres... Las notas dicen que el tercer tirador, el francotirador que mató a Marlene, fue enviado directamente por el enlace drow de la corporación.
+
+Benray agarró una botella de whisky fino del suelo y le arrojó un chorro a la cara a Ferani Nadaz.
+
+La líder criminal tosió con violencia, escupiendo alcohol y abriendo los ojos desorientada. Al ver a sus hombres atados y a Marloc encendiendo una chispa arcana crepitante en los nudillos de su puño cibernético, la mujer se encogió contra la pared:
+
+—¡Esperen, esperen! —suplicó Ferani con voz ronca por el humo—. ¡No me maten! ¡Entréguenme a los Protectores de la estación! Si me entregan a la policía para un juicio formal con abogado del sindicato, les diré todo lo que sé.
+
+—¿Pides ir a prisión? —se burló Benray—. Qué modesta te has vuelto de repente.
+
+—¡Tengo miedo de que me liquiden! —confesó la mujer temblando—. Si los drow o Extracciones Estelares descubren que ustedes entraron aquí, enviarán sicarios para silenciarme. El francotirador que mató a Marlene Boosmar no era de mi banda... lo mandó el enlace drow de la corporación. Se llamaba **Kallio**, un humano joven con la cara llena de marcas y pelo claro. Murió o cayó preso en el tiroteo del muelle. Yo solo puse la distracción. Cumplí mi parte y hoy vinieron a pagarme.
+
+—¿Y qué hay de la nave *Acreon* y la roca? —inquirió Marloc, con la voz helada.
+
+—Extracciones Estelares sabe que en esa roca hay un secreto milenario —reveló Ferani—. Si el arbitraje de Marlene favorecía a los mineros, la corporación perdía los derechos mineros. Por eso ordenaron ejecutarla.
+
+Ferani miró hacia una pequeña puerta blindada en el fondo de la habitación:
+
+—Escuchen... podemos hacer un trato. En esa bodeguita trasera tengo mi botín privado. Todo lo que quieran es suyo si me dejan escapar. Pero cuidado: la compuerta tiene una trampa explosiva de plasma... solo yo sé cómo desactivarla.
+
+Benray examinó el marco de la compuerta con su linterna ultravioleta, soltando una risita burlona:
+
+—Buen intento, reina de la chatarra. El circuito de apertura es un pestillo estándar de tarjeta magnética; no hay rastro de explosivos. Tu oportunidad de negociar se acabó.
+
+Marloc miró a sus compañeros y asintió:
+
+—Aseguremos la evidencia y abramos esa cámara. Es hora de cobrar los honorarios de Marlene.

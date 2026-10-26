@@ -12,9 +12,13 @@ A un lado del despacho, apoyado con insolente elegancia contra una vitrina de ar
 
 —En esta estación, mis queridos amigos, un buen abogado es más letal que un cañón de riel —declaró el letrado vesk, extendiendo una tarjeta holográfica dorada hacia Benray—. *Kaerom y Asociados: Destruya a sus oponentes en el jurado*. Tienen un diez por ciento de descuento si mencionan este tiroteo en su próxima consulta. Si alguna vez necesitan demandar a un consorcio minero por estrés postraumático o reclamar una indemnización por pérdida de equipaje en el Drift, soy su hombre.
 
-Benray tomó la tarjeta con dos dedos y la examinó con fingida reverencia antes de guardarla en su bolsillo junto a las provisiones rescatadas del bufé.
+El abogado vesk dirigió su mirada reptiliana hacia Axel, relamiéndose los colmillos con satisfacción procesal:
 
-—Me gusta su estilo, doctor —dijo el ysoki, guiñando un ojo—. Aunque espero no tener que contratarlo para defenderme de un pelotón de fusilamiento.
+—Y para usted, señorita androide, tengo excelentes noticias procesales. Dado que carece por completo de documentos de identidad civil expedidos por la estación o el Pacto, la fiscalía policial tardará entre seis y diez años en determinar qué juzgado tiene competencia sobre su chasis. En los Mundos del Pacto, no tener papeles es el mejor escudo contra las multas.
+
+Benray tomó la tarjeta con dos dedos y la examinó con fingida reverencia antes de guardarla en su bolsillo junto a las provisiones rescatadas del bufé:
+
+—Me gusta su estilo, doctor. Aunque espero no tener que contratarlo para defenderme de un pelotón de fusilamiento.
 
 En ese instante, la pantalla mural del despacho emitió un tono agudo y la imagen de Joana Jiménez, la presentadora estrella de *Noticias en Movimiento*, ocupó la transmisión:
 
@@ -23,6 +27,8 @@ En ese instante, la pantalla mural del despacho emitió un tono agudo y la image
 La imagen cambió a una toma callejera tenuemente iluminada por las balizas rojas de la policía. Al fondo, agentes de seguridad escoltaban a un grupo de individuos andrajosos y desorientados hacia transportes de asistencia médica.
 
 —*«Hola, Joana»* —narró la reportera Carne Yac, sosteniendo el micrófono frente a la fachada acribillada del local—. *«Nos encontramos aquí presenciando los resultados de la intervención policial tras el asalto de ayer. En los sótanos clandestinos bajo la pista de baile, las autoridades han hallado una red de túneles secretos donde la banda de Ferani Nadaz retenía al menos a una veintena de personas contra su voluntad, la inmensa mayoría de ellos androides traídos ilegalmente desde puestos fronterizos para ser vendidos como esclavos laborales fuera del Pacto... Intentaremos recabar declaraciones de los mandos a cargo.»*
+
+Axel permaneció petrificada frente a la pantalla. Bajo su piel sintética de tono alabastro, las líneas bioluminiscentes de sus pómulos y cuello comenzaron a titilar en una tonalidad violeta oscura y titubeante. Esclavos laborales androides enjaulados bajo tierra... Aquellas imágenes eran el reflejo exacto de las pesadillas de su despertar consciente en las minas de la Diáspora.
 
 La cámara siguió a la periodista mientras interceptaba a un oficial uniformado de los Protectores que supervisaba el perímetro con gesto severo. El agente se interpuso con el brazo en alto:
 
@@ -70,7 +76,11 @@ Gerty alzó sus flamantes manos adicionales, observándolas con detenimiento a t
 
 Triel chocó su mano abierta contra los fríos dedos de aleación del dron, sonriendo de oreja a oreja.
 
-—Mucho mejor. Ahora sí estás listo para lo que venga.
+—*Aviso adicional* —continuó el meca, girando su cabeza con un zumbido satisfecho—. *He descargado un módulo experimental de humor orgánico para elevar la moral de la tropa. Pregunta: ¿Sabe qué le dijo un loro espacial a un droide de protocolo?... Cancelando ejecución: el remate requiere un setenta y dos por ciento más de optimización lingüística. Aún debo calibrar mis rutinas cómicas.*
+
+Triel rio a carcajadas, dándole una palmada en el hombro:
+
+—Mucho mejor, Gerty. Trabaja en ese remate. Ahora sí estás listo para lo que venga.
 
 A pocos metros de allí, sentada sobre una caja de repuestos navales, Axel 42 limpiaba meticulosamente la corredera de su pistola. La androide vestía su armadura ligera de combate, cuyas placas se ajustaban con elegancia biomecánica a su silueta esbelta. Sus ojos de iris digital rosado siguieron el trabajo de Triel hasta que la semi-drow guardó las herramientas y se acercó a sentarse a su lado.
 

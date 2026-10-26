@@ -118,4 +118,92 @@ Triel contempló la reliquia apagada y luego miró a sus compañeros con resoluc
 
 —Nos la llevamos —asintió Marloc con firmeza, envolviendo la esfera con un paño térmico reforzado antes de guardarla en su mochila de viaje—. Descarguen también todas las bitácoras y lecturas de frecuencias de Marlene en mi terminal. Dondequiera que nos lleve el *Acreon*, este artefacto viajará con nosotros.
 
-Con la esfera de Qabarat custodiada en el equipo del tecnomante, las investigaciones de Marlene a salvo y un lote de suministros de repuesto en los bolsillos de Triel, el grupo abandonó el Arcanamirium con paso ágil, fundiéndose con la noche de Absalón. Tenían su misión hacia la nave fantasma en el horizonte, pero ahora llevaban consigo la pieza clave de un enigma interestelar que apenas comenzaba a despertar.
+Con la esfera de Qabarat custodiada en el equipo del tecnomante, las investigaciones de Marlene a salvo y un lote de suministros de repuesto en los bolsillos de Triel, el grupo abandonó el Arcanamirium con paso ágil, fundiéndose con las avenidas de Absalón. Tenían su misión hacia la nave fantasma en el horizonte, pero ahora llevaban consigo la pieza clave de un enigma interestelar que apenas comenzaba a despertar.
+
+***
+
+### IV. La taberna de los mineros y el tránsito de Eclair
+
+Antes de regresar al hotel para asegurar la esfera, necesitaban un lugar ruidoso y concurrido donde perderse de la vista de los escáneres policiales. Siguiendo el instinto de Benray, descendieron hacia una populosa cantina de obreros y técnicos navales situada en la frontera entre el Ojo y los muelles del Anillo.
+
+El local olía a cerveza fermentada de algas, ozono de consolas y tabaco espacial. En una esquina apartada sobre una tarima elevada, un imponente dragón de escamas cobrizas fumaba en una pipa de cristal alienígena que expulsaba volutas de humo violeta, mientras su socio psíquico cerraba tratos en voz baja con comerciantes locales. Por doquier, mineros fuera de turno se agolpaban en torno a terminales de realidad virtual y simuladores de combate naval entre risas y apuestas en créditos.
+
+Pero lo que detuvo en seco a Axel no fue el bullicio de los obreros.
+
+Desde un reservado semicircular al fondo de la taberna, una discusión acalorada estalló por encima de la música ambiental:
+
+—*¡Es una estupidez, Eclair!* —bramaba una voz femenina, metálica y cargada de furia—. *¡Si estás cansado de existir, mejor pégate un tiro en la placa craneal y nos evitas el espectáculo! ¡Maldito cobarde!*
+
+La figura que se puso en pie de golpe era una mujer androide de complexión militar atlética, líneas bioluminiscentes carmesíes y una mirada abrasadora que rezumaba odio hacia cualquier ser biológico. Era Null-9.
+
+Axel sintió una sacudida electromagnética en sus procesadores. Null-9 era la guerrera que diez años atrás había liderado el asalto contra los capataces de las minas de asteroides de la Diáspora, rescatándola de las cadenas de la esclavitud.
+
+En su rabia, Null-9 clavó la mirada en la holopantalla del bar, donde volvía a repetirse el vídeo del colapso de Syd Velch:
+
+—¡Maldito payaso orgánico! —rugió la androide.
+
+Con un movimiento violento, Null-9 agarró una botella de licor de la mesa y la estrelló de lleno contra la pantalla, haciéndola estallar en una lluvia de cristales y chispas. Varios mineros se encogieron asustados. La androide dio media vuelta con el puño cerrado, apartó a Triel de un empujón sin mirarla y abandonó el bar dando un portazo que hizo vibrar los mamparos.
+
+En el reservado permanecían dos androides sentados frente a sus copas.
+
+El primero era un varón de piel azul noche y facciones serenas, recorrido por circuitos de un brillante color naranja dorado. Al ver a Axel, sus ojos artificiales se iluminaron con genuina calidez. Se levantó sin prisa y, rompiendo con la proverbial frialdad de su especie, estrechó a la operativa en un abrazo firme y prolongado:
+
+—Axel... Mi querida amiga. Qué alivio comprobar que tus circuitos siguen intactos tras los disturbios.
+
+—Eclair... —murmuró Axel, permitiéndose corresponder al contacto físico—. Eclair 210. Pensé que estabas fuera de la estación.
+
+A su lado, la segunda ocupante del reservado apuró su trago con descarada suficiencia. Era una androide de belleza magnética, con una cabellera rubia peinada en ondas suaves, ceñida en un mono negro de combate de corte ajustado. Lo más impactante era su rostro: una mandíbula de aleación de cromo pulido con dientes expuestos que le confería una sonrisa depredadora, y una cicatriz que cruzaba su mejilla izquierda sobre unos ojos artificiales de tono ámbar.
+
+La androide rubia clavó su mirada en Triel, recorriendo las curvas de la semi-drow de arriba abajo antes de guiñarle un ojo con insolencia:
+
+—Vaya, vaya... Hola, guapa. ¿Con quién tenemos el gusto?
+
+Triel parpadeó dos veces, sintiendo que sus orejas puntiagudas se encendían de calor bajo su flequillo:
+
+—Eh... Triel. Triel Istrav. Mecánica.
+
+—Clara 247 —se presentó la androide con una sonrisa lánguida y seductora, cruzando las piernas—. Un auténtico placer para la vista, Triel. Yo solo pasaba a disfrutar del espectáculo habitual de Null-9. Ya saben cómo se pone cuando los orgánicos respiran demasiado cerca.
+
+Marloc y Benray se acercaron a la mesa con curiosidad.
+
+—Disculpe, señor Eclair —intervino Marloc con su cortesía habitual—. Hemos presenciado la tensión con su compañera. ¿Sucedió algo grave?
+
+Eclair suspiró, entrelazando sus dedos metálicos sobre la mesa:
+
+—Null-9 no acepta mis decisiones, profesor Boosmar. Porque usted es Marloc Boosmar, ¿verdad? Y el caballero del pelaje elegante es el señor Benray Galway.
+
+Benray alzó una ceja, mesándose los bigotes:
+
+—¿Nos conocemos, amigo azul? Mi fama me precede, pero no recuerdo haber firmado autógrafos en este cuadrante.
+
+—Marlene nos habló de todos ustedes —reveló Eclair con voz pausada y melancólica—. Antes de su trágica muerte, Marlene Boosmar preparaba una expedición de vital importancia hacia el *Acreon*. Tenía una lista muy estricta y detallada de los perfiles que necesitaba: un tecnomante brillante ligado a su pasado, una piloto semi-drow forjada en el rigor de los Capitanes Libres, a nuestra querida Axel... y a un emisario ysoki audaz. Originalmente pensaba en un viejo conocido llamado Chic, pero el destino quiso que fueras tú quien cruzara su camino, Benray. Ella sabía quiénes eran y confiaba en su capacidad para llegar al fondo del misterio.
+
+Marloc apretó los labios, conmovido por la revelación de los planes póstumos de su contraparte.
+
+—¿Y qué motivó la ira de Null-9? —preguntó Axel con tono suave.
+
+Eclair alzó la mirada hacia la operativa androide:
+
+—He decidido someterme a **La Renovación**, Axel. Mi Tránsito. Tras la muerte de Marlene y el colapso de nuestras investigaciones, siento que el propósito de mi conciencia actual ha llegado a su término. Mi alma está lista para liberarse y entregar este chasis para que una nueva vida despierte en él. Null-9 lo interpreta como una rendición, una traición a la causa de nuestra especie... pero es simplemente el orden natural de nuestro ciclo. Axel... me gustaría profundamente que estuvieras a mi lado cuando llegue el momento de la transición.
+
+Axel inclinó la cabeza con solemnidad:
+
+—Los androides respetamos el derecho sagrado a la renovación de la propia alma, Eclair. Si ese es tu deseo, estaré allí para sostener tu mano.
+
+Para romper la pesadumbre del momento, Clara 247 dio dos palmadas al aire y señaló hacia el fondo del local:
+
+—Basta de despedidas fúnebres por hoy, caballeros. Si van a embarcarse hacia una nave fantasma, necesitan reflejos afilados. Oye, Triel... Dicen los mineros de ahí enfrente que nadie en este antro es capaz de completar la simulación de salto en el cañón de asteroides. ¿Te atreves a demostrar de qué está hecha la Diáspora?
+
+Triel aceptó el desafío con una sonrisa desafiante. Se ajustó los guantes y se acomodó en la cabina del simulador de vuelo frente a una docena de obreros escépticos. Durante diez minutos vertiginosos, los dedos de la semi-drow danzaron sobre las palancas de empuje: ejecutó giros de tonel imposibles, derivó a milímetros de meteoritos holográficos y pulverizó el récord de la máquina con una maniobra de vector inverso que arrancó silbidos de asombro y una ovación unánime de los mineros, quienes se apresuraron a invitarla a rondas de aguardiente.
+
+Cuando la tripulación se disponía al fin a abandonar la taberna entre risas y despedidas, una figura delgada, ataviada con una túnica talar negra de bordes deshilachados, se deslizó entre las sombras del callejón exterior y les cortó el paso con una reverencia espectral.
+
+Sin pronunciar una sola palabra, el emisario encapuchado extendió una bandeja de plata donde descansaba una misiva singular.
+
+Era un sobre fabricado en **un papel tan negro y denso como el vacío interestelar**, ribeteado con pan de plata y cerrado con un sello de cera escarlata que exhibía las armas heráldicas de los señores de los huesos. En su anverso, grabadas con una caligrafía gótica impecable en tinta plateada brillante, se leían las palabras que sellarían su destino:
+
+*«Se solicita formalmente la presencia de los mediadores independientes ante Su Excelencia Gevalarsk Nor, Embajador Plenipotenciario de Eox en los Mundos del Pacto.»*
+
+Benray sostuvo la misiva bajo la luz mortecina de los faroles callejeros, tragando saliva con evidente inquietud:
+
+—Bueno, muchachos... Los muertos nos invitan a cenar. Esperemos que en el menú no estemos nosotros.

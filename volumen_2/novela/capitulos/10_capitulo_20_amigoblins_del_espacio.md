@@ -1,83 +1,113 @@
 # Capítulo 20: Amigoblins del Espacio
 
-### I. Los náufragos de la chatarra
+### I. Los náufragos de la chatarra y el botín explosivo
 
-Gerty no se anduvo con rodeos. Con un zumbido de sobrecarga en sus actuadores hidráulicos, el meca levantó su pierna derecha y descargó una patada monumental contra la compuerta atrancada de la cocina.
+La tensión en la despensa se disipó con la velocidad con que el aire escapa por una escotilla abierta.
 
-El cerrojo reventó con estrépito: *¡BUM!* La puerta se dobló hacia adentro desprendiendo virutas metálicas, y los cuatro aventureros irrumpieron en la estancia con los cañones por delante.
+Los dos goblins espaciales permanecían arrodillados sobre sacos de harina deshidratada y cajas de cereales aplastadas, levantando sus manos arrugadas y de piel verdosa mientras parpadeaban encandilados por los focos de Gerty. El más menudo llevaba unas aparatosas gafas de soldador torcidas sobre la frente, una sonrisa maníaca repleta de dientes afilados y un mono de vuelo remendado con cinta aislante donde colgaban una docena de granadas de todos los colores. A su lado, una goblin hembra con el ceño fruncido y mirada pendenciera —enfundada en un traje de vacío artesanal con parches de cuero y placas de chapa atornilladas— lo apartó de un codazo furioso:
 
-El espectáculo que los recibió al otro lado era tan grotesco como inesperado.
+—¡Cállate, Willy! ¡Deja de humillarte frente a los altos! Si nos van a ejecutar, ¡que me miren a los ojos!
 
-En medio de una montaña de cajas de raciones abiertas, paquetes de cereales flotando por el aire ingrávido y muebles volcados a modo de trinchera, dos figuras diminutas de piel verdosa arrugada y cabezas desproporcionadamente anchas se arrojaron de rodillas sobre el linóleo helado, alzando los brazos con chillidos histéricos:
+Benray bajó lentamente el cañón de su fusil, rascándose la oreja con perplejidad a través del casco:
 
-—¡No disparen, no disparen! ¡Por las lunas del infierno, sáquennos de aquí! ¡Haremos lo que sea, limpiaremos sus botas, les daremos chatarra brillante!
+—¿Goblins espaciales? ¿En un carguero minero fantasma en cuarentena a doscientas mil millas de Absalón? ¿Cómo demonios llegaron hasta aquí?
 
-El que hablaba más rápido era un goblin menudo con unas aparatosas gafas de soldador torcidas sobre la frente, una sonrisa maníaca repleta de dientes afilados y un mono de vuelo remendado con cinta aislante donde llevaba enganchadas una docena de granadas de todos los colores. A su lado, una goblin femenina con el ceño fruncido y mirada pendenciera —enfundada en un traje de vacío improvisado con parches de cuero y placas de chapa atornilladas— lo apartó de un codazo furioso:
+El goblin de las gafas, Willy, se puso en pie de un brinco con una energía hiperactiva que desafiaba la gravedad artificial:
 
-—¡Cállate, Willy! ¡Deja de humillarte frente a los altos! Si nos van a matar, ¡que me miren a los ojos!
+—¡Fue una jugada maestra de ingeniería aerodinámica! —proclamó Willy agitando los brazos con entusiasmo infantil—. Nos fabricamos unos trajes espaciales de fortuna con bolsas herméticas de basura pesada que aguantaban diez minutos de oxígeno exactos. Pagamos billete en un transbordador público de cercanías, abrimos la escotilla de emergencia en mitad del cuadrante —los demás pasajeros se pusieron histéricos, la verdad—, saltamos al vacío exterior y nos enganchamos con arpones al casco del *Acreon* cuando redujo velocidad para acoplarse a la roca. ¡Y una vez dentro, saqueamos los conductos de mantenimiento! Con un poco de cinta aislante y tubos de goma adaptamos los filtros de aire de los mineros para aguantar semanas enteras.
 
-Benray bajó lentamente el cañón de su fusil, rascándose la oreja con perplejidad:
+—Hasta que los perros de piedra despertaron —gruñó la goblin hembra, ensombreciendo la mirada—. Mi nombre es Naru. Mi hermana Martha murió en la bifurcación del pasillo... Una de esas bestias sin ojos le saltó a la yugular antes de que pudiéramos atrincherarnos en la despensa. Con las raciones y el reciclador hemos aguantado aquí encerrados varios días, oyendo cómo arañaban la puerta.
 
-—¿Goblins espaciales? ¿En un carguero minero fantasma a doscientas mil millas de Absalón? ¿Cómo demonios llegaron hasta aquí?
+Triel, conmovida por el recuerdo de la hermana caída, extrajo un inyector dérmico de su cinturón médico y se aproximó con delicadeza a Naru:
 
-El goblin de las gafas, Willy, se puso en pie de un salto con una energía hiperactiva que desafiaba la falta de gravedad:
+—Nosotros abatimos a la bestia del corredor. Tu hermana está vengada.
 
-—¡Fue una jugada maestra de ingeniería! —proclamó Willy—. Nos hicimos unos trajes espaciales artesanales con bolsas herméticas que aguantaban diez minutos de aire exactos para el salto. Tomamos un transbordador público, abrimos la escotilla de emergencia en mitad del vuelo espacial —los demás pasajeros no se lo tomaron muy bien, la verdad—, saltamos al vacío exterior y nos enganchamos con arpones al casco del *Acreon* cuando pasó cerca del cuadrante. ¡Y una vez dentro, saqueamos los armarios de mantenimiento! Encontramos filtros de reciclaje de aire y botellas de oxígeno de repuesto de los mineros. Con un poco de cinta aislante y tubos de goma, Willy adaptó el soporte vital para aguantar semanas enteras.
+Naru miró el dispositivo con recelo, pero extendió el brazo enfundado en su tosca escafandra. Con un chasquido neumático, Triel acopló la boquilla del inyector al puerto sellado del traje goblin. El pistón descargó el suero directamente en el flujo subcutáneo sin comprometer la hermeticidad contra el vacío. Naru soltó un largo suspiro de alivio por el intercomunicador mientras el calor reparador del fármaco aliviaba sus magulladuras y estabilizaba sus constantes vitales.
 
-—Hasta que aparecieron los perros de piedra —gruñó la goblin hembra, suavizando un poco el tono—. Mi nombre es Naru. Mi hermana Martha murió en el pasillo... Una de esas bestias sin ojos le saltó a la yugular antes de que pudiéramos atrincherarnos en la despensa. Con los filtros de aire de los mineros y las cajas de raciones hemos aguantado aquí encerrados varios días, oyendo cómo arañaban la puerta.
+Mientras Naru agradecía el gesto, Willy ya se había deslizado a cuatro patas hasta colocarse debajo de la entrepierna de Gerty. Con un destornillador herrumbroso en una mano y una pinza de electricista en la otra, el goblin comenzó a toquetear con fascinación febril los cables de los actuadores hidráulicos del meca:
 
-Triel, conmovida por la mención de la hermana caída, extrajo un inyector dérmico con una dosis de suero curativo de su cinturón y se lo ofreció a Naru:
+—¡Uuuh, miren qué piezas tan exquisitas! ¡Este chasis tiene aleación de titanio y motores de cuatro fases de primera! Si le empalmo este cable pelado al generador de plasma, ¡el robot disparará el doble de rápido antes de fundirse en un estallido glorioso!
 
-—Nosotros matamos a las bestias del hangar y del pasillo. Tu hermana está vengada.
+—*¡Alerta de intrusión parasitaria no autorizada!* —tronó la voz sintética de Gerty por los altavoces exteriores.
 
-Naru miró el dispositivo con recelo, pero extendió el brazo enfundado en su tosca escafandra. Con un chasquido mecánico, Triel acopló la boquilla del inyector al puerto médico sellado del traje goblin. El pistón neumático descargó el suero directamente en el flujo subcutáneo sin romper el sello hermético contra el vacío. Naru soltó un bufido de alivio a través del intercomunicador mientras el calor reparador del fármaco aliviaba sus magulladuras y comenzaba a cerrar las heridas de sus extremidades.
+Con un movimiento fluido de sus articulaciones secundarias, uno de los brazos inferiores del autómata descendió, atrapó a Willy por el cuello de su mono de vuelo y lo levantó en vilo en el aire como a un muñeco de trapo:
+
+—*Solicito autorización a la señorita Triel para desintegrar a este organismo invasor antes de que comprometa mi circuitería central.*
+
+—¡Willy, suelta eso y no toques mi robot! —reprendió Triel, arrebatándole el destornillador de un manotazo firme.
+
+—¡Bueno, bueno, qué carácter tienen los mecánicos diplomados! —protestó Willy, pataleando en el aire con una carcajada estridente—. Solo quería colaborar en la alianza. Para sellar el pacto de negocios, tomen esto. ¡Regalos de la casa!
+
+El goblin metió ambas manos en sus dilatados bolsillos y comenzó a repartir artefactos entre la tripulación como si fuera una fiesta infantil: dos granadas incendiarias de magnesio para Axel, dos granadas eléctricas de iones para Marloc, un par de bombas adhesivas de polímero elástico para Benray y un pesado extintor de espuma ignífuga que colgó con descaro del chasis de Gerty.
+
+Benray inspeccionó las granadas con ojo clínico:
+
+—Sorprendentemente, no son chatarra casera. Son proyectiles de manufactura reglamentaria robados de las armerías de la estación. Amigoblins, esto empieza a ser un equipo funcional.
 
 ***
 
-### II. Granadas, cables y la trampa del pasillo
+### II. Los camarotes de la oficialidad y el enigma de Olier
 
-Mientras Naru agradecía el gesto, Willy ya se había deslizado por el suelo hasta quedar debajo del chasis de Gerty. Con un destornillador herrumbroso en una mano y una pinza de electricista en la otra, el goblin comenzó a forcejear con entusiasmo infantil para desatornillar la placa de mantenimiento del dron:
+Guiados por la necesidad de asegurar la cubierta antes de alcanzar las bodegas de carga, el grupo inició el registro sistemático de los camarotes residenciales situados a lo largo del pasillo de babor. Willy y Naru marchaban en medio de la comitiva, zampándose puñados de cereales fosilizados que introducían en sus cascos mediante válvulas de membrana flexibles.
 
-—¡Uuuh, miren qué piezas tan exquisitas! ¡Este blindaje tiene aleación de titanio de primera! Si le conecto este cable pelado al generador de plasma, ¡el robot disparará el doble de rápido antes de estallar en mil pedazos!
+El primer dormitorio correspondía a la piloto lashunta Alara y al primer oficial Arvath. Tras forzar el panel de una taquilla metálica bajo la litera, Axel rescató una tarjeta de crédito no reclamada cargada con 500 créditos del Colectivo Hardscrabble y una llave de acceso informático maestro en formato USB criptográfico.
 
-—*¡Alerta de intrusión parasitaria!* —tronó la voz de Gerty por los altavoces, bajando uno de sus brazos manipuladores inferiores para agarrar a Willy por el cuello del mono y levantarlo en el aire como a un muñeco de trapo—. *Solicito autorización a la señorita Triel para desintegrar a este organismo invasor antes de que comprometa mi circuitería.*
+—Esto facilitará el volcado de datos cuando alcancemos la terminal del puente de mando —afirmó la androide, asegurando el dispositivo en su cinto.
 
-—¡Willy, suelta eso y no toques mi robot! —reprendió Triel, arrebatándole el destornillador de un manotazo.
+Dos puertas más adelante, el grupo penetró en el camarote del ingeniero Olier.
 
-—¡Bueno, bueno, qué carácter tienen los mecánicos finos! —protestó Willy, pataleando en el aire con una carcajada divertida—. Solo quería colaborar. Para demostrar que somos buenos socios de negocios, tomen esto. ¡Regalos de la casa!
+El ambiente en aquella estancia difería por completo del pragmatismo espartano de los mineros. El mamparo principal estaba presidido por un tapiz imponente con el emblema sagrado de **Weydan**, la deidad cósmica de los horizontes infinitos y el descubrimiento libre, representada como una nave estelar surcando constelaciones en espiral. Bajo la litera, una arqueta metálica albergaba decenas de pliegos de pergamino, cuadernos manuscritos y carboncillos desgastados.
 
-El goblin metió ambas manos en los bolsillos de su mono y comenzó a repartir artefactos entre la tripulación como si fuera una fiesta de cumpleaños: dos granadas incendiarias de magnesio para Axel, dos granadas eléctricas para Marloc, un par de bombas adhesivas de masa pegajosa para Benray y un extintor de espuma pesada que colgó con descaro del torso de Gerty.
+Marloc Boosmar tomó uno de los cuadernos con sus dedos enguantados, hojeando con avidez las páginas arrugadas bajo el foco de su traje.
 
-Fue entonces cuando Marloc reparó en los bidones de reserva de la despensa: depósitos de agua técnica y garrafas de salmuera saturada utilizada para la conservación de alimentos mineros.
+Las ilustraciones eran inquietantes. En trazos febriles de carboncillo, Olier había dibujado una figura antropomorfa sin rostro reconocible, envuelta en sombras tenebrosas y halos de energía interdimensional, que parecía extender sus manos hacia el *Acreon* desde el epicentro de un vacío insondable. Al pie de cada dibujo figuraban densas columnas de ecuaciones matemáticas y algoritmos de navegación.
 
-—Un momento... —intervino el tecnomante, señalando los contenedores de salmuera—. En el hangar comprobé que los Akata son organismos xerófilos del vacío absoluto; el agua salada les provoca un choque osmótico devastador, licuando sus células como ácido. Willy, ¿tienes carcasas de granadas vacías o detonadores de dispersión hidráulica?
+Triel y Axel se asomaron por encima de los hombros del tecnomante, analizando los símbolos numéricos.
 
-—¡Tengo tres cilindros presurizados con válvula de dispersión que sobraron de una bomba de humo! —chilló Willy, dando saltos de emoción—. ¡Si los rellenamos con salmuera concentrada y les ponemos un microrretardo de ignición, tendremos granadas de salmuera líquida a presión!
+—Por Triune... —susurró Triel con la voz tomada por la sorpresa—. Estas fórmulas son algoritmos de texturizado y proyección tridimensional, pero están hibridadas con ecuaciones de salto hiperespacial. Nadie calcula vectores de salto Drift a mano; los motores de salto procesan las balizas de forma automática a través de la red del dios Triuno.
 
-Trabajando en equipo con la habilidad manual de Benray y la supervisión técnica de Marloc, en cinco minutos fabricaron tres granadas improvisadas de salmuera concentrada. Benray se guardó los tres cilindros en su bandolera con una sonrisa satisfecha:
+—Olier no estaba realizando un cálculo ordinario de desplazamiento —explicó Marloc con gravedad analítica—. Estaba utilizando estas fórmulas matemáticas para medir la densidad de masa y sincronizar la frecuencia de resonancia vibracional del asteroide en el Drift. Creía estar siguiendo una revelación divina... una llamada que le susurraba desde las entrañas del hiperespacio.
 
-—Esto sí que es cocina de combate. Con estas tres bombas de salmuera vamos a derretir a cualquier bicho que se cruce. Pero caminen delante y mantengan las manos lejos de los detonadores.
+—Y esa llamada —completó Axel con fría deducción lógica— desvió al *Acreon* de su ruta comercial, lo ancló a la Roca del Drift y trajo consigo a las criaturas parasitarias.
 
-El grupo, reforzado ahora con la presencia caótica de Willy y Naru, avanzó hacia las bahías de almacenamiento secundarias.
+Al registrar el camarote contiguo, perteneciente a la capitana Elba Sohar, hallaron su terminal personal con los registros congelados. Una breve nota fechada antes del desastre confirmaba una acalorada discusión entre la capitana, el piloto y Olier: el ingeniero había insistido en que «algo ancestral aguardaba en las coordenadas de la roca», logrando el respaldo de parte de la tripulación atraída por la promesa de metales raros.
 
-Al llegar frente a una compuerta metálica que daba acceso al almacén de repuestos, Triel se adelantó para accionar el mando manual. Apenas la placa se deslizó dos centímetros, un fino rayo láser de detección invisible se interrumpió en el umbral.
+Marloc guardó los cuadernos de Olier en su mochila de campaña:
 
-Un mecanismo de defensa automático —un fusil láser sobrecargado montado sobre un trípode improvisado en el interior— se activó con un zumbido agudo y disparó una ráfaga a quemarropa. El haz de energía impactó en el hombro de Triel, perforando la capa externa de su armadura *second skin* y chamuscando la carne en una fracción de segundo.
+—Estos algoritmos serán cruciales para comprender la naturaleza de la roca cuando descendamos al asteroide.
 
-Una alarma estridente de despresurización comenzó a pitar en el casco de la muchacha.
+***
 
-—¡Maldición! ¡Fuga en el traje! —gimió Triel, cayendo de espaldas contra el mamparo mientras el fusil de la trampa estallaba por sobrecalentamiento dentro del cuarto.
+### III. La trampa de la bodega y el fuego cruzado
 
-Gerty se interpuso al instante con sus escudos desplegados, mientras Benray actuaba con reflejos felinos: sacó un parche médico sellador de emergencia (*medpatch*) y lo estampó con fuerza sobre el hombro perforado de la semi-drow. El polímero expansivo del parche se endureció en milésimas de segundo, sellando herméticamente la brecha contra el vacío del espacio y deteniendo la descompresión al tiempo que liberaba una dosis concentrada de analgésico y coagulante a través de la membrana.
+Con los camarotes despejados, la escuadra se dirigió hacia la compuerta blindada que daba acceso al almacén de repuestos y materiales de prospección minera, en el flanco opuesto del pasillo.
 
-La alarma del casco se apagó y la presión del traje se estabilizó de inmediato.
+Triel se adelantó para desarmar la cerradura electromecánica con sus herramientas de precisión. La semi-drow manipuló los circuitos del panel frontal con soltura profesional; sin embargo, al deslizarse la compuerta apenas unos centímetros, un cable de disparo oculto se tensó en el umbral interior.
 
-—Tranquila, Triel... Brecha sellada y dolor neutralizado —susurró el ysoki por la radio—. Solo fue un susto. La trampa se ha destruido a sí misma.
+Un mecanismo de defensa automático de fortuna —un fusil láser sobrecargado montado sobre un trípode de prospección— se activó con un zumbido agudo:
 
-Al asomarse al interior de la bodega asegurada, Axel iluminó las estanterías con su linterna. Allí, entre repuestos mecánicos y detectores de movimiento, descansaban varias cajas selladas que contenían lingotes de mineral **noqual**, un material ultrarresistente y cotizadísimo en la industria armamentística estelar, valorado en miles de créditos.
+*¡ZAS-BUM!*
 
-Pero el hallazgo quedó interrumpido por un aullido sordo y vibrante que resonó a través de la cubierta inferior. Dos nuevos Akata, alertados por el disparo de la trampa, avanzaban a toda carrera por el corredor transversal, trepando por las paredes metálicas con las fauces abiertas de par en par.
+El haz concentrado de energía golpeó de lleno en el hombro izquierdo de Triel, perforando la capa exterior de su blindaje de segunda piel y chamuscando la carne en una fracción de segundo.
 
-Naru alzó su rifle tosco con una carcajada feroz, apostándose junto a Gerty:
+Una alarma estridente de despresurización comenzó a pitar en el intercomunicador del casco de la muchacha.
 
-—¡Aquí vienen los perros de piedra! ¡Willy, pásame los cartuchos buenos y enséñales cómo disparamos los goblins del espacio!
+—¡Maldición! ¡Brecha en el traje! —gimió Triel, trastabillando hacia atrás mientras la trampa láser se autodestruía en el interior de la sala entre chispas y humo negro.
+
+Gerty interpuso sus escudos al instante cubriendo a su creadora, mientras Benray reaccionaba con velocidad fulgurante: desenfundó un parche médico sellador de emergencia de su bolsillo táctico y lo estampó con fuerza sobre el hombro perforado de la mecánica. La resina expansiva del parche polimerizó en milisegundos, obturando herméticamente la brecha contra el vacío y suministrando una inyección directa de coagulante y analgésico que apagó la alarma del traje al estabilizar la presión interior.
+
+—Brecha sellada y analgésico activo, Triel —susurró el ysoki con alivio—. Solo fue un susto técnico.
+
+Al asegurar el interior del almacén, los exploradores quedaron asombrados por el botín que la trampa custodiaba. En varias cajas reforzadas descansaban lingotes procesados de **Noqual puro**, el codiciado metal estelar resistente a la magia y de altísima conductividad energética, valorados en más de 500 créditos. Junto al mineral recuperaron dos inyectores dérmicos de curación celular acelerada y una gema de fusión de armas: una runa disruptiva transferible para armas cuerpo a cuerpo.
+
+Pero la celebración duró un suspiro.
+
+Alertados por el estampido de la trampa láser, un par de aullidos ásperos resonaron a lo largo del pasillo transversal. Dos nuevos Akata adultos avanzaban a toda velocidad trepando por los mamparos superiores, con las fauces abiertas y los ojos relucientes de hambre depredadora.
+
+Willy y Naru, lejos de acobardarse, desenfundaron sus fusiles con chillidos guerreros y se parapetaron detrás de las robustas piernas de Gerty:
+
+—¡Aquí vienen los perros de piedra! —aulló Naru, abriendo fuego de cobertura con ráfagas continuas que obligaron a las bestias a ralentizar su avance entre las chispas—. ¡Willy, dales con todo!
+
+Benray sacó las dos granadas de salmuera presurizada de su bandolera, con los ojos brillando de determinación táctica:
+
+—¡Axel, Marloc, mantengan la línea! ¡Es hora de servirles su baño de agua salada!

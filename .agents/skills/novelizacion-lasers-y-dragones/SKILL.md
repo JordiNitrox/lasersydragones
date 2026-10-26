@@ -1,343 +1,113 @@
 ---
 name: novelizacion-lasers-y-dragones
 description: >-
-  Guía metodológica, literaria y técnica integral para descargar, transcribir,
-  estructurar y novelizar lotes de episodios del podcast de rol 'Lasers y Dragones'
-  (campaña Starfinder: Dead Suns) en volúmenes literarios homogéneos con maquetación
-  editorial profesional en PDF.
+  Guía metodológica maestra y orquestadora del proyecto de novelización de 'Lasers y Dragones'.
+  Úsalo para planificar nuevos volúmenes, coordinar el flujo completo de producción
+  (ingesta, redacción, maquetación y control de calidad) y gestionar la continuidad global de la saga.
 ---
 
-# Skill: Novelización de Episodios de *Lasers y Dragones*
+# Skill Maestro: Flujo Global de Novelización de *Lasers y Dragones*
 
-Este skill contiene el procedimiento paso a paso para continuar con la saga de novelizaciones del podcast **Lasers y Dragones**, transformando las partidas de rol de mesa en vivo en novelas literarias de ópera espacial y ciencia ficción, garantizando coherencia argumental, fidelidad a la mesa de juego y uniformidad en el diseño editorial en PDF.
+Este skill constituye la **guía orquestadora de alto nivel** para coordinar la producción de cada volumen de la saga de novelizaciones del podcast de rol en vivo **Lasers y Dragones** (campaña *Starfinder: Dead Suns*), articulando el trabajo entre los skills especializados del proyecto.
 
 ---
 
-## 1. Criterios de Delimitación de un Volumen (Arco Narrativo Coherente)
+## 1. Criterios de Delimitación de un Volumen
 
-No se debe realizar un corte arbitrario por número de episodios. Cada volumen debe concebirse como una **novela autoconclusiva en su arco inmediato**, aunque forme parte de la campaña mayor (*Dead Suns*):
+Cada volumen debe concebirse como una **novela autoconclusiva en su arco inmediato**, respetando los siguientes parámetros:
 
 1. **Unidad Temática y Espacial:**
-   - **Volumen 1 (*Sombras sobre Absalón* - Episodios 1 al 10):** Abarca la llegada a la Estación Absalón, la reunión en el Club 13, el asesinato en el Muelle 94, la conspiración de Extracciones Estelares contra Hardscrabble y la huida de la estación.
-   - **Volumen 2 (Planificado - Próximo bloque de episodios):** Debe centrarse en la travesía hacia el Vasto, el abordaje e investigación de la nave fantasma *Acreon*, y la exploración de la *Roca del Drift* (*The Drift Rock*).
-   - **Volúmenes futuros:** Identificar el clímax dramático de la aventura (cambio de planeta, derrota de un antagonista principal, resolución de un enigma alienígena).
+   * Cada libro debe corresponder a un hito geográfico o dramático claro (ej. la conspiración de Absalón, el abordaje del *Acreon*, la exploración de la *Roca del Drift*, la travesía selvática en Castrovel, o las intrigas mineras en La Diáspora).
 2. **Extensión Óptima:**
-   - Entre **8 y 12 episodios de podcast** por volumen.
-   - Rendimiento literario: **10 a 12 capítulos** de entre 1.500 y 3.000 palabras cada uno (más prólogo, introducción y glosario), totalizando entre **50 y 75 páginas** maquetadas en A4.
+   * Entre **8 y 12 episodios de podcast** por volumen.
+   * Rendimiento literario: **10 a 14 capítulos** de entre 1.500 y 3.000 palabras cada uno (más prólogo, nota editorial y glosario), totalizando entre **60 y 100 páginas** maquetadas en A4.
 3. **Estructura en Cuatro Actos:**
-   - **Acto I (Disparador):** Entrada al nuevo escenario o planteamiento del conflicto.
-   - **Acto II (Investigación / Tensión):** Exploración, recolección de pistas, confrontaciones tácticas menores.
-   - **Acto III (Punto de inflexión y Clímax):** Revelación de la verdad o batalla crucial.
-   - **Acto IV (Desenlace y Puente):** Consecuencias inmediatas y gancho (*cliffhanger*) hacia el siguiente volumen.
+   * **Acto I (Disparador):** Entrada al nuevo escenario o planteamiento del conflicto.
+   * **Acto II (Investigación / Tensión):** Exploración, pistas y confrontaciones tácticas menores.
+   * **Acto III (Punto de inflexión y Clímax):** Revelación de la verdad o batalla crucial.
+   * **Acto IV (Desenlace y Puente):** Consecuencias inmediatas y gancho hacia el siguiente volumen.
 
 ---
 
-## 2. Ingesta y Transcripción de Episodios
-
-### A. Descarga de Metadatos y Audio
-1. Localizar los episodios en el archivo mensual de Libsyn (`https://lasersydragones.libsyn.com/YYYY/MM`) o mediante el canal oficial de YouTube de *Lasers y Dragones*.
-2. Obtener el enlace directo del audio MP3 en `traffic.libsyn.com` o descargarlo mediante script.
-
-### B. Extracción de Subtítulos y Transcripción
-Para obtener la transcripción original en español con marcas de diálogo:
-```bash
-# Descarga de subtítulos automáticos en español desde YouTube sin descargar el vídeo:
-yt-dlp --write-auto-sub --sub-lang es --skip-download -o "transcripciones/raw/episodio_XX.%(ext)s" "<URL_YOUTUBE_DEL_EPISODIO>"
-```
-
-### C. Limpieza Automatizada y Filtro Fonético
-Ejecutar el script de limpieza provisto en el skill para eliminar marcas temporales, etiquetas VTT, duplicaciones acumulativas y **corregir automáticamente alucinaciones acústicas típicas de los subtítulos automáticos (STT)**:
-```bash
-python3 .agents/skills/novelizacion-lasers-y-dragones/scripts/limpiar_transcripcion.py \
-  transcripciones/raw/episodio_XX.es.vtt \
-  transcripciones/limpias/episodio_XX.txt
-```
-El script incorpora un diccionario fonético (`CORRECCIONES_FONETICAS`) que sustituye errores habituales de YouTube (como «del triunfo» por «del Drift», o «Ring Rey» por «Rim Rey»). El resultado será un texto continuo y saneado, listo para el análisis narrativo.
-
----
-
-## 3. Manual de Estilo Literario y Adaptación
-
-### A. De Mesa de Rol a Narrativa Orgánica
-- **Cero jerga de mesa:** Prohibido mencionar "puntos de golpe", "dados d20", "tirada de salvación", "iniciativa" o "clase de armadura".
-- **Traducción física y sensorial:**
-  - Un *20 natural* se describe como un golpe de genialidad improvisada o una falla estructural oportuna en el blanco.
-  - Una *pifia (1 natural)* se narra como sobrecalentamiento de circuitos, un tropiezo por condensación de refrigerante o la distracción por un chiste inoportuno.
-  - El daño se describe como abolladuras de blindaje, blindajes de plasma drenados al rojo vivo o heridas cauterizadas.
-
-### B. Voces y Personalidades de los Personajes
-Consultar siempre el dossier detallado en [canon_y_personajes.md](./references/canon_y_personajes.md):
-- **Roberto (GM):** La voz omnisciente del narrador y creador de la atmósfera. En el diálogo encarna a **Gerty** con su sintetizador plano, quejándose con cinismo de los "bichos de carbono" y padeciendo actualizaciones de firmware lentas estilo *Windows 95*.
-- **Benray Galway (Miguel):** Ysoki pícaro, verborrea acelerada, paranoico con la comida envenenada, motoneta abollada y lealtad incondicional a su primo **Rim Rey**.
-- **Triel Istrav (Irene):** Mecánica semi-drow de 19 años, pelo níveo, piel cenicienta con matiz violáceo, chaqueta de segunda mano con emblema de los *Free Captains* (NUNCA fue corsaria ni perteneció a los piratas; es una mecánica civil independiente). Cariñosa, ingeniosa y protectora con Gerty.
-- **Marloc Boosmar (Juan Pablo):** Tecnomante humano, mente académica desordenada, visiones cósmicas de la amnesia de la Brecha, fusiona nanitos y fórmulas matemáticas mágicas (*Null-Vector*). Despertó sin registro oficial en Absalón tras tocar una esfera rúnica; su relación con Marlene Boosmar es un enigma abierto (NUNCA se confirma que sean hermanos).
-- **A.Xel 42 (Sofía):** Androide operativa, líneas bioluminiscentes rosadas, precisión quirúrgica, letal en sigilo, analítica y observadora de las rarezas humanas. Mantiene un vínculo fraternal profundo con su «unidad hermana» **Null-9** desde su rescate diez años atrás en el Vasto.
-
-### C. Canon de Nombres y Terminología Oficial
-- **Inversiones Estelares S.C.:** Compañía corporativa de mediación e inversiones con sede en el Ojo de la Estación Absalón, liderada por **Chiskisk** y para la que trabajaba **Marlene Boosmar**. Los protagonistas son contratados por ella como peritos/árbitros independientes (*freelancers*). *(⚠️ **Regla Crítica:** En el módulo de Paizo Chiskisk pertenecía a la «Sociedad Starfinder», pero en el podcast Roberto la sustituyó por completo por **Inversiones Estelares S.C.** La «Sociedad Starfinder» NUNCA existe como facción de los protagonistas en la historia).*
-- **El Drift**: Plano hiperespacial. Nunca traducir como "la deriva" cuando se hable del hiperespacio.
-- **La Roca del Drift (*The Drift Rock*):** Asteroide remolcado por el carguero *Acreon* que alberga el santuario pre-Brecha y la consola del Devastador Estelar. **NUNCA denominar como "Piedra del Triunfo"** ni "Piedra de la Deriva". *(⚠️ Los motores STT transcriben acústicamente "del Drift" como "del triunfo". Consultar siempre la Tabla Maestra de Corrupciones Fonéticas en [canon_y_personajes.md](./references/canon_y_personajes.md)).*
-- **La Brecha** (*The Gap*) y **Los Protectores** (*The Stewards*).
-- **Corporaciones:** *Extracciones Estelares* (*Astral Extractions* / *Extracciones Astrales*), *Colectivo Hardscrabble*, *Los Reyes del Nivel 21* (*21st Crew*).
-- **Personajes secundarios:** **Rim Rey** (primo de Benray, NUNCA "Ring Rey"), **Chiskisk** (shirren no binario de Inversiones Estelares S.C.), **Chic**, **Ferani Nadaz** (líder de la Con-Fusión / Reyes de Abajo, NO "Ferani Krane"), **Brock Hilario «el Rompeportones»** (lugarteniente vesk), **Capitán Frederick**, **Null-9**, **Syd Velch**, **Willy**, **Naru**, **Oficial León**, **Carne Yac** (corresponsal vegetal de Noticias en Movimiento), **Embajador Gevalarsk Nor**, **Keltus**, **Ambrose Boosmar**.
-
-### D. Primacía Absoluta del Podcast frente al Manual de Paizo (Partida Real vs. Aventura Escrita)
-
-Este proyecto adapta una **partida real de rol en vivo** (*actual play*), NO el módulo impreso de *Dead Suns* (*Soles Muertos*) de Paizo Publishing. El manual de rol solo proporciona un armazón geográfico e institucional muy esquemático. Por tanto, rigen los siguientes principios inquebrantables:
-
-1. **Los Jugadores Crean sus Propios Pasados y Relaciones:**
-   - Benray, Triel, Marloc, Axel 42 y Gerty no son personajes pregenerados de Paizo ni siguen sus esquemas. Sus biografías, traumas, familias biológicas, clanes y motivos personales proceden exclusivamente de lo que los jugadores (**Miguel, Irene, Juan Pablo, Sofía**) y **Roberto** expresan en las sesiones de juego.
-2. **Roberto (el GM) Introduce Tramas Adicionales y Sustituye Facciones:**
-   - El director de juego ha enriquecido profundamente la campaña introduciendo arcos originales que no existen en la aventura de Paizo: la sustitución de la Sociedad Starfinder y su líder por **Inversiones Estelares S.C.** y **Chiskisk**; la sustitución del PNJ del manual por **Marlene Boosmar** (investigadora del Arcanamirium asociada a Inversiones Estelares y casada con Ángela); el enigma multiversal de **Ambrose Boosmar** y la esfera rúnica dorada; la «unidad hermana» de Axel **Null-9** y la resistencia sintética; la estrella del rock espacial **Syd Velch** y sus mensajes proféticos; los goblins espaciales **Willy y Naru** obteniendo visados diplomáticos de Eox; la dinámica de fricción y humor entre la tripulación (especialmente Benray) y el **Oficial León** de los Protectores; o la búsqueda del padre biológico de Triel (**Keiden Ashton**). Estas subtramas y cambios de facción son **canon primordial absoluto**.
-3. **Prohibición Terminante de Suposiciones No Mencionadas en el Podcast:**
-   - **Cero extrapolaciones no confirmadas:** Queda terminantemente prohibido inventar o dar por sentadas relaciones familiares, vínculos afectivos o románticos, filiaciones a facciones o hechos del pasado que no hayan sido verbalizados explícitamente en el audio del podcast o en sus transcripciones limpias.
-   - **Suposiciones de PNJs en la mesa:** Si un personaje no jugador (o incluso un jugador) plantea una hipótesis o malentendido durante la partida (por ejemplo, cuando el intermediario Chic asume que Marloc es «el hermano de Marlene» debido a la coincidencia de apellido y físico), la novelización DEBE narrarlo estrictamente como lo que fue: una suposición no contrastada de un PNJ, y reflejar la respuesta real del protagonista (Marloc negando tajantemente tener hermanas). **Bajo ningún concepto el narrador omnisciente debe convertir en verdad fáctica lo que en la mesa fue una especulación o un error de un personaje.**
-   - **Indumentaria y objetos vs. afiliación:** Llevar una prenda o símbolo (como la cazadora con el emblema de los Capitanes Libres que Triel compró de segunda mano en los mercadillos de la Diáspora) NUNCA debe interpretarse como que el personaje perteneció a esa facción o fue pirata, salvo que el jugador o el GM lo afirmen expresamente en el juego.
-4. **Obligación de Registrar e Integrar Todo Detalle Personal Explicado en Mesa:**
-   - Cada revelación sobre el pasado de un personaje (el despertar de Marloc en el aula 17 del Arcanamirium con Ritchie el barathu; la huida de Triel de la xenófoba familia drow de su madre en Apostae y su búsqueda de su padre humano Keiden Ashton; el pasado de esclavitud de Axel y su rescate por Null-9 hace diez años en el Vasto; los vídeos suicidas de Benray en la holored y su clan ysoki) debe ser extraída minuciosamente de las transcripciones e integrada de forma orgánica en la novela y en los dossiers.
-
----
-
-## 4. Instrucción Específica y Prioritaria: Minería Obligatoria de Giros de Personaje, Vida Personal y Relaciones en Transcripciones (Fase Inicial de Cada Volumen)
-
-> 🚨 **REGLA DE ORO EDITORIAL (MÁXIMA PRIORIDAD):**  
-> Cuando se construya o estructure por primera vez la versión de cualquier volumen (o se redacten sus capítulos), **ES OBLIGATORIO Y PRIORITARIO realizar un barrido exhaustivo de minería en las transcripciones limpias del podcast correspondiente**.  
-> Los combates tácticos y la trama prefabricada de Paizo son únicamente el decorado exterior; **el verdadero corazón que enriquece, conmueve y hace evolucionar la saga es la vida personal de los protagonistas, sus traumas, secretos familiares, revelaciones ontológicas y sus complejas relaciones interpersonales**.  
-> **Queda terminantemente prohibido generar o estructurar un volumen basándose únicamente en sinopsis superficiales o módulos de Paizo sin haber extraído primero estos elementos directamente del audio/transcripción de la mesa.**
-
-### A. Los Cuatro Ejes Temáticos Obligatorios de Búsqueda en Transcripciones:
-
-Para cada lote de episodios que componga un nuevo volumen, el agente/redactor DEBE ejecutar búsquedas específicas (`grep_search` o scripts) para identificar e integrar obligatoriamente:
-
-1. **Giros Argumentales y Revelaciones Mayores (Plot Twists de Mesa):**
-   - Revelaciones sobre el origen, la naturaleza de la realidad o dilemas morales creados por el GM y los jugadores.
-   - *Ejemplos canónicos clave:*
-     - **Gerty y Kairos (Vol. 16, Ep. 201; Vol. 17):** El sacrificio de la memoria de Gerty por Triel para descargar el alma de Kairos (SRO del casino), alterando para siempre la voz y personalidad del dron.
-     - **Sambert Klamburg e Inversiones Estelares (Vol. 9, Ep. 106):** El anagrama descubierto por Triel que revela que la corporación fue fundada por un Marloc del futuro para darles una «segunda oportunidad».
-     - **A.Xel como la Forja Viviente (Vol. 18-19, Ep. 233, 246):** El descubrimiento de que el chasis de Axel albergó a Ashera y es la Forja viviente capaz de reproducir androides, desatando el rencor de Null-9.
-
-2. **Vida Personal, Familias y Linajes Biológicos/Sintéticos:**
-   - Padres, madres, cónyuges, hijos, hermanos, antepasados y lazos de sangre o código.
-   - *Triel Istrav:* Su padre humano Keiden Ashton (nave de Besmara), su hermanastra rival Jhidel, su madre drow y su abuela Alistrav en Apostae.
-   - *Marloc Boosmar:* El duelo y amor por su difunta esposa Clara/Ángela; el reencuentro en Castrovel y el Casino con la nueva Ángela; el enigma de su padre Ambrose Boosmar.
-   - *A.Xel 42:* Las encarnaciones previas de su chasis (Ashera); sus «hijas» y descendientes androides directos (Jennifer/Miseria, los gemelos 9S, Panquecito y Null-9).
-   - *Benray Galway:* La genealogía del clan ysoki Galway (su primo Rim Rey, tíos y parientes en *La Galway* como Yolmar, Valentina, Gazit, Rinrey).
-
-3. **Relaciones Interpersonales y Dinámicas de la Tripulación:**
-   - Vínculos afectivos, lealtades incondicionales, romances canónicos y tensiones íntimas.
-   - *Romance canónico:* Triel y el Oficial León Holden de los Protectores (mensajes etílicos, llamadas a distancia, despedidas íntimas, citas confirmadas).
-   - *Lealtades fraternas:* La devoción de Benray hacia su primo Rim Rey; el afecto maternal/sororal de Axel hacia los androides; el respeto protector de la tripulación hacia Gerty/Kairos.
-   - *Despedidas y relevos:* La decisión de Marloc de quedarse con Ángela en el asteroide (Ep. 135) y la bienvenida al operativo enano Zivok.
-
-4. **Traumas, Fobias y Cicatrices Psicológicas:**
-   - Las vulnerabilidades que humanizan a los héroes: el terror de Triel a los akatas; el miedo pánico de A.Xel a volver a ser esclavizada; el duelo autodestructivo y alcoholismo de Marloc; el terror visceral de Benray hacia los no-muertos y Eox.
-
-### B. Procedimiento Técnico Obligatorio de Minería Previa:
-
-Antes de escribir el primer capítulo de un volumen:
-1. **Barrido de Transcripciones:** Ejecutar búsquedas de términos clave en `transcripciones/limpias/episodio_XX.txt` del volumen:
-   - Términos de parentesco: `padre`, `madre`, `hijo`, `hija`, `esposa`, `familia`, `clan`, `hermana`.
-   - Términos de identidad y secretos: `secreto`, `pasado`, `recuerdo`, `verdad`, `chasis`, `conciencia`, `forja`, `empresa`, `plan`, `futuro`, `dimensión`.
-   - Nombres clave de PNJ vinculados: `Keiden`, `Ángela`, `Ashera`, `Null-9`, `Marlín`, `Ambrose`, `Zivok`, `León`, `Kairos`.
-2. **Traslado Obligatorio al `GLOSARIO_Y_PERSONAJES.md` del Volumen:**
-   - Crear o actualizar las fichas biográficas con los nuevos descubrimientos de vida personal y giros del volumen.
-3. **Fijación en las Plantillas de Capítulos (`novela/capitulos/`):**
-   - En cada capítulo donde ocurra una revelación o momento íntimo, incorporar un bloque de cabecera:
-     ```markdown
-     ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-     [Detallar el giro de personaje, la conversación familiar o el dilema ético exacto extraído de la transcripción]
-     ```
-4. **Preservación en los Planes Globales:**
-   - Reflejar el giro y su impacto en `planificacion_global/PLAN_GLOBAL_SAGA_Y_ESPECIALES.md` y `PLAN_DETALLADO_VOLUMENES_7_A_20.md`.
-
----
-
-## 5. Protocolo de Expansión Continua del Canon, Escenarios y Personajes
-
-A medida que se transcriben y novelizan nuevos lotes de episodios, la saga introduce gradualmente nuevos personajes secundarios recurrentes, escenarios clave, facciones y dinámicas personales (alianzas, lazos familiares, intrigas diplomáticas). Para preservar la coherencia absoluta a lo largo de toda la obra:
-
-### A. Detección Temprana en Transcripciones y Auditoría de Trasfondos
-Antes de redactar los capítulos de un nuevo volumen, realizar una lectura exploratoria exhaustiva de las transcripciones con una lista de control obligatoria:
-1. **Auditoría de Pasado y Referencias Personales:**
-   - Identificar cualquier conversación íntima, diálogo en fiestas, confesión en cabinas o mensaje privado por comunicador donde los protagonistas revelen recuerdos, mentores, naves anteriores, cicatrices o traumas familiares.
-   - Contrastar cada mención familiar para distinguir hechos confirmados por el jugador/GM frente a conjeturas externas de PNJs.
-2. **Detección de Subtramas Originales de Roberto (el GM):**
-   - Registrar cualquier elemento que no pertenezca a la aventura de Paizo (apariciones mediáticas, transmisiones encriptadas de Null-9, enigmas rúnicos, noticias holográficas sobre Syd Velch, diplomáticos no oficiales).
-3. **Nuevos Personajes Recurrentes:**
-   - *Diplomáticos e Instituciones:* Identificar figuras como el **Embajador y su asistente**, registrando su personalidad, especie, intereses políticos y nivel de fricción o alianza con el grupo.
-   - *Fuerzas del Orden y Vínculos Institucionales / Romances Canónicos:* Identificar al oficial de los Protectores (*The Stewards*), el **Capitán / Oficial León Holden**. Registrar su doble dimensión en mesa: por un lado, su exasperación ante las payasadas y guiños de Benray Galway; y por otro, la **relación romántica, picante y clandestina canónica con Triel Stravinski** (iniciada en los Episodios 31-32 mediante mensajes etílicos y una visita de paisano a su hotel, mantenida con miradas en el arbitraje y llamadas de preocupación, y confirmada en la despedida de Absalón y en la cita del Episodio 66). NUNCA atribuir este romance a Axel 42 (quien carece de relaciones románticas con las autoridades y está centrada en Null-9 y la causa androide) ni inventar romances con PNJs que no existan en el podcast.
-   - *Lazos Familiares Reales:* Registrar con precisión los parientes genuinos de cada protagonista (madre drow en Apostae y padre **Keiden Ashton** de Triel; padre Ambrose Boosmar de Marloc; red ysoki y primo Rim Rey de Benray).
-4. **Nuevos Escenarios, Naves y Objetos con Historia:**
-   - Registrar naves adquiridas (*Hippocampus*, *Estrella Errante*), pecios a la deriva, reliquias mágicas u objetos tecnológicos recuperados.
-5. **Pactos, Deudas y Consecuencias Legales:**
-   - Acuerdos con Eox, resoluciones judiciales de arbitraje con Los Protectores, contratos con Inversiones Estelares S.C.
-6. **Supremacía Absoluta del Podcast sobre el Módulo Oficial de Paizo:**
-   - La partida real de *Lasers y Dragones* altera nombres de PNJs (ej. Ferani Nadaz en vez de Krane, Brock Hilario en vez de Jabaxa), modifica afiliaciones institucionales (Inversiones Estelares S.C. en vez de la Sociedad Starfinder), omite o transforma personajes oficiales (Marlene Boosmar en vez de Duravor Kreel) e introduce tramas, misterios y romances completamente originales de Roberto y los jugadores.
-   - **REGLA DE ORO:** NUNCA recurrir a la wiki de Starfinder o a los manuales de Paizo como referencia de hechos, nombres o motivaciones. La única fuente canónica y fidedigna son las transcripciones de audio del podcast.
-7. **Filtro Anti-Corrupción Fonética del STT y Consistencia Inter-Volumen:**
-   - El reconocimiento de voz automático (STT) de YouTube o Whisper confunde con frecuencia nombres propios o anglicismos de Starfinder con palabras españolas fonéticamente similares (ej. *del Drift* -> *del triunfo*, *Aucturn* -> *octurno/autor*).
-   - **Principio Inquebrantable:** NUNCA adoptar un nombre nuevo o alternativo para una entidad, lugar, nave o reliquia que ya haya aparecido en volúmenes anteriores. Ante cualquier duda, verificar siempre contra `Contexto completo/CONTEXTO_COMPLETO_SAGA.md` y [canon_y_personajes.md](./references/canon_y_personajes.md).
-8. **Física del Vacío y Coherencia en Entornos Despresurizados:**
-   - En naves a la deriva despresurizadas, en el vacío del espacio o en asteroides sin atmósfera, los personajes operan bajo soporte vital en escafandras o armaduras con sello ambiental (*second skin* o trajes espaciales).
-   - **Administración de Sueros y Fármacos:** En el vacío NUNCA se abren viales ni se describe a personajes 'bebiendo' o 'oliendo' líquidos (se evaporarían/hervirían instantáneamente al vacío y despresurizarían al usuario). Los sueros curativos se administran mediante inyectores dérmicos (*hyposprays*) acoplados a los puertos médicos sellados de las escafandras.
-   - **Brechas de Traje y Curación:** Los impactos que perforan una armadura en el vacío provocan alarmas de fuga de oxígeno y descompresión. Se resuelven aplicando parches médicos de sellado rápido (*medpatches* presurizados), que obturan la fuga contra el vacío en milésimas de segundo y liberan coagulantes y analgésicos dérmicos.
-   - **Soporte Vital y Consumo de Aire:** Si se describe que una escafandra improvisada tiene autonomía limitada (ej. 10 minutos para un abordaje exterior), debe explicarse siempre la coherencia del soporte vital para estancias prolongadas (ej. adaptación de cartuchos de reciclaje de aire, tanques de oxígeno de repuesto o filtros saqueados de los almacenes de la nave).
-
-### B. Actualización del Canon Maestro Global
-Cada hallazgo debe registrarse de inmediato en [canon_y_personajes.md](./references/canon_y_personajes.md):
-- Añadir la ficha del personaje usando la plantilla oficial (especie, rol, voz, vínculos, estado).
-- Actualizar la tabla de continuidad de la tripulación (nave actual, refugio, estado romántico/emocional y enemigos activos).
-- Fijar la grafía canónica en español e inglés para que ningún capítulo posterior sufra incongruencias ortográficas.
-
-### C. Sincronización del Dossier del Volumen (`GLOSARIO_Y_PERSONAJES.md`)
-Cada volumen (`novela_vol_X/`) debe incluir al final su propio `GLOSARIO_Y_PERSONAJES.md` actualizado:
-- **1. El Escenario:** Incluir tanto Absalón como las nuevas localizaciones exploradas en ese volumen (ej. la nave *Acreon*, la *Roca del Drift*, etc.).
-- **2. Los Protagonistas:** Mantener las fichas actualizadas con su evolución psicológica y de equipo.
-- **3. Personajes Secundarios Clave:** Añadir las nuevas incorporaciones del volumen (el embajador y su asistente, el oficial de los Protectores / interés romántico, familiares de Triel, etc.) reflejando su estado actual al cierre de ese libro.
-- **4. Corporaciones y Facciones:** Incorporar cualquier nuevo consorcio, sindicato o flota estelar que haya intervenido.
-
-### D. Continuidad y Memoria Emocional entre Volúmenes
-- Los sucesos de volúmenes previos deben dejar huella: traumas por tiroteos pasados, bromas recurrentes entre Benray y Gerty, la evolución de la desconfianza hacia la lealtad fraternal, y el florecimiento progresivo del romance entre el protagonista y el oficial de los Protectores a través de miradas, comunicaciones cuánticas a distancia o rescates arriesgados.
-
----
-
-## 5. Estructura de Carpetas del Volumen
-
-Para cada volumen nuevo, crear una carpeta independiente con la siguiente nomenclatura:
+## 2. Estructura Canónica de Carpetas de cada Volumen
 
 ```text
-novela_vol_X/
-├── capitulos/
-│   ├── 00_prologo.md
-│   ├── 01_capitulo_1_...md
-│   ├── ...
-│   └── 10_capitulo_10_...md
-├── GLOSARIO_Y_PERSONAJES.md      # Fichas actualizadas con los nuevos secundarios y lugares
-├── generar_libro_pdf.py          # Script de maquetación y renderizado
-├── README.md                     # Índice de capítulos y enlace al PDF
-└── Lasers_y_Dragones_Volumen_X_Titulo.pdf
+volumen_X/
+├── README.md                      # Ficha técnica, episodios asignados y estado
+├── metadatos/
+│   └── episodios_volumen_X.json  # URLs de Libsyn/YouTube, títulos y sinopsis
+├── transcripciones/
+│   ├── raw/                       # Subtítulos .es.vtt originales de YouTube
+│   └── limpias/                   # Transcripciones depuradas en texto continuo
+└── novela/
+    ├── capitulos/                 # Borradores en Markdown (00_prologo.md, 01_capitulo...md)
+    ├── GLOSARIO_Y_PERSONAJES.md   # Dossier del volumen con secundarios y facciones
+    ├── generar_libro_pdf.py       # Script compilador HTML/CSS a PDF en 2 pases
+    └── Lasers_y_Dragones_Volumen_X_Titulo.pdf
 ```
 
 ---
 
----
+## 3. Las Cuatro Fases de Producción y Skills Especializados
 
-## 6. Maquetación Editorial y Generación del PDF
+El ciclo de vida de un volumen se divide en cuatro fases modulares, cada una respaldada por su skill específico:
 
-Consultar las especificaciones técnicas completas en [estandar_maquetacion_pdf.md](./references/estandar_maquetacion_pdf.md).
-
-### A. Plantilla Estándar y Estricta de Portada Editorial
-Todas las portadas de todos los volúmenes deben ser visualmente idénticas en estructura, proporciones, paleta y jerarquía. Está terminantemente prohibido alterar esta plantilla:
-
-```html
-<!-- 1. PORTADA EDITORIAL HOMOGÉNEA -->
-<div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
-  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
-    Ópera Espacial · Universo Starfinder
-  </p>
-  
-  <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
-  
-  <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
-    LASERS Y DRAGONES
-  </div>
-  
-  <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
-    {TITULO_DEL_VOLUMEN}
-  </div>
-  
-  <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
-  
-  <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
-    ✦ &nbsp; ◈ &nbsp; ✦
-  </div>
-  
-  <p style="font-size: 11pt; line-height: 1.6; color: #4a5568; margin: 30px auto; max-width: 420px; text-indent: 0; text-align: center;">
-    Una adaptación novelada de la campaña oficial <em>Dead Suns</em> (Soles Muertos), inspirada en las sesiones de rol en vivo del podcast <strong>Lasers y Dragones</strong>.
-  </p>
-  
-  <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 50px auto 20px auto;">
-  
-  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 10pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
-    VOLUMEN {ROMANO} · {SUBTITULO_INDICATIVO_NOVELA}
-  </p>
-</div>
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 1. INGESTA Y MINERÍA   ──► Skill: lasers-ingesta-transcripciones
+├─────────────────────────────────────────────────────────────┤
+│ 2. REDACCIÓN Y CANON   ──► Skill: lasers-narrativa-y-canon
+├─────────────────────────────────────────────────────────────┤
+│ 3. MAQUETACIÓN Y PDF   ──► Skill: lasers-maquetacion-pdf
+├─────────────────────────────────────────────────────────────┤
+│ 4. AUDITORÍA Y CIERRE  ──► Checklist Maestro de 10 Puntos
+└─────────────────────────────────────────────────────────────┘
 ```
 
-> ⚠️ **Regla Crítica del Pie de Portada:**
-> El pie de portada debe tener siempre la forma `VOLUMEN [X] · [TÍTULO INDICATIVO DE LA NOVELA/ARCO]` (por ejemplo: `VOLUMEN I · CONSPIRACIÓN EN LA ESPIGA` o `VOLUMEN II · LOS SECRETOS DEL VACÍO`).  
-> **NUNCA** utilizar expresiones técnicas o de podcast como "Los 10 primeros episodios" ni referencias al número de capítulos emitidos.
+### Fase 1: Ingesta, Saneamiento y Minería Temática
+* **Skill activo:** `lasers-ingesta-transcripciones`
+* **Acciones:**
+  1. Descarga de subtítulos con `yt-dlp` en `transcripciones/raw/`.
+  2. Limpieza fonética y de repeticiones con `limpiar_transcripcion.py`.
+  3. **Minería obligatoria de los 4 ejes:** Extraer secretos familiares, parentescos reales, dinámicas de la tripulación y traumas antes de escribir.
 
-### B. Reglas críticas de marcado HTML para LibreOffice:
-1. **Portada:**
-   - Usar contenedores `<div>` con estilos en línea.
-   - **NO utilizar `<h1>` ni `<h2>` en la portada**, para evitar que la portada se convierta en una falsa raíz en el índice de marcadores.
-2. **Capítulos y Secciones Mayores (Nivel 1 de Marcadores):**
-   - Utilizar `<h2 class="chapter-name">{prefix}: <br><span class="chap-sub">{subtitle}</span></h2>`.
-   - **NO utilizar `<h1>`**, ya que el filtro de importación de LibreOffice Writer/Web las ignora en el árbol de navegación.
-3. **Escenas y Subsecciones (Nivel 2 de Marcadores):**
-   - Utilizar `<h3 class="subsection-title">I. Nombre de la Escena</h3>`.
-4. **Glosario (Nivel 2 y 3 de Marcadores):**
-   - Secciones del glosario: `<h3 class="section-title">1. El Escenario</h3>`.
-   - Fichas individuales: `<h4 class="subsection-title">Nombre del Personaje</h4>`.
+### Fase 2: Redacción Literaria y Continuidad
+* **Skill activo:** `lasers-narrativa-y-canon`
+* **Acciones:**
+  1. Transformar las tiradas y combates en prosa fluida de ópera espacial (cero jerga de mesa).
+  2. Aplicar la **inmersión diegética absoluta**: PROHIBIDO usar nombres de jugadores en el texto narrativo; Gerty habla mediante su sintetizador vocal.
+  3. Preservar las personalidades de Benray, Triel, Marloc y Axel, así como la primacía de la partida real sobre Paizo.
+  4. Actualizar el `GLOSARIO_Y_PERSONAJES.md` del volumen.
 
-### C. Compilación y Renderizado Headless:
-```bash
-user_prof="file://$(pwd)/.libreoffice_profile"
-libreoffice -env:UserInstallation=$user_prof --headless --convert-to pdf libro_maquetado.html
-```
+### Fase 3: Maquetación Editorial y Compilación del PDF
+* **Skill activo:** `lasers-maquetacion-pdf`
+* **Acciones:**
+  1. Aplicar la geometría A4 estricta (`size: A4; margin: 25mm 22mm 25mm 22mm;`).
+  2. Configurar la Portada estándar, la Página 2 (Nota Editorial con créditos de mesa y aviso de Paizo) y la Página 3 (Índice de 1 sola página).
+  3. Ejecutar el script `generar_libro_pdf.py` con el algoritmo de doble pase (`pdftotext`) para calcular la paginación real.
+  4. Compilar con LibreOffice en modo headless y verificar visualmente las páginas 1 a 4 con `pdftoppm`.
 
 ---
 
-## 7. Protocolo del Directorio Maestro `Contexto completo/` y Continuidad Global
+## 4. Fase 4: Checklist Maestro de Calidad y Cierre (10 Puntos)
 
-Para asegurar que la historia, la evolución de los personajes y los hilos abiertos se mantengan impecables a lo largo de decenas de episodios, el proyecto cuenta con el directorio maestro `Contexto completo/`:
+Antes de dar por cerrado cualquier volumen, es preceptivo verificar los 10 puntos de control:
 
-```text
-Contexto completo/
-├── CONTEXTO_COMPLETO_SAGA.md          # Resumen acumulativo y dossier unificado con referencias a volúmenes
-├── generar_contexto_pdf.py            # Compilador HTML/CSS a PDF para LibreOffice
-└── Contexto_Completo_Lasers_y_Dragones.pdf  # Libro de referencia editorial en PDF
-```
-
-### Ciclo de Mantenimiento Obligatorio en Cada Nuevo Volumen:
-
-1. **Antes de Novelizar (Lectura de Referencia):**
-   - Consultar `Contexto completo/CONTEXTO_COMPLETO_SAGA.md` para refrescar el estado emocional de los protagonistas, el inventario y mejoras de Gerty (ej. 4 brazos tras el Vol. 2), el estado romántico (romance canónico entre Triel y el Oficial León), la nave activa (*Hippocampus*) y los aliados que viajan con el grupo (Willy y Naru).
-2. **Durante la Novelización:**
-   - Mantener la fidelidad absoluta a las personalidades, términos y precedentes narrativos ya establecidos.
-3. **Al Culminar un Volumen (Actualización y Recompilación):**
-   - **Añadir el Resumen del Nuevo Volumen:** Sintetizar los acontecimientos clave y el clímax en la Parte I.
-   - **Actualizar Etiquetas de Presencia:** En cada escenario, personaje o facción que vuelva a aparecer, añadir el volumen a su campo de aparición: `[Aparece en: Volumen 1, Volumen 2, ...]`.
-   - **Registrar Nuevas Entradas:** Añadir los nuevos NPCs, planetas, pecios, bestias o gremios descubiertos en ese volumen.
-   - **Recompilar el PDF de Contexto:** Ejecutar `python3 "Contexto completo/generar_contexto_pdf.py"` para mantener al día el PDF para lectura del usuario y del agente.
-
----
-
-## 8. Verificación de Calidad
-
-Tras compilar cada volumen:
-1. **Comprobación de Marcadores:** Ejecutar una inspección de los objetos `/Title` del PDF para verificar que todos los capítulos aparecen en el Nivel 1.
-2. **Concordancia de Páginas:** Revisar que el número de página indicado para cada capítulo en la tabla del **Índice de Contenidos** coincide exactamente con la página física del PDF.
-3. **Revisión Textual:** Comprobar la ortografía de los nombres canónicos (**Rim Rey**, **Chiskisk**, **Extracciones Estelares**, **Inversiones Estelares S.C.**, **Gevalarsk Nor**, **Keltus**, **Oficial León**, **Willy**, **Naru**, **Null-9**, **Syd Velch**, **Ambrose Boosmar**).
-4. **Actualización de Contexto Completo:** Verificar que el archivo `Contexto completo/CONTEXTO_COMPLETO_SAGA.md` y su respectivo PDF hayan sido actualizados.
-5. **Filtro Anti-Suposiciones y Verificación de Trasfondos:**
-   - Comprobar rigurosamente que el texto no contenga afirmaciones de parentesco, afiliaciones o eventos pasados inventados o deducidos sin respaldo en el podcast (ej. no llamar a Marlene «hermana de Marloc», no calificar a Triel de «corsaria o pirata»).
-   - Verificar que todas las referencias personales, subtramas del GM y recuerdos genuinos expresados por los jugadores y por Roberto en ese lote de episodios hayan quedado reflejados con fidelidad en la novela y en los glosarios.
-6. **Auditoría Sistemática Obligatoria contra Transcripciones del Podcast (Canon vs. Paizo):**
-   - Antes de dar por finalizado cualquier volumen, realizar un barrido cruzado capítulo por capítulo frente a las transcripciones limpias del lote correspondiente (`transcripciones/limpias/episodio_XX.txt`).
-   - **Cero Fugas de Paizo:** Comprobar rigurosamente que NINGÚN nombre, PNJ genérico o resolución del módulo impreso de Paizo haya suplantado a la partida real (ej. jamás usar «Kreel» por Marlene, ni «Ferani Krane» por Ferani Nadaz, ni «Jabaxa» por Brock Hilario, ni «Sunrise Maiden» por Estrella Errante, ni «Sociedad Starfinder» / «Lorexpe» por Inversiones Estelares S.C.).
-   - **Protagonistas Exactos de Cada Encuentro:** Verificar quiénes participaron realmente en cada escena en el audio (ej. quién se sienta a la mesa de juego, quién realiza el engaño, quién habla con un PNJ), sin trasladar artificialmente acciones de unos personajes a otros.
-   - **Fidelidad Textual a Pistas y Documentos:** Las notas en datapads, cartas o mensajes de comunicador dictados por Roberto deben reproducir su tenor literal exacto (ej. nota de Clara-247: *«Triel Istrav: para herir, no matar, es un drow»*).
-   - **Integración de Escenas y Rituales Canónicos:** No omitir celebraciones, rituales de luto o anécdotas de la mesa (ej. el brindis en el bar *El Pulmón Negro* ante las fotos de Marlene y Amelie, o el mote y hazaña de Brock Hilario arrancando un portón con sus manos).
-7. **Auditoría de Consistencia Inter-Volumen y Barrido Anti-Alucinaciones Fonéticas:**
-   - **Búsqueda activa de patrones corruptos:** Ejecutar búsquedas grep para certificar que ninguna alucinación fonética del STT se haya colado en los capítulos, glosarios o resúmenes (ej. buscar `Piedra del Triunfo`, `deriva`, `Ring Rey`, `Krane`, `Kreel`, `Sociedad Starfinder`).
-   - **Cotejo Terminológico con Volúmenes Anteriores:** Contrastar el nuevo `GLOSARIO_Y_PERSONAJES.md` y los capítulos redactados con los glosarios de volúmenes previos y con `Contexto completo/CONTEXTO_COMPLETO_SAGA.md`. La toponimia (ej. *Roca del Drift*, *Estación Absalón*, *Qabarat*, *Ukulam*), las naves (*Estrella Errante*, *Acreon*, *Hippocampus*) y las reliquias pre-Brecha deben mantener una denominación 100% idéntica y homogénea a lo largo de toda la saga.
-8. **Inclusión Obligatoria del Aviso de Política de Uso Comunitario de Paizo y Atribución a Lasers y Dragones:**
-   - En la **Nota Editorial e Introducción** (o página de créditos inicial) de cada volumen, así como en el compendio de *Contexto Completo*, es preceptivo incorporar el descargo de responsabilidad oficial de la *Política de Uso Comunitario de Paizo Inc.* ([paizo.com/communityuse](https://paizo.com/communityuse)) y el tributo explícito a la mesa de juego de *Lasers y Dragones* (Roberto, Miguel, Irene, Juan Pablo y Sofía), garantizando la condición de obra no oficial, de difusión cultural y estrictamente gratuita para la comunidad rolera.
-9. **Auditoría Obligatoria de Giros de Personaje, Vínculos Familiares y Emocionales (Fase de Cierre):**
-   - Certificar que todos los giros argumentales y secretos descubiertos en la minería previa (Fase 0 de la Sección 4) están plenamente integrados y desarrollados en los capítulos del volumen.
-   - Verificar que no se haya omitido ningún dato de la vida personal, linaje biológico/sintético, revelaciones de identidad o relaciones interpersonales (ej. momentos de vulnerabilidad, romances canónicos, alianzas de hermandad, traumas, secretos del pasado de la tripulación).
-   - Comprobar que en el `GLOSARIO_Y_PERSONAJES.md` del volumen y en `Contexto completo/` queden reflejados con precisión estos avances narrativos.
-
-
+1. **Marcadores PDF:** Todos los capítulos y preliminares deben figurar en el Nivel 1 en el panel de marcadores de LibreOffice (usar `<h2 class="chapter-name">`, nunca `<h1>`).
+2. **Concordancia de Páginas:** La página física del PDF donde empieza cada capítulo debe coincidir con el número impreso en el Índice de Contenidos.
+3. **Índice en 1 sola página:** La tabla del índice no debe desbordarse hacia la página 4.
+4. **Inmersión Diegética (Barrido Anti-Fugas de Nombres de Jugadores):**
+   ```bash
+   grep -rnEi "\b(Roberto|Juan Pablo|Juanpa|Sofía|Sofia|Irene|Miguel)\b" novela/capitulos/*.md --exclude="00_nota_editorial.md"
+   ```
+   *(Cero coincidencias en la narrativa de los capítulos).*
+5. **Barrido Anti-Alucinaciones Fonéticas del STT:**
+   ```bash
+   grep -rnEi "\b(piedra del triunfo|deriva|Ring Rey|Kreel|Ferani Krane|Sociedad Starfinder)\b" novela/capitulos/*.md
+   ```
+   *(Cero coincidencias).*
+6. **Fidelidad Canónica a la Mesa:** Cero extrapolaciones no confirmadas (ej. no llamar a Marlene «hermana de Marloc», no llamar a Triel «corsaria»).
+7. **Integración de Giros y Vidas Personales:** Todos los datos familiares y emocionales descubiertos en la minería deben estar reflejados en los capítulos y en el glosario.
+8. **Inclusión de Descargos Legales:** Presencia obligatoria del Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución en la Nota Editorial.
+9. **Sincronización del Compendio Maestro:** Resumir el volumen en `Contexto completo/CONTEXTO_COMPLETO_SAGA.md` y actualizar las etiquetas de aparición de personajes y facciones.
+10. **Recompilación de Contexto Completo:** Ejecutar `python3 "Contexto completo/generar_contexto_pdf.py"` para mantener al día el libro maestro de la saga.

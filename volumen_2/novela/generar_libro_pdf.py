@@ -2,7 +2,8 @@
 """
 Compilador y maquetador de la novela 'Lasers y Dragones: El Misterio del Acreon' (Volumen 2)
 Genera un documento HTML con estilos editoriales de libro y lo convierte a PDF
-siguiendo las directrices técnicas del skill para garantizar marcadores PDF correctos.
+siguiendo las directrices técnicas del skill para garantizar marcadores PDF correctos
+y paginación real extraída en 2 pases mediante pdftotext.
 """
 
 import os
@@ -14,6 +15,100 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CAPS_DIR = os.path.join(BASE_DIR, "capitulos")
 PDF_OUTPUT = os.path.join(BASE_DIR, "Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf")
 HTML_OUTPUT = os.path.join(BASE_DIR, "libro_maquetado.html")
+
+# Metadata de capítulos para el índice
+TOC_ITEMS = [
+    {
+        "id": "nota_editorial",
+        "search_key": "Nota Editorial e Introducción",
+        "title": "Nota Editorial e Introducción",
+        "sub": "Contexto y créditos del podcast original"
+    },
+    {
+        "id": "prologo",
+        "search_key": "Prólogo: El Eco del Nivel 21",
+        "title": "Prólogo: El Eco del Nivel 21",
+        "sub": "Las secuelas del Club Fusión y la calma aparente"
+    },
+    {
+        "id": "cap_11",
+        "search_key": "Capítulo 11: Desayuno para Llevar",
+        "title": "Capítulo 11: Desayuno para Llevar",
+        "sub": "Basado en el Episodio 11 · Persecución en los bulevares del Ojo y el combate del robot pesado"
+    },
+    {
+        "id": "cap_12",
+        "search_key": "Capítulo 12: Asesoría y Arbitraje",
+        "title": "Capítulo 12: Asesoría y Arbitraje",
+        "sub": "Basado en el Episodio 12 · Las cláusulas de Kaerom, cuatro brazos para Gerty y la reunión de Chiskisk"
+    },
+    {
+        "id": "cap_13",
+        "search_key": "Capítulo 13: El Saber del Arcanamirium",
+        "title": "Capítulo 13: El Saber del Arcanamirium",
+        "sub": "Basado en el Episodio 13 · Infiltración en la academia, la taberna minera y la despedida de Eclair"
+    },
+    {
+        "id": "cap_14",
+        "search_key": "Capítulo 14: Pacto con la Cripta",
+        "title": "Capítulo 14: Pacto con la Cripta",
+        "sub": "Basado en el Episodio 14 · Audiencia con Gevalarsk Nor, Keltus y la encomienda diplomática"
+    },
+    {
+        "id": "cap_15",
+        "search_key": "Capítulo 15: Carnitas y Despedidas",
+        "title": "Capítulo 15: Carnitas y Despedidas",
+        "sub": "Basado en el Episodio 15 · El clan Galway, la motoneta vespacial y el maletín de Marcellus"
+    },
+    {
+        "id": "cap_16",
+        "search_key": "Capítulo 16: El Caballito de Mar",
+        "title": "Capítulo 16: El Caballito de Mar",
+        "sub": "Basado en el Episodio 16 · Despedida en el Muelle 12, el capitán Otal Seris y la nave Hippocampus"
+    },
+    {
+        "id": "cap_17",
+        "search_key": "Capítulo 17: Insinuación Mortal",
+        "title": "Capítulo 17: Insinuación Mortal",
+        "sub": "Basado en el Episodio 17 · Batalla espacial contra Clara 247, fuego en el vacío y choque en la roca"
+    },
+    {
+        "id": "cap_18",
+        "search_key": "Capítulo 18: Aka-Ta: El Horror en el Hangar",
+        "title": "Capítulo 18: Aka-Ta: El Horror en el Hangar",
+        "sub": "Basado en el Episodio 18 · Abordaje en gravedad cero, el botín de noqual y el génesis de la salmuera"
+    },
+    {
+        "id": "cap_19",
+        "search_key": "Capítulo 19: Hasta la Cocina: Los Restos del Pasado",
+        "title": "Capítulo 19: Hasta la Cocina: Los Restos del Pasado",
+        "sub": "Basado en el Episodio 19 · Emboscada en la penumbra, química de supervivencia y el conjuro de alto"
+    },
+    {
+        "id": "cap_20",
+        "search_key": "Capítulo 20: Amigoblins del Espacio",
+        "title": "Capítulo 20: Amigoblins del Espacio",
+        "sub": "Basado en el Episodio 20 · Willy, Naru, los cuadernos de Olier y la trampa del almacén"
+    },
+    {
+        "id": "cap_21",
+        "search_key": "Capítulo 21: Cajas Vemos, Contenidos no Sabemos",
+        "title": "Capítulo 21: Cajas Vemos, Contenidos no Sabemos",
+        "sub": "Basado en el Episodio 21 · El sarcófago de Eox, el asalto al puente de mando y la lista de los terrores"
+    },
+    {
+        "id": "cap_22",
+        "search_key": "Capítulo 22: ¿Cuál Noqual?: El Destino del Acreon",
+        "title": "Capítulo 22: ¿Cuál Noqual?: El Destino del Acreon",
+        "sub": "Basado en el Episodio 22 · Bitácoras de Elba Sohar, la Muerte del Abismo y el descenso a la Roca"
+    },
+    {
+        "id": "anexo",
+        "search_key": "Anexo Especial: Dossier de Personajes y Glosario",
+        "title": "Anexo Especial: Dossier de Personajes y Glosario",
+        "sub": "Facciones, Eox, Protectores, Goblins del Acreon y Bestiario"
+    }
+]
 
 def md_to_html(text, is_glossary=False):
     lines = text.strip().split("\n")
@@ -95,9 +190,10 @@ def inline_formatting(text):
     text = re.sub(r"`([^`]+)`", r"<code>\1</code>", text)
     return text
 
-def build_book():
-    print("Compilando capítulos de la novela (Volumen 2)...")
-    
+def generate_html(page_numbers=None):
+    if page_numbers is None:
+        page_numbers = {}
+
     chapter_files = sorted(glob.glob(os.path.join(CAPS_DIR, "*.md")))
     chapters_data = []
     
@@ -122,6 +218,21 @@ def build_book():
             glossary_raw = fp.read()
             remaining_glossary = "\n".join(glossary_raw.strip().split("\n")[1:])
             glossary_html = md_to_html(remaining_glossary, is_glossary=True)
+
+    # Generar filas del índice con números de página
+    toc_rows = []
+    for item in TOC_ITEMS:
+        p_num = page_numbers.get(item["id"], "")
+        p_str = str(p_num) if p_num else ""
+        row = f"""    <tr>
+      <td>
+        <div class="toc-title">{item['title']}</div>
+        <div class="toc-sub">{item['sub']}</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">{p_str}</td>
+    </tr>"""
+        toc_rows.append(row)
+    toc_table_html = "\n".join(toc_rows)
 
     html_doc = f"""<!DOCTYPE html>
 <html lang="es">
@@ -156,17 +267,18 @@ def build_book():
     break-before: page;
   }}
 
-  /* Índice de contenidos */
+  /* Índice de contenidos compacto según skill editorial */
   .toc-table {{
     width: 100%;
     border-collapse: collapse;
-    margin: 25px 0;
+    margin: 4px 0;
   }}
   
   .toc-table td {{
-    padding: 7px 4px;
+    padding: 2px 3px;
     border-bottom: 1px dotted #cbd5e0;
-    font-size: 10.5pt;
+    font-size: 8.8pt;
+    line-height: 1.15;
   }}
   
   .toc-title {{
@@ -175,9 +287,10 @@ def build_book():
   }}
   
   .toc-sub {{
-    font-size: 9.2pt;
+    font-size: 7.8pt;
     color: #718096;
     font-style: italic;
+    line-height: 1.1;
   }}
   
   /* Título de Capítulo con salto de página infalible en LibreOffice */
@@ -318,7 +431,7 @@ def build_book():
       <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benray Galway <em>(Emisario Ysoki)</em>
     </p>
     <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
-      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa)</em>
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante Humano)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
     </p>
     <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
   </div>
@@ -345,111 +458,7 @@ def build_book():
   <h2 class="section-heading-main">Índice de Contenidos</h2>
   
   <table class="toc-table">
-    <tr>
-      <td>
-        <div class="toc-title">Nota Editorial e Introducción</div>
-        <div class="toc-sub">Contexto y créditos del podcast original</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Prólogo: El Eco del Nivel 21</div>
-        <div class="toc-sub">Las secuelas del Club Fusión y la calma aparente</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 11: Desayuno para Llevar</div>
-        <div class="toc-sub">Basado en el Episodio 11 · Persecución en los bulevares del Ojo</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">5</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 12: Asesoría y Arbitraje</div>
-        <div class="toc-sub">Basado en el Episodio 12 · Las cláusulas de Kaerom y cuatro brazos para Gerty</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">11</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 13: El Saber del Arcanamirium</div>
-        <div class="toc-sub">Basado en el Episodio 13 · Infiltración en la academia y el expediente de Marlene</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">16</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 14: Pacto con la Cripta</div>
-        <div class="toc-sub">Basado en el Episodio 14 · Audiencia con Gevalarsk Nor y Keltus</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">22</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 15: Carnitas y Despedidas</div>
-        <div class="toc-sub">Basado en el Episodio 15 · El clan Galway, Rim Rey y la motoneta vespacial</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">27</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 16: El Caballito de Mar</div>
-        <div class="toc-sub">Basado en el Episodio 16 · El capitán Otal Seris y la nave Hippocampus</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">33</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 17: Insinuación Mortal</div>
-        <div class="toc-sub">Basado en el Episodio 17 · Travesía orbital y primer avistamiento del Acreon</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">37</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 18: Aka-Ta: El Horror en el Hangar</div>
-        <div class="toc-sub">Basado en el Episodio 18 · Abordaje en gravedad cero y combate en penumbra</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">40</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 19: Hasta la Cocina: Los Restos del Pasado</div>
-        <div class="toc-sub">Basado en el Episodio 19 · Pasillos helados y las fórmulas del ingeniero Olier</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">44</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 20: Amigoblins del Espacio</div>
-        <div class="toc-sub">Basado en el Episodio 20 · Willy, Naru y la alianza de la chatarra</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">47</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 21: Cajas Vemos, Contenidos no Sabemos</div>
-        <div class="toc-sub">Basado en el Episodio 21 · Bodegas de carga y el sarcófago de Eox</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">51</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 22: ¿Cuál Noqual?: El Destino del Acreon</div>
-        <div class="toc-sub">Basado en el Episodio 22 · Bitácoras de Elba Sohar, el oficial León y el umbral de la Roca</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">54</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
-        <div class="toc-sub">Facciones, Eox, Protectores, Goblins del Acreon y Bestiario</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">58</td>
-    </tr>
+{toc_table_html}
   </table>
 """
 
@@ -484,10 +493,9 @@ def build_book():
 
     with open(HTML_OUTPUT, "w", encoding="utf-8") as fp:
         fp.write(html_doc)
-    print(f"Documento HTML consolidado creado en: {HTML_OUTPUT}")
-    
-    # Conversión a PDF mediante LibreOffice
-    print("Iniciando renderizado de PDF con LibreOffice...")
+    return HTML_OUTPUT
+
+def run_libreoffice():
     user_prof = f"file://{os.path.join(BASE_DIR, '.libreoffice_profile')}"
     cmd = [
         "libreoffice",
@@ -497,21 +505,83 @@ def build_book():
         "pdf",
         HTML_OUTPUT
     ]
-    
     res = subprocess.run(cmd, cwd=BASE_DIR, capture_output=True, text=True)
-    if res.returncode == 0:
-        gen_pdf = os.path.join(BASE_DIR, "libro_maquetado.pdf")
-        if os.path.exists(gen_pdf):
-            if os.path.exists(PDF_OUTPUT):
-                os.remove(PDF_OUTPUT)
-            os.rename(gen_pdf, PDF_OUTPUT)
-            print(f"¡PDF generado con éxito en:\n  {PDF_OUTPUT}")
-            size_mb = os.path.getsize(PDF_OUTPUT) / (1024 * 1024)
-            print(f"Tamaño del archivo: {size_mb:.2f} MB")
-        else:
-            print("Aviso: No se encontró el archivo PDF generado automáticamente.")
-    else:
-        print(f"Error al generar PDF: {res.stderr}")
+    if res.returncode != 0:
+        raise RuntimeError(f"Error al compilar con LibreOffice: {res.stderr}")
+    gen_pdf = os.path.join(BASE_DIR, "libro_maquetado.pdf")
+    if os.path.exists(gen_pdf):
+        if os.path.exists(PDF_OUTPUT):
+            os.remove(PDF_OUTPUT)
+        os.rename(gen_pdf, PDF_OUTPUT)
+    return PDF_OUTPUT
+
+def extract_page_numbers_from_pdf(pdf_path):
+    """
+    Usa pdftotext para encontrar en qué página física aparece cada h2.chapter-name
+    evitando falsos positivos dentro de la propia tabla del índice de contenidos.
+    """
+    res = subprocess.run(["pdftotext", pdf_path, "-"], capture_output=True, text=True)
+    pages = res.stdout.split("\x0c") # Form feed separa páginas
+    
+    found_pages = {}
+    
+    # Nota Editorial siempre está antes del índice (página 2)
+    for idx, page_text in enumerate(pages[:3]):
+        if "nota editorial e introducción" in page_text.lower():
+            found_pages["nota_editorial"] = idx + 1
+            break
+            
+    # Para el resto de capítulos y anexo, buscamos desde la página donde terminan los preliminares
+    # buscando que el título aparezca en el encabezado de la página (primeras 6 líneas)
+    for item in TOC_ITEMS:
+        if item["id"] == "nota_editorial":
+            continue
+        key = item["search_key"].lower()
+        for idx in range(3, len(pages)):
+            lines = [l.strip() for l in pages[idx].split("\n") if l.strip()][:6]
+            header_text = " ".join(lines).lower()
+            if key in header_text:
+                found_pages[item["id"]] = idx + 1
+                break
+                
+    # Fallback si alguno no fue detectado en las primeras líneas
+    for item in TOC_ITEMS:
+        if item["id"] not in found_pages:
+            key = item["search_key"].lower()
+            for idx in range(3, len(pages)):
+                if key in pages[idx].lower():
+                    found_pages[item["id"]] = idx + 1
+                    break
+                    
+    return found_pages
+
+def build_book():
+    print("=== Compilación de Volumen 2: El Misterio del Acreon ===")
+    
+    # Pase 1: Generación preliminar para calcular páginas reales
+    print("Paso 1: Generando HTML preliminar...")
+    generate_html()
+    print("Paso 2: Compilando PDF preliminar con LibreOffice...")
+    run_libreoffice()
+    
+    print("Paso 3: Extrayendo paginación real de capítulos con pdftotext...")
+    pages = extract_page_numbers_from_pdf(PDF_OUTPUT)
+    print("Páginas detectadas:")
+    for item in TOC_ITEMS:
+        print(f"  - {item['title']}: pág. {pages.get(item['id'], '??')}")
+        
+    # Pase 2: Regeneración con la tabla de contenidos exacta
+    print("Paso 4: Regenerando HTML con el Índice de Contenidos final...")
+    generate_html(page_numbers=pages)
+    
+    print("Paso 5: Compilación final del PDF...")
+    final_pdf = run_libreoffice()
+    
+    # Validación final de tamaño
+    size_mb = os.path.getsize(final_pdf) / (1024 * 1024)
+    print(f"\n¡Libro Volumen 2 generado con éxito!")
+    print(f"Ruta: {final_pdf}")
+    print(f"Tamaño: {size_mb:.2f} MB")
 
 if __name__ == "__main__":
     build_book()

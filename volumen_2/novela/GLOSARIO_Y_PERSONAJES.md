@@ -138,3 +138,26 @@ Célebre y aclamado vocalista de los Mundos del Pacto cuya música sacude las on
 ### Señorita George (*Ms. George / Ms. Joss*)
 *Representante legal, jefa de relaciones institucionales y portavoz de Extracciones Estelares*  
 Ejecutiva lashunta de porte distinguido, piel de una suave tonalidad ambarina, largas antenas atentas y peinado estricto. Viste trajes ejecutivos de corte impecable y lleva un visor de datos cuántico con auricular en la sien. Fría, calculadora y dotada de una cortesía pasivo-agresiva consumada, representa los intereses de la poderosa corporación minera frente al Consejo de Absalón y el Colectivo Hardscrabble. En este volumen convoca a la tripulación en los rascacielos de cristal azul de El Ojo para someterlos a un vídeo propagandístico institucional, justificar la propiedad corporativa de la Roca del Drift bajo la doctrina de prospección comercial y regalarles una cómica cesta de bienvenida con jabones aromáticos, cremas hidratantes y pases de cine válidos únicamente para los jueves. Reaparecerá en el Volumen 3 como la feroz oponente legal del grupo en el juicio de arbitraje.
+
+### Clara 247 (*Clara-247*)
+*Piloto mercenaria androide y corsaria corporativa*  
+Androide de porte atlético, cabello corto peinado en punta y mirada descarada. Antigua piloto reclutada secretamente por Extracciones Estelares a través de las listas de Marlene Boosmar. Conoce a Triel en los simuladores de vuelo virtual de la taberna minera de la Espiga, donde coquetea abiertamente con ella. Más adelante pilota la corbeta corsaria *Insinuación Mortal* (*Lesser Notion*) con la que tiende una emboscada espacial a los protagonistas tras abandonar la Armada Flotante. Tras un feroz duelo en el vacío, su nave es derribada por el *Hippocampus* y se estrella violentamente en una garganta profunda de la Roca del Drift, donde reaparecerá como antagonista en el Volumen 3.
+
+---
+
+## 10. La Comunidad Androide y la Espiga
+
+### Eclair 210
+*Minero veterano y líder espiritual androide*  
+Androide anciano de chasis desgastado por décadas de trabajo forzado en los asteroides. Amigo íntimo de Axel 42 desde los tiempos de la liberación minera de Null-9. En la taberna minera de la Espiga comparte un emotivo reencuentro con Axel y anuncia su decisión voluntaria de someterse al proceso de Renovación (*Renewal*): liberar su alma trascendida para ceder su cuerpo biológico-sintético a una nueva conciencia androide. Su serenidad y sabiduría espiritual representan la faceta más noble y comunitaria de la causa androide en Absalón.
+
+---
+
+## 11. Bestiario y Amenazas del Vacío
+
+### Los Akatas (*Aka-Ta*)
+Depredadores del vacío profundo originarios de cometas y asteroides errantes. Criaturas cuadrúpedas de piel pétrea y azulada, sin ojos visibles pero dotadas de cuatro tentáculos sensoriales y mandíbulas devastadoras de colmillos cristalinos. Son organismos xerófilos extremos: sobreviven siglos en animación suspendida dentro de crisálidas formadas por Noqual (starmetal), pero sufren una debilidad mortal ante el agua y la sal, cuyo choque osmótico disuelve sus tejidos como ácido.
+
+### La Muerte del Abismo (*Void Death*)
+Infección parasitaria transmitida por la mordedura de los Akatas a organismos vivos. Las larvas azuladas inoculadas en la saliva del monstruo colonizan el torrente sanguíneo de la víctima, provocando fiebre intensa, palidez, temblores y debilidad muscular progresiva. Si la enfermedad no es tratada o erradicada a tiempo, devora la conciencia del huésped y, tras la muerte clínica, reanima el cadáver como un zombi del vacío (*void zombie*) dentro del cual eclosiona un nuevo ejemplar de Akata.
+

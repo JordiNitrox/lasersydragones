@@ -5,20 +5,26 @@ Este directorio funciona como la **Única Fuente de Verdad** (*Single Source of 
 
 ---
 
-## 📕 Documentos Disponibles
+## 📕 Documentos y Estructura Modular
 
-1. **[CONTEXTO_COMPLETO_SAGA.md](CONTEXTO_COMPLETO_SAGA.md)**:
-   Documento maestro en Markdown que consolida:
-   - Resumen cronológico y canónico de los **Volúmenes 1 al 6** (Episodios 1 al 72: desde la llegada a Absalón hasta el salto al Drift hacia la Diáspora).
-   - Índice maestro de todos los escenarios y ubicaciones con indicación explícita de aparición en volúmenes (`[Aparece en: ...]`).
-   - Dossier exhaustivo de personajes protagonistas y secundarios con sus arcos, armas, evoluciones y estado actual.
-   - Directorio de corporaciones, facciones galácticas, bestiario cósmico y matriz de continuidad comparativa.
+Para facilitar la lectura, edición y mantenimiento independiente sin manipular un único archivo masivo, el contexto completo está organizado de forma modular en la carpeta [`secciones/`](secciones/):
 
-2. **[Descargar PDF Editorial (46 Páginas)](Contexto_Completo_Lasers_y_Dragones.pdf)**:
-   Versión maquetada con la misma portada y diseño tipográfico de las novelas, ideal para una lectura cómoda y rápida de toda la historia acumulada.
+1. **Estructura Modular (`secciones/`):**
+   - **[`01_resumen_cronologico_volumenes.md`](secciones/01_resumen_cronologico_volumenes.md):** Título, presentación y resumen cronológico de los **Volúmenes 1 al 6** (Episodios 1 al 72) y visión de tramas futuras.
+   - **[`02_indice_maestro_escenarios.md`](secciones/02_indice_maestro_escenarios.md):** Índice maestro de escenarios, estaciones, planetas y pecios con etiquetas de aparición `[Volumen X]`.
+   - **[`03_dossier_maestro_personajes.md`](secciones/03_dossier_maestro_personajes.md):** Dossier exhaustivo de protagonistas, secundarios clave y antagonistas.
+   - **[`04_corporaciones_facciones.md`](secciones/04_corporaciones_facciones.md):** Directorio de megacorporaciones, sindicatos mineros, flotas renegadas y casas nobles.
+   - **[`05_bestiario_y_amenazas.md`](secciones/05_bestiario_y_amenazas.md):** Bestiario cósmico y amenazas de la campaña (akatas, garaggakal, driftdead, etc.).
+   - **[`06_matriz_continuidad.md`](secciones/06_matriz_continuidad.md):** Tabla comparativa de evolución de naves, bases, armas de Gerty, romances y estado de la tripulación.
 
-3. **`generar_contexto_pdf.py`**:
-   Script de compilación que transforma el archivo Markdown en HTML estructurado y lo compila a PDF mediante LibreOffice headless en dos pases con pdftotext.
+2. **[CONTEXTO_COMPLETO_SAGA.md](CONTEXTO_COMPLETO_SAGA.md)**:
+   Documento consolidado generado automáticamente por el compilador, que unifica todas las secciones anteriores en un único archivo de referencia.
+
+3. **[Descargar PDF Editorial (48 Páginas)](Contexto_Completo_Lasers_y_Dragones.pdf)**:
+   Versión maquetada con portada y diseño editorial homogéneo, ideal para lectura rápida y consulta con marcadores interactivos.
+
+4. **`generar_contexto_pdf.py`**:
+   Script de compilación que consolida automáticamente los archivos de `secciones/` en `CONTEXTO_COMPLETO_SAGA.md`, genera el HTML estructurado y renderiza el PDF en dos pases calculando la paginación exacta.
 
 ---
 

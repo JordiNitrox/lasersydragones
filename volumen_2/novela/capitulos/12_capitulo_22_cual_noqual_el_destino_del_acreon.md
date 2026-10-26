@@ -1,87 +1,167 @@
 # Capítulo 22: ¿Cuál Noqual?: El Destino del Acreon
 
-### I. Las últimas palabras de Elba Sohar
+### I. Las bitácoras de Elba Sohar
 
-El puente de mando del *Acreon* se abría al cosmos a través de un imponente ventanal panorámico de aluminio transparente. A través del cristal blindado, el resplandor distante de la Estación Absalón parecía una joya solitaria en la inmensidad negra, mientras en la popa se recortaba la ominosa silueta de la Roca del Drift, atada a la nave por sus titánicos cables de amarre.
+El puente de mando del *Acreon*, ahora bañado por la nítida iluminación blanca de los sistemas recién restaurados, ofrecía una panorámica sobrecogedora. A través de los inmensos ventanales de aluminio transparente de la proa se divisaba el brillo dorado de la Estación Absalón recortado contra el abismo, mientras en la popa los cinco descomunales cables de tracción mantenían amarrada la ominosa mole oscura de la **Roca del Drift**.
 
-En el interior de la cabina reinaba una quietud sepulcral. Sillas de mando volcadas, pantallas astilladas y restos de instrumental flotaban en la gravedad cero. 
+Axel 42 accionó el reproductor de la consola de mando. Con un parpadeo de partículas de luz, la pantalla holográfica central proyectó el primero de los cuatro archivos audiovisuales recuperados de la memoria profunda de la nave.
 
-Axel se deslizó con suavidad hacia la consola del timonel principal, insertando la tarjeta maestra que habían recuperado en los camarotes. Triel y Marloc se apostaron a sus lados, conectando sus derivaciones técnicas a los bancos de memoria secundaria del ordenador de a bordo:
+La grabación mostraba el comedor del carguero. Sentada a la mesa principal, mirando directamente a la cámara con seriedad indómita, aparecía la capitana **Elba Sohar**. Era una enana de piel muy oscura, casi negra como el carbón, con la cabeza rasurada a excepción de un mechón central teñido que caía hacia su frente. Sus labios estaban pintados de negro y el mono de vuelo abierto dejaba al descubierto una camiseta sin mangas y, sobre su pecho, el tatuaje del engranaje alado del Colectivo Hardscrabble.
 
-—Energía auxiliar restablecida —anunció Triel mientras una hilera de luces ámbar parpadeaba en el tablero—. Los sectores de almacenamiento de bitácora están intactos. Reproduciendo la última grabación de la oficialidad.
+—*«Bitácora de la capitana Elba Sohar, 29 de Erastus»* —comenzó con voz áspera pero templada—. *«Nuestro ingeniero jefe Olier realizó una modificación no autorizada en las coordenadas de entrada al Drift. El piloto Harbar asegura que el desvío es mínimo, pero Olier insiste en que una revelación en sueños le garantiza que hallaremos algo trascendental en este vector. La piloto Alara lo considera un experimento fascinante... En cualquier caso, ya estamos en el hiperespacio.»*
 
-La pantalla holográfica central cobró vida con un chisporroteo de estática, proyectando la figura tridimensional de una mujer de mediana edad, de rostro enjuto y mirada firme, enfundada en el mono reglamentario del Colectivo Hardscrabble. Era la capitana Elba Sohar.
+En ese instante, una figura colosal irrumpió en el comedor haciendo temblar el suelo metálico. Era la artillera vesk **Mago**: una hembra gigantesca de piel escamosa azul violácea, dos palmos más alta que cualquier humano, con una bandana roja anudada en la cabeza y brazos como troncos de árbol bajo su camiseta blanca. Mago apartó de un empujón al oficial de comunicaciones Danver —un enano de pelo y barba bermejos con las puntas teñidas de blanco— y abrió el arcón frigorífico con un rugido:
 
-Al fondo de la imagen se apreciaba el ajetreo en el puente: un operador enano ajustando pantallas de navegación y una artillera vesk cargando fusiles con evidente tensión:
+—*«¿Dónde están mis huevos? ¡Necesito mis proteínas de combate! Si alguien se comió mis raciones, ¡le arrancaré la cabeza y me comeré sus sesos!»*
 
-—*«Bitácora de la capitana Elba Sohar, día cuarenta y dos tras el salto en el Drift»* —comenzó la grabación con voz quebrada pero decidida—. *«El ingeniero Olier logró acoplar los arpones de tracción al asteroide que emergió junto a nosotros en el hiperespacio. Nuestros primeros escaneos indicaban concentraciones masivas de noqual y geodas de alto valor mineral... Pero cometimos un error fatal.»*
+—*«¡Suficiente, Mago, estoy grabando!»* —la reprendió Elba Sohar con un bufido, cortando la transmisión entre murmullos de la tripulación. Al fondo se distinguía al joven Olier, con la cabeza rapada, dibujando febrilmente en su cuaderno junto a la primera oficial lashunta, cuya larguísima trenza le descendía hasta la cintura.
 
-La capitana hizo una pausa, y en la grabación se escucharon alaridos sordos y tableteo de disparos provenientes de las cubiertas inferiores:
+Axel activó el segundo archivo, fechado el 30 de Erastus. La escena se desarrollaba en la bahía de carga: Danver y Mago apilaban varias geodas oscuras de superficie metálica rugosa bajo la supervisión de la capitana.
 
-—*«Las geodas no eran minerales. Eran crisálidas biológicas. Bestias del vacío... Akatas. Salieron de los capullos en mitad de la noche, deslizándose por los conductos de ventilación. Atacaron a los mineros en los dormitorios. Quienes no murieron desangrados enfermaron a las pocas horas; la infección les pudre la mente y los convierte en cadáveres andantes que atacan a sus propios compañeros. He ordenado el desalojo inmediato hacia la roca y el bloqueo total de los sistemas de navegación del carguero. Si alguien encuentra este mensaje... por favor, digan a nuestras familias en Absalón que luchamos hasta el último cartucho.»*
+—*«Hallamos un asteroide flotando en una bolsa de vacío del Drift»* —explicaba Elba con una sonrisa victoriosa—. *«Las muestras confirman que estas geodas son de Noqual puro. Estimamos un valor inicial de entre cuatro mil y cinco mil créditos. La intuición de Olier era acertada: ¡somos ricos!»* En la imagen, la gigantesca vesk levantaba a Olier en vilo celebrando entre carcajadas, mientras la lashunta le plantaba un beso en la mejilla al emocionado muchacho.
 
-La transmisión se cortó en un destello de ruido blanco cuando la sombra de una bestia cuadrúpeda se abalanzó sobre la cámara en el registro final.
+El tercer vídeo cambió drásticamente de tono.
 
-Marloc bajó la vista en silencio. Benray se quitó las gafas de sol, conmovido por la tragedia de los mineros.
+La capitana Sohar aparecía en el puente de mando, pálida como la cera, empapada en sudor frío y con la respiración entrecortada. Al fondo, el oficial Harbar yacía vendado sobre un charco de sangre, mientras Olier sollozaba deshecho contra un mamparo:
 
-—Ya tenemos la prueba definitiva —dijo Axel, descargando el archivo cifrado en su memoria interna—. La tripulación no abandonó su deber por cobardía ni hubo motín corporativo. Fue una catástrofe biológica. El nombre de los muchachos de Hardscrabble está limpio.
+—*«Las geodas no eran minerales... Eran crisálidas. Bestias del vacío... Akatas. Salieron de los capullos en mitad de la noche. Mordieron a varios de nosotros. Mis oficiales están ardiendo en fiebre. Y no es solo eso... Hay algo más en la nave. Una sombra que se mueve entre las cubiertas. La piloto Alara se encerró con una trampa en la bodega y murió en el asedio. Vamos a intentar purgar la nave despresurizando las cubiertas... Que los dioses nos amparen.»*
 
-***
+El cuarto y último archivo estaba filmado desde la esclusa de popa.
 
-### II. La llamada del oficial León
+El viento del desahogo atmosférico aullaba en el registro mientras Harbar y el enano Danver, enfundados en pesadas escafandras cerradas, se enganchaban con mosquetones a los titánicos cables de remolque que conectaban el carguero con la Roca del Drift. Elba Sohar gritaba buscando desesperadamente a Olier, cuando de improviso un Akata saltó sobre ella derribándola contra el marco.
 
-Axel activó el transmisor de largo alcance del *Acreon*, sincronizando la antena parabólica con las frecuencias seguras de la estación:
+En una fracción de segundo, la vesk Mago cargó como una fiera, embistiendo a la bestia con su propio cuerpo. Con el visor bañado en sangre, Mago levantó a la capitana herida en brazos y la enganchó al cable de tracción con un bramido que traspasó los intercomunicadores:
 
-—Aquí la unidad A.Xel 42 en enlace con Inversiones Estelares y la Oficina de Seguridad de los Mundos del Pacto. Transmitiendo bitácoras de vuelo, autopsias preliminares e inventario del carguero *Acreon*. El pecio ha sido purgado de amenazas activas y queda formalmente bajo custodia neutral.
+—*«¿Qué espera, capitana? ¡Vámonos!»*
 
-La señal tardó apenas unos segundos en atravesar las doscientas mil millas de vacío. En la pantalla del comunicador apareció el rostro de un joven oficial de los Protectores: cabello oscuro pulcro, mandíbula firme y un uniforme verde olivo con las insignias doradas del cuerpo de pacificación. Era el oficial León, enlace táctico de guardia en la torre de comunicaciones de Absalón.
-
-El oficial revisó los datos entrantes en su terminal con gravedad y asentimiento protocolario:
-
-—*Paquete de datos recibido, peritos* —respondió el oficial León con voz marcial tras examinar las lecturas de telemetría—. *Su informe preliminar es minucioso. El Alto Mando de los Protectores tomará nota de la neutralización de las amenazas biológicas y de la recuperación de las bitácoras. Sin embargo, deben mantener el perímetro sellado hasta que concluya el arbitraje oficial.*
-
-En ese instante, Benray se abrió paso hasta la holocámara, plantando su hocico bigotudo en primer plano con una sonrisa socarrona:
-
-—Oiga, señor León, una preguntita de profesional a profesional... ¿No se supone que ustedes, los gloriosos Protectores de la ley, son expertos en situaciones tácticas extremas? Porque aquí tenemos un carguero infestado de aberraciones del vacío, tripulantes convertidos en monstruos y una roca hiperespacial atada a la popa que da escalofríos. ¿Por qué no se sube a una fragata y usa sus poderes de paladín para venir a echarnos una mano en vez de darnos sermones desde su cómodo sillón en el Ojo?
-
-El oficial León apretó los labios, conteniendo la exasperación ante la impertinencia del ysoki:
-
-—*Señor Galway, este no es momento ni canal para sus habituales payasadas. Su contrato con Inversiones Estelares estipula labores de peritaje y salvamento independiente, no auxilio militar en tiempo real...*
-
-En ese instante, un operador de comunicaciones de fondo se inclinó hacia el oído de León en la pantalla, susurrándole algo con urgencia. El rostro del oficial se endureció de golpe:
-
-—*Un momento... Acabo de recibir una notificación de alerta de la red de seguridad de Absalón. Al parecer, fragmentos en vídeo de sus combates contra los Akata y la exploración del Acreon se están retransmitiendo de forma clandestina en bucle en los paneles públicos y holopantallas del Ojo de la estación. Una emisión pirata que está congregando a miles de espectadores. ¿Tienen alguna explicación para esta flagrante brecha de confidencialidad judicial?*
-
-Benray soltó una risita cómplice, sabiendo perfectamente que Marcellus ya estaba haciendo su magia mediática en Absalón, y fingió un súbito espasmo de preocupación:
-
-—¡Caramba, mi estimado oficial de la ley, las interferencias cósmicas de la Roca del Drift son terribles! ¡Se nos está yendo la señal cuántica... bzzzt, crac! Qué pena, no le escucho nada... ¡Cortando transmisión!
-
-El ysoki oprimió el conmutador de radio antes de que el oficial pudiera replicar. Axel y Marloc lo observaron con una mirada de severa reprobación, pero Benray se limitó a guiñar un ojo mientras se acomodaba las gafas de sol con perfecta impunidad.
+Mago disparó dos ráfagas finales con su rifle hacia la compuerta, arrojó el arma vacía al vacío y se deslizó por el cable hacia el asteroide junto a los tres supervivientes. En el último segundo de metraje, un Akata asomó por la escotilla observando cómo descendían, antes de que una inmensa sombra informe cubriera la lente apagando la grabación para siempre.
 
 ***
 
-### III. El umbral de la Roca del Drift
+### II. El diagnóstico sombrío: La Muerte del Abismo
 
-Con el *Acreon* pacificado, las bitácoras salvaguardadas y Willy y Naru seguros a bordo del *Hippocampus* custodiando el sarcófago de Eox bajo estricta advertencia de no tocar las bisagras, la tripulación se dirigió hacia la popa exterior del carguero.
+El silencio que siguió a la proyección fue sepulcral.
 
-Avanzaron sobre las planchas metálicas exteriores del casco, anclados por sus botas magnéticas en medio del silencio majestuoso del vacío. Frente a ellos, los cinco descomunales cables de tracción se extendían como puentes colgantes de acero trenzado sobre el abismo, uniendo la nave a la colosal mole negra de la **Roca del Drift**.
+—Cuatro sobrevivieron a la evacuación del pecio —murmuró Benray, bajando las orejas—. La capitana, la vesk Mago, Danver y Harbar consiguieron descolgarse por los cables hasta la roca. Pero estaban infectados...
 
-Al cruzar por el cable principal y posar por primera vez las botas sobre la superficie del asteroide, el grupo sintió una extraña vibración que no procedía de ningún motor.
+Triel no respondió de inmediato. Sus ojos carmesíes se habían fijado en el rostro de Axel y en la postura rígida de Marloc.
 
-El suelo no era de roca común. Bajo una fina capa de polvo estelar negruzco descansaba una aleación milenaria, lisa y fría como el vidrio volcánico. A escasos metros del anclaje, en un promontorio rocoso resguardado de la radiación solar, se abría una hendidura imponente.
+La androide permanecía apoyada contra la consola, con los circuitos lumínicos de sus sienes titilando en un tono grisáceo irregular. Parpadeaba con lentitud inusual y su sintetizador vocal sonaba apagado:
 
-No era una caverna natural. Era un pozo perfectamente cilíndrico, de diez metros de diámetro, tallado en la roca con precisión geométrica imposible, que descendía perpendicularmente hacia las entrañas del asteroide en una oscuridad absoluta que devoraba la luz de las estrellas.
+—Registro una anomalía térmica interna... Sensación de desorientación espacial y debilidad motriz en los servos periféricos. Es estadísticamente improbable en un chasis sintético.
 
-Triel se asomó al borde, iluminando con su linterna:
+Marloc, por su parte, respiraba con dificultad. Su frente ardía bajo un sudor frío y se sostenía con trabajo sobre su pierna derecha vendada:
 
-—La caída es vertical. Cien pies... doscientos pies de profundidad. No hay asideros ni escalerillas.
+—Siento una pesadez asfixiante en los músculos... y un cosquilleo ardiente alrededor de la mordedura.
 
-Axel desenfundó su pistola láser, apuntó hacia el fondo del pozo y disparó un único pulso de luz escarlata.
+Triel desplegó su escáner médico de campaña con alarma inocultable:
 
-El rayo atravesó el abismo en silencio. Cien pies más abajo, el haz impactó contra una superficie metálica pulida, iluminando por una fracción de segundo la estancia inferior: muros labrados con frisos alienígenas de un imperio olvidado por el tiempo y dos compuertas titánicas selladas con jeroglíficos luminosos.
+—Quítense las armaduras de inmediato. Ambos.
 
-—No es una cueva —susurró Marloc, con el pulso acelerado y los ojos fijos en la negrura—. Es un templo. Un edificio ancestral enterrado en el corazón de la roca desde antes de que existiera la Brecha.
+La mecánica retiró con cuidado el vendaje compresivo del muslo de Marloc y la placa protectora del hombro de Axel. Lo que el bioescáner reveló heló la sangre de los presentes.
 
-Benray sonrió bajo su casco, asegurando los arneses de descenso mientras Gerty se colocaba en cabeza con sus cuatro brazos listos para abrir el camino:
+Los bordes de las heridas no estaban cicatrizando. Bajo la dermis de Marloc y entre el tejido sintético bioorgánico de Axel, diminutos filamentos de color azul cobalto —larvas microscópicas de Akata— reptaban en espasmos lentos, inoculando toxinas en el torrente circulatorio.
 
-—Bueno, muchachos... El *Acreon* fue solo el aperitivo. Bienvenidos al misterio de la Roca del Drift.
+—Por el dios Triune... —susurró Triel, con las manos temblando sobre el teclado del escáner—. No es una simple infección bacteriana. Es la **Muerte del Abismo**.
+
+—¿Qué significa eso en términos de supervivencia? —preguntó Benray con el corazón en un puño.
+
+—Significa que el parásito ya ha colonizado sus sistemas celulares —explicó Triel con la voz quebrada por la angustia—. La enfermedad avanza con rapidez implacable. En su primera fase provoca fiebre, debilidad motriz y atrofia muscular generalizada... Pero si no se erradica a tiempo, las larvas consumen los órganos internos, alcanzan el cerebro y devoran la conciencia del huésped. Y cuando el infectado muere... el cadáver se levanta en cuestión de días convertido en un zombi del vacío con un nuevo Akata gestándose en sus entrañas.
+
+Axel clavó sus ojos dorados en Triel. La androide que siempre se había mostrado inmutable y analítica experimentó un estremecimiento genuino de pavor:
+
+—He pasado diez años de mi existencia luchando por ser dueña de mi mente y de mi voluntad. No permitiré que una aberración del vacío me arrebate el control de este cuerpo. Triel... Benray... si mi temperatura cae a cero y mi procesador central colapsa, les exijo un juramento: incineren mi chasis de inmediato. No dejen que despierte como un monstruo.
+
+Willy y Naru, asomados con timidez desde la puerta, levantaron dos dedos solemnes en el aire:
+
+—Los goblins prometemos fuego purificador si hace falta, señora robot. Fuego garantizado.
+
+—Nadie va a incinerar a nadie todavía —intervino Marloc con voz firme pese a la palidez de su rostro—. Los botiquines ordinarios de la nave no contienen el antídoto específico, pero nuestros organismos son fuertes. Triel, aplícanos los parches de soporte médico para reforzar nuestro sistema inmunológico. Eso nos dará veinticuatro horas de margen antes de que la enfermedad intente avanzar a la siguiente fase.
+
+Triel asintió con determinación, administrando sendos parches reforzados con inmunoestimulantes en el muslo de Marloc y en el hombro de Axel. El calor reconfortante del fármaco alivió temporalmente el dolor, pero el reloj biológico había comenzado su cuenta regresiva.
+
+—La única esperanza es la Roca del Drift —sentenció Benray, apretando los puños—. La tripulación del *Acreon* se refugió en el asteroide con sus kits de supervivencia de campaña. Si encontramos a los supervivientes o los suministros médicos de su campamento, podremos salvar a Axel y a Marloc. No hay un segundo que perder.
+
+***
+
+### III. La pira de Martha y la transmisión con León
+
+Antes de abandonar el pecio, una deuda de honor pendiente reclamaba la atención del grupo.
+
+En el hangar de popa, Willy y Naru se detuvieron ante el cuerpo inmóvil de su hermana Martha, tendido sobre las planchas metálicas junto a los restos destrozados de los Akata. Conociendo ahora el horror de la Muerte del Abismo, los pequeños carroñeros sabían lo que debían hacer.
+
+Con la ayuda de Benray, vaciaron dos bidones de combustible técnico sobre los cadáveres de las criaturas y sobre el cuerpo de la goblin caída, asegurando el perímetro con barriles para evitar que las llamas se propagaran al resto de la nave. Naru encendió una bengala de magnesio y la dejó caer sobre la pira:
+
+*¡FWOOOOSH!*
+
+El fuego consumió la materia orgánica en una llamarada brillante y purificadora que desprendió una columna de humo denso hacia el sistema de extracción del hangar. Naru alzó su vieja carabina goblin con ambas manos hacia las vigas del techo y disparó un único cartucho trazador al aire:
+
+—¡Por Martha! ¡La goblin más rápida de los bajos fondos de Absalón!
+
+Willy se secó una lágrima con la manga grasienta de su mono y dedicó un saludo militar torcido a las llamas, antes de seguir al grupo hacia la cabina del *Hippocampus*.
+
+Minutos después, Axel enlazó el transmisor del puente con la torre de comunicaciones de la Estación Absalón:
+
+—Aquí el equipo de peritaje *Hippocampus*. Transmitiendo bitácoras de la capitana Elba Sohar y estado del pecio. El *Acreon* ha sido purgado de hostiles activos y las causas de la pérdida de la tripulación han sido documentadas: catástrofe biológica por infestación de Akata.
+
+La señal conectó al instante con la pantalla del comunicador. El rostro pulcro y severo del **Oficial León de los Protectores** apareció en el centro de la transmisión:
+
+—*Paquete de bitácoras recibido, peritos. La información es de vital relevancia judicial para cerrar el expediente de Hardscrabble y Extracciones Estelares. Sin embargo, los sensores médicos de la nave registran anomalías fisiológicas en dos de sus tripulantes. ¿Han sufrido contaminación biológica?*
+
+—Dos de nosotros han sido mordidos por los parásitos —admitió Marloc con serenidad profesional—. Requerimos autorización para un vector de regreso inmediato a fin de recibir tratamiento hospitalario en el Ojo de la estación.
+
+El rostro de León se endureció con una frialdad burocrática implacable:
+
+—*Negativo absoluto, perito Boosmar. El Acreon y su entorno permanecen bajo cuarentena estricta de nivel cuatro. Los estatutos sanitarios de los Mundos del Pacto prohíben taxativamente la entrada de cualquier nave con tripulantes infectados por patógenos del Vasto. Su nave tiene bloqueados los vectores de atraque en Absalón por cinco días estándar hasta la llegada de un equipo de descontaminación de los Protectores. No se les permitirá cruzar la Armada.*
+
+Benray se adelantó hacia la cámara, enseñando los dientes con rabia contenida:
+
+—¿Cinco días? ¡En cinco días mis compañeros serán zombis del vacío comiéndose las paredes de esta nave! ¿Esa es la gloriosa justicia de los Protectores? ¿Por qué no mueve su fragata y nos envía un transbordador médico, señor paladín de las estrellas?
+
+—*Señor Galway, no toleraré más impertinencias...* —comenzó a replicar León, pero en ese preciso instante un asistente uniformado se inclinó sobre su hombro en la pantalla, susurrándole algo al oído. Los ojos del oficial se abrieron de par en par:
+
+—*¡Un momento! ¡Señor Galway! ¿Tiene usted conocimiento de que fragmentos completos de sus combates contra las bestias y la exploración del pecio se están emitiendo en directo y en bucle en las holopantallas gigantes del paseo central del Ojo de Absalón? ¡Miles de ciudadanos están viendo sus maniobras como si fuera un espectáculo de holovisión de Canal Atmos! ¿Quién autorizó esa retransmisión pirata?*
+
+Benray soltó una risita burlona por debajo de los bigotes, bendiciendo en silencio la audacia de Marcellus, y fingió un súbito carraspeo agitando la mano frente al micrófono:
+
+—¡Caramba, mi estimadísimo oficial León, las interferencias de la Roca del Drift son atroces! ¡Se está perdiendo la portadora cuántica... krrrzzzt, psssshh! Qué lástima, no le escucho nada de nada... ¡Cortando transmisión de emergencia!
+
+El ysoki aplastó el conmutador de radio con el puño. La pantalla se apagó de golpe, dejando el puente en un silencio absoluto donde solo resonaron las carcajadas sofocadas de Willy y Naru.
+
+***
+
+### IV. El umbral de la Roca del Drift
+
+Con el *Acreon* pacificado y Willy y Naru apostados a bordo del *Hippocampus* custodiando el sarcófago de Eox con órdenes de disparar a cualquiera que no fuera de la tripulación, los cuatro aventureros se enfundaron sus escafandras y salieron a la intemperie del casco de popa.
+
+Antes de emprender el cruce por los cables, Triel y Marloc ejecutaron un barrido analítico de alta resolución sobre el asteroide mediante los sensores de largo alcance de su nave.
+
+Las lecturas arrojaron datos desconcertantes.
+
+—Miren el flanco oriental del asteroide —señaló Triel, proyectando la telemetría sobre el visor de sus compañeros—. No tiene un solo cráter de impacto de micrometeoritos en toda su superficie. Y este corte lateral...
+
+En la holopantalla, uno de los lados de la gigantesca mole negra presentaba una superficie perfectamente plana, pulida como un espejo y seccionada con la precisión milimétrica de un cuchillo caliente cortando mantequilla.
+
+—No es un asteroide ordinario —dedujo Marloc con la respiración entrecortada por la fiebre—. Es un fragmento geométrico arrancado de una estructura mayor. Un edificio o un monumento ancestral desgajado del tejido espacial durante una transferencia de materia hiperespacial.
+
+—Y hay algo más en esa garganta del sur —añadió Axel, apuntando con el zoom óptico de su casco hacia una hendidura profunda en la roca.
+
+Allí, encajada en el fondo de una grieta escarpada y envuelta en columnas de gas residual congelado, descansaba la silueta destrozada de la corbeta corsaria *Insinuación Mortal*. La nave que **Clara 247** había pilotado para emboscarlos en el muelle yacía partida en dos contra las rocas basálticas. Su rival se había estrellado allí abajo tras el combate naval.
+
+El grupo aseguró sus mosquetones magnéticos a los cinco colosales cables de acero trenzado que unían el carguero con la masa del asteroide. Uno tras otro, avanzaron en suspensión ingrávida sobre el abismo negro del espacio, deslizándose a pulso sobre el cable principal mientras las estrellas giraban en silencio a su alrededor.
+
+Al poner las botas sobre la superficie lisa de la roca, la vibración milenaria del suelo reverberó en sus armaduras.
+
+A escasos cincuenta metros del punto de anclaje de los cables, en medio de una meseta de aleación desconocida y polvo estelar negruzco, se abría una hendidura colosal.
+
+No era una caverna natural. Era un **pozo perfectamente cilíndrico de diez metros de diámetro**, tallado en la roca con tecnología imposible, que descendía perpendicularmente cien pies hacia las entrañas del asteroide.
+
+Axel desenfundó su pistola de pulsos y disparó una descarga luminosa hacia la negrura del pozo.
+
+El haz atravesó los treinta metros de caída vertical e iluminó por un instante el fondo del abismo: una vasta antecámara subterránea flanqueada por columnas ciclópeas, frisos cubiertos de escrituras alienígenas intraducibles y dos compuertas titánicas selladas con jeroglíficos luminosos.
+
+—Un templo pre-Brecha —susurró Marloc, fascinado ante el descubrimiento mientras el veneno de la Muerte del Abismo latía en su sangre—. Un santuario olvidado enterrado en el corazón de la roca desde antes de que el universo recordara su propio pasado.
+
+Benray ajustó los arneses de descenso y miró a sus compañeros con una sonrisa afilada:
+
+—Supervivientes que encontrar, corsarios a los que cobrar viejas deudas, un templo milenario por saquear y dos infecciones que curar antes de que se ponga el sol... Bienvenidos al verdadero misterio de la Roca del Drift.

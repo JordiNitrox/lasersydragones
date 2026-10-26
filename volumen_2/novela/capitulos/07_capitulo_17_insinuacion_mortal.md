@@ -1,55 +1,125 @@
 # Capítulo 17: Insinuación Mortal
 
-### I. Más allá del enjambre
+### I. La emboscada de Clara 247
 
-El desacople del muelle doce se sintió como una suave sacudida en la espina dorsal.
+El resplandor distante de la Estación Absalón apenas comenzaba a disolverse en el negro azabache del cosmos cuando el espacio cobró vida con intenciones asesinas.
 
-Los propulsores de maniobra del *Hippocampus* expulsaron breves ráfagas de gas comprimido, separando el casco de las guías magnéticas del muelle. Lentamente, la nave avanzó por el cañón de amarre hasta emerger al espacio abierto, donde la colosal estructura de la Estación Absalón comenzó a empequeñecerse en las pantallas panorámicas de la cabina.
+Desde la densa masa de pontones herrumbrosos y barcazas de combustible que formaban el perímetro exterior de la Armada, una silueta afilada y veloz emergió a toda potencia. Era una corbeta de ataque ligero, pintada en gris mate sin distintivos corporativos oficiales, con dos alas en delta y una proa en punta diseñada para la caza naval: la *Insinuación Mortal*.
 
-Dejar atrás el Ojo y el Anillo significaba despedirse del ruido, de las luces de neón y de la confortable ilusión de la atmósfera terrestre. Ante ellos se extendía el cinturón exterior de la Armada: miles de pontones oxidados, barcazas de combustible y chatarreros que orbitaban en formación caótica. Conforme el *Hippocampus* aumentaba la potencia de sus propulsores principales de gravitón, las siluetas de las naves piratas y los refugios flotantes quedaron atrás, disolviéndose en el silencio absoluto del vacío interestelar.
+Las pantallas tácticas del *Hippocampus* parpadearon en rojo carmesí.
 
-En el puente de mando, dos pequeños dispositivos mecánicos sobrevolaban a la tripulación con zumbidos magnéticos característicos.
+—¡Nos tienen enfilados! —gritó Triel desde la consola de ingeniería superior, con los dedos volando sobre los potenciómetros del reactor—. ¡Han cargado condensadores de plasma y sus baterías láser están en arco directo contra nuestra proa!
 
-El primero era el dron diplomático de la embajada de Eox: un aparato esférico de metal oscuro labrado con filigranas barrocas, cuyo lente óptico verde seguía con fría insistencia cada movimiento de Marloc y Triel.
+Axel aferró el timón de maniobra con pulso milimétrico. Sus iris sintéticos se dilataron, proyectando trayectorias vectoriales directamente sobre el parabrisas de cuarzo transparente:
 
-El segundo, flotando obstinadamente a la altura del hombro de Benray, era una cámara deportiva ultraligera pintada de rojo fuego con llamas amarillas en los costados. Era un regalo de **Marcellus**, un enigmático y extravagante editor audiovisual y productor de contenidos de los bajos fondos de Absalón con quien el ysoki mantenía un pacto comercial en la sombra: Benray le transmitía paquetes de metraje crudo a través de una frecuencia cuántica privada, y Marcellus se encargaba de editar los vídeos, añadir fanfarrias dramáticas y filtrar la holotransmisión en los canales no oficiales de la estación para gloria, fama y patrocinio del grupo.
+—Iniciando maniobras de evasión orbital. Ángulo de viraje: cuarenta y cinco grados a babor.
 
-—¡Qué tal, suscriptores de la holored y amantes del peligro extremo! —narraba Benray con entusiasmo desbordante frente a su lente, acomodándose sus gafas de sol a pesar de encontrarse en una cabina presurizada—. Aquí su amigo Benray Galway transmitiendo en exclusiva desde el cuadrante exterior de Absalón. A mi espalda, la tripulación más temeraria del sistema y nuestra fiel nave, el *Caballito de Mar*. En escasos minutos realizaremos el primer abordaje oficial al pecio fantasma del *Acreon*. ¡No olviden suscribirse, darle al pulgar y dejar sus donaciones en créditos antes de que el vacío nos trague! Marcellus, viejo amigo, ¡recorta mis tomas malas y asegúrate de que mi perfil bueno salga en primera plana!
+Antes de que los motores pudieran completar el giro, la consola de comunicaciones emitió un pitido estridente y un canal de holotransmisión abierta forzó su entrada en la pantalla secundaria del puente.
 
-—Benray —intervino Axel sin apartar la vista del cuadrante de navegación—, transmitir coordenadas y frecuencias operativas en un canal público incrementa la probabilidad de ser interceptados por naves corsarias en un ochenta y dos por ciento. Y desconozco qué protocolos de cifrado utiliza ese editor tuyo.
+La imagen que apareció no era la de un corsario enmascarado ni la de un soldado corporativo sin rostro.
 
-—Tranquila, operativa —replicó el roedor, guiñando un ojo a la cámara—. El metraje pasa primero por los filtros de Marcellus y sale en diferido con un retardo cuántico de dos horas. Si nos atacan, al menos mi canal ganará diez millones de visualizaciones póstumas.
+Era Clara 247.
 
-Marloc sonrió de medio lado mientras calibraba el espectrómetro de masas en la consola de sensores:
+La seductora androide rubia del bar de mineros se recostaba con insolente comodidad en el sillón de mando de la corbeta enemiga. Llevaba su mono negro de combate ceñido y unos auriculares tácticos sobre su melena dorada. Al ver los rostros atónitos de la tripulación en pantalla, su quijada metálica se abrió en una amplia y afilada sonrisa plateada:
 
-—La vanidad del roedor no tiene cura. Atención, todos: estamos entrando en el sector de alcance visual.
+—*«Vaya, vaya... Miren qué coincidencia estelar»* —ronroneó Clara con su voz melodiosa y gélida—. *«Hola otra vez, preciosa Triel. Profesor Boosmar... Y señor Galway. Lamento arruinarles su viaje de placer, pero ciertos amigos de Extracciones Estelares me han pagado una suma sumamente generosa por asegurar que ese lindo Caballito de Mar jamás ponga una pata en el Acreon.»*
+
+Triel apretó los puños contra el teclado de energía:
+
+—¡Clara! ¡Estuvimos tomando tragos contigo hace apenas unas horas!
+
+—*«Negocios son negocios, guapa»* —sonrió Clara, guiñando un ojo mientras sus dedos enguantados acariciaban los gatillos de tiro de su cabina—. *«En este universo, quinientos créditos son quinientos créditos. Prometo apuntar a los motores para que su agonía en el vacío sea rápida. ¡Abran fuego!»*
 
 ***
 
-### II. La sombra del pecio y la roca
+### II. Fuego cruzado en el vacío
 
-El silencio en el puente se volvió espeso cuando Axel redujo la aceleración de crucero.
+La corbeta enemiga escupió una ráfaga doble de haces láser escarlata que atravesaron el vacío en silencio absoluto. Los proyectiles de energía impactaron de lleno en los deflectores delanteros del *Hippocampus*: *¡BUM!* Una violenta sacudida estremeció la nave, haciendo saltar chispas de los paneles del techo y arrojando a Benray contra su arnés de seguridad.
 
-En la pantalla panorámica principal, recortada contra el tapiz infinito de estrellas distantes, emergió la imponente y desolada silueta del *Acreon*.
+—¡Escudos frontales al treinta por ciento! —anunció Triel, con el sudor empapándole las sienes—. ¡Esa maldita sabe dónde disparar!
 
-Era un carguero minero de gran tonelaje, de casi doscientos metros de longitud, con un casco macizo de aleación gris oscuro que exhibía profundas cicatrices de impactos de micrometeoritos y paneles de blindaje abollados. Sus motores principales estaban muertos, con las toberas de escape cubiertas por una capa de escarcha estelar. No había luces de posición parpadeando en sus antenas, ni balizas de emergencia emitiendo en las frecuencias del Pacto. Flotaba a la deriva, inerte y silenciosa como un leviatán de hierro dormido en el abismo.
+Benray ajustó su micrófono de diadema con furia ysoki, activando el intercomunicador táctico de combate:
 
-Pero lo más sobrecogedor no era la nave, sino lo que arrastraba tras de sí.
+—¡Axel, no dejes que esa rubia de hojalata se coloque a nuestras espaldas! ¡Marloc, la torreta ventral tiene ángulo de tiro! ¡Demuéstrale a esa mercenaria que un profesor de universidad pega más duro que sus patrocinadores corporativos!
 
-Unida a la popa del carguero mediante cinco cables de tracción titánicos, de decenas de metros de grosor y anclados a la roca mediante gigantescos pernos mecánicos de tornillo, flotaba la llamada **Roca del Drift**.
+—En ello estoy, Benray —respondió la voz pausada de Marloc a través de los auriculares de artillería.
 
-Era un asteroide de forma irregular, de casi trescientos metros de diámetro. A diferencia de los pedruscos minerales habituales de la Diáspora, cuya superficie solía ser áspera y porosa, la roca presentaba una tonalidad negruzca y lustrosa, casi vítrea, salpicada de vetas de un mineral azulado que parecía refractar la luz lejana con pulsaciones tenues y anómalas. En varias secciones del promontorio rocoso se apreciaban aberturas geométricas perfectamente rectilíneas que desafiaban cualquier explicación geológica natural.
+En la cúpula inferior de la panza del *Hippocampus*, Marloc y Gerty operaban el cañón láser doble en perfecta sincronía tecnomágica. El tecnomante manipulaba las miras de puntería con su mano mecánica mientras Gerty alimentaba las bobinas térmicas con sus actuadores hidráulicos:
 
-Triel contuvo el aliento, ajustándose los auriculares de comunicaciones:
+—*Objetivo fijado* —sintetizó Gerty—. *Firma térmica de la corbeta enemiga calibrada. Sugiero disparar a quemarropa.*
 
-—Los escáneres confirman atmósfera cero en las cubiertas del *Acreon*. La compuerta exterior del hangar de estribor está encallada en posición entreabierta. No detecto emisiones de radio, ni señales de calor biológico en el interior.
+Axel empujó los aceleradores a fondo. En lugar de huir, la androide ejecutó una audaz maniobra de aproximación en trayectoria rasante: el *Hippocampus* aceleró de forma oblicua, pasando a escasos veinte metros del fuselaje de la *Insinuación Mortal*.
 
-—Esa roca no es de origen natural —apuntó Marloc, analizando las lecturas cuánticas con el ceño fruncido—. El espectro energético coincide con las firmas arcanas que Marlene investigaba en el Arcanamirium. El *Acreon* enganchó esa estructura durante su salto en el Drift y la arrastró consigo fuera del hiperespacio.
+—¡Ahora, Marloc! —gritó Axel.
 
-Axel activó los retropropulsores del *Hippocampus*, alineando la proa de la nave exploradora con la esclusa de carga del pecio a paso de maniobra:
+Los dos cañones láser pesados de la torreta tronaron al unísono. Dos relámpagos esmeralda perforaron el vacío interestelar e impactaron directamente en la tobera de babor de la corbeta enemiga. La detonación desprendió placas de blindaje al rojo vivo y una densa nube de combustible vaporizado.
 
-—Iniciando maniobra de aproximación y anclaje magnético. Despresuricen las bahías de abordaje. Es momento de ponerse los trajes de vacío.
+En la pantalla de comunicaciones, la sonrisa burlona de Clara 247 se desdibujó de golpe, sustituida por una mueca de rabia:
 
-En la esclusa de salida del *Hippocampus*, los cuatro aventureros ajustaron los sellos de sus escafandras. Triel comprobó los tanques de oxígeno de su traje de segunda piel mientras revisaba los actuadores de Gerty, quien esperaba erguido con sus cuatro brazos listos y su cañón láser sobrecargado. Benray ajustó su rifle con una cinta magnética al pecho, palpando las granadas de su cinturón con nerviosismo disimulado.
+—*«¡Malditos bastardos! ¡Me han reventado los estabilizadores magnéticos!»*
 
-El silbido sordo de la descompresión vació la esclusa de aire. La compuerta exterior se deslizó hacia arriba, revelando la inmensidad negra del espacio y las fauces abiertas del hangar desierto del *Acreon*.
+Aprovechando el desconcierto enemigo, Clara viró bruscamente y soltó una descarga desesperada con sus cañones de popa. El haz de plasma barrió el cuadrante trasero del *Hippocampus*, pulverizando los últimos escudos y mordiendo el casco de aleación con un chirrido metálico espeluznante.
+
+—¡Fuga de energía en el condensador tres! —gritó Triel—. ¡Las armas van a quedar sin potencia en el siguiente asalto!
+
+—¡No en mi guardia! —rugió la semi-drow.
+
+Con un destornillador sónico en la boca y las manos desnudas manchadas de refrigerante, Triel abrió el panel auxiliar del reactor en la cabina de máquinas. Realizó un puente directo entre las baterías del motor Drift y los relés de artillería, desviando un torrente masivo de energía sobrecargada hacia la torreta de Marloc en una maniobra de sobrecarga magistral:
+
+—¡Marloc, te he duplicado la carga! ¡Revienta a esa zorra antes de que gire!
+
+Marloc no vaciló. A través del visor telemétrico, el tecnomante alineó el punto de mira con el reactor principal de la nave hostil:
+
+—Por el Arcanamirium... y por el descanso de Marlene. Fuego.
+
+La salva doble del *Hippocampus* fue devastadora. Los dos rayos de energía convergieron con precisión milimétrica en la panza de la *Insinuación Mortal*. El casco de la corbeta se combó hacia adentro en una violenta implosión interna. Una llamarada de fuego y chispas envolvió la proa de la nave enemiga, que perdió el control de sus propulsores y comenzó a girar sobre su propio eje en una deriva incontrolable hacia el abismo.
+
+***
+
+### III. El choque en la roca y el abismo del Acreon
+
+En la holopantalla de comunicaciones, la imagen de Clara 247 parpadeó entre densas cortinas de interferencias y humo negro:
+
+—*«...Sistemas apagados... Propulsión muerta... Maldita sea...»*
+
+Benray se abalanzó sobre el micrófono del emisor:
+
+—¡Clara! ¡Respóndeme, pedazo de chatarra! ¿Quién financió esos quinientos créditos? ¿Fue Extracciones Estelares o la señorita George? ¡Dígamelo antes de que se estrelle!
+
+Pero la señal se cortó en un silbido seco de estática.
+
+A través del ventanal panorámico, los cuatro tripulantes contemplaron el trágico desenlace de la batalla naval.
+
+La silueta humeante de la *Insinuación Mortal* descendió en barrena hacia la colosal y siniestra mole de la **Roca del Drift**. La corbeta impactó violentamente contra uno de los profundos cañones rocosos del asteroide, arrancando una lluvia de esquirlas minerales y sepultándose entre los peñascos en un fogonazo de fuego blanco que se extinguió casi de inmediato en el vacío.
+
+El silencio volvió a adueñarse del puente del *Hippocampus*. Las respiraciones agitadas de la tripulación resonaban en los canales de audio.
+
+—La nave de Clara ha colapsado contra la superficie del asteroide —confirmó Axel tras analizar la telemetría—. La estructura del pecio quedó encallada en una garganta profunda. Hay una probabilidad del cuarenta y dos por ciento de que su chasis androide haya sobrevivido al impacto.
+
+—Que se quede congelada en esa roca —masculló Triel, secándose el sudor de la frente con alivio—. Buen disparo, profesor. Y buena puntería, Gerty.
+
+—*De nada, usuaria Triel* —respondió el meca por los altavoces—. *He registrado la destrucción de la unidad hostil en mi banco de memoria bajo la etiqueta: "Satisfactorio".*
+
+Axel redujo la potencia de los propulsores principales y comenzó la aproximación final hacia su verdadero objetivo.
+
+Allí, flotando en la penumbra del vacío a escasas dos millas de distancia, se alzaba el leviatán dormido: el **Acreon**.
+
+Era un carguero minero imponente, de doscientos metros de eslora, con el casco cubierto de cicatrices y los motores completamente muertos. Pero lo que helaba la sangre era la ominosa estampa de la popa: cinco cables titánicos de tracción, de decenas de metros de grosor, unían la nave al asteroide que arrastraba consigo, manteniéndolo cautivo en su órbita inerte.
+
+Marloc ajustó los sensores de largo alcance:
+
+—El *Acreon* emite un pulso automático de baja frecuencia en la banda de cuarentena de la estación espacial. Los registros confirman que zarparon diez tripulantes del Colectivo Hardscrabble... pero los sistemas de soporte vital solo registran seis compartimentos sellados. Cuatro personas desaparecieron o fueron eyectadas durante el salto. Y no detecto señales biológicas activas en ninguna de las cubiertas principales.
+
+Triel amplió la imagen óptica en la pantalla:
+
+—Miren la esclusa de estribor en la popa... La compuerta exterior está forzada y encallada en posición abierta. Hay bolsas de suministros, cables sueltos y piezas de metal flotando en el espacio alrededor de la entrada. La nave está despresurizada; si queremos entrar, tendremos que hacerlo con escafandras y en gravedad cero.
+
+Benray encendió la microcámara deportiva de Marcellus acoplada a su hombro y comprobó que el dron diplomático del embajador Nor flotaba a su espalda, grabando cada movimiento con su frío lente verde:
+
+—Cámaras rodando, muchachos. Marcellus va a pagar una fortuna por estas tomas.
+
+Axel maniobró el *Hippocampus* con exquisita delicadeza hasta alinear la esclusa de salida de su nave directamente frente a la abertura de popa del carguero, dejando apenas tres metros de abismo abierto entre ambas compuertas.
+
+Los cuatro aventureros ajustaron los sellos de sus escafandras, aseguraron sus botas magnéticas y cargaron sus fusiles. El silbido de la descompresión vació la esclusa de aire.
+
+La puerta exterior se deslizó hacia arriba. Ante ellos se abrió el abismo negro del cosmos... y las fauces congeladas del *Acreon*, esperando en silencio a sus nuevos visitantes.

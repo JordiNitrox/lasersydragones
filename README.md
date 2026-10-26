@@ -52,15 +52,15 @@ lasersydragones/
 
 > **Nota sobre el Estado Editorial:** Actualmente **solo el Volumen 1 se encuentra completamente finalizado y cerrado**. Los **Volúmenes 2 al 6 se encuentran en proceso de revisión y corrección** por el autor para detectar omisiones, erratas o incoherencias argumentales antes de su publicación definitiva. Los **Volúmenes 7 al 14** disponen de todos sus recursos preparados (transcripciones limpias, metadatos, glosarios y plantillas) para iniciar su redacción.
 
-1. **[Volumen 1: Sombras sobre Absalón](file:///home/jordi/Proyectos/lasersydragones/volumen_1/novela/Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf)** · **`[FINALIZADO]`**
+1. **[Volumen 1: Sombras sobre Absalón](file:///home/jordi/Proyectos/lasersydragones/volumen_1/novela/Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf)** · **`[FINALIZADO Y CONSOLIDADO]`**
    * *Subtítulo:* `Conspiración en la Espiga` (Episodios 1–10).
-   * *Extensión:* 60 páginas, A4 editorial, navegación por marcadores, prólogo y anexo.
-   * *Arco:* Llegada a la Estación Absalón, tiroteo en el Muelle 94, Chiskisk, asalto al Club Con-Fusión y caída de Ferani Nadaz.
+   * *Extensión:* 84 páginas, A4 editorial, navegación por marcadores, prólogo, nota editorial y anexo de personajes.
+   * *Arco:* Llegada a la Estación Absalón (Sal, Marcelo, Null-9 y la sopa de almejas); colapso de Marloc y encuentro con Benray en la motoneta amarilla; reunión en el Club 13 y revelación de la viuda Ángela; emboscada en el Muelle 94 con el sicario drow Kallio; combate táctico, hackeo de cámaras y huida; investigación con Chiskisk de Inversiones Estelares; reservado de Thalud en el Club 13, partida de cartas clandestina (D-52, Silo y Luigi) y rastro de Eclair; túneles de desagüe y farol de la «Señorita Istrav»; asalto a Con-Fusión, rendición de Ferani y Brock Hilario; botín de la caja fuerte y fuga tecno con holoskin; contrato con Chiskisk para Clamor Sambor y quiebre emocional de Marloc; arcos íntimos en el Hotel Las Lunas (Triel y Gerty, Marloc y el barman decrépito, Axel y Eclair, Benray y Thalud con la llamada de Rim); y desayuno en el Ojo de Absalón con la emboscada del dron policial de los Protectores que enlaza de forma continua con el Volumen 2.
 
 2. **[Volumen 2: El Misterio del Acreon](file:///home/jordi/Proyectos/lasersydragones/volumen_2/novela/Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf)** · **`[EN REVISIÓN Y CORRECCIÓN]`**
    * *Subtítulo:* `Los Secretos del Vacío` (Episodios 11–22).
    * *Extensión:* 59 páginas, A4 editorial.
-   * *Arco:* Arbitraje de Chiskisk, pacto con el embajador Gevalarsk Nor de Eox, nave *Hippocampus*, abordaje y exploración total del pecio *Acreon*, rescate de los goblins Willy y Naru, vínculo romántico con el Oficial León y umbral exterior de la Roca del Drift.
+   * *Arco:* Inicio inmediato con la evasión del dron policial en la terraza del Ojo y el pánico por el colapso del cantante Syd Velch; arbitraje de Chiskisk y el magistrado Oryander; archivos del Arcanamirium; pacto secreto con el embajador Gevalarsk Nor y Keltus de Eox; ridículo lote corporativo de jabones de Extracciones Estelares; nave *Hippocampus* entregada por el Capitán Otal Seris; abordaje y exploración completa del pecio fantasma *Acreon*; plaga de Akatas y rescate de los amigoblins Willy y Naru; informe verídico y complicidad romántica de Triel con el Oficial León de los Protectores; y descenso final hacia el umbral de la Roca del Drift.
 
 3. **[Volumen 3: La Roca del Drift](file:///home/jordi/Proyectos/lasersydragones/volumen_3/novela/Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf)** · **`[EN REVISIÓN Y CORRECCIÓN]`**
    * *Subtítulo:* `El Enigma Ancestral` (Episodios 23–33).

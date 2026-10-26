@@ -369,70 +369,70 @@ def build_book():
         <div class="toc-title">Capítulo 2: El Desmayo y el Club 13</div>
         <div class="toc-sub">Basado en el Episodio 2 (Parte 1)</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">12</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">15</td>
     </tr>
     <tr>
       <td>
         <div class="toc-title">Capítulo 3: La Mesa de los Sospechosos</div>
         <div class="toc-sub">Basado en el Episodio 2 (Parte 2)</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">18</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">21</td>
     </tr>
     <tr>
       <td>
         <div class="toc-title">Capítulo 4: Emboscada en el Muelle 94</div>
         <div class="toc-sub">Basado en el final del Episodio 2</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">22</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">27</td>
     </tr>
     <tr>
       <td>
         <div class="toc-title">Capítulo 5: Fuego Cruzado y Chatarra</div>
         <div class="toc-sub">Basado en el Episodio 3 completo</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">25</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">30</td>
     </tr>
     <tr>
       <td>
         <div class="toc-title">Capítulo 6: Noticias de Última Hora y el Enigma de Chiskisk</div>
         <div class="toc-sub">Basado en los Episodios 4 y 5 · Inversiones Estelares y la Roca del Drift</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">30</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">34</td>
     </tr>
     <tr>
       <td>
         <div class="toc-title">Capítulo 7: Mano de Seda y Cartas Cuánticas</div>
-        <div class="toc-sub">Basado en el Episodio 6 · El rastro de Clara y el Club 13</div>
+        <div class="toc-sub">Basado en el Episodio 6 · El rastro de Eclair y el Club 13</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">36</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">42</td>
     </tr>
     <tr>
       <td>
         <div class="toc-title">Capítulo 8: El Laberinto de los Bajos</div>
         <div class="toc-sub">Basado en el Episodio 7</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">41</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">49</td>
     </tr>
     <tr>
       <td>
         <div class="toc-title">Capítulo 9: La Reina de la Con-Fusión</div>
         <div class="toc-sub">Basado en los Episodios 8 y 9 · Ferani Nadaz y Brock Hilario</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">44</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">54</td>
     </tr>
     <tr>
       <td>
-        <div class="toc-title">Capítulo 10: Rumbo a la Deriva</div>
-        <div class="toc-sub">Basado en el Episodio 10</div>
+        <div class="toc-title">Capítulo 10: Huyendo del Pasado</div>
+        <div class="toc-sub">Basado en el Episodio 10 · El botín de Con-Fusión y los fantasmas del ayer</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">49</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">59</td>
     </tr>
     <tr>
       <td>
         <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
         <div class="toc-sub">Fichas de personajes, corporaciones, facciones y el Drift</div>
       </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">54</td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">75</td>
     </tr>
   </table>
 """

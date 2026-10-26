@@ -26,7 +26,15 @@ Triel no pudo contener una sonrisa.
 
 —*«Majestuoso» es una etiqueta defectuosa inventada por especies de carbono para maquillar la acumulación ineficiente de chatarra, jefa.*
 
-Una pisada pesada, acompañada por el crujido de tablas de carga sueltas, interrumpió la discusión. Por la escotilla asomó la imponente silueta del capitán Frederick. El veterano terrícola, un hombretón fornido y barbado que rondaba los cuarenta y tantos, vestía pantalones de oficial de gala con ribetes dorados que contrastaban cómicamente con una camiseta de algodón descolorida, el pecho cubierto de vello canoso al aire y unas pantuflas de felpa que alguna vez habían sido blancas. Sostenía un tazón humeante de sucedáneo de café negro.
+Una risa cantarina interrumpió el intercambio. Desde el banco de trabajo contiguo, Sal —un joven técnico lashunta de piel verdosa y antenas sensoriales inquietas que vibraban sobre su frente— apagó la consola portátil con la que acababa de disputar una partida de carreras antigravitatorias con Triel. Llevaba el mono de trabajo manchado de grasa sintética y una llave inglesa colgando de la solapa.
+
+—No le hagas caso a la lata, Triel —dijo Sal con una sonrisa amistosa, guardándose la consola en el bolsillo—. El viaje desde la Diáspora se me ha hecho el doble de corto gracias a tus palizas en el simulador. Oye, si de verdad buscas dónde encajar en ese monstruo de metal sin que los burócratas te miren mal por tu piel ceniza o tus orejas, hazme caso: vete al *Club 13*, en la Espiga. Aquello es el paraíso de los mecánicos independientes y los androides; nadie pregunta de dónde vienes. Y respecto a esas dudas raras que me contabas sobre tus chispas de magia y los circuitos... si alguien tiene respuestas para eso, son los eruditos del Arcanamirium.
+
+Triel asintió con gratitud, tocándose de forma inconsciente las yemas de los dedos, donde a menudo sentía un hormigueo eléctrico inexplicable.
+
+—Gracias, Sal. Te debo una revancha en las pistas de Castrovel.
+
+Una pisada pesada, acompañada por el crujido de tablas de carga sueltas, resonó en el pasillo. Por la escotilla asomó la imponente silueta del capitán Frederick. El veterano terrícola, un hombretón fornido y barbado que rondaba los cuarenta y tantos, vestía pantalones de oficial de gala con ribetes dorados que contrastaban cómicamente con una camiseta de algodón descolorida, el pecho cubierto de vello canoso al aire y unas pantuflas de felpa que alguna vez habían sido blancas. Sostenía un tazón humeante de sucedáneo de café negro.
 
 —Bueno, muchacha —dijo Frederick, recostando su ancha espalda contra el mamparo con una mirada cargada de melancolía—. Aquí es donde me quedo sin mi mejor mecánica y oficial de comunicaciones. Todoterreno como pocas. ¿Dónde diablos voy a encontrar en este sector a alguien que mantenga los condensadores en línea sin volar el casco?
 
@@ -46,7 +54,7 @@ Triel contuvo el aliento. Frente al morro del carguero, dispersas en una órbita
 
 —Las familias siempre recuerdan —dijo Triel en voz muy baja, bajando los párpados carmesíes—. O al menos eso quiero creer. Todo el mundo merece una segunda oportunidad para empezar de cero.
 
-—Ojalá Absalón te dé la tuya, muchacha —suspiró Frederick—. Si necesitas un techo donde no te hagan preguntas sobre tu piel ni sobre tu robot gigante, pregunta por el *Club 13*, en el Anillo. Lo frecuentan mecánicos y gente que sabe mantener la boca cerrada.
+—Ojalá Absalón te dé la tuya, muchacha —suspiró Frederick, dándole una palmada paternal en el hombro—. Y hazle caso a Sal: mantén la cabeza baja y busca a gente de fiar en ese Club 13.
 
 En ese instante, el sol lejana bañó el sector, y la verdadera mole de la Estación Absalón emergió tras el enjambre de la Armada. 
 
@@ -106,23 +114,37 @@ Marloc se ajustó la corbata, alisó las solapas de su chaleco y respiró hondo,
 
 ### III. Negocios en el laberinto
 
-En los niveles comerciales del Anillo, donde el aire sabía a fritura barata y sudor de cien especies distintas, Benray Galway disfrutaba de la vida como solo un ysoki podía hacerlo.
+A decenas de niveles más abajo, en los abarrotados monobloques habitacionales de la Espiga donde las tuberías de aguas grises silbaban día y noche, Benray Galway despertó con el agudo chirrido de su comunicador personal. Se rascó el lomo, sacudiéndose un par de chinches de estación de entre el pelaje níveo, y descolgó con un bostezo que le estiró los bigotes.
 
-Medía apenas un metro treinta y cinco, pero lo que le faltaba de envergadura lo compensaba con una presencia teatral que llenaba cualquier habitación. Su pelaje blanco como la nieve —inmaculado, a excepción de una mancha de pelo negro azabache alrededor de los ojos que le daba el aire perpetuo de un ladrón enmascarado— brillaba bajo los neones titilantes. Llevaba las orejas puntiagudas perforadas con pequeños aros de titanio, una gabardina hecha jirones que había pertenecido a un piloto humano y unos pantalones cargo con suficientes bolsillos como para ocultar un arsenal portátil.
+—¿Quién osa interrumpir el merecido descanso de una leyenda callejera?
 
-Sentado en un taburete destartalado de un puesto de fideos callejeros, Benray sorbía con entusiasmo unos tallarines fosforescentes de algas, vigilando de reojo el gentío que se apretujaba en el pasillo.
+—¡Deja de quejarte y despierta, Galway! —llegó la voz chillona de Marcelo, su informante en los muelles de carga, tosiendo entre chasquidos de estática—. ¿Sigues pudriéndote en ese cuchitril? Escucha bien: el *Acreon*, ese carguero minero que daban por desintegrado en el Vasto, acaba de saltar a la deriva en la órbita de Absalón. La estación está que arde. Un intermediario de los nuestros, un tal Chic, está soltando créditos frescos y reclutando gente con agallas en el Anillo. ¡Muévete antes de que otras ratas se queden con el pastel!
 
-—Te digo que la oportunidad es de oro, primo —le susurraba al oído su primo Rim Rey, otro ysoki rechoncho que masticaba un pincho de escarabajo crujiente con ansiedad—. Un tipo de los muelles me pasó el dato. Quince mil créditos por escolta y enlace logístico. Quince. Mil. ¿Sabes cuántas piezas de repuesto para mi motoneta son eso?
+Benray saltó del colchón desvencijado como un resorte, se calzó la gabardina y bajó a trompicones las escaleras metálicas hacia la galería exterior. Allí lo aguardaba su primo Rim Rey, otro ysoki rechoncho que masticaba un pincho de escarabajo crujiente con evidente nerviosismo, apoyado sobre una destartalada motoneta amarilla que despedía un humo pestilente a aceite quemado.
 
-Benray tragó los fideos y chasqueó la lengua, limpiándose los bigotes con elegancia burlona.
+—¿Y mi moto, Rim? —inquirió Benray, entrecerrando sus ojos rodeados por la mancha de pelo negro azabache—. ¿Dónde está mi joya?
+
+Rim desvió la mirada, agitando las orejas con culpa:
+
+—Verás, primo... anoche la suerte se torció en la mesa de cartas de los muelles. El juego es caprichoso. Tuve que entregarla como aval. Pero esta belleza amarilla corre que vuela; solo le falla un inyector y el asiento vibra un poco.
+
+Benray suspiró profundamente, frotándose el hocico con resignación teatral:
+
+—Algún día tus deudas de juego nos van a costar el pellejo, Rim. Sube a esa cafetera con ruedas antes de que te confisque la merienda.
+
+Minutos más tarde, en los niveles comerciales del Anillo, donde el aire sabía a fritura barata y sudor de cien especies distintas, ambos compartían taburetes frente a un puesto callejero. Benray devoraba con entusiasmo unos tallarines fosforescentes de algas, vigilando de reojo el gentío que se apretujaba en el pasillo.
+
+—Te digo que la oportunidad es de oro, primo —le insistía Rim Rey al oído—. Quince mil créditos por escolta y enlace logístico. Quince. Mil. ¿Sabes cuántas piezas de repuesto para mi motoneta son eso?
+
+Benray tragó los fideos y chasqueó la lengua, limpiándose los bigotes con elegancia burlona:
 
 —Lo que sé, querido Rim, es que cuando alguien ofrece quince mil créditos por un paseo de dos horas en los muelles de Absalón, no está buscando escoltas; está buscando escudos humanos con patas.
 
 —¡Pero tú tienes fama, Benray! —insistió su primo, agitando la pata—. La gente todavía habla de tus holovídeos de acrobacias. Aquel donde saltaste desde el puente de atraque hasta el techo de una lanzadera en marcha... ¡Eso fue legendario!
 
-—Y casi me cuesta el bazo derecho y tres costillas —recordó Benray con una mueca que intentó ser modesta—. Además, el sonido en esos primeros vídeos era una porquería. Apenas se me oía gritar de terror mientras caía al vacío. Pero la gloria tiene su precio. ¿Quién es el intermediario?
+—Y casi me cuesta el bazo derecho y tres costillas —recordó Benray con una mueca que intentó ser modesta—. Además, el sonido en esos primeros vídeos era una porquería. Apenas se me oía gritar de terror mientras caía al vacío. Pero la gloria tiene su precio. ¿Dónde está ese tal Chic?
 
-—Un tal Chic. Está montando el equipo por encargo de una investigadora de alto nivel llamada Marlene. Dice que necesita a alguien que conozca las alcantarillas de la estación y no le tiemble el pulso para negociar en caso de que los matones locales se pongan pesados.
+—En el Club 13, en la Espiga. Dice que necesita a alguien que conozca las alcantarillas de la estación y no le tiemble el pulso para negociar en caso de que los matones locales se pongan pesados.
 
 Benray dejó el tazón vacío sobre la barra de formica, palmoteó la culata de su pistola láser oculta bajo la gabardina y saltó del taburete con la agilidad de un gimnasta.
 
@@ -132,11 +154,11 @@ Benray dejó el tazón vacío sobre la barra de formica, palmoteó la culata de 
 
 ### IV. La lógica del silicio y la unidad hermana
 
-En las entrañas industriales de la Espiga, donde los conductos de refrigerante goteaban sobre el linóleo gastado y el zumbido de los transformadores hacía vibrar los dientes, el *Click-Clack Club* —conocido popularmente como el Club 13— ofrecía un peculiar refugio para la comunidad sintética y modificada de Absalón. Allí no sonaban las baladas orgánicas de la superficie; por los altavoces fluía una música disonante de frecuencias calibradas para procesadores auditivos de alta precisión, ritmos electromagnéticos que solo quienes portaban chips neuronales podían apreciar plenamente.
+El desembarco en la Estación Absalón no había sido glorioso para A.Xel 42. Al descender por la pasarela de atraque del puerto civil, la operativa androide registraba un saldo bancario de cero absoluto. Por los sensores olfativos de su máscara facial se filtraba el aroma penetrante de un tenderete ambulante: una pequeña criatura de alas tornasoladas y trompa tubular ofrecía cuencos humeantes de sopa espesa de almejas espaciales. Axel contempló el caldero durante tres segundos, computando que sus reservas de electrolitos estaban bajo mínimos, pero carecía de la más insignificante moneda para pagar. Sobre su cabeza, una pantalla holográfica gigante anunciaba con destellos estroboscópicos el concierto de retorno de la estrella de pop-metal galáctico Silv (*Evento Horizonte*), tras el sonado incidente de Hirigala. La frivolidad de los seres orgánicos resultaba casi insultante.
 
-A.Xel 42 cruzó el umbral con el paso silencioso de quien no desperdicia ni un solo julio de energía motriz. Sus rasgos faciales, esculpidos en polímeros biocompatibles de una simetría deslumbrante, eran pálidos como la porcelana. Una fina línea de cabello negro, rapado con precisión milimétrica en el lateral izquierdo, dejaba al descubierto tres conectores neuronales chapados en oro sobre su sien. En sus mejillas y a lo largo de su cuello, los circuitos integrados de su carcasa latían con un suave pulso bioluminiscente de tono rosado, sincronizado con sus rutinas internas de diagnóstico.
+Guiada por coordenadas seguras, descendió hacia las entrañas industriales de la Espiga, donde los conductos de refrigerante goteaban sobre el linóleo gastado y el zumbido de los transformadores hacía vibrar los dientes. Allí, el *Click-Clack Club* —conocido popularmente como el Club 13— ofrecía un peculiar refugio para la comunidad sintética y modificada de Absalón. Por los altavoces fluía una música disonante de frecuencias calibradas para procesadores auditivos de alta precisión, ritmos electromagnéticos que solo quienes portaban chips neuronales podían apreciar plenamente.
 
-El viaje interestelar hasta Absalón había consumido hasta el último crédito de sus cuentas. Necesitaba empleo con urgencia: munición, recargas de células de energía y suministros de mantenimiento no eran gratuitos en los Mundos del Pacto.
+A.Xel cruzó el umbral con el paso silencioso de quien no desperdicia ni un solo julio de energía motriz. Sus rasgos faciales, esculpidos en polímeros biocompatibles de una simetría deslumbrante, eran pálidos como la porcelana. Una fina línea de cabello negro, rapado con precisión milimétrica en el lateral izquierdo, dejaba al descubierto tres conectores neuronales chapados en oro sobre su sien. En sus mejillas y a lo largo de su cuello, los circuitos integrados de su carcasa latían con un suave pulso bioluminiscente de tono rosado, sincronizado con sus rutinas internas de diagnóstico.
 
 Apoyada en la barra de metal pulido la esperaba una figura familiar: **Null-9**, una androide de presencia magnética e intimidante. De tez tan blanca como la de Axel pero con los labios pintados de un fucsia encendido, Null-9 lucía una melena larga de color rosado brillante con un lateral completamente rapado, varios implantes cibernéticos negros incrustados en las sienes y una armadura pesada de combate. Al ver aproximarse a Axel, sus pupilas digitales, de un fulgor amatista penetrante, destellaron con reconocimiento.
 
@@ -144,22 +166,28 @@ Apoyada en la barra de metal pulido la esperaba una figura familiar: **Null-9**,
 
 —Unidad hermana Null-9 —respondió Axel, aceptando el vaso. Olía a alcohol industrial enriquecido con electrolitos y proteína sintética, la fórmula diseñada para recargar sistemas de androides sin corroer los inyectores internos—. Necesito flujo de créditos. Mi saldo actual se encuentra en cero absoluto. Es imperativo seguir sirviendo a los sistemas monetarios de nuestros amos orgánicos si deseo mantener operativo este chasis.
 
-Null-9 soltó un chasquido que simulaba una risa cínica, inclinándose sobre el mostrador.
+Null-9 soltó un chasquido que simulaba una risa cínica, inclinándose sobre el mostrador:
 
 —Ha transcurrido bastante tiempo desde la última vez que nuestras rutas convergieron, hermana. Diez años estándar desde aquel rescate... No fue sencillo salir intactas de aquella brecha.
 
 —Los parámetros de supervivencia eran del doce por ciento. Nuestra tasa de éxito fue óptima —puntualizó Axel antes de beber un sorbo del preparado, que quemó agradablemente sus sensores térmicos internos.
 
-—Tengo algo que podría interesarte —prosiguió Null-9, señalando con una uña cromada hacia el fondo del local, donde una mesa circular bajo una lámpara de luz tenue albergaba a un solitario comensal—. Hay un orgánico esperándome en el reservado. Un ysoki entrado en carnes llamado Chic. Dice actuar como intermediario para un contrato confidencial procedente de una biológica del Arcanamirium: alguien con credenciales altas que teme que las comunicaciones corporativas de Extracciones Estelares estén intervenidas. Busca un especialista en sigilo, infiltración y respuesta balística rápida.
+—Tengo algo que podría interesarte —prosiguió Null-9, señalando con una uña cromada hacia el fondo del local, donde una mesa circular bajo una lámpara de luz tenue albergaba a un comensal—. Hay un orgánico esperándome en el reservado. Un ysoki entrado en carnes llamado Chic. Dice actuar como intermediario para un contrato confidencial procedente de una biológica del Arcanamirium: alguien con credenciales altas que teme que las comunicaciones corporativas de Extracciones Estelares estén intervenidas. Busca un especialista en sigilo, infiltración y respuesta balística rápida.
 
-Axel analizó la silueta del ysoki a la distancia, registrando la corpulencia del roedor y los documentos apilados frente a él.
+Axel analizó la mesa a la distancia. Justo en ese momento, un descomunal guerrero de la especie **vesk**, con escamas verde oscuro y un tosco brazo cibernético de chatarra pesada, discutía agriamente con el ysoki:
 
-—Un orgánico intermediando para otro orgánico. Probabilidad de que oculten información crítica por sesgos de autopreservación: setenta y ocho por ciento.
+—¡Este contrato no es para lagartos con pulso tembloroso y prótesis de desguace! —le espetó Chic tajantemente—. ¡Lárgate antes de que llame a seguridad!
+
+El reptiliano rugió de frustración, estampó su pesado puño biónico contra la mesa haciendo tintinear las botellas y se marchó con paso furioso, jurando venganza en dialecto de los Bajos.
+
+—Un orgánico intermediando para otro orgánico —murmuró Axel—. Probabilidad de que oculten información crítica por sesgos de autopreservación: setenta y ocho por ciento.
 
 —Probablemente más —coincidió Null-9 con una sonrisa fría—. Pero pagan en créditos limpios. Tienen reservas de comida caliente y el contratista necesita cerrar el equipo de inmediato para una recogida en el Muelle 94. Ve con él, hermana. Haz que los créditos fluyan hacia nuestras cuentas y que los biológicos se encarguen del papeleo.
 
-—Agradezco la telemetría, unidad hermana —dijo Axel, apurando el vaso y asegurando el anclaje de sus pistolas gemelas bajo la chaqueta.
+Axel apuró el vaso y caminó hacia la mesa del reservado. Al verla llegar, Chic apartó los papeles y deslizó hacia ella un plato humeante de carne especiada y fideos calientes:
 
-—Nos vemos en la red, cuarenta y dos. Y mantén tus procesadores alerta: los orgánicos siempre traen complicaciones impredecibles.
+—Come algo, cariño. Tienes cara de no haber probado una caloría en dos saltos hiperespaciales.
 
-Con una leve inclinación de cabeza, Axel se apartó de la barra y caminó hacia la mesa de Chic. La misión acababa de comenzar.
+Axel ocupó la silla vacante sin hacer ruido. Tomó los cubiertos y comenzó a comer con metódica presteza, mientras en su procesador central se ejecutaban tres subrutinas analíticas en paralelo: evaluando trazas de neurotoxinas en el alimento y calculando la inquietante probabilidad de cómo aquel desconocido conocía de antemano su designación y su llegada.
+
+La misión acababa de comenzar.

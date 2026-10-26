@@ -21,19 +21,27 @@ En la imagen holográfica apareció la presentadora oficial del noticiero de Abs
 
 —*«Buenas tardes, ciudadanos de la estación»* —decía la voz melodiosa de Joana—. *«Una sangrienta reyerta entre bandas armadas ha sacudido la Dársena de Carga 94 hace escasos cuarenta minutos. Conectamos en directo con nuestra enviada especial, Carne Yac, en el lugar de los hechos.»*
 
-La pantalla cambió para mostrar a una periodista de la especie ghoran —un ser humanoide vegetal con flores blancas de pétalos carnosos brotando de su frente— sosteniendo un micrófono flotante frente al cordón policial de los Protectores. A sus espaldas, camillas automatizadas cubiertas con sábanas térmicas cargaban los cadáveres humeantes.
+La pantalla cambió para mostrar a una periodista de la especie ghoran —un ser humanoide vegetal con espinas prominentes y flores blancas de pétalos carnosos brotando de su frente— sosteniendo un micrófono flotante frente al cordón policial de los Protectores. A sus espaldas, camillas automatizadas cubiertas con sábanas térmicas cargaban los cadáveres humeantes.
 
-—*«Gracias, Joana»* —informó Carne Yac con semblante sombrío—. *«El balance oficial asciende a siete víctimas mortales. Tres de los fallecidos pertenecían a los Reyes del Nivel 21, tres a una facción rival de la Espiga, y la séptima víctima ha sido identificada formalmente como la profesora Marlene Boosmar, destacada xenobióloga asociada al prestigioso Arcanamirium.»*
+—*«Gracias, Joana»* —informó Carne Yac con semblante sombrío—. *«El balance oficial asciende a siete víctimas mortales en este enfrentamiento entre los Reyes del Nivel 21 y facciones rivales de la Espiga. Entre los caídos se encuentra la profesora Marlene Boosmar, destacada investigadora del Arcanamirium. Hemos logrado recabar testimonios directos de los testigos en el muelle.»*
 
-Marloc, que observaba la pantalla desde la penumbra del conducto, cerró los ojos con fuerza. Escuchar el nombre pronunciado en un boletín público le clavó una astilla helada en el pecho.
+La cámara enfocó a una mujer humana de mediana edad que se secaba los ojos con un pañuelo grasiento:
 
-—*«Los oficiales al mando»* —continuó la reportera ghoran— *«buscan intensamente a un grupo de cinco sospechosos que huyeron de la escena tras abatir a los atacantes. Testigos presenciales afirman haber visto a una mujer drow acompañada por una unidad meca de asalto pesado, un tecnomante humano de tez morena, una operativa androide y un individuo de especie ysoki con atuendo de acróbata. Se ruega a la ciudadanía no intervenir y reportar cualquier avistamiento a las fuerzas del sindicato.»*
+—*«¡Mi muchacho no era ningún criminal!»* —sollozaba la mujer ante el micrófono—. *«¡Él solo era gerente de relaciones estudiantiles para los Reyes del Nivel 21! ¡Un padre ejemplar que solo cobraba peajes para pagar los pañales de mi nieto!»* —en un arranque de congoja, la mujer dio un paso en falso hacia la reportera y soltó un alarido al pincharse contra las púas dorsales de la planta: *«¡Ay, virgen de los reactores, este cactus muerde!»*
 
-La transmisión se cortó con una ráfaga de estática y una advertencia de búsqueda y captura con retratos robot aproximados.
+Carne Yac carraspeó con incomodidad vegetal y giró el micrófono hacia un segundo testigo: un chatarrero humano con mono de trabajo desgastado:
 
-Benray se llevó las patas a la cabeza, tirándose de los bigotes con desesperación fingida.
+—*«Yo lo vi todo desde mi puesto de filtración de aire, señorita Yac»* —declaró Park Maryland II con ojos desorbitados—. *«Eran asesinos profesionales de sangre fría: una drow con chaqueta de corsaria, dos androides letales armados hasta los dientes, un mago estirado con corbata y una rata gigante vestida de payaso de circo.»*
 
-—¡Retrato robot con atuendo de acróbata! ¡Nos han visto! ¡Mi impecable gabardina de diseño, reducida a un disfraz de circo en la holored pública!
+Finalmente, un anciano con bigote blanco erizado y túnica de gala empujó la cámara con indignación:
+
+—*«¡Esto es una vergüenza institucional!»* —bramó Anastasio Oryander, delegado de seguridad psíquica—. *«La Primera Ejecutiva Kumaramaela Cruz ha permitido que los sindicatos y las megacorporaciones conviertan nuestros muelles en mataderos. ¡Exijo la dimisión en bloque del Consejo y el despliegue de la guardia psíquica!»*
+
+La transmisión regresó al plató central, donde Joana Jiménez leyó una advertencia de búsqueda y captura con retratos robot aproximados.
+
+Benray se llevó las patas a la cabeza, tirándose de los bigotes con desesperación fingida:
+
+—¡Retrato robot de payaso de circo! ¡Nos han visto! ¡Mi impecable gabardina de diseño, reducida a una parodia de feria en la holored pública!
 
 —El sesgo estético de los medios de comunicación es irrelevante —sentenció A.Xel con tono imperturbable, revisando los mapas de tráfico en su visor—. Lo tácticamente relevante es que la seguridad corporativa y los Protectores tienen nuestras descripciones biométricas. Permanecer en los niveles comerciales del Anillo garantiza nuestra detención en menos de dos horas.
 
@@ -41,7 +49,7 @@ Benray se llevó las patas a la cabeza, tirándose de los bigotes con desesperac
 
 —¿Subir al Ojo? —bufó Benray—. ¡El Ojo es donde vive la gente rica, los jueces y los directores corporativos! Con estas ropas manchadas de sangre y un meca de dos metros cubierto de pegatinas, nos van a escanear a cincuenta metros de distancia.
 
-Triel le dio una palmada en el hombro al ysoki.
+Triel le dio una palmada en el hombro al ysoki:
 
 —Pues crucemos ese puente antes de que nos quemen las espaldas, roedor. Vamos.
 
@@ -53,19 +61,17 @@ Cuando las compuertas neumáticas del montacargas se abrieron en el Nivel Superi
 
 Allí arriba, la Estación Absalón parecía otro planeta. El aire era fresco, limpio y dulce, enriquecido con fragancias de jazmín y tierra húmeda traídas desde los inmensos vergeles del *Parque Jatembe*. A través de la descomunal cúpula de permaglas transparente que coronaba el Ojo, la luz dorada y cálida del sol lejano bañaba amplias avenidas pavimentadas con mármol sintético y fuentes de agua pura donde peces de escamas luminosas nadaban en cascadas suspendidas.
 
-Ciudadanos adinerados de diversas especies —elfos vestidos con túnicas de seda flotante, humanos de traje ejecutivo y diplomáticos kasathas envueltos en chales ceremoniales— paseaban con tranquilidad, ajenos por completo a la mugre, la violencia y las guerras de pandillas que desgarraban los niveles inferiores.
-
 Avanzaron con paso rápido, procurando no llamar la atención. Gerty había replegado sus armas y marchaba con los sensores atenuados, pareciendo más un voluminoso mayordomo mecánico que un arma de guerra.
 
 La sede de *Inversiones Estelares* se alzaba frente a una arboleda centenaria: un edificio de arquitectura sobria pero imponente, construido con placas de basalto negro pulido que evocaban las estructuras pre-Brecha del desaparecido Golarion.
 
-Al cruzar las puertas de cristal polarizado, una recepcionista humana de porte distinguido alzó la mirada tras un mostrador flotante.
+Al cruzar las puertas de cristal polarizado, una recepcionista humana de porte distinguido alzó la mirada tras un mostrador flotante:
 
-—Buenas tardes, caballeros, damas... —sus ojos se abrieron ligeramente al toparse con el meca y la gabardina andrajosa de Benray, pero mantuvo su compostura profesional—. ¿Tienen cita registrada?
+—Buenas tardes, caballeros, damas... ¿Tienen cita registrada?
 
 —Buscamos a Chiskisk —dijo Marloc con voz firme, apoyando los nudillos sobre el mostrador—. Venimos en representación de la profesora Marlene Boosmar. Asunto de máxima prioridad.
 
-El semblante de la recepcionista cambió al instante. La cortesía distante dio paso a una tensión contenida. Tras una breve consulta a su consola interna, asintió con gravedad.
+La recepcionista asintió con gravedad tras una rápida comprobación en su consola:
 
 —Por favor, acompáñenme al piso superior. El comisionado los estaba esperando.
 
@@ -81,7 +87,7 @@ En lugar de hablar con cuerdas vocales, una voz melodiosa, suave y ligeramente r
 
 *«Bienvenidos, viajeros. Siento el peso del dolor y el olor a pólvora en sus ropas. No teman; esta sala está blindada contra cualquier sondeo de la seguridad oficial. Yo soy Chiskisk. Pueden dirigirse a mí con el pronombre que consideren más cómodo; mi especie valora la armonía de la comunicación por encima de los géneros gramaticales.»*
 
-Marloc dio un paso al frente, con el rostro sombrío.
+Marloc dio un paso al frente, con el rostro sombrío:
 
 —Marlene está muerta, Chiskisk. La asesinaron en el Muelle 94 antes de que pudiéramos cruzar una sola palabra con ella.
 
@@ -107,34 +113,46 @@ Marloc apretó la mandíbula, sintiendo que un escalofrío le recorría la espin
 
 —Chic creyó que éramos hermanos porque llevamos el mismo apellido y el parecido físico es desconcertante —dijo Marloc con voz sombría—. Pero yo jamás tuve constancia de una hermana. Mi padre, Ambrose Boosmar, era un hombre hermético y despiadado, pero esto va más allá de un secreto familiar... En mis recuerdos, yo era el catedrático, y Ángela falleció hace años. Lo último que recuerdo con certeza fue tocar un artefacto en el despacho de mi padre: una esfera metálica cubierta de runas doradas que cambiaban constantemente de forma. Después sobrevino el colapso, y desperté en el suelo con un único mensaje en mi comunicador: 'Nos veremos hermano. Firmado: M.B.'
 
-Triel y Benray intercambiaron una mirada de asombro.
+*«Universos divergentes, recuerdos implantados o un pliegue del espacio-tiempo...»* —concluyó Chiskisk, inclinando la cabeza con profunda reverencia ante lo desconocido—. *«El destino de Marlene y el suyo, profesor, están entrelazados por un hilo cósmico que trasciende las leyes conocidas. Vengan conmigo; hay algo que deben ver.»*
 
-—¿Una esfera con runas vivas? —preguntó Triel, fascinada—. Eso suena a tecnología de distorsión dimensional de la época pre-Brecha.
+El shirren se puso en pie y los guio hacia una puerta acorazada en el lateral del despacho. Al introducir su clave biométrica, la hoja de titanio se deslizó con un silbido presurizado, revelando el despacho privado de Marlene.
 
-*«O una anomalía vinculada a las corrientes inexploradas del Drift»* —concluyó Chiskisk, inclinando la cabeza con profunda reverencia ante lo desconocido—. *«Universos divergentes, recuerdos implantados o un pliegue del espacio-tiempo... No podemos descartar ninguna hipótesis en una galaxia donde planetas enteros como Golarion desaparecen sin dejar huella. Pero una cosa es indiscutible: el destino de Marlene y el suyo, profesor, están entrelazados por un hilo cósmico que trasciende las leyes conocidas. Y todo comenzó con el carguero que ella investigaba.»*
+La estancia olía a tabaco aromático de clavo y café frío. En las paredes colgaban cartas estelares y diplomas del Arcanamirium. Sobre el escritorio de caoba destacaba una fotografía holográfica enmarcada en plata pulida.
 
-Chiskisk volvió a posar sus patas sobre la mesa.
+Marloc avanzó con pasos vacilantes, como si caminara en sueños. Sus dedos cibernéticos rozaron el cristal del marco.
 
-*«Sus deducciones son tan agudas como Marlene predijo cuando seleccionó sus perfiles para este encargo. Verán, amigos míos: todo este derramamiento de sangre gira en torno a un fantasma que acaba de emerger del vacío estelar. La nave Acreon.»*
+La fotografía mostraba una habitación de hospital en Verces. En la cama yacía Marlene, sonriendo con entereza pese al aparatoso vendaje que cubría su hombro izquierdo, donde su brazo había sido recientemente amputado. Sentada junto a ella sobre el colchón, abrazándola con una devoción infinita, estaba una mujer rubia de sonrisa dulce y mirada luminosa: **Ángela**. A su lado posaban el viejo Chic y una mujer guerrera de tez morena y mirada severa llamada **Amélie**.
 
-—El *Acreon*... —repitió Triel, frunciendo el ceño—. Escuché rumores a bordo del *Halcón de Hierro*. Un carguero minero de la Diáspora.
+Al contemplar el rostro vivo y radiante de Ángela, el dique de contención que sostenía la cordura de Marloc se quebró en mil pedazos.
 
-*«Mucho más que eso, señorita Istrav»* —transmitió Chiskisk mentalmente—. *«Hace dos semanas, el Acreon emergió de un salto a través del Drift a escasas horas luz de la Estación Absalón. El Drift, esa dimensión hiperespacial misteriosa que permite los viajes más rápidos que la luz, guarda secretos que apenas empezamos a comprender. El Acreon venía remolcando un asteroide desconocido de composición geológica anómala atrapado en su estela: la llamada Roca del Drift, o Roca a la Deriva. Pero el Acreon llegó en silencio absoluto. Sin transmisiones. Sin balizas de auxilio. Su tripulación entera ha desaparecido de la faz del cosmos.»*
+El tecnomante cayó de rodillas contra el suelo de parqué. Se cubrió el rostro con ambas manos —la de carne viva y la prótesis de aleación— y rompió a llorar con un dolor desgarrador, sollozando con la garganta rota:
 
-Chiskisk proyectó un holograma en el centro de la habitación. En el aire apareció la silueta de un carguero pesado unido por gruesos cables de tracción a una mole rocosa oscura y picada de cráteres, alrededor de la cual parpadeaban tenues anomalías energéticas.
+—Ella... está viva aquí... —gemía Marloc entre lágrimas incontrolables—. En mi universo... en mi mundo Chic no pudo abrir la compuerta a tiempo... Ángela quedó atrapada en la esclusa despresurizada y la vi morir en el vacío ante mis ojos... Yo perdí el brazo intentando arrancarla de la muerte... Pero aquí... aquí Chic abrió la compuerta, Marlene perdió el brazo... y Ángela sobrevivió...
 
-*«Inmediatamente estalló una guerra legal y territorial»* —explicó el shirren—. *«Por un lado, la megacorporación Extracciones Estelares reclama la propiedad absoluta del asteroide y la nave, alegando un contrato minero leonino. Por el otro, el Colectivo Hardscrabble —la cooperativa de mineros y trabajadores independientes a la que pertenecía la tripulación desaparecida— exige rescatar a sus hermanos o recuperar sus derechos de salvamento. El Consejo de Síndicos no se atreve a intervenir por miedo a una guerra abierta.»*
+Triel se arrodilló a su lado. Con una delicadeza infinita, la joven semi-drow posó su mano sobre el hombro del tecnomante y le tendió un pañuelo de tela limpio:
 
-Marloc ató cabos en un segundo.
+—Marloc... estamos contigo. No estás solo en esta pesadilla.
 
-—Y Marlene descubrió algo sobre esa roca que alteraba el equilibrio del arbitraje.
+Chiskisk extendió dos de sus delgados apéndices sobre la nuca del humano, proyectando un cálido arrullo psíquico que serenó poco a poco el pulso desbocado de su corazón.
 
-*«Marlene era la asesora científica independiente designada para analizar las primeras lecturas radiológicas del asteroide»* —reveló Chiskisk con gravedad—. *«Ella me contactó anoche aterrada. Me dijo que lo que hay dentro de esa roca no es mineral ordinario. Es algo anterior a la Brecha. Algo que Extracciones Estelares quiere ocultar a cualquier precio, o que no dudarían en destruir antes de permitir que caiga en manos de la ciencia pública.»*
+Mientras tanto, Triel se acercó a la terminal personal de Marlene. Sus dedos volaron sobre el teclado holográfico con destreza asombrosa, sorteando los cortafuegos del sistema en cuestión de segundos:
 
-El shirren posó sus ojos compuestos sobre los cuatro, con una intensidad psíquica abrumadora.
+—¡Miren esto! —exclamó Triel, proyectando varias ventanas de datos en el aire—. Marlene trabajaba estrechamente con una organización benéfica: *Hogar entre Asteroides*, dedicada a proteger a mineros independientes. Y hay un expediente clasificado sobre Amélie... Murió hace tres meses en una esclusa de ventilación de una plataforma de Extracciones Estelares. Las autoridades lo cerraron como 'accidente laboral', pero Marlene sospechaba de un asesinato por encargo.
 
-*«Oficialmente, los Protectores los buscan como sospechosos de asesinato. Extracciones Estelares controla jueces y medios de comunicación. Si se entregan, jamás saldrán con vida de una celda. La única forma de limpiar sus nombres y hacer justicia a la memoria de Marlene es llegar a la raíz de la conspiración: deben descender a la Espiga, encontrar a la líder de los Reyes del Nivel 21 y averiguar quién pagó el golpe contra Marlene.»*
+Triel abrió un mensaje cifrado que Amélie le había enviado a Marlene poco antes de morir:
 
-Benray soltó un silbido bajo y ajustó el cañón de su pistola bajo la gabardina.
+> *«Marlene, deja de hurgar en los contratos de la roca. Extracciones Estelares no dudará en silenciarte como hicieron con los demás. Y por favor... deja de hablarle al vacío buscando a ese hermano inexistente en las estrellas. Vas a volverte loca.»*
 
-—Meternos en la guarida de los mismos pandilleros que acaban de acribillar a nuestra contratista en su propio territorio... Qué propuesta tan encantadora, comisionado. ¿Dónde firmamos?
+Marloc se puso en pie con lentitud, secándose las lágrimas. Su mirada ardía ahora con una determinación fría y acerada.
+
+Chiskisk volvió a enlazar sus mentes con gravedad solemne:
+
+*«Todo converge en el mismo punto, amigos míos. Hace dos semanas, el carguero Acreon emergió de un salto hiperespacial en órbita de Absalón, remolcando un asteroide anómalo: la Roca del Drift. Su tripulación entera ha desaparecido. Extracciones Estelares reclama la roca, el sindicato de mineros Hardscrabble exige justicia, y Marlene descubrió algo en ese asteroide que desbarataba las pretensiones de la corporación. Por eso ordenaron su muerte.»*
+
+El shirren posó sus ojos compuestos en el grupo:
+
+*«La policía los busca como chivos expiatorios. La única forma de limpiar sus nombres y vengar a Marlene es descender a las profundidades de la Espiga, infiltrarse en el Club Con-Fusión y arrancarle la verdad a la líder de los Reyes del Nivel 21: Ferani Nadaz.»*
+
+Benray sonrió de oreja a oreja, acariciando la culata de su pistola:
+
+—Meternos en la boca del lobo para interrogar a la reina de los bajos fondos... Empiezo a sentirme como en casa. En marcha, equipo.

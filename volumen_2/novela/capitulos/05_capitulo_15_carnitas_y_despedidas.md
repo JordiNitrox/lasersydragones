@@ -56,13 +56,15 @@ Benray se asomó a la cesta: en su interior había tres frascos de crema hidrata
 
 El contraste entre el cristal glacial de las torres de Extracciones Estelares y el bullicio ardiente de los niveles inferiores de la Espiga era tan violento que a Benray le costó un par de minutos aclimatar los sentidos.
 
-Allí abajo, donde los conductos de ventilación principal de Absalón goteaban condensación sobre las pasarelas metálicas oxidadas y las luces de vapor titilaban en tonos anaranjados, no existían protocolos diplomáticos ni sonrisas aristocráticas. Existía la vida en su estado más puro, caótico y ruidoso: el corazón palpitante del clan Galway.
+Allí abajo, donde los conductos de ventilación principal de Absalón goteaban condensación sobre las pasarelas metálicas oxidadas y las luces de vapor titilaban en tonos anaranjados, no existían protocolos diplomáticos ni sonrisas corporativas. Existía la vida en su estado más puro, caótico y ruidoso: el corazón palpitante del clan Galway.
 
-Al final de un laberinto de corredores industriales, una plaza abierta entre talleres clandestinos de chatarra desprendía un aroma embriagador que hizo rugir los estómagos de la tripulación: carne asada chisporroteando sobre braseros hechos con mitades de barriles de combustible reciclados, cebolletas asadas, tortillas de maíz sintético prensadas a mano y especias picantes que hacían toser a los no acostumbrados.
+Al final de un laberinto de corredores industriales, una plaza abierta entre talleres clandestinos de chatarra desprendía un aroma embriagador que hizo rugir los estómagos de la tripulación: carne asada chisporroteando sobre braseros hechos con mitades de barriles de combustible reciclados, cebolletas asadas, tortillas de maíz sintético prensadas a mano y chorizos especiados que hacían toser a los no acostumbrados.
+
+En una esquina de la plaza, un DJ humano con un extravagante sombrero de ala ancha pinchaba música bailable en una tornamesa donde brillaba con fuerza el logotipo holográfico de **Canal Atmos**, la célebre cadena de entretenimiento y deportes extremos.
 
 —¡Benray, cabronazo, estás vivo! —resonó un grito estentóreo desde el otro extremo de la plaza.
 
-Una marea de ysokis menudos de todos los tamaños y colores de pelaje —marrones, grises, atigrados y manchados— se abalanzó sobre el emisario. Tías con delantales manchados de grasa le tiraban de los bigotes, primos pequeños trepaban por sus pantalones cargo para arrebatarle caramelos y media docena de tíos le palmeaban la espalda con tal fuerza que casi le hacen escupir los pulmones.
+Una marea de ysokis menudos de todos los tamaños y colores de pelaje —marrones, grises, atigrados y manchados— se abalanzó sobre el emisario. Tías con delantales manchados de grasa le tiraban de los bigotes, primos pequeños trepaban por sus pantalones cargo para arrebatarle caramelos y media docena de tíos le palmeaban la espalda con tal fuerza que casi le hacen escupir los pulmones. Muchos hablaban en una algarabía vertiginosa que mezclaba el idioma común con el dialecto **akitoniano**, en el que Benray soltaba bromas y chascarrillos de vuelta.
 
 —¡Familia, familia, tranquilos, que arrugan el chaleco de gala! —reía Benray, repartiendo abrazos y esquivando mordisquitos cariñosos con la soltura de quien regresa al hogar.
 
@@ -70,42 +72,82 @@ Al frente del asador principal, un ysoki rechoncho de pelaje grisáceo oscuro, c
 
 —¡Primo! —exclamó Rim Rey, soltando las pinzas para darle un abrazo que crujió las costillas de Benray—. ¡Por fin te dignas a bajar de los barrios finos del Ojo! Escuché que te andabas codeando con la policía y con los muertos vivientes. ¡Toma un taco de carnitas y cuéntamelo todo antes de que la tía Rosa te obligue a bailar!
 
-Marloc, Triel, Axel y Gerty se aproximaron al círculo familiar con cierta cautela. Axel observaba el ritual con sus sensores analíticos al máximo, registrando el intercambio calórico y los abrazos con fascinación distante, mientras Gerty permanecía a dos metros del fuego, desconfiando abiertamente de las chispas que saltaban hacia sus placas blindadas.
+Marloc, Triel, Axel y Gerty se aproximaron al círculo familiar. La vivienda anexa de la tía donde se resguardaban del bullicio era estrecha pero repleta de cuadros entrañables: un lienzo clásico de un payaso llorando y una reproducción al óleo de varios perros jugando al póker en torno a una mesa verde. Marloc contempló las pinturas con educada admiración:
 
-—*Advertencia térmica* —anunció el meca por sus altavoces—. *La concentración de grasas animales en suspensión en este sector supera los parámetros de higiene militar. Solicito autorización para desplegar pantalla cortafuegos.*
+—Una colección sumamente expresiva y hogareña, estimado señor Galway.
 
-—Cállate y come, Gerty... o al menos haz como que te diviertes —le susurró Triel, aceptando con una sonrisa radiante un plato de carnitas humeantes que una prima ysoki le ofrecía con timidez—. Señora, esto huele absolutamente delicioso. Muchas gracias.
+—*Advertencia térmica* —anunció Gerty por sus altavoces, desconfiando de las chispas del asador—. *La concentración de grasas animales en suspensión en este sector supera los parámetros de higiene militar. Solicito autorización para desplegar pantalla cortafuegos.*
+
+—Cállate y come, Gerty —le susurró Triel, aceptando con una sonrisa radiante un plato de carnitas humeantes que una prima ysoki le ofrecía con timidez—. Señora, esto huele absolutamente delicioso.
+
+Varias jóvenes ysokis del clan rodearon a Triel, coqueteando abiertamente con la semi-drow mientras admiraban los cuatro brazos de Gerty y tocaban los pernos de aleación con exclamaciones de asombro.
+
+En mitad de la plaza, Benray agarró a Axel de la mano metálica:
+
+—¡Basta de timideces, operativa! ¡Esto es una fiesta Galway y nadie se queda sentado!
+
+Axel intentó procesar el ritmo de la música de Canal Atmos, pero sus algoritmos no estaban programados para bailes populares. La androide ejecutó una serie de pasos milimétricamente rígidos que la hicieron tropezar contra un taburete y derribar una cubeta de refrescos. Lejos de molestarse, una docena de ysokis estallaron en vítores y aplausos, imitando la rigidez cómica de Axel en medio de carcajadas compartidas.
 
 ***
 
-### III. La motoneta vespacial y las sombras corporativas
+### III. La motoneta vespacial y el maletín de Marcellus
 
-Tras el festín y los brindis con aguardiente de tubérculos fermentados, Rim Rey apartó a Benray hacia el fondo de su taller, descorriendo una lona ignífuga que cubría un rincón del garaje.
+Tras el festín y los brindis con aguardiente de tubérculos fermentados, Rim Rey apartó a Benray hacia el fondo de su taller mecánico, descorriendo una lona ignífuga que cubría un rincón del garaje.
 
 Allí descansaba la mayor joya material del emisario: su motoneta «vespacial».
 
-Era una máquina de dos ruedas repulsoras, de chasis tubular ligero pintado en azul eléctrico con llamas plateadas aerografiadas a mano en los laterales, manillar elevado con espejos retrovisores cromados y un motor de gravitón modificado que zumbaba con un ronquido grave y seductor.
+Era una máquina de dos ruedas repulsoras, de chasis tubular ligero pintado en un **amarillo chillón impecable**, con asientos tapizados en cuero fino artesanal y aerografías en los costados que representaban flamas ardientes y siluetas de chicas pinup semidesnudas.
 
 —Mírala, primo... —suspiró Benray con los ojos empañados de orgullo paternal—. Más bonita que una fragata de batalla de los Mundos del Pacto.
 
-—Le cambié los inyectores de plasma, le afiné la suspensión magnética y le instalé un depósito de combustible auxiliar en el hueco bajo el asiento —explicó Rim Rey, secándose las manos grasientas con un trapo—. Además, el viejo Marcelo me dio esto para ti antes de que la policía cerrara el muelle.
+Triel se acercó, atraída por el zumbido de los inyectores, y se arrodilló junto al motor. Con ojo clínico de ingeniera naval, la semi-drow examinó los conductos de gravitón, la suspensión magnética reforzada y las válvulas de combustible auxiliar:
 
-Rim Rey extrajo de debajo del banco de trabajo un saco de lona pesada, cerrado con cinta adhesiva donde alguien había escrito con rotulador rojo: *«NO TOCAR - PELIGRO DE MUERTE»*.
+—Por todos los dioses... —soltó Triel, alzando la cabeza boquiabierta—. Rim, estas piezas no son chatarra reciclada de la Espiga. Son inyectores de plasma de competición y amortiguadores de vacío de grado militar. Aquí hay fácilmente **más de quinientos créditos en mejoras de primera calidad**.
 
-Benray abrió la cremallera con cuidado: en el interior descansaban cuatro granadas de pulso de grado militar, dos cargadores de alta densidad para fusiles láser y una docena de parches dérmicos de coagulación rápida.
+Benray se detuvo en seco. Miró la tornamesa con el logo de Canal Atmos en la plaza y luego clavó sus ojos negros en su primo:
 
-—Regalo de despedida —dijo Rim Rey en voz baja, bajando las orejas y adoptando un tono inusualmente serio—. Y vas a necesitarlo, primo. Desde que salieron de la embajada de Eox, hay dos tipos con trajes grises y gabardinas corporativas rondando las esquinas del callejón. Preguntaron por ti en la cantina de abajo. Son sabuesos de Extracciones Estelares.
+—Rim... ¿de dónde diablos sacaste quinientos créditos para estas piezas de carreras y para contratar a un DJ humano de una cadena de holotelevisión? ¿En qué te estás metiendo?
 
-Marloc y Axel se acercaron al escuchar el cambio de tono.
+Rim Rey bajó las orejas con un gesto a medio camino entre el orgullo herido y la culpabilidad:
 
-—¿Los viste de cerca? —preguntó Marloc, posando los dedos mecánicos sobre la empuñadura de su pistola.
+—No soy ningún tonto, Benray. Tengo nuevos clientes y trabajos bien pagados. ¿Acaso creías que tú ibas a ser el único Galway capaz de destacar y triunfar fuera de Akiton? No soy solo tu asistente de cámaras. Sé cuidarme solo.
 
-—Llevaban implantes cibernéticos de combate en el cuello y comunicadores de enlace satelital —respondió Rim Rey—. No querían problemas con el clan porque saben que si se meten con un ysoki en la Espiga les caen cien llaves inglesas en la cabeza, pero les están siguiendo el rastro. Saben que van tras el *Acreon*.
+Benray suspiró, recordando su juventud compartida:
 
-Benray montó en su motoneta, acariciando el manillar con una mueca burlona en los labios:
+—Primo, nos criamos juntos en las calles polvorientas de Akiton desde que teníamos diez años. Hace apenas dos meses que salimos huyendo de ese planeta agonizante para buscar un futuro en Absalón. Conozco a esa gente corporativa; no regalan quinientos créditos por cortesía.
 
-—Que miren todo lo que quieran. Mañana estaremos en órbita a millones de kilómetros de sus oficinas. Rim, cuida a la familia y guárdame la motoneta en un lugar seguro. Si regreso sin ella, prefiero que me coma un monstruo del vacío.
+Rim desvió la mirada y extrajo de debajo del banco de trabajo un maletín metálico sellado con un lector biométrico:
 
-—Descuida, hermanito —sonrió Rim Rey, estrechándole la pata—. El clan Galway no olvida a los suyos. Salgan ahí fuera, demuéstrenles a esas corporaciones de qué estamos hechos y vuelvan vivos para la próxima carne asada.
+—Marcellus me pidió que te entregara esto antes de que salieras hacia el muelle.
 
-Con el saco de suministros cargado en los hombros metálicos de Gerty y el calor familiar templando sus ánimos, el grupo abandonó los Bajos en dirección a los astilleros del Anillo. La noche sobre Absalón tocaba a su fin; a pocas horas de distancia, su nueva nave los aguardaba en los muelles de atraque.
+Al abrir el maletín, la tripulación se inclinó sobre el acolchado térmico. En su interior descansaba **un set profesional de seis microcámaras holográficas de alta definición y un soporte magnético de dron flotante diseñado para acoplarse al hombro de Gerty**. Junto a los dispositivos parpadeaba un chip de memoria con un videomensaje grabado.
+
+Benray insertó el chip en su terminal de muñeca. En el holoproyector apareció el rostro afilado y sonriente de **Marcellus**, el productor y editor estrella de Canal Atmos:
+
+—*«Benray, muchacho... Estamos en negocios. ¿Cómo marcha ese asunto clasificado en el Acreon? Espero metraje de primera pronto. Te envío este equipo de grabación de grado broadcast para que no vuelvas a perderte una buena persecución policial. Tengo mucho material que editar para tu próximo especial en la red. Mucha suerte en el pecio... Nos estamos hablando.»*
+
+Marloc frunció el ceño, observando la holotransmisión con suspicacia:
+
+—¿Cómo sabía ese productor que nuestra misión se dirige al *Acreon*? Supuestamente era una encomienda bajo confidencialidad judicial.
+
+—Marcellus fue el primero en mencionarme que había un trabajo en el *Acreon* antes de que nos contratara Chiskisk —admitió Benray con una mueca pensativa—. Su trabajo en Canal Atmos es enterarse de todo antes que la policía. Pero no se preocupen: las cámaras filtrarán lo que nos convenga mostrar.
+
+Marloc se apoyó en el marco de la compuerta y miró al ysoki a los ojos:
+
+—Una pregunta, Benray: ahora que estamos a punto de volar hacia lo desconocido... ¿qué fue lo que realmente te empujó a alejarte del clan y arriesgar la vida en estas peripecias?
+
+Benray acarició el manillar de su motoneta, guardando silencio unos segundos antes de responder con inusual sinceridad:
+
+—La fama en la holored es una bestia engañosa, profesor. Viene rápido, pero se esfuma más rápido aún. Si no haces acrobacias más extremas y te metes en peligros mayores, el público te olvida de un día para otro. Estaba cansado de trucos baratos en callejones. La misión del *Acreon*... esta es una aventura real. La aventura que siempre soñé vivir y filmar. Y si sobrevivo, volveré siendo una leyenda para mi familia.
+
+Con una sonrisa pícara, Benray encendió el motor repulsor de la motoneta amarilla, que emitió un ronquido grave y seductor:
+
+—Operativa Axel... ¿quiere comprobar cómo responde esta preciosidad antes de que la guardemos?
+
+Axel ladeó la cabeza:
+
+—Mis cálculos indican un margen de riesgo vial del sesenta y cuatro por ciento. Subiendo a bordo.
+
+La androide montó a horcajadas tras Benray, sujetándose a su chaleco. El ysoki aceleró a fondo: la motoneta salió disparada como un cometa amarillo por la rampa del garaje, surcando las pasarelas industriales de la Espiga a doscientos kilómetros por hora. Benray ejecutó un derrape acrobático en el aire sobre una tubería de ventilación antes de regresar a la plaza entre los vítores atronadores de todo el clan Galway.
+
+Con el maletín de cámaras de Marcellus a buen recaudo en los anclajes de Gerty y el afecto de su familia templando sus espíritus, la tripulación se despidió de la Espiga con la promesa de regresar con vida. Su transporte los esperaba en los muelles de atraque del Anillo.

@@ -8,6 +8,7 @@ calculando los números de página exactos en 2 pases con pdftotext.
 
 import os
 import re
+import glob
 import subprocess
 import urllib.parse
 
@@ -184,12 +185,31 @@ CTX_TOC_ITEMS = [
     }
 ]
 
+def consolidate_sections():
+    sec_dir = os.path.join(BASE_DIR, "secciones")
+    if os.path.exists(sec_dir):
+        sec_files = sorted(glob.glob(os.path.join(sec_dir, "*.md")))
+        if sec_files:
+            parts = []
+            for f in sec_files:
+                with open(f, "r", encoding="utf-8") as fp:
+                    content = fp.read().strip()
+                    if content:
+                        parts.append(content)
+            consolidated = "\n\n---\n\n".join(parts) + "\n"
+            with open(MD_INPUT, "w", encoding="utf-8") as fp:
+                fp.write(consolidated)
+            return consolidated
+    if os.path.exists(MD_INPUT):
+        with open(MD_INPUT, "r", encoding="utf-8") as fp:
+            return fp.read()
+    return ""
+
 def render_html(page_numbers=None):
     if page_numbers is None:
         page_numbers = {item["id"]: "--" for item in CTX_TOC_ITEMS}
         
-    with open(MD_INPUT, "r", encoding="utf-8") as fp:
-        raw_md = fp.read()
+    raw_md = consolidate_sections()
     body_html = md_to_html(raw_md)
     
     toc_rows = []

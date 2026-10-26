@@ -5,7 +5,7 @@
 
 ## 📕 Libro Completo en PDF Maquetado
 Puedes descargar y leer la novela completa en formato PDF editorial:
-👉 **[Descargar PDF Maquetado (60 Páginas)](Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf)**
+👉 **[Descargar PDF Maquetado (84 Páginas)](Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf)**
 
 ---
 
@@ -19,11 +19,11 @@ Puedes descargar y leer la novela completa en formato PDF editorial:
 - **[Capítulo 4: Emboscada en el Muelle 94](capitulos/04_capitulo_4_emboscada_en_el_muelle_94.md)** *(Final del Episodio 2)*: La llegada al Muelle 94; el cruce de miradas entre Marloc y Marlene; y el disparo letal que desata la emboscada.
 - **[Capítulo 5: Fuego Cruzado y Chatarra](capitulos/05_capitulo_5_fuego_cruzado_y_chatarra.md)** *(Episodio 3)*: La batalla táctica: Benray al mando, Gerty en fuego pesado, A.Xel en sigilo letal y Marloc desatando su magia (*Null-Vector*).
 - **[Capítulo 6: Noticias de Última Hora y el Enigma de Chiskisk](capitulos/06_capitulo_6_noticias_y_el_enigma_de_chiskisk.md)** *(Episodios 4 y 5)*: El informativo holográfico; la reunión con el shirren Chiskisk de Inversiones Estelares en el Ojo; y la revelación del misterio de la nave *Acreon* y la Roca del Drift.
-- **[Capítulo 7: Mano de Seda y Cartas Cuánticas](capitulos/07_capitulo_7_la_jugada_de_marloc.md)** *(Episodio 6)*: La partida clandestina de cartas en el Club 13 con D-52 y Luke Mano de Seda, el engaño de Axel y la revelación sobre la androide Clara.
-- **[Capítulo 8: El Laberinto de los Bajos](capitulos/08_capitulo_8_el_laberinto_de_los_bajos.md)** *(Episodio 7)*: El descenso por los túneles industriales de la Espiga, desactivación de trampas y apertura de compuertas blindadas.
-- **[Capítulo 9: La Reina de la Con-Fusión](capitulos/09_capitulo_9_la_reina_de_la_con_fusion.md)** *(Episodios 8 y 9)*: El asalto al Club Con-Fusión; combate contra el vesk Brock Hilario «el Rompeportones»; y la confesión de Ferani Nadaz sobre la conspiración de Extracciones Estelares.
-- **[Capítulo 10: Rumbo a la Deriva](capitulos/10_capitulo_10_rumbo_a_la_deriva.md)** *(Episodio 10)*: La llamada de Benray a su primo Rim Rey; la emboscada de los drones de seguridad; el rescate diplomático de Chiskisk; y la partida oficial de la tripulación hacia el misterio del *Acreon*.
-- **[Anexo Especial: Dossier de Personajes y Glosario](GLOSARIO_Y_PERSONAJES.md)**: Fichas de los protagonistas, secundarios clave (Chiskisk, Rim Rey, Chic, Ferani Nadaz, Brock Hilario, Carne Yac), y glosario del Drift, Inversiones Estelares y corporaciones como Extracciones Estelares.
+- **[Capítulo 7: Mano de Seda y Cartas Cuánticas](capitulos/07_capitulo_7_la_jugada_de_marloc.md)** *(Episodio 6)*: La partida clandestina de cartas en el Club 13 con D-52, Silo y Luigi; el duelo arcade de simulación de cazas; y la revelación sobre la androide Eclair.
+- **[Capítulo 8: El Laberinto de los Bajos](capitulos/08_capitulo_8_el_laberinto_de_los_bajos.md)** *(Episodio 7)*: El descenso por los túneles industriales de la Espiga, la carrera clandestina de motonetas, y el plan de infiltración como falsos enviados de la Casa Istrav.
+- **[Capítulo 9: La Reina de la Con-Fusión](capitulos/09_capitulo_9_la_reina_de_la_con_fusion.md)** *(Episodios 8 y 9)*: El asalto al Club Con-Fusión; combate contra Ferani Nadaz y Brock Hilario; y la confesión sobre la conspiración de Extracciones Estelares y el sicario drow Kallio.
+- **[Capítulo 10: Huyendo del Pasado](capitulos/10_capitulo_10_rumbo_a_la_deriva.md)** *(Episodio 10)*: El botín de la caja fuerte y la fuga enérgica de Con-Fusión; la contratación formal con Chiskisk; el dolor desgarrador de Marloc ante la viuda Ángela; la noche de revelaciones en el Hotel Las Lunas; y el desayuno en el Ojo que desemboca en el arresto policial.
+- **[Anexo Especial: Dossier de Personajes y Glosario](GLOSARIO_Y_PERSONAJES.md)**: Fichas de los protagonistas, secundarios clave (Chiskisk, Rim Rey, Chic, Ferani Nadaz, Brock Hilario, Thalud, Eclair, Carne Yac), y glosario del Drift, Inversiones Estelares y corporaciones como Extracciones Estelares.
 
 ---
 

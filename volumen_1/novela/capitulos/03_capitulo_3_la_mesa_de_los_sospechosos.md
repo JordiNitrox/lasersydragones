@@ -24,23 +24,43 @@ Benray miró a la androide, miró el fruto seco ensartado en su estilete y, tras
 
 Marloc, mientras tanto, permanecía con la mirada perdida en los reflejos cobrizos de su brazo cibernético. Aunque la fiebre parecía haber remitido ligeramente gracias al aire acondicionado del bar, el enigma de su despertar le pesaba en el pecho como una losa de plomo.
 
-Chic se inclinó sobre la mesa, entornando sus ojos vivaces mientras examinaba a Marloc con una mezcla de asombro y familiaridad.
+—Chic... —dijo Marloc con voz ronca, clavando sus ojos oscuros en el intermediario—. Me alegro de encontrarte. Soy yo. Marloc Boosmar.
 
-—Usted debe de ser la sorpresa que ella me prometió —dijo el intermediario ysoki, chasqueando la lengua—. Marloc Boosmar. Ella me avisó de que hoy se reuniría con su hermano... Usted es el hermano de Marlene, ¿verdad? De la profesora Marlene Boosmar.
+El viejo ysoki entrecerró los ojos pequeños y arrugó el hocico con desconfianza, rascándose la papada:
 
-Marloc se quedó helado. La jarra de vodka se detuvo a escasos centímetros de sus labios; sus pupilas se contrajeron con una mezcla de desconcierto y fría alarma.
+—¿Marloc? No tengo la menor idea de quién eres, caballero. Jamás te había visto la cara en toda mi vida.
 
-—¿De qué demonios está hablando? —respondió Marloc con voz áspera—. Yo no conozco a ninguna Marlene Boosmar. Y jamás he tenido hermanas ni hermanos.
+Marloc se quedó helado. En los rincones fracturados de su memoria, Chic era un rostro familiar, un socio de confianza en tiempos pasados. Ver aquella mirada de absoluta indiferencia fue como recibir un puñetazo en el estómago.
 
-Chic parpadeó, perplejo, moviendo los bigotes con incredulidad.
+Chic bajó la vista hacia su libreta electrónica, hojeando archivos cifrados con un chasquido de dientes:
 
-—¿Cómo que no la conoce? ¡Llevan el mismo apellido! Marlene Boosmar... la esposa de Ángela, la brillante xenobióloga del Arcanamirium. Es hija del doctor Ambrose Boosmar, uno de los grandes catedráticos de la institución. ¿Me está diciendo que no es pariente suya? ¿No fueron compañeros en la facultad?
+—Espera... ¿Boosmar dijiste? ¡Por las lunas de Liavara! ¡Tú eres la sorpresa que ella me prometió! Ella me avisó de que hoy se reuniría con su hermano... Usted es el hermano de Marlene, ¿verdad? De la profesora Marlene Boosmar.
 
-Marloc sintió que el suelo de la estación se abría bajo sus pies. Un sudor gélido le empapó la nuca.
+Marloc parpadeó, con las pupilas contraídas por la alarma:
 
-—Mi padre y yo teníamos una relación nefasta, distante hasta el desprecio —murmuró Marloc, apretando los nudillos de su mano mecánica hasta hacer gemir los servomotores—. Desconozco si mi padre engendró otra hija en secreto o si me ocultó a una hermana toda la vida... pero en mis recuerdos, yo era el profesor titular en el Arcanamirium. Y Ángela... en mis recuerdos, Ángela murió hace años. Cuando desperté esta mañana en un aula vacía con la boca ensangrentada, mis cuentas bancarias estaban borradas, mis credenciales no existían en las bases de datos de Absalón y solo encontré un mensaje residual en mi comlink que decía: *«Busque a Chic. Nos veremos hermano. Firmado: M.B.»*
+—¿De qué demonios estás hablando? Yo no conozco a ninguna Marlene Boosmar. Y jamás he tenido hermanas ni hermanos.
 
-El silencio cayó sobre el reservado como un manto plomizo. Incluso Benray dejó de mordisquear su fruto seco, mirando de reojo al tecnomante.
+Chic soltó una risita seca, moviendo los bigotes con incredulidad:
+
+—¿Cómo que no la conoce? ¡Llevan el mismo apellido! Marlene Boosmar... la esposa de Ángela, la brillante investigadora del Arcanamirium. Es hija del doctor Ambrose Boosmar, uno de los grandes catedráticos de la institución. ¿Me está diciendo que no es pariente suya? ¿No fueron compañeros en la facultad?
+
+La frase *«la esposa de Ángela»* impactó en el pecho de Marloc con la fuerza de un proyectil de cañón de riel. 
+
+Un sudor gélido le empapó la nuca y el mundo pareció desvanecerse en un pitido blanco ensordecedor. ¿Ángela... casada con Marlene? En su universo original, Ángela era su propia esposa; la mujer a la que había visto morir atrapada en una esclusa de Verces, la pérdida insuperable que había quebrado su alma. Sin mediar palabra, con la mano temblando de forma visible, Marloc agarró un vaso entero de vodka destilado de la mesa y se lo tragó de un solo trago, sin respirar, dejando que el alcohol le abrasara la garganta en un intento desesperado por anclar su mente a la realidad.
+
+Benray, que lo observaba de reojo, dejó su comida y se inclinó hacia el humano. Con dos dedos peludos le tomó el pulso en la muñeca cibernética, palpando los tendones que vibraban al rojo vivo:
+
+—Tranquilo, aristócrata de la corbata, que me va a dar un colapso en plena mesa de negociación —diagnosticó el ysoki con seriedad médica repentina—. Eso es un shock neurológico de manual, con taquicardia y bajón de azúcar acelerado. Abra la boca.
+
+Benray metió la pata delantera en uno de los amplios bolsillos interiores de su gabardina y extrajo un tubo arrugado de confites de colores brillantes:
+
+—Tome dos de estos y mastique despacio. Es glucosa concentrada con sabor a fresas de Castrovel. Le estabilizará el azúcar y la ansiedad antes de que se me desmaye otra vez sobre las baldosas.
+
+Marloc se llevó los caramelos a la boca con movimientos mecánicos. El dulzor químico alivió gradualmente el temblor de sus dedos.
+
+—Mi padre y yo teníamos una relación nefasta, distante hasta el desprecio —murmuró Marloc con la voz quebrada por el vodka—. Desconozco si mi padre engendró otra hija en secreto o si me ocultó a una hermana toda la vida... pero en mis recuerdos, yo era el profesor titular en el Arcanamirium. Y Ángela... en mis recuerdos, Ángela murió hace años. Cuando desperté esta mañana en un aula vacía con la boca ensangrentada, mis cuentas bancarias estaban borradas, mis credenciales no existían en las bases de datos de Absalón y solo encontré un mensaje residual en mi comlink que decía: *«Busque a Chic. Nos veremos hermano. Firmado: M.B.»*
+
+El silencio cayó sobre el reservado como un manto plomizo. Incluso Benray guardó silencio respetuoso, guardándose el tubo de dulces en la mejilla.
 
 Chic sacó un pequeño proyector holográfico de su chaleco y lo depositó sobre el centro de la mesa.
 
@@ -54,7 +74,17 @@ Triel contuvo el aliento y miró alternativamente el holograma y el rostro de Ma
 
 —El parecido biológico es estadísticamente innegable —dictaminó A.Xel tras un escaneo óptico—. Coincidencia de morfología craneal y tono de iris superior al noventa y dos por ciento.
 
-Marloc no respondió. Miraba la imagen parpadeante con una fascinación hipnótica teñida de terror. No la reconocía en sus recuerdos conscientes, pero algo en lo más profundo de sus conexiones neuronales vibraba con una certeza que no podía formular en palabras.
+La androide desvió entonces su mirada analítica hacia Gerty, que montaba guardia tras Triel:
+
+—Adicionalmente, registro que la unidad bipedal pesada de la señorita Istrav posee una arquitectura externa inspirada de forma inequívoca en los mecas del anime de holovisión *Project Caiman Singularium*.
+
+Triel soltó una carcajada defensiva, dándole una palmada afectuosa al chasis de aleación de su dron:
+
+—Gerty no es un juguete de dibujos animados, A.Xel. Lo construí y programé yo misma cuando era una cría encerrada en Apostae, con un módulo aleatorio de autoaprendizaje. Todavía está aprendiendo modales, pero tiene más lealtad que cualquier biológico de esta estación.
+
+—*Mi procesador procesa los comentarios de la androide y los archiva en la papelera de reciclaje* —apostilló Gerty con un chasquido sintetizado.
+
+Marloc, mientras tanto, no apartaba los ojos del holograma de Marlene. Algo en lo más profundo de sus conexiones neuronales vibraba con una certeza que no podía formular en palabras.
 
 —Ella me dio sus nombres exactos —continuó Chic, apagando el holograma—. Me dijo que los necesitaba a los cuatro para una misión crítica. ¿Qué clase de trabajo requiere a un tecnomante sin identidad, una mecánica naval de la Diáspora con un meca artillero, una agente sintética de élite y un... —miró a Benray de arriba abajo— ...un agitador profesional con problemas de paranoia?
 

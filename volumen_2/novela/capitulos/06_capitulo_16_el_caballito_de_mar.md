@@ -4,35 +4,37 @@
 
 El sector minero del Anillo en la Estación Absalón no tenía el lustre corporativo del Ojo ni la decadencia asfixiante de la Espiga. Era un territorio de obreros del espacio, donde el aire sabía a óxido de hierro, queroseno espacial y sudor frío. En los muelles secos de gran tonelaje, gigantescas grúas de carga transportaban lingotes de mineral bruto entre el estrépito de martillos neumáticos y llamaradas de soldadura industrial.
 
-Fue en la esclusa de embarque número doce donde el grupo conoció al hombre que custodiaba su pasaje a las estrellas.
+Fue en la esclusa de embarque número doce donde el grupo conoció al hombre que custodiaba su pasaje a las estrellas... y a las autoridades que acudieron a despedirlos.
 
-El Capitán Otal Seris los aguardaba en la pasarela de atraque con los brazos cruzados y las piernas bien asentadas sobre la rejilla metálica, como si desafiara la gravedad artificial de la estación. Era un humano de complexión robusta y espalda ancha que rondaba la cincuentena, con el cabello castaño cortado casi al rape, salpicado de canas en las sienes. Vestía una chaqueta azul marino de paño grueso con ribetes náuticos espaciales y botones de bronce desgastados. En el lado izquierdo de su rostro, un implante cibernético ocular de aleación mate reemplazaba el ojo biológico, emitiendo un tenue zumbido sónico y una lente irisada calibrada para enfocar en la penumbra del vacío.
+Junto a la pasarela de atraque aguardaba el Capitán Otal Seris, comandante del *Corredor de Caminos*. Era un humano de complexión robusta y espalda ancha que rondaba la cincuentena, con el cabello castaño cortado casi al rape, salpicado de canas en las sienes. Vestía una chaqueta azul marino de paño grueso con ribetes náuticos espaciales y botones de bronce desgastados. En el lado izquierdo de su rostro, un implante cibernético ocular de aleación mate reemplazaba el ojo biológico, emitiendo un tenue zumbido sónico y una lente irisada calibrada para enfocar en la penumbra del vacío.
 
-Al verlos llegar, el veterano capitán dio dos pasos al frente con una amplia sonrisa afable y franca:
+A pocos pasos de él, supervisando la documentación oficial, se encontraba el **Oficial León**, un joven y marcial mando de los Protectores con uniforme verde olivo, quien revisaba las credenciales con severidad protocolaria. Y cerrando la insólita comitiva, envuelto en su casaca militar azul oscuro con charreteras de plata y rodeado por una escolta de caballeros de la tumba, el mismísimo **Embajador Gevalarsk Nor** de Eox observaba la escena con sus ojos de fuego verde.
 
-—¡Por las lunas de Liavara, al fin están aquí! —exclamó Seris con voz de barítono curtida en puentes de mando—. Bienvenidos al muelle del Colectivo Hardscrabble. Soy el capitán Otal Seris, comandante del *Corredor de Caminos*. Es un auténtico honor recibir a los mediadores que el Consejo e Inversiones Estelares nos han enviado.
+Al verlos llegar, el capitán Seris dio dos pasos al frente con una amplia sonrisa afable y franca:
 
-El capitán se detuvo frente a Triel, inclinó ligeramente el torso y le tomó la mano con galantería de la vieja guardia:
+—¡Por las lunas de Liavara, al fin están aquí! —exclamó Seris con voz de barítono curtida en puentes de mando—. Bienvenidos al muelle del Colectivo Hardscrabble. Es un auténtico honor recibir a los mediadores independientes.
 
-—Señorita Istrav... un auténtico placer contar con una ingeniera de su calibre a bordo. —Luego se volvió hacia el ysoki, extendiéndole una mano ancha y callosa—. Y el señor Benray Galway. He visto sus vídeos acrobáticos en la holored, muchacho; hay que tener un par de propulsores muy bien puestos para tirarse al vacío en una motoneta como usted lo hace.
+El capitán se detuvo frente a Marloc, clavando su ojo biónico en el tecnomante con sincera emoción:
 
-Benray infló el pecho, devolviéndole el apretón con entusiasmo:
+—Señor Boosmar... En cuanto lo vi cruzar la pasarela supe quién era. Recuerdo perfectamente las fotografías de Marlene y de Ángela, bebiendo cervezas y riendo a carcajadas en la cantina tras regresar de una excavación en ruinas lejanas. El parecido familiar con Marlene es asombroso; ella era una gran exploradora y una mujer de honor.
 
-—El secreto está en calcular el vector de escape, capitán... y en rezar para que los amortiguadores no revienten. Díganos, ¿dónde está nuestra belleza?
+Marloc asintió en silencio, conmovido por el homenaje del veterano.
 
-Otal Seris soltó una carcajada ronca, mesándose la barba entrecana:
+Luego, Seris se volvió hacia Triel, inclinando la cabeza con respeto:
 
-—Tranquilo, muchacho, está lista en la dársena. Pero antes díganme una cosa: me imagino que la señorita George y su corte corporativa ya intentaron dorarles la píldora en sus torres de cristal, ¿verdad? Esos burócratas de Extracciones Estelares siempre hacen lo mismo cuando el Consejo nombra árbitros independientes: les proyectan vídeos de propaganda y les encasquetan una cesta de bienvenida con jaboncitos perfumados, cremas de baño y pases de cine baratos para los jueves. Creen que el hedor del vacío y la sangre se disimulan con cosméticos de lujo.
+—Señorita Istrav... Conozco a muchos corsarios drow, pero la inmensa mayoría sirven a los linajes nobles de Apostae. Para una semi-drow, abrirse paso entre los Capitanes Libres por mérito propio exige el doble de agallas. Es un orgullo tenerla a bordo.
 
-Benray se atusó los bigotes con una sonrisa pícara:
+—Y el señor Benray Galway —añadió Seris, estrechando la pata del ysoki con una carcajada—. He visto sus vídeos acrobáticos en la red; hay que tener propulsores de acero para lanzarse al vacío como usted lo hace. Díganme, ¿la señorita George ya intentó dorarles la píldora en sus torres con su cesta de jaboncitos y pases de cine de los jueves?
 
-—Nos tragamos su vídeo institucional y casi nos ahogamos en su lavanda sintética, capitán. La cesta se quedó en el vestíbulo del hotel. Hará falta mucho más que sales de baño y cremas corporativas para comprar el dictamen de esta tripulación.
+—La cesta se quedó en el hotel, capitán —guiñó Benray—. Nuestro juicio no se compra con lavanda sintética.
 
-—Bien dicho —asintió Seris con franca satisfacción obrera, dándole una palmada en el hombro—. Esa calaña de cuello blanco cree que todo el mundo tiene un precio. Vengan, permítanme mostrarles su montura.
+El oficial León de los Protectores dio un paso al frente, ajustándose los guantes reglamentarios con ademán sobrio:
 
-Otal Seris señaló con el pulgar hacia la bahía de despresurización tras la compuerta blindada:
+—Señores mediadores: una vez que traspasen el cinturón exterior de la Armada, estarán fuera del rango de tiro y del paraguas defensivo de la Estación Absalón. Nuestras fragatas de pacificación patrullan a gran distancia. En el sector del *Acreon*, estarán completamente solos ante cualquier contingencia. Sean prudentes.
 
-—En la dársena principal. Es una nave ligera de exploración y transporte minero del Colectivo. Nosotros la apodamos cariñosamente el *Hippocampus*... el *Caballito de Mar*.
+El embajador Gevalarsk Nor avanzó con paso espectral hacia la rampa del muelle. Con sus dedos largos y huesudos, el diplomático no-muerto acarició suavemente el fuselaje blindado de la nave, sonriendo con fría solemnidad:
+
+—Permítanme presentarles al *Hippocampus*... el *Caballito de Mar*. Una nave humilde de transporte que he tenido el placer de financiar y dotar de sistemas tácticos de grado naval. Cuiden bien de ella... y recuerden cumplir con lo que debe traer en su vientre a su regreso.
 
 ***
 
@@ -40,38 +42,42 @@ Otal Seris señaló con el pulgar hacia la bahía de despresurización tras la c
 
 Al entrar en el hangar, la tripulación se detuvo a contemplar su nueva montura estelar.
 
-El *Hippocampus* medía unos cuarenta metros de eslora. Su diseño rompía con las líneas puntiagudas de los cazas militares: tenía un casco redondeado y robusto de aleación de duracero reforzado, con una cabina frontal acristalada que recordaba la cabeza de un caballito de mar, alas dorsales curvadas que albergaban los estabilizadores magnéticos y dos góndolas de propulsión masivas en la popa. Aunque originalmente había servido como transporte geológico para prospectores independientes, las modificaciones costeadas por la embajada de Eox e Inversiones Estelares saltaban a la vista: una torreta de cañón láser doble instalada en la panza, escudos deflectores de grado naval y sensores de largo alcance recién pulidos.
+El *Hippocampus* medía unos cuarenta metros de eslora. Su diseño rompía con las líneas puntiagudas de los cazas militares: tenía un casco redondeado y robusto de aleación de duracero reforzado, con una cabina frontal acristalada que recordaba la cabeza de un caballito de mar, alas dorsales curvadas que albergaban los estabilizadores magnéticos y dos góndolas de propulsión masivas en la popa. Las modificaciones costeadas por Eox saltaban a la vista: una torreta de cañón láser doble instalada en la panza, escudos deflectores navales de especificación militar reforzada y sensores de largo alcance recién pulidos.
 
 —Es magnífica —susurró Triel, con los ojos carmesíes brillando de emoción genuina—. Gerty, acompáñame a la sala de máquinas. Hay que revisar los condensadores y el núcleo del Drift antes del despegue.
 
-—*Accediendo a la sala de máquinas* —confirmó el dron, avanzando con pasos metálicos pesados por la rampa de acceso—. *Aviso: detecto residuos de lubricante mineral grado cuatro. Un entorno mecánicamente civilizado, al fin.*
+—*Accediendo a la sala de máquinas* —confirmó el dron, avanzando con pasos metálicos pesados—. *Aviso: detecto residuos de lubricante mineral grado cuatro. Un entorno mecánicamente civilizado, al fin.*
 
-Mientras Marloc y Axel revisaban las consolas del puente de mando y Benray aseguraba sus provisiones y su saco de armamento en los camarotes de estribor, Triel se sumergió en las entrañas técnicas de la nave.
+En la sala de máquinas, Triel y Gerty sincronizaron el reactor de plasma. Con sus cuatro brazos operativos, el meca ajustaba válvulas de combustible y calibraba la distribución de energía mientras Triel puenteaba los relés de los escudos deflectores.
 
-La sala de máquinas olía a refrigerante fresco y campos magnéticos cargados. El núcleo del motor Drift —una esfera de aleación de contención cuántica donde se canalizaba el salto a través de la dimensión hiperespacial— zumbaba con una vibración armónica perfecta.
+En el puente de mando, la tripulación se distribuyó formalmente en sus puestos de combate naval:
+* **A.Xel 42** ocupó el sillón central del timonel principal: sus reflejos sintéticos y precisión milimétrica la convertían en la piloto perfecta.
+* **Triel Istrav** tomó la estación de ingeniería superior: encargada de redistribuir energía del reactor, remendar escudos y reparar averías críticas en pleno vuelo.
+* **Benray Galway** se ajustó los auriculares en la consola de táctica y comunicaciones: listo para coordinar órdenes, arengar al equipo y emitir directivas de combate.
+* **Marloc Boosmar y Gerty** asumieron el control de artillería en la torreta ventral: sincronizando sus miras telemétricas con el cañón láser doble de alta potencia.
 
-Gerty, utilizando con pasmosa soltura sus dos nuevas manos inferiores de motricidad fina, ajustaba los sellos de las válvulas de combustible mientras Triel tecleaba en la pantalla de diagnóstico:
+El capitán Otal Seris subió a la pasarela una última vez para insertar un chip de navegación en la ranura de comunicaciones:
 
-—Los inyectores responden al cien por ciento —anunció la semi-drow secándose la frente con el dorso de la manga—. Los tanques de oxígeno tienen autonomía para seis semanas y la atmósfera interna está estabilizada a presión terrestre. Gerty, ajusta el sincronizador de los motores a noventa y ocho megavatios.
+—Aquí tienen las coordenadas de aproximación orbital. El *Acreon* flota a unas doscientas mil millas de la estación, completamente inerte. A bordo viajaban familias enteras del Colectivo. La capitana Elba Sohar era una mujer dura, prudente y leal como pocas. Traigan sus bitácoras de vuelta. Limpien el nombre de nuestros muchachos ante el Consejo.
 
-—*Parámetro ajustado* —respondió el dron, girando una válvula con sus dedos metálicos antes de admirar su propia extremidad—. *Debo admitir, jefa, que estas manos añadidas aumentan mi rendimiento en un cuarenta por ciento. Si algún goblin insolente intenta desatornillarme una placa, podré estrangularlo con los brazos inferiores mientras sigo disparando con los superiores.*
+Marloc asintió con solemnidad:
 
-Triel soltó una carcajada y le dio una palmada en el hombro al meca.
+—Tiene mi palabra de honor, capitán Seris. Descubriremos la verdad.
 
-En el puente de mando, el capitán Otal Seris se reunió con Marloc y Axel frente a la consola de navegación táctica. El veterano marino espacial insertó un chip de datos en la ranura de comunicaciones:
+Las compuertas del hangar se cerraron herméticamente. Los motores de gravitón del *Hippocampus* rugieron con un zumbido ensordecedor que hizo vibrar el casco. Las luces de la bahía se apagaron, la compuerta exterior se abrió hacia el abismo, y la nave emergió suavemente hacia el enjambre flotante de la Armada.
 
-—Aquí tienen las coordenadas de aproximación orbital. El *Acreon* flota a unas doscientas mil millas de la estación, más allá del cinturón de seguridad de la Armada. Flota completamente inerte. Los escáneres a distancia confirman que sus motores principales están apagados y no hay señales de radio en las frecuencias de emergencia.
+Axel fijó el vector de salida y aceleró a potencia de crucero. La mole iluminada de la Estación Absalón comenzó a empequeñecerse en las pantallas panorámicas.
 
-Seris hizo una pausa, y su único ojo biológico se ensombreció con una profunda tristeza obrera:
+Pero la calma duró escasos minutos.
 
-—A bordo de esa nave viajaban compañeros nuestros. Familias enteras de mineros del Colectivo. La capitana Elba Sohar era una mujer dura, prudente y leal como pocas. Si la nave fue abandonada o si ocurrió una catástrofe biológica, necesito que traigan sus bitácoras de vuelta. Limpien el nombre de nuestros muchachos ante el Consejo. No permitan que Extracciones Estelares invente excusas para robarles su reclamo.
+Justo cuando dejaban atrás los últimos pontones de chatarra de la Armada, una estridente alarma roja de proximidad saturó los altavoces del puente:
 
-Marloc asintió con solemnidad, colocando su mano sobre el hombro del capitán:
+*¡BIP-BIP-BIP! ¡ALERTA DE PROXIMIDAD! ¡BLINDAJE HOSTIL DETECTADO!*
 
-—Tiene mi palabra de honor, capitán Seris. Descubriremos la verdad de lo que ocurrió a bordo del *Acreon*.
+Triel levantó la vista de la consola de sensores con los ojos abiertos de par en par:
 
-—Que el vacío les sea leve, muchachos —se despidió Seris, descendiendo por la rampa mientras las sirenas de desacople del muelle comenzaban a sonar—. El *Caballito de Mar* es todo suyo.
+—¡Axel, a estribor! ¡Una corbeta interceptora acaba de salir del ángulo muerto de un carguero desguazado! ¡Tiene los reactores militares al cien por cien y sus baterías láser están encendidas y apuntándonos a la cabina!
 
-Las compuertas del hangar se cerraron herméticamente. En el puente, Triel tomó los controles de ingeniería, Benray ocupó el puesto de comunicaciones, Marloc se situó en los sensores de escaneo y Axel aferró el timón de maniobra con pulso milimétrico.
+Benray saltó sobre su asiento, aferrando el comunicador táctico:
 
-Los motores del *Hippocampus* cobraron vida con un rugido ensordecedor que hizo vibrar el casco. Las luces de la bahía se apagaron, la compuerta espacial exterior se deslizó hacia los lados, y ante la proa de la nave se abrió el abismo infinito y estrellado del cosmos.
+—¡Maldita sea! ¡Alerta roja general! ¡Nos están cerrando el paso al espacio abierto!

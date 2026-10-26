@@ -8,19 +8,29 @@
 ### Volumen 1: Sombras sobre Absalón
 *Subtítulo:* **Conspiración en la Espiga**  
 *Episodios adaptados:* **1 al 10** (Transmisión original: enero a marzo de 2020)  
-*Extensión:* 10 Capítulos + Prólogo + Anexo (60 páginas)
+*Extensión:* 10 Capítulos + Prólogo + Anexo (84 páginas)
 
 #### Sinopsis General:
 Cuatro desconocidos de orígenes dispares coinciden en la Estación Absalón tras recibir una citación urgente de la investigadora **Marlene Boosmar**:
-* **Benray Galway**, un emisario ysoki parlanchín, paranoico y temerario.
-* **Triel Istrav**, una hábil mecánica semi-drow curtida en cargueros de la Diáspora y creadora de Gerty.
-* **Gerty**, el meca bípedo pesado y sarcástico programado por Triel (voz de Roberto).
-* **Marloc Boosmar**, un tecnomante refinado atormentado por visiones pre-Brecha y un pasado fragmentado sin registro oficial en la estación.
-* **A.Xel 42**, una androide operativa implacable, silenciosa y calculadora.
+* **Benray Galway**, un emisario ysoki parlanchín, paranoico y temerario, avisado por su informante **Marcelo** sobre la llegada del pecio *Acreon*, mientras lidia con las deudas de juego de su primo **Rim Rey**, quien perdió la moto de Benray en carreras ilegales dejándole una destartalada motoneta amarilla.
+* **Triel Istrav**, una hábil mecánica semi-drow curtida en cargueros de la Diáspora y creadora de Gerty, que hace escala jugando a carreras espaciales con el joven aprendiz lashunta **Sal** en los muelles de atraque.
+* **Gerty**, el meca bípedo pesado y sarcástico programado por Triel (con voz de sintetizador cavernoso y arranque estilo *Windows 95*).
+* **Marloc Boosmar**, un distinguido tecnomante amnésico que despierta en un aula vacía del Arcanamirium tras tocar una esfera rúnica pre-Brecha, descubriendo que no existe en los registros civiles de la estación.
+* **A.Xel 42**, una androide operativa implacable, silenciosa y calculadora, que desembarca sin un solo crédito y degusta sopa de almejas espaciales mientras contempla los anuncios holográficos de la actriz Silv (*Horizonte de Sucesos*).
 
-Al llegar a la estación sin un solo crédito en sus bancos de memoria, Axel 42 acude al *Click-Clack Club* (Club 13) en la Espiga, donde se reencuentra con su «unidad hermana», la androide **Null-9**, quien le sirve una bebida sintética, evoca un rescate arriesgado de diez años atrás y la pone en contacto con el intermediario ysoki **Chic** para conseguir un trabajo urgente. Tras reunirse en el club con Marloc, Benray y Triel, el grupo desciende al **Muelle 94** para encontrarse con Marlene. Justo cuando ella va a revelar una investigación confidencial sobre un pecio a la deriva, un francotirador la asesina a sangre fría, desatando una emboscada masiva entre dos bandas rivales: los **Reyes de Abajo / Reyes del Nivel 21** (*21st Crew*) y los **21 Watts**. Los cuatro héroes combaten codo con codo para sobrevivir al fuego cruzado y asegurar el datapad de Marlene.
+Tras acudir al *Club 13* (el Click-Clack Club) en la Espiga, Axel se reencuentra con su «unidad hermana», la androide **Null-9**, quien le recuerda un rescate crucial diez años atrás en el Vasto y la presenta ante el intermediario ysoki **Chic**. Allí confluyen con Triel, Benray y Marloc (a quien Benray rescata de un colapso hipoglucémico en los monobloques). Chic revela con naturalidad que Marlene está casada con una científica llamada **Ángela**, lo que sume a Marloc en un profundo shock emocional, pues en su realidad natal Ángela era su propia esposa y murió asfixiada en el vacío.
 
-Al enterarse de la muerte de su asociada, el sabio directivo shirren **Chiskisk**, comisionado de **Inversiones Estelares S.C.**, los contrata formalmente como investigadores y árbitros independientes para esclarecer el magnicidio. Las pesquisas llevan a Axel, Triel y Benray a una tensa partida clandestina de cartas cuánticas en los Bajos contra los tahúres **Luke «Mano de Seda»** y el androide **D-52**. Tras una calculada distracción ejecutada por Axel derramando una copa, el grupo arranca a los jugadores la identidad de la francotiradora **Clara-247** y pistas que los conducen al club nocturno *Con-Fusión*, en lo profundo de la Espiga (*The Spike*). Allí, la tripulación asalta la guarida de la líder mercenaria **Ferani Nadaz**, abatiendo a su colosal lugarteniente vesk **Brock Hilario «el Rompeportones»** (quien llega a arrancar una reja de seguridad con sus propias garras). Antes de morir, Ferani confiesa que el asesinato de Marlene y la guerra de bandas fueron financiados por **Extracciones Estelares** (*Astral Extractions*) para sabotear al **Colectivo Hardscrabble** y ocultar los secretos del carguero *Acreon*. Con la ayuda del primo de Benray, **Rim Rey**, y el respaldo legal de Chiskisk, la tripulación elude las emboscadas policiales y corporativas, consolidándose como equipo neutral de peritaje bajo contrato de Inversiones Estelares S.C. con una misión crucial en el vacío estelar.
+El grupo acude al **Muelle 94** para la cita con Marlene. Justo cuando ella va a revelar su investigación sobre el *Acreon*, el francotirador profesional drow **Kallio** la asesina de un certero disparo al pecho, desatando una brutal emboscada armada entre dos bandas rivales: los **Reyes del Nivel 21** (*21st Crew*) y los **21 Watts**. Marloc sostiene a Marlene en sus brazos mientras ella expira llamándolo «hermano a través de las estrellas». Benray asume el mando táctico desde una grúa, Axel neutraliza la posición del tirador y Gerty desata fuego pesado de plasma, mientras Triel y Marloc hackean la terminal portuaria para purgar los vídeos de seguridad y asegurar el comunicador y los datos de Marlene.
+
+El sabio directivo shirren **Chiskisk**, comisionado de **Inversiones Estelares S.C.**, los recibe en El Ojo y les confía formalmente la investigación del complot. En el despacho de Marlene descubren la foto familiar con Ángela y Chic, y la muerte por descompresión de su colega Amélie en instalaciones de **Extracciones Estelares** (*Astral Extractions*). Guiados por las pistas, el grupo acude al reservado VIP del Club 13 custodiado por el veterano dragonkin **Thalud** (con quien Benray conversa en lengua dracónica ancestral sobre su pasado en Triaxus). En una partida de cartas cuánticas contra los tahúres **D-52**, **Silo** y **Luigi**, consiguen el enlace con la androide intermediaria **Eclair**, mientras Triel y Axel compiten en un simulador arcade VR y Axel intercambia con Null-9 el saludo de la resistencia sintética.
+
+Al descender a los túneles de desagüe, Triel repara la moto de una corredora clandestina y descubre que la **Casa Istrav** de Apostae —su propia y despótica familia noble materna de la que huyó— cerró un trato de armamento con la líder pandillera **Ferani Nadaz**. La tripulación urde un ingenioso farol: Triel se hace pasar por la altiva «Señorita Istrav», Benray por su embajador diplomático y Marloc y Axel por implacables guardaespaldas de etiqueta. Se infiltran pacíficamente en el club *Con-Fusión*, asaltando el despacho privado: Ferani patea el escritorio esparciendo una nube brillante de cocaína cósmica y su colosal lugarteniente vesk **Brock Hilario «el Rompeportones»** lanza una granada eléctrica. Axel derriba a Brock y Ferani, y Benray salta sobre la mesa encañonando a la líder para rendir a los refuerzos. Triel hackea los pagos encubiertos de Extracciones Estelares y Marloc purga las cámaras; bajo interrogatorio, Ferani ruega protección policial contra los drow y confiesa que la corporación contrató al sicario Kallio.
+
+Tras vaciar la caja fuerte secreta (500 UPB, credsticks, cocaína de Castrovel, armadura pesada y el láser de artillería de Brock), Axel activa su matriz *holoskin* proyectándose como una bailarina humana y escapan mezclándose en la atronadora pista de baile tecno. Tras un breve respiro donde Gerty evalúa a Axel como capaz y a Benray y Marloc como deficientes, regresan ante Chiskisk (quien viste tocado rojo de luto). Firman contratos como peritos independientes para el ausente **Clamor Sambor** y Axel recibe el comlink de Eclair. El anuncio de que el funeral de Marlene esperará la llegada de su viuda Ángela desata en Marloc un ataque de pánico y llanto incontenible.
+
+Esa noche en el *Hotel Las Lunas*, cuatro momentos íntimos sellan su destino: Triel repara a Gerty durante 45 minutos pidiéndole que no la llame «señora» por el trauma de Apostae; Marloc ahoga su dolor en el bar sufriendo una visión espectral con un barman autómata carcomido por un millón de años de herrumbre antes de vomitar y ser acostado por sus amigos; Axel habla con Eclair sobre la creciente radicalización de Null-9; y Benray es advertido por Thalud de un padre que busca venganza por su hijo muerto en Triaxus, antes de que Rim Rey le anuncie que recuperó su moto con llamaradas y chicas ysoki. 
+
+A la mañana siguiente, mientras desayunan en una terraza idílica del Ojo de Absalón, un dron policial esférico de los Protectores desciende sobre la mesa exigiéndoles que levanten las manos y queden bajo arresto preventivo por los disturbios del Nivel 21, detonando el cliffhanger que conecta de forma continua e inmediata con el Volumen 2.
 
 ---
 
@@ -30,7 +40,7 @@ Al enterarse de la muerte de su asociada, el sabio directivo shirren **Chiskisk*
 *Extensión:* 12 Capítulos + Prólogo + Anexo (59 páginas)
 
 #### Sinopsis General:
-Apenas sobrevivido el asalto del Nivel 21, la tripulación se encuentra en el epicentro de un huracán político y mediático. Tras eludir a las patrullas policiales en el Ojo de Absalón aprovechando el trance hipnótico de una muchedumbre congregada ante las pantallas gigantes que emitían el perturbador colapso y desaparición del célebre cantante galáctico **Syd Velch**, el grupo alcanza la sede corporativa de Inversiones Estelares S.C. en El Ojo. Las autoridades de los Protectores (*The Stewards*), encabezadas en los medios por el **Oficial Monroe**, precintan el Club Fusión mientras la megacorporación Extracciones Estelares intenta imputar a los aventureros a través de su letrado vesk, **Kaerom**. Chiskisk interviene astutamente y propone una salida salomónica aceptada por el magistrado **Anastasio Oryander**: enviar a la tripulación como árbitros independientes e imparciales para abordar el pecio fantasma *Acreon*, un carguero minero de Hardscrabble que reapareció del Drift arrastrando un enigmático asteroide bautizado como la *Roca del Drift* (*The Drift Rock*).
+El volumen arranca exactamente en el desayuno del Ojo de Absalón: ante la orden de arresto del dron *Observador*, Axel abre fuego contra la máquina, Benray vuelca la mesa creando una barricada y Marloc la electrocuta con un arco voltaico, desatando una caótica fuga por el bulevar botánico. La multitud entra en pánico y queda paralizada ante las pantallas gigantes que retransmiten el colapso y desaparición de la estrella musical **Syd Velch**. El grupo se refugia en la sede de Inversiones Estelares S.C., donde el sabio comisionado **Chiskisk** y el magistrado **Anastasio Oryander** intervienen frente al letrado vesk **Kaerom** de Extracciones Estelares, desestimando la detención preventiva a cambio de nombrar a los cuatro protagonistas como peritos judiciales independientes para abordar la nave fantasma *Acreon*.
 
 Antes de zarpar, Marloc y Axel visitan los archivos secretos del **Arcanamirium** en busca de respuestas sobre los últimos estudios de Marlene, encontrando un comprobante de requisición interna sobre un artefacto pre-Brecha y advertencias sobre anomalías dimensionales. Simultáneamente, el grupo recibe una invitación confidencial en la embajada piramidal de **Eox**: el aristócrata elebriano **Gevalarsk Nor** y su sirviente gul **Keltus** (con sus peculiares galletitas de anís) les ofrecen patrocinio y suministros a cambio de recuperar en secreto una misteriosa caja funeraria a bordo del carguero. Tras sortear el burdo intento de Extracciones Estelares de congraciarse con ellos mediante una ridícula cesta de bienvenida corporativa (con jaboncitos aromáticos y pases de cine) y compartir una despedida familiar con **Rim Rey** y sus carnitas espaciales, el Colectivo Hardscrabble les entrega la nave ligera **Hippocampus** (*El Caballito de Mar*), comandada provisionalmente por el curtido **Capitán Otal Seris**. Triel y Marloc aprovechan la travesía para dotar a Gerty de dos brazos manipuladores adicionales (pasando a tener 4 brazos).
 
@@ -367,11 +377,47 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 * **Aparición en volúmenes:** **Volumen 3 (mención), Volumen 4**  
 * **Descripción:** Erudito gélido y soberbio que oculta secretos sobre su expedición fallida a Aucturn y la custodia de la esfera rúnica.
 
-#### Ángela
+#### Ángela Boosmar
 * **Especie:** Humana  
 * **Rol:** Científica, viuda de Marlene Boosmar  
-* **Aparición en volúmenes:** **Volumen 4**  
-* **Descripción:** Esposa de Marlene, cuya asombrosa coincidencia física con el amor perdido de Marloc en su línea original conmovió al tecnomante durante el funeral en el Jardín de Cenizas.
+* **Aparición en volúmenes:** **Volumen 1 (revelación y colapso de Marloc), Volumen 4 (funeral en Absalón)**  
+* **Descripción:** Esposa viuda de Marlene. En el universo original de Marloc, Ángela era su propia esposa y murió en el vacío cuando la esclusa de los astilleros de Verces no abrió; en esta línea temporal sobrevivió y se casó con Marlene, convirtiéndose en el epicentro del trauma y dolor dimensional de Marloc al saber de su existencia en Absalón y reencontrarse con ella durante el funeral en el Jardín de Cenizas.
+
+#### Eclair
+* **Especie:** Androide  
+* **Rol:** Activista de derechos sintéticos y amiga íntima de Marlene Boosmar y A.Xel 42  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2**  
+* **Descripción:** Androide sensible de cabello azul cobalto e iris dorados. Enlace clave entre los círculos clandestinos de la estación y Marlene. Contacta encriptadamente con Axel para advertirle sobre el peligro de radicalización armada de Null-9 y el Frente de Liberación Androide, acordando citas clandestinas en el Club 13.
+
+#### Thalud
+* **Especie:** Dragonkin  
+* **Rol:** Veterano guerrero de Triaxus y custodio del reservado VIP del Club 13  
+* **Aparición en volúmenes:** **Volumen 1**  
+* **Descripción:** Imponente gigante escamoso de cresta dorada y mirada penetrante. Habla la lengua dracónica ancestral con Benray y actúa como su confidente en los bajos fondos, advirtiéndole sobre las deudas de sangre y el padre que busca venganza por su hijo muerto en las minas de Triaxus.
+
+#### Clamor Sambor
+* **Especie:** Humano (presunto magnate)  
+* **Rol:** Propietario ausente y benefactor de Inversiones Estelares S.C.  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2**  
+* **Descripción:** Enigmático financiero galáctico que delega en Chiskisk la firma de contratos de peritaje y salvamento independiente para la tripulación, manteniéndose siempre en la sombra institucional.
+
+#### Sal
+* **Especie:** Lashunta (korasha)  
+* **Rol:** Aprendiz de mecánico naval en los muelles de atraque de Absalón  
+* **Aparición en volúmenes:** **Volumen 1**  
+* **Descripción:** Joven amigo de videojuegos de carreras espaciales de Triel a su llegada a la estación; le aconsejó buscar trabajo en el Arcanamirium y acudir al Club 13.
+
+#### Marcelo
+* **Especie:** Ysoki  
+* **Rol:** Camarada e informante de Benray Galway  
+* **Aparición en volúmenes:** **Volumen 1**  
+* **Descripción:** Estibador del Anillo que despierta a Benray en su camarote con las primicias sobre la reaparición del carguero *Acreon*.
+
+#### Silo y Luigi
+* **Especie:** Humana (Silo) / Ysoki (Luigi)  
+* **Rol:** Tahúres habituales de las mesas clandestinas del Club 13  
+* **Aparición en volúmenes:** **Volumen 1**  
+* **Descripción:** Silo (contrabandista de trenzas fucsia fosforescentes) y Luigi (viejo minero desdentado y experto en dados) disputan la partida de cartas cuánticas con D-52 en la que la tripulación descubre el rastro de Eclair.
 
 #### Sophie Ren
 * **Especie:** Lashunta (damaya)  
@@ -394,6 +440,24 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 ---
 
 ### Antagonistas y Rivales
+
+#### Kallio
+* **Especie:** Drow (elfo oscuro)  
+* **Rol:** Francotirador profesional y asesino a sueldo de élite  
+* **Aparición en volúmenes:** **Volumen 1**  
+* **Descripción:** Sicario implacable contratado en secreto por Extracciones Estelares para abatir a Marlene Boosmar de un disparo certero al pecho en el Muelle 94, desatando la guerra de bandas entre los Reyes del Nivel 21 y los 21 Watts.
+
+#### Ferani Nadaz y Brock Hilario «el Rompeportones»
+* **Especie:** Humana cibernética (Ferani) / Vesk (Brock)  
+* **Rol:** Comandantes de los Reyes del Nivel 21 y mercenarios corporativos  
+* **Aparición en volúmenes:** **Volumen 1**  
+* **Descripción:** Cabecillas del hampa de la Espiga en el club *Con-Fusión*. Brock es famoso por arrancar compuertas blindadas con sus manos desnudas; Ferani negoció suministros militares con la Casa Istrav y recibió transferencias opacas de Extracciones Estelares para encubrir el asesinato de Marlene. Tras ser derrotados por el grupo y encañonados por Benray sobre la mesa, Ferani confiesa la trama corporativa antes de ser entregada a la justicia.
+
+#### Clara-247
+* **Especie:** Androide  
+* **Rol:** Mercenaria y saboteadora de Extracciones Estelares  
+* **Aparición en volúmenes:** **Volumen 3 (abatida en la Roca)**  
+* **Descripción:** Androide rescatada en el Vasto diez años atrás junto a Axel y Null-9. Contratada por Extracciones Estelares para eliminar a la tripulación en la Roca del Drift con rifle de francotirador y piedra de eón, portando una orden escrita para «herir, no matar» a Triel por ser drow. Cae abatida en combate singular ante Axel 42.
 
 #### Señorita Joss
 * **Especie:** Humana  
@@ -430,18 +494,6 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 * **Rol:** Capitana Mercenaria del Culto del Devorador  
 * **Aparición en volúmenes:** **Volumen 5**  
 * **Descripción:** Comandante acorazada con ametralladora rotatoria que defendió el atrio del templo e intentó volarlo con explosivos antes de ser neutralizada.
-
-#### Clara-247
-* **Especie:** Androide  
-* **Rol:** Francotiradora y asesina a sueldo de Extracciones Estelares  
-* **Aparición en volúmenes:** **Volumen 1 (mención), Volumen 3 (abatida en la Roca)**  
-* **Descripción:** Tiradora que ejecutó a Marlene en el Muelle 94 y emboscó al grupo en la Roca del Drift antes de caer abatida ante Axel 42.
-
-#### Ferani Nadaz y Brock Hilario
-* **Especie:** Humana (Ferani) / Vesk (Brock)  
-* **Rol:** Líderes de los Reyes del Nivel 21 y mercenarios corporativos  
-* **Aparición en volúmenes:** **Volumen 1**  
-* **Descripción:** Cabecillas del hampa de la Espiga abatidos en el asalto al club *Con-Fusión*.
 
 ---
 
@@ -488,8 +540,12 @@ Secta apocalíptica y nihilista cósmica consagrada a la aniquilación de toda l
 Máxima institución académica de Castrovel, benefactora de la tripulación tras el exitoso rescate de la arqueóloga Solstarni.
 
 ### La Casa Istrav de Apostae
-*Aparición en volúmenes:* **Volumen 6**  
-Nobleza drow subterránea especializada en armamento pesado, sicariato e inteligencia corporativa. Pese a la hostilidad de la matriarca hacia Triel, su primo Bumak actúa como aliado encubierto.
+*Aparición en volúmenes:* **Volumen 1, Volumen 6, Volumen 10**  
+Nobleza drow subterránea especializada en armamento pesado, manufactura militar e inteligencia corporativa. En el Volumen 1, envían a un emisario de armamento para cerrar tratos con Ferani Nadaz en la Espiga; Triel huyó de su seno materno por el desprecio hacia su condición mestiza. En el Volumen 6, el primo de Triel, Bumak Istrav, asiste a la tripulación como aliado encubierto.
+
+### Los Reyes del Nivel 21 (*21st Crew*) y los 21 Watts
+*Aparición en volúmenes:* **Volumen 1**  
+Pandillas criminales rivales de la Espiga enfrentadas por el dominio territorial de los muelles y los túneles del Sector Spire-Cero. Los Reyes del Nivel 21, dirigidos por Ferani Nadaz y Brock Hilario desde el club nocturno *Con-Fusión*, actuaron como brazo ejecutor encubierto de Extracciones Estelares en la emboscada del Muelle 94.
 
 ### La Iglesia de Triuno
 *Aparición en volúmenes:* **Volumen 6**  
@@ -541,13 +597,13 @@ Constructos bípedos blindados de grado militar desplegados en la Torre Prisma d
 
 | Parámetro | Volumen 1 (*Sombras sobre Absalón*) | Volumen 2 (*El Misterio del Acreon*) | Volumen 3 (*La Roca del Drift*) | Volumen 4 (*Las Torres de Qabarat*) | Volumen 5 (*El Templo de los Doce Soles*) | Volumen 6 (*El Fantasma en la Máquina*) |
 |---|---|---|---|---|---|---|
-| **Naves Activas** | Ninguna (tránsito en motoneta y muelles) | **Hippocampus** (*El Caballito de Mar*) | **Estrella Errante** (*Vagabond*) y **Hippocampus** | **Estrella Errante** (órbita de Castrovel) / Compacto de alquiler de Sophie | **Estrella Errante** (órbita de Castrovel, lista para salto a La Diáspora) | **Estrella Errante** (dotada de procesador militar cuántico y conciencia viva) / *La Furia* (aliada) |
-| **Cuartel / Base** | Cuartuchos de alquiler en el Anillo 9 | A bordo del *Hippocampus* | Muelle 94 / Sede Inversiones Estelares / Terraza *Las Lunas* | Campus Universidad de Qabarat / Puesto de Turhalu (Ukulam) | Vivac de campaña en Ukulam / Templo de los Doce Soles | Café *Las Lunas* / Muelle 22 / A bordo de la *Estrella Errante* en el Drift |
-| **Armamento de Gerty** | Cañón láser frontal, dos brazos pesados | Cuatro brazos (añadidos manipuladores finos) | Cuatro brazos reforzados + cañón láser pesado | Cuatro brazos pesados + pica de choque y cañón láser | Cuatro brazos reforzados + pica de alta frecuencia, ametralladora pesada y escudos | Cuatro brazos pesados + pica de choque cuántica, ametralladora rotatoria y servos optimizados |
+| **Naves Activas** | Ninguna (tránsito en motoneta y muelles de carga) | **Hippocampus** (*El Caballito de Mar*) | **Estrella Errante** (*Vagabond*) y **Hippocampus** | **Estrella Errante** (órbita de Castrovel) / Compacto de alquiler de Sophie | **Estrella Errante** (órbita de Castrovel, lista para salto a La Diáspora) | **Estrella Errante** (dotada de procesador militar cuántico y conciencia viva) / *La Furia* (aliada) |
+| **Cuartel / Base** | Monobloques del Anillo / Hotel *Las Lunas* | A bordo del *Hippocampus* | Muelle 94 / Sede Inversiones Estelares / Terraza *Las Lunas* | Campus Universidad de Qabarat / Puesto de Turhalu (Ukulam) | Vivac de campaña en Ukulam / Templo de los Doce Soles | Café *Las Lunas* / Muelle 22 / A bordo de la *Estrella Errante* en el Drift |
+| **Armamento de Gerty** | Cañón láser frontal, dos brazos pesados (calcomanías sonrientes) | Cuatro brazos (añadidos manipuladores finos) | Cuatro brazos reforzados + cañón láser pesado | Cuatro brazos pesados + pica de choque y cañón láser | Cuatro brazos reforzados + pica de alta frecuencia, ametralladora pesada y escudos | Cuatro brazos pesados + pica de choque cuántica, ametralladora rotatoria y servos optimizados |
 | **Aliados a Bordo** | Ninguno (solo los 4 fundadores + Gerty) | Se unen los goblins **Willy** y **Naru** | Willy y Naru (ciudadanos de honor y protegidos de Eox) | Willy y Naru (en órbita); Sophie Ren (Qabarat); Dr. Kaeral (Turhalu) | Willy y Naru (en órbita); **Doctora Omejia Solstarni** (rescatada); Dr. Kaeral | Willy y Naru; **La Conciencia de la Nave**; Bumak Istrav (enlace en Absalón); Capitán De Bonet e Ila |
-| **Contactos / Red** | **Null-9** (Club 13), Chic, Rim Rey | Rim Rey, Embajador Nor | **Null-9** (red androide), Rim Rey, Embajador Nor, Chiskisk | **Null-9**, Oficial León (enlace con Triel), Decana Muhali, Casonas y Thiable | **Null-9**, Decana Muhali, claustro de la Universidad de Qabarat | **Bumak Istrav** (Casa Istrav), Embajador Gevalarsk Nor, Cheesecake, Capitán De Bonet, Templo de Triuno |
-| **Vínculos Afectivos** | Cohesión fraternal inicial en combate | Coqueteo y química por comunicador entre **Triel Istrav** y el **Oficial León** | Complicidad y guiños entre **Triel** y el **Oficial León** en el arbitraje; Axel reflexiona sobre los suyos con Null-9 | Triel y León intercambian mensajes cifrados y token cuántico; Triel revela ser hija de Keiden Ashton | Triel supera trauma de Oshiga; Benray reconciliado con su pasado; Axel asume Unidad 42 | Axel asimila la verdad de su chasis previo; Triel reconectada con su primo Bumak; Benray asume el mando como capitán ante la conciencia viva de la nave |
-| **Facciones Rivales** | Reyes del Nivel 21 (destruidos) | Extracciones Estelares (vía letrado Kaerom) | Extracciones Estelares (derrotada) y **Flota de los Cuerpos** | Legión del Fuego en el Cielo, mercenarios de Eroopa Cual y el cazador Salas | **Culto del Devorador** (célula de Castrovel destruida: Tahomen, Salas y Avissa muertos) | **Extracciones Astrales** (Señorita Joss neutralizada; archivos expuestos) y Legión del Cielofuego (burlada) |
-| **Pactos Secretos** | Ninguno | Sarcófago funerario de Eox asegurado | Sarcófago entregado al Embajador Nor; recompensa cobrada | Contrato con la Decana Muhali (2.500 cr.); salvoconducto corsario de *La Venganza* | Rescate de Solstarni cumplido; telemetría del Devastador Estelar recuperada | Alianza encubierta con Embajador Nor (fondos y salvoconducto); pacto de sangre con Bumak Istrav |
-| **Misterio Cósmico** | Asesinato de Marlene Boosmar | Anomalía dimensional de la Roca del Drift; enigma de Syd Velch | Revelación de la baliza hacia el **Degenerador Estelar** | Relación de la esfera con Aucturn, portales de Aiakos y Dinastía Osuwak | Confirmado: la Roca del Drift es la llave de control; coordenadas apuntan a **La Diáspora** | El alma previa de Axel en la Avenida 41; el traslado de conciencia en la nave; Marcelus oculto en el asteroide de La Diáspora |
-| **Posición Actual** | Salida de la Estación Absalón | Umbral exterior de la Roca del Drift | Héroes aclamados en Absalón listos para viajar al Vasto | Internándose en la selva prohibida de Ukulam hacia la Cordillera Cantante | Retornando de Ukulam a la *Estrella Errante* para zarpar rumbo a La Diáspora | Navegando por el Drift a bordo de la *Estrella Errante* con rumbo fijo al cinturón de La Diáspora |
+| **Contactos / Red** | **Null-9**, **Eclair**, Chic, Rim Rey, Sal, Marcelo, Chiskisk, Thalud | Rim Rey, Embajador Nor, Keltus, Capitán Otal Seris | **Null-9** (red androide), Rim Rey, Embajador Nor, Chiskisk | **Null-9**, Oficial León (enlace con Triel), Decana Muhali, Casonas y Thiable | **Null-9**, Decana Muhali, claustro de la Universidad de Qabarat | **Bumak Istrav** (Casa Istrav), Embajador Gevalarsk Nor, Cheesecake, Capitán De Bonet, Templo de Triuno |
+| **Vínculos Afectivos** | Cohesión del cuarteto; quiebre de Marloc ante la viuda Ángela; amistad Triel-Gerty; Axel y Eclair; pasado de Benray | Coqueteo y química por comunicador entre **Triel Istrav** y el **Oficial León** | Complicidad y guiños entre **Triel** y el **Oficial León** en el arbitraje; Axel reflexiona sobre los suyos con Null-9 | Triel y León intercambian mensajes cifrados y token cuántico; Triel revela ser hija de Keiden Ashton | Triel supera trauma de Oshiga; Benray reconciliado con su pasado; Axel asume Unidad 42 | Axel asimila la verdad de su chasis previo; Triel reconectada con su primo Bumak; Benray asume el mando como capitán ante la conciencia viva de la nave |
+| **Facciones Rivales** | Reyes del Nivel 21 (neutralizados), sicario drow Kallio, Extracciones Estelares | Extracciones Estelares (vía letrados Kaerom y Srta. George) | Extracciones Estelares (derrotada) y **Flota de los Cuerpos** | Legión del Fuego en el Cielo, mercenarios de Eroopa Cual y el cazador Salas | **Culto del Devorador** (célula de Castrovel destruida: Tahomen, Salas y Avissa muertos) | **Extracciones Astrales** (Señorita Joss neutralizada; archivos expuestos) y Legión del Cielofuego (burlada) |
+| **Pactos Secretos** | Contrato con Chiskisk en nombre del ausente Clamor Sambor | Sarcófago funerario de Eox asegurado en secreto con Nor y Keltus | Sarcófago entregado al Embajador Nor; recompensa cobrada | Contrato con la Decana Muhali (2.500 cr.); salvoconducto corsario de *La Venganza* | Rescate de Solstarni cumplido; telemetría del Devastador Estelar recuperada | Alianza encubierta con Embajador Nor (fondos y salvoconducto); pacto de sangre con Bumak Istrav |
+| **Misterio Cósmico** | Asesinato de Marlene Boosmar; enigma de parentesco y esfera rúnica | Anomalía dimensional de la Roca del Drift; enigma del colapso de Syd Velch | Revelación de la baliza hacia el **Degenerador Estelar** | Relación de la esfera con Aucturn, portales de Aiakos y Dinastía Osuwak | Confirmado: la Roca del Drift es la llave de control; coordenadas apuntan a **La Diáspora** | El alma previa de Axel en la Avenida 41; el traslado de conciencia en la nave; Marcelus oculto en el asteroide de La Diáspora |
+| **Posición Actual** | Terraza del Ojo de Absalón (irrupción del dron policial de arresto) | Umbral exterior de la Roca del Drift | Héroes aclamados en Absalón listos para viajar al Vasto | Internándose en la selva prohibida de Ukulam hacia la Cordillera Cantante | Retornando de Ukulam a la *Estrella Errante* para zarpar rumbo a La Diáspora | Navegando por el Drift a bordo de la *Estrella Errante* con rumbo fijo al cinturón de La Diáspora |

@@ -2,7 +2,7 @@
 
 La mañana en la Estación Absalón no trajo sol, sino un leve cambio en la frecuencia de los fluorescentes del techo, programados para simular un ciclo circadiano artificial.
 
-En la pequeña cafetería automatizada del hotel de tránsito donde habían pasado la noche —financiada con los créditos arrancados a los tahúres del *Pistón*—, los cuatro supervivientes contemplaban sus platos con diferentes grados de entusiasmo y desdicha.
+En la pequeña cafetería automatizada del hotel de tránsito donde habían pasado la noche —financiada con los créditos arrancados a los tahúres del *Club 13*—, los cuatro supervivientes contemplaban sus platos con diferentes grados de entusiasmo y desdicha.
 
 Benray Galway tenía la cabeza apoyada directamente sobre la formica de la mesa, cubriéndose los ojos con una servilleta de papel grasienta. El ysoki gemía cada vez que la cafetera automática emitía un siseo de vapor.
 
@@ -22,7 +22,7 @@ Marloc Boosmar apenas había probado su té negro. El tecnomante estaba pálido,
 
 A.Xel 42, sentada con la postura erguida de quien no conoce el cansancio ni la resaca, conectó su cable de datos a la terminal pública de la mesa.
 
-—Informe enviado a Chiskisk a través del canal encriptado —dijo la androide—. El comisionado confirma que la *Reina de la Con-Fusión* es una figura de alto riesgo. Su nombre real es desconocido en los registros de la policía; controla el contrabando de armas y la distribución de narcóticos sintéticos en el sector Spire-Cero. Chiskisk advierte que no tolera intrusos en su territorio, pero si logramos confrontarla con las pruebas del golpe de Marlene, podría revelar quién financió la operación.
+—Informe enviado a Chiskisk a través del canal encriptado —dijo la androide—. El comisionado confirma que la *Reina de la Con-Fusión* es una figura de alto riesgo. Su identidad en los registros oficiales de la policía está blindada por sobornos corporativos; controla el contrabando de armas y la distribución de narcóticos sintéticos en el sector Spire-Cero. Chiskisk advierte que no tolera intrusos en su territorio, pero si logramos confrontarla con las pruebas del golpe de Marlene, podría revelar quién financió la operación.
 
 Marloc levantó la taza, dio un sorbo al té amargo y asintió con una fría determinación.
 
@@ -30,32 +30,74 @@ Marloc levantó la taza, dio un sorbo al té amargo y asintió con una fría det
 
 ***
 
+### II. Motores en el desagüe y sombras de Apostae
+
 El descenso hacia el Sector Spire-Cero fue un viaje al pasado geológico e industrial de la estación.
 
-Dejaron atrás los niveles comerciales y residenciales para adentrarse en los conductos de servicio clausurados tras la última gran huelga minera de hacía veinte años. Aquí, las paredes de ferrocreta habían sido sustituidas por vigas de soporte de titanio crudo cubiertas de óxido escamoso. El aire se volvió gélido, surcado por corrientes hediondas que subían desde los reactores térmicos más profundos de la Espiga. No había luces públicas; solo la débil luminiscencia de líquenes modificados genéticamente que crecían sobre las tuberías de drenaje y los haces frontales de Gerty.
+Dejaron atrás los niveles comerciales y residenciales para adentrarse en los inmensos túneles circulares de drenaje y ventilación pesada. En una amplia rotonda subterránea donde el eco de motores trucados retumbaba como truenos continuos, un grupo de pandilleros y corredores callejeros celebraban carreras clandestinas de motos gravitatorias sobre pistas de chapa aceitosa.
 
-—Atención a las pisadas —advirtió A.Xel, deteniéndose en una bifurcación de tres túneles de carga—. Detección de trampas mecánicas en el suelo. Cable tensor de baja reflectancia a cinco centímetros sobre la rejilla.
+En un lateral del conducto, una joven piloto humana con cazadora de cuero tachonada y el número 21 grabado en la espalda golpeaba furiosa el carburador de su vehículo, que escupía humo negro y se negaba a arrancar.
 
-Benray se arrodilló de inmediato, con los bigotes vibrando al olfatear la brisa subterránea. Sacó una pequeña linterna de luz ultravioleta y reveló una línea de alambre de monofilamento que cruzaba el corredor, conectada a dos cilindros de gas neuroparalizante camuflados entre la herrumbre de la pared.
+Triel se detuvo, observando los inyectores con ojo clínico.
 
-—Los chicos del Nivel 21 no son muy hospitalarios —dijo el ysoki, sacando un cortaalambres magnético de su chaleco con movimientos diestros y precisos—. Un mal paso y nos habríamos quedado babeando en el suelo mientras nos saquean hasta los empastes dentales. Listo. Trampa neutralizada.
+—Tienes la mezcla de plasma descalibrada y la tobera de admisión obstruida por carbonilla —dijo la semi-drow, acercándose sin temor.
 
-Avanzaron cien metros más hasta toparse con un obstáculo insalvable a simple vista: una compuerta de seguridad blindada, de cuatro metros de ancho, sellada con cerrojos magnéticos de grado naval. Sobre la chapa abollada, el logotipo del número 21 brillaba pintado con pintura fosforescente que goteaba como sangre seca.
+—¿Y tú qué vas a saber, orejas puntiagudas? —masculló la corredora, empuñando una llave inglesa con desconfianza.
 
-—Compuerta hidráulica reforzada —evaluó Triel, examinando el panel de control lateral con una sonda de diagnóstico conectada a su antebrazo—. El circuito de acceso primario está calcinado deliberadamente. Quienquiera que viva al otro lado no quiere visitantes casuales.
+Sin inmutarse, Triel sacó su destornillador sónico y una sonda de calibración magnética de su cinturón. Con una destreza milimétrica que dejó boquiabiertos a los presentes, desmontó la válvula de purga, reajustó los filamentos de inducción y recalibró el flujo de combustible en menos de un minuto.
 
-—¿Puedes abrirla sin volar todo el pasillo? —preguntó Marloc, vigilando la retaguardia con un arco de chispas azules danzando en las yemas de sus dedos mecánicos.
+—Prueba ahora —dijo Triel, limpiándose los dedos en el mono.
 
-Triel sonrió con orgullo profesional, apartándose un mechón blanco de la frente.
+La piloto activó el encendido. El motor rugió con un aullido limpio, potente y ensordecedor que hizo vibrar el suelo metálico.
 
-—Soy ingeniera de cargueros de la Diáspora, Marloc. Las compuertas de chatarra son mi especialidad. Gerty, acopla la interfaz de derivación en el actuador secundario.
+—¡Por los dioses del vacío! —exclamó la chica, con los ojos como platos—. ¡Esto suena mejor que cuando salió de fábrica! Te debo una enorme, mecánica. Oye... si vais hacia el *Club Con-Fusión*, anden con mucho cuidado. La jefa Ferani está intratable.
 
-El meca avanzó con un crujido de sus articulaciones, encajando su brazo manipulador en una hendidura del panel. 
+—¿Algún motivo especial? —preguntó Benray con su tono más inocente.
 
-—*Derivando energía del circuito de iluminación auxiliar* —anunció Gerty—. *Sobrecargando electroimanes de seguridad en tres... dos... uno.*
+—Hace cuatro días vino una comitiva pesada desde los niveles superiores —reveló la corredora en voz baja—. Un emisario de la raza drow, vestido como un príncipe de corporación, con escolta armada. Se encerró con Ferani en su despacho privado durante horas para cerrar un trato sucio. Desde entonces, los Reyes del Nivel 21 andan armados hasta los dientes con equipo militar de fuera.
 
-Un fogonazo azul estalló en las tripas del panel, seguido por el chirrido agónico de los pesados pistones de la compuerta cediendo a la fuerza hidráulica forzada. Con un quejido metálico que resonó como un trueno en el túnel desierto, la enorme plancha de acero se elevó lentamente medio metro sobre el suelo, deteniéndose con una sacudida que hizo temblar el polvo de las vigas.
+Triel sintió que un escalofrío de hielo puro le recorría la espina dorsal.
 
-Desde el interior del túnel recién abierto brotó una ráfaga de aire caliente, acompañada por el retumbar lejano de una música de sintetizadores a todo volumen y el hedor inconfundible a sudor, tabaco y ozono recreativo.
+—¿Un emisario drow? —repitió con un hilo de voz—. ¿Mencionó a qué casa pertenecía?
 
-Habían llegado a los límites del *Club Con-Fusión*.
+—Creo que le oí decir **Casa Istrav**... de Apostae. Algo sobre un consorcio de armamento.
+
+Triel apretó los puños hasta clavarse las uñas en las palmas. Casa Istrav. Su propia familia. Las crueles matriarcas de las que había huido cruzando medio sistema estelar estaban metidas hasta el cuello en la conspiración para liquidar a Marlene Boosmar.
+
+***
+
+### III. El farol de la Señorita Istrav
+
+Avanzaron cien metros más hasta detenerse en una bifurcación protegida antes de la entrada del club. Triel respiró hondo, se cuadró los hombros y miró a sus tres compañeros con una determinación gélida:
+
+—Cambio de planes. No podemos asaltar a tiros un club nocturno repleto de cincuenta pandilleros borrachos. Pero si la Casa Istrav estuvo aquí negociando tratos de armas, usaremos su propia soberbia contra ellos: entraremos por la puerta grande.
+
+Benray ladeó la cabeza, frotándose los bigotes con curiosidad:
+
+—¿Y cuál es la jugada magistral, jefa?
+
+—Yo seré la **Señorita Istrav** —explicó Triel, bajándose el cuello de la chaqueta para lucir su porte aristocrático con altivez helada—. Una noble drow de Apostae enviada para supervisar el cumplimiento del contrato con Ferani Nadaz. En la sociedad de mi planeta, las mujeres drow ostentan el poder absoluto y nadie se atreve a cuestionar sus órdenes. Pero una dama de mi alcurnia no se rebaja a hablar directamente con matones callejeros... necesito un portavoz diplomático.
+
+—¡Ese es mi momento estelar! —exclamó Benray, inflándose como un pavo real y alisándose las solapas de la gabardina—. La diplomacia, la alta alcurnia y el protocolo roedor son mi especialidad absoluta. Yo hablaré en su ilustre nombre, mi señora.
+
+—Bien. Y ustedes dos —dijo Triel volviéndose hacia Marloc y A.Xel— serán mi escolta de seguridad privada. Pónganse gafas oscuras, mantengan la boca cerrada y proyecten la actitud más letal y despiadada que puedan fingir.
+
+A.Xel extrajo de su arnés dos pares de gafas de sol tácticas polarizadas, entregándole unas a Marloc y calzándose las suyas. La androide se irguió rígidamente, extendió los brazos hacia el frente con las palmas abiertas y ladeó la cabeza noventa grados:
+
+—¿Dónde debo colocar exactamente mis extremidades superiores para proyectar una adecuada intimidación de escolta biológica?
+
+Triel no pudo contener una sonrisa nerviosa:
+
+—Cruza las manos a la espalda, mantén el mentón alto y no pestañees. Y si nos preguntan a quién representamos, diremos que venimos de parte de mi pariente corporativo: **Julio Istrav**. ¿Listos para el espectáculo?
+
+—Nací listo para el teatro, señorita Istrav —guiñó Benray con picardía.
+
+Gerty avanzó un paso, haciendo crujir sus servos pesados:
+
+—*Sugiero añadir a la mentira que el meca cuenta con autorización formal para vaporizar a cualquier interlocutor que hable con tono descortés.*
+
+—Tranquilo, Gerty. Guarda las armas dentro del chasis hasta que dé la señal.
+
+Avanzaron con paso firme hacia la compuerta de chapa ondulada sobre la que carteles de neón parpadeaban en magenta y cian violento: el acceso a la guarida de los Reyes del Nivel 21.
+
+El espectáculo estaba a punto de comenzar.

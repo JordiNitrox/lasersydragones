@@ -14,11 +14,11 @@ Frente a él, Marloc Boosmar sostenía una taza de porcelana blanca con la mano 
 
 —Disfruta de la abundancia mientras dure, Benray —murmuró Marloc, bebiendo un sorbo mesurado de café negro—. La pólvora aún impregna el aire de los niveles inferiores. La muerte de Marlene no fue un accidente y el sindicato minero sigue en pie de guerra. El Consejo de la estación no tardará en atar cabos sobre lo sucedido en el Club Fusión.
 
-—Siempre tan optimista, profesor —ironizó Triel Istrav desde el otro lado de la mesa. La joven semi-drow vestía su habitual traje de segunda piel con el chaleco técnico de los *Free Captains*. Con una pequeña llave de calibración, ajustaba los pernos del hombro izquierdo de Gerty, cuyo chasis grisáceo de dos metros de altura permanecía erguido junto a la mesa como una mole de acero silenciosa—. Déjanos respirar al menos cinco minutos. Gerty ha gastado un tercio de su batería principal en enfriar los servomotores y todavía tiene pegadas virutas de titanio de la puerta blindada.
+—Siempre tan optimista, profesor —ironizó Triel Istrav desde el otro lado de la mesa. La joven semi-drow vestía su habitual traje de segunda piel con el chaleco técnico de los *Free Captains*. Con una pequeña llave de calibración, ajustaba los pernos del hombro izquierdo de Gerty, cuyo chasis grisáceo de dos metros de altura permanecía erguido junto a la mesa como una mole de acero silenciosa. Sobre la placa pectoral del autómata lucía una flamante calcomanía que Triel le había pegado esa misma mañana: un emoticono sonriente con un parche pirata negro y dos tibias cruzadas—. Déjanos respirar al menos cinco minutos. Gerty ha gastado un tercio de su batería principal en enfriar los servomotores y todavía tiene pegadas virutas de titanio de la puerta blindada.
 
 En la cúpula acristalada del dron, dos puntos ópticos de color azul zafiro parpadearon dos veces antes de emitir un chasquido sintetizado.
 
-—*Secuencia de enfriamiento: noventa y ocho por ciento* —articuló Gerty con la voz cavernosa y monótona de Roberto—. *Aviso para la tripulación orgánica: el aroma a manteca recalentada que emite el roedor está saturando mis sensores de admisión de aire. Solicito formalmente distanciamiento gastronómico.*
+—*Secuencia de enfriamiento: noventa y ocho por ciento* —articuló Gerty con su voz cavernosa y monótona de sintetizador—. *Aviso para la tripulación orgánica: el aroma a manteca recalentada que emite el roedor está saturando mis sensores de admisión de aire. Solicito formalmente distanciamiento gastronómico.*
 
 A.Xel 42 ni siquiera pestañeó. La operativa androide mantenía una postura rígidamente erguida frente a su plato. Con precisión quirúrgica, ensartaba una tira de tocino crujiente y una rodaja de melón exótico en su tenedor, introduciéndolos en su cavidad bucal mientras sus circuitos rosados bioluminiscentes pulsaban a un ritmo pausado bajo la piel sintética de porcelana.
 
@@ -26,7 +26,7 @@ A.Xel 42 ni siquiera pestañeó. La operativa androide mantenía una postura rí
 
 La apacible escena duró exactamente tres segundos más.
 
-Desde el bulevar ajardinado, flotando con un zumbido repulsivo casi inaudible, una pequeña esfera metálica de aleación dorada y plateada avanzó hacia la terraza. Del tamaño de una sandía y con un par de diminutos brazos mecánicos plegados en su base, el dron de seguridad policial lucía un único lente central que brillaba con luz ámbar parpadeante.
+Desde el bulevar ajardinado, flotando con un zumbido repulsivo casi inaudible, una pequeña esfera metálica de aleación dorada y plateada avanzó hacia la terraza. Era una unidad policial de reconocimiento modelo *Observador*, del tamaño de una sandía, provista de un par de diminutos brazos mecánicos articulados en su base armados con una macana de impulsos eléctricos y una cápsula de dispersión de pasta polimérica inmovilizadora. Su único lente central brillaba con luz ámbar parpadeante.
 
 El autómata se detuvo a tres metros de la mesa, proyectando un cono de escaneo holográfico que recorrió los rostros de los cuatro comensales.
 
@@ -46,7 +46,7 @@ Pero ya era tarde. Axel, sin soltar el tenedor cargado de tocino con la mano izq
 
 ### II. Cacería en el bulevar
 
-El haz escarlata impactó de lleno en el chasis del dron esférico, arrancando chispas y esquirlas de revestimiento dorado. El aparato retrocedió en el aire, chirriando alarmas estridentes mientras sus pequeños apéndices desplegaban una macana eléctrica y una cápsula de dispersión pegajosa:
+El haz escarlata impactó de lleno en el chasis del dron esférico, arrancando chispas y esquirlas de revestimiento dorado. El aparato retrocedió en el aire, chirriando alarmas estridentes mientras sus pequeños apéndices intentaban alinear la macana y la cápsula de goma pegajosa:
 
 —*¡Alerta de código rojo! ¡Resistencia armada! ¡Solicitando unidades de pacificación pesada!*
 
@@ -54,7 +54,7 @@ Benray reaccionó por puro instinto callejero. Agarró un puñado de tostadas, s
 
 —¡Plan de contingencia noventa y nueve! —chilló el ysoki con la voz deformada por la comida—. ¡Correr como ratas espaciales! ¡A las habitaciones por el equipaje y fuera del hotel!
 
-Marloc alzó el puño cerrado de su brazo cibernético. Los filamentos arcanos que serpenteaban por su manga se encendieron en un relámpago de energía cuántica. Con un pase elegante de sus dedos, disparó un dardo de arco voltaico que envolvió al dron policial en una jaula crepitante de electricidad, dejándolo girando fuera de control contra las jardineras.
+Marloc alzó el puño cerrado de su brazo cibernético. Los filamentos arcanos que serpenteaban por su manga se encendieron en un relámpago de energía cuántica. Con un pase elegante de sus dedos, disparó un dardo de arco voltaico que envolvió al dron observador en una jaula crepitante de electricidad, dejándolo girando fuera de control contra las jardineras.
 
 Los comensales del restaurante gritaron despavoridos, tirándose bajo los manteles mientras el cuarteto salía disparado por la galería acristalada.
 
@@ -88,7 +88,7 @@ Con un suspiro de resignación, el emisario se contorsionó como solo los suyos 
 
 ***
 
-### III. La pantalla de Syd Velch y el despacho de Chiskisk
+### III. La pantalla de Syd Velch y el combate en la plaza
 
 Al desembocar en la gran arteria comercial que conectaba el Ojo con los anillos de tránsito rápido, los cuatro volvieron a avistarse entre el gentío. Pero el tráfico peatonal estaba completamente paralizado.
 
@@ -96,22 +96,48 @@ Miles de ciudadanos permanecían inmóviles, con la mirada clavada en la pantall
 
 —*«...Imágenes exclusivas del último y perturbador concierto de Syd Velch antes de su misteriosa desaparición en los Mundos del Pacto...»*
 
-En el vídeo, el célebre cantante galáctico Syd Velch detenía su actuación en seco en medio del escenario. Con los ojos desorbitados y gesticulando hacia las cámaras como un poseso, el artista comenzaba a destruir su propio sintetizador de sonido mientras balbuceaba frases inconexas sobre «sangre bajo el sol» y «la necesidad de seguir adelante». El espectáculo era tan hipnótico y desconcertante que la muchedumbre no apartaba la vista.
+En el vídeo, el célebre cantante galáctico Syd Velch detenía su actuación en seco en medio del escenario. Con los ojos desorbitados y gesticulando hacia las cámaras como un poseso, el artista comenzaba a destrozar su propio sintetizador de sonido mientras balbuceaba frases delirantes con voz desgarrada:
+
+—*«...Hasta que el sol corra sangre sobre los caballeros... ¿Por qué necesitamos continuar continuando? ¿Por qué queremos seguir siempre?...»*
+
+El cantante se arrodillaba en el suelo, haciéndose un ovillo mientras el público enmudecía en la pantalla. El espectáculo era tan hipnótico y desconcertante que la muchedumbre del bulevar no apartaba la vista.
 
 —Aprovechemos el trance colectivo —susurró Benray, agarrando a Axel de la mano—. Con permiso, caballeros... Asunto de Estado... Disculpen la prisa...
 
-Abriéndose paso con diplomacia callejera, saltando sobre el capó de aerodeslizadores detenidos y bordeando las últimas esquinas del sector comercial, el grupo avistó al fin la silueta del edificio corporativo donde Inversiones Estelares S.C. mantenía su sede central en el Ojo de Absalón.
+Abriéndose paso con diplomacia callejera, saltando sobre el capó de aerodeslizadores detenidos y esquivando a los transeúntes absortos, el grupo avistó al fin la silueta del edificio corporativo donde Inversiones Estelares S.C. mantenía su sede central en el Ojo de Absalón.
 
-A sus espaldas, el zumbido de tres robots de asalto pesados resonó con furia mecánica. Las luces estroboscópicas rojas bañaban las paredes del corredor.
+Pero la policía no estaba dispuesta a dejarlos escapar. Justo al pie de la escalinata acristalada del edificio, una pesada unidad de seguridad humanoide —un robot de pacificación de dos metros y medio de altura, blindaje blanco reflectante y torso acorazado— emergió de una dársena lateral, bloqueándoles la entrada con su rifle de contención en guardia.
 
-—¡Entren, rápido! —apremió Marloc, forzando la cerradura neumática con su ganzúa de bypass.
+Axel analizó el patrón de barrido óptico del autómata en microsegundos:
 
-Traspasaron el umbral a tropel, jadeantes y con las armas humeantes. La compuerta blindada se cerró tras ellos con un chasquido hermético justo cuando las patrullas policiales rodeaban el vestíbulo exterior, apuntando con docenas de rifles aturdidores.
+—Detecto un cono ciego de tres metros en su flanco izquierdo —susurró la androide.
 
-Desde el pasillo interior de la oficina, una figura alta, de complexión reptiliana imponente, enfundada en un traje sastre de corte impecable con una corbata chillona de piel de serpiente, dio un paso al frente. Era Kaerom, el letrado vesk de Inversiones Estelares S.C., quien sostenía una tableta holográfica con descarada suficiencia.
+Con una agilidad felina y sin emitir el menor roce, Axel se deslizó por las sombras de los pilares, franqueando el perímetro sin que los sensores del robot lograran fijarla. Pero la pesada mole de Gerty, el gabán de Marloc y la figura menuda de Benray no gozaban de tanta discreción.
+
+El robot de asalto giró su torso con un chasquido hidráulico y abrió fuego. El proyectil cinético de contención impactó de lleno en el pecho de Gerty: *¡CRAC!* El golpe hizo tambalearse al meca de Triel, agrietando su placa pectoral y drenando el noventa por ciento de sus escudos en una lluvia de chispas.
+
+—*¡Aviso crítico!* —graznó Gerty por sus altavoces—. *Integridad estructural comprometida. Servomotores principales al borde de la sobrecarga.*
+
+—¡Gerty! —gritó Triel, respondiendo al fuego con su carabina para atraer la atención del autómata.
+
+Marloc Boosmar dio un paso al frente con la mandíbula apretada. El tecnomante cerró su mano enguantada con fuerza. En su dedo anular, el **anillo de matrimonio de oro pulido** —la reliquia sagrada de su difunta esposa Ángela que servía como su foco arcano más íntimo— comenzó a fulgurar con una llamarada de luz violeta y azulada. La energía mística recorrió los filamentos de su brazo cibernético, sobrecargando el tejido de la realidad a su alrededor.
+
+—*¡Fulgur arcanum!* —entonó Marloc con voz vibrante.
+
+De sus nudillos surgieron cuatro esferas de fuerza pura que surcaron el aire en trayectorias espirales teledirigidas. Los proyectiles arcanos impactaron al unísono contra el procesador central del robot policial con una potencia demoledora. El blindaje del autómata reventó hacia afuera, sus cámaras se apagaron y la colosal máquina blanca cayó pesadamente de rodillas sobre el pavimento, echando humo denso y chispas agónicas.
+
+—¡Ahora, adentro! —apremió Marloc, empujando a Triel y al maltrecho Gerty hacia la puerta.
+
+El tecnomante forzó el cerrojo de la esclusa con su aguja de bypass. Traspasaron el umbral a tropel, jadeantes, con las armas todavía humeantes y el chasis de Gerty chirriando por el esfuerzo.
+
+En el interior de la recepción de Inversiones Estelares, la oficinista que atendía el mostrador de cuarzo blanco ahogó un grito de pánico y se tiró de cabeza bajo su escritorio, arrojando papeles y tabletas de datos al aire al ver irrumpir a cuatro fugitivos armados y a un meca destrozado.
+
+A través de las cristaleras blindadas del vestíbulo exterior, media docena de patrullas policiales y drones convergían hacia la entrada apuntando con docenas de rifles aturdidores. La compuerta se cerró con un chasquido hermético.
+
+Fue entonces cuando, desde el pasillo interior de los despachos, una figura alta y de complexión reptiliana imponente dio un paso al frente. Vestía un traje sastre de corte impecable con una corbata chillona de piel de serpiente: era Kaerom, el letrado vesk de Inversiones Estelares S.C., quien sostenía una tableta holográfica con descarada suficiencia.
 
 —Disculpen las molestias, señores oficiales —anunció el abogado vesk con una sonrisa colmilluda, mostrando sus credenciales a través del panel transparente—. Estos ciudadanos se encuentran bajo la tutela jurídica directa de esta corporación y bajo la cláusula de arbitraje oficial del Consejo de Síndicos. Guarden sus juguetes antes de que les redacte una demanda por acoso institucional que les costará su jubilación.
 
-Benray se dejó caer de espaldas en el sillón de la recepción, soltando una carcajada exhausta mientras se sacaba el último panecillo aplastado del bolsillo.
+Benray se dejó caer de espaldas en el mullido sillón de la recepción, soltando una carcajada exhausta mientras se sacaba el último panecillo aplastado del bolsillo.
 
 —Definitivamente —suspiró el ysoki—, amo el sistema judicial de esta estación.

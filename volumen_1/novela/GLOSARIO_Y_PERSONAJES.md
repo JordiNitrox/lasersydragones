@@ -95,18 +95,52 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 
 ### Carne Yac
 - Corresponsal de la especie ghoran (humanoide vegetal / cactus) del noticiero *Noticias en Movimiento*, con flores blancas brotando de su frente y micrófono flotante. Cubre en directo los sucesos sangrientos del Muelle 94.
+
+### Thalud
+- **Especie:** Dragonkin.
+- **Rol:** Veterano guerrero de Triaxus y custodio del reservado VIP del Club 13.
+- **Rasgos:** Imponente gigante escamoso de cresta dorada y mirada penetrante. Habla la lengua dracónica ancestral y conoce el turbio pasado de Benray en las colonias glaciares de Triaxus. Actúa como confidente y guardián de secretos en los bajos fondos.
+
+### Eclair
+- **Especie:** Androide.
+- **Rol:** Activista por los derechos sintéticos y amiga íntima de A.Xel 42 y Marlene Boosmar.
+- **Rasgos:** Androide sensible de cabello azul cobalto e iris dorados. Enlace clave entre los círculos clandestinos de la estación y la memoria de Marlene, preocupada por la radicalización del Frente de Liberación Androide liderado por Null-9.
+
+### Ángela Boosmar
+- **Especie:** Humana.
+- **Rol:** Viuda de Marlene Boosmar. En el universo natal de Marloc, Ángela era su propia esposa y murió trágicamente en un accidente de esclusa en los astilleros de Verces. En este universo, la esclusa abrió a tiempo, sobrevivió y se casó con Marlene, convirtiéndose en el epicentro del trauma dimensional de Marloc.
+
+### Sal
+- Joven aprendiz lashunta de mecánica naval en los muelles de atraque de Absalón. Amigo de videojuegos de carreras espaciales de Triel; fue quien le recomendó buscar trabajo en el Arcanamirium y visitar el Club 13.
+
+### Marcelo
+- Contacto y camarada ysoki de Benray Galway en los monobloques del Anillo. Fue quien despertó a Benray en su camarote con las primicias sobre la llegada del carguero *Acreon*.
+
+### Kallio
+- Francotirador profesional drow de sangre fría, asesino a sueldo de élite contratado en secreto por Extracciones Estelares para abatir a Marlene Boosmar en el Muelle 94.
+
+### Clamor Sambor
+- Enigmático y acaudalado magnate, propietario ausente de Inversiones Estelares S.C. Aunque nunca se muestra en persona, delega en Chiskisk la toma de decisiones estratégicas y la contratación del grupo como peritos independientes.
+
+### Silo y Luigi
+- Habituales de las mesas clandestinas del Club 13. Silo es una ruda contrabandista humana de trenzas fucsia fosforescentes; Luigi es un viejo minero ysoki desdentado y experto en dados de plasma.
+
 ---
 
 ## 4. Corporaciones y Facciones
 
 ### Inversiones Estelares S.C.
-Compañía corporativa y financiera de mediación con sede central en El Ojo de la Estación Absalón. Liderada por Chiskisk, fue la entidad para la que trabajaba la investigadora Marlene Boosmar. Gestiona los procesos de arbitraje neutral sobre el litigio del carguero *Acreon* y contrata a los protagonistas como peritos independientes con cobertura legal y financiera ante las presiones de las grandes corporaciones.
+Compañía corporativa y financiera de mediación con sede central en El Ojo de la Estación Absalón. Liderada por Chiskisk en representación del ausente Clamor Sambor, fue la entidad para la que trabajaba la investigadora Marlene Boosmar. Gestiona los procesos de arbitraje neutral sobre el litigio del carguero *Acreon* y contrata a los protagonistas como peritos independientes con cobertura legal y financiera ante las presiones de las grandes corporaciones.
 
 ### Extracciones Estelares (*Astral Extractions*)
-Poderosísima megacorporación minera y financiera interestelar con enormes explotaciones en el cinturón de asteroides de la Diáspora. Tras una pulcra fachada pública de mecenazgo y desarrollo industrial, opera con métodos despiadados: contratación de sicarios drow, compra de jueces y sobornos a pandillas para monopolizar recursos de valor incalculable.
+Poderosísima megacorporación minera y financiera interestelar con enormes explotaciones en el cinturón de asteroides de la Diáspora. Dirigida a nivel de relaciones públicas por portavoces como **Park Maryland II**, tras su pulcra fachada corporativa opera con métodos despiadados: contratación de sicarios drow (como Kallio), compra de jueces y sobornos a bandas callejeras para monopolizar la Roca del Drift.
 
 ### Colectivo Hardscrabble
-Cooperativa y sindicato de mineros y transportistas independientes de la Diáspora. Trabajadores espaciales rudos y autosuficientes, dueños legítimos del carguero *Acreon*, decididos a descubrir la verdad sobre sus camaradas desaparecidos y reclamar sus derechos de salvamento.
+Cooperativa y sindicato de mineros y transportistas independientes de la Diáspora, representados legalmente por delegados gremiales como **Anastasio Oryander**. Trabajadores espaciales rudos y autosuficientes, dueños legítimos del carguero *Acreon*, decididos a descubrir la verdad sobre sus camaradas desaparecidos y reclamar sus derechos de salvamento.
+
+### Casa Istrav de Apostae
+Poderosa y tiránica casa noble matriarcal de elfos oscuros (drow) con sede en las ciudades-factoría subterráneas del planeta Apostae. Famosa por sus arsenales armamentísticos y su desprecio hacia las castas mestizas, representa el opresivo pasado familiar del que Triel Istrav huyó para forjar su propio destino.
 
 ### Los Reyes del Nivel 21 (*21st Crew*)
-Violenta banda armada que controla el tráfico ilegal y la extorsión en los niveles inferiores de la Espiga. Fueron contratados como ejecutores en la emboscada del Muelle 94.
+Violenta banda armada que controla el tráfico ilegal, la extorsión y el juego en los niveles inferiores de la Espiga desde su guarida en el club *Con-Fusión*. Liderados por Ferani Nadaz y Brock Hilario, fueron los ejecutores materiales de la emboscada en el Muelle 94.
+
