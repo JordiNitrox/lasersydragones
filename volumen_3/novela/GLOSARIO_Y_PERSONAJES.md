@@ -27,7 +27,7 @@ Nave ligera de transporte consolidada ya como el cuartel permanente y hogar de B
 
 ### Triel Istrav
 *Mecánica Semi-drow (Jugadora: Irene)*  
-De piel grisácea con destellos lila, cabellos blancos y ojos carmesíes. En este volumen, su maestría técnica resulta vital para descifrar los paneles de energía alienígena del complejo ancestral, calibrar las armas pesadas del grupo y coordinar a Gerty durante el brutal choque con el autómata de seguridad de la roca. Revela en secreto a Marloc su huida de Apostae y su anhelo de hallar a su padre biológico humano, el pirata de los Capitanes Libres **Keiden Ashton**. Tras la gran fiesta de bienvenida, inicia un apasionado e inesperado romance clandestino con el oficial León Holden.
+De piel grisácea con destellos lila, cabellos blancos y ojos carmesíes. En este volumen, su maestría técnica resulta vital para descifrar los paneles de energía alienígena del complejo ancestral, calibrar las armas pesadas del grupo y coordinar a Gerty durante el brutal choque con el autómata de seguridad de la roca. Revela en secreto a Marloc su huida de Apostae y su anhelo de hallar a su padre biológico humano, el pirata de los Capitanes Libres **Keiden Ashton**. Tras la gran fiesta de bienvenida, inicia un apasionado e inesperado romance clandestino con el oficial León Anoxiar.
 
 ### Gerty
 *Dron de Combate y Soporte Pesado (Voz: Roberto)*  
@@ -73,7 +73,7 @@ Primer oficial de la tripulación minera del *Acreon*. Trágicamente infectado p
 
 ## 4. El Cierre Político en la Estación Absalón
 
-### Oficial León Holden
+### Oficial León Anoxiar
 *Oficial de Enlace de Los Protectores*  
 Mando de enlace y comunicaciones de los Protectores en la Estación Absalón. Marcial y estricto, vigila con severidad y resignada paciencia que la tripulación no convierta el proceso judicial en un circo mediático, siendo el receptor habitual de las chanzas de Benrey Galway... y el protagonista de un clandestino, apasionado e inesperado romance con Triel tras una noche de mensajes etílicos e insolentes.
 

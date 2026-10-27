@@ -103,3 +103,21 @@ Nor negó suavemente con la cabeza:
 Gevalarsk Nor soltó una risita seca, como el crujido de hojas muertas en otoño, y extendió su mano pálida y huesuda sobre la mesa:
 
 —Trato hecho, señor Galway. Su ambición es refrescante en un universo tan timorato. Recojan su transporte en los hangares mineros del Colectivo Hardscrabble mañana a primera hora. Y que las estrellas velen por su viaje... porque en el vacío del *Acreon*, mis queridos amigos, la muerte no siempre descansa en paz.
+
+El asistente Keltus los escoltó de regreso hacia el peristilo de columnas biomecánicas, despidiéndose con una reverencia afable y relamiéndose con su larga lengua de gul:
+
+—Espero que hayan disfrutado de mis galletitas de anís. Que la eternidad sea benévola con sus almas, distinguidos mediadores.
+
+En la esclusa exterior, un par de autómatas esqueléticos les devolvieron sus armas reglamentarias, perfectamente desinfectadas y pulidas con un brillo fantasmal. Cruzaron el umbral bajo la mirada imperturbable de los colosales caballeros de la tumba y salieron al fin a las amplias avenidas del Ojo.
+
+Apenas respiraron el aire fresco y filtrado de la estación, los cuatro soltaron un prolongado suspiro de alivio casi al unísono, como si acabaran de escapar de una cripta milenaria.
+
+—Por todos los santos reactores... —masculló Benrey, frotándose los brazos para disipar el frío que aún le erizaba el pelaje—. Esos tipos huelen a embalsamamiento y formaldehído. Creí que saldríamos de ahí convertidos en zombis de protocolo.
+
+En ese instante, el comunicador de muñeca del ysoki emitió un pitido alegre, proyectando un mensaje de voz urgente con el timbre cantarín de su primo Rim Rey:
+
+—*«¡Oye, primo! El clan organiza una carne asada de bienvenida esta noche en los talleres de la Espiga. Además, tu agente Marcellus pasó por el garaje y me dejó un paquete prioritario para ti... una bolsa sellada con un rótulo enorme que dice "NO TOCAR NADA" (yo con ese bicho no me meto, tú sabes). Pásate a recogerlo y revisamos los últimos ajustes de tu motoneta antes de que te vayas a las estrellas. ¡No faltes!»*
+
+Benrey apagó la pantalla holográfica con una sonrisa de oreja a oreja y miró a sus compañeros:
+
+—Bueno, muchachos... Después de negociar con aristócratas cadavéricos, nada cura mejor el espíritu que unas buenas carnitas asadas con el clan Galway. ¡Rumbo a los talleres de la Espiga!

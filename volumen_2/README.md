@@ -28,7 +28,7 @@ Archivos, grabaciones, transcripciones y materiales de novelización correspondi
 * **Título:** *Lasers y Dragones: El Misterio del Acreon*
 * **Subtítulo:** *Volumen II · Los Secretos del Vacío*
 * **Episodios Adaptados:** Episodios 11 al 22 (12 episodios, 12 capítulos novelados + prólogo, nota editorial y anexo).
-* **Extensión del PDF:** 59 páginas en formato A4 editorial de alta fidelidad.
+* **Extensión del PDF:** 93 páginas en formato A4 editorial de alta fidelidad.
 * **Archivo PDF:** [Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf](novela/Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf)
 
 ---
@@ -41,10 +41,10 @@ Archivos, grabaciones, transcripciones y materiales de novelización correspondi
 - `plan_volumen_2.md`: Plan maestro de novelización que mapea los 12 capítulos correspondientes a la trama del *Acreon*.
 - `novela/`:
   - `capitulos/`: 12 capítulos novelizados en Markdown (Capítulos 11 al 22) más el prólogo.
-  - `GLOSARIO_Y_PERSONAJES.md`: Canon expandido con facciones, nombres propios clave (Embajador Gevalarsk Nor, asistente Keltus, goblins Willy y Naru, oficiales Monroe y León de los Protectores, capitán Otal Seris, tripulación del Acreon).
+  - `GLOSARIO_Y_PERSONAJES.md`: Canon expandido con facciones, nombres propios clave (Embajador Gevalarsk Nor, asistente Keltus, goblins Willy y Naru, oficiales Monroe y León Anoxiar de los Protectores, la portavoz Señorita Joss de Extracciones Estelares, capitán Otal Seris, tripulación del Acreon).
   - `generar_libro_pdf.py`: Script de compilación y maquetación editorial HTML/CSS con motor de renderizado LibreOffice.
   - `libro_maquetado.html`: Documento HTML estructurado intermedio.
-  - `Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf`: Libro maquetado final (59 páginas).
+  - `Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf`: Libro maquetado final (93 páginas).
 - `metadatos/`: Registro JSON estructurado con URLs, sinopsis y hashes.
 - `scripts/`: Herramientas de automatización y descarga.
 
@@ -52,4 +52,4 @@ Archivos, grabaciones, transcripciones y materiales de novelización correspondi
 
 ## 3. Arco Narrativo del Volumen 2
 
-El volumen comprende desde las secuelas inmediatas del Nivel 21 y la intervención de los Protectores, pasando por el pacto secreto con el embajador de Eox Gevalarsk Nor, la obtención de la nave *Hippocampus*, hasta la expedición y **exploración completa del pecio minero *Acreon***. Concluye de forma redonda con el rescate de los goblins espaciales Willy y Naru, la recuperación del sarcófago confidencial, el informe oficial enviado a Absalón a través del oficial León de los Protectores, y el primer descenso hacia la enigmática entrada que conduce a la *Roca del Drift*, antesala del Volumen 3.
+El volumen comprende desde las secuelas inmediatas del Nivel 21 y la intervención de los Protectores, pasando por el pacto secreto con el embajador de Eox Gevalarsk Nor, la obtención de la nave *Hippocampus*, hasta la expedición y **exploración completa del pecio minero *Acreon***. Concluye de forma redonda con el rescate de los goblins espaciales Willy y Naru, la recuperación del sarcófago confidencial, el informe oficial enviado a Absalón a través del oficial León Anoxiar de los Protectores, y el primer descenso hacia la enigmática entrada que conduce a la *Roca del Drift*, antesala del Volumen 3.

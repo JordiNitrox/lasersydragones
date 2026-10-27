@@ -84,7 +84,7 @@ Por un segundo, la prudencia le gritó que borrara la cuenta y se escondiera en 
 
 Apenas quince minutos después, el timbre de la suite emitió un zumbido seco.
 
-Triel se levantó de un salto, se colocó su camiseta de tirantes con el pelo revuelto y entreabrió la puerta con cautela. Al otro lado del umbral, para su absoluto pasmo, se hallaba el oficial León Holden. No vestía la pesada armadura de Los Protectores ni la guerrera reglamentaria: llevaba una camiseta oscura ajustada a su torso fornido, una chaqueta de cuero civil desgastada y la mandíbula apretada con severidad castrense.
+Triel se levantó de un salto, se colocó su camiseta de tirantes con el pelo revuelto y entreabrió la puerta con cautela. Al otro lado del umbral, para su absoluto pasmo, se hallaba el oficial León. No vestía la pesada armadura de Los Protectores ni la guerrera reglamentaria: llevaba una camiseta oscura ajustada a su torso fornido, una chaqueta de cuero civil desgastada y la mandíbula apretada con severidad castrense.
 
 —Señorita Istrav —dijo León con voz profunda y contenida, mirando hacia ambos lados del pasillo antes de fijar en ella sus ojos castaños—. Asumo que su insolencia por el canal oficial era producto del alcohol, pero interferir con las frecuencias de un oficial en servicio activo es una infracción grave que...
 

@@ -56,11 +56,13 @@ Marloc no vaciló. Rompió el sello de un tirón con su mano metálica y empujó
 
 El interior era un desastre de estantes volcados y archivadores vacíos. La policía de Absalón y los agentes corporativos habían registrado cada rincón: los terminales de escritorio habían sido arrancados de cuajo, los discos de datos brillaban por su ausencia y los paneles del suelo técnico estaban levantados. Sin embargo, en las paredes aún colgaban varias pinturas que paralizaron al tecnomante en el umbral.
 
-Eran retratos al óleo y lienzos holográficos de una mujer de mirada serena y cabellos castaños, sonriendo frente a paisajes de mundos lejanos. En la esquina del escritorio yacía un marco roto con una fotografía de Marlene sonriente junto a su esposa Ángela, con una dedicatoria grabada a mano: *«Para mi amada Marlene, que tu luz ilumine las estrellas»*. Al contemplarla de cerca, la perturbadora semejanza en los rasgos faciales de la investigadora con los suyos propios volvió a estremecer al tecnomante, ahondando el misterio de su identidad.
+      Eran retratos al óleo y lienzos holográficos de una mujer de mirada serena y cabellos castaños, sonriendo frente a paisajes de mundos lejanos. En la esquina del escritorio yacía un marco roto con una fotografía de Marlene sonriente junto a su esposa Ángela, con una dedicatoria grabada a mano: *«Para mi amada Marlene, que tu luz ilumine las estrellas»*. Al contemplarla de cerca, la perturbadora semejanza en los rasgos faciales de la investigadora con los suyos propios volvió a estremecer al tecnomante, ahondando el misterio de su identidad.
 
-Triel se acercó en silencio y apoyó una mano en el hombro de Marloc.
+      Junto al marco, sobre la madera arañada, reposaba un comunicado impreso de la junta de decanos con un sello institucional imponente. Era una carta enviada por el mismísimo **Ambrose Boosmar**, catedrático emérito de la academia: *«Exijo a la facultad de tecnomagia que cesen de inmediato las presiones administrativas sobre mi hija Marlene y se le garantice el uso prioritario de los laboratorios para su investigación dimensional»*.
 
-—Lo siento, profesor... Se llevaron todo.
+      Marloc contempló la firma autógrafa con los ojos muy abiertos, sintiendo un escalofrío helado en la nuca:
+
+      —Papá... —susurró con un hilo de voz—. Mi propio padre, Ambrose Boosmar, era catedrático aquí mismo. Jamás se entrometía en la política interna de la universidad, pero su autoridad académica era tan incontestable que nadie osaba contradecirlo. Parece que el viejo Ambrose ejerció esa misma férrea influencia sobre la carrera de Marlene... Ambos compartimos al mismo padre.
 
 —No todo —respondió Marloc con voz ronca, tragando saliva con esfuerzo—. Marlene conocía la burocracia de esta academia mejor que nadie. Sabía que los registros digitales pueden borrarse con un pulso electromagnético, pero la contabilidad física del Arcanamirium es casi imposible de purgar.
 
@@ -118,7 +120,19 @@ Triel contempló la reliquia apagada y luego miró a sus compañeros con resoluc
 
 —Nos la llevamos —asintió Marloc con firmeza, envolviendo la esfera con un paño térmico reforzado antes de guardarla en su mochila de viaje—. Descarguen también todas las bitácoras y lecturas de frecuencias de Marlene en mi terminal. Dondequiera que nos lleve el *Acreon*, este artefacto viajará con nosotros.
 
-Con la esfera de Qabarat custodiada en el equipo del tecnomante, las investigaciones de Marlene a salvo y un lote de suministros de repuesto en los bolsillos de Triel, el grupo abandonó el Arcanamirium con paso ágil, fundiéndose con las avenidas de Absalón. Tenían su misión hacia la nave fantasma en el horizonte, pero ahora llevaban consigo la pieza clave de un enigma interestelar que apenas comenzaba a despertar.
+Con la esfera de Qabarat custodiada en el equipo del tecnomante, las investigaciones de Marlene a salvo y un botín de doscientas una bases poliméricas universales (UPBs) confiscadas de las arcas del laboratorio, el grupo se deslizó hacia el exterior. En el pasillo, el conserje Richie seguía tarareando su música submarina mientras fregaba los mamparos; Benrey le dedicó un saludo con la mano y un guiño cómplice antes de salir al sol de la cúpula.
+
+En la plaza central, la doctora Sophie Ren continuaba celebrando su título rodeada por sus compañeros de armas, levantando copas de néctar espumoso. Al cruzar los jardines del campus, Marloc observó la marcha ceremoniosa de Gerty y sonrió levemente:
+
+—Agradezco su cortesía y disciplina, Gerty. Aunque en esta tripulación no es obligatorio que me trate con tanta pompa académica.
+
+Los cuatro brazos del meca se ajustaron con un chasquido hidráulico y su cúpula proyectó un parpadeo azul zafiro:
+
+—*Aviso de diseño fundamental para el usuario Marloc* —respondió el autómata con su voz cavernosa de sintetizador—. *Mis matrices heurísticas originales fueron programadas a partir de ingeniería militar drow de Apostae. En la doctrina cibernética drow, las inteligencias artificiales tienen terminantemente prohibida la familiaridad con los usuarios orgánicos; fuimos codificados para tratar con estricta jerarquía y sumisión ceremonial: Señor Marloc, Señora Triel, Señor Benrey. Desactivar ese protocolo degradaría mis rutinas en un cuarenta y dos por ciento. La pleitesía es un componente estructural de mi chasis.*
+
+Triel soltó una risita cómplice y le palmeó la coraza al meca:
+
+—Déjalo, profesor. Lleva el orgullo drow grabado en los chips. Ahora vámonos antes de que el decanato descubra el agujero en su inventario.
 
 ***
 
@@ -190,11 +204,11 @@ Axel inclinó la cabeza con solemnidad:
 
 —Los androides respetamos el derecho sagrado a la renovación de la propia alma, Eclair. Si ese es tu deseo, estaré allí para sostener tu mano.
 
-Para romper la pesadumbre del momento, Clara 247 dio dos palmadas al aire y señaló hacia el fondo del local:
+Para romper la pesadumbre del momento, Clara 247 apuró su trago de un sorbo y se puso en pie, haciendo crujir con elegancia las articulaciones de su mono de combate:
 
-—Basta de despedidas fúnebres por hoy, caballeros. Si van a embarcarse hacia una nave fantasma, necesitan reflejos afilados. Oye, Triel... Dicen los mineros de ahí enfrente que nadie en este antro es capaz de completar la simulación de salto en el cañón de asteroides. ¿Te atreves a demostrar de qué está hecha la Diáspora?
+—Basta de despedidas fúnebres por hoy, caballeros. Si ustedes dos necesitan hablar en privado de almas y transiciones místicas, yo solo soy un estorbo sentimental. —La rubia clavó sus ojos ámbar en Benrey con una sonrisa felina de dientes cromados—. Oye, Galway... Me han contado que tú fuiste el que esquivó los rayos en el tiroteo del Muelle 94 y lideró el asalto en los Bajos. Me encantan los hombres peligrosos, roedor. Vamos a las máquinas de videojuegos del fondo, a ver si esos dedos tuyos son tan rápidos con los mandos de combate como con la pistola láser.
 
-Triel aceptó el desafío con una sonrisa desafiante. Se ajustó los guantes y se acomodó en la cabina del simulador de vuelo frente a una docena de obreros escépticos. Durante diez minutos vertiginosos, los dedos de la semi-drow danzaron sobre las palancas de empuje: ejecutó giros de tonel imposibles, derivó a milímetros de meteoritos holográficos y pulverizó el récord de la máquina con una maniobra de vector inverso que arrancó silbidos de asombro y una ovación unánime de los mineros, quienes se apresuraron a invitarla a rondas de aguardiente.
+Antes de que Benrey pudiera emitir una sola objeción galante, la androide lo atrapó con firmeza de la pata enguantada y tiró de él hacia la zona de recreativas entre la multitud de mineros, dejándolo boquiabierto pero visiblemente encantado. Triel soltó una carcajada contemplando la cómica escena, mientras Axel y Eclair aprovechaban la intimidad del reservado para ultimar sus confidencias sobre el ritual de la Renovación.
 
 Cuando la tripulación se disponía al fin a abandonar la taberna entre risas y despedidas, una figura delgada, ataviada con una túnica talar negra de bordes deshilachados, se deslizó entre las sombras del callejón exterior y les cortó el paso con una reverencia espectral.
 

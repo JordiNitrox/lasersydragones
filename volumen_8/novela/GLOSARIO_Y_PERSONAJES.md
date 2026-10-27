@@ -10,7 +10,7 @@
 ---
 
 ## 2. Los Protagonistas y su Evolución Emocional
-* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Debe calibrar constantemente los sellos ambientales y los trajes de radiación de la tripulación. Muestra una actitud pragmática y desconfiada ante la diplomacia eoxiana mientras sigue añorando el calor vital de Absalón y el contacto con León Holden.
+* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Debe calibrar constantemente los sellos ambientales y los trajes de radiación de la tripulación. Muestra una actitud pragmática y desconfiada ante la diplomacia eoxiana mientras sigue añorando el calor vital de Absalón y el contacto con León Anoxiar.
 * **Gerty:** Dron de Asalto de Triel (Voz: Roberto). Sus sensores mecánicos no sufren la toxicidad de Eox, pero sus comentarios ácidos sobre el óxido y el hedor a formol exasperan a los mayordomos no-muertos.
 * **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). Experimenta su mayor crisis nerviosa y psicológica: su fobia absoluta a los muertos vivientes y a la descomposición lo mantiene al borde del colapso emocional, refugiándose en el humor compulsivo y en su fiel blaster.
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo). Su fascinación analítica por la magia de la no-muerte y los constructos de carne rivaliza con su melancolía por Ángela y su suspicacia hacia las intrigas políticas del planeta.

@@ -190,7 +190,7 @@ Los días posteriores en la Estación Absalón transcurrieron en una vorágine d
 
 En la mañana del desamarre, el Muelle 94 olía a refrigerante fresco y queroseno estelar.
 
-Junto a la rampa de la *Estrella Errante*, el **oficial León Holden** despidió a la tripulación con su impecable uniforme de Los Protectores. Su intercambio de miradas y promesas cómplices con Triel Istrav arrancó sonrisas entre los presentes, sellando el compromiso de una copa pendiente en el Club 13 en cuanto regresaran de Castrovel. A escasos metros, Benrey Galway abrazó con devoción a su primo menor, entregándole las llaves de su vespacial y jurándole por su honor que jamás volvería a dejar a su familia atrás.
+Junto a la rampa de la *Estrella Errante*, el **oficial León** despidió a la tripulación con su impecable uniforme de Los Protectores. Su intercambio de miradas y promesas cómplices con Triel Istrav arrancó sonrisas entre los presentes, sellando el compromiso de una copa pendiente en el Club 13 en cuanto regresaran de Castrovel. A escasos metros, Benrey Galway abrazó con devoción a su primo menor, entregándole las llaves de su vespacial y jurándole por su honor que jamás volvería a dejar a su familia atrás.
 
 A bordo de la corbeta ancestral, la normalidad técnica había sido restaurada con creces.
 

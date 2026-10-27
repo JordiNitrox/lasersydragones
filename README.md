@@ -59,8 +59,8 @@ lasersydragones/
 
 2. **[Volumen 2: El Misterio del Acreon](file:///home/jordi/Proyectos/lasersydragones/volumen_2/novela/Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf)** · **`[EN REVISIÓN Y CORRECCIÓN]`**
    * *Subtítulo:* `Los Secretos del Vacío` (Episodios 11–22).
-   * *Extensión:* 59 páginas, A4 editorial.
-   * *Arco:* Inicio inmediato con la evasión del dron policial en la terraza del Ojo y el pánico por el colapso del cantante Syd Velch; arbitraje de Chiskisk y el magistrado Oryander; archivos del Arcanamirium; pacto secreto con el embajador Gevalarsk Nor y Keltus de Eox; ridículo lote corporativo de jabones de Extracciones Estelares; nave *Hippocampus* entregada por el Capitán Otal Seris; abordaje y exploración completa del pecio fantasma *Acreon*; plaga de Akatas y rescate de los amigoblins Willy y Naru; informe verídico y complicidad romántica de Triel con el Oficial León de los Protectores; y descenso final hacia el umbral de la Roca del Drift.
+   * *Extensión:* 93 páginas, A4 editorial.
+   * *Arco:* Inicio inmediato con la evasión del dron policial en la terraza del Ojo y el pánico por el colapso del cantante Syd Velch; arbitraje de Chiskisk y el magistrado Oryander; archivos del Arcanamirium; pacto secreto con el embajador Gevalarsk Nor y Keltus de Eox; ridículo lote corporativo de jabones de Extracciones Estelares; nave *Hippocampus* entregada por el Capitán Otal Seris; abordaje y exploración completa del pecio fantasma *Acreon*; plaga de Akatas y rescate de los amigoblins Willy y Naru; informe verídico y complicidad romántica de Triel con el Oficial León Anoxiar de los Protectores; y descenso final hacia el umbral de la Roca del Drift.
 
 3. **[Volumen 3: La Roca del Drift](file:///home/jordi/Proyectos/lasersydragones/volumen_3/novela/Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf)** · **`[EN REVISIÓN Y CORRECCIÓN]`**
    * *Subtítulo:* `El Enigma Ancestral` (Episodios 23–33).

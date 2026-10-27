@@ -91,13 +91,13 @@ El análisis espectral reveló una estructura química tan compleja que desafiab
 
 Con infinita paciencia y canalizando hilos de magia tecnomántica a través de los nanitos reactivos, Marloc logró sintetizar un compuesto neutralizador. Desarrolló cuatro dosis purificadas de una contravacuna de nivel dos, capaz de inmunizar sus organismos contra el gas tóxico.
 
-—Esto se lo pasaré al oficial León Holden —pensó Marloc, guardando los inyectores en su maletín—. Los Protectores deben saber a qué clase de armas nos enfrentamos.
+—Esto se lo pasaré al oficial León —pensó Marloc, guardando los inyectores en su maletín—. Los Protectores deben saber a qué clase de armas nos enfrentamos.
 
 ***
 
 ### IV. Cuervos de madera y uniformes de una pieza
 
-En el sector de viviendas de los Protectores, Triel Istrav subió por el ascensor hacia el apartamento del oficial León Holden. Al entrar, encontró el salón repleto de cajas selladas, contenedores de campaña y mochilas tácticas.
+En el sector de viviendas de los Protectores, Triel Istrav subió por el ascensor hacia el apartamento del oficial León. Al entrar, encontró el salón repleto de cajas selladas, contenedores de campaña y mochilas tácticas.
 
 León estaba allí, en uniforme de servicio pero desprovisto de su chaleco antibalas. El apuesto oficial humano le dedicó una sonrisa cansada pero genuina al verla cruzar el umbral.
 
@@ -143,7 +143,7 @@ Los goblins parpadearon, conmovidos por el discurso:
 —Vaya... qué profundo, señor mago —susurró Willy, secándose una lágrima invisible—. Supongo que puedo dedicar más tiempo a mis hijos...
 
 Aprovechando el momento de distracción, Benrey se inclinó entre los dos roedores verdes y les susurró al oído con una sonrisa cómplice:
-—Psst... muchachos. De buena fuente sé que el oficial León Holden parte en una misión secreta de Los Protectores en el muelle cuarenta y dos. Si se cuelan de polizones en su nave, podrán entrenar con la policía estelar y convertirse en soldados de verdad. ¡Llévense los uniformes puestos!
+—Psst... muchachos. De buena fuente sé que el oficial León parte en una misión secreta de Los Protectores en el muelle cuarenta y dos. Si se cuelan de polizones en su nave, podrán entrenar con la policía estelar y convertirse en soldados de verdad. ¡Llévense los uniformes puestos!
 
 Los ojos de los goblins se iluminaron como bengalas. Sin despedirse, echaron a correr por el hangar chillando de entusiasmo hacia la nave de León.
 

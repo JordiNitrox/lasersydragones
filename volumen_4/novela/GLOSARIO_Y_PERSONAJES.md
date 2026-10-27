@@ -58,7 +58,7 @@ Científico frío, aristocrático y distante que reside en Absalón. Oculta bajo
 *Esposa y Viuda de Marlene Boosmar*  
 Compañera de vida de Marlene, devastada por su trágico asesinato en los muelles de Absalón. Su presencia conmociona profundamente a Marloc, pues resulta idéntica en apariencia y temperamento a la Ángela que el tecnomante amó y perdió en su dimensión original. En el camposanto, tras contemplar el anillo de bodas de Marloc grabado con su nombre, encuentra consuelo mutuo y entrega al tecnomante el medallón de campo y los cuadernos de Marlene.
 
-### Capitán / Oficial León Holden
+### Capitán / Oficial León Anoxiar
 *Oficial de Enlace de Los Protectores*  
 Oficial íntegro de la guardia militar de Absalón y romance clandestino de Triel Istrav. Tras la fiesta de la Roca del Drift, su apasionado encuentro secreto en el hotel y la llamada de preocupación tras el caos del concierto de Syd Velch, acude en persona al Muelle 94 para despedir a la mecánica semi-drow con afectuosa y sonrojada complicidad antes de que el pelotón zarpe rumbo a Castrovel.
 
@@ -128,7 +128,7 @@ Compañera inseparable de Éclair y adiestradora de combate de Axel. Arrasada po
 
 ### Willy y Naru (Los Amigoblins)
 *Goblins Espaciales Reubicados en Absalón*  
-Náufragos rescatados del *Acreon*. Tras acampar con su prole en la sala de máquinas del *Hippocampus*, Benrey y Marloc los convencen de mudarse con todo su clan a la patrulla artillada del Oficial León Holden en el Muelle 34 («el gran protector de los goblins»). Quedan custodiados en la estación espacial, dejando la sala de máquinas de la *Estrella Errante* limpia y operativa para la expedición a Castrovel.
+Náufragos rescatados del *Acreon*. Tras acampar con su prole en la sala de máquinas del *Hippocampus*, Benrey y Marloc los convencen de mudarse con todo su clan a la patrulla artillada del Oficial León Anoxiar en el Muelle 34 («el gran protector de los goblins»). Quedan custodiados en la estación espacial, dejando la sala de máquinas de la *Estrella Errante* limpia y operativa para la expedición a Castrovel.
 
 ---
 

@@ -82,7 +82,7 @@ Voz etérea y melancólica que despierta en los altavoces y mamparos de la *Estr
 
 ### Willy y Naru
 *Goblins Espaciales de Absalón (Bajo la Tutela de Los Protectores)*  
-Goblins rescatados del *Acreon*. Permanecen en la Estación Absalón asignados a la patrulla del Oficial León Holden desde el Episodio 35, manteniendo la sala de máquinas de la *Estrella Errante* despejada de caldos radioactivos y travesuras mientras sus antiguos rescatadores exploran las profundidades del Vasto.
+Goblins rescatados del *Acreon*. Permanecen en la Estación Absalón asignados a la patrulla del Oficial León Anoxiar desde el Episodio 35, manteniendo la sala de máquinas de la *Estrella Errante* despejada de caldos radioactivos y travesuras mientras sus antiguos rescatadores exploran las profundidades del Vasto.
 
 ---
 

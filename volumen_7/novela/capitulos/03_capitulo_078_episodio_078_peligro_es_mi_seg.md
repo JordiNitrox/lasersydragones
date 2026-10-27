@@ -29,10 +29,10 @@ En el puente de la nave, Benrey Galway se levantó de su asiento como impulsado 
 
 Frenético, el ysoki comenzó a teclear a dos manos en su consola, abriendo foros clandestinos, lanzando comentarios incendiarios y creando memes difamatorios contra Galito Peligro a la velocidad de la luz.
 
-—*«Y en nuestro segmento de crónica social»* —concluyó Joanna con una risita maliciosa—, *«imágenes exclusivas de nuestro héroe de la estación, el Oficial León Holden, saliendo del exclusivo Club Olosetas en compañía de la señorita Triel Istrav...»*
+—*«Y en nuestro segmento de crónica social»* —concluyó Joanna con una risita maliciosa—, *«imágenes exclusivas de nuestro héroe de la estación, el Oficial León Anoxiar, saliendo del exclusivo Club Olosetas en compañía de la señorita Triel Istrav...»*
 
 La imagen congeló a León de paisano junto a Triel, quien lucía un vestido oscuro. Acto seguido, la cámara de Carne Yac interceptó a León en el muelle de carga de Los Protectores:
-—*«Señor Holden, ¿qué puede decirnos de su relación clandestina con la señorita Istrav?»*
+—*«Señor Anoxiar, ¿qué puede decirnos de su relación clandestina con la señorita Istrav?»*
 
 León se limitó a clavar una mirada de piedra en el objetivo:
 —*«No tengo nada que declarar. Con permiso.»*

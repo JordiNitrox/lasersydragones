@@ -86,7 +86,7 @@ Sin mirar atrás, el cuarteto enfiló la última escalerilla de caracol hacia el
 
 En el hotel de la dársena, **Marloc Boosmar** contemplaba las pantallas de la holored con el corazón en un puño.
 
-Las imágenes aéreas del Domo Jamspore mostraban columnas de humo, destellos de fuego sónico y patrulleras de Los Protectores acordonando el sector. En pantalla apareció el rostro del oficial León Holden coordinando escuadrones antidisturbios en la puerta este:
+Las imágenes aéreas del Domo Jamspore mostraban columnas de humo, destellos de fuego sónico y patrulleras de Los Protectores acordonando el sector. En pantalla apareció el rostro del oficial León coordinando escuadrones antidisturbios en la puerta este:
 
 *«...código rojo en el distrito. La histeria desatada en el interior amenaza con desbordar las barreras de contención...»*
 

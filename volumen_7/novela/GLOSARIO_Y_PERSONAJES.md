@@ -10,13 +10,13 @@
 ---
 
 ## 2. Los Protagonistas y su Evolución Emocional
-* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Enfrenta el retorno a su región natal: el cinturón de la Diáspora, donde creció entre contrabandistas y piratas. Mantiene en secreto sus temores por el pasado de su padre humano, Keiden Ashton, y gestiona sus comunicaciones a distancia con el Oficial León Holden de los Protectores.
+* **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Enfrenta el retorno a su región natal: el cinturón de la Diáspora, donde creció entre contrabandistas y piratas. Mantiene en secreto sus temores por el pasado de su padre humano, Keiden Ashton, y gestiona sus comunicaciones a distancia con el Oficial León Anoxiar de los Protectores.
 * **Gerty:** Dron de Combate y Asalto Pesado de Triel (Voz: Roberto). Equipado con chasis bípedo de dos metros y cuatro brazos mecánicos. Su procesador sarcástico y lealtad incondicional son el ancla protectora del equipo.
 * **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). Su verborrea y astucia diplomática se ponen a prueba ante los piratas de la Diáspora. Mantiene contacto con su red familiar de los Galway y su primo Rim Rey, aunque comienza a percibir rumores inquietantes sobre naves ysoki desaparecidas.
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo). Erudito de gabán impoluto que arrastra el enigma cósmico de Marlene Boosmar, su conexión con Inversiones Estelares S.C. y el afecto hacia la sarcesiana Ángela.
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Se enfrenta al dilema ético y ontológico tras descubrir los dibujos que dejó la nueva conciencia en el Espinazo del Diablo y recuperar el holograma de Éclair, que revela la tragedia de Yara en Sedrik.
 * **Valdo:** Ingeniero Halfling rescatado en la clínica del Culto en Absalón (Episodio 77). Se incorpora a la *Estrella Errante* como mecánico auxiliar a cargo del reactor y la intendencia.
-* **Willy y Naru:** Goblins espaciales rescatados en el Acreon. En el Episodio 35, tras intentar acampar con toda su familia en la sala de máquinas, Marloc los convenció de mudarse a la nave del Oficial León Holden de los Protectores. En el Episodio 78 son avistados en el noticiero de Absalón colándose como polizones en las cajas de la patrulla de León, permaneciendo bajo la custodia involuntaria de los Protectores.
+* **Willy y Naru:** Goblins espaciales rescatados en el Acreon. En el Episodio 35, tras intentar acampar con toda su familia en la sala de máquinas, Marloc los convenció de mudarse a la nave del Oficial León Anoxiar de los Protectores. En el Episodio 78 son avistados en el noticiero de Absalón colándose como polizones en las cajas de la patrulla de León, permaneciendo bajo la custodia involuntaria de los Protectores.
 
 ---
 
@@ -35,8 +35,8 @@
 ### 🏴‍☠️ La Sombra de Keiden Ashton en la Diáspora:
 Al ingresar en el cinturón de asteroides, Triel se ve confrontada por su herencia: su padre no era un simple minero, sino un capitán corsario venerado y temido en la Diáspora antes de desaparecer en las corrientes de la Deriva. La tripulación comprende por primera vez el origen de su destreza técnica y su desconfianza hacia las autoridades.
 
-### 📡 El Vínculo a Distancia con el Oficial León Holden:
-Antes de saltar al Drift y en las boyas de retransmisión de la Diáspora, Triel intercambia mensajes y comunicaciones privadas con León Holden. El tono oscila entre la profesionalidad protectora de Los Protectores y una intimidad romántica creciente, marcada por la promesa mutua de sobrevivir y reencontrarse en Absalón.
+### 📡 El Vínculo a Distancia con el Oficial León Anoxiar:
+Antes de saltar al Drift y en las boyas de retransmisión de la Diáspora, Triel intercambia mensajes y comunicaciones privadas con León Anoxiar. El tono oscila entre la profesionalidad protectora de Los Protectores y una intimidad romántica creciente, marcada por la promesa mutua de sobrevivir y reencontrarse en Absalón.
 
 ### 🤖 El Reflejo Hostil de Null-9 y la Causa Androide:
 El interrogatorio a Null-9 sacude a A.Xel: Null-9 la acusa de ser un peón de los biológicos y de ignorar el verdadero propósito para el que fue construido su chasis. Este choque siembra las primeras dudas sobre la identidad y el pasado borrado de Axel.

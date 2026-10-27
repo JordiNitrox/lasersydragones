@@ -8,7 +8,7 @@ Fue en la esclusa de embarque número doce donde el grupo conoció al hombre que
 
 Junto a la pasarela de atraque aguardaba el Capitán Otal Seris, comandante del *Corredor de Caminos*. Era un humano de complexión robusta y espalda ancha que rondaba la cincuentena, con el cabello castaño cortado casi al rape, salpicado de canas en las sienes. Vestía una chaqueta azul marino de paño grueso con ribetes náuticos espaciales y botones de bronce desgastados. En el lado izquierdo de su rostro, un implante cibernético ocular de aleación mate reemplazaba el ojo biológico, emitiendo un tenue zumbido sónico y una lente irisada calibrada para enfocar en la penumbra del vacío.
 
-A pocos pasos de él, supervisando la documentación oficial, se encontraba el **Oficial León**, un joven y marcial mando de los Protectores con uniforme verde olivo, quien revisaba las credenciales con severidad protocolaria. Y cerrando la insólita comitiva, envuelto en su casaca militar azul oscuro con charreteras de plata y rodeado por una escolta de caballeros de la tumba, el mismísimo **Embajador Gevalarsk Nor** de Eox observaba la escena con sus ojos de fuego verde.
+A pocos pasos de él, supervisando la documentación oficial con los brazos cruzados, se encontraba el **Oficial León Anoxiar**, un imponente mando de los Protectores enfundado en una pesada servoarmadura de combate con los emblemas de pacificación del Pacto. Y cerrando la insólita comitiva, envuelto en su casaca militar de gala azul oscuro con charreteras de plata, el mismísimo **Embajador Gevalarsk Nor** de Eox observaba la escena con sus ojos de fuego verde, acompañado por su inseparable asistente necrófago, **Keltus**, que aguardaba con porte servicial envuelto en su túnica de terciopelo oscuro.
 
 Al verlos llegar, el capitán Seris dio dos pasos al frente con una amplia sonrisa afable y franca:
 
@@ -24,23 +24,71 @@ Luego, Seris se volvió hacia Triel, inclinando la cabeza con respeto:
 
 —Señorita Istrav... Conozco a muchos corsarios drow, pero la inmensa mayoría sirven a los linajes nobles de Apostae. Para una semi-drow, abrirse paso entre los Capitanes Libres por mérito propio exige el doble de agallas. Es un orgullo tenerla a bordo.
 
-—Y el señor Benrey Galway —añadió Seris, estrechando la pata del ysoki con una carcajada—. He visto sus vídeos acrobáticos en la red; hay que tener propulsores de acero para lanzarse al vacío como usted lo hace. Díganme, ¿la señorita George ya intentó dorarles la píldora en sus torres con su cesta de jaboncitos y pases de cine de los jueves?
+—Y el señor Benrey Galway —añadió Seris, estrechando la pata del ysoki con una carcajada—. He visto sus vídeos acrobáticos en la red; hay que tener propulsores de acero para lanzarse al vacío como usted lo hace. Díganme, ¿la señorita Joss ya intentó dorarles la píldora en sus torres con su cesta de jaboncitos y pases de cine de los jueves?
 
 —La cesta se quedó en el hotel, capitán —guiñó Benrey—. Nuestro juicio no se compra con lavanda sintética.
 
-El oficial León de los Protectores dio un paso al frente, ajustándose los guantes reglamentarios con ademán sobrio:
+El oficial de los Protectores dio un paso al frente con porte marcial, mirándolos de arriba abajo con severidad reglamentaria:
 
-—Señores mediadores: una vez que traspasen el cinturón exterior de la Armada, estarán fuera del rango de tiro y del paraguas defensivo de la Estación Absalón. Nuestras fragatas de pacificación patrullan a gran distancia. En el sector del *Acreon*, estarán completamente solos ante cualquier contingencia. Sean prudentes.
+—Soy León Anoxiar, oficial de los Protectores —anunció el uniformado, cruzándose de brazos con sequedad—. Les recuerdo formalmente que este vehículo sigue sujeto a la custodia judicial de la Estación Absalón. Y no crean que ignoro su pequeña carrera matinal por el Ojo destruyendo mobiliario urbano y maquinaria pública... ¡Ese robot de pacificación que dejaron echando humo a la entrada de Inversiones Estelares tenía familia! Espero que a bordo del *Acreon* actúen limpiamente y con estricto apego a las ordenanzas. Los expedientes oficiales dictan que nadie huyó ese día en particular, pero mantendré un ojo sobre ustedes. El *Hippocampus* queda ahora bajo su responsabilidad; confío en que sabrán pilotarlo con prudencia y servir a la estación.
 
-El embajador Gevalarsk Nor avanzó con paso espectral hacia la rampa del muelle. Con sus dedos largos y huesudos, el diplomático no-muerto acarició suavemente el fuselaje blindado de la nave, sonriendo con fría solemnidad:
+Axel esbozó una sonrisa confiada y Benrey asintió con ademán despreocupado:
 
-—Permítanme presentarles al *Hippocampus*... el *Caballito de Mar*. Una nave humilde de transporte que he tenido el placer de financiar y dotar de sistemas tácticos de grado naval. Cuiden bien de ella... y recuerden cumplir con lo que debe traer en su vientre a su regreso.
+—Descuide, oficial León. Le devolveremos su transporte sin un solo rasguño.
+
+—Los dejo en manos del embajador —concluyó León con un seco asentimiento marcial, dando un paso atrás.
+
+El embajador Gevalarsk Nor avanzó entonces por la pasarela con paso solemne y espectral, seguido muy de cerca por su asistente:
+
+—No podía perderme esta trascendental ocasión —saludó Nor, inclinando levemente el torso con fría elegancia mientras las llamas esmeralda de sus cuencas titilaban con deleite—. Y por supuesto, me acompaña Keltus; jamás salgo sin él, siempre resulta de una utilidad inestimable. Permítanme presentarles formalmente al *Hippocampus*... el *Caballito de Mar*. Una nave humilde de transporte en apariencia, idónea para no llamar la atención ni despertar sospechas no deseadas, pero que he tenido el inmenso placer de acondicionar personalmente sin escatimar en recursos tácticos. Vengan a bordo; quiero que conozcan sus entrañas.
+
+La tripulación subió por la rampa tras el diplomático y su comitiva. Al cruzar la esclusa presurizada, descubrieron que el sobrio fuselaje exterior de aleación de duracero escondía un interior reformado con una mezcla tan refinada como inquietante.
+
+Nor los guio con ademán aristocrático hacia el puente de mando:
+
+—He dotado al navío de blindaje reforzado y escudos deflectores navales de grado tres, sensores de largo alcance recién calibrados y una computadora central de triple nodo con capacidad de procesamiento táctico distribuido. En proa dispone de un cañón láser de alta potencia y, en la panza, una torreta de iones ventral de alcance extendido. No podía permitir que mi caballito de mar saliera al vacío desprotegido.
+
+El embajador se volvió hacia Axel y le señaló con un dedo largo y descarnado el sillón central del timonel:
+
+—Tome asiento, señorita Axel. Pruebe los mandos.
+
+Axel se acomodó en el sillón de pilotaje y acarició los controles con fascinación inmediata:
+
+—He tapizado los sillones y el timón en cuero fino de una bestia originaria de las selvas de Castrovel —explicó el diplomático de Eox con pausada satisfacción—. Su textura es sumamente suave y ofrece un agarre inmejorable entre las manos. Y como podrá notar, las palancas de aceleración y control de empuje están talladas a mano en marfil y hueso pulido. Podríamos haber empleado aleaciones sintéticas convencionales, por supuesto, pero el tacto orgánico es incomparable. Además, debo admitir que en Eox tenemos cierta debilidad estética por el hueso...
+
+Axel probó la respuesta táctil de las palancas de marfil, asintiendo con deleite: la sensibilidad de los impulsores prometía una maniobrabilidad de ensueño.
+
+En ese momento, el embajador descendió la mano hacia un panel disimulado bajo la consola de navegación y accionó un interruptor oculto. Con un siseo presurizado, una pequeña compuerta se abrió y de su interior emergió flotando una diminuta esfera metálica provista de una lente óptica activa y giroscopios silenciosos.
+
+—Para evitar suspicacias legales con las autoridades de Absalón, nos acompañará este pequeño amigo —anunció Nor, retirando la unidad de enlace telemétrico y entregándosela en mano a Benrey—. Es una exigencia formal dictada por el Consejo y los Protectores: un dron de grabación oficial asignado para dar fe jurídica y registrar sus pesquisas en el *Acreon*.
+
+Triel alzó una ceja, examinando la lente flotante con su habitual escepticismo corsario:
+
+—¿Ese ojo electrónico va a estar espiando cada cable que toquemos y cada decisión técnica que tomemos?
+
+Gevalarsk Nor dedicó a la semi-drow una sonrisa enigmática, ladeando la calavera con una chispa de astuta complicidad:
+
+—Usted sabrá ser prudente, señorita Istrav. Es una magnífica ingeniera, y como bien sabe... una cámara solo registra aquello hacia donde se le ordene enfocar. Confío plenamente en su destreza técnica.
+
+Antes de despedirse, el asistente Keltus dio un paso al frente. El necrófago inclinó la cabeza en una reverencia solícita, relamiéndose los labios con su lengua grisácea y exhibiendo su doble hilera de colmillos amarillentos:
+
+—Por cierto, honorables señores —añadió Keltus con su sibilante voz melodiosa—, me he tomado la libertad de almacenar una provisión especial en la despensa de la cubierta inferior. Una generosa caja de nuestras galletitas con forma de estrella, de chocolate amargo, recordando lo mucho que parecieron disfrutarlas durante su visita a la embajada.
+
+Axel sonrió con entusiasmo infantil ante la mención de los dulces, mientras Triel y Marloc intercambiaban una mirada cargada de aprensión al recordar el peculiar «control de calidad» con el que el sirviente gul preparaba sus manjares.
+
+—Cuiden bien de mi caballito... —concluyó Gevalarsk Nor, acariciando por última vez el mamparo de la compuerta antes de descender por la rampa junto a su asistente—. Y recuerden cumplir con lo convenido cuando regresen con su carga.
+
+Desde el muelle de atraque, Keltus los despidió agitando una mano enguantada con refinada cortesía fúnebre. A su lado, el oficial León se cuadró marcialmente y alzó la voz para transmitirles una última advertencia con tono sombrío:
+
+—Una vez que traspasen el cinturón exterior de la Armada, estarán fuera del rango de tiro y del paraguas defensivo de la estación. Nuestras fragatas de pacificación patrullan a gran distancia; en el sector del *Acreon*, estarán completamente solos ante cualquier contingencia. Sean prudentes.
+
+Las compuertas de la esclusa se sellaron con un chasquido hermético.
 
 ***
 
 ### II. Calibrando los motores del Hippocampus
 
-Al entrar en el hangar, la tripulación se detuvo a contemplar su nueva montura estelar.
+Con las autoridades ya en el muelle exterior, la tripulación se quedó a solas en su nueva montura estelar.
 
 El *Hippocampus* medía unos cuarenta metros de eslora. Su diseño rompía con las líneas puntiagudas de los cazas militares: tenía un casco redondeado y robusto de aleación de duracero reforzado, con una cabina frontal acristalada que recordaba la cabeza de un caballito de mar, alas dorsales curvadas que albergaban los estabilizadores magnéticos y dos góndolas de propulsión masivas en la popa. Las modificaciones costeadas por Eox saltaban a la vista: una torreta de cañón láser doble instalada en la panza, escudos deflectores navales de especificación militar reforzada y sensores de largo alcance recién pulidos.
 

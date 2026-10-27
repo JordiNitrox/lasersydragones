@@ -12,7 +12,7 @@ El problema era que el vehículo llevaba cincuenta años abandonado en un hangar
 
 —Tenemos doce horas antes de que el ministerio descubra nuestra incursión en el archivo —le recordó Axel, vigilando el portón del taller con el rifle montado sobre un trípode.
 
-En ese momento, un pitido en el comunicador de Triel trajo una transmisión de voz comprimida desde Absalón. Era el Oficial León Holden, con un trasfondo de quejas y martillazos lejanos:
+En ese momento, un pitido en el comunicador de Triel trajo una transmisión de voz comprimida desde Absalón. Era el Oficial León Anoxiar, con un trasfondo de quejas y martillazos lejanos:
 —*«Triel... si sobrevives a Eox, juro que te cobraré personalmente por la custodia de tus amigos verdes. Willy acaba de reprogramar los dispensadores del cuartel para que solo sirvan salsa picante, y Naru intentó soldar una antena parabólica a mi litera. Dicen que es para que el motor de mi patrulla tenga más "brrrum-brrrum". Cuídate ahí fuera... y date prisa en volver.»*
 
 Triel soltó una carcajada que alivió la tensión del taller:

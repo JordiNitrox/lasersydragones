@@ -102,11 +102,17 @@ Willy se secó una lágrima con la manga grasienta de su mono y dedicó un salud
 
 Minutos después, Axel enlazó el transmisor del puente con la torre de comunicaciones de la Estación Absalón:
 
-—Aquí el equipo de peritaje *Hippocampus*. Transmitiendo bitácoras de la capitana Elba Sohar y estado del pecio. El *Acreon* ha sido purgado de hostiles activos y las causas de la pérdida de la tripulación han sido documentadas: catástrofe biológica por infestación de Akata.
+—Aquí el equipo de peritaje *Hippocampus*. Transmitiendo bitácoras de la capitana Elba Sohar y estado del pecio. El *Acreon* ha sido purgado de hostiles activos y las causas de la pérdida de la tripulación han sido documentadas: catástrofe biológica por infestación de Akata. Remito todo el volcado de datos forenses de inmediato para que, en caso de que no regresemos con vida, el siguiente destacamento cuente con la información.
 
-La señal conectó al instante con la pantalla del comunicador. El rostro pulcro y severo del **Oficial León de los Protectores** apareció en el centro de la transmisión:
+La señal conectó al instante con la pantalla del comunicador. El rostro pulcro y severo del **oficial León de los Protectores** apareció en el centro de la transmisión:
 
-—*Paquete de bitácoras recibido, peritos. La información es de vital relevancia judicial para cerrar el expediente de Hardscrabble y Extracciones Estelares. Sin embargo, los sensores médicos de la nave registran anomalías fisiológicas en dos de sus tripulantes. ¿Han sufrido contaminación biológica?*
+—*Muy honorable y previsor de su parte, Axel-42* —respondió el oficial con engolada solemnidad—. *Con esa disciplina férrea y devoción analítica al deber... ¿ha considerado usted unirse a las filas de los Protectores? Los agentes del orden estamos consagrados a dar la vida por el Pacto, y planificamos metódicamente nuestro propio sacrificio para salvaguardar a miles de civiles...*
+
+—¡Oficial León, por el amor de Triune! —interrumpió Benrey, asomando sus bigotes erizados y las fauces crispadas ante la holocámara—. ¡Tenemos a dos tripulantes con larvas devorándoles las entrañas y usted se pone a hacer proselitismo policial y reclutamiento corporativo en plena frecuencia de socorro! ¿Es que ha perdido el juicio?
+
+León carraspeó con frialdad burocrática, recomponiendo la compostura de su impecable hombrera:
+
+—*Paquete de bitácoras recibido, peritos. La información es de vital relevancia judicial para cerrar el expediente de Hardscrabble y Extracciones Estelares. Sin embargo, los sensores médicos de su nave confirman anomalías fisiológicas graves en dos de ustedes. ¿Han sufrido contaminación biológica?*
 
 —Dos de nosotros han sido mordidos por los parásitos —admitió Marloc con serenidad profesional—. Requerimos autorización para un vector de regreso inmediato a fin de recibir tratamiento hospitalario en el Ojo de la estación.
 
@@ -114,7 +120,7 @@ El rostro de León se endureció con una frialdad burocrática implacable:
 
 —*Negativo absoluto, perito Boosmar. El Acreon y su entorno permanecen bajo cuarentena estricta de nivel cuatro. Los estatutos sanitarios de los Mundos del Pacto prohíben taxativamente la entrada de cualquier nave con tripulantes infectados por patógenos del Vasto. Su nave tiene bloqueados los vectores de atraque en Absalón por cinco días estándar hasta la llegada de un equipo de descontaminación de los Protectores. No se les permitirá cruzar la Armada.*
 
-Benrey se adelantó hacia la cámara, enseñando los dientes con rabia contenida:
+Benrey enseñó los dientes con rabia contenida:
 
 —¿Cinco días? ¡En cinco días mis compañeros serán zombis del vacío comiéndose las paredes de esta nave! ¿Esa es la gloriosa justicia de los Protectores? ¿Por qué no mueve su fragata y nos envía un transbordador médico, señor paladín de las estrellas?
 

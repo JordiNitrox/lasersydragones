@@ -62,11 +62,19 @@ Marloc Boosmar tomó uno de los cuadernos con sus dedos enguantados, hojeando co
 
 Las ilustraciones eran inquietantes. En trazos febriles de carboncillo, Olier había dibujado una figura antropomorfa sin rostro reconocible, envuelta en sombras tenebrosas y halos de energía interdimensional, que parecía extender sus manos hacia el *Acreon* desde el epicentro de un vacío insondable. Al pie de cada dibujo figuraban densas columnas de ecuaciones matemáticas y algoritmos de navegación.
 
-Triel y Axel se asomaron por encima de los hombros del tecnomante, analizando los símbolos numéricos.
+Triel examinó los símbolos litúrgicos del camarote y luego fijó la vista en los perturbadores bocetos a carboncillo.
+—Como devota y seguidora de Weydan, les aseguro que esto no tiene nada que ver con nuestro dios —subrayó la semi-drow con seriedad solemne, señalando el tapiz del horizonte infinito—. Weydan es la luz del descubrimiento, la libertad del viaje y la exploración benevolente. Esta silueta informe, esta entidad sombría sin rostro... es algo ajeno, una presencia o intrusión que no pertenece al canon de nuestra fe.
 
-—Por Triune... —susurró Triel con la voz tomada por la sorpresa—. Estas fórmulas son algoritmos de texturizado y proyección tridimensional, pero están hibridadas con ecuaciones de salto hiperespacial. Nadie calcula vectores de salto Drift a mano; los motores de salto procesan las balizas de forma automática a través de la red del dios Triuno.
+Marloc, por su parte, se quedó paralizado con el cuaderno entre las manos, los ojos muy abiertos tras los cristales de sus anteojos. Un temblor perceptible sacudió sus hombros.
+—Yo... yo he visto esto antes —murmuró el tecnomante con un hilo de voz inusualmente perturbado—. No en un grimorio del Arcanamirium ni en archivos de exploración. Una mañana, en mi habitación de Absalom... desperté aturdido y vi exactamente esta misma silueta espectral y sin rostro de pie junto a mi cama. Se quedó mirándome antes de disolverse en el aire. Creí que había sido una parálisis del sueño o una alucinación hipnopómpica, pero verla trazada aquí con este nivel de obsesión...
+—¿Crees que guarda relación con tu salto entre dimensiones? —preguntó Triel, mirándolo con preocupación.
+—No puedo descartarlo —respondió Marloc con gravedad—. Pero que un ingeniero minero perdido en la Nada dibuje exactamente la misma sombra que me acechó a mí en la estación descarta cualquier casualidad.
 
-—Olier no estaba realizando un cálculo ordinario de desplazamiento —explicó Marloc con gravedad analítica—. Estaba utilizando estas fórmulas matemáticas para medir la densidad de masa y sincronizar la frecuencia de resonancia vibracional del asteroide en el Drift. Creía estar siguiendo una revelación divina... una llamada que le susurraba desde las entrañas del hiperespacio.
+Axel se asomó por encima del hombro del tecnomante, analizando los símbolos numéricos al pie de las ilustraciones.
+
+—Por Triune... —añadió Triel al reparar en los guarismos—. Estas fórmulas son algoritmos de texturizado y proyección tridimensional, pero están hibridadas con ecuaciones de salto hiperespacial. Nadie calcula vectores de salto Drift a mano; los motores de salto procesan las balizas de forma automática a través de la red del dios Triuno.
+
+—Olier no estaba realizando un cálculo ordinario de desplazamiento —explicó Marloc, recuperando el pulso analítico—. Estaba utilizando estas fórmulas matemáticas para medir la densidad de masa y sincronizar la frecuencia de resonancia vibracional del asteroide en el Drift. Creía estar siguiendo una revelación... una llamada que le susurraba desde las entrañas del hiperespacio.
 
 —Y esa llamada —completó Axel con fría deducción lógica— desvió al *Acreon* de su ruta comercial, lo ancló a la Roca del Drift y trajo consigo a las criaturas parasitarias.
 

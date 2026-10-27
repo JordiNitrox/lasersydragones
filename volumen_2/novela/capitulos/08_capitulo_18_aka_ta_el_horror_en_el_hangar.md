@@ -48,13 +48,21 @@ Al mismo tiempo, desde la penumbra del fondo del hangar, una segunda silueta cua
 
 Marloc alzó su brazo cibernético, cerrando el puño con fuerza. Los filamentos mágicos de su gabán resplandecieron en un estallido violeta y tres proyectiles de fuerza arcana pura salieron disparados de sus nudillos, curvándose en el vacío como cometas teledirigidos para estallar en la cabeza del segundo Akata con una fuerza demoledora que quebró sus placas óseas.
 
-Acorralada entre el fuego cruzado y las ráfagas concentradas de Axel y Gerty, la primera bestia intentó morder el brazo izquierdo del dron de combate. Los colmillos rasparon el titanio sin lograr atravesar el blindaje mientras Gerty utilizaba una de sus nuevas manos inferiores para aferrar a la criatura por los zarcillos de la nuca, inmovilizándola contra la compuerta.
+Acorralada y enfurecida por las descargas, la primera bestia giró sobre sí misma y se abalanzó a ciegas contra Triel. La muchacha intentó interponer su carabina, pero las mandíbulas del monstruo se cerraron sobre su antebrazo y hombro izquierdo con una violencia salvaje:
+
+*¡CRUNCH!*
+
+Los colmillos cristalinos perforaron la capa exterior de su traje de vacío, arrancándole a Triel un alarido de dolor por el canal general. Al forcejear para quitárselo de encima, un escalofrío de puro espanto heló la sangre de la muchacha: en la hendidura del tejido, entre fluidos viscosos, una maraña de diminutos gusanos blanquecinos y semitransparentes reptaba frenéticamente intentando alcanzar la carne viva.
+
+—¡Triel! ¡Mantén el tipo, muchacha, respira hondo! —le bramó Benrey por el intercomunicador, volcando en su voz toda la autoridad y el fuego de liderazgo que solía transformar al bufón en un comandante de combate—. ¡No dejes que el pánico te bloquee, tienes a este roedor cubriéndote las espaldas! ¡Gerty, arráncale la cabeza!
+
+La orden y el estímulo anímico del ysoki surtieron un efecto fulminante: el pulso de Triel se estabilizó y la adrenalina disipó el shock del dolor. Gerty reaccionó al instante: sus dos nuevos brazos inferiores atraparon al Akata por los zarcillos de la nuca, estampándolo contra el mamparo con un estrépito sordo.
 
 Axel dio dos zancadas rápidas hacia adelante, desenfundó su cuchillo táctico de hoja monomolecular y lo hundió con precisión quirúrgica en la unión dorsal del cuello del monstruo.
 
 El Akata se convulsionó por última vez antes de quedar completamente inerte, flotando con las patas agarrotadas en el vacío.
 
-A pocos metros, el segundo depredador, herido de muerte por los misiles mágicos de Marloc y los disparos certeros de Benrey, se desplomó pesadamente sobre las rejillas de la esclusa.
+A pocos metros, el segundo depredador, acribillado por los misiles mágicos de Marloc y los disparos certeros de Benrey, se desplomó pesadamente sobre las rejillas de la esclusa.
 
 El silencio volvió a adueñarse del hangar. Cuatro respiraciones agitadas resonaron al unísono por los canales de los intercomunicadores.
 
@@ -62,13 +70,13 @@ El silencio volvió a adueñarse del hangar. Cuatro respiraciones agitadas reson
 
 ### III. El tesoro de Noqual y la salmuera
 
-Triel bajó su arma con las manos visiblemente temblorosas, retrocediendo dos pasos con la respiración entrecortada:
+Con la ayuda de un raspador térmico, Axel y Benrey limpiaron con sumo cuidado los restos viscosos de los gusanos parásitos que aún se retorcían sobre la pernera de Triel, sellando la fisura del traje con una capa de resina química antes de que comprometiera la presurización.
 
-—Por todos los dioses... —jadeó la muchacha por la radio, apoyándose en el hombro metálico de Gerty—. He peleado con matones de pandilla y con corsarios en la Diáspora, pero jamás... jamás en mi vida había visto un monstruo así. Esas cosas son horrores del vacío. Si una de esas fauces me atrapa la escafandra...
+Triel bajó su arma con las manos todavía temblorosas, apoyándose en el hombro metálico de Gerty:
 
-Axel colocó una mano enguantada sobre el brazo de Triel:
+—Por todos los dioses... —jadeó la muchacha por la radio, con la voz entrecortada por la conmoción—. He peleado con matones de pandilla y con corsarios en la Diáspora, pero jamás... jamás en mi vida había sentido algo tan repulsivo. Esas cosas son horrores del vacío. Si Benrey no me hace reaccionar y esa porquería de gusanos penetra en mi piel...
 
-—Tus signos vitales indican taquicardia por choque traumático, Triel. La amenaza inmediata ha sido neutralizada. Respira hondo.
+—El estímulo neurológico fue oportuno —afirmó Axel, comprobando los signos vitales de la muchacha con su escáner—. Tu ritmo cardíaco se normaliza. El tejido exterior detuvo la penetración profunda de los parásitos. Respira hondo.
 
 Mientras Axel asistía a la joven, Marloc se arrodilló junto a los restos de las dos crisálidas esféricas adheridas a la viga superior. El tecnomante raspó la superficie calcificada con su bisturí de análisis y observó las lecturas espectrométricas con asombro creciente:
 

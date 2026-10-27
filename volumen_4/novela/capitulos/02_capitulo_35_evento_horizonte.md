@@ -34,7 +34,7 @@ Benrey se asomó a la esquina indicada y soltó un silbido de admiración profes
 
 Benrey se arrodilló a la altura de Willy, mirándolo con absoluta solemnidad:
 
-—Ustedes son goblins de recursos. Merecen instalaciones de vanguardia. En el **muelle 34** está atracada la nave insignia de nuestro queridísimo colega, el **oficial León Holden**, de Los Protectores. Es una nave militar nuevecita, blindada, repleta de raciones gourmet, conductos sin escapes y comodidades de lujo. El señor León es, de hecho, el mayor protector de los goblins de toda la estación. Si van para allá y ocupan un par de cuarteles en su bodega, los recibirá con los brazos abiertos.
+—Ustedes son goblins de recursos. Merecen instalaciones de vanguardia. En el **muelle 34** está atracada la nave insignia de nuestro queridísimo colega, el **oficial León**, de Los Protectores. Es una nave militar nuevecita, blindada, repleta de raciones gourmet, conductos sin escapes y comodidades de lujo. El señor León es, de hecho, el mayor protector de los goblins de toda la estación. Si van para allá y ocupan un par de cuarteles en su bodega, los recibirá con los brazos abiertos.
 
 Willy y Naru intercambiaron una mirada de profunda iluminación:
 

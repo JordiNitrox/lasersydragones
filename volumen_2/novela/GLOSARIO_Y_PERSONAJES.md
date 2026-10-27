@@ -63,9 +63,9 @@ Criatura gul (*ghoul*) vestida con túnica y capucha de terciopelo negro. De pie
 
 ## 4. Los Mandos de la Ley y los Protectores (*The Stewards*)
 
-### Oficial León
+### Oficial León Anoxiar
 *Oficial de Comunicaciones y Enlace de los Protectores*  
-Oficial del cuerpo de pacificadores espaciales asignado a la supervisión y monitorización orbital de la misión del *Acreon*. Militar estricto, formal y severo, recibe las transmisiones de datos y bitácoras enviadas por el grupo desde el pecio. Es continuamente puesto a prueba por la irreverencia de Benrey Galway, quien adora burlarse de sus "poderes de paladín" y colgarle transmisiones fingiendo estática cada vez que León descubre las filtraciones de vídeos clandestinos.
+Oficial del cuerpo de pacificadores espaciales asignado a la supervisión y monitorización orbital de la misión del *Acreon*. Aunque en su presentación formal protocolaria se identifica por su nombre completo, León Anoxiar, a lo largo de la campaña los jugadores, la tripulación y la narración se refieren a él invariablemente como **Oficial León** o simplemente **León**. Militar estricto, formal y severo, recibe las transmisiones de datos y bitácoras enviadas por el grupo desde el pecio. Es continuamente puesto a prueba por la irreverencia de Benrey Galway, quien adora burlarse de sus «poderes de paladín» y colgarle transmisiones fingiendo estática cada vez que León descubre las filtraciones de vídeos clandestinos.
 
 ### Oficial Monroe
 *Oficial de Campo de los Protectores*  
@@ -135,9 +135,9 @@ Célebre y aclamado vocalista de los Mundos del Pacto cuya música sacude las on
 
 ## 9. Corporaciones y Litigios: Extracciones Estelares (*Astral Extractions*)
 
-### Señorita George (*Ms. George / Ms. Joss*)
+### Señorita Joss (*Ms. Joss*)
 *Representante legal, jefa de relaciones institucionales y portavoz de Extracciones Estelares*  
-Ejecutiva lashunta de porte distinguido, piel de una suave tonalidad ambarina, largas antenas atentas y peinado estricto. Viste trajes ejecutivos de corte impecable y lleva un visor de datos cuántico con auricular en la sien. Fría, calculadora y dotada de una cortesía pasivo-agresiva consumada, representa los intereses de la poderosa corporación minera frente al Consejo de Absalón y el Colectivo Hardscrabble. En este volumen convoca a la tripulación en los rascacielos de cristal azul de El Ojo para someterlos a un vídeo propagandístico institucional, justificar la propiedad corporativa de la Roca del Drift bajo la doctrina de prospección comercial y regalarles una cómica cesta de bienvenida con jabones aromáticos, cremas hidratantes y pases de cine válidos únicamente para los jueves. Reaparecerá en el Volumen 3 como la feroz oponente legal del grupo en el juicio de arbitraje.
+Ejecutiva lashunta de porte distinguido, piel de una suave tonalidad ambarina, largas antenas atentas y peinado estricto (a quien Benrey Galway insiste persistentemente en llamar erróneamente «Señorita George»). Viste trajes ejecutivos de corte impecable y lleva un visor de datos cuántico con auricular en la sien. Fría, calculadora y dotada de una cortesía pasivo-agresiva consumada, representa los intereses de la poderosa corporación minera frente al Consejo de Absalón y el Colectivo Hardscrabble. En este volumen convoca a la tripulación en los rascacielos de cristal azul de El Ojo para someterlos a un vídeo propagandístico institucional, justificar la propiedad corporativa de la Roca del Drift bajo la doctrina de prospección comercial y regalarles una cómica cesta de bienvenida con jabones aromáticos, cremas hidratantes y pases de cine válidos únicamente para los jueves. Reaparecerá en el Volumen 3 como la feroz oponente legal del grupo en el juicio de arbitraje.
 
 ### Clara 247 (*Clara-247*)
 *Piloto mercenaria androide y corsaria corporativa*  

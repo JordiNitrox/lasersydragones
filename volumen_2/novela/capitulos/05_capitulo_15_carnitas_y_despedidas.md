@@ -20,17 +20,21 @@ Por ella entró la señorita George.
 
 La ejecutiva de Extracciones Estelares era una lashunta de presencia impecable. Su piel de una suave tonalidad ambarina contrastaba con un traje sastre gris carbón de corte sobrio pero carísimo, y sobre su sien izquierda descansaba un estilizado visor de datos cuántico con auricular integrado. Sus largas antenas craneales, finas y alertas, se curvaron con calculada deferencia al contemplar al variopinto pelotón de mediadores.
 
-—Disculpen el pequeño inconveniente técnico con la iluminación —dijo la señorita George con un tono melifluo y profesional, ofreciendo una mano enguantada—. Soy la señorita George, enlace institucional y asesora jurídica de Extracciones Estelares. Les agradezco la puntualidad.
+—Disculpen el pequeño inconveniente técnico con la iluminación —dijo la ejecutiva con un tono melifluo y profesional, ofreciendo una mano enguantada—. Soy la señorita Joss, enlace institucional y asesora jurídica de Extracciones Estelares. Les agradezco la puntualidad.
 
 Benrey le estrechó la mano con una leve inclinación de cabeza:
 
 —Capitán Galway, a su servicio. Díganos, señorita George, ¿a qué debemos el honor de esta presentación cinematográfica?
 
-—Al sentido común, capitán —respondió la lashunta, tomando asiento al frente de la mesa de conferencias y entrelazando los dedos—. Saben que el Consejo de Síndicos y el magistrado Chiskisk los han propuesto como árbitros independientes para inspeccionar el *Acreon*. Extracciones Estelares valora profundamente la objetividad... pero también consideramos fundamental que los árbitros comprendan el marco legal antes de pisar el muelle.
+—Joss, señor Galway —puntualizó la lashunta con una leve contracción de sus antenas craneales—. Señorita Joss.
+
+—Como usted prefiera, distinguida señorita George —sonrió el ysoki con fingida inocencia.
+
+—Al sentido común, capitán —continuó la señorita Joss, ignorando el desliz con fría compostura, tomando asiento al frente de la mesa de conferencias y entrelazando los dedos—. Saben que el Consejo de Síndicos y el magistrado Chiskisk los han propuesto como árbitros independientes para inspeccionar el *Acreon*. Extracciones Estelares valora profundamente la objetividad... pero también consideramos fundamental que los árbitros comprendan el marco legal antes de pisar el muelle.
 
 Marloc dio un paso al frente, ajustándose las mangas de su túnica:
 
-—El marco legal depende de los estatutos del Pacto, señorita George.
+—El marco legal depende de los estatutos del Pacto, señorita Joss.
 
 —Por supuesto, tecnomante Boosmar —concedió ella con una sonrisa gélida—. Y el estatuto sobre prospección es concluyente. Extracciones Estelares financió íntegramente la expedición del *Acreon*: combustible, suministros, amortización de nave y los salarios de esos buenos muchachos del sindicato. Según la cláusula decimocuarta de su contrato de fletamento, cualquier depósito, veta o cuerpo celeste remolcado o descubierto en el curso de su actividad de prospección pertenece por derecho exclusivo a la corporación. Los mineros son apasionados, comprensiblemente sentimentales, pero las leyes de los Mundos del Pacto no se redactan con emociones.
 
@@ -40,7 +44,7 @@ La lashunta se inclinó levemente sobre la mesa y se tocó sutilmente la aleta d
 
 —Nuestra tripulación solo informará de la verdad material que hallemos en el pecio —respondió Axel con su tono analítico y gélido—. Cualquier interpretación sobre dividendos queda fuera de nuestro protocolo de inspección.
 
-La señorita George mantuvo la sonrisa, aunque una leve crispación recorrió sus antenas. Con un suave ademán, señaló una elegante cesta de mimbre sintético adornada con cintas plateadas que descansaba sobre una mesita auxiliar:
+La señorita Joss mantuvo la sonrisa, aunque una leve crispación recorrió sus antenas. Con un suave ademán, señaló una elegante cesta de mimbre sintético adornada con cintas plateadas que descansaba sobre una mesita auxiliar:
 
 —Por descontado. Confiamos en su profesionalidad. Y como muestra de nuestra consideración institucional, les ruego que acepten este pequeño detalle de bienvenida corporativa.
 
@@ -48,7 +52,7 @@ Benrey se asomó a la cesta: en su interior había tres frascos de crema hidrata
 
 —Caramba... —soltó Benrey, conteniendo la risa con esfuerzo mientras levantaba un frasco de jabón—. Casi siento deseos de llorar de la emoción. No todos los días una megacorporación multimillonaria te abre las puertas al glamur del baño con sales y películas entre semana.
 
-—Un simple detalle de cortesía, señor Galway —replicó la señorita George con sequedad, poniéndose en pie para dar por zanjada la cita—. Que tengan un viaje productivo al *Acreon*. Estaremos muy atentos a sus conclusiones.
+—Un simple detalle de cortesía, señor Galway —replicó la señorita Joss con sequedad, poniéndose en pie para dar por zanjada la cita—. Que tengan un viaje productivo al *Acreon*. Estaremos muy atentos a sus conclusiones.
 
 ***
 
