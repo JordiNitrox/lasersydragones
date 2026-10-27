@@ -122,7 +122,9 @@ A decenas de niveles más abajo, en los abarrotados monobloques habitacionales d
 
 —¿Quién osa interrumpir el merecido descanso de una leyenda callejera?
 
-—¡Deja de quejarte y despierta, Galway! —llegó la voz chillona de Marcelo, su informante en los muelles de carga, tosiendo entre chasquidos de estática—. ¿Sigues pudriéndote en ese cuchitril? Escucha bien: el *Acreon*, ese carguero minero que daban por desintegrado en el Vasto, acaba de saltar a la deriva en la órbita de Absalón. La estación está que arde. Un intermediario de los nuestros, un tal Chic, está soltando créditos frescos y reclutando gente con agallas en el Anillo. ¡Muévete antes de que otras ratas se queden con el pastel!
+—¡Deja de quejarte y despierta, Galway! —resonó desde el comunicador la voz apresurada de Marcellus, su agente, tosiendo entre chasquidos de estática—. ¿Sigues pudriéndote en ese cuchitril? Escucha bien: el *Acreon*, ese carguero minero que daban por desintegrado en el Vasto, acaba de saltar a la deriva en la órbita de Absalón. La estación está que arde y esto es una oportunidad de oro para nosotros. Te he conseguido un contacto clave: un intermediario de los nuestros, un tal Chic, está soltando créditos frescos y reclutando gente con agallas en el Anillo. Encárgate de la faena y haz tu trabajo antes de que otras ratas se queden con el pastel.
+
+—De gran ayuda como siempre, Mar —ironizó Benrey antes de cortar la llamada.
 
 Benrey saltó del colchón desvencijado como un resorte, se calzó la gabardina y bajó a trompicones las escaleras metálicas hacia la galería exterior. Allí lo aguardaba su primo Rim Rey, otro ysoki rechoncho que masticaba un pincho de escarabajo crujiente con evidente nerviosismo, apoyado sobre una destartalada motoneta amarilla que despedía un humo pestilente a aceite quemado.
 

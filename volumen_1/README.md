@@ -9,7 +9,8 @@ Archivos, grabaciones, transcripciones y materiales de novelización correspondi
 * **Título:** *Lasers y Dragones: Sombras sobre Absalón*
 * **Subtítulo:** *Volumen I · Conspiración en la Espiga*
 * **Episodios Adaptados:** Episodios 1 al 10 (10 episodios, 10 capítulos novelados + prólogo, nota editorial y anexo).
-* **Extensión del PDF:** 60 páginas en formato A4 editorial de alta fidelidad.
+* **Extensión del PDF:** 87 páginas en formato A4 editorial de alta fidelidad.
+* **Estado Editorial:** Cerrado definitivamente y consolidado.
 * **Archivo PDF:** [Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf](novela/Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf)
 
 ---
@@ -45,7 +46,7 @@ volumen_1/
     ├── GLOSARIO_Y_PERSONAJES.md             # Fichas de personajes, facciones y glosario
     ├── generar_libro_pdf.py                 # Motor de maquetación LibreOffice
     ├── libro_maquetado.html                 # Documento HTML estructurado intermedio
-    └── Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf # Novela final compilada (60 páginas)
+    └── Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf # Novela final compilada (87 páginas)
 ```
 
 ---

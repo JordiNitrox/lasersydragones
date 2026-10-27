@@ -54,50 +54,52 @@ La piloto activó el encendido. El motor rugió con un aullido limpio, potente y
 
 —¿Algún motivo especial? —preguntó Benrey con su tono más inocente.
 
-—Hace cuatro días vino una comitiva pesada desde los niveles superiores —reveló la corredora en voz baja—. Un emisario de la raza drow, vestido como un príncipe de corporación, con escolta armada. Se encerró con Ferani en su despacho privado durante horas para cerrar un trato sucio. Desde entonces, los Reyes del Nivel 21 andan armados hasta los dientes con equipo militar de fuera.
+—Hace unos días llegaron peces gordos desde los niveles superiores —reveló la corredora en voz baja—. Gente con mucho crédito que se encerró con Ferani en su despacho privado para cerrar tratos turbios. Desde entonces, los Reyes del Nivel 21 andan armados hasta los dientes con equipo militar de fuera y vigilan los accesos como perros de presa.
 
-Triel sintió que un escalofrío de hielo puro le recorría la espina dorsal.
+Triel intercambió una mirada tensa con Marloc y Axel:
 
-—¿Un emisario drow? —repitió con un hilo de voz—. ¿Mencionó a qué casa pertenecía?
+—Eso confirma que Ferani está en el club. Gracias por el aviso.
 
-—Creo que le oí decir **Casa Istrav**... de Apostae. Algo sobre un consorcio de armamento.
-
-Triel apretó los puños hasta clavarse las uñas en las palmas. Casa Istrav. Su propia familia. Las crueles matriarcas de las que había huido cruzando medio sistema estelar estaban metidas hasta el cuello en la conspiración para liquidar a Marlene Boosmar.
+La piloto se ajustó el casco y aceleró por el túnel, perdiéndose en el rugido metálico de la Espiga y dejando al grupo a solas frente a la rampa de servicio que conducía al exterior del local.
 
 ***
 
-### III. El farol de la Señorita Istrav
+### III. Fuego en el muelle de acceso
 
-Avanzaron cien metros más hasta detenerse en una bifurcación protegida antes de la entrada del club. Triel respiró hondo, se cuadró los hombros y miró a sus tres compañeros con una determinación gélida:
+Avanzaron siguiendo los conductos secundarios hasta desembocar en la explanada de carga y descarga del *Club Con-Fusión*. El edificio era una colosal nave fabril en desuso, cuyas paredes de chapa ondulada vibraban con el sordo latido de los bajos musicales que retumbaban en su interior. En lo alto de la fachada, rótulos de neón desgastados parpadeaban en magenta y cian violento, proyectando sombras temblorosas sobre el suelo aceitoso.
 
-—Cambio de planes. No podemos asaltar a tiros un club nocturno repleto de cincuenta pandilleros borrachos. Pero si la Casa Istrav estuvo aquí negociando tratos de armas, usaremos su propia soberbia contra ellos: entraremos por la puerta grande.
+Frente al portalón de acceso exterior, flanqueados por montones de chatarra, contenedores de basura química y grandes cajas de embalaje industrial, montaban guardia dos corpulentos matones de los Reyes del Nivel 21. Lucían armaduras reforzadas con pinchos de acero, gafas oscuras y pesados garrotes de asalto con filamentos electrificados. Al divisar al grupo y distinguir la mole blindada de Gerty, los centinelas descolgaron sus armas con hostilidad inmediata:
 
-Benrey ladeó la cabeza, frotándose los bigotes con curiosidad:
+—¡Alto ahí! ¿Adónde creen que van con esa mole de combate? ¡Identifíquense o los dejamos tiesos!
 
-—¿Y cuál es la jugada magistral, jefa?
+A.Xel 42 no esperó a que formularan una segunda advertencia: sacó su pistola de arco eléctrico y se deslizó entre las sombras de las tuberías con una maniobra acrobática. Su primer disparo impactó en el torso del centinela más cercano, envolviéndolo en un relámpago azulado que le provocó violentas convulsiones neuromusculares.
 
-—Yo seré la **Señorita Istrav** —explicó Triel, bajándose el cuello de la chaqueta para lucir su porte aristocrático con altivez helada—. Una noble drow de Apostae enviada para supervisar el cumplimiento del contrato con Ferani Nadaz. En la sociedad de mi planeta, las mujeres drow ostentan el poder absoluto y nadie se atreve a cuestionar sus órdenes. Pero una dama de mi alcurnia no se rebaja a hablar directamente con matones callejeros... necesito un portavoz diplomático.
+Benrey, buscando cobertura a toda velocidad, corrió a guarecerse tras el ancho mamparo de Gerty. Con un movimiento rápido y cómico de sus carrillos, extrajo una pequeña cámara de acción de alta resolución y se la estampó en el hombro al meca con un adhesivo magnético:
 
-—¡Ese es mi momento estelar! —exclamó Benrey, inflándose como un pavo real y alisándose las solapas de la gabardina—. La diplomacia, la alta alcurnia y el protocolo roedor son mi especialidad absoluta. Yo hablaré en su ilustre nombre, mi señora.
+—¡No te muevas, Gerty, mantén el plano bien encuadrado! ¡Esto va directo a mi portafolio de la holored!
 
-—Bien. Y ustedes dos —dijo Triel volviéndose hacia Marloc y A.Xel— serán mi escolta de seguridad privada. Pónganse gafas oscuras, mantengan la boca cerrada y proyecten la actitud más letal y despiadada que puedan fingir.
+—*El organismo Benrey Galway ha instalado un artefacto parasitario en mi chasis sin autorización formal* —articuló Gerty con su voz cavernosa, girando el torso metálico con pesadez—. *Solicito permiso para retirar al roedor de mi radio de giro.*
 
-A.Xel extrajo de su arnés dos pares de gafas de sol tácticas polarizadas, entregándole unas a Marloc y calzándose las suyas. La androide se irguió rígidamente, extendió los brazos hacia el frente con las palmas abiertas y ladeó la cabeza noventa grados:
+El primer guardia, rugiendo de furia tras sacudirse la descarga eléctrica, arremetió con su mazo pesado contra Axel. Marloc reaccionó con precisión táctica:
 
-—¿Dónde debo colocar exactamente mis extremidades superiores para proyectar una adecuada intimidación de escolta biológica?
+—¡Cuidado, Axel! —gritó el tecnomante, disparando ráfagas de cobertura con su rifle para entorpecer la trayectoria del matón mientras concentraba energía arcana en su mano izquierda cibernética. Con un estallido de luz azulada, tres dardos luminosos de *misiles mágicos* silbaron en el aire e impactaron de lleno en el pecho del agresor, haciéndolo retroceder tambaleante contra un contenedor.
 
-Triel no pudo contener una sonrisa nerviosa:
+El segundo guardia cargó directamente contra Gerty, descargando su garrote con un impacto demoledor sobre el mamparo pectoral del meca. El golpe arrancó chispas y abolló el metal junto a la calcomanía sonriente, descalibrando momentáneamente los actuadores hidráulicos del robot:
 
-—Cruza las manos a la espalda, mantén el mentón alto y no pestañees. Y si nos preguntan a quién representamos, diremos que venimos de parte de mi pariente corporativo: **Julio Istrav**. ¿Listos para el espectáculo?
+—*Alerta: impacto contundente registrado. Nivel de daño estructural: insignificante, pero sumamente molesto.*
 
-—Nací listo para el teatro, señorita Istrav —guiñó Benrey con picardía.
+Triel alzó su rifle y disparó una ráfaga térmica para cubrir el flanco de su máquina, obligando al atacante a levantar los brazos. Aprovechando la distracción generada por Gerty, Axel ejecutó un nuevo salto táctico desde una esquina ciega y colocó un disparo eléctrico quirúrgico en la nuca del segundo matón.
 
-Gerty avanzó un paso, haciendo crujir sus servos pesados:
+Ambos centinelas cayeron desplomados al suelo, privados de sentido entre espasmos residuales de estática.
 
-—*Sugiero añadir a la mentira que el meca cuenta con autorización formal para vaporizar a cualquier interlocutor que hable con tono descortés.*
+Triel corrió hacia Gerty para inspeccionar las conexiones humeantes del pecho:
 
-—Tranquilo, Gerty. Guarda las armas dentro del chasis hasta que dé la señal.
+—Tranquilo, muchacho. Te cambiaré la placa dañada en cuanto terminemos aquí. Buen trabajo.
 
-Avanzaron con paso firme hacia la compuerta de chapa ondulada sobre la que carteles de neón parpadeaban en magenta y cian violento: el acceso a la guarida de los Reyes del Nivel 21.
+—*La usuaria Triel Istrav no debe preocuparse; mi procesador de rencor ha archivado la agresión para futuros protocolos punitivos.*
 
-El espectáculo estaba a punto de comenzar.
+Entre Marloc, Benrey y Axel, arrastraron a los dos guardias inconscientes fuera del campo de visión del muelle, ocultándolos cuidadosamente tras las grandes cajas de embalaje y el contenedor de basura para evitar que los transeúntes dieran la voz de alarma.
+
+Tras el portalón reforzado, la música electrónica amortiguada alcanzaba niveles ensordecedores: el breve tiroteo no había llamado la atención de nadie en el interior.
+
+Con las armas aseguradas bajo las chaquetas y los ánimos en tensión, empujaron las compuertas dobles y se internaron en las entrañas del *Club Con-Fusión*.

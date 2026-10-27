@@ -113,8 +113,8 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 ### Sal
 - Joven aprendiz lashunta de mecánica naval en los muelles de atraque de Absalón. Amigo de videojuegos de carreras espaciales de Triel; fue quien le recomendó buscar trabajo en el Arcanamirium y visitar el Club 13.
 
-### Marcelo
-- Contacto y camarada ysoki de Benrey Galway en los monobloques del Anillo. Fue quien despertó a Benrey en su camarote con las primicias sobre la llegada del carguero *Acreon*.
+### Marcellus
+- Extravagante productor audiovisual, editor y representante de Benrey Galway en la Estación Absalón. Es quien despierta a Benrey en su camarote a través del comunicador personal con la primicia del regreso a la deriva del carguero *Acreon* y la pista para contactar con el intermediario Chic en el Anillo.
 
 ### Kallio
 - Francotirador profesional drow de sangre fría, asesino a sueldo de élite contratado en secreto por Extracciones Estelares para abatir a Marlene Boosmar en el Muelle 94.

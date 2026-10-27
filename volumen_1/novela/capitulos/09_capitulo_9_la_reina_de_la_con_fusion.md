@@ -1,38 +1,42 @@
 # Capítulo 9: La Reina de la Con-Fusión
 
-El *Club Con-Fusión* no intentaba ocultar su naturaleza de fortaleza clandestina; simplemente la disfrazaba con decibelios ensordecedores y luces estroboscópicas.
+### I. Luces de neón y la comitiva drow
 
-Ocupaba un gigantesco hangar de manufactura en desuso, en el corazón del Sector Spire-Cero. A través de la fachada de chapa ondulada, carteles de neón parpadeaban en tonos cian y magenta violento, proyectando sombras temblorosas sobre la fila de clientes marginales que aguardaban para entrar. El suelo vibraba con el retumbar de unos bajos sintéticos tan potentes que hacían sonar las herramientas sueltas en el cinturón de Triel.
+El interior del *Club Con-Fusión* era un asalto demoledor a los sentidos.
 
-En el acceso principal, dos fornidos matones de los *Reyes del Nivel 21* custodiaban la entrada. Pero antes de que pudieran alzar sus armas, la comitiva del farol se abrió paso con una arrogancia calculada.
+Ocupaba un gigantesco hangar fabril en desuso, en el corazón del Sector Spire-Cero. Bajo una enmarañada red de tuberías de refrigerante y pasarelas oxidadas, haces láser de tonos cian y magenta violento cortaban una niebla artificial espesada con aromas a tabaco de Castrovel, ozono y sudor químico. Cientos de clientes marginales de todas las especies —humanos, vesk, androides, ysoki y shirren— saltaban en un trance frenético frente a la cabina del DJ holográfico, al compás de unos bajos sintéticos tan brutales que hacían temblar las herramientas en el cinturón de Triel.
 
-Triel avanzó con la cabeza erguida, la mirada gélida y el paso altivo propio de la nobleza matriarcal de Apostae. A su lado, Benrey Galway marchaba con las solapas de la gabardina estiradas, hinchando el pecho como un diplomático de carrera, mientras Marloc y A.Xel, provistos de gafas oscuras y trajes cerrados, flanqueaban a la semi-drow con las manos cruzadas rígidamente a la espalda. Tras ellos, Gerty cerraba la formación con sus dos metros de aleación pesada.
+A la entrada, una pareja de humanos tatuados salió tambaleándose entre risas ebrias, apartándose con desgana sin fijarse en los recién llegados. Los disparos eléctricos del muelle de carga habían quedado completamente ahogados por el rugido atronador del local.
 
-Los guardias de la puerta titubearon, desconcertados ante semejante estampa aristocrática en mitad de los suburbios, y se apartaron sin atreverse a exigir credenciales.
+A.Xel, Marloc, Benrey y Triel se deslizaron hacia el lateral de la pista, bordeando las barras abarrotadas donde camareros androides despachaban licores fosforescentes. Gerty avanzaba a su zaga con paso medido, confundiéndose entre la penumbra y el humo con una de las extravagantes esculturas mecánicas del antro.
 
-Cruzaron la pista de baile entre una marea de cuerpos sudorosos que se agitaban bajo lásers de colores disonantes. Al fondo, tras una cortina de lona industrial, Triel empujó una puerta de doble batiente que daba a la trastienda privada del local.
+De pronto, una compuerta metálica al fondo del local con un letrero parpadeante que rezaba *«Solo personal autorizado»* se abrió de par en par.
 
-En la antesala, sentados sobre cajones de cerveza sintética alrededor de una mesa improvisada, tres pandilleros —dos humanos rapados y un corpulento androide de combate— se disputaban un montón de fichas de crédito tirando dados. Al ver irrumpir a los recién llegados, los tres se pusieron en pie de un salto, echando mano a las pistolas enfundadas en sus cinturones:
+Un destacamento de fornidos mercenarios semi-orcos, enfundados en blindajes pesados y armados con fusiles automáticos, se abrió paso a empujones entre los bailarines. En el centro de la escolta caminaban dos hombres de la raza drow, vestidos con impecables trajes corporativos de corte aristocrático en tonos negro y morado oscuro. El mayor de ellos, de porte distinguido, cabellos plateados recogidos hacia atrás y facciones afiladas, contemplaba la mugre del club con una mueca de soberbia helada mientras un joven ayudante tomaba notas en una tablilla óptica.
+
+Triel se quedó petrificada. La sangre se le congeló en las venas al reconocer los rasgos severos y el emblema heráldico discretamente bordado en la solapa del aristócrata: era un emisario de la **Casa Istrav de Apostae**, vinculado directamente a la facción aristocrática de su media hermana.
+
+—¡Abajo! —le siseó Benrey al oído, tirándole de la manga con reflejos de roedor.
+
+Triel bajó la mirada al instante y desvió el rostro hacia la pared, ocultándose tras la gabardina de Benrey y la mole de Gerty. La comitiva drow cruzó la nave a paso firme y abandonó el club rumbo a los niveles superiores sin percatarse de su presencia.
+
+Triel soltó el aire retenido en sus pulmones con un temblor de rabia:
+
+—Era él... —susurró con la voz entrecortada por la conmoción—. Un emisario de mi propia casa en Apostae. Los drow estuvieron aquí mismo cerrando acuerdos con la jefa de la banda.
+
+—Esto confirma que Ferani Nadaz es el eslabón clave entre el asesinato de Marlene Boosmar y las corporaciones —asintió Marloc con frialdad implacable—. Es hora de entrar en ese despacho.
+
+Aprovechando la dispersión del gentío tras el paso de los semi-orcos, el grupo cruzó con rapidez hacia la compuerta de *Personal Autorizado*. Benrey forzó el cerrojo magnético con una ganzúa de plasma en cuestión de segundos y los cuatro se deslizaron al interior, cerrando a sus espaldas.
+
+El pasillo conducía a un almacén de suministros atestado de barriles de cerveza sintética y cajas de licores. En el centro, sentados sobre cajones de embalaje alrededor de una mesa improvisada, tres pandilleros de los Reyes del Nivel 21 —dos humanos rapados y un corpulento androide de combate— se disputaban un fajo de créditos tirando dados.
+
+Al ver irrumpir a los intrusos con las armas desenfundadas, los tres se pusieron en pie de un salto, echando mano a sus fundas:
 
 —¡Alto ahí! ¿Quién diablos los dejó pasar?
 
-Benrey dio un paso al frente con una solemnidad teatral impecable, señalando a Triel con un gesto majestuoso:
+—¡Manos arriba si aprecian la integridad de sus componentes orgánicos y sintéticos! —advirtió Benrey, encañonándolos con su pistola láser mientras Axel y Marloc cubrían las esquinas con letal frialdad.
 
-—¡Atención, escoria de los muelles! —bramó el ysoki con voz engolada—. Ha llegado la honorable Señorita Istrav, representante plenipotenciaria de la Casa Istrav de Apostae. Ha venido en persona a resolver cuentas pendientes con Ferani Nadaz. Y mantengan esas zarpas lejos del armamento si no quieren que sus nombres figuren en el registro de decesos corporativos antes del amanecer.
-
-Triel clavó sus ojos carmesíes en los matones, dibujando en su rostro la expresión de asco y desprecio más pura y aristocrática que jamás había ensayado en su vida. A sus espaldas, A.Xel permaneció inmóvil como una estatua de mármol negro tras sus gafas oscuras.
-
-Los tres pandilleros se miraron entre sí, completamente intimidados por la presencia de una dama drow y la mole de Gerty que asomaba tras el marco. El humano más joven tragó saliva, bajó el arma y retrocedió hacia la puerta del fondo:
-
-—D-deme un momento... voy a anunciarlos a la jefa.
-
-El matón abrió la puerta del fondo y gritó con voz temblorosa:
-
-—¡Señora Ferani! ¡Ha venido la Señorita Istrav con su escolta!
-
-Una voz ronca y cortante resonó desde el interior:
-
-—¡Que pasen!
+Paralizados ante la superioridad táctica y el cañón pectoral de Gerty bloqueando la salida, los tres matones titubearon y alzaron las manos, retrocediendo hacia la pared.
 
 ***
 
@@ -40,19 +44,13 @@ Una voz ronca y cortante resonó desde el interior:
 
 El despacho de la líder era un santuario de decadencia y paranoia.
 
-En una pared lateral, una docena de monitores de seguridad transmitían tomas en directo de la pista de baile, los callejones y las compuertas de ventilación. Y tras un amplio escritorio de caoba espacial cubierto de botellas de licor de importación y montoncitos de polvo estimulante que brillaba como purpurina verde esmeralda bajo los focos, estaba de pie **Ferani Nadaz**, la *Reina de la Con-Fusión*. Lucía una cresta verde teñida sobre el cráneo rapado, cazadora naval con hombreras cromadas y tatuajes cibernéticos que serpenteaban por sus brazos desnudos.
+En una pared lateral, una docena de monitores de seguridad transmitían tomas en directo de la pista de baile, los callejones y las compuertas de ventilación. En una de las pantallas parpadeaba la señal del muelle de carga exterior, donde yacían los dos centinelas inconscientes entre las cajas de embalaje.
 
-A su derecha, con la pesadez de una montaña de escamas y cicatrices, montaba guardia **Brock Hilario, el Rompeportones**: un colosal vesk de dos metros y medio de altura que sostenía un mazo de guerra electrificado y un rifle de asalto pesado.
+Y tras un amplio escritorio de caoba espacial cubierto de botellas de licor de importación y montoncitos de polvo estimulante que brillaba como purpurina verde esmeralda bajo los focos, estaba de pie **Ferani Nadaz**, la *Reina de la Con-Fusión*. Lucía una cresta verde teñida sobre el cráneo rapado, cazadora naval con hombreras cromadas y tatuajes cibernéticos que serpenteaban por sus brazos desnudos. A su derecha, con la pesadez de una montaña de escamas y cicatrices, montaba guardia **Brock Hilario, el Rompeportones**: un colosal vesk de dos metros y medio de altura que sostenía un mazo de guerra electrificado y un rifle de asalto pesado.
 
-Ferani entrecerró los ojos verdes al ver entrar a Triel y a su grupo, apoyando las manos sobre el escritorio con evidente irritación:
+La mujer contempló la irrupción en la antecámara con los ojos inyectados en sangre y una mueca de furia desquiciada:
 
-—¿Qué demonios es esto? Ya me reuní hace cuatro días con el emisario de Apostae y el trato de armas quedó cerrado. ¿Qué más quieren?
-
-Benrey carraspeó, intentando mantener la farsa:
-
-—La Señorita Istrav no responde ante los acuerdos de otros intermediarios; viene a verificar sus propios intereses de forma...
-
-—¡Mentira podrida! —bramó Ferani, reconociendo de pronto las descripciones del noticiero—. ¡No son de la Casa Istrav! ¡Son los bastardos del tiroteo del Muelle 94!
+—¿Y estos son los desgraciados que acaban de noquear a mis centinelas en el muelle de carga? —bramó Ferani, reconociendo al instante sus rostros por las alertas del noticiero—. ¡Son las ratas del tiroteo del Muelle 94! ¡Mátenlos, Brock!
 
 Sin dar tiempo a réplica, Ferani descargó una patada furiosa contra el borde de su escritorio. La pesada madera voló hacia adelante, y los montículos de cocaína cósmica se esparcieron por toda la sala, levantando una nube densa y brillante de polvo verde fosforescente que saturó el aire de chispas luminosas.
 

@@ -14,7 +14,7 @@ El proyecto se organiza en volúmenes narrativos modulares de la saga troncal y 
 lasersydragones/
 ├── Contexto completo/                       # Archivo Maestro de Canon, Continuidad y Resumen de la Saga (48 págs PDF)
 │
-├── volumen_1/                               # Volumen 1: Sombras sobre Absalón (Ep 1 a 10) [FINALIZADO]
+├── volumen_1/                               # Volumen 1: Sombras sobre Absalón (Ep 1 a 10) [CERRADO DEFINITIVAMENTE]
 ├── volumen_2/                               # Volumen 2: El Misterio del Acreon (Ep 11 a 22) [EN REVISIÓN]
 ├── volumen_3/                               # Volumen 3: La Roca del Drift (Ep 23 a 33) [EN REVISIÓN]
 ├── volumen_4/                               # Volumen 4: Las Torres de Qabarat (Ep 34 a 45) [EN REVISIÓN]
@@ -50,12 +50,12 @@ lasersydragones/
 
 ## 📕 Biblioteca de Libros y Estado Editorial
 
-> **Nota sobre el Estado Editorial:** Actualmente **solo el Volumen 1 se encuentra completamente finalizado y cerrado**. Los **Volúmenes 2 al 6 se encuentran en proceso de revisión y corrección** por el autor para detectar omisiones, erratas o incoherencias argumentales antes de su publicación definitiva. Los **Volúmenes 7 al 14** disponen de todos sus recursos preparados (transcripciones limpias, metadatos, glosarios y plantillas) para iniciar su redacción.
+> **Nota sobre el Estado Editorial:** Actualmente **el Volumen 1 se encuentra cerrado definitivamente y consolidado al 100%** (87 páginas en PDF maquetado con todas las correcciones de canon, combate fiel al podcast y glosario exhaustivo). Los **Volúmenes 2 al 6 se encuentran en proceso de revisión y corrección** por el autor para detectar omisiones, erratas o incoherencias argumentales antes de su publicación definitiva. Los **Volúmenes 7 al 14** disponen de todos sus recursos preparados (transcripciones limpias, metadatos, glosarios y plantillas) para iniciar su redacción.
 
-1. **[Volumen 1: Sombras sobre Absalón](file:///home/jordi/Proyectos/lasersydragones/volumen_1/novela/Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf)** · **`[FINALIZADO Y CONSOLIDADO]`**
+1. **[Volumen 1: Sombras sobre Absalón](file:///home/jordi/Proyectos/lasersydragones/volumen_1/novela/Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf)** · **`[CERRADO DEFINITIVAMENTE]`**
    * *Subtítulo:* `Conspiración en la Espiga` (Episodios 1–10).
-   * *Extensión:* 84 páginas, A4 editorial, navegación por marcadores, prólogo, nota editorial y anexo de personajes.
-   * *Arco:* Llegada a la Estación Absalón (Sal, Marcelo, Null-9 y la sopa de almejas); colapso de Marloc y encuentro con Benrey en la motoneta amarilla; reunión en el Club 13 y revelación de la viuda Ángela; emboscada en el Muelle 94 con el sicario drow Kallio; combate táctico, hackeo de cámaras y huida; investigación con Chiskisk de Inversiones Estelares; reservado de Thalud en el Club 13, partida de cartas clandestina (D-52, Silo y Luigi) y rastro de Eclair; túneles de desagüe y farol de la «Señorita Istrav»; asalto a Con-Fusión, rendición de Ferani y Brock Hilario; botín de la caja fuerte y fuga tecno con holoskin; contrato con Chiskisk para Clamor Sambor y quiebre emocional de Marloc; arcos íntimos en el Hotel Las Lunas (Triel y Gerty, Marloc y el barman decrépito, Axel y Eclair, Benrey y Thalud con la llamada de Rim); y desayuno en el Ojo de Absalón con la emboscada del dron policial de los Protectores que enlaza de forma continua con el Volumen 2.
+   * *Extensión:* 87 páginas, A4 editorial, navegación por marcadores, prólogo, nota editorial y anexo de personajes.
+   * *Arco:* Llegada a la Estación Absalón (Sal, Marcellus, Null-9 y la sopa de almejas); colapso de Marloc y encuentro con Benrey en la motoneta amarilla; reunión en el Club 13 y revelación de la viuda Ángela; emboscada en el Muelle 94 con el sicario drow Kallio; combate táctico, hackeo de cámaras y huida; investigación con Chiskisk de Inversiones Estelares; reservado de Thalud en el Club 13, partida de cartas clandestina (D-52, Silo y Luigi) y rastro de Eclair; túneles de desagüe y combate en el muelle de carga; avistamiento de los emisarios drow y asalto a Con-Fusión, rendición de Ferani y Brock Hilario; botín de la caja fuerte y fuga tecno con holoskin; contrato con Chiskisk para Clamor Sambor y quiebre emocional de Marloc; arcos íntimos en el Hotel Las Lunas (Triel y Gerty, Marloc y el barman decrépito, Axel y Eclair, Benrey y Thalud con la llamada de Rim); y desayuno en el Ojo de Absalón con la emboscada del dron policial de los Protectores que enlaza de forma continua con el Volumen 2.
 
 2. **[Volumen 2: El Misterio del Acreon](file:///home/jordi/Proyectos/lasersydragones/volumen_2/novela/Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf)** · **`[EN REVISIÓN Y CORRECCIÓN]`**
    * *Subtítulo:* `Los Secretos del Vacío` (Episodios 11–22).
