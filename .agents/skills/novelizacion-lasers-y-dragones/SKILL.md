@@ -120,3 +120,11 @@ Antes de dar por cerrado cualquier volumen, es preceptivo verificar los 10 punto
 > **NUNCA realizar `git commit` ni `git push` de forma autónoma o automática.**  
 > * Toda operación de `git commit` o `git push` hacia el repositorio debe ser solicitada **de manera explícita y directa por el usuario** (por ejemplo: *«haz commit de esto»* o *«haz push de los cambios»*).  
 > * Durante las tareas ordinarias de redacción de capítulos, revisión de erratas, maquetación editorial, compilación de PDFs o actualización de glosarios y compendios, los cambios deben permanecer en el árbol de trabajo local (*working directory*) sin comitear ni subir al remoto hasta recibir la orden expresa.
+
+---
+
+## 6. Higiene del Entorno y Limpieza de Scripts Temporales (`scratch/`)
+
+> 🧹 **REGLA DE LIMPIEZA DE SCRIPTS TEMPORALES (ver `.agents/rules/limpieza_scripts_temporales.md`):**  
+> * Los scripts de un solo uso para análisis de transcripciones, búsquedas de texto o pruebas ad-hoc en la carpeta `scratch/` deben ser eliminados inmediatamente tras finalizar la tarea (`rm -rf scratch/*`).
+> * La carpeta `scratch/` debe permanecer limpia y nunca incluirse en el control de versiones.
