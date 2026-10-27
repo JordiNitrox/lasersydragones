@@ -120,11 +120,11 @@ Axel y Triel estamparon sus firmas electrónicas con solemnidad.
 
 Chiskisk se volvió entonces hacia A.Xel, extendiéndole una pequeña ficha de memoria adicional con un número de frecuencia privada grabado en el dorso:
 
-*«Un asunto personal, agente A.Xel. Durante el ciclo anterior recibimos una comunicación de emergencia en la línea privada de Marlene. Una androide llamada Eclair preguntaba desesperadamente por ella, temiendo por su vida tras los tiroteos del muelle. Le aseguré que estábamos gestionando la situación, pero me pidió expresamente que le entregara este contacto a usted si regresaba con bien.»*
+*«Un asunto personal, agente A.Xel. Durante el ciclo anterior recibimos una comunicación de emergencia en la línea privada de Marlene. Un androide llamado Eclair preguntaba desesperadamente por ella, temiendo por su vida tras los tiroteos del muelle. Le aseguré que estábamos gestionando la situación, pero me pidió expresamente que le entregara este contacto a usted si regresaba con bien.»*
 
 Axel recibió la ficha con una chispa de luminiscencia rosada en sus ojos sintéticos. Guardó el dispositivo en el bolsillo de su pecho, sintiendo una extraña calidez electromagnética en sus circuitos lógicos:
 
-—Gracias, comisionado. Me comunicaré con ella inmediatamente.
+—Gracias, comisionado. Me comunicaré con él inmediatamente.
 
 Chiskisk asintió lentamente, pero su expresión telepática se volvió lúgubre al volverse hacia Marloc:
 
@@ -260,13 +260,13 @@ Frente a ella, flotaba el proyector de comunicaciones de su datapad personal. Ha
 
 Tras tres tonos de llamada encriptada, la señal se abrió.
 
-El holograma tridimensional de una mujer androide de rasgos delicados, cabello sintético corto de color azul cobalto y ojos luminiscentes de tono dorado se materializó sobre la mesa auxiliar.
+El holograma tridimensional de un androide de facciones serenas y nobles, piel sintética de tono azul noche surcada por circuitos de un suave fulgor naranja dorado, se materializó sobre la mesa auxiliar.
 
-—*¿Hola?... ¿Quién transmite por este canal?* —preguntó la voz de Eclair, cargada de una cautela angustiosa.
+—*¿Hola?... ¿Quién transmite por este canal?* —preguntó la voz de Eclair, pausada y cargada de una cautela angustiosa.
 
 —Soy A.Xel 42 —respondió la operativa con su habitual tono medido, aunque sus circuitos subdérmicos desprendían un suave pulso rosado de calidez inusual—. Chiskisk me entregó tu frecuencia. Quería que supieras que estoy a salvo.
 
-La figura holográfica de Eclair se llevó ambas manos a la boca y dejó escapar un sollozo ahogado de puro alivio:
+La figura holográfica de Eclair se llevó ambas manos al rostro y dejó escapar un suspiro entrecortado de puro alivio:
 
 —*¡Axel!... ¡Estás viva! ¡Dioses de la máquina, temí lo peor! Cuando me enteré del tiroteo en el Muelle 94 y de que Marlene había caído... pensé que te habían interceptado a ti también.*
 
@@ -276,7 +276,7 @@ La figura holográfica de Eclair se llevó ambas manos a la boca y dejó escapar
 
 —Lo sé. Hemos recuperado sus archivos y neutralizado a los cabecillas de la Espiga que ejecutaron el ataque. La corporación pagará por esto.
 
-Eclair suspiró en el proyector, pasando una mano por su cabello virtual:
+Eclair suspiró en el proyector, pasando una mano de luz sobre sus circuitos temporales:
 
 —*Axel... las cosas se están poniendo muy difíciles en la estación. Null-9 y los sectores más radicales del Frente de Liberación Androide están hablando de represalias armadas directas contra los almacenes de la compañía. Hay demasiada rabia en las calles. Si esto estalla, los Protectores no dudarán en declararnos una amenaza terrorista colectiva.*
 
@@ -284,7 +284,7 @@ Eclair suspiró en el proyector, pasando una mano por su cabello virtual:
 
 —*Siempre tan analítica...* —sonrió Eclair débilmente a través de la estática de la transmisión—. *Me alegra tanto oír tu voz de nuevo, Axel. Por favor, prométeme que nos veremos pronto. Necesito verte en persona.*
 
-Axel contempló el rostro luminoso de su compañera durante un instante cargado de una intimidad casi humana:
+Axel contempló el rostro luminoso de su compañero durante un instante cargado de una intimidad casi humana:
 
 —Mañana al atardecer estaré en el Club 13. Nos reuniremos allí.
 

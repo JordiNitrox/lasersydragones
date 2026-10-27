@@ -119,7 +119,7 @@ El parpadeo rojizo de emergencia se apagó de golpe, siendo sustituido por una i
 
 Con un suave ronroneo de sus motores recién reparados, Gerty se incorporó de nuevo, alzando sus cuatro brazos en posición de guardia:
 
-—*Sistemas reanudados. Agradezco a la señorita Triel la eficiente sustitución de mis relés de energía.*
+—*Sistemas reanudados. Agradezco a Triel la eficiente sustitución de mis relés de energía.*
 
 Los cuatro exploradores se retiraron los cascos de sus escafandras por primera vez en horas, respirando hondo el aire fresco pero impregnado por el olor metálico de la nave. Willy y Naru hacían lo propio, rascándose sus enormes orejas mientras se acomodaban en las sillas giratorias del frente con descaro.
 

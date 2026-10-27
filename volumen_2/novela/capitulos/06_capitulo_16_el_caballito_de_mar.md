@@ -20,9 +20,13 @@ El capitán se detuvo frente a Marloc, clavando su ojo biónico en el tecnomante
 
 Marloc asintió en silencio, conmovido por el homenaje del veterano.
 
-Luego, Seris se volvió hacia Triel, inclinando la cabeza con respeto:
+Luego, Seris se volvió hacia Triel, observando con una ceja alzada el gastado parche de los Capitanes Libres en su chaleco e inclinando la cabeza con respeto de viejo lobo de vacío:
 
-—Señorita Istrav... Conozco a muchos corsarios drow, pero la inmensa mayoría sirven a los linajes nobles de Apostae. Para una semi-drow, abrirse paso entre los Capitanes Libres por mérito propio exige el doble de agallas. Es un orgullo tenerla a bordo.
+—Señorita Istrav... Veo ese parche rebelde en su espalda. Conozco a muchos corsarios y mecánicos de frontera, pero para una semi-drow, ganarse el respeto en el vacío y romper con la sombra de las casas nobles de Apostae exige un par de propulsores bien puestos. Es un orgullo tenerla a bordo.
+
+Triel esbozó una sonrisa reservada, acomodándose la chaqueta de segunda mano sin desmentir ni alimentar la leyenda de su prenda:
+
+—Solo hago mi trabajo, capitán. Y cuido de que los motores no estallen.
 
 —Y el señor Benrey Galway —añadió Seris, estrechando la pata del ysoki con una carcajada—. He visto sus vídeos acrobáticos en la red; hay que tener propulsores de acero para lanzarse al vacío como usted lo hace. Díganme, ¿la señorita Joss ya intentó dorarles la píldora en sus torres con su cesta de jaboncitos y pases de cine de los jueves?
 

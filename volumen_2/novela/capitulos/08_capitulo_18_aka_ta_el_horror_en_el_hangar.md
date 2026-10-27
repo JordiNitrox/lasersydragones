@@ -4,7 +4,7 @@
 
 En el vacío absoluto, el sonido no existe.
 
-Cuando las botas magnéticas de Axel 42 hicieron contacto con la rejilla metálica del hangar de estribor del *Acreon*, el impacto no produjo ningún estruendo aéreo, sino una vibración sorda que ascendió a través de las suelas de su armadura hasta el receptor de audio de su En el interior del carguero minero estaba completamente a oscuras, iluminado únicamente por los potentes haces de las linternas tácticas montadas sobre los hombros de Gerty y los fusiles de la tripulación. Detrás de ellos, dos pequeños artefactos sobrevolaban la escena en silencio: el dron diplomático de Eox, cuyo ojo verde grababa con fría perseverancia, y la microcámara deportiva de Marcellus que Benrey llevaba orientada hacia el pasillo. El frío del espacio profundo impregnaba cada centímetro de metal: finas capas de escarcha blanca cubrían los mamparos y en el aire enrarecido flotaban pequeñas esferas de refrigerante congelado y virutas de metal que bailaban como motas de polvo estelar al paso de los exploradores.
+Cuando las botas magnéticas de Axel 42 hicieron contacto con la rejilla metálica del hangar de estribor del *Acreon*, el impacto no produjo ningún estruendo aéreo, sino una vibración sorda que ascendió a través de las suelas de su armadura hasta el receptor de audio de su casco. El interior del carguero minero estaba completamente a oscuras, iluminado únicamente por los potentes haces de las linternas tácticas montadas sobre los hombros de Gerty y los fusiles de la tripulación. Detrás de ellos, dos pequeños artefactos sobrevolaban la escena en silencio: el dron diplomático de Eox, cuyo ojo verde grababa con fría perseverancia, y la microcámara deportiva de Marcellus que Benrey llevaba orientada hacia el pasillo. El frío del espacio profundo impregnaba cada centímetro de metal: finas capas de escarcha blanca cubrían los mamparos y en el aire enrarecido flotaban pequeñas esferas de refrigerante congelado y virutas de metal que bailaban como motas de polvo estelar al paso de los exploradores.
 
 Triel avanzó con el rifle en guardia, sintiendo la extraña ligereza de sus diecinueve años amortiguada por el lastre de los generadores magnéticos de sus botas:
 
@@ -102,8 +102,6 @@ En ese instante, una serie de vibraciones rítmicas resonó a través de las sue
 
 Un chirrido espeluznante de garras afiladas raspando el interior de los conductos de ventilación recorrió los mamparos superiores. En la oscuridad del pecio, algo grande y hambriento los estaba escuchando.
 
-Benrey amartilló su fusil con decisión:
-
-—Bueno, muchachos... El hangar está asegurado. Ahora entramos hasta la cocina.hasquido seco y miró hacia la puerta de acceso interior que parpadeaba con una débil luz de emergencia:
+Benrey amartilló su fusil con un chasquido seco y miró hacia la puerta de acceso interior que parpadeaba con una débil luz de emergencia:
 
 —Bueno, muchachos... El hangar está asegurado. Ahora entramos hasta la cocina.

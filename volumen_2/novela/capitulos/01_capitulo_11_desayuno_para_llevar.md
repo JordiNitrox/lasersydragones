@@ -1,38 +1,12 @@
 # Capítulo 11: Desayuno para Llevar
 
-### I. La terraza del Ojo y el dron cortés
+### I. La interrupción del desayuno
 
-La luz artificial del Ojo de Absalón se filtraba a través de los cristales templados de la cúpula central con la suavidad engañosa de una mañana de primavera planetaria. Allá arriba, a decenas de metros de altura, paneles de diodos emisores de espectro completo recreaban un cielo azul celeste salpicado de nubes holográficas en lenta deriva. En las jardineras suspendidas crecían abetos enanos de Castrovel y arbustos aromáticos, mientras pequeños pájaros mecánicos de limpieza trinaban entre los setos para deleite de los dignatarios, comerciantes adinerados y altos funcionarios corporativos que transitaban por las avenidas marmóreas.
+El apacible desayuno en la terraza botánica del Ojo de Absalón —entre panecillos calientes, café aromático y el engañoso cielo primaveral que simulaba la cúpula central tras la cruenta refriega en los Bajos— duró exactamente hasta que la esfera policial descendió flotando entre las jardineras.
 
-Para cuatro aventureros que la noche anterior habían estado esquivando proyectiles de plasma entre la mugre condensada de la Espiga, la terraza al aire libre de aquel restaurante resultaba un espejismo casi insultante.
+Era una unidad de reconocimiento *Observador* de los Protectores: una bola metálica del tamaño de una sandía armada con macana de impulsos eléctricos, dispensador de pasta inmovilizadora y un lente ámbar que barrió implacable los rostros de Benrey, Marloc, Triel y Axel. Su sintetizador vocal emitió un requerimiento protocolario empalagosamente cortés, exigiendo su presencia inmediata para responder por los disturbios armados en el Nivel 21.
 
-Benrey Galway tenía los bigotes cubiertos de mermelada de moras espaciales y dos tostadas doradas apretadas contra las comisuras de los labios. Sentado con las patas cruzadas sobre un mullido sillón ergonómico, el ysoki masticaba a velocidad vertiginosa mientras llenaba los amplios bolsillos de su chaleco con panecillos calientes y sobres de edulcorante.
-
-—Les digo que el secreto de la felicidad no son los créditos, sino los bufés con reposición ilimitada —declaró Benrey con la boca medio llena, señalando una bandeja de hojaldres con su tenedor—. Miren este queso curado. ¡Es de leche de bestia de carga auténtica, no ese engrudo de soja sintética que te venden en los Bajos! Si sobrevivimos a esa loca de Ferani Nadaz, nos merecemos desayunar como síndicos.
-
-Frente a él, Marloc Boosmar sostenía una taza de porcelana blanca con la mano derecha, mientras los dedos mecánicos de su brazo cibernético izquierdo tamborileaban en silencio sobre el mantel de hilo. El tecnomante vestía un traje impecablemente planchado, gabán de cuello alto y corbata oscura, contrastando con las miradas de reojo de los camareros.
-
-—Disfruta de la abundancia mientras dure, Benrey —murmuró Marloc, bebiendo un sorbo mesurado de café negro—. La pólvora aún impregna el aire de los niveles inferiores. La muerte de Marlene no fue un accidente y el sindicato minero sigue en pie de guerra. El Consejo de la estación no tardará en atar cabos sobre lo sucedido en el Club Fusión.
-
-—Siempre tan optimista, profesor —ironizó Triel Istrav desde el otro lado de la mesa. La joven semi-drow vestía su habitual traje de segunda piel con el chaleco técnico de los *Free Captains*. Con una pequeña llave de calibración, ajustaba los pernos del hombro izquierdo de Gerty, cuyo chasis grisáceo de dos metros de altura permanecía erguido junto a la mesa como una mole de acero silenciosa. Sobre la placa pectoral del autómata lucía una flamante calcomanía que Triel le había pegado esa misma mañana: un emoticono sonriente con un parche pirata negro y dos tibias cruzadas—. Déjanos respirar al menos cinco minutos. Gerty ha gastado un tercio de su batería principal en enfriar los servomotores y todavía tiene pegadas virutas de titanio de la puerta blindada.
-
-En la cúpula acristalada del dron, dos puntos ópticos de color azul zafiro parpadearon dos veces antes de emitir un chasquido sintetizado.
-
-—*Secuencia de enfriamiento: noventa y ocho por ciento* —articuló Gerty con su voz cavernosa y monótona de sintetizador—. *Aviso para la tripulación orgánica: el aroma a manteca recalentada que emite el roedor está saturando mis sensores de admisión de aire. Solicito formalmente distanciamiento gastronómico.*
-
-A.Xel 42 ni siquiera pestañeó. La operativa androide mantenía una postura rígidamente erguida frente a su plato. Con precisión quirúrgica, ensartaba una tira de tocino crujiente y una rodaja de melón exótico en su tenedor, introduciéndolos en su cavidad bucal mientras sus circuitos rosados bioluminiscentes pulsaban a un ritmo pausado bajo la piel sintética de porcelana.
-
-—El aporte proteico es óptimo para la regeneración tisular —afirmó Axel con frialdad analítica—. Aunque debo admitir que la textura crujiente del tocino produce una resonancia acústica satisfactoria en mi módulo auditivo.
-
-La apacible escena duró exactamente tres segundos más.
-
-Desde el bulevar ajardinado, flotando con un zumbido repulsivo casi inaudible, una pequeña esfera metálica de aleación dorada y plateada avanzó hacia la terraza. Era una unidad policial de reconocimiento modelo *Observador*, del tamaño de una sandía, provista de un par de diminutos brazos mecánicos articulados en su base armados con una macana de impulsos eléctricos y una cápsula de dispersión de pasta polimérica inmovilizadora. Su único lente central brillaba con luz ámbar parpadeante.
-
-El autómata se detuvo a tres metros de la mesa, proyectando un cono de escaneo holográfico que recorrió los rostros de los cuatro comensales.
-
-—*Buenos días, ciudadanos* —entonó el dron con una voz pregrabada empalagosamente cortés—. *Se les solicita de manera formal y pacífica que mantengan las manos visibles sobre la mesa y se abstengan de manipular armamento. La Oficina de Seguridad y los Protectores de la Estación Absalón requieren su presencia inmediata para responder a un cuestionario de rutina en relación con los disturbios acaecidos en el Nivel Veintiuno. Agradecemos de antemano su cívica colaboración.*
-
-El silencio cayó sobre la terraza como una losa de plomo. Los clientes de las mesas colindantes bajaron los cubiertos, intercambiando miradas de pánico.
+El silencio cayó sobre la terraza como una losa de plomo. Los comensales de las mesas vecinas soltaron los cubiertos despavoridos. Benrey aún tenía los bigotes manchados de mermelada y los bolsillos repletos de tostadas, pero nadie en la mesa albergaba la menor intención de entregarse de sobremesa.
 
 Gerty fue el primero en reaccionar. Los servomotores de su torso giraron noventa grados con un chasquido ensordecedor. Su cañón láser rotatorio se desplegó con un zumbido de carga térmica mientras la cúpula brillaba en rojo carmesí.
 

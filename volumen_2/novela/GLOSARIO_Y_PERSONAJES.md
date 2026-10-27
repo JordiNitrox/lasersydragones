@@ -141,15 +141,15 @@ Ejecutiva lashunta de porte distinguido, piel de una suave tonalidad ambarina, l
 
 ### Clara 247 (*Clara-247*)
 *Piloto mercenaria androide y corsaria corporativa*  
-Androide de porte atlético, cabello corto peinado en punta y mirada descarada. Antigua piloto reclutada secretamente por Extracciones Estelares a través de las listas de Marlene Boosmar. Conoce a Triel en los simuladores de vuelo virtual de la taberna minera de la Espiga, donde coquetea abiertamente con ella. Más adelante pilota la corbeta corsaria *Insinuación Mortal* (*Lesser Notion*) con la que tiende una emboscada espacial a los protagonistas tras abandonar la Armada Flotante. Tras un feroz duelo en el vacío, su nave es derribada por el *Hippocampus* y se estrella violentamente en una garganta profunda de la Roca del Drift, donde reaparecerá como antagonista en el Volumen 3.
+Androide de belleza magnética y porte atlético, cabellera rubia en ondas suaves, mandíbula de cromo pulido con dientes expuestos y mirada descarada. Antigua piloto reclutada secretamente por Extracciones Estelares a través de las listas de Marlene Boosmar. En la taberna minera del Club 13 coquetea con Triel y arrastra a Benrey a las máquinas de videojuegos para poner a prueba sus reflejos. Más adelante pilota la corbeta corsaria *Insinuación Mortal* (*Lesser Notion*) con la que tiende una emboscada espacial a los protagonistas tras abandonar la Armada Flotante. Tras un feroz duelo en el vacío, su nave es derribada por el *Hippocampus* y se estrella violentamente en una garganta profunda de la Roca del Drift, donde reaparecerá como antagonista en el Volumen 3.
 
 ---
 
 ## 10. La Comunidad Androide y la Espiga
 
 ### Eclair 210
-*Minero veterano y líder espiritual androide*  
-Androide anciano de chasis desgastado por décadas de trabajo forzado en los asteroides. Amigo íntimo de Axel 42 desde los tiempos de la liberación minera de Null-9. En la taberna minera de la Espiga comparte un emotivo reencuentro con Axel y anuncia su decisión voluntaria de someterse al proceso de Renovación (*Renewal*): liberar su alma trascendida para ceder su cuerpo biológico-sintético a una nueva conciencia androide. Su serenidad y sabiduría espiritual representan la faceta más noble y comunitaria de la causa androide en Absalón.
+*Veterano minero y activista espiritual androide*  
+Androide de piel azul noche, circuitos naranja dorado y porte sereno, veterano de más de un siglo de existencia y curtido por décadas de trabajo forzado en los asteroides antes de ser liberado junto a Axel 42 por Null-9. En la taberna minera de la Espiga comparte un emotivo reencuentro con Axel y anuncia su decisión voluntaria de someterse al proceso de Renovación (*Renewal*): liberar su alma trascendida tras haber completado su ciclo vital para ceder su cuerpo sintético a una nueva conciencia. Su serenidad, nobleza y sabiduría espiritual representan la faceta más templada y comunitaria de la causa androide en Absalón.
 
 ---
 

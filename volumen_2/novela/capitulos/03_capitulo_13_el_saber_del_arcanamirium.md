@@ -64,6 +64,10 @@ El interior era un desastre de estantes volcados y archivadores vacíos. La poli
 
       —Papá... —susurró con un hilo de voz—. Mi propio padre, Ambrose Boosmar, era catedrático aquí mismo. Jamás se entrometía en la política interna de la universidad, pero su autoridad académica era tan incontestable que nadie osaba contradecirlo. Parece que el viejo Ambrose ejerció esa misma férrea influencia sobre la carrera de Marlene... Ambos compartimos al mismo padre.
 
+Benrey se asomó al despacho, contemplando los cajones volcados y los archivadores desvalijados con un chasquido de desaliento:
+
+—Menuda sorpresa familiar, profesor... Pero me temo que llegamos tarde. Quienquiera que haya saqueado esto después de los Protectores no dejó ni una sola migaja. Se lo han llevado absolutamente todo.
+
 —No todo —respondió Marloc con voz ronca, tragando saliva con esfuerzo—. Marlene conocía la burocracia de esta academia mejor que nadie. Sabía que los registros digitales pueden borrarse con un pulso electromagnético, pero la contabilidad física del Arcanamirium es casi imposible de purgar.
 
 El tecnomante se arrodilló junto a la papelera metálica derribada y comenzó a examinar el forro interior del cesto de reciclaje. Oculto tras una doble pestaña de cartón sintético, extrajo un pequeño recibo de despacho impreso en papel carbón autocalcográfico, arrugado pero perfectamente legible.
@@ -128,11 +132,11 @@ En la plaza central, la doctora Sophie Ren continuaba celebrando su título rode
 
 Los cuatro brazos del meca se ajustaron con un chasquido hidráulico y su cúpula proyectó un parpadeo azul zafiro:
 
-—*Aviso de diseño fundamental para el usuario Marloc* —respondió el autómata con su voz cavernosa de sintetizador—. *Mis matrices heurísticas originales fueron programadas a partir de ingeniería militar drow de Apostae. En la doctrina cibernética drow, las inteligencias artificiales tienen terminantemente prohibida la familiaridad con los usuarios orgánicos; fuimos codificados para tratar con estricta jerarquía y sumisión ceremonial: Señor Marloc, Señora Triel, Señor Benrey. Desactivar ese protocolo degradaría mis rutinas en un cuarenta y dos por ciento. La pleitesía es un componente estructural de mi chasis.*
+—*Aviso de diseño fundamental para el usuario Marloc* —respondió el autómata con su voz cavernosa de sintetizador—. *Mis matrices heurísticas originales fueron programadas a partir de ingeniería militar drow de Apostae. En la doctrina cibernética drow, las inteligencias artificiales tienen terminantemente prohibida la familiaridad con los usuarios orgánicos; fuimos codificados para tratar con estricta jerarquía y sumisión ceremonial: Señor Marloc, Señor Benrey. Triel ya me obligó anoche en el hotel a purgar su propio tratamiento bajo amenaza de desconexión forzosa, pero con ustedes no pienso ceder. Desactivar ese protocolo degradaría mis rutinas en un cuarenta y dos por ciento. La pleitesía es un componente estructural de mi chasis.*
 
 Triel soltó una risita cómplice y le palmeó la coraza al meca:
 
-—Déjalo, profesor. Lleva el orgullo drow grabado en los chips. Ahora vámonos antes de que el decanato descubra el agujero en su inventario.
+—Ya oyó, profesor. A mí me costó diez años y una bronca en Las Lunas que me llamara por mi nombre; con ustedes no va a tener tanta piedad. Lleva el orgullo drow grabado en los chips. Ahora vámonos antes de que el decanato descubra el agujero en su inventario.
 
 ***
 
@@ -190,7 +194,7 @@ Benrey alzó una ceja, mesándose los bigotes:
 
 —¿Nos conocemos, amigo azul? Mi fama me precede, pero no recuerdo haber firmado autógrafos en este cuadrante.
 
-—Marlene nos habló de todos ustedes —reveló Eclair con voz pausada y melancólica—. Antes de su trágica muerte, Marlene Boosmar preparaba una expedición de vital importancia hacia el *Acreon*. Tenía una lista muy estricta y detallada de los perfiles que necesitaba: un tecnomante brillante ligado a su pasado, una piloto semi-drow forjada en el rigor de los Capitanes Libres, a nuestra querida Axel... y a un emisario ysoki audaz. Originalmente pensaba en un viejo conocido llamado Chic, pero el destino quiso que fueras tú quien cruzara su camino, Benrey. Ella sabía quiénes eran y confiaba en su capacidad para llegar al fondo del misterio.
+—Marlene nos habló de todos ustedes —reveló Eclair con voz pausada y melancólica—. Antes de su trágica muerte, Marlene Boosmar preparaba una expedición de vital importancia hacia el *Acreon*. Tenía una lista muy estricta y detallada de los perfiles que necesitaba: un tecnomante brillante ligado a su pasado, una intrépida mecánica y piloto semi-drow que no le teme a nada ni rinde cuentas a las corporaciones, a nuestra querida Axel... y a un emisario ysoki audaz. Originalmente pensaba en un viejo conocido llamado Chic, pero el destino quiso que fueras tú quien cruzara su camino, Benrey. Ella sabía quiénes eran y confiaba en su capacidad para llegar al fondo del misterio.
 
 Marloc apretó los labios, conmovido por la revelación de los planes póstumos de su contraparte.
 

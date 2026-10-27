@@ -52,7 +52,7 @@ El estampido cinético del rifle retumbó en la estructura del mamparo. El proye
 
 Aprovechando el retroceso del monstruo, Gerty entró en acción. Con un rugido ensordecedor de sus actuadores hidráulicos sobrecargados, el meca de asalto avanzó como una aplanadora de cuatro brazos:
 
-—*¡Protocolo de protección para la señorita Triel y la tripulación activo!* —sintetizó el autómata con su voz de barítono—. *Impacto corrector inminente.*
+—*¡Protocolo de protección para Triel y la tripulación activo!* —sintetizó el autómata con su voz de barítono—. *Impacto corrector inminente.*
 
 Gerty levantó su bate de demolición pesada con ambos brazos superiores y descargó un golpe vertical demoledor. El descomunal impacto martilló de lleno en el cráneo de la aberración: *¡CRASH!* La cabeza del Akata estalló en mil pedazos bajo la fuerza titánica del golpe, esparciendo una lluvia torrencial de icor azul y fragmentos óseos que roció la pechera y el visor de Axel de pies a cabeza.
 

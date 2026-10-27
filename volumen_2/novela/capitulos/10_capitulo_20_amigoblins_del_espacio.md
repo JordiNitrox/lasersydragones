@@ -32,7 +32,7 @@ Mientras Naru agradecía el gesto, Willy ya se había deslizado a cuatro patas h
 
 Con un movimiento fluido de sus articulaciones secundarias, uno de los brazos inferiores del autómata descendió, atrapó a Willy por el cuello de su mono de vuelo y lo levantó en vilo en el aire como a un muñeco de trapo:
 
-—*Solicito autorización a la señorita Triel para desintegrar a este organismo invasor antes de que comprometa mi circuitería central.*
+—*Solicito autorización a Triel para desintegrar a este organismo invasor antes de que comprometa mi circuitería central.*
 
 —¡Willy, suelta eso y no toques mi robot! —reprendió Triel, arrebatándole el destornillador de un manotazo firme.
 

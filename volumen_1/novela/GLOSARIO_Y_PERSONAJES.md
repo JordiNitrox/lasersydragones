@@ -103,8 +103,8 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 
 ### Eclair
 - **Especie:** Androide.
-- **Rol:** Activista por los derechos sintéticos y amiga íntima de A.Xel 42 y Marlene Boosmar.
-- **Rasgos:** Androide sensible de cabello azul cobalto e iris dorados. Enlace clave entre los círculos clandestinos de la estación y la memoria de Marlene, preocupada por la radicalización del Frente de Liberación Androide liderado por Null-9.
+- **Rol:** Activista por los derechos sintéticos y amigo íntimo de A.Xel 42 y Marlene Boosmar.
+- **Rasgos:** Androide veterano de piel azul noche, circuitos naranja dorado y mirada serena. Enlace clave entre los círculos clandestinos de la estación y la memoria de Marlene, preocupado por la radicalización del Frente de Liberación Androide liderado por Null-9.
 
 ### Ángela Boosmar
 - **Especie:** Humana.
@@ -117,13 +117,13 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 - Extravagante productor audiovisual, editor y representante de Benrey Galway en la Estación Absalón. Es quien despierta a Benrey en su camarote a través del comunicador personal con la primicia del regreso a la deriva del carguero *Acreon* y la pista para contactar con el intermediario Chic en el Anillo.
 
 ### Kallio
-- Francotirador profesional drow de sangre fría, asesino a sueldo de élite contratado en secreto por Extracciones Estelares para abatir a Marlene Boosmar en el Muelle 94.
+- Joven francotirador humano de pelo claro y rostro marcado, asesino a sueldo contratado por el enlace drow de Extracciones Estelares para abatir a Marlene Boosmar en el Muelle 94.
 
 ### Clamor Sambor
 - Enigmático y acaudalado magnate, propietario ausente de Inversiones Estelares S.C. Aunque nunca se muestra en persona, delega en Chiskisk la toma de decisiones estratégicas y la contratación del grupo como peritos independientes.
 
 ### Silo y Luigi
-- Habituales de las mesas clandestinas del Club 13. Silo es una ruda contrabandista humana de trenzas fucsia fosforescentes; Luigi es un viejo minero ysoki desdentado y experto en dados de plasma.
+- Habituales de las mesas clandestinas del Club 13. Silo es una operaria androide de ojos plateados y llamativo cabello trenzado rosa eléctrico perteneciente al Colectivo Hardscrabble; Luigi es un viejo minero ysoki desdentado y experto en dados de plasma.
 
 ### Syd Velch
 - **Rol:** Estrella del pop-metal y rock galáctico de los Mundos del Pacto (figura recurrente de la saga).
@@ -137,7 +137,7 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 Compañía corporativa y financiera de mediación con sede central en El Ojo de la Estación Absalón. Liderada por Chiskisk en representación del ausente Clamor Sambor, fue la entidad para la que trabajaba la investigadora Marlene Boosmar. Gestiona los procesos de arbitraje neutral sobre el litigio del carguero *Acreon* y contrata a los protagonistas como peritos independientes con cobertura legal y financiera ante las presiones de las grandes corporaciones.
 
 ### Extracciones Estelares (*Astral Extractions*)
-Poderosísima megacorporación minera y financiera interestelar con enormes explotaciones en el cinturón de asteroides de la Diáspora. Dirigida a nivel de relaciones públicas por portavoces como **Park Maryland II**, tras su pulcra fachada corporativa opera con métodos despiadados: contratación de sicarios drow (como Kallio), compra de jueces y sobornos a bandas callejeras para monopolizar la Roca del Drift.
+Poderosísima megacorporación minera y financiera interestelar con enormes explotaciones en el cinturón de asteroides de la Diáspora. Dirigida a nivel de relaciones públicas por portavoces como **Park Maryland II**, tras su pulcra fachada corporativa opera con métodos despiadados: contratación de sicarios encubiertos (como el francotirador humano Kallio, enviado por sus enlaces drow), compra de jueces y sobornos a bandas callejeras para monopolizar la Roca del Drift.
 
 ### Colectivo Hardscrabble
 Cooperativa y sindicato de mineros y transportistas independientes de la Diáspora, representados legalmente por delegados gremiales como **Anastasio Oryander**. Trabajadores espaciales rudos y autosuficientes, dueños legítimos del carguero *Acreon*, decididos a descubrir la verdad sobre sus camaradas desaparecidos y reclamar sus derechos de salvamento.

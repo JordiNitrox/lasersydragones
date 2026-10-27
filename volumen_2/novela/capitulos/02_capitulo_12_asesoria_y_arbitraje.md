@@ -72,7 +72,7 @@ Con un chispazo limpio de soldadura, los nuevos actuadores cobraron vida. Los cu
 
 Gerty alzó sus flamantes manos adicionales, observándolas con detenimiento a través de su cúpula transparente. Flexionó los dedos en una secuencia rítmica y luego miró a Triel:
 
-—*Evaluación de funcionalidad: dedos articulados operativos. Ausencia de tejido epidérmico: altamente eficiente. Deme esos cinco, señorita Triel.*
+—*Evaluación de funcionalidad: dedos articulados operativos. Ausencia de tejido epidérmico: altamente eficiente. Deme esos cinco, Triel.*
 
 Triel chocó su mano abierta contra los fríos dedos de aleación del dron, sonriendo de oreja a oreja.
 
