@@ -56,9 +56,9 @@ El tecnomante limpió el barro de las inscripciones con devoción arqueológica:
 
 —Miren esto... Halkueth tenía razón. Aquí están grabados los destinos de la antigua red de caminos sagrados de Castrovel.
 
-Triel y Benray se acercaron para contemplar los glifos iluminados por la linterna de Marloc.
+Triel y Benrey se acercaron para contemplar los glifos iluminados por la linterna de Marloc.
 
-—¿Qué dice exactamente, Boosmar? —preguntó Benray, sentándose sobre una raíz con la cantimplora en la mano.
+—¿Qué dice exactamente, Boosmar? —preguntó Benrey, sentándose sobre una raíz con la cantimplora en la mano.
 
 —Indica cuatro estaciones sucesivas a lo largo de este eje geográfico —leyó Marloc, señalando las columnas rúnicas—: *«Loskialua... Monasterio de la Canción Estelar... Embajada de las Esferas... y el Templo de los Doce»*. Todo apunta hacia el norte, ascendiendo por las estribaciones de la Cordillera Cantante.
 
@@ -66,13 +66,13 @@ La noche cayó de golpe sobre la selva, como suele ocurrir bajo los densos dosel
 
 El grupo montó su campamento bajo el abrigo de unos peñascos ancestrales, activando un perímetro de sensores sónicos y camuflando la entrada con lonas térmicas.
 
-Alrededor del suave brillo de una lámpara de campamento, Benray observaba las estrellas que se vislumbraban entre los escasos claros de las copas de los árboles:
+Alrededor del suave brillo de una lámpara de campamento, Benrey observaba las estrellas que se vislumbraban entre los escasos claros de las copas de los árboles:
 
 —Estación Absalón... la Diáspora... Apostae... —murmuró el ysoki con una melancolía impropia de su carácter burlón—. Estamos muy lejos de casa, muchachos. Si alguien me hubiera dicho hace dos meses, cuando estaba corriendo en motoneta por los muelles de la Espiga, que terminaría acampando en la jungla más peligrosa de Castrovel buscando un templo de doce soles prehistóricos, le habría escupido en el vaso.
 
 Triel sonrió levemente, limpiando con esmero una válvula de refrigeración de Gerty:
 
-—Al menos aquí los problemas son claros, Benray. En las ciudades la gente te sonríe mientras te clava un puñal corporativo por la espalda. En Ukulam, si algo quiere devorarte, viene de frente con doce tentáculos y una boca llena de dientes. Prefiero a la planta carnívora antes que a los burócratas de Extracciones Estelares.
+—Al menos aquí los problemas son claros, Benrey. En las ciudades la gente te sonríe mientras te clava un puñal corporativo por la espalda. En Ukulam, si algo quiere devorarte, viene de frente con doce tentáculos y una boca llena de dientes. Prefiero a la planta carnívora antes que a los burócratas de Extracciones Estelares.
 
 Axel permanecía sentada en el borde del campamento, con los sensores calibrados hacia la negrura de la espesura. En su pantalla interna, el mapa holográfico de Ukulam parpadeaba en silencio:
 

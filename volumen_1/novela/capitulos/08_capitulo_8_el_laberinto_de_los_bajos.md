@@ -4,7 +4,7 @@ La mañana en la Estación Absalón no trajo sol, sino un leve cambio en la frec
 
 En la pequeña cafetería automatizada del hotel de tránsito donde habían pasado la noche —financiada con los créditos arrancados a los tahúres del *Club 13*—, los cuatro supervivientes contemplaban sus platos con diferentes grados de entusiasmo y desdicha.
 
-Benray Galway tenía la cabeza apoyada directamente sobre la formica de la mesa, cubriéndose los ojos con una servilleta de papel grasienta. El ysoki gemía cada vez que la cafetera automática emitía un siseo de vapor.
+Benrey Galway tenía la cabeza apoyada directamente sobre la formica de la mesa, cubriéndose los ojos con una servilleta de papel grasienta. El ysoki gemía cada vez que la cafetera automática emitía un siseo de vapor.
 
 —Si algún día vuelvo a mezclar licor de queroseno de Liavara con cerveza de malta enana, denme un tiro con una pistola de plasma en la rodilla —balbuceó con la voz pastosa—. Me desperté con el colchón encima de la espalda y juraría que mi cráneo ha sido reconfigurado por un martillo de demolición.
 
@@ -52,7 +52,7 @@ La piloto activó el encendido. El motor rugió con un aullido limpio, potente y
 
 —¡Por los dioses del vacío! —exclamó la chica, con los ojos como platos—. ¡Esto suena mejor que cuando salió de fábrica! Te debo una enorme, mecánica. Oye... si vais hacia el *Club Con-Fusión*, anden con mucho cuidado. La jefa Ferani está intratable.
 
-—¿Algún motivo especial? —preguntó Benray con su tono más inocente.
+—¿Algún motivo especial? —preguntó Benrey con su tono más inocente.
 
 —Hace cuatro días vino una comitiva pesada desde los niveles superiores —reveló la corredora en voz baja—. Un emisario de la raza drow, vestido como un príncipe de corporación, con escolta armada. Se encerró con Ferani en su despacho privado durante horas para cerrar un trato sucio. Desde entonces, los Reyes del Nivel 21 andan armados hasta los dientes con equipo militar de fuera.
 
@@ -72,13 +72,13 @@ Avanzaron cien metros más hasta detenerse en una bifurcación protegida antes d
 
 —Cambio de planes. No podemos asaltar a tiros un club nocturno repleto de cincuenta pandilleros borrachos. Pero si la Casa Istrav estuvo aquí negociando tratos de armas, usaremos su propia soberbia contra ellos: entraremos por la puerta grande.
 
-Benray ladeó la cabeza, frotándose los bigotes con curiosidad:
+Benrey ladeó la cabeza, frotándose los bigotes con curiosidad:
 
 —¿Y cuál es la jugada magistral, jefa?
 
 —Yo seré la **Señorita Istrav** —explicó Triel, bajándose el cuello de la chaqueta para lucir su porte aristocrático con altivez helada—. Una noble drow de Apostae enviada para supervisar el cumplimiento del contrato con Ferani Nadaz. En la sociedad de mi planeta, las mujeres drow ostentan el poder absoluto y nadie se atreve a cuestionar sus órdenes. Pero una dama de mi alcurnia no se rebaja a hablar directamente con matones callejeros... necesito un portavoz diplomático.
 
-—¡Ese es mi momento estelar! —exclamó Benray, inflándose como un pavo real y alisándose las solapas de la gabardina—. La diplomacia, la alta alcurnia y el protocolo roedor son mi especialidad absoluta. Yo hablaré en su ilustre nombre, mi señora.
+—¡Ese es mi momento estelar! —exclamó Benrey, inflándose como un pavo real y alisándose las solapas de la gabardina—. La diplomacia, la alta alcurnia y el protocolo roedor son mi especialidad absoluta. Yo hablaré en su ilustre nombre, mi señora.
 
 —Bien. Y ustedes dos —dijo Triel volviéndose hacia Marloc y A.Xel— serán mi escolta de seguridad privada. Pónganse gafas oscuras, mantengan la boca cerrada y proyecten la actitud más letal y despiadada que puedan fingir.
 
@@ -90,7 +90,7 @@ Triel no pudo contener una sonrisa nerviosa:
 
 —Cruza las manos a la espalda, mantén el mentón alto y no pestañees. Y si nos preguntan a quién representamos, diremos que venimos de parte de mi pariente corporativo: **Julio Istrav**. ¿Listos para el espectáculo?
 
-—Nací listo para el teatro, señorita Istrav —guiñó Benray con picardía.
+—Nací listo para el teatro, señorita Istrav —guiñó Benrey con picardía.
 
 Gerty avanzó un paso, haciendo crujir sus servos pesados:
 

@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Duelo a muerte en el puente de mando. Con el apoyo coordinado de Zivok, Triel, Axel y Gerty, Benray abate personalmente al comandante espectral con un disparo directo al núcleo de alma.
+Duelo a muerte en el puente de mando. Con el apoyo coordinado de Zivok, Triel, Axel y Gerty, Benrey abate personalmente al comandante espectral con un disparo directo al núcleo de alma.
 
 ---
 

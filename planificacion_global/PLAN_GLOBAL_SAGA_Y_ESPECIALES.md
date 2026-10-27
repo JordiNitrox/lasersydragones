@@ -54,7 +54,7 @@ Todos los episodios que no pertenecen a la campaña principal de *Starfinder* ha
 * **Episodios:** 73 al 76 (primera mitad).
 * **Sistema de Juego:** *Pathfinder 2e* dentro del universo de Starfinder.
 * **Trama:** Aventura de Halloween donde la tripulación se sumerge en una cámara de inmersión virtual en la Estación Ábsalon (*«Aventuras en Viejo Golarion»* de la corporación EPIX).
-* **Personajes Cómicos:** Benray como la rana druida *Isopi Flower*, Marloc como el orco *Valor con Bigote Sangrienta*, Axel como la leshy *Pastinaxcel 42* y Triel como la mutante *Monstruo*.
+* **Personajes Cómicos:** Benrey como la rana druida *Isopi Flower*, Marloc como el orco *Valor con Bigote Sangrienta*, Axel como la leshy *Pastinaxcel 42* y Triel como la mutante *Monstruo*.
 
 ---
 
@@ -157,7 +157,7 @@ graph TD
 * **Episodios:** 136 al 147 (12 episodios / ~12 capítulos).
 * **Mapeo:** *Arco Canónico Propio: La Nave Fantasma Eoxiana (Parte 1)*.
 * **Notas de Mesa:** Juan Pablo da descanso temporal a Marloc e introduce al operativo enano **Zivok**. Roberto gestiona a Marloc como PNJ.
-* **Sinopsis:** A bordo del destartalado carguero familiar *La Galway*, Benray se reúne con parientes de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Sin embargo, la travesía se interrumpe drásticamente al hallar un pecio colosal eoxiano de kilómetros de longitud en el vacío (*El Corazón de la Oscuridad*). La tripulación aborda el navío óseo, enfrentándose a las primeras trampas mortales y espectros no-muertos de la Flota de los Cuerpos.
+* **Sinopsis:** A bordo del destartalado carguero familiar *La Galway*, Benrey se reúne con parientes de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Sin embargo, la travesía se interrumpe drásticamente al hallar un pecio colosal eoxiano de kilómetros de longitud en el vacío (*El Corazón de la Oscuridad*). La tripulación aborda el navío óseo, enfrentándose a las primeras trampas mortales y espectros no-muertos de la Flota de los Cuerpos.
 
 #### 👻 VOLUMEN 13: *La Odisea de La Galway II: El Laberinto de los Lovelorn* (Episodios 148 al 162)
 * **Episodios:** 148 al 162 (15 episodios / ~14 capítulos).
@@ -232,7 +232,7 @@ La grandeza de esta campaña radica en la genialidad creativa compartida entre e
 
 ### 🐀 GIRO 3: El Clan Galway y el Crucero Fantasma (Vol. 12 y 13)
 * **Naturaleza del Giro:** De comedia familiar ysoki a auténtico horror psicológico espacial.
-* **Contexto:** Lo que comienza como una reunión disfuncional con los primos y tíos de Benray (Yolmar, Valentina, Gazit, Rinrey) a bordo de *La Galway*, se transforma en una pesadilla claustrofóbica al toparse con el pecio eoxiano a la deriva.
+* **Contexto:** Lo que comienza como una reunión disfuncional con los primos y tíos de Benrey (Yolmar, Valentina, Gazit, Rinrey) a bordo de *La Galway*, se transforma en una pesadilla claustrofóbica al toparse con el pecio eoxiano a la deriva.
 * **Ejecución Literaria:** El asedio de los Lovelorn, las toxinas alucinógenas y el enfrentamiento contra dobles espectrales (*Axel vs Axel*, *Benrey vs Benrey*) ponen a prueba la cordura del grupo y demuestran la valentía inquebrantable de los ysoki.
 
 ### ⚓ GIRO 4: La Deriva, Keiden Ashton y el Legado Pirata de Besmara (Vol. 16 y 17)

@@ -8,7 +8,7 @@ Allí, el Capitán De Bonet sirvió a los recién llegados unos cuencos de metal
 
 —Tiene un regusto a queroseno bastante pronunciado —comentó Marloc tras un sorbo prudente—, pero químicamente es capaz de reactivar los electrolitos en menos de tres minutos.
 
-—A caballo regalado no se le mira el reactor, profesor —replicó Benray, apurando el cuenco con deleite y lamiéndose los bigotes chocolatados—. Ahora bien, capitán De Bonet, vayamos al meollo de este idilio selvático. ¿Qué hace un navío de los Capitanes Libres pudriéndose en los pantanos de Ukulam?
+—A caballo regalado no se le mira el reactor, profesor —replicó Benrey, apurando el cuenco con deleite y lamiéndose los bigotes chocolatados—. Ahora bien, capitán De Bonet, vayamos al meollo de este idilio selvático. ¿Qué hace un navío de los Capitanes Libres pudriéndose en los pantanos de Ukulam?
 
 De Bonet suspiró, sacudiéndose las plumas del cuello con un movimiento resignado.
 
@@ -38,7 +38,7 @@ Ila, la francotiradora pirata, observó la trayectoria a través de sus prismát
 
 —¡Cielos santos! —exclamó con la voz quebrada—. ¡No son contrabandistas! ¡Son cápsulas de descenso rápido de la Legión del Cielofuego! ¡Vienen ocho pelotones de asalto!
 
-—¡¿Ocho?! —chilló Benray, dando un salto en el barro—. ¡¿Pero qué clase de motor les han mandado, De Bonet?! ¡¿Lleva platino sólido en las bujías o qué demonios robaron?!
+—¡¿Ocho?! —chilló Benrey, dando un salto en el barro—. ¡¿Pero qué clase de motor les han mandado, De Bonet?! ¡¿Lleva platino sólido en las bujías o qué demonios robaron?!
 
 —Bueno... —tartamudeó el capitán corsario, perdiendo por completo la compostura teatral mientras se le erizaban las plumas de la cabeza—, puede que el cargamento que mis muchachos interceptaron en los muelles de la Diáspora no fuera un simple excedente de piezas civiles... Puede que proviniera de un almacén clasificado de la flota de la Legión... que incluía sistemas de navegación táctica y computadoras de direccionamiento militar que ellos consideran... ligeramente confidenciales.
 
@@ -60,6 +60,6 @@ El tecnomante extendió su brazo cibernético hacia el suelo enfangado que rodea
 
 Una película de grasa translúcida, densa y de fricción molecular prácticamente nula, cubrió el barro a lo largo de una pista de cincuenta metros cuesta abajo. Con Gerty tirando de los cables de acero con su tracción pesada y los piratas empujando por los flancos, el colosal bloque del reactor se deslizó sobre el lodazal como si fuera un trineo de hielo, bajando la pendiente a gran velocidad hacia el campamento oculto de *La Furia*.
 
-—¡Funciona! —celebró Benray, patinando sobre el lodo mientras guiaba una de las cinchas de sujeción—. ¡El Motor del Sabor viaja en primera clase!
+—¡Funciona! —celebró Benrey, patinando sobre el lodo mientras guiaba una de las cinchas de sujeción—. ¡El Motor del Sabor viaja en primera clase!
 
 Sin embargo, a lo lejos, el eco de turbinas atmosféricas y el aullido sordo de disparos de reconocimiento de la Legión comenzaron a quebrar la quietud de la selva. El reactor estaba a salvo, pero la cacería acababa de comenzar.

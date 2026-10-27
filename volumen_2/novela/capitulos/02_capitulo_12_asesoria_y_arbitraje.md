@@ -10,13 +10,13 @@ Chiskisk, el directivo shirren de Inversiones Estelares S.C., se acomodó en su 
 
 A un lado del despacho, apoyado con insolente elegancia contra una vitrina de artefactos antiguos, el abogado Kaerom ajustaba el nudo de su corbata de piel de serpiente sobre la pechera escamada.
 
-—En esta estación, mis queridos amigos, un buen abogado es más letal que un cañón de riel —declaró el letrado vesk, extendiendo una tarjeta holográfica dorada hacia Benray—. *Kaerom y Asociados: Destruya a sus oponentes en el jurado*. Tienen un diez por ciento de descuento si mencionan este tiroteo en su próxima consulta. Si alguna vez necesitan demandar a un consorcio minero por estrés postraumático o reclamar una indemnización por pérdida de equipaje en el Drift, soy su hombre.
+—En esta estación, mis queridos amigos, un buen abogado es más letal que un cañón de riel —declaró el letrado vesk, extendiendo una tarjeta holográfica dorada hacia Benrey—. *Kaerom y Asociados: Destruya a sus oponentes en el jurado*. Tienen un diez por ciento de descuento si mencionan este tiroteo en su próxima consulta. Si alguna vez necesitan demandar a un consorcio minero por estrés postraumático o reclamar una indemnización por pérdida de equipaje en el Drift, soy su hombre.
 
 El abogado vesk dirigió su mirada reptiliana hacia Axel, relamiéndose los colmillos con satisfacción procesal:
 
 —Y para usted, señorita androide, tengo excelentes noticias procesales. Dado que carece por completo de documentos de identidad civil expedidos por la estación o el Pacto, la fiscalía policial tardará entre seis y diez años en determinar qué juzgado tiene competencia sobre su chasis. En los Mundos del Pacto, no tener papeles es el mejor escudo contra las multas.
 
-Benray tomó la tarjeta con dos dedos y la examinó con fingida reverencia antes de guardarla en su bolsillo junto a las provisiones rescatadas del bufé:
+Benrey tomó la tarjeta con dos dedos y la examinó con fingida reverencia antes de guardarla en su bolsillo junto a las provisiones rescatadas del bufé:
 
 —Me gusta su estilo, doctor. Aunque espero no tener que contratarlo para defenderme de un pelotón de fusilamiento.
 
@@ -104,6 +104,6 @@ Axel guardó la pistola en la funda del muslo con un chasquido suave y se puso e
 
 —Los androides no poseemos vínculos familiares biológicos, Triel. Pero la tripulación que comparte el fuego de combate adquiere una equivalencia relacional semejante. Si decides viajar a la Diáspora, calcularé las mejores rutas para mantenerte con vida.
 
-Triel esbozó una sonrisa agradecida justo cuando Marloc y Benray entraban al taller con el mapa holográfico de la Estación Absalón desplegado en sus terminales.
+Triel esbozó una sonrisa agradecida justo cuando Marloc y Benrey entraban al taller con el mapa holográfico de la Estación Absalón desplegado en sus terminales.
 
 —Descanso terminado, equipo —anunció Marloc, ajustándose el gabán—. Ya es casi mediodía. Las aulas del Arcanamirium están abiertas y la pista sobre los experimentos de Marlene nos espera en la academia. Es hora de descubrir qué secretos ocultaba la investigadora antes de morir.

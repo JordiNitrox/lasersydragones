@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Encuentro con el comandante no-muerto que lideró la masacre del clan Galway. El oficial se burla del dolor de Benray, desatando la cólera implacable del emisario ysoki.
+Encuentro con el comandante no-muerto que lideró la masacre del clan Galway. El oficial se burla del dolor de Benrey, desatando la cólera implacable del emisario ysoki.
 
 ---
 
@@ -18,7 +18,7 @@ Encuentro con el comandante no-muerto que lideró la masacre del clan Galway. El
 #### II. La Sonrisa Cínica del Muerto
 <!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
 
-#### III. El Desafío a Muerte de Benray
+#### III. El Desafío a Muerte de Benrey
 <!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
 
 <!-- Escribir el texto novelado completo aquí siguiendo la transcripción limpia correspondiente -->

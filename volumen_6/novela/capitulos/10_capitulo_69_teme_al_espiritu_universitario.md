@@ -6,7 +6,7 @@ Sin embargo, en cuanto pusieron un pie en el piso veintiocho —la planta ejecut
 
 Atrás quedaban las paredes de hormigón y los cables vistos de las zonas de mantenimiento. Ante ellos se abría un salón de recepción colosal, revestido de mármol negro veteado en oro, con techos de doble altura iluminados por lámparas de cristal de suspensión cuántica. En las paredes colgaban lienzos de arte abstracto de cotización astronómica, y en el centro exacto de la sala destacaba una escultura metálica retorcida que parecía un repollo cromado de dos metros de altura, junto a un majestuoso piano de cola de madera noble lustrada que resplandecía bajo los focos de diseño.
 
-—Vaya con el gusto de la señorita Joss —murmuró Benray, asomando el hocico desde el quicio de la puerta de servicio—. Tanto dinero en la cuenta corriente y se gasta los cuartos en una lechuga de titanio y un piano de madera de hace tres siglos. Se nota que las corporaciones no tienen alma, pero les sobra el presupuesto decorativo.
+—Vaya con el gusto de la señorita Joss —murmuró Benrey, asomando el hocico desde el quicio de la puerta de servicio—. Tanto dinero en la cuenta corriente y se gasta los cuartos en una lechuga de titanio y un piano de madera de hace tres siglos. Se nota que las corporaciones no tienen alma, pero les sobra el presupuesto decorativo.
 
 —Silencio —advirtió Axel, cuyos fotorreceptores acababan de detectar una fluctuación anómala en los sensores térmicos del balcón superior—. Hay movimiento en las galerías elevadas. Tres patrulleros armados y una unidad autómata pesada.
 
@@ -18,11 +18,11 @@ El estruendo de un fusil automático desgarró la serenidad del salón. Una ráf
 
 —¡A cubierto! —gritó Bumak, rodando por el suelo con agilidad felina y desenfundando un par de pistolas láser compactas con las que respondió al fuego hacia el balcón superior.
 
-Dos guardias corporativos con uniformes tácticos oscuros y cascos cerrados descendieron a la carrera por la escalinata lateral, parapetándose tras la sólida estructura del piano de cola. Desde allí, comenzaron a abrir fuego cruzado contra la posición de Triel y Benray.
+Dos guardias corporativos con uniformes tácticos oscuros y cascos cerrados descendieron a la carrera por la escalinata lateral, parapetándose tras la sólida estructura del piano de cola. Desde allí, comenzaron a abrir fuego cruzado contra la posición de Triel y Benrey.
 
 Las balas y los rayos de plasma impactaron de lleno contra el instrumento musical. Cada impacto perforaba la madera noble, rompiendo cuerdas interiores que emitían notas discordantes, agudas y lúgubres que resonaban en la sala como la banda sonora de un concierto surrealista: un acorde menor quebrado por un silbido de plasma, seguido de un chirrido de metal desgarrado.
 
-—¡Están arruinando una obra de arte acústica! —protestó Benray, agachado tras la base de la escultura metálica mientras las balas rebotaban sobre el titanio con chasquidos ensordecedores—. ¡Ese piano merecía un réquiem más digno!
+—¡Están arruinando una obra de arte acústica! —protestó Benrey, agachado tras la base de la escultura metálica mientras las balas rebotaban sobre el titanio con chasquidos ensordecedores—. ¡Ese piano merecía un réquiem más digno!
 
 —¡Menos crítica musical y más cobertura, señor Galway! —bramó Marloc, asomándose tras una columna de mármol.
 

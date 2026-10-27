@@ -14,7 +14,7 @@ Una lashunta fornida en primera fila alzó su espada rúnica al aire profiriendo
 
 —Aprovechemos el desorden académico —susurró Marloc, alzando el mentón con ademán distinguido mientras alisaba las solapas de su gabán—. Actúen con naturalidad. Si alguien pregunta, somos miembros de la comisión evaluadora de tecnomagia aplicada.
 
-Benray enderezó la espalda de inmediato, estiró el cuello y comenzó a caminar con una rigidez cómica, imitando el porte solemne de Marloc con las manos cruzadas a la espalda y los bigotes tiesos. A su lado, Gerty marchaba marcando el paso con sus cuatro brazos perfectamente pegados a los costados, mientras en su cúpula proyectaba un icono holográfico de un libro abierto con una lechuza sabia.
+Benrey enderezó la espalda de inmediato, estiró el cuello y comenzó a caminar con una rigidez cómica, imitando el porte solemne de Marloc con las manos cruzadas a la espalda y los bigotes tiesos. A su lado, Gerty marchaba marcando el paso con sus cuatro brazos perfectamente pegados a los costados, mientras en su cúpula proyectaba un icono holográfico de un libro abierto con una lechuza sabia.
 
 —*Activando subrutina de camuflaje intelectual* —anunció el meca en un susurro metálico—. *Probabilidad de que el cuerpo docente nos confunda con eruditos de la Sorbona interestelar: once por ciento. Probabilidad de que noten que el roedor lleva croquetas en los bolsillos: noventa y nueve por ciento.*
 
@@ -28,7 +28,7 @@ Desde una de las aulas abiertas contiguas, resonó una melodía acuática desent
 
 —Es el conserje —susurró Axel, extrayendo una aguja de derivación sintética—. Puedo aproximarme en silencio absoluto y sustraer el pase sin causar daño biológico.
 
-—Espera, operativa —la frenó Benray, componiendo su mejor sonrisa de diplomático galáctico—. A veces la lengua es más rápida que los dedos. Observa y aprende.
+—Espera, operativa —la frenó Benrey, componiendo su mejor sonrisa de diplomático galáctico—. A veces la lengua es más rápida que los dedos. Observa y aprende.
 
 El ysoki entró al aula con paso resuelto, carraspeó con elegancia y saludó con una reverencia teatral:
 
@@ -38,7 +38,7 @@ El conserje alienígena dio un brinco, se bajó los auriculares hacia el cuello 
 
 —¿Eh? ¿Profesor...? Ah, disculpe, con la música submarina a todo volumen casi no escucho las vibraciones del aire. ¿Necesita algo el claustro docente?
 
-—Un pequeño percance con los campos estáticos del Ojo, estimado Richie —explicó Benray con ademán compungido, señalando a Marloc—. La tarjeta del distinguido doctor Boosmar ha sufrido una desmagnetización accidental justo cuando nos dirigíamos a cotejar unos registros urgentes en el archivo. ¿Sería tan amable de franquearnos el paso con su llave maestra? El decanato estará sumamente complacido con su diligencia.
+—Un pequeño percance con los campos estáticos del Ojo, estimado Richie —explicó Benrey con ademán compungido, señalando a Marloc—. La tarjeta del distinguido doctor Boosmar ha sufrido una desmagnetización accidental justo cuando nos dirigíamos a cotejar unos registros urgentes en el archivo. ¿Sería tan amable de franquearnos el paso con su llave maestra? El decanato estará sumamente complacido con su diligencia.
 
 El conserje miró el imponente porte de Marloc, el brazo cibernético repleto de conductores arcanos y la mole de Gerty haciendo guardia en el pasillo, y asintió complacido:
 
@@ -66,7 +66,7 @@ Triel se acercó en silencio y apoyó una mano en el hombro de Marloc.
 
 El tecnomante se arrodilló junto a la papelera metálica derribada y comenzó a examinar el forro interior del cesto de reciclaje. Oculto tras una doble pestaña de cartón sintético, extrajo un pequeño recibo de despacho impreso en papel carbón autocalcográfico, arrugado pero perfectamente legible.
 
-Benray y Axel se inclinaron sobre su hombro para leerlo.
+Benrey y Axel se inclinaron sobre su hombro para leerlo.
 
 —Es un comprobante de requisición interna de los almacenes subterráneos —leyó Marloc, con los ojos brillando de intensa fascinación—. Fechado exactamente veinticuatro horas antes de que Marlene fuera asesinada... y un día antes de que yo despertara en el suelo del aula diecisiete.
 
@@ -106,7 +106,7 @@ Una distorsión espacial sacudió el cuerpo del tecnomante. Por un instante ater
 
 La esfera emitió un chasquido sónico, sus luces se apagaron y descendió suavemente sobre la base de goma, fría e inerte.
 
-Benray ayudó a Marloc a ponerse en pie mientras Axel le alcanzaba un pañuelo para limpiar la sangre:
+Benrey ayudó a Marloc a ponerse en pie mientras Axel le alcanzaba un pañuelo para limpiar la sangre:
 
 —Profesor... por los bigotes de mi abuela, creí que se desintegraba en el éter. ¿Qué demonios ha visto?
 
@@ -124,7 +124,7 @@ Con la esfera de Qabarat custodiada en el equipo del tecnomante, las investigaci
 
 ### IV. La taberna de los mineros y el tránsito de Eclair
 
-Antes de regresar al hotel para asegurar la esfera, necesitaban un lugar ruidoso y concurrido donde perderse de la vista de los escáneres policiales. Siguiendo el instinto de Benray, descendieron hacia una populosa cantina de obreros y técnicos navales situada en la frontera entre el Ojo y los muelles del Anillo.
+Antes de regresar al hotel para asegurar la esfera, necesitaban un lugar ruidoso y concurrido donde perderse de la vista de los escáneres policiales. Siguiendo el instinto de Benrey, descendieron hacia una populosa cantina de obreros y técnicos navales situada en la frontera entre el Ojo y los muelles del Anillo.
 
 El local olía a cerveza fermentada de algas, ozono de consolas y tabaco espacial. En una esquina apartada sobre una tarima elevada, un imponente dragón de escamas cobrizas fumaba en una pipa de cristal alienígena que expulsaba volutas de humo violeta, mientras su socio psíquico cerraba tratos en voz baja con comerciantes locales. Por doquier, mineros fuera de turno se agolpaban en torno a terminales de realidad virtual y simuladores de combate naval entre risas y apuestas en créditos.
 
@@ -164,19 +164,19 @@ Triel parpadeó dos veces, sintiendo que sus orejas puntiagudas se encendían de
 
 —Clara 247 —se presentó la androide con una sonrisa lánguida y seductora, cruzando las piernas—. Un auténtico placer para la vista, Triel. Yo solo pasaba a disfrutar del espectáculo habitual de Null-9. Ya saben cómo se pone cuando los orgánicos respiran demasiado cerca.
 
-Marloc y Benray se acercaron a la mesa con curiosidad.
+Marloc y Benrey se acercaron a la mesa con curiosidad.
 
 —Disculpe, señor Eclair —intervino Marloc con su cortesía habitual—. Hemos presenciado la tensión con su compañera. ¿Sucedió algo grave?
 
 Eclair suspiró, entrelazando sus dedos metálicos sobre la mesa:
 
-—Null-9 no acepta mis decisiones, profesor Boosmar. Porque usted es Marloc Boosmar, ¿verdad? Y el caballero del pelaje elegante es el señor Benray Galway.
+—Null-9 no acepta mis decisiones, profesor Boosmar. Porque usted es Marloc Boosmar, ¿verdad? Y el caballero del pelaje elegante es el señor Benrey Galway.
 
-Benray alzó una ceja, mesándose los bigotes:
+Benrey alzó una ceja, mesándose los bigotes:
 
 —¿Nos conocemos, amigo azul? Mi fama me precede, pero no recuerdo haber firmado autógrafos en este cuadrante.
 
-—Marlene nos habló de todos ustedes —reveló Eclair con voz pausada y melancólica—. Antes de su trágica muerte, Marlene Boosmar preparaba una expedición de vital importancia hacia el *Acreon*. Tenía una lista muy estricta y detallada de los perfiles que necesitaba: un tecnomante brillante ligado a su pasado, una piloto semi-drow forjada en el rigor de los Capitanes Libres, a nuestra querida Axel... y a un emisario ysoki audaz. Originalmente pensaba en un viejo conocido llamado Chic, pero el destino quiso que fueras tú quien cruzara su camino, Benray. Ella sabía quiénes eran y confiaba en su capacidad para llegar al fondo del misterio.
+—Marlene nos habló de todos ustedes —reveló Eclair con voz pausada y melancólica—. Antes de su trágica muerte, Marlene Boosmar preparaba una expedición de vital importancia hacia el *Acreon*. Tenía una lista muy estricta y detallada de los perfiles que necesitaba: un tecnomante brillante ligado a su pasado, una piloto semi-drow forjada en el rigor de los Capitanes Libres, a nuestra querida Axel... y a un emisario ysoki audaz. Originalmente pensaba en un viejo conocido llamado Chic, pero el destino quiso que fueras tú quien cruzara su camino, Benrey. Ella sabía quiénes eran y confiaba en su capacidad para llegar al fondo del misterio.
 
 Marloc apretó los labios, conmovido por la revelación de los planes póstumos de su contraparte.
 
@@ -204,6 +204,6 @@ Era un sobre fabricado en **un papel tan negro y denso como el vacío interestel
 
 *«Se solicita formalmente la presencia de los mediadores independientes ante Su Excelencia Gevalarsk Nor, Embajador Plenipotenciario de Eox en los Mundos del Pacto.»*
 
-Benray sostuvo la misiva bajo la luz mortecina de los faroles callejeros, tragando saliva con evidente inquietud:
+Benrey sostuvo la misiva bajo la luz mortecina de los faroles callejeros, tragando saliva con evidente inquietud:
 
 —Bueno, muchachos... Los muertos nos invitan a cenar. Esperemos que en el menú no estemos nosotros.

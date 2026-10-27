@@ -2,7 +2,7 @@
 
 ### I. Duelo en baja gravedad
 
-El rayo láser del francotirador cortó el vacío en un silencio absoluto, fundiendo una costra de metal negro a escasos centímetros de las botas de Benray Galway. En el asteroide K-9204, sin atmósfera que transmitiese el trueno de la detonación, la muerte viajaba como una línea de luz roja invisible hasta el impacto.
+El rayo láser del francotirador cortó el vacío en un silencio absoluto, fundiendo una costra de metal negro a escasos centímetros de las botas de Benrey Galway. En el asteroide K-9204, sin atmósfera que transmitiese el trueno de la detonación, la muerte viajaba como una línea de luz roja invisible hasta el impacto.
 
 —¡Fuego de precisión a cuarenta pies de altura! —transmitió Triel por el canal cerrado del intercomunicador, arrojándose de espaldas tras una roca de basalto—. ¡Está en la cima de la cornisa este!
 
@@ -23,9 +23,9 @@ Marloc no se quedó atrás. El tecnomante pronunció un encantamiento de invisib
 
 Desesperado ante la acometida del dron y el fuego cruzado, el sarcesiano desplegó su arma biológica más formidable: de sus omóplatos brotaron dos gigantescas alas de luz solar pura, apéndices fotónicos translúcidos de radiación dorada que recogían el viento cósmico. Impulsándose en el vacío, el gigante alzó el vuelo, flotando en el centro del desfiladero a quince metros del suelo rocoso mientras giraba en el aire para acribillar la cobertura de Triel y Axel.
 
-—¡No dejen que maniobre! —chilló Benray desde el fondo del valle, arrastrándose por el suelo hasta asomar su pistola láser—. ¡Triel, concéntrate! ¡Recuerda el sable de tu padre y dale con todo!
+—¡No dejen que maniobre! —chilló Benrey desde el fondo del valle, arrastrándose por el suelo hasta asomar su pistola láser—. ¡Triel, concéntrate! ¡Recuerda el sable de tu padre y dale con todo!
 
-El disparo de supresión de Benray golpeó las alas de luz del sarcesiano, desestabilizando su sustentación en el vacío. Triel aprovechó la ventana táctica: sincronizó la mira de su carabina sobrecargada y disparó. El haz de plasma perforó el costado del tirador aéreo. Acto seguido, Marloc emergió de su invisibilidad en la cornisa, extendiendo la palma abierta: tres proyectiles mágicos de energía púrpura surgieron de sus dedos, curvándose en el espacio hasta impactar de lleno en el pecho del gigante.
+El disparo de supresión de Benrey golpeó las alas de luz del sarcesiano, desestabilizando su sustentación en el vacío. Triel aprovechó la ventana táctica: sincronizó la mira de su carabina sobrecargada y disparó. El haz de plasma perforó el costado del tirador aéreo. Acto seguido, Marloc emergió de su invisibilidad en la cornisa, extendiendo la palma abierta: tres proyectiles mágicos de energía púrpura surgieron de sus dedos, curvándose en el espacio hasta impactar de lleno en el pecho del gigante.
 
 Las alas de fotones parpadearon y se apagaron de golpe. El sarcesiano se precipitó en caída libre en la baja gravedad, estrellándose contra los peñascos del fondo del barranco con un chasquido fatal de vértebras rotas.
 
@@ -48,10 +48,10 @@ Triel y Axel se asomaron a las hojas. Los párrafos iniciales daban paso a frase
 
 —Estaba perdiendo el juicio —murmuró Triel con un escalofrío—. O algo se lo estaba arrebatando.
 
-A escasos metros, cerca de la pared del cañón donde Benray se había cubierto durante el tiroteo, el ysoki husmeaba entre un montículo de escombros metálicos. Con la punta de su bota apartó unas lajas renegridas, soltando un bufido de alarma:
+A escasos metros, cerca de la pared del cañón donde Benrey se había cubierto durante el tiroteo, el ysoki husmeaba entre un montículo de escombros metálicos. Con la punta de su bota apartó unas lajas renegridas, soltando un bufido de alarma:
 —¡Oigan, médicos de a bordo! ¡Aquí hay otro fiambre! Y este no murió por un disparo láser.
 
-Marloc y Triel acudieron de inmediato. Medio enterrado bajo las esquirlas metálicas yacía el cuerpo momificado de un humano. Vestía túnicas oscuras bordadas con los siniestros espirales del Culto del Devorador y lucía un anillo de metal extraño en el dedo índice, que Benray no tardó en deslizar disimuladamente hacia su propio bolsillo tras comprobar que no emitía calor.
+Marloc y Triel acudieron de inmediato. Medio enterrado bajo las esquirlas metálicas yacía el cuerpo momificado de un humano. Vestía túnicas oscuras bordadas con los siniestros espirales del Culto del Devorador y lucía un anillo de metal extraño en el dedo índice, que Benrey no tardó en deslizar disimuladamente hacia su propio bolsillo tras comprobar que no emitía calor.
 
 Triel se inclinó sobre el torso del cadáver, limpiando el polvo con su bisturí de campo:
 —El tejido está disecado por el vacío, pero observen la caja torácica. Le falta media clavícula y parte del cuello. Es una mordedura colosal, de mandíbulas anchas y dientes aserrados.
@@ -59,7 +59,7 @@ Triel se inclinó sobre el torso del cadáver, limpiando el polvo con su bistur�
 Marloc ajustó sus escáneres biológicos, cotejando la marca ósea con los archivos de la fauna aberrante del Vasto:
 —Un Skreeg.
 
-Benray levantó las orejas bajo la escafandra:
+Benrey levantó las orejas bajo la escafandra:
 —¿Un qué? ¿Suena a marca de cerveza barata de Akiton?
 
 —Una aberración psíquica de tamaño colosal nativa del vacío profundo —explicó Marloc con gravedad—. Es un depredador capaz de camuflarse a la perfección entre las formaciones rocosas. Pero su arma más temible no son sus fauces: es su telepatía. Proyecta susurros coercitivos capaces de sugestionar a las mentes biológicas, desgastando su voluntad hasta convertirlas en marionetas dóciles. Eso explica el comportamiento del sarcesiano: no era un cultista del Devorador. Era un vigía mentalmente esclavizado por el monstruo para evitar que nadie se acercase a su cubil.
@@ -76,7 +76,7 @@ Triel enarcó las cejas con incredulidad:
 
 —Hubo una catástrofe aquí hace décadas —recordó Axel tras rastrear los anales mineros de la Diáspora en la base de datos de su procesador—. La corporación Murac Excavaciones operaba una refinería clandestina en este sector. Un carguero repleto de plata refinada sufrió una explosión catastrófica en sus reactores al intentar despegar. El metal fundido se vaporizó y llovió sobre toda la superficie del asteroide en una tormenta de esquirlas incandescentes. La compañía quebró por las bajas y abandonó las instalaciones mineras.
 
-—De modo que el culto se instaló en las ruinas de una mina maldita —concluyó Benray, ajustándose el cinturón—. Fantástico. Mineros muertos, fanáticos del fin del mundo y un monstruo gigante que habla en la cabeza. Las vacaciones ideales.
+—De modo que el culto se instaló en las ruinas de una mina maldita —concluyó Benrey, ajustándose el cinturón—. Fantástico. Mineros muertos, fanáticos del fin del mundo y un monstruo gigante que habla en la cabeza. Las vacaciones ideales.
 
 Siguiendo las indicaciones de Marloc, el grupo avanzó con extrema precaución por el lecho del cañón, evitando acercarse a las paredes rocosas por temor a que el Skreeg estuviese agazapado en alguna fisura. Axel abrió la marcha con su rifle de tirador recién adquirido, mientras Marloc tejía un enlace mental entre los cuatro para comunicarse por telepatía y evitar que las ondas de radio delatasen su posición.
 
@@ -100,4 +100,4 @@ La androide comenzó a retroceder lentamente, paso a paso, buscando la salida de
 
 Pero era demasiado tarde.
 
-Desde una galería lateral que conectaba con la segunda entrada de la caverna, una criatura cuadrúpeda de cuerpo quitinoso, alas membranosas y una larga cola erizada de púas venenosas emergió de un salto directo hacia Benray. Y tras ella, el mar de plata del interior de la cueva estalló en una docena de surcos: una horda de larvas y engendros del vacío brotaron de las dunas, cerrándoles el paso con fauces babeantes en la oscuridad absoluta del asteroide.
+Desde una galería lateral que conectaba con la segunda entrada de la caverna, una criatura cuadrúpeda de cuerpo quitinoso, alas membranosas y una larga cola erizada de púas venenosas emergió de un salto directo hacia Benrey. Y tras ella, el mar de plata del interior de la cueva estalló en una docena de surcos: una horda de larvas y engendros del vacío brotaron de las dunas, cerrándoles el paso con fauces babeantes en la oscuridad absoluta del asteroide.

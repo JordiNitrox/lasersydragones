@@ -12,7 +12,7 @@ Pero antes de que el grupo pudiera abrir fuego coordinado, el espectro abrió su
 
 Una onda de choque telepática golpeó sus mentes como un martillo invisible. El efecto fue instantáneo y caótico: la realidad se fracturó en una vorágine de susurros, pesadillas y visiones desquiciadas.
 
-Benray cayó de rodillas sobre la piedra, sujetándose la cabeza con ambas patas mientras balbuceaba incoherencias en su dialecto natal ysoki. En su mente aterrorizada, creía seguir flotando en el vacío del espacio infinito, braceando desesperadamente en el aire sin avanzar un solo milímetro:
+Benrey cayó de rodillas sobre la piedra, sujetándose la cabeza con ambas patas mientras balbuceaba incoherencias en su dialecto natal ysoki. En su mente aterrorizada, creía seguir flotando en el vacío del espacio infinito, braceando desesperadamente en el aire sin avanzar un solo milímetro:
 
 —¡El cielo se cae! ¡Las estrellas nos están mirando! ¡Capitán al agua, capitán al agua!
 
@@ -54,7 +54,7 @@ Con un suave chasquido luminoso, la silueta se desvaneció en el aire, convertid
 
 El silencio retornó.
 
-Benray sacudió la cabeza, pestañeando varias veces mientras salía del trance:
+Benrey sacudió la cabeza, pestañeando varias veces mientras salía del trance:
 
 —¿Qué... qué acaba de pasar? ¿Dónde está el monstruo?
 
@@ -84,7 +84,7 @@ El mecanismo ancestral respondió de inmediato. Un acorde musical de tonos grave
 
 Ante ellos se abrió un corredor ciclópeo de cinco metros de anchura, techos de seis metros de altura y un acabado impecable de cerámica refractaria. A lo largo del suelo corría una rejilla perimetral que emitía un flujo suave de aire climatizado, mientras que paneles hexagonales en las paredes proporcionaban una iluminación suave y difusa. El complejo alienígena estaba despierto, presurizado y funcional.
 
-Mientras Triel y Marloc inspeccionaban las consolas auxiliares que flanqueaban el vestíbulo, Benray se adelantó junto a Willy y Naru hacia una cámara lateral cuyo muro de piedra se había derrumbado tiempo atrás.
+Mientras Triel y Marloc inspeccionaban las consolas auxiliares que flanqueaban el vestíbulo, Benrey se adelantó junto a Willy y Naru hacia una cámara lateral cuyo muro de piedra se había derrumbado tiempo atrás.
 
 Al doblar la esquina, el ysoki se detuvo en seco.
 
@@ -92,13 +92,13 @@ En una de las paredes de basalto pulido, alguien había grabado laboriosamente u
 
 > **ESTRELLA ERRANTE**
 
-Benray se arrodilló frente a la inscripción, sacando su comunicador personal para cotejar la imagen con los archivos históricos de los Mundos del Pacto. Sus ojos de roedor se abrieron desmesuradamente:
+Benrey se arrodilló frente a la inscripción, sacando su comunicador personal para cotejar la imagen con los archivos históricos de los Mundos del Pacto. Sus ojos de roedor se abrieron desmesuradamente:
 
 —¡Muchachos! ¡Vengan a ver esto! ¡Sé quién era ese fantasma!
 
 Triel, Axel y Marloc se acercaron con paso apresurado.
 
-—*Moriko Nash* —proclamó Benray con reverencia, proyectando un holograma envejecido de setenta y cinco años de antigüedad en el centro de la sala—. La capitana Moriko Nash. Una de las más intrépidas y célebres exploradoras de frontera del Vasto. Su nave, una exploradora de largo alcance llamada precisamente la *Estrella Errante*, desapareció sin dejar rastro en el Drift hace casi un siglo. Todo el mundo asumió que había sido destruida por una tormenta espacial.
+—*Moriko Nash* —proclamó Benrey con reverencia, proyectando un holograma envejecido de setenta y cinco años de antigüedad en el centro de la sala—. La capitana Moriko Nash. Una de las más intrépidas y célebres exploradoras de frontera del Vasto. Su nave, una exploradora de largo alcance llamada precisamente la *Estrella Errante*, desapareció sin dejar rastro en el Drift hace casi un siglo. Todo el mundo asumió que había sido destruida por una tormenta espacial.
 
 —Estuvo atrapada aquí —dedujo Axel, contemplando las piedras ordenadas con una mezcla de respeto y lástima—. Cuando el asteroide fue absorbido por el Drift, ella sobrevivió al impacto y se refugió en este complejo.
 

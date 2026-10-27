@@ -13,7 +13,7 @@
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Protagonista de la mayor revelación ontológica y mística de la saga: en el Episodio 246 comprende que su cuerpo es la **Forja Viviente**, receptáculo del alma de Ashera y matriz divina capaz de engendrar vida androide consciente.
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Calibra la interfaz entre el Custom Rig y la Forja, asistiendo a Axel en su comunión mística y protegiendo el portal.
 * **Kairos (en el cuerpo de Gerty):** Entidad Sintiente (Voz: Roberto). Juega su papel definitivo como hermano mayor y testigo espiritual del renacimiento de la Forja.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Media el armisticio final con las huestes androides rebeldes, demostrando que la libertad de las máquinas no requiere la aniquilación de los biológicos.
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). Media el armisticio final con las huestes androides rebeldes, demostrando que la libertad de las máquinas no requiere la aniquilación de los biológicos.
 * **Zivok:** Operativo Enano (Jugador: Juan Pablo). Abate a los últimos comandantes de la Flota de Cadáveres que intentaban sabotear el núcleo.
 
 ---

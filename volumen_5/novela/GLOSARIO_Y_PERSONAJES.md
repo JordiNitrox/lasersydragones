@@ -29,7 +29,7 @@ De 19 años, piel cenicienta con reflejos lilas y cabello níveo. En este volume
 *Dron de Combate y Soporte Pesado (Voz: Roberto)*  
 Meca bípedo cuadrúmano de asalto pesado, pintado con bandas de advertencia industrial y dotado de pica de alta frecuencia, ametralladora pesada y escudos de aleación. En Ukulam actúa como el escudo inquebrantable del pelotón frente a estampidas de Yaruks, ráfagas de ametralladora rotatoria y estatuas de piedra milenarias, mientras no deja de lamentar la falta de lubricante de alta calidad en la jungla.
 
-### Benray Galway
+### Benrey Galway
 *Emisario Ysoki (Jugador: Miguel)*  
 Roedor elocuente, maestro del engaño y comunicador estelar. En este volumen asume un peso moral formidable al conceder un disparo piadoso a la cultista moribunda Aravask. Sus compañeros descubren en el datapad de Salas una antigua grabación de su juventud en la Espiga como temerario streamer de piruetas aéreas suicidas, y en el clímax descoloca a Tahomen con su táctica de «un paso a la izquierda» antes de abatir al líder del culto de un tiro certero.
 
@@ -51,7 +51,7 @@ Científica ilustre y experta en lingüística pre-Brecha, secuestrada en Qabara
 
 ### Tahomen
 *Sumo Sacerdote del Culto del Devorador en Castrovel (Lashunta)*  
-Líder fanático, despiadado y megalómano, con el cráneo afeitado y el rostro desfigurado por escarificaciones rituales. Portaba una capa de piel de monstruo y armadura con púas negras. Obsesionado con desatar la noche cósmica del vacío, logra transmitir las coordenadas del templo antes de ser abatido a quemarropa por Benray en la Cámara de las Estrellas.
+Líder fanático, despiadado y megalómano, con el cráneo afeitado y el rostro desfigurado por escarificaciones rituales. Portaba una capa de piel de monstruo y armadura con púas negras. Obsesionado con desatar la noche cósmica del vacío, logra transmitir las coordenadas del templo antes de ser abatido a quemarropa por Benrey en la Cámara de las Estrellas.
 
 ### Salas
 *Exoficial de la Legión del Fuego en el Cielo y Francotirador Renegado (Lashunta)*  
@@ -63,7 +63,7 @@ Gigantesca y brutal soldado de asalto con bandana roja, cicatriz cruzada en el r
 
 ### Aravask
 *Cultista del Devorador (Lashunta)*  
-Exploradora del culto abandonada en la selva por Tahomen tras contraer una infección terminal de esporas carroñeras producida por el Khasari. En medio de su agonía febril y fanática, recibe un disparo de misericordia por parte de Benray y un entierro digno bajo las raíces de Ukulam.
+Exploradora del culto abandonada en la selva por Tahomen tras contraer una infección terminal de esporas carroñeras producida por el Khasari. En medio de su agonía febril y fanática, recibe un disparo de misericordia por parte de Benrey y un entierro digno bajo las raíces de Ukulam.
 
 ### El Último Elfo de Loskialua
 *Centinela Inmortal del Templo (Elfo Pre-Brecha)*  

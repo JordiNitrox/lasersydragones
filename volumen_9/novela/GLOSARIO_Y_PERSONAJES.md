@@ -12,7 +12,7 @@
 ## 2. Los Protagonistas y su Evolución Emocional
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Protagonista intelectual del gran descubrimiento de la campaña: su mente analítica y memoria fotográfica le permiten desentrañar el anagrama de Sambert Klamburg en el Episodio 106.
 * **Gerty:** Dron de Asalto Pesado (Voz: Roberto). Compañero acorazado de Triel, vital durante el combate cuerpo a cuerpo contra el Dragonkin.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). A pesar de su terror acumulado a Eox, demuestra una asombrosa entereza al mediar una tregua diplomática con el Dragonkin y al apoyar a Marloc tras el impacto psicológico del anagrama.
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). A pesar de su terror acumulado a Eox, demuestra una asombrosa entereza al mediar una tregua diplomática con el Dragonkin y al apoyar a Marloc tras el impacto psicológico del anagrama.
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo). Sufre el mayor choque identitario y existencial de su vida: descubrir que la corporación todopoderosa para la que trabajan fue fundada por una versión de sí mismo desde el futuro para darles una «segunda oportunidad».
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Su serenidad lógica es clave para calmar el vértigo temporal del grupo y asegurar las evidencias y archivos de la fortaleza.
 

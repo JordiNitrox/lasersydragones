@@ -40,5 +40,5 @@ Las puertas de acceso que Keltus custodiaba en el pasillo saltaron por los aires
 Keltus retrocedió hacia la cámara empuñando su guja ensangrentada, con dos heridas de metralla humeando en su pecho de reptil:
 —*«Vienen a silenciarnos a todos. Asesinos de la Flota con armamento pesado de demolición. Tenemos que evacuar la fortaleza de inmediato.»*
 
-Benray recogió su rifle y miró a Xerantha:
+Benrey recogió su rifle y miró a Xerantha:
 —Bueno, doctora... Parece que a sus amigos no les gustó cómo preparó el almuerzo. ¡Todos hacia los montacargas de superficie!

@@ -22,7 +22,7 @@ Con un empuje desesperado, hundió la hoja de la pica en el paladar blando de la
 
 En tierra firme, el pelotón desató un despliegue de fuego coordinado y feroz.
 
-Salas continuaba disparando desde la coronilla de la estatua de piedra, intentando abatir a los compañeros de Triel para impedir el rescate. Una bala de gran calibre destrozó una de las ópticas secundarias del dron Atmos, haciéndolo girar en el aire antes de que Benray lograra estabilizarlo tras una roca.
+Salas continuaba disparando desde la coronilla de la estatua de piedra, intentando abatir a los compañeros de Triel para impedir el rescate. Una bala de gran calibre destrozó una de las ópticas secundarias del dron Atmos, haciéndolo girar en el aire antes de que Benrey lograra estabilizarlo tras una roca.
 
 —¡Marloc, cúbreme con un campo de dispersión! —ordenó Axel, plantándose a pecho descubierto en medio del camino de grava.
 
@@ -48,7 +48,7 @@ La gigantesca bestia alada se estrelló contra los peñascos a pocos metros de d
 
 —¡Malditos seáis todos! —rugió la voz desquiciada de Salas a través de los riscos, mientras disparaba una ráfaga continua con su fusil automático, astillando el suelo alrededor del grupo—. ¡Habéis matado a mi pequeña! ¡Os juro que os arrancaré la piel a tiras y se la daré de comer a los buitres de la cumbre!
 
-—¡Muévete, muévete! —urgió Benray, agarrando a Triel por el brazo y ayudándola a incorporarse mientras Gerty interponía su imponente blindaje dorsal contra las balas de Salas.
+—¡Muévete, muévete! —urgió Benrey, agarrando a Triel por el brazo y ayudándola a incorporarse mientras Gerty interponía su imponente blindaje dorsal contra las balas de Salas.
 
 —Estoy bien... solo me duele hasta el alma —gruñó la mecánica, limpiándose la sangre de la barbilla y comprobando que ningún hueso estuviera roto—. Menudo viaje... gracias por atraparme, grandullón.
 
@@ -64,4 +64,4 @@ Axel recargó su arma y miró hacia la galería que conducía a las cámaras int
 
 —Salas está acorralado en la cabeza de la estatua, en el nivel superior. Ya no tiene dónde correr.
 
-—Y tiene una deuda pendiente con esta tripulación —sentenció Benray con una sonrisa gélida—. Subamos a cobrarla.
+—Y tiene una deuda pendiente con esta tripulación —sentenció Benrey con una sonrisa gélida—. Subamos a cobrarla.

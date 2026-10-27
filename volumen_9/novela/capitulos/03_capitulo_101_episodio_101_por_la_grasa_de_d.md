@@ -21,7 +21,7 @@ En el centro del laboratorio se alzaba un pedestal octogonal rodeado por una jau
 Axel conectó su transpondedor táctico a la terminal maestra, iniciando la extracción de los registros de investigación de Xerantha:
 —Descarga de expedientes científicos en curso. Tasa de transferencia: cuatro gigabytes por segundo. Detecto archivos vinculados al proyecto 'Sol Negro' y planos arquitectónicos de las nubes del sistema Nejeor.
 
-—¡Cuidado, retaguardia! —gritó Benray de pronto.
+—¡Cuidado, retaguardia! —gritó Benrey de pronto.
 
 Desde una puerta lateral de desinfección, media docena de gnolls con estimulantes de combate inyectados en la yugular cargaron con hachas de sierra y escopetas de dispersión:
 —¡Por la Grasa de Dios! —chilló el ysoki, arrojándose tras una hilera de terminales mientras disparaba su blaster a quemarropa.

@@ -16,7 +16,7 @@ Decenas de estudios anatómicos y retratos minuciosos de su rostro sintético. E
 
 —Por los dioses... —susurró Triel, deteniéndose a su lado con la voz quebrada—. Son... son retratos tuyos, Axel. Míralos. No están hechos con la frialdad de un escáner. Es arte puro.
 
-Benray se asomó por encima del hombro de la elfa oscura, con las orejas gachas y una expresión de asombro que borró cualquier atisbo de sarcasmo:
+Benrey se asomó por encima del hombro de la elfa oscura, con las orejas gachas y una expresión de asombro que borró cualquier atisbo de sarcasmo:
 —Alguien pasó horas enteras frente a esa mesa... reconstruyendo tu cara de memoria, pliego por pliego.
 
 Marloc se acercó a las dos literas alineadas contra el mamparo izquierdo. Con su habitual perspicacia, el místico recogió de una de las almohadas varias hebras de polímero sintético de un inconfundible color fucsia brillante:
@@ -46,7 +46,7 @@ Triel posó su mano enguantada sobre el hombro de Axel, apretándolo con afecto 
 Marloc cerró los ojos y canalizó una breve resonancia mística sobre las páginas escritas. El tecnomante suspiró con solemnidad:
 —Hay una madurez espiritual asombrosa en estas líneas. Este no es el desvarío de un fanático ni la mente maleable de un títere. Este joven androide comprende la paradoja del dolor mejor que la propia Null-9. Hay luz en su conciencia, Axel. No se ha rendido al vacío.
 
-—Lo encontraremos —prometió Benray, golpeando el mamparo con determinación—. Aunque tengamos que perseguir a Null-9 hasta los calderos de fuego de la Flota Cadáver. Galway no deja a un chico sin nombre atrás.
+—Lo encontraremos —prometió Benrey, golpeando el mamparo con determinación—. Aunque tengamos que perseguir a Null-9 hasta los calderos de fuego de la Flota Cadáver. Galway no deja a un chico sin nombre atrás.
 
 ***
 
@@ -60,9 +60,9 @@ Triel desenganchó su herramienta de ingeniería remota:
 A seis metros de distancia, la elfa oscura manipuló el cerrojo magnético. En el instante en que el pestillo cedió, una alarma sónica aulló dentro del compartimento. Un haz concentrado de energía láser de dispersión barrió la habitación en un ángulo de trescientos sesenta grados, llenando el espacio con un estallido cegador:
 *¡BZZZZ-CRASH!*
 
-Axel se arrojó al suelo en una flexión perfecta, esquivando el pulso por completo. Benray y Marloc rodaron tras los somieres de las literas, recibiendo únicamente el impacto atenuado de la onda térmica en las placas de sus blindajes.
+Axel se arrojó al suelo en una flexión perfecta, esquivando el pulso por completo. Benrey y Marloc rodaron tras los somieres de las literas, recibiendo únicamente el impacto atenuado de la onda térmica en las placas de sus blindajes.
 
-—¡Por los bigotes de mi abuela! —protestó Benray sacudiéndose chispas del pelaje—. ¡Hasta los armarios de ropa limpia tienen ganas de matar en este asteroide!
+—¡Por los bigotes de mi abuela! —protestó Benrey sacudiéndose chispas del pelaje—. ¡Hasta los armarios de ropa limpia tienen ganas de matar en este asteroide!
 
 Triel se acercó a la taquilla humeante para examinar el botín:
 —Valió la pena el susto. Miren lo que guardaban aquí.
@@ -71,10 +71,10 @@ En el interior del compartimento descansaban varios módulos tácticos militares
 
 —Este campo electroestático devuelve descargas eléctricas automáticas a cualquier enemigo que intente atacar en combate cuerpo a cuerpo —explicó Triel con una sonrisa satisfecha—. Lo instalaré en el chasis de Gerty en cuanto tengamos veinticuatro horas en el taller de la nave. Nadie volverá a tocar a mi meca impunemente.
 
-Junto a las mejoras electrónicas, Benray extrajo de entre las mantas de una litera contigua un *datapad* personal con la pantalla intacta. Pertenecía a uno de los veteranos más antiguos de la guarnición.
+Junto a las mejoras electrónicas, Benrey extrajo de entre las mantas de una litera contigua un *datapad* personal con la pantalla intacta. Pertenecía a uno de los veteranos más antiguos de la guarnición.
 
 Al desencriptar las bitácoras, una revelación insólita iluminó el pasado del templo:
-—Marloc, escucha esto —leyó Benray—. Hace cuarenta años, cuando esta secta recién excavaba estas galerías, capturaron a la aberración de los tentáculos en la caverna de ácido: el Skreeg. En lugar de exterminarlo, hicieron un pacto con él. Lo adoraban como una manifestación viva del caos cósmico y lo alimentaban regularmente con los prisioneros y mineros sacrificados. El Skreeg actuaba como el perro guardián del pozo inferior.
+—Marloc, escucha esto —leyó Benrey—. Hace cuarenta años, cuando esta secta recién excavaba estas galerías, capturaron a la aberración de los tentáculos en la caverna de ácido: el Skreeg. En lugar de exterminarlo, hicieron un pacto con él. Lo adoraban como una manifestación viva del caos cósmico y lo alimentaban regularmente con los prisioneros y mineros sacrificados. El Skreeg actuaba como el perro guardián del pozo inferior.
 
 —Pero cuando recibieron la orden de evacuación repentina de Castrovel —dedujo Marloc—, no tuvieron tiempo de realizar la liturgia de apaciguamiento. El monstruo enfureció de hambre y despedazó a los sectarios que quedaron rezagados en las galerías superiores. Esos eran los huesos y jirones que encontramos flotando en la piscina verde.
 
@@ -108,7 +108,7 @@ El regreso a la superficie del asteroide se realizó bajo el silencio sepulcral 
 
 Allí, incrustadas en las rocas como cuchillos lanzados por un titán cósmico, brillaban docenas de estalactitas de plata pura y hierro frío, solidificadas tras la explosión de los antiguos almacenes mineros.
 
-Con la ayuda de las herramientas neumáticas de Triel y la fuerza hidráulica de Gerty, la tripulación extrajo más de mil cien créditos en lingotes metálicos de alta pureza. Entre las esquirlas, Benray desenterró un medallón de plata labrada con el ojo del Devorador, el cual enganchó con descaro en la pechera de Gerty junto a las demás condecoraciones improvisadas de misiones pasadas.
+Con la ayuda de las herramientas neumáticas de Triel y la fuerza hidráulica de Gerty, la tripulación extrajo más de mil cien créditos en lingotes metálicos de alta pureza. Entre las esquirlas, Benrey desenterró un medallón de plata labrada con el ojo del Devorador, el cual enganchó con descaro en la pechera de Gerty junto a las demás condecoraciones improvisadas de misiones pasadas.
 
 —Listo —dijo el ysoki dándole una palmada en el blindaje al meca—. Ahora eres el robot más enjoyado y temible de toda la Diáspora.
 
@@ -142,7 +142,7 @@ El mapa estelar del holograma giró hasta enfocar un mundo de tono cadavérico, 
 Triel apretó los puños. Sus ojos brillaron con una determinación feroz:
 —Eox... Allí se encuentra también el Centro de Pureza Genética drow donde Natra Istrav operaba sus experimentos. El pase de seguridad que me entregó la capitana Alera Juana me abrirá esas puertas. Podré descubrir qué hicieron con mi gente... y dónde está mi primo.
 
-Benray se reclinó en el asiento del copiloto, tamborileando las garras con cinismo profesional:
+Benrey se reclinó en el asiento del copiloto, tamborileando las garras con cinismo profesional:
 —Eox. El planeta de los zombis aristócratas y las casas embrujadas. Me gusta. Una operación limpia, rápida y elegante. Veinte minutos: aterrizamos, sacamos la información de la señora Trux, cobramos la recompensa y nos largamos antes de que a algún esqueleto se le antoje almorzarse mi cerebro.
 
 —Fijando rumbo hacia el asteroide Ceres para la cita de Marloc, y desde allí, salto directo hacia Eox —anunció Axel, trazando los vectores de navegación en la consola central.
@@ -153,7 +153,7 @@ Benray se reclinó en el asiento del copiloto, tamborileando las garras con cini
 
 La *Estrella Errante* despegó de la superficie de Sarcesia, dejando atrás la tumba del Espinazo del Diablo. A medida que la nave se internaba en el Campo de los Perdidos —el sector más denso y peligroso de la Diáspora, donde restos de estaciones mineras abandonadas y monolitos de roca derivaban en una danza caótica—, la tripulación aprovechó para descansar y calibrar los nuevos sistemas.
 
-En el taller de popa, Triel ajustaba los condensadores del nuevo campo electroestático sobre el blindaje de Gerty. Benray pulía la lente de su holocámara mientras Marloc, en la sala común, disfrutaba de un té caliente contemplando las estrellas por el ojo de buey.
+En el taller de popa, Triel ajustaba los condensadores del nuevo campo electroestático sobre el blindaje de Gerty. Benrey pulía la lente de su holocámara mientras Marloc, en la sala común, disfrutaba de un té caliente contemplando las estrellas por el ojo de buey.
 
 De pronto, una alarma roja estalló en el puente de mando.
 
@@ -172,4 +172,4 @@ A través de las cabinas acristaladas de los interceptores, los sensores de larg
 
 Los haces de plasma hendieron el vacío, sacudiendo los escudos de la *Estrella Errante* en una tormenta de chispas.
 
-—¡A los puestos de combate! —bramó Benray Galway, amartillando los mandos de artillería—. ¡Que comience el espectáculo!
+—¡A los puestos de combate! —bramó Benrey Galway, amartillando los mandos de artillería—. ¡Que comience el espectáculo!

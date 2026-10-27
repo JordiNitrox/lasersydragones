@@ -10,17 +10,17 @@ Pero más elocuentes que el frío eran las marcas de violencia grabadas en el me
 
 Al aproximarse a la bifurcación principal donde el corredor se abría en cruz hacia las bahías de carga y los módulos residenciales, el grupo se detuvo en seco. A quince metros de distancia, en el epicentro de la intersección, yacía una figura inmóvil tendida sobre una mancha oscura y congelada.
 
-Axel 42 y Benray intercambiaron una mirada a través de las viseras de sus escafandras.
+Axel 42 y Benrey intercambiaron una mirada a través de las viseras de sus escafandras.
 
 —¿Quién va a reconocer el terreno? —susurró el ysoki por el intercomunicador privado—. Gerty hace más ruido que una perforadora de asteroides y Marloc tiene la agilidad de una grúa portuaria.
 
 —Formato estándar de resolución de contingencias —respondió la androide con fría solemnidad, extendiendo su mano mecánica con los dedos cerrados.
 
-Benray parpadeó dos veces, comprendiendo al instante. Al unísono, ambos agitaron sus puños en el vacío: piedra, papel o tijera. La mano enguantada de Axel formó un puño firme —piedra—; los dedos delgados de Benray remataron en dos puntas abiertas —tijeras—.
+Benrey parpadeó dos veces, comprendiendo al instante. Al unísono, ambos agitaron sus puños en el vacío: piedra, papel o tijera. La mano enguantada de Axel formó un puño firme —piedra—; los dedos delgados de Benrey remataron en dos puntas abiertas —tijeras—.
 
 —Piedra aplasta aleación —sentenció Axel sin el menor atisbo de vanagloria—. Te toca el avance sigiloso, Galway.
 
-El ysoki soltó un bufido resignado, bajó el centro de gravedad de su pequeño cuerpo y se deslizó pegado a la base del mamparo con la ligereza de una sombra akitoniana. Silencioso como una rata del desierto, avanzó palmo a palmo hasta colocarse a un metro del bulto inerte. Al iluminar el cuerpo con el haz concentrado de su linterna, Benray abrió los ojos con asombro:
+El ysoki soltó un bufido resignado, bajó el centro de gravedad de su pequeño cuerpo y se deslizó pegado a la base del mamparo con la ligereza de una sombra akitoniana. Silencioso como una rata del desierto, avanzó palmo a palmo hasta colocarse a un metro del bulto inerte. Al iluminar el cuerpo con el haz concentrado de su linterna, Benrey abrió los ojos con asombro:
 
 —Por las arenas de Akiton... No es un minero del Colectivo. Es un goblin espacial.
 
@@ -34,7 +34,7 @@ Apenas el tecnomante terminó de pronunciar la advertencia, un leve crujido met�
 
 Desde la galería transversal izquierda, deslizándose por la pared vertical con movimientos espasmódicos y silenciosos, emergió un Akata adulto. Su piel rugosa y azulada parecía piedra tallada al frío, y cuatro tentáculos sensoriales se agitaban alrededor de unas fauces abiertas de par en par, revelando hileras de colmillos cristalinos listos para desgarrar.
 
-—¡Hostil a las nueve en punto! —bramó Benray, retrocediendo de un salto mientras alzaba su fusil.
+—¡Hostil a las nueve en punto! —bramó Benrey, retrocediendo de un salto mientras alzaba su fusil.
 
 Axel reaccionó con precisión quirúrgica. Empuñando su pistola de pulsos en la diestra y desenvainando su cuchillo de supervivencia con la izquierda, la androide se interpuso en la trayectoria del monstruo para proteger a Triel. Intentó una finta calculada para desestabilizar a la aberración antes del disparo, pero la criatura ignoró el engaño y se abalanzó con violencia sobrehumana.
 
@@ -74,7 +74,7 @@ El panorama revelaba la brusquedad con la que la rutina de los mineros había si
 
 Axel se acercó a una de las mesas de preparación, recogió un puñado de copos de cereal crujiente y, con un gesto deliberadamente cómico, amagó con desabrochar el cierre de su escafandra para llevárselo a la boca.
 
-—Ni se te ocurra, Axel —advirtió Benray, sacudiendo la cabeza con reproche—. No estamos para experimentos gastronómicos de hace tres semanas en el vacío.
+—Ni se te ocurra, Axel —advirtió Benrey, sacudiendo la cabeza con reproche—. No estamos para experimentos gastronómicos de hace tres semanas en el vacío.
 
 —Como entidad biológicamente sintética no requiero aporte atmosférico para la ingesta, Galway —contestó la androide con solemnidad inmutable—. Además, mi sensor cromatográfico confirma que la degradación lipídica es insignificante. Estaban desayunando cuando sonó la alarma general.
 
@@ -82,13 +82,13 @@ Marloc, entretanto, no prestaba atención a las raciones. Sus ojos de tecnomante
 
 —Marloc tiene razón en lo que descubrió en el hangar —intervino Triel, acercándose a las garrafas con brillo en la mirada—. Los Akata son organismos xerófilos extremos nacidos en el vacío absoluto. Sus membranas celulares no toleran el agua y mucho menos la sal. Un baño de solución salina concentrada les provocaría un choque osmótico fulminante... Se licuarían como si les arrojáramos ácido sulfúrico concentrado.
 
-—¿Podemos fabricar armamento químico con esto? —preguntó Benray con entusiasmo creciente—. ¡Díganme que podemos armar granadas de salmuera!
+—¿Podemos fabricar armamento químico con esto? —preguntó Benrey con entusiasmo creciente—. ¡Díganme que podemos armar granadas de salmuera!
 
 —No tenemos tiempo para calibrar un pulverizador neumático, pero sí para recipientes presurizados de dispersión rápida —explicó Triel, extrayendo de su caja de herramientas varios cilindros vacíos de descompresión con espoleta de impacto.
 
-Durante diez minutos de intensa colaboración técnica, guiados por los cálculos químicos de Marloc y la pericia manual de Triel y Benray, el equipo mezcló agua tibia residual con sacos de sal hasta saturar la mezcla al límite físico. Rellenaron cuatro cilindros metálicos, acoplando detonadores pirotécnicos de fragmentación que esparcirían la salmuera líquida en un radio de tres metros al detonar.
+Durante diez minutos de intensa colaboración técnica, guiados por los cálculos químicos de Marloc y la pericia manual de Triel y Benrey, el equipo mezcló agua tibia residual con sacos de sal hasta saturar la mezcla al límite físico. Rellenaron cuatro cilindros metálicos, acoplando detonadores pirotécnicos de fragmentación que esparcirían la salmuera líquida en un radio de tres metros al detonar.
 
-Benray se colgó dos de las granadas improvisadas en su bandolera con una amplia sonrisa de oreja a oreja:
+Benrey se colgó dos de las granadas improvisadas en su bandolera con una amplia sonrisa de oreja a oreja:
 
 —Cuatro cócteles de sal marina espacial. Si volvemos a ver a esos perros de piedra, van a descubrir lo que es una salazón a presión.
 
@@ -102,7 +102,7 @@ La plancha de metal estaba desfigurada por decenas de zarpazos profundos. Pero l
 
 —Alguien se atrincheró aquí dentro —señaló Triel, pasando sus guantes sobre las marcas—. Y las bestias intentaron derribarla sin éxito.
 
-Benray pegó el casco a la superficie metálica para escuchar vibraciones:
+Benrey pegó el casco a la superficie metálica para escuchar vibraciones:
 
 —No hay sonido en el vacío, pero siento vibraciones rítmicas a través del mamparo... Golpecitos apresurados. Hay alguien vivo ahí dentro.
 

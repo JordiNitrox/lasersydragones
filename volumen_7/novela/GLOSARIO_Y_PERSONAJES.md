@@ -12,7 +12,7 @@
 ## 2. Los Protagonistas y su Evolución Emocional
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Enfrenta el retorno a su región natal: el cinturón de la Diáspora, donde creció entre contrabandistas y piratas. Mantiene en secreto sus temores por el pasado de su padre humano, Keiden Ashton, y gestiona sus comunicaciones a distancia con el Oficial León Holden de los Protectores.
 * **Gerty:** Dron de Combate y Asalto Pesado de Triel (Voz: Roberto). Equipado con chasis bípedo de dos metros y cuatro brazos mecánicos. Su procesador sarcástico y lealtad incondicional son el ancla protectora del equipo.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Su verborrea y astucia diplomática se ponen a prueba ante los piratas de la Diáspora. Mantiene contacto con su red familiar de los Galway y su primo Rim Rey, aunque comienza a percibir rumores inquietantes sobre naves ysoki desaparecidas.
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). Su verborrea y astucia diplomática se ponen a prueba ante los piratas de la Diáspora. Mantiene contacto con su red familiar de los Galway y su primo Rim Rey, aunque comienza a percibir rumores inquietantes sobre naves ysoki desaparecidas.
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo). Erudito de gabán impoluto que arrastra el enigma cósmico de Marlene Boosmar, su conexión con Inversiones Estelares S.C. y el afecto hacia la sarcesiana Ángela.
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Se enfrenta al dilema ético y ontológico tras descubrir los dibujos que dejó la nueva conciencia en el Espinazo del Diablo y recuperar el holograma de Éclair, que revela la tragedia de Yara en Sedrik.
 * **Valdo:** Ingeniero Halfling rescatado en la clínica del Culto en Absalón (Episodio 77). Se incorpora a la *Estrella Errante* como mecánico auxiliar a cargo del reactor y la intendencia.
@@ -42,4 +42,4 @@ Antes de saltar al Drift y en las boyas de retransmisión de la Diáspora, Triel
 El interrogatorio a Null-9 sacude a A.Xel: Null-9 la acusa de ser un peón de los biológicos y de ignorar el verdadero propósito para el que fue construido su chasis. Este choque siembra las primeras dudas sobre la identidad y el pasado borrado de Axel.
 
 ### 💀 El Rastro Cadavérico hacia Eox:
-Los documentos y registros encriptados recuperados en la base del asteroide revelan que el Culto del Devorador no actúa solo: está financiado y coordinado por facciones renegadas de la Flota de Cadáveres de Eox, forzando al grupo a un destino que aterroriza profundamente a Benray Galway: el planeta de los muertos vivientes.
+Los documentos y registros encriptados recuperados en la base del asteroide revelan que el Culto del Devorador no actúa solo: está financiado y coordinado por facciones renegadas de la Flota de Cadáveres de Eox, forzando al grupo a un destino que aterroriza profundamente a Benrey Galway: el planeta de los muertos vivientes.

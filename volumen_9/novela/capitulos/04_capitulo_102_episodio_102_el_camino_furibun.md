@@ -4,7 +4,7 @@
 
 El corredor que conducía a los aposentos privados de Xerantha Zatus estaba diseñado como una avenida triunfal para emperadores muertos.
 
-Banderas raídas de la Flota de Cadáveres colgaban de las paredes entre estatuas de guerreros con armaduras completas de hierro negro. El aire olía a incienso funerario y a una vibración mágica de alta tensión que ponía los pelos de punta a Benray y hacía que los circuitos de Axel emitieran un leve zumbido armónico.
+Banderas raídas de la Flota de Cadáveres colgaban de las paredes entre estatuas de guerreros con armaduras completas de hierro negro. El aire olía a incienso funerario y a una vibración mágica de alta tensión que ponía los pelos de punta a Benrey y hacía que los circuitos de Axel emitieran un leve zumbido armónico.
 
 —Detecto una perturbación cinética de gran masa al final del pasillo —advirtió Axel, ralentizando el paso con el rifle apuntando al frente—. No es un no-muerto ni un soldado de infantería común. La firma biológica indica una masa muscular colosal y temperatura corporal superior a los cincuenta grados centígrados.
 
@@ -29,7 +29,7 @@ El coloso clavó su mirada ardiente en los cuatro intrusos y alzó la guja con u
 
 ### III. Choque de titanes
 
-Benray dio dos pasos atrás hasta chocar contra el chasis de Gerty:
+Benrey dio dos pasos atrás hasta chocar contra el chasis de Gerty:
 —¿Por qué... por qué siempre tenemos que encontrarnos con bichos que miden el doble que nosotros y tienen armas más grandes que mi sueldo anual?
 
 Gerty no esperó a que el ysoki terminara la queja. Sus cuatro brazos mecánicos se desplegaron al unísono:

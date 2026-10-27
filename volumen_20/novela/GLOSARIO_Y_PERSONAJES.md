@@ -12,7 +12,7 @@
 ## 2. Los Protagonistas
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene).
 * **Gerty:** Dron de Combate y Asalto Pesado (Voz: Roberto).
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel).
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo).
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía).
 

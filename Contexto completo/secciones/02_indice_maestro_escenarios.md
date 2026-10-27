@@ -34,7 +34,7 @@
 ### El Pulmón Negro
 *Ubicación geográfica:* La Espiga, Estación Absalón  
 *Aparición en volúmenes:* **Volumen 3**  
-*Descripción:* Legendaria taberna obrera de los mineros del Colectivo Hardscrabble. En su interior alberga el solemne «Muro de los Caídos del Vacío», repleto de placas militares y fotografías de trabajadores que nunca volvieron de la Diáspora. Escenario de la gran celebración popular donde Marloc, Triel, Axel y Benray cuelgan las placas del *Acreon* y brindan en honor a Marlene Boosmar y Amelie.
+*Descripción:* Legendaria taberna obrera de los mineros del Colectivo Hardscrabble. En su interior alberga el solemne «Muro de los Caídos del Vacío», repleto de placas militares y fotografías de trabajadores que nunca volvieron de la Diáspora. Escenario de la gran celebración popular donde Marloc, Triel, Axel y Benrey cuelgan las placas del *Acreon* y brindan en honor a Marlene Boosmar y Amelie.
 
 ### El Muelle 94
 *Ubicación geográfica:* El Anillo, Estación Absalón  

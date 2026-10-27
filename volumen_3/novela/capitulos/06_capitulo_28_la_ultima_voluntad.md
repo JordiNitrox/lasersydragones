@@ -4,7 +4,7 @@
 
 En la penumbra del refugio de Moriko Nash, antes de presionar el botón de reproducción del datapad, la tripulación compartió un instante de silencio cómplice.
 
-Habían transcurrido apenas unas semanas desde que cuatro desconocidos se estrecharan la mano por primera vez bajo las luces parpadeantes del muelle noventa y cuatro en la Estación Absalón. En aquel entonces, cada uno cargaba con su propia armadura invisible: Benray Galway ocultaba sus temores tras una muralla de humor cínico y ambición mediática; Triel Istrav buscaba desesperadamente escapar del desprecio de su familia semi-drow en Apostae y abrirse camino como ingeniera independiente; Marloc Boosmar arrastraba una melancolía profunda, desorientado por el enigma de Marlene Boosmar y sintiéndose un fantasma amnésico desplazado entre dimensiones; y Axel 42 contemplaba la galaxia como una fría sucesión de contratos mercenarios donde la empatía era una variable prescindible.
+Habían transcurrido apenas unas semanas desde que cuatro desconocidos se estrecharan la mano por primera vez bajo las luces parpadeantes del muelle noventa y cuatro en la Estación Absalón. En aquel entonces, cada uno cargaba con su propia armadura invisible: Benrey Galway ocultaba sus temores tras una muralla de humor cínico y ambición mediática; Triel Istrav buscaba desesperadamente escapar del desprecio de su familia semi-drow en Apostae y abrirse camino como ingeniera independiente; Marloc Boosmar arrastraba una melancolía profunda, desorientado por el enigma de Marlene Boosmar y sintiéndose un fantasma amnésico desplazado entre dimensiones; y Axel 42 contemplaba la galaxia como una fría sucesión de contratos mercenarios donde la empatía era una variable prescindible.
 
 Pero la supervivencia en las entrañas de la roca había desmantelado todas las barreras.
 
@@ -44,7 +44,7 @@ Moriko cerró los ojos, suspiró con serenidad y cortó la grabación.
 
 El holograma se desvaneció, dejando la estancia sumida en un silencio reverencial.
 
-Benray fue el primero en romper la quietud, tragando saliva con dificultad:
+Benrey fue el primero en romper la quietud, tragando saliva con dificultad:
 
 —Una capitana hasta el último segundo... Honraremos tu nave, Moriko. Te juro por la memoria de mi gente que la *Estrella Errante* volverá a volar.
 

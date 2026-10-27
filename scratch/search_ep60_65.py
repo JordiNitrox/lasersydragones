@@ -21,7 +21,7 @@ search_text(60, ["claire", "triuno", "río", "lancha", "pantano", "solstarni"])
 search_text(61, ["sanguijuela", "alucin", "río", "mord", "veneno", "árbol", "piedra"])
 
 # Ep 62: Standoff, locura, lluvia
-search_text(62, ["standoff", "dispar", "locura", "lluvia", "salas", "benray", "axel", "triel", "marlo"])
+search_text(62, ["standoff", "dispar", "locura", "lluvia", "salas", "benrey", "axel", "triel", "marlo"])
 
 # Ep 63: Piratas, lancha, legión, chocopiratas
 search_text(63, ["chocopiratas", "motor del sabor", "jabaxa", "hess", "twonas", "lancha", "legión", "cielofuego"])
@@ -30,4 +30,4 @@ search_text(63, ["chocopiratas", "motor del sabor", "jabaxa", "hess", "twonas", 
 search_text(64, ["trampa", "soldado", "lancha", "escapar", "motor", "fuego", "bomba"])
 
 # Ep 65: Vuelta, Qabarat, Absalom, foto, video
-search_text(65, ["foto", "video", "salas", "benray", "turhalu", "qabarat", "absalon", "nave"])
+search_text(65, ["foto", "video", "salas", "benrey", "turhalu", "qabarat", "absalon", "nave"])

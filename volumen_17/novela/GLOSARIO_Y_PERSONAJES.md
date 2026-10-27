@@ -13,7 +13,7 @@
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Protagonista de la catarsis familiar: rescata a su padre biológico humano, Keiden Ashton, enfrentando sus recuerdos de abandono y perdonándolo en un abrazo histórico.
 * **Kairos (en el cuerpo de Gerty):** Entidad Sintiente con Chasis de Dron Bípedo (Voz: Roberto). Estrena su nueva existencia física: con modales refinados, pausas reflexivas y sabiduría tahúr, aporta calma y estrategia superior al combate.
 * **Keiden Ashton:** Capitán Pirata Humano y padre de Triel. Carismático, envejecido por las corrientes temporales del Maelstrom, portador de reliquias de Besmara y devoto protector de su hija a la distancia.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Asiste conmovido a la reunión de Triel y su padre, recordando la importancia de los lazos familiares.
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). Asiste conmovido a la reunión de Triel y su padre, recordando la importancia de los lazos familiares.
 * **Zivok:** Operativo Enano (Jugador: Juan Pablo). Su temple militar es fundamental para mantener a raya a la tripulación espectral de Besmara.
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Vela por la adaptación de Kairos a su nuevo chasis mientras asimila su propio destino divino.
 

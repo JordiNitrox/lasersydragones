@@ -8,11 +8,11 @@ Tras un tapiz sintético que representaba el skyline de Absalón cubierto de gra
 
 —Cerradura biométrica de triple rotor —anunció la semi-drow, conectando su omniherramienta al teclado de acceso—. Denme cuarenta segundos.
 
-A.Xel 42 vigilaba la puerta con su pistola láser lista, mientras Benray Galway revolvía los cajones del escritorio. Marloc Boosmar, con el rostro pálido y la mirada aún sombría por la mención del francotirador Kallio y la trama drow, terminaba de descargar en una tablilla óptica los últimos registros financieros que vinculaban a la banda con los fondos opacos de Extracciones Estelares.
+A.Xel 42 vigilaba la puerta con su pistola láser lista, mientras Benrey Galway revolvía los cajones del escritorio. Marloc Boosmar, con el rostro pálido y la mirada aún sombría por la mención del francotirador Kallio y la trama drow, terminaba de descargar en una tablilla óptica los últimos registros financieros que vinculaban a la banda con los fondos opacos de Extracciones Estelares.
 
 Un chasquido electromagnético resonó en la pared. La compuerta blindada de la caja fuerte se abrió suavemente sobre goznes hidráulicos.
 
-—¡Premio mayor! —exclamó Benray, asomando los bigotes al interior del compartimento.
+—¡Premio mayor! —exclamó Benrey, asomando los bigotes al interior del compartimento.
 
 El alijo de emergencia de Ferani Nadaz superaba con creces las expectativas de una banda callejera:
 
@@ -20,7 +20,7 @@ El alijo de emergencia de Ferani Nadaz superaba con creces las expectativas de u
 
 Junto a los materiales de manufactura reposaba un fajo de varillas de crédito corporativas sin rastreo: seiscientos créditos en efectivo de la estación, un pagaré electrónico de quinientos créditos avalado por un banco de Verces y doscientos setenta y cinco créditos en certificados de oro puro sellados por la Casa Minera de la Espiga. 
 
-—Esto compensa con creces el dolor de cabeza y las quemaduras de plasma —declaró Benray, embolsándose los credsticks con una celeridad asombrosa.
+—Esto compensa con creces el dolor de cabeza y las quemaduras de plasma —declaró Benrey, embolsándose los credsticks con una celeridad asombrosa.
 
 Además, en el fondo del compartimento descansaban tres botellas de cristal oscuro de whisky de malta añejado en las destilerías orbitales de Triaxus, una bolsa al vacío con doscientos gramos de cocaína cósmica cristalizada que brillaba con un fulgor esmeralda bajo la luz halógena, y una panoplia bélica de primera categoría: una armadura ceremonial pesada con hombreras grabadas con dragones dorados, un martillo de asalto neumático con cabezal de tungsteno y el imponente rifle de artillería Azimuth que Brock había dejado caer al ser derribado.
 
@@ -34,15 +34,15 @@ A.Xel tocó un broche circular sobre su clavícula izquierda. Su piel sintética
 
 —La pista de baile principal —dijo Axel, con una voz modulada ligeramente más aguda para complementar el holograma—. En medio del caos acústico y la sobrecarga sensorial, un grupo de fiesteros ebrios pasará completamente desapercibido.
 
-—Esa es la actitud, señorita —aprobó Benray, encasquetándose la gorra hacia atrás y fingiendo una risotada ruidosa—. ¡Todos a bailar tecno!
+—Esa es la actitud, señorita —aprobó Benrey, encasquetándose la gorra hacia atrás y fingiendo una risotada ruidosa—. ¡Todos a bailar tecno!
 
 Abrieron la puerta de la trastienda y se sumergieron de golpe en el rugido del club.
 
 Los bajos sintéticos sacudían los cimientos de la nave. Haces láser de tonos cian y magenta surcaban la niebla artificial espesada con aromas a tabaco de Castrovel y sudor químico. Cientos de bailarines de todas las especies —humanos, vesk, ysoki, androides y shirren— saltaban en un trance frenético frente a la cabina del DJ holográfico.
 
-Axel, con su disfraz de bailarina de club, abrió paso con movimientos rítmicos y calculados entre la multitud. Benray saltaba al compás de la música, fingiendo tropezar y empujar a los parroquianos para crear huecos en la masa. Triel y Marloc, cubiertos con chaquetas holgadas, se pegaron a los hombros de Gerty, cuyos sensores luminosos parpadeaban en sincronía involuntaria con los estroboscopios del techo, pareciendo una extravagante escultura decorativa del local.
+Axel, con su disfraz de bailarina de club, abrió paso con movimientos rítmicos y calculados entre la multitud. Benrey saltaba al compás de la música, fingiendo tropezar y empujar a los parroquianos para crear huecos en la masa. Triel y Marloc, cubiertos con chaquetas holgadas, se pegaron a los hombros de Gerty, cuyos sensores luminosos parpadeaban en sincronía involuntaria con los estroboscopios del techo, pareciendo una extravagante escultura decorativa del local.
 
-Cruzaron la nave entera sin levantar sospechas. En el acceso lateral de mantenimiento, Benray forzó el cerrojo de emergencia y los cinco se deslizaron hacia el aire fresco y denso de los callejones de la Espiga justo cuando las patrullas policiales cercaban la fachada principal del club.
+Cruzaron la nave entera sin levantar sospechas. En el acceso lateral de mantenimiento, Benrey forzó el cerrojo de emergencia y los cinco se deslizaron hacia el aire fresco y denso de los callejones de la Espiga justo cuando las patrullas policiales cercaban la fachada principal del club.
 
 ***
 
@@ -50,7 +50,7 @@ Cruzaron la nave entera sin levantar sospechas. En el acceso lateral de mantenim
 
 En un callejón ciego iluminado únicamente por el parpadeo moribundo de un letrero de fideos instantáneos, el grupo se dejó caer contra el mamparo de metal acanalado para recobrar el aliento. El aire sabía a condensación de refrigerante y aceite viejo, pero resultaba un bálsamo comparado con la atmósfera cargada del club.
 
-Durante diez minutos, el silencio solo se vio interrumpido por el jadeo fatigado de Benray y los chasquidos de los disipadores térmicos de las armas enfriándose.
+Durante diez minutos, el silencio solo se vio interrumpido por el jadeo fatigado de Benrey y los chasquidos de los disipadores térmicos de las armas enfriándose.
 
 Gerty permanecía de pie en el centro del pasaje, con sus dos metros de aleación y sus cañones de plasma retraídos bajo las placas pectorales. Su ojo sensor óptico osciló con un brillo azulado, escaneando a cada uno de los presentes de arriba abajo antes de emitir un chasquido de altavoz.
 
@@ -68,9 +68,9 @@ Axel inclinó levemente la cabeza:
 
 —Agradezco el cómputo de mis parámetros, unidad Gerty.
 
-—*Por el contrario* —añadió el meca, girando el torso bruscamente hacia Benray y Marloc—, *el organismo roedor Benray Galway y el organismo humanoide Marloc Boosmar han demostrado patrones erráticos, escasa disciplina de tiro y una alarmante tendencia a la improvisación temeraria. Han sido reclasificados en mi banco de datos como unidades altamente deficientes e incapaces.*
+—*Por el contrario* —añadió el meca, girando el torso bruscamente hacia Benrey y Marloc—, *el organismo roedor Benrey Galway y el organismo humanoide Marloc Boosmar han demostrado patrones erráticos, escasa disciplina de tiro y una alarmante tendencia a la improvisación temeraria. Han sido reclasificados en mi banco de datos como unidades altamente deficientes e incapaces.*
 
-Benray abrió la boca, ofendido en lo más hondo de su orgullo ysoki:
+Benrey abrió la boca, ofendido en lo más hondo de su orgullo ysoki:
 
 —¡¿Incapaz yo?! ¡Oye, pedazo de tostadora andante con complejo de tanque! ¡Si no fuera porque me subí a la mesa y le puse la pistola en la cabeza a la jefa de la banda mientras tú te atascabas con la cortina de la entrada, ahora mismo seríamos chatarra prensada!
 
@@ -112,7 +112,7 @@ El shirren deslizó sobre la mesa cuatro cilindros de datos oficiales con sellos
 
 *«En nombre de Inversiones Estelares S.C. y en representación de nuestro propietario ausente, el señor Clamor Sambor, me honra ofrecerles formalmente un contrato de exploración y arbitraje con plenos poderes corporativos y amparo legal de la estación.»*
 
-Benray tomó su cilindro sin vacilar un segundo, firmando en el panel táctil con una filigrana artística:
+Benrey tomó su cilindro sin vacilar un segundo, firmando en el panel táctil con una filigrana artística:
 
 —El señor Clamor Sambor sabe reconocer el talento cuando lo tiene delante. Si hay dietas de viaje y munición incluida, cuente con la firma de Galway.
 
@@ -150,7 +150,7 @@ El dolor de saberla viva pero inalcanzable, sumado al terror culpable de tener q
 
 Marloc cayó de rodillas sobre la alfombra, cubriéndose el rostro con ambas manos mientras un llanto amargo, desgarrador e incontrolable sacudía todo su cuerpo.
 
-Triel se arrodilló a su lado al instante, rodeándole los hombros con un brazo protector y pasándole un pañuelo de seda limpia. Benray, guardando un inusual y respetuoso silencio, se colocó frente a él, impidiendo que el personal de la oficina pudiera observar la vulnerabilidad del viejo tecnomante.
+Triel se arrodilló a su lado al instante, rodeándole los hombros con un brazo protector y pasándole un pañuelo de seda limpia. Benrey, guardando un inusual y respetuoso silencio, se colocó frente a él, impidiendo que el personal de la oficina pudiera observar la vulnerabilidad del viejo tecnomante.
 
 —Respira, Marloc —le susurró Triel con ternura al oído—. Respira hondo. Estamos aquí contigo. No estás solo en esta oscuridad.
 
@@ -292,9 +292,9 @@ Axel contempló el rostro luminoso de su compañera durante un instante cargado 
 
 La conexión se cortó suavemente. Axel permaneció unos segundos con la vista fija en la luz parpadeante del proyector antes de guardarlo en su bolsillo, cerrando los ojos para entrar en su ciclo de mantenimiento y recarga de memoria.
 
-#### 4. Benray y Thalud: Deudas del Pasado
+#### 4. Benrey y Thalud: Deudas del Pasado
 
-Mientras sus compañeros descansaban en el hotel, Benray Galway se negaba a dar por terminada la jornada. Enfundado en su gastada gabardina, el ysoki había descendido de vuelta a los niveles intermedios para refugiarse en el ambiente clandestino del *Club 13*.
+Mientras sus compañeros descansaban en el hotel, Benrey Galway se negaba a dar por terminada la jornada. Enfundado en su gastada gabardina, el ysoki había descendido de vuelta a los niveles intermedios para refugiarse en el ambiente clandestino del *Club 13*.
 
 En el reservado del fondo, alejado de las mesas de juego y de los cazadores de recompensas ruidosos, el dragonkin Thalud apuraba una jarra de aguardiente ardiente de Triaxus.
 
@@ -302,13 +302,13 @@ Al ver aproximarse al roedor, el imponente guerrero reptiliano dejó la jarra so
 
 —Galway —saludó Thalud con un gruñido gutural en la lengua ancestral de los dragones de hielo—. Has vuelto a encender fuegos en la Espiga. Los mercenarios de la estación no hablan de otra cosa que del asalto a Con-Fusión.
 
-Benray trepó a la silla frente al gigante escamoso, respondiendo en el mismo dialecto áspero y sibilante de Triaxus:
+Benrey trepó a la silla frente al gigante escamoso, respondiendo en el mismo dialecto áspero y sibilante de Triaxus:
 
 —Solo cobramos una factura pendiente, mi escamoso amigo. La justicia en Absalón es lenta, pero mis pistolas son notablemente veloces.
 
 Thalud no sonrió. Cruzó sus enormes brazos blindados sobre la mesa y se inclinó hacia adelante:
 
-—Alguien vino a buscarte hoy, Benray.
+—Alguien vino a buscarte hoy, Benrey.
 
 El ysoki dejó de juguetear con una ficha de crédito y aguzó las orejas:
 
@@ -316,35 +316,35 @@ El ysoki dejó de juguetear con una ficha de crédito y aguzó las orejas:
 
 —Ninguno de los dos —respondió Thalud en voz baja y sombría—. Era un anciano de tu propia especie. Un padre destrozado llegado en un carguero desde las colonias glaciares de Triaxus. Estaba llorando en la barra, preguntando por el emisario sin escrúpulos que convenció a su muchacho de alistarse en la expedición minera de la Fosa Negra.
 
-El semblante bromista de Benray se congeló. Una sombra helada cruzó sus ojos oscuros, borrando cualquier rastro de picardía:
+El semblante bromista de Benrey se congeló. Una sombra helada cruzó sus ojos oscuros, borrando cualquier rastro de picardía:
 
 —Ese muchacho sabía los riesgos —susurró el ysoki con la mandíbula tensa—. Todos sabían los riesgos cuando el glaciar se derrumbó.
 
 —El muchacho no tenía edad para entender los riesgos, Galway —le espetó Thalud con dureza—. Y su padre no busca créditos; busca el cadáver que tú dejaste atrás cuando cobraste tu comisión de intermediario y huiste en la primera lanzadera a Absalón. El anciano jura que no se irá de la estación hasta que te vea arder.
 
-Benray tragó saliva con dificultad. Bajó la mirada hacia la mesa, apretando los puños dentro de los bolsillos de la gabardina:
+Benrey tragó saliva con dificultad. Bajó la mirada hacia la mesa, apretando los puños dentro de los bolsillos de la gabardina:
 
 —El pasado en Triaxus siempre encuentra una grieta para colarse...
 
 Thalud suspiró, exhalando una voluta de vaho caliente por las fosas nasales:
 
-—Si vas a volar al *Acreon*, asegúrate de no volver con las manos vacías, Benray. Necesitarás muchos créditos para comprar el perdón... o para contratar escoltas que te cubran la espalda cuando los fantasmas de tu casa vengan a cobrar.
+—Si vas a volar al *Acreon*, asegúrate de no volver con las manos vacías, Benrey. Necesitarás muchos créditos para comprar el perdón... o para contratar escoltas que te cubran la espalda cuando los fantasmas de tu casa vengan a cobrar.
 
-El comunicador de Benray vibró en su muñeca, interrumpiendo el tenso intercambio. El ysoki contestó de inmediato, aliviado por la distracción:
+El comunicador de Benrey vibró en su muñeca, interrumpiendo el tenso intercambio. El ysoki contestó de inmediato, aliviado por la distracción:
 
 —¿Rim? ¿Eres tú, primo?
 
 Al otro lado de la línea, la voz aguda y eufórica de Rim Rey resonó con fuerza:
 
-—*¡Benray, viejo sinvergüenza! ¡Recuperé la moto! ¡Te lo juro por la cola de mi abuela! Fui a los monobloques con tres colegas del taller, aposté el doble en la carrera de los colectores de vapor y les gané la motoneta a esos novatos del Nivel 18.*
+—*¡Benrey, viejo sinvergüenza! ¡Recuperé la moto! ¡Te lo juro por la cola de mi abuela! Fui a los monobloques con tres colegas del taller, aposté el doble en la carrera de los colectores de vapor y les gané la motoneta a esos novatos del Nivel 18.*
 
-Benray soltó una carcajada forzada, intentando disipar la negrura que le atenazaba el pecho:
+Benrey soltó una carcajada forzada, intentando disipar la negrura que le atenazaba el pecho:
 
 —¡Ese es mi primo! ¿Está entera la máquina?
 
 —*¡Entera no, mejorada!* —chilló Rim—. *Le pinté unas llamaradas atómicas amarillas en el carenado frontal y le pegué un par de calcomanías gigantescas de chicas ysoki ligeras de ropa en el guardabarros trasero. ¡Tiene un estilazo callejero que da miedo! Esta noche la estreno en la pista perimetral. ¡Nos vemos mañana en el desayuno del Ojo para celebrarlo!*
 
-—Hecho, primo. Mañana invito yo a las tortitas —dijo Benray antes de cortar la comunicación.
+—Hecho, primo. Mañana invito yo a las tortitas —dijo Benrey antes de cortar la comunicación.
 
 Miró a Thalud una última vez, asintió en silencio con una gravedad impropia de su carácter y abandonó el local con paso rápido, perdiéndose en las sombras nocturnas de la estación.
 
@@ -358,13 +358,13 @@ Allá arriba, a decenas de metros de altura, paneles de diodos de espectro compl
 
 Para cuatro aventureros que apenas veinticuatro horas antes habían estado esquivando proyectiles de plasma entre la mugre condensada de la Espiga, la terraza al aire libre del restaurante del pabellón botánico resultaba un espejismo casi insultante.
 
-Benray Galway tenía los bigotes cubiertos de mermelada de moras espaciales y dos tostadas doradas apretadas contra las comisuras de los labios. Sentado con las patas cruzadas sobre un mullido sillón ergonómico, el ysoki masticaba a velocidad vertiginosa mientras llenaba los amplios bolsillos de su chaleco con panecillos calientes y sobres de edulcorante:
+Benrey Galway tenía los bigotes cubiertos de mermelada de moras espaciales y dos tostadas doradas apretadas contra las comisuras de los labios. Sentado con las patas cruzadas sobre un mullido sillón ergonómico, el ysoki masticaba a velocidad vertiginosa mientras llenaba los amplios bolsillos de su chaleco con panecillos calientes y sobres de edulcorante:
 
-—Les digo que el secreto de la felicidad no son los créditos, sino los bufés con reposición ilimitada —declaró Benray con la boca medio llena, señalando una bandeja de hojaldres con su tenedor—. Miren este queso curado. ¡Es de leche de bestia de carga auténtica, no ese engrudo de soja sintética que te venden en los Bajos! Si sobrevivimos a esa loca de Ferani Nadaz y a sus gorilas, nos merecemos desayunar como síndicos de la corte.
+—Les digo que el secreto de la felicidad no son los créditos, sino los bufés con reposición ilimitada —declaró Benrey con la boca medio llena, señalando una bandeja de hojaldres con su tenedor—. Miren este queso curado. ¡Es de leche de bestia de carga auténtica, no ese engrudo de soja sintética que te venden en los Bajos! Si sobrevivimos a esa loca de Ferani Nadaz y a sus gorilas, nos merecemos desayunar como síndicos de la corte.
 
 Frente a él, Marloc Boosmar sostenía una taza de porcelana blanca con la mano derecha, mientras los dedos mecánicos de su brazo cibernético izquierdo tamborileaban en silencio sobre el mantel de hilo. El tecnomante vestía un traje impecablemente planchado, gabán de cuello alto y corbata oscura, contrastando con las miradas de reojo de los camareros. Sus ojos todavía lucían ojerosos por la noche de delirios y alcohol, pero su semblante había recuperado la fría serenidad académica que lo caracterizaba:
 
-—Disfruta de la abundancia mientras dure, Benray —murmuró Marloc, bebiendo un sorbo mesurado de café negro—. La pólvora aún impregna el aire de los niveles inferiores. La muerte de Marlene no fue un accidente y el sindicato minero sigue en pie de guerra. El Consejo de la estación no tardará en atar cabos sobre lo sucedido en el Club Con-Fusión.
+—Disfruta de la abundancia mientras dure, Benrey —murmuró Marloc, bebiendo un sorbo mesurado de café negro—. La pólvora aún impregna el aire de los niveles inferiores. La muerte de Marlene no fue un accidente y el sindicato minero sigue en pie de guerra. El Consejo de la estación no tardará en atar cabos sobre lo sucedido en el Club Con-Fusión.
 
 —Siempre tan optimista, profesor —ironizó Triel Istrav desde el otro lado de la mesa. 
 
@@ -392,6 +392,6 @@ El autómata se detuvo a tres metros de la mesa, proyectando un cono de escaneo 
 
 El silencio cayó sobre la terraza como una losa de plomo. Los clientes de las mesas colindantes bajaron los cubiertos, intercambiando miradas de pánico contenido.
 
-Gerty giró los servomotores de su torso con un chasquido metálico. Benray escondió la mano derecha bajo el mantel buscando el perno de su pistola láser, mientras los circuitos de Axel destellaban en rojo táctico.
+Gerty giró los servomotores de su torso con un chasquido metálico. Benrey escondió la mano derecha bajo el mantel buscando el perno de su pistola láser, mientras los circuitos de Axel destellaban en rojo táctico.
 
 El pasado que creían haber dejado sepultado en los bajos fondos acababa de alcanzarlos a plena luz del día.

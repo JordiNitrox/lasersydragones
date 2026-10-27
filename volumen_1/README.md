@@ -52,6 +52,6 @@ volumen_1/
 
 ## 4. Sinopsis Narrativa
 
-Cuatro aventureros sin aparente vínculo común coinciden en la Estación Absalón: el parlanchín ysoki Benray Galway, la mecánica semi-drow Triel Istrav junto a su meca cuadrúmano Gerty, el enigmático tecnomante humano Marloc Boosmar y la silenciosa operativa androide A.Xel 42. Convocados por la investigadora Marlene Boosmar al Muelle 94, presencian su asesinato a manos de un francotirador, desatando una brutal guerra de pandillas entre los Reyes del Nivel 21 y los 21 Watts.
+Cuatro aventureros sin aparente vínculo común coinciden en la Estación Absalón: el parlanchín ysoki Benrey Galway, la mecánica semi-drow Triel Istrav junto a su meca cuadrúmano Gerty, el enigmático tecnomante humano Marloc Boosmar y la silenciosa operativa androide A.Xel 42. Convocados por la investigadora Marlene Boosmar al Muelle 94, presencian su asesinato a manos de un francotirador, desatando una brutal guerra de pandillas entre los Reyes del Nivel 21 y los 21 Watts.
 
 Contratados como peritos independientes por el directivo shirren Chiskisk de Inversiones Estelares S.C., el cuarteto desciende a las profundidades de la Espiga (*The Spike*). Tras una partida de cartas cuánticas clandestina con tahúres de los Bajos y el asalto al club *Con-Fusión*, abaten al lugarteniente vesk Brock Hilario y descubren la conspiración de la megacorporación Extracciones Estelares contra los mineros de Hardscrabble alrededor del pecio fantasma *Acreon*.

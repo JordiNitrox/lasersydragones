@@ -10,7 +10,7 @@ La androide sintió cómo la vitalidad de sus componentes sintéticos era succio
 
 —¡Es un parásito vampírico! —gritó Axel, apoyando la espalda contra el fuselaje de la *Estrella Errante* para no desplomarse—. ¡Se alimenta de nuestra fuerza a distancia y regenera su tejido celular!
 
-—¡Aléjense de su línea visual! —ordenó Benray, trepando con agilidad de roedor por las escalerillas de servicio de la nave hasta alcanzar la curvatura del ala superior—. ¡No dejen que concentre sus zarcillos en un solo objetivo! ¡Get 'em, muchachos! ¡Es vulnerable a la electricidad!
+—¡Aléjense de su línea visual! —ordenó Benrey, trepando con agilidad de roedor por las escalerillas de servicio de la nave hasta alcanzar la curvatura del ala superior—. ¡No dejen que concentre sus zarcillos en un solo objetivo! ¡Get 'em, muchachos! ¡Es vulnerable a la electricidad!
 
 Desde lo alto del ala, el ysoki abrió fuego continuo con su pistola de choque, alcanzando el lomo del monstruo con chispas azuladas que le arrancaron un chillido sordo.
 
@@ -64,7 +64,7 @@ Durante un largo minuto, nadie se atrevió a moverse.
 
 El silencio que siguió al combate fue absoluto, roto únicamente por el crujido del fuselaje enfriándose y el goteo de la sangre alienígena sobre el metal.
 
-Benray bajó deslizándose por el ala de la nave, aterrizando de pie junto al cadáver del monstruo:
+Benrey bajó deslizándose por el ala de la nave, aterrizando de pie junto al cadáver del monstruo:
 
 —¿Está muerto? ¿De verdad está muerto? —preguntó, dándole un puntapié a la cola espinosa con la punta de la bota—. Porque si se vuelve a levantar, juro que me subo a la nave y despego sin ustedes.
 
@@ -78,7 +78,7 @@ Triel corrió de inmediato hacia Gerty, arrodillándose junto a su meca destroza
 
 —Estuviste increíble, Gerty —sonrió Triel con los ojos brillantes, acariciando la coraza del robot—. Eres el mejor meca de combate de los Mundos del Pacto.
 
-Mientras Triel iniciaba las reparaciones de emergencia y Marloc recuperaba el aliento apoyado contra una caja, Benray y Axel inspeccionaron los almacenes laterales del hangar para asegurar el perímetro.
+Mientras Triel iniciaba las reparaciones de emergencia y Marloc recuperaba el aliento apoyado contra una caja, Benrey y Axel inspeccionaron los almacenes laterales del hangar para asegurar el perímetro.
 
 Lo que hallaron en el interior de la primera bodega les heló el alma.
 
@@ -108,6 +108,6 @@ Triel se dejó caer en el sillón del piloto del puente de mando, pasando sus de
 
 —No puedo creerlo... Es nuestra. Una nave estelar de exploración de largo alcance, totalmente operativa y con armamento militar.
 
-Benray se asomó a la cúpula superior, contemplando las estrellas que brillaban al otro lado de la compuerta del hangar:
+Benrey se asomó a la cúpula superior, contemplando las estrellas que brillaban al otro lado de la compuerta del hangar:
 
 —Bueno, tripulación de la *Estrella Errante*... Se acabó la caminata por el barro. Es hora de encender motores y volver a casa como héroes.

@@ -17,7 +17,7 @@ def analyze_all():
                 "jabaxa", "hess", "twonas", "twonás", "chula", "lancha", "pantano", "río",
                 "legion", "legión", "cielofuego", "skyfire", "qabarat", "absalon", "ábsalon",
                 "gevalarsk", "nor", "eox", "extracciones", "inversiones", "joss", "chassi",
-                "steel", "gerty", "claire", "triel", "benray", "marloc", "marlo", "axel",
+                "steel", "gerty", "claire", "triel", "benrey", "marloc", "marlo", "axel",
                 "devorador", "devastador", "diaspora", "diáspora", "willy", "naru",
                 "fantasmeame", "marcelus", "computadora", "dron", "sanguijuelas"
             ]

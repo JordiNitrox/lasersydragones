@@ -6,7 +6,7 @@
 ## 1. El Escenario
 
 ### La Nave Hippocampus (*El Caballito de Mar*)
-Una nave ligera de exploración y transporte cedida a la tripulación por mediación del Colectivo Hardscrabble e Inversiones Estelares S.C., convenientemente mejorada con fondos diplomáticos de Eox. Maniobrable, dotada de motores Drift básicos, bahía de carga adaptada y camarotes funcionales, se convierte en el primer cuartel móvil y hogar estelar de Benray, Triel, Gerty, Marloc y Axel 42.
+Una nave ligera de exploración y transporte cedida a la tripulación por mediación del Colectivo Hardscrabble e Inversiones Estelares S.C., convenientemente mejorada con fondos diplomáticos de Eox. Maniobrable, dotada de motores Drift básicos, bahía de carga adaptada y camarotes funcionales, se convierte en el primer cuartel móvil y hogar estelar de Benrey, Triel, Gerty, Marloc y Axel 42.
 
 ### El Pecio Fantasma *Acreon*
 Un carguero minero de gran tonelaje perteneciente al Colectivo Hardscrabble que reapareció inesperadamente del Drift tras meses de silencio absoluto en el vacío exterior de la Estación Absalón. Con sus sistemas de soporte vital en cuarentena, la atmósfera despresurizada y rastros de combates violentos a bordo, la nave oculta el trágico destino de su tripulación y una infestación de depredadores alienígenas.
@@ -39,9 +39,9 @@ Unidad bípeda pesada de dos metros de altura con cúpula acristalada, cañón l
 *Tecnomante Humano (Jugador: Juan Pablo)*  
 Erudito elegante y reflexivo, con brazo izquierdo cibernético, túnica entrelazada con circuitos mágicos y peinado pulcro. Marcado por el asesinato de Marlene Boosmar, el enigma de sus recuerdos divergentes y las visiones fragmentarias previas a la Brecha, recurre a los claustros del Arcanamirium en busca de respuestas y canaliza conjuros devastadores de energía cuántica en los pasillos helados del *Acreon*.
 
-### Benray Galway
+### Benrey Galway
 *Emisario Ysoki (Jugador: Miguel)*  
-Pícaro orador, temerario negociador callejero y antiguo creador de holovídeos virales de acrobacias extremas. Con su pelaje blanco níveo y antifaz natural negro alrededor de los ojos, Benray despliega su carisma para sortear a la justicia, mantener a raya a los matones corporativos, conducir su inseparable motoneta "vespacial" en los Bajos y coordinar tácticamente a la tripulación ante lo desconocido.
+Pícaro orador, temerario negociador callejero y antiguo creador de holovídeos virales de acrobacias extremas. Con su pelaje blanco níveo y antifaz natural negro alrededor de los ojos, Benrey despliega su carisma para sortear a la justicia, mantener a raya a los matones corporativos, conducir su inseparable motoneta "vespacial" en los Bajos y coordinar tácticamente a la tripulación ante lo desconocido.
 
 ### A.Xel 42
 *Operativa Androide (Jugadora: Sofía)*  
@@ -65,7 +65,7 @@ Criatura gul (*ghoul*) vestida con túnica y capucha de terciopelo negro. De pie
 
 ### Oficial León
 *Oficial de Comunicaciones y Enlace de los Protectores*  
-Oficial del cuerpo de pacificadores espaciales asignado a la supervisión y monitorización orbital de la misión del *Acreon*. Militar estricto, formal y severo, recibe las transmisiones de datos y bitácoras enviadas por el grupo desde el pecio. Es continuamente puesto a prueba por la irreverencia de Benray Galway, quien adora burlarse de sus "poderes de paladín" y colgarle transmisiones fingiendo estática cada vez que León descubre las filtraciones de vídeos clandestinos.
+Oficial del cuerpo de pacificadores espaciales asignado a la supervisión y monitorización orbital de la misión del *Acreon*. Militar estricto, formal y severo, recibe las transmisiones de datos y bitácoras enviadas por el grupo desde el pecio. Es continuamente puesto a prueba por la irreverencia de Benrey Galway, quien adora burlarse de sus "poderes de paladín" y colgarle transmisiones fingiendo estática cada vez que León descubre las filtraciones de vídeos clandestinos.
 
 ### Oficial Monroe
 *Oficial de Campo de los Protectores*  
@@ -116,12 +116,12 @@ Miembros de la oficialidad del *Acreon* (un enano de comunicaciones y una artill
 Comisionado y directivo shirren de **Inversiones Estelares S.C.** Mentor diplomático y protector legal del grupo, cuya hábil maniobra política ante el Consejo de Síndicos y el Colectivo Hardscrabble asegura que los protagonistas sean designados árbitros oficiales e independientes para la misión del *Acreon*.
 
 ### Rim Rey
-*Mecánico de los Bajos y primo de Benray Galway*  
-Ingenioso mecánico ysoki que cuida y pone a punto la motoneta vespacial de Benray en la Espiga, proveyendo al grupo de provisiones clandestinas (incluyendo sus célebres tacos de carnitas espaciales) y repuestos antes de que abandonen la estación.
+*Mecánico de los Bajos y primo de Benrey Galway*  
+Ingenioso mecánico ysoki que cuida y pone a punto la motoneta vespacial de Benrey en la Espiga, proveyendo al grupo de provisiones clandestinas (incluyendo sus célebres tacos de carnitas espaciales) y repuestos antes de que abandonen la estación.
 
 ### Marcellus
-*Productor audiovisual, editor y promotor en la sombra de Benray Galway*  
-Misteriosa y extravagante figura de los bajos fondos de la comunicación y el espectáculo en la Estación Absalón. Entregó a Benray el dron deportivo con el que el ysoki retransmite sus andanzas espaciales y con quien mantiene un pacto comercial en la sombra: Marcellus recibe el metraje crudo en tiempo real mediante un enlace cuántico privado, lo edita con sensacionalismo heroico, añade fanfarrias y lo filtra como emisión pirata a las holopantallas del Ojo de Absalón, convirtiendo a la tripulación en una sensación pública de masas.
+*Productor audiovisual, editor y promotor en la sombra de Benrey Galway*  
+Misteriosa y extravagante figura de los bajos fondos de la comunicación y el espectáculo en la Estación Absalón. Entregó a Benrey el dron deportivo con el que el ysoki retransmite sus andanzas espaciales y con quien mantiene un pacto comercial en la sombra: Marcellus recibe el metraje crudo en tiempo real mediante un enlace cuántico privado, lo edita con sensacionalismo heroico, añade fanfarrias y lo filtra como emisión pirata a las holopantallas del Ojo de Absalón, convirtiendo a la tripulación en una sensación pública de masas.
 
 ---
 

@@ -6,11 +6,11 @@ En la plataforma de desembarco del muelle civil, la doctora Omejia Solstarni Way
 
 —Cumpliré mi palabra —aseguró la doctora, inclinando su cráneo cónico en una reverencia solemne—. La universidad no publicará una sola línea sobre las coordenadas de la superarma ni sobre los incidentes de Ukulam hasta que los Protectores y ustedes hayan neutralizado la amenaza en la Diáspora. Les debo la vida, amigos míos, y el honor de la casa Raimar no olvida una deuda de sangre.
 
-—Cuídese mucho, doctora —respondió Benray, estrechándole dos de sus manos con efusividad—. Y si vuelve a contratar guías para una excavación, asegúrese de que no lleven tatuajes del Devorador en el cogote. Es un detalle que ahorra bastantes disgustos.
+—Cuídese mucho, doctora —respondió Benrey, estrechándole dos de sus manos con efusividad—. Y si vuelve a contratar guías para una excavación, asegúrese de que no lleven tatuajes del Devorador en el cogote. Es un detalle que ahorra bastantes disgustos.
 
 Tras despedir a la científica, el grupo subió por fin la rampa de acceso de la *Estrella Errante*. En la esclusa principal, Gerty se reactivó de su modo de espera con un leve pitido hidráulico, saludándolos con un chasquido de sus cuatro brazos mecánicos mientras los sistemas de presurización confirmaban la integridad de la nave. La sala de máquinas, limpia y ordenada desde que Willy y Naru se habían quedado en Absalón bajo la tutela del oficial León, zumbaba en armonía perfecta.
 
-Mientras Triel se dirigía al panel de motores y Benray subía hacia sus aposentos, A.Xel 42 caminó en silencio hacia su camarote en la cubierta intermedia. El compartimento era espartano: un catre de lona militar, una taquilla de aleación blindada y un soporte de mantenimiento para su chasis.
+Mientras Triel se dirigía al panel de motores y Benrey subía hacia sus aposentos, A.Xel 42 caminó en silencio hacia su camarote en la cubierta intermedia. El compartimento era espartano: un catre de lona militar, una taquilla de aleación blindada y un soporte de mantenimiento para su chasis.
 
 En la pantalla de su muñequera, un nuevo mensaje acababa de sortear los cortafuegos del comunicador de la nave. No tenía remitente ni dirección IP rastreable. Solo constaban tres palabras:
 
@@ -38,13 +38,13 @@ Axel no apartó los ojos de la imagen. Con un gesto lento, le tendió la fotogra
 
 Triel observó la imagen con detenimiento y luego miró a la androide a los ojos, apretándole la mano con ternura.
 
-—Escúchame bien, Axel —dijo la semi-drow con firmeza—. Tu cuerpo puede haber tenido otra historia antes de que despertaras, igual que esta chaqueta de cuero que llevo perteneció antes a un corsario que probablemente murió en una escaramuza en la Diáspora. Pero lo que eres hoy —la persona que nos cubrió las espaldas en Loskialua, la que saltó a un río embravecido para salvar a Benray y a Solstarni, la que no duda un segundo cuando sus amigos están en peligro—... esa eres tú. Ni Éclair ni Null-9 ni nadie en el Templo de Triune puede definir quién eres, salvo tú misma.
+—Escúchame bien, Axel —dijo la semi-drow con firmeza—. Tu cuerpo puede haber tenido otra historia antes de que despertaras, igual que esta chaqueta de cuero que llevo perteneció antes a un corsario que probablemente murió en una escaramuza en la Diáspora. Pero lo que eres hoy —la persona que nos cubrió las espaldas en Loskialua, la que saltó a un río embravecido para salvar a Benrey y a Solstarni, la que no duda un segundo cuando sus amigos están en peligro—... esa eres tú. Ni Éclair ni Null-9 ni nadie en el Templo de Triune puede definir quién eres, salvo tú misma.
 
 Marloc asintió gravemente desde el umbral, cruzándose de brazos:
 
 —La conciencia es el único vector real en un universo entrópico, señorita Axel. El chasis es solo el soporte físico de una ecuación. Y su ecuación es única e insustituible.
 
-Un carraspeo incómodo resonó desde el pasillo. Benray Galway asomó el hocico con un datapad parpadeante en la mano, con una expresión que oscilaba entre el desconcierto y el sonrojo:
+Un carraspeo incómodo resonó desde el pasillo. Benrey Galway asomó el hocico con un datapad parpadeante en la mano, con una expresión que oscilaba entre el desconcierto y el sonrojo:
 
 —Lamento interrumpir este hermoso momento de catarsis existencial, muchachos... pero Triel y el profesor acaban de terminar de desencriptar los archivos del datapad de Salas, y creo que tenemos un problema bastante bizarro.
 

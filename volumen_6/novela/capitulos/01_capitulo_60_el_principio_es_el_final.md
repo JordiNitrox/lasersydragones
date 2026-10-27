@@ -6,7 +6,7 @@ Bajo la cúpula resquebrajada, donde los últimos rayos de luz planetaria se fil
 
 —Pensar que todo esto ha permanecido oculto durante milenios —susurró la arqueóloga kasatha, su voz grave amortiguada por el cuello alto de su casaca de campo—. Y ahora que por fin lo tocamos, debemos dejarlo atrás en manos de la selva. El conocimiento no nos pertenece; tan solo somos testigos fugaces que tropiezan con los escombros de quienes nos precedieron.
 
-—Bueno, doctora, si le sirve de consuelo —terció Benray Galway, inspeccionando con ojo crítico una lata abollada de raciones de campaña recuperada del petate de los cultistas—, esos tipos del Devorador tampoco eran muy dados a la conservación del patrimonio histórico. Por lo que a mí respecta, si los escombros no explotan en los próximos diez minutos, ya es una victoria académica de primer orden. Por cierto, ¿alguien sabe si esta pasta marrón era originalmente pollo o lubricante para turbinas? Huele a calcetín húmedo de minero vesk.
+—Bueno, doctora, si le sirve de consuelo —terció Benrey Galway, inspeccionando con ojo crítico una lata abollada de raciones de campaña recuperada del petate de los cultistas—, esos tipos del Devorador tampoco eran muy dados a la conservación del patrimonio histórico. Por lo que a mí respecta, si los escombros no explotan en los próximos diez minutos, ya es una victoria académica de primer orden. Por cierto, ¿alguien sabe si esta pasta marrón era originalmente pollo o lubricante para turbinas? Huele a calcetín húmedo de minero vesk.
 
 —Es una pasta hipercalórica sintética de uso militar restringido, señor Galway —aclaró Marloc Boosmar desde el umbral de la cámara anexa, donde había estado catalogando las inscripciones de la consola estelar—. Caducada hace tres ciclos solares, a juzgar por el número de lote. Le aconsejo que no la ingiera a menos que desee experimentar una purga gástrica de dimensiones cósmicas.
 
@@ -44,7 +44,7 @@ Al amanecer, la expedición inició el descenso. El sendero por el que habían s
 
 La doctora Solstarni caminaba en el centro del grupo, envuelta en un impermeable térmico que cubría sus cuatro brazos, apoyándose en un bastón de marcha improvisado con una rama de cedro ferroso.
 
-—A este ritmo —advirtió Benray, sacando la cabeza por encima del cuello de su gabardina empapada mientras una ráfaga de viento le azotaba los bigotes—, no vamos a necesitar una nave para volver a Cabo Turhalu. Bastará con que nos dejemos llevar flotando río abajo. ¡Por todos los santos de la Espiga, llevo dos litros de agua dentro de cada bota!
+—A este ritmo —advirtió Benrey, sacando la cabeza por encima del cuello de su gabardina empapada mientras una ráfaga de viento le azotaba los bigotes—, no vamos a necesitar una nave para volver a Cabo Turhalu. Bastará con que nos dejemos llevar flotando río abajo. ¡Por todos los santos de la Espiga, llevo dos litros de agua dentro de cada bota!
 
 —Agradezca que el agua es dulce, señor Galway —replicó Marloc, limpiando el sensor óptico de su anteojo con la manga interior de su túnica—. En las marismas bajas del sur, la lluvia ácida de los pantanos disuelve las aleaciones ligeras en cuestión de horas.
 
@@ -54,7 +54,7 @@ El agua bajaba turbia, arrastrando troncos gigantescos y masas compactas de vege
 
 —El río ha triplicado su caudal —señaló Axel, escaneando la corriente con sus sensores de distancia—. El vado principal está intransitable. Tendremos que cruzar saltando de roca en roca hasta el islote central.
 
-—¿Saltar? —exclamó Benray, mirando las aguas turbulentas con horror indisimulado—. Mido noventa centímetros, señorita Axel. Para mí eso no es un salto, ¡es una maniobra de reentrada orbital sin paracaídas!
+—¿Saltar? —exclamó Benrey, mirando las aguas turbulentas con horror indisimulado—. Mido noventa centímetros, señorita Axel. Para mí eso no es un salto, ¡es una maniobra de reentrada orbital sin paracaídas!
 
 —Gerty puede lanzarlo si lo desea, señor Galway —sugirió Triel con una sonrisa maliciosa.
 

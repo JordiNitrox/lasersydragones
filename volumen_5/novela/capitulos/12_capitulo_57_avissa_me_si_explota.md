@@ -30,7 +30,7 @@ En sus brazos musculosos sostenía una **ametralladora rotatoria pesada de seis 
 
 El tambor de la ametralladora escupió una tempestad de fuego continuo. Cientos de proyectiles cinéticos pesados barrieron el pasillo central, pulverizando los bajorrelieves de las columnas y levantando una lluvia de esquirlas y polvo que cegó los sensores del pelotón.
 
-—¡A cubierto! —aulló Benray arrojándose de cabeza tras una pilastra rota mientras las balas de gran calibre arrancaban pedazos de piedra a pocos centímetros de su hocico—. ¡Esa mujer no es una mamá, es una fragata de guerra con patas!
+—¡A cubierto! —aulló Benrey arrojándose de cabeza tras una pilastra rota mientras las balas de gran calibre arrancaban pedazos de piedra a pocos centímetros de su hocico—. ¡Esa mujer no es una mamá, es una fragata de guerra con patas!
 
 Junto a la ametralladora de la capitana, media docena de cultistas del Devorador asomaron por encima de los sacos de arena, abriendo fuego cruzado con carabinas láser y arrojando granadas de fragmentación hacia los flancos.
 
@@ -42,17 +42,17 @@ Gerty avanzó un paso, interponiendo sus dos escudos antidisturbios acoplados a 
 
 ### III. Carrera contra el detonador
 
-—¡Triel, Axel! —gritó Marloc sobre el estruendo de los cañones—. ¡Tienen que llegar al altar y neutralizar los explosivos! ¡Si esa psicópata activa el temporizador remoto, no quedará nada de este lugar! ¡Benray y yo mantendremos su fuego ocupado!
+—¡Triel, Axel! —gritó Marloc sobre el estruendo de los cañones—. ¡Tienen que llegar al altar y neutralizar los explosivos! ¡Si esa psicópata activa el temporizador remoto, no quedará nada de este lugar! ¡Benrey y yo mantendremos su fuego ocupado!
 
 —¡Hecho! —asintió la semi-drow, preparando sus cortadores de plasma y su omniherramienta.
 
 Marloc dio un paso al frente y alzó su báculo tecnomántico. Con una fórmula matemática precisa, desató un relámpago de energía de sobretensión directamente contra el tambor de alimentación de la ametralladora rotatoria. El mecanismo se atascó momentáneamente en una nube de chispas, interrumpiendo la ráfaga de Avissa.
 
-Benray aprovechó el segundo de tregua para asomarse y provocar a la mercenaria con su cinismo habitual:
+Benrey aprovechó el segundo de tregua para asomarse y provocar a la mercenaria con su cinismo habitual:
 
 —¡Eh, señora del pañuelo rojo! ¿Esa chatarra gira tan despacio como sus neuronas? ¡Venga, dispárame a mí si tiene agallas!
 
-Avissa rugió de furia, golpeando el tambor con el puño acorazado para desbloquearlo y concentrando todo su fuego en la columna de Benray.
+Avissa rugió de furia, golpeando el tambor con el puño acorazado para desbloquearlo y concentrando todo su fuego en la columna de Benrey.
 
 Mientras la atención enemiga se desviaba hacia el flanco izquierdo, Axel y Triel avanzaron a la carrera por la galería derecha en una maniobra de infiltración perfecta. La androide se deslizó entre las sombras de las columnas, abatiendo con disparos quirúrgicos a dos cultistas que protegían el nido de ametralladoras.
 
@@ -76,7 +76,7 @@ Al escuchar la noticia, Avissa se quedó lívida:
 
 No tuvo tiempo de terminar la maldición.
 
-Axel asomó el cañón de su rifle de hielo desde el flanco derecho, mientras Benray y Marloc salían de su cobertura por la izquierda. Una descarga combinada de proyectiles criogénicos, rayos de plasma y saetas tecnománticas impactó en el torso y la cabeza de la mercenaria.
+Axel asomó el cañón de su rifle de hielo desde el flanco derecho, mientras Benrey y Marloc salían de su cobertura por la izquierda. Una descarga combinada de proyectiles criogénicos, rayos de plasma y saetas tecnománticas impactó en el torso y la cabeza de la mercenaria.
 
 La colosal ametralladora rotatoria cayó al suelo con un estrépito metálico. Avissa tambaleó hacia atrás, chocó contra la barricada rota y se desplomó pesadamente sobre el mármol, derrotada para siempre.
 

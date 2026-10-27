@@ -64,7 +64,7 @@ VOLUMENES = {
         "episodios": list(range(136, 163)), # 136 al 162
         "libro_paizo": "Arco Canónico Propio: Familia Galway, Zivok y Rumbo al Vasto",
         "escenario": "Carguero familiar La Galway, espacio profundo y colonias mineras ysoki",
-        "sinopsis": "Juan Pablo da descanso temporal a Marloc e introduce al operativo Zivok. A bordo del destartalado carguero familiar La Galway, Benray debe lidiar con las vendettas, deudas y paranoias de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Entre motines, abordajes en el vacío y claustrofobia espacial, Zivok demuestra su lealtad al equipo y Triel mantiene unida la nave mientras se aproximan a las coordenadas de Nejeor."
+        "sinopsis": "Juan Pablo da descanso temporal a Marloc e introduce al operativo Zivok. A bordo del destartalado carguero familiar La Galway, Benrey debe lidiar con las vendettas, deudas y paranoias de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Entre motines, abordajes en el vacío y claustrofobia espacial, Zivok demuestra su lealtad al equipo y Triel mantiene unida la nave mientras se aproximan a las coordenadas de Nejeor."
     },
     12: {
         "titulo": "Las Nubes Arruinadas: La Ciudadela de Istamak",
@@ -197,7 +197,7 @@ Este volumen es una adaptación literaria sin ánimo de lucro realizada por un s
 ## 2. Los Protagonistas
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene).
 * **Gerty:** Dron de Combate y Asalto Pesado (Voz: Roberto).
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel).
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel).
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo).
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía).
 * *(Ver notas de mesa en metadatos para rotaciones de personajes como Zivok en Volumen 11).*
@@ -329,7 +329,7 @@ Adaptaciones y recursos sin ánimo de lucro elaborados por seguidores del podcas
 
 > **Episodios:** 73 al 76a (4 episodios / ~4 capítulos).  
 > **Sistema:** *Pathfinder 2e* dentro del universo Starfinder (Cámara de inmersión virtual EPIX en Ábsalon).  
-> **Avatares:** Benray (rana Isopi Flower), Marloc (orco Valor con Bigote Sangrienta), Axel (leshy Pastinaxcel 42) y Triel (mutante Monstruo).  
+> **Avatares:** Benrey (rana Isopi Flower), Marloc (orco Valor con Bigote Sangrienta), Axel (leshy Pastinaxcel 42) y Triel (mutante Monstruo).  
 > **Estado:** Transcripciones limpias y raw integradas y listas para la redacción final.
 
 ---

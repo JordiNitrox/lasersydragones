@@ -16,7 +16,7 @@ El tecnomante extendió ambos brazos hacia el interior del despacho destrozado d
 
 —*Ghost-Echo Mirage!*
 
-En el centro de la habitación, justo detrás del escritorio acribillado, la luz ambiental se refractó hasta condensar cuatro figuras espectrales perfectamente sólidas en apariencia: una réplica ilusoria de Marloc, Axel, Triel y Benray, parapetados tras el mármol y apuntando con armas simuladas hacia la puerta principal. Una de las figuras incluso imitaba la voz acelerada de Benray, gritando insultos teatrales contra la policía de la estación.
+En el centro de la habitación, justo detrás del escritorio acribillado, la luz ambiental se refractó hasta condensar cuatro figuras espectrales perfectamente sólidas en apariencia: una réplica ilusoria de Marloc, Axel, Triel y Benrey, parapetados tras el mármol y apuntando con armas simuladas hacia la puerta principal. Una de las figuras incluso imitaba la voz acelerada de Benrey, gritando insultos teatrales contra la policía de la estación.
 
 —Magia de calidad académica, profesor —reconoció Bumak, visiblemente impresionado—. Ahora, síganme a la terraza exterior.
 
@@ -26,13 +26,13 @@ Bumak abrió los compartimentos de una mochila técnica y extrajo cinco paquetes
 
 —Alas de planeo térmico para infiltración urbana. Despliegue automático al alcanzar cuarenta metros de caída libre. Si alguna vez quisieron saber qué se siente al ser un halcón en la noche de Ábsalon, este es su momento de gloria.
 
-—¿Insinúa que vamos a saltar al vacío desde un piso veintiocho con dos pedazos de plástico pegados a la espalda? —preguntó Benray, asomando el hocico al borde de la cornisa con los ojos desorbitados—. ¡Mido noventa centímetros, señor Istrav! ¡Mi coeficiente de resistencia al viento es el de una nuez con bigote! ¡Voy a caer como una piedra al fondo de la Espiga!
+—¿Insinúa que vamos a saltar al vacío desde un piso veintiocho con dos pedazos de plástico pegados a la espalda? —preguntó Benrey, asomando el hocico al borde de la cornisa con los ojos desorbitados—. ¡Mido noventa centímetros, señor Istrav! ¡Mi coeficiente de resistencia al viento es el de una nuez con bigote! ¡Voy a caer como una piedra al fondo de la Espiga!
 
 —Gerty, ancla al señor Galway a tu chasis ventral —ordenó Triel con una sonrisa resuelta mientras se ajustaba el arnés a los hombros—. Caerán juntos. Las turbinas de maniobra de Gerty compensarán el peso.
 
 *«Integración de carga viva completada»*, anunció el meca de asalto, bloqueando las cinchas sobre el chaleco del ysoki con un chasquido rotundo. *«Sujétese con fuerza a mis placas pectorales, señor Galway. No se garantiza la integridad de su dentadura si decidimos frenar contra una marquesina publicitaria»*.
 
-—¡Por las lunas de Apostae, esto es una locura maravillosa! —exclamó Benray, aferrándose al blindaje de Gerty como un náufrago a un madero.
+—¡Por las lunas de Apostae, esto es una locura maravillosa! —exclamó Benrey, aferrándose al blindaje de Gerty como un náufrago a un madero.
 
 En ese instante, la puerta del despacho saltó por los aires con un estampido ensordecedor. Las tropas de asalto corporativas irrumpieron en la sala entre granadas aturdidoras, abriendo fuego concentrado contra los señuelos espectrales de Marloc, que absorbían los disparos entre chispas de luz sin inmutarse.
 
@@ -54,14 +54,14 @@ Bajo ellos, las patrullas policiales convergían en la base del rascacielos con 
 
 Planeando con pericia militar a través de los cañones de neón del sector comercial, el grupo viró hacia el este, descendiendo gradualmente hacia los niveles industriales del Anillo exterior. Aterrizaron con suavidad sobre la azotea enrejada de una subestación eléctrica abandonada en el Muelle 22, donde la oscuridad de los hangares de carga los envolvió como un manto protector.
 
-Mientras Triel y Bumak plegaban las alas de lona y Gerty soltaba a un Benray visiblemente mareado pero eufórico sobre las planchas de metal, el comunicador del ysoki comenzó a repicar con un tono insistente de llamada prioritaria.
+Mientras Triel y Bumak plegaban las alas de lona y Gerty soltaba a un Benrey visiblemente mareado pero eufórico sobre las planchas de metal, el comunicador del ysoki comenzó a repicar con un tono insistente de llamada prioritaria.
 
-Benray sacó el terminal de su bolsillo con manos temblorosas. En la pantalla, un mensaje de texto cifrado acababa de desencriptarse gracias al rastro que los contactos de Bumak habían rastreado en la red local:
+Benrey sacó el terminal de su bolsillo con manos temblorosas. En la pantalla, un mensaje de texto cifrado acababa de desencriptarse gracias al rastro que los contactos de Bumak habían rastreado en la red local:
 
 `[UBICACIÓN CONFIRMADA: ALMACÉN 47-B, MUELLE 22].`  
 `[OBJETIVO LOCALIZADO: MARCELUS SE ENCUENTRA EN EL INTERIOR].`  
 `[ADVERTENCIA: EL SUJETO ESTÁ EMPACANDO EQUIPO DE TRANSMISIÓN PARA EVACUACIÓN].`
 
-Benray Galway apretó los dientes, se ajustó las gafas de sol sobre el hocico y desenfundó su pistola con un chasquido seco de determinación:
+Benrey Galway apretó los dientes, se ajustó las gafas de sol sobre el hocico y desenfundó su pistola con un chasquido seco de determinación:
 
 —Muchachos, la diversión corporativa ha terminado. Ahora empieza el ajuste de cuentas personal. Síganme: vamos a hacerle una visita a mi productor estrella.

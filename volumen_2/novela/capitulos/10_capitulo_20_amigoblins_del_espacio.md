@@ -8,7 +8,7 @@ Los dos goblins espaciales permanecían arrodillados sobre sacos de harina deshi
 
 —¡Cállate, Willy! ¡Deja de humillarte frente a los altos! Si nos van a ejecutar, ¡que me miren a los ojos!
 
-Benray bajó lentamente el cañón de su fusil, rascándose la oreja con perplejidad a través del casco:
+Benrey bajó lentamente el cañón de su fusil, rascándose la oreja con perplejidad a través del casco:
 
 —¿Goblins espaciales? ¿En un carguero minero fantasma en cuarentena a doscientas mil millas de Absalón? ¿Cómo demonios llegaron hasta aquí?
 
@@ -38,9 +38,9 @@ Con un movimiento fluido de sus articulaciones secundarias, uno de los brazos in
 
 —¡Bueno, bueno, qué carácter tienen los mecánicos diplomados! —protestó Willy, pataleando en el aire con una carcajada estridente—. Solo quería colaborar en la alianza. Para sellar el pacto de negocios, tomen esto. ¡Regalos de la casa!
 
-El goblin metió ambas manos en sus dilatados bolsillos y comenzó a repartir artefactos entre la tripulación como si fuera una fiesta infantil: dos granadas incendiarias de magnesio para Axel, dos granadas eléctricas de iones para Marloc, un par de bombas adhesivas de polímero elástico para Benray y un pesado extintor de espuma ignífuga que colgó con descaro del chasis de Gerty.
+El goblin metió ambas manos en sus dilatados bolsillos y comenzó a repartir artefactos entre la tripulación como si fuera una fiesta infantil: dos granadas incendiarias de magnesio para Axel, dos granadas eléctricas de iones para Marloc, un par de bombas adhesivas de polímero elástico para Benrey y un pesado extintor de espuma ignífuga que colgó con descaro del chasis de Gerty.
 
-Benray inspeccionó las granadas con ojo clínico:
+Benrey inspeccionó las granadas con ojo clínico:
 
 —Sorprendentemente, no son chatarra casera. Son proyectiles de manufactura reglamentaria robados de las armerías de la estación. Amigoblins, esto empieza a ser un equipo funcional.
 
@@ -94,7 +94,7 @@ Una alarma estridente de despresurización comenzó a pitar en el intercomunicad
 
 —¡Maldición! ¡Brecha en el traje! —gimió Triel, trastabillando hacia atrás mientras la trampa láser se autodestruía en el interior de la sala entre chispas y humo negro.
 
-Gerty interpuso sus escudos al instante cubriendo a su creadora, mientras Benray reaccionaba con velocidad fulgurante: desenfundó un parche médico sellador de emergencia de su bolsillo táctico y lo estampó con fuerza sobre el hombro perforado de la mecánica. La resina expansiva del parche polimerizó en milisegundos, obturando herméticamente la brecha contra el vacío y suministrando una inyección directa de coagulante y analgésico que apagó la alarma del traje al estabilizar la presión interior.
+Gerty interpuso sus escudos al instante cubriendo a su creadora, mientras Benrey reaccionaba con velocidad fulgurante: desenfundó un parche médico sellador de emergencia de su bolsillo táctico y lo estampó con fuerza sobre el hombro perforado de la mecánica. La resina expansiva del parche polimerizó en milisegundos, obturando herméticamente la brecha contra el vacío y suministrando una inyección directa de coagulante y analgésico que apagó la alarma del traje al estabilizar la presión interior.
 
 —Brecha sellada y analgésico activo, Triel —susurró el ysoki con alivio—. Solo fue un susto técnico.
 
@@ -108,6 +108,6 @@ Willy y Naru, lejos de acobardarse, desenfundaron sus fusiles con chillidos guer
 
 —¡Aquí vienen los perros de piedra! —aulló Naru, abriendo fuego de cobertura con ráfagas continuas que obligaron a las bestias a ralentizar su avance entre las chispas—. ¡Willy, dales con todo!
 
-Benray sacó las dos granadas de salmuera presurizada de su bandolera, con los ojos brillando de determinación táctica:
+Benrey sacó las dos granadas de salmuera presurizada de su bandolera, con los ojos brillando de determinación táctica:
 
 —¡Axel, Marloc, mantengan la línea! ¡Es hora de servirles su baño de agua salada!

@@ -10,7 +10,7 @@ En el puente de la *Estrella Errante*, la tripulación ocupó sus puestos de com
 
 —¡Sujétense todos! —ordenó Axel desde el timón de maniobra, con sus manos metálicas aferradas a los controles de vectorización—. Entrando en trayectoria evasiva entre los asteroides.
 
-—¡Valdo, dale de comer a ese reactor! —gritó Benray Galway por el intercomunicador, ajustándose el arnés de mando en su butaca de capitán—. ¡Triel, pon en línea todas las baterías de babor y estribor! ¡Vamos a enseñarle a estos esqueletos por qué los corsarios libres nunca pagan peaje!
+—¡Valdo, dale de comer a ese reactor! —gritó Benrey Galway por el intercomunicador, ajustándose el arnés de mando en su butaca de capitán—. ¡Triel, pon en línea todas las baterías de babor y estribor! ¡Vamos a enseñarle a estos esqueletos por qué los corsarios libres nunca pagan peaje!
 
 En la sala de máquinas, el halfling Valdo corría sobre las pasarelas metálicas con una llave de torsión y una lata de refresco en la mano, sobrecargando los inyectores auxiliares con una sonrisa de pura adrenalina:
 —*¡Núcleo de energía al ciento quince por ciento, capitán! ¡Tienen toda la potencia de la galaxia para hacer fuegos artificiales!*
@@ -36,13 +36,13 @@ Las luces del puente parpadearon en un tono ámbar alarmante.
 
 El segundo necroplaneador aprovechó la sobrecarga para lanzarse en picado sobre la popa de la *Estrella Errante*. Sus cañones secundarios escupían andanadas de fuego continuo que arañaban el casco de aleación drow, arrancando esquirlas de metal y amenazando con perforar los conductos de refrigerante.
 
-Benray abrió el canal de comunicaciones tácticas con el interceptor enemigo:
-—¡Aquí el capitán Benray Galway de la *Estrella Errante*! ¡No sé quién les enseñó a pilotar un ataúd con cohetes, cadetes de tres al cuarto, pero les aseguro que están a punto de convertirse en chatarra flotante para los chatarreros de la Diáspora! ¡Ríndanse y les dejaremos conservar sus fémures de recuerdo!
+Benrey abrió el canal de comunicaciones tácticas con el interceptor enemigo:
+—¡Aquí el capitán Benrey Galway de la *Estrella Errante*! ¡No sé quién les enseñó a pilotar un ataúd con cohetes, cadetes de tres al cuarto, pero les aseguro que están a punto de convertirse en chatarra flotante para los chatarreros de la Diáspora! ¡Ríndanse y les dejaremos conservar sus fémures de recuerdo!
 
 La única respuesta que llegó a través del altavoz fue una risa gutural, fría y carente de pulmones, acompañada por una voz femenina distorsionada por moduladores fúnebres:
 —*Mueran en el silencio. No habrá testigos para la gloria de los huesos.*
 
-—Bueno, no digan que no intenté la vía diplomática —suspiró Benray—. ¡Axel, Marloc, acérquense tanto a esa nave que puedan oler su falta de desodorante! ¡Es hora de estrenar el espolón!
+—Bueno, no digan que no intenté la vía diplomática —suspiró Benrey—. ¡Axel, Marloc, acérquense tanto a esa nave que puedan oler su falta de desodorante! ¡Es hora de estrenar el espolón!
 
 Marloc tomó los mandos de pilotaje auxiliar junto a Axel. El tecnomante cerró los ojos, sincronizando su concentración con los sensores de inercia de la nave corsaria. Con un movimiento envolvente, Marloc ejecutó un derrape lateral cerrado alrededor de un monolito de basalto de trescientos metros, colocándose exactamente en el flanco ciego del interceptor enemigo.
 
@@ -66,7 +66,7 @@ El silencio volvió al puente de mando, interrumpido únicamente por los suspiro
 Por los altavoces de la cabina, la voz melodiosa y femenina de la *Estrella Errante* resonó con una calidez insólita:
 —*Parámetros de combate concluidos. Daños estructurales en el casco: siete por ciento. Munición restante: suficiente. Debo admitir... que me sentí extrañamente viva durante la maniobra, capitán Galway.*
 
-Benray se pasó una garra por la frente empapada en sudor y sonrió con picardía:
+Benrey se pasó una garra por la frente empapada en sudor y sonrió con picardía:
 —Eso es porque tienes alma de corsaria, pequeña estrella. Ahora, pongámonos los trajes presurizados. Esos dos ataúdes todavía tienen ocupantes que nos deben explicaciones.
 
 ***
@@ -81,9 +81,9 @@ Era una figura cadavérica y siniestra: una soldado esquelética vestida con una
 
 Gerty la desenganchó de los controles neuronales y la arrastró hacia la sala de reuniones de la nave, atándola con cables de amarre de alta resistencia a una silla metálica fijada al suelo. El segundo piloto, gravemente dañado, fue confinado bajo llave en una de las bodegas estancas del subsuelo.
 
-Marloc y Axel montaron guardia con sus armas desenfundadas, mientras Benray se adelantaba con paso tranquilo, ajustando el foco de su holocámara portátil.
+Marloc y Axel montaron guardia con sus armas desenfundadas, mientras Benrey se adelantaba con paso tranquilo, ajustando el foco de su holocámara portátil.
 
-—Muy bien, señorita esqueleto —comenzó Benray con su mejor tono de presentador de televisión—. Supongo que tiene un nombre de pila antes de que empecemos a desarmarle los tornillos de la mandíbula.
+—Muy bien, señorita esqueleto —comenzó Benrey con su mejor tono de presentador de televisión—. Supongo que tiene un nombre de pila antes de que empecemos a desarmarle los tornillos de la mandíbula.
 
 La soldado no-muerta alzó el cráneo lentamente. Su voz sonó seca, metálica y rasposa como el crujido de hojas secas en una fosa:
 —Nazira. Soldado de asalto. Y ustedes están cometiendo un error que pagarán con la eternidad de sus almas.
@@ -93,13 +93,13 @@ Triel se cruzó de brazos, examinando las insignias ocultas bajo el cuello de la
 
 Nazira guardó un silencio pétreo, mirándolos con desprecio absoluto.
 
-Benray chasqueó la lengua con fingida decepción:
+Benrey chasqueó la lengua con fingida decepción:
 —Una mujer de pocas palabras. Me encantan los retos. Triel, activa el transmisor de enlace por satélite de la nave. Vamos a iniciar una retransmisión holonet en directo por los canales abiertos de la Diáspora y la Estación Absalom.
 
 Nazira ladeó ligeramente la cabeza:
 —¿Una retransmisión?
 
-—Oh, claro que sí —sonrió Benray, apuntándole directamente a las cuencas vacías con el objetivo de la cámara—. «La Gran Exclusiva de Benray Galway: La Flota Cadáver violando los tratados de paz del Pacto en territorio neutral de la Diáspora». Pondré tu rostro, tus dientes de hojalata y los números de serie de tu nave en las pantallas de diez millones de ciudadanos de los Mundos del Pacto. Para mañana por la mañana, los tribunales de Absalom estarán exigiendo explicaciones formales a tus superiores en Eox. Y me pregunto qué harán tus almirantes cuando descubran que una soldadita indiscreta arruinó toda su operación secreta.
+—Oh, claro que sí —sonrió Benrey, apuntándole directamente a las cuencas vacías con el objetivo de la cámara—. «La Gran Exclusiva de Benrey Galway: La Flota Cadáver violando los tratados de paz del Pacto en territorio neutral de la Diáspora». Pondré tu rostro, tus dientes de hojalata y los números de serie de tu nave en las pantallas de diez millones de ciudadanos de los Mundos del Pacto. Para mañana por la mañana, los tribunales de Absalom estarán exigiendo explicaciones formales a tus superiores en Eox. Y me pregunto qué harán tus almirantes cuando descubran que una soldadita indiscreta arruinó toda su operación secreta.
 
 El brillo espectral en los ojos de Nazira titiló con visible inquietud. Tras unos segundos de cálculo gélido, la mujer de hueso inclinó la cabeza hacia atrás:
 —Apaguen esa lente. Hablemos.
@@ -108,7 +108,7 @@ El brillo espectral en los ojos de Nazira titiló con visible inquietud. Tras un
 
 ### IV. Confesiones bajo la cámara
 
-Benray bajó la cámara unos centímetros, manteniendo el dedo índice sobre el botón de grabación con una expresión de absoluto control:
+Benrey bajó la cámara unos centímetros, manteniendo el dedo índice sobre el botón de grabación con una expresión de absoluto control:
 —Te escuchamos, Nazira. Empieza por contarnos qué buscaban en el templo del Devorador.
 
 La soldado soltó un bufido metálico que hizo resonar sus dientes de cromo:
@@ -123,16 +123,16 @@ Nazira asintió con una lentitud glacial:
 
 —Exacto —admitió la prisionera—. Aseguramos los paquetes de datos con la localización preliminar del arma y purgamos los bancos de memoria para que nadie pudiera seguirnos. A mí y a mi compañero nos ordenaron permanecer en la sombra de los asteroides exteriores para abatir a cualquier rezagado o explorador curioso que intentara investigar las ruinas. Nuestra misión era sencilla: no dejar testigos vivos.
 
-Benray dio un paso al frente, clavando sus ojos pequeños en las cuencas de la no-muerta:
+Benrey dio un paso al frente, clavando sus ojos pequeños en las cuencas de la no-muerta:
 —Hay algo más, Nazira. En la Estación Absalom, hace semanas, nos atacaron al salir de la Roca de la Deriva. Intentaron recuperar un contenedor confidencial que transportaban los mineros de la tripulación original. ¿Qué había en esa caja? ¿Por qué el embajador Gevalarsk Nor estaba tan desesperado por meterla de contrabando en la estación?
 
 Nazira soltó una carcajada estridente y desprovista de humor:
 —¿El embajador Nor? Por favor... ese diplomático cobarde es uno de los nuestros. Siempre ha servido a la causa de la muerte. Estaba trabajando para nosotros.
 
-Marloc alzó una mano y miró a Benray, negando lentamente con la cabeza:
+Marloc alzó una mano y miró a Benrey, negando lentamente con la cabeza:
 —Está mintiendo, capitán. Sus bioseñales espectrales muestran picos de tensión defensiva. Intenta sembrar discordia para que desconfiemos de las autoridades de Absalom.
 
-Benray se echó a reír abiertamente, dándole una palmada burlona en el hombro de metal a la prisionera:
+Benrey se echó a reír abiertamente, dándole una palmada burlona en el hombro de metal a la prisionera:
 —Nazira, querida, eres una piloto formidable, pero mintiendo eres una auténtica calamidad. He visto a goblins borrachos inventar coartadas más creíbles que esa. El embajador Nor te metería en una trituradora de huesos antes de compartir un café contigo. Dime la verdad sobre esa caja o enciendo la retransmisión ahora mismo.
 
 La no-muerta apretó los dientes de metal con furia contenida:

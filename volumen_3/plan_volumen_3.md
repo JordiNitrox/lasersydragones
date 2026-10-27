@@ -32,7 +32,7 @@
 ---
 
 ## 3. Elementos Clave de Coherencia Narrativa
-1. **La tripulación ampliada:** Axel 42, Benray, Triel, Gerty (con 4 brazos mecánicos operativos) y los dos goblins espaciales rescatados en el Vol. 2 (**Willy** y **Naru**), cuyas ocurrencias y apoyo con armas caseras enriquecen la expedición.
+1. **La tripulación ampliada:** Axel 42, Benrey, Triel, Gerty (con 4 brazos mecánicos operativos) y los dos goblins espaciales rescatados en el Vol. 2 (**Willy** y **Naru**), cuyas ocurrencias y apoyo con armas caseras enriquecen la expedición.
 2. **La causa sintética y el pasado:** Axel 42 mantiene contacto encriptado con su mentora y hermana Null-9 sobre el destino trágico de Clara y la causa de emancipación androide.
 3. **El enigma de Marloc y los secretos familiares:** Triel confiesa en secreto a Marloc la búsqueda de su padre biológico **Keiden Ashton**, mientras Marloc confronta la figura de Ambrose Boosmar y los apuntes de la difunta Marlene Boosmar sobre reliquias pre-Brecha y el Devastador Estelar.
-4. **Fidelidad al podcast:** Roberto como GM y voz cínica de Gerty, el pánico cómico de Benray Galway ante peligros invisibles y su constante picardía con el Oficial León, el orgullo técnico de Triel y la frialdad resolutiva de Axel.
+4. **Fidelidad al podcast:** Roberto como GM y voz cínica de Gerty, el pánico cómico de Benrey Galway ante peligros invisibles y su constante picardía con el Oficial León, el orgullo técnico de Triel y la frialdad resolutiva de Axel.

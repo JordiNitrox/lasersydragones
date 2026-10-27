@@ -4,7 +4,7 @@
 
 La misiva entregada por el emisario encapuchado en el callejón de la taberna de mineros no dejaba margen a la duda: una cartulina pesada, fabricada en un papel negro tan denso como el vacío interestelar, ribeteada con pan de plata sobre terciopelo y sellada con cera carmesí. En ella, con caligrafía gótica plateada impecable, se leía un único nombre: *Gevalarsk Nor, Embajador Plenipotenciario de Eox en los Mundos del Pacto*.
 
-—Señores, esto es una locura —había protestado Benray a medianoche tras regresar al hotel, agitando la tarjeta en el aire con los pelos de la nuca completamente erizados—. ¡Eox! El planeta de los muertos vivientes. Criaturas cadavéricas que no respiran, no comen y no duermen. ¿Saben lo que le hacen a los roedores en esos lugares? ¡Probablemente nos disecan para usarnos de adornos navideños en sus tumbas!
+—Señores, esto es una locura —había protestado Benrey a medianoche tras regresar al hotel, agitando la tarjeta en el aire con los pelos de la nuca completamente erizados—. ¡Eox! El planeta de los muertos vivientes. Criaturas cadavéricas que no respiran, no comen y no duermen. ¿Saben lo que le hacen a los roedores en esos lugares? ¡Probablemente nos disecan para usarnos de adornos navideños en sus tumbas!
 
 Sin embargo, tras una consulta urgente con Chiskisk por comunicador encriptado, el mentor shirren había sido tajante: Eox formaba parte legal del Pacto y el embajador Nor había solicitado formalmente su concurso como mediadores imparciales para la crisis del *Acreon*. Negarse a una audiencia diplomática no solo cerraría las puertas al espacio exterior, sino que enfurecería a uno de los poderes políticos más temidos de la galaxia.
 
@@ -46,11 +46,11 @@ Al verlos entrar, el embajador se puso en pie con una inclinación pausada y ari
 
 Nor recorrió al grupo con su mirada espectral, dedicando una palabra a cada uno con una precisión inquietante:
 
-—Señorita Triel Istrav... su linaje drow goza de gran prestigio y respeto entre los eruditos de Eox; que su casa prospere por diez milenios. Señor Marloc Boosmar... lamento profundamente la trágica desaparición de Marlene Boosmar, una mente brillante cuya pérdida empobrece la ciencia del Pacto. Unidad A.Xel 42... siento una profunda afinidad hacia los de su clase: ninguno de los dos cargamos con la engorrosa servidumbre de la respiración ni la fragilidad biológica de la carne. Y señor Benray Galway... he seguido con genuino deleite sus temerarios holovídeos de acrobacias en la red; su audacia es legendaria.
+—Señorita Triel Istrav... su linaje drow goza de gran prestigio y respeto entre los eruditos de Eox; que su casa prospere por diez milenios. Señor Marloc Boosmar... lamento profundamente la trágica desaparición de Marlene Boosmar, una mente brillante cuya pérdida empobrece la ciencia del Pacto. Unidad A.Xel 42... siento una profunda afinidad hacia los de su clase: ninguno de los dos cargamos con la engorrosa servidumbre de la respiración ni la fragilidad biológica de la carne. Y señor Benrey Galway... he seguido con genuino deleite sus temerarios holovídeos de acrobacias en la red; su audacia es legendaria.
 
 Axel mantuvo el rostro impasible, aunque las líneas bioluminiscentes de sus ojos parpadearon en una secuencia defensiva para enmascarar su procesamiento emocional.
 
-Benray tragó saliva ruidosamente, frotándose las orejas perforadas con aretes:
+Benrey tragó saliva ruidosamente, frotándose las orejas perforadas con aretes:
 
 —Eh... gracias, señor embajador. Es usted muy amable... para no tener pulso.
 
@@ -62,7 +62,7 @@ Keltus sonrió ampliamente, dejando ver una hilera de colmillos amarillentos:
 
 —Me encanta saborearlas... Las cato y pruebo todas personalmente, una a una, con mi propia lengua antes de servirlas para asegurarme de que el punto de anís sea exquisito.
 
-Triel, que acababa de morder una de las galletas con cautela, se quedó congelada a mitad de masticación con los ojos muy abiertos. Benray apartó la mano de la bandeja con una mueca de espanto disimulado mientras se aclaraba la garganta:
+Triel, que acababa de morder una de las galletas con cautela, se quedó congelada a mitad de masticación con los ojos muy abiertos. Benrey apartó la mano de la bandeja con una mueca de espanto disimulado mientras se aclaraba la garganta:
 
 —Eh... fascinante protocolo de calidad gastronómica, señor Keltus. Muy... minucioso.
 
@@ -78,7 +78,7 @@ Las flamas verdes en los ojos de Nor brillaron con mayor intensidad:
 
 —La estabilidad comercial del Pacto beneficia a todos, señor Boosmar. Además, he dispuesto con Inversiones Estelares que se les asigne una nave de exploración ligera adecuada para la misión: el *Hippocampus*, un transporte minero que he financiado para dotarlo de escudos reforzados y sistemas de armamento de grado naval. Pero... existe un pequeño detalle adicional. Un favor privado que deseo confiarles.
 
-Benray dio dos pasos hacia atrás, entrecerrando los ojos con suspicacia ysoki:
+Benrey dio dos pasos hacia atrás, entrecerrando los ojos con suspicacia ysoki:
 
 —Sabía que había letra pequeña. Siempre hay una cláusula con trampa.
 
@@ -88,7 +88,7 @@ Benray dio dos pasos hacia atrás, entrecerrando los ojos con suspicacia ysoki:
 
 —Por sus molestias —continuó el embajador con voz aterciopelada—, ofrezco gratificar a cada uno de ustedes con quinientos créditos adicionales al término de la misión.
 
-Benray carraspeó, dio un paso adelante y se mesó los bigotes con aire calculador:
+Benrey carraspeó, dio un paso adelante y se mesó los bigotes con aire calculador:
 
 —Seiscientos créditos para cada uno, señor embajador. Y la tripulación no hará preguntas sobre el contenido de la caja ni nosotros nos haremos responsables si el embalaje viene rayado por la metralla.
 

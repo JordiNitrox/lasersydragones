@@ -18,11 +18,11 @@ Axel bajó sus fotorreceptores, sintiendo que los algoritmos de su procesador é
 
 —Alguien más vendrá después de mí, pequeña. No es solo una despedida; es la llegada de una vida nueva. Y habrá quienes reciban a quien viene y encuentren felicidad en su compañía.
 
-El veterano androide alzó la vista hacia los compañeros de Axel. Su mirada se detuvo en **Benray Galway**, clavándole unos ojos oscuros cargados de una gravedad admonitoria, tan intensa que el ysoki sintió que el pelo de su nuca se erizaba como si estuviera ante un padre que entrega en custodia a su mayor tesoro:
+El veterano androide alzó la vista hacia los compañeros de Axel. Su mirada se detuvo en **Benrey Galway**, clavándole unos ojos oscuros cargados de una gravedad admonitoria, tan intensa que el ysoki sintió que el pelo de su nuca se erizaba como si estuviera ante un padre que entrega en custodia a su mayor tesoro:
 
 —Cuiden bien de ella —pidió Éclair—. Y ella cuidará de ustedes.
 
-—Señor Éclair —respondió Benray, tragando saliva y abandonando por una vez cualquier máscara de frivolidad mediática—, apenas hemos compartido unas semanas, pero sé reconocer a un sabio. Si alguien tiene la altura moral para decidir cuándo marcharse de este mundo en sus propios términos, es usted. Buen viaje, maestro.
+—Señor Éclair —respondió Benrey, tragando saliva y abandonando por una vez cualquier máscara de frivolidad mediática—, apenas hemos compartido unas semanas, pero sé reconocer a un sabio. Si alguien tiene la altura moral para decidir cuándo marcharse de este mundo en sus propios términos, es usted. Buen viaje, maestro.
 
 El ysoki le estrechó la mano con firmeza y respeto. 
 
@@ -36,15 +36,15 @@ Triel Istrav, sentada sobre sus talones con la llave de impacto aún asomando po
 
 Un silencio repentino y gélido cayó sobre el estrado.
 
-Éclair no respondió. Sus párpados cayeron lentamente y su rostro se tornó impenetrable, clavando la vista en las baldosas pulidas. La tensión en sus servomotores fue tan evidente que Benray comprendió al instante que habían rozado una frontera prohibida, un secreto sepultado en el pasado que el androide no estaba dispuesto a revelar en las horas finales de su existencia.
+Éclair no respondió. Sus párpados cayeron lentamente y su rostro se tornó impenetrable, clavando la vista en las baldosas pulidas. La tensión en sus servomotores fue tan evidente que Benrey comprendió al instante que habían rozado una frontera prohibida, un secreto sepultado en el pasado que el androide no estaba dispuesto a revelar en las horas finales de su existencia.
 
-Para romper el abismo, Benray intervino con presteza:
+Para romper el abismo, Benrey intervino con presteza:
 
 —Y dígame, señor Éclair... ¿la persona que viene sabrá su propio nombre, o usted le ha elegido uno en esa carta?
 
 Una chispa de afecto volvió a encender las ópticas del anciano androide:
 
-—Él mismo deberá elegir su nombre, Benray. Así como Axel eligió el suyo.
+—Él mismo deberá elegir su nombre, Benrey. Así como Axel eligió el suyo.
 
 —¿Y cómo eligió usted el suyo? —preguntó Marloc con curiosidad sincera.
 
@@ -78,13 +78,13 @@ Axel reaccionó al instante. Se abalanzó sobre el brazo de su mentora, aferrand
 
 La mecánica semi-drow saltó hacia el estrado con el guantelete de su *custom rig* despidiendo chispas de plasma, dispuesta a sobrecargar los circuitos del arma mediante un arco electromagnético. Pero Null-9 no perdió el pulso: con un movimiento seco de su hombro izquierdo, arremetió contra Triel y la despidió rodando por las gradas del estrado.
 
-Marloc Boosmar comenzó a trazar con los dedos una runa de inmovilización arcana, pero fue Benray quien se cruzó en la línea de fuego.
+Marloc Boosmar comenzó a trazar con los dedos una runa de inmovilización arcana, pero fue Benrey quien se cruzó en la línea de fuego.
 
 El ysoki subió al estrado por el flanco opuesto a la pistola. Levantó ambas manos con las palmas abiertas y miró a Null-9 directamente a los ojos, con la voz cargada de un ruego desgarrador:
 
 —¡Null, mírame! Le estás apuntando con un arma a tu mejor amigo en el universo. ¿Cuántas décadas llevan juntos? ¿Cuántas batallas han sobrevivido espalda con espalda? Sé lo que es el dolor de la pérdida, Null... pero por los dioses, date cuenta de lo que estás a punto de hacer. No manches su partida con esto.
 
-Null-9 respiró con estertores entrecortados. Su mano armada temblaba con violencia. Sus ojos se cruzaron por un instante con los de Benray, luego con los de Éclair... y un sollozo ahogado desgarró su garganta.
+Null-9 respiró con estertores entrecortados. Su mano armada temblaba con violencia. Sus ojos se cruzaron por un instante con los de Benrey, luego con los de Éclair... y un sollozo ahogado desgarró su garganta.
 
 Apretó el gatillo.
 
@@ -190,13 +190,13 @@ Los días posteriores en la Estación Absalón transcurrieron en una vorágine d
 
 En la mañana del desamarre, el Muelle 94 olía a refrigerante fresco y queroseno estelar.
 
-Junto a la rampa de la *Estrella Errante*, el **oficial León Holden** despidió a la tripulación con su impecable uniforme de Los Protectores. Su intercambio de miradas y promesas cómplices con Triel Istrav arrancó sonrisas entre los presentes, sellando el compromiso de una copa pendiente en el Club 13 en cuanto regresaran de Castrovel. A escasos metros, Benray Galway abrazó con devoción a su primo menor, entregándole las llaves de su vespacial y jurándole por su honor que jamás volvería a dejar a su familia atrás.
+Junto a la rampa de la *Estrella Errante*, el **oficial León Holden** despidió a la tripulación con su impecable uniforme de Los Protectores. Su intercambio de miradas y promesas cómplices con Triel Istrav arrancó sonrisas entre los presentes, sellando el compromiso de una copa pendiente en el Club 13 en cuanto regresaran de Castrovel. A escasos metros, Benrey Galway abrazó con devoción a su primo menor, entregándole las llaves de su vespacial y jurándole por su honor que jamás volvería a dejar a su familia atrás.
 
 A bordo de la corbeta ancestral, la normalidad técnica había sido restaurada con creces.
 
 En la sala de máquinas, **Gerty** supervisaba los monitores de refrigeración con sus cuatro brazos mecánicos en perfecto funcionamiento, deleitándose en el aroma a lubricante puro tras haber desalojado días atrás el campamento de Willy y Naru, quienes ahora disfrutaban de las cómodas y reglamentarias instalaciones de la patrulla de Los Protectores en el Muelle 34 bajo la tutela del señor León.
 
-En el puente de mando, Marloc Boosmar aseguró en su consola el medallón y las notas de Marlene. A su lado, Benray acomodó su casaca de terciopelo en el sillón de navegación y Axel 42 tomó los mandos de pilotaje.
+En el puente de mando, Marloc Boosmar aseguró en su consola el medallón y las notas de Marlene. A su lado, Benrey acomodó su casaca de terciopelo en el sillón de navegación y Axel 42 tomó los mandos de pilotaje.
 
 —Sistemas de propulsión en verde —anunció la androide con voz serena—. Coordenadas hacia Castrovel fijadas. Iniciando secuencia del motor de Drift.
 

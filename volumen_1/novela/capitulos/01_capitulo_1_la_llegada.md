@@ -118,39 +118,39 @@ Marloc se ajustó la corbata, alisó las solapas de su chaleco y respiró hondo,
 
 ### III. Negocios en el laberinto
 
-A decenas de niveles más abajo, en los abarrotados monobloques habitacionales de la Espiga donde las tuberías de aguas grises silbaban día y noche, Benray Galway despertó con el agudo chirrido de su comunicador personal. Se rascó el lomo, sacudiéndose un par de chinches de estación de entre el pelaje níveo, y descolgó con un bostezo que le estiró los bigotes.
+A decenas de niveles más abajo, en los abarrotados monobloques habitacionales de la Espiga donde las tuberías de aguas grises silbaban día y noche, Benrey Galway despertó con el agudo chirrido de su comunicador personal. Se rascó el lomo, sacudiéndose un par de chinches de estación de entre el pelaje níveo, y descolgó con un bostezo que le estiró los bigotes.
 
 —¿Quién osa interrumpir el merecido descanso de una leyenda callejera?
 
 —¡Deja de quejarte y despierta, Galway! —llegó la voz chillona de Marcelo, su informante en los muelles de carga, tosiendo entre chasquidos de estática—. ¿Sigues pudriéndote en ese cuchitril? Escucha bien: el *Acreon*, ese carguero minero que daban por desintegrado en el Vasto, acaba de saltar a la deriva en la órbita de Absalón. La estación está que arde. Un intermediario de los nuestros, un tal Chic, está soltando créditos frescos y reclutando gente con agallas en el Anillo. ¡Muévete antes de que otras ratas se queden con el pastel!
 
-Benray saltó del colchón desvencijado como un resorte, se calzó la gabardina y bajó a trompicones las escaleras metálicas hacia la galería exterior. Allí lo aguardaba su primo Rim Rey, otro ysoki rechoncho que masticaba un pincho de escarabajo crujiente con evidente nerviosismo, apoyado sobre una destartalada motoneta amarilla que despedía un humo pestilente a aceite quemado.
+Benrey saltó del colchón desvencijado como un resorte, se calzó la gabardina y bajó a trompicones las escaleras metálicas hacia la galería exterior. Allí lo aguardaba su primo Rim Rey, otro ysoki rechoncho que masticaba un pincho de escarabajo crujiente con evidente nerviosismo, apoyado sobre una destartalada motoneta amarilla que despedía un humo pestilente a aceite quemado.
 
-—¿Y mi moto, Rim? —inquirió Benray, entrecerrando sus ojos rodeados por la mancha de pelo negro azabache—. ¿Dónde está mi joya?
+—¿Y mi moto, Rim? —inquirió Benrey, entrecerrando sus ojos rodeados por la mancha de pelo negro azabache—. ¿Dónde está mi joya?
 
 Rim desvió la mirada, agitando las orejas con culpa:
 
 —Verás, primo... anoche la suerte se torció en la mesa de cartas de los muelles. El juego es caprichoso. Tuve que entregarla como aval. Pero esta belleza amarilla corre que vuela; solo le falla un inyector y el asiento vibra un poco.
 
-Benray suspiró profundamente, frotándose el hocico con resignación teatral:
+Benrey suspiró profundamente, frotándose el hocico con resignación teatral:
 
 —Algún día tus deudas de juego nos van a costar el pellejo, Rim. Sube a esa cafetera con ruedas antes de que te confisque la merienda.
 
-Minutos más tarde, en los niveles comerciales del Anillo, donde el aire sabía a fritura barata y sudor de cien especies distintas, ambos compartían taburetes frente a un puesto callejero. Benray devoraba con entusiasmo unos tallarines fosforescentes de algas, vigilando de reojo el gentío que se apretujaba en el pasillo.
+Minutos más tarde, en los niveles comerciales del Anillo, donde el aire sabía a fritura barata y sudor de cien especies distintas, ambos compartían taburetes frente a un puesto callejero. Benrey devoraba con entusiasmo unos tallarines fosforescentes de algas, vigilando de reojo el gentío que se apretujaba en el pasillo.
 
 —Te digo que la oportunidad es de oro, primo —le insistía Rim Rey al oído—. Quince mil créditos por escolta y enlace logístico. Quince. Mil. ¿Sabes cuántas piezas de repuesto para mi motoneta son eso?
 
-Benray tragó los fideos y chasqueó la lengua, limpiándose los bigotes con elegancia burlona:
+Benrey tragó los fideos y chasqueó la lengua, limpiándose los bigotes con elegancia burlona:
 
 —Lo que sé, querido Rim, es que cuando alguien ofrece quince mil créditos por un paseo de dos horas en los muelles de Absalón, no está buscando escoltas; está buscando escudos humanos con patas.
 
-—¡Pero tú tienes fama, Benray! —insistió su primo, agitando la pata—. La gente todavía habla de tus holovídeos de acrobacias. Aquel donde saltaste desde el puente de atraque hasta el techo de una lanzadera en marcha... ¡Eso fue legendario!
+—¡Pero tú tienes fama, Benrey! —insistió su primo, agitando la pata—. La gente todavía habla de tus holovídeos de acrobacias. Aquel donde saltaste desde el puente de atraque hasta el techo de una lanzadera en marcha... ¡Eso fue legendario!
 
-—Y casi me cuesta el bazo derecho y tres costillas —recordó Benray con una mueca que intentó ser modesta—. Además, el sonido en esos primeros vídeos era una porquería. Apenas se me oía gritar de terror mientras caía al vacío. Pero la gloria tiene su precio. ¿Dónde está ese tal Chic?
+—Y casi me cuesta el bazo derecho y tres costillas —recordó Benrey con una mueca que intentó ser modesta—. Además, el sonido en esos primeros vídeos era una porquería. Apenas se me oía gritar de terror mientras caía al vacío. Pero la gloria tiene su precio. ¿Dónde está ese tal Chic?
 
 —En el Club 13, en la Espiga. Dice que necesita a alguien que conozca las alcantarillas de la estación y no le tiemble el pulso para negociar en caso de que los matones locales se pongan pesados.
 
-Benray dejó el tazón vacío sobre la barra de formica, palmoteó la culata de su pistola láser oculta bajo la gabardina y saltó del taburete con la agilidad de un gimnasta.
+Benrey dejó el tazón vacío sobre la barra de formica, palmoteó la culata de su pistola láser oculta bajo la gabardina y saltó del taburete con la agilidad de un gimnasta.
 
 —El destino me llama, primo. Si muero hoy, asegúrate de que suban una versión remasterizada en alta definición de mis mejores saltos. Y no dejes que nadie toque mi alijo de granadas.
 
@@ -176,22 +176,24 @@ Null-9 soltó un chasquido que simulaba una risa cínica, inclinándose sobre el
 
 —Los parámetros de supervivencia eran del doce por ciento. Nuestra tasa de éxito fue óptima —puntualizó Axel antes de beber un sorbo del preparado, que quemó agradablemente sus sensores térmicos internos.
 
-—Tengo algo que podría interesarte —prosiguió Null-9, señalando con una uña cromada hacia el fondo del local, donde una mesa circular bajo una lámpara de luz tenue albergaba a un comensal—. Hay un orgánico esperándome en el reservado. Un ysoki entrado en carnes llamado Chic. Dice actuar como intermediario para un contrato confidencial procedente de una biológica del Arcanamirium: alguien con credenciales altas que teme que las comunicaciones corporativas de Extracciones Estelares estén intervenidas. Busca un especialista en sigilo, infiltración y respuesta balística rápida.
+—Tengo algo que podría interesarte —prosiguió Null-9, señalando con una uña cromada hacia el fondo del local, donde una mesa circular bajo una lámpara de luz tenue albergaba a un comensal—. Hay un orgánico en el reservado del fondo. Un ysoki entrado en carnes llamado Chic. Dice tener una oferta de trabajo confidencial y tal vez encaje con nuestra área de interés.
 
-Axel analizó la mesa a la distancia. Justo en ese momento, un descomunal guerrero de la especie **vesk**, con escamas verde oscuro y un tosco brazo cibernético de chatarra pesada, discutía agriamente con el ysoki:
+—Un orgánico intermediando en territorio sintético —observó Axel—. Podría ser una trampa.
 
-—¡Este contrato no es para lagartos con pulso tembloroso y prótesis de desguace! —le espetó Chic tajantemente—. ¡Lárgate antes de que llame a seguridad!
+—Puede que sea algo sospechoso —admitió Null-9, encogiéndose de hombros con frialdad—. O puede que sea trabajo legítimo. Si no lo intentas, los créditos no fluirán hacia nuestras cuentas para mantenernos operativas frente a nuestros esclavistas biológicos. Ve a hablar con él, hermana.
 
-El reptiliano rugió de frustración, estampó su pesado puño biónico contra la mesa haciendo tintinear las botellas y se marchó con paso furioso, jurando venganza en dialecto de los Bajos.
+Axel apuró el vaso denso de un solo trago, lo dejó sobre la barra de metal y caminó hacia la mesa del reservado. 
 
-—Un orgánico intermediando para otro orgánico —murmuró Axel—. Probabilidad de que oculten información crítica por sesgos de autopreservación: setenta y ocho por ciento.
+Justo al aproximarse, presenció cómo Chic apartaba a manotazos a un par de aspirantes. Uno de ellos era un descomunal guerrero de la especie **vesk**, con escamas verde oscuro y un tosco brazo biónico de chatarra pesada, que discutía agriamente con el roedor:
 
-—Probablemente más —coincidió Null-9 con una sonrisa fría—. Pero pagan en créditos limpios. Tienen reservas de comida caliente y el contratista necesita cerrar el equipo de inmediato para una recogida en el Muelle 94. Ve con él, hermana. Haz que los créditos fluyan hacia nuestras cuentas y que los biológicos se encarguen del papeleo.
+—¡Este trabajo no es para lagartos con pulso tembloroso y prótesis de desguace! —le espetó Chic tajantemente—. ¡Lárgate de mi mesa!
 
-Axel apuró el vaso y caminó hacia la mesa del reservado. Al verla llegar, Chic apartó los papeles y deslizó hacia ella un plato humeante de carne especiada y fideos calientes:
+El reptiliano rugió de frustración, estampó su pesado puño metálico contra la mesa haciendo tintinear las botellas y se marchó con paso furioso junto a otro modificado rechazado, mascullando amenazas en dialecto de los Bajos.
 
-—Come algo, cariño. Tienes cara de no haber probado una caloría en dos saltos hiperespaciales.
+Al ver aproximarse a Axel, el rechoncho ysoki alzó la vista de sus circuitos, apartó los papeles y le dedicó una sonrisa afable:
 
-Axel ocupó la silla vacante sin hacer ruido. Tomó los cubiertos y comenzó a comer con metódica presteza, mientras en su procesador central se ejecutaban tres subrutinas analíticas en paralelo: evaluando trazas de neurotoxinas en el alimento y calculando la inquietante probabilidad de cómo aquel desconocido conocía de antemano su designación y su llegada.
+—Axel, siéntese —la invitó Chic, señalando la silla vacante y deslizando hacia ella un plato humeante de carne especiada y fideos calientes—. Creo que tengo un negocio para usted, pero tenemos que esperar a los otros. Beba y coma algo mientras tanto. Ya estarán por venir.
 
-La misión acababa de comenzar.
+Axel ocupó la silla sin hacer ruido y tomó los cubiertos. Mientras el hambre acumulada la empujaba a devorar el plato caliente, sus circuitos lógicos procesaban la inquietante anomalía: aquel desconocido en los Bajos de Absalón la estaba esperando, conocía su designación precisa y le ofrecía comida gratis antes de cerrar un trato. 
+
+¿Estaba envenenado aquel plato? ¿Quién le había dado su nombre?

@@ -34,7 +34,7 @@ A ambos lados de la escalinata ceremonial que conducía a la puerta estelar, dos
 
 Los dos colosos descendieron las gradas con zancadas pesadas que hacían temblar el suelo, cruzando sus lanzas incandescentes en dirección al grupo.
 
-—¡Doctora, quédese detrás de esa columna! —ordenó Benray desenfundando su pistola mientras realizaba una pirueta acrobática para esquivar la primera embestida descendente.
+—¡Doctora, quédese detrás de esa columna! —ordenó Benrey desenfundando su pistola mientras realizaba una pirueta acrobática para esquivar la primera embestida descendente.
 
 La punta de la lanza de piedra golpeó el pavimento a pocos centímetros del ysoki, hendiendo el mármol y desatando una onda de choque ígnea que abrasó el aire.
 
@@ -58,13 +58,13 @@ Con la antecámara despejada y los guardianes reducidos a polvo, Axel inspeccion
 
 —Es un **Báculo de Sanación Mística** (*Staff of Mystic Healing*) —diagnosticó la androide tras analizar sus frecuencias místicas—. Canaliza energías de restauración celular de quinto nivel... pero solo responde a la disciplina de un místico consagrado.
 
-Benray, Triel y Marloc intercambiaron miradas de cómica decepción.
+Benrey, Triel y Marloc intercambiaron miradas de cómica decepción.
 
-—Ni un solo místico a bordo —suspiró Benray sacudiendo la cabeza—. Doctora Solstarni... ¿usted no tendrá afición por la canalización espiritual, verdad?
+—Ni un solo místico a bordo —suspiró Benrey sacudiendo la cabeza—. Doctora Solstarni... ¿usted no tendrá afición por la canalización espiritual, verdad?
 
 —Me temo que mi especialidad es la arqueoastronomía de campo —respondió la kasatha con sobria cortesía, extendiendo dos de sus manos para tomar el objeto—. Pero dejad que lo lleve yo para que no tengáis que cargarlo. A fin de cuentas... me sobran un par de brazos.
 
-Benray soltó una carcajada:
+Benrey soltó una carcajada:
 
 —¡Un chiste kasatha! Me cae bien, doctora.
 
@@ -76,9 +76,9 @@ La doctora Solstarni señaló el umbral con el báculo en mano:
 
 —Tahomen está adentro... Ha sintonizado la consola de control con la frecuencia del Devastador Estelar. Si logra fijar el vector de enlace cuántico y transmitir los datos a su flota en el Vasto, nada en los Mundos del Pacto podrá detener el holocausto.
 
-Benray cargó su arma con un chasquido seco y miró a sus compañeros. En las pupilas del ysoki, de la semi-drow, de la androide y del tecnomante ardía la misma chispa indomable que los había llevado desde los muelles de Absalón hasta la cúspide de aquella montaña maldita:
+Benrey cargó su arma con un chasquido seco y miró a sus compañeros. En las pupilas del ysoki, de la semi-drow, de la androide y del tecnomante ardía la misma chispa indomable que los había llevado desde los muelles de Absalón hasta la cúspide de aquella montaña maldita:
 
-—Hemos cruzado medio Castrovel, hemos comido barro, nos han disparado plantas, monos, mercenarios y estatuas de piedra —dijo Benray con una sonrisa desafiante—. No hemos llegado hasta aquí para dejar que un cura loco del apocalipsis arruine la galaxia.
+—Hemos cruzado medio Castrovel, hemos comido barro, nos han disparado plantas, monos, mercenarios y estatuas de piedra —dijo Benrey con una sonrisa desafiante—. No hemos llegado hasta aquí para dejar que un cura loco del apocalipsis arruine la galaxia.
 
 —Aseguremos la cámara —sentenció Axel empujando la puerta de cristal—. Por la galaxia... y por Marlene.
 

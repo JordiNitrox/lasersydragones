@@ -8,7 +8,7 @@ Habían nacido los Sabios Óseos. Y su hogar era ahora un camposanto estelar don
 
 Hacia ese páramo de ceniza radiactiva y rascacielos de basalto negro descendía el *Hippocampus*, emergiendo del vórtice del Drift tras la dura batalla librada en el cinturón de la Diáspora. A bordo de la nave, las risas y la satisfacción por haber destruido el templo del Culto del Devorador se extinguieron al contemplar el orbe muerto por los miradores del puente. La radiación ambiental hacía parpadear los escudos deflectores y un manto de nubes tóxicas de color plomo envolvía el hemisferio norte.
 
-Para Triel Istrav, la joven capitana y mecánica de la Diáspora, Eox representaba el laberinto técnico más hostil que jamás hubiera intentado calibrar; para Marloc Boosmar, el tecnomante melancólico, era una biblioteca prohibida donde la muerte y la magia temporal se entrelazaban peligrosamente; para A.Xel 42, la operativa androide, era un enigma donde las máquinas y los cadáveres compartían una inquietante ausencia de latido; y para Benray Galway, el emisario ysoki de verborrea incansable, era sencillamente el epicentro de su peor pesadilla biológica.
+Para Triel Istrav, la joven capitana y mecánica de la Diáspora, Eox representaba el laberinto técnico más hostil que jamás hubiera intentado calibrar; para Marloc Boosmar, el tecnomante melancólico, era una biblioteca prohibida donde la muerte y la magia temporal se entrelazaban peligrosamente; para A.Xel 42, la operativa androide, era un enigma donde las máquinas y los cadáveres compartían una inquietante ausencia de latido; y para Benrey Galway, el emisario ysoki de verborrea incansable, era sencillamente el epicentro de su peor pesadilla biológica.
 
 Las tumbas de Eox estaban a punto de abrir sus puertas. Y no todos los que entraban tenían la certeza de salir con pulso.
 
@@ -17,4 +17,4 @@ Las tumbas de Eox estaban a punto de abrir sus puertas. Y no todos los que entra
 > **Nota Editorial y Atribución:**  
 > *Lasers y Dragones: Mundos Fragmentados II: Las Cortes Cadavéricas de Eox* es una obra de ficción novelada inspirada en los episodios 89 a 98 de la campaña de rol de *Lasers y Dragones* (adaptación no oficial de *Starfinder: Dead Suns*, propiedad de Paizo Inc.).  
 > Distribuida de forma gratuita bajo la **Política de Uso Comunitario de Paizo Inc.** ([paizo.com/communityuse]).  
-> Agradecimiento especial a la mesa de juego: Roberto (Director de Juego), Irene (Triel Istrav), Juan Pablo (Marloc Boosmar), Miguel (Benray Galway) y Sofía (A.Xel 42).
+> Agradecimiento especial a la mesa de juego: Roberto (Director de Juego), Irene (Triel Istrav), Juan Pablo (Marloc Boosmar), Miguel (Benrey Galway) y Sofía (A.Xel 42).

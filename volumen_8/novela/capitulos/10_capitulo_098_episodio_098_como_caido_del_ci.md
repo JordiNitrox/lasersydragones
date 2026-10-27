@@ -20,12 +20,12 @@ Axel se arrodilló al borde del precipicio, observando a través de su lente de 
 Marloc desplegó el mapa holográfico facilitado por Drek en la taberna de Orphys:
 —Observen la disposición de las tres torres de energía perimetrales. Están situadas en los promontorios oriental, occidental y central a lo largo del brocal del cañón. Si sobrecargamos la torre central mediante una detonación controlada de plasma, crearemos una brecha de dos minutos en el domo de fuerza antes de que los generadores de respaldo puedan reiniciar el sistema.
 
-Benray miró hacia el abismo insondable y luego hacia el Goliath:
+Benrey miró hacia el abismo insondable y luego hacia el Goliath:
 —¿Dos minutos? ¿Estás diciendo que tenemos que tirarnos por un precipicio de dos kilómetros en una lata de seis ruedas y esperar que el campo de fuerza se apague justo cuando vayamos a estrellarnos contra él?
 
-—No en el convoy, Benray —lo corrigió Triel con una sonrisa desafiante que hizo que al ysoki se le erizaran todos los pelos de la cola—. Utilizaremos los arneses de salto orbital de baja gravedad que compramos en Absalón y los retropropulsores de salto de Gerty. Caída libre controlada con desaceleración en los últimos cincuenta metros.
+—No en el convoy, Benrey —lo corrigió Triel con una sonrisa desafiante que hizo que al ysoki se le erizaran todos los pelos de la cola—. Utilizaremos los arneses de salto orbital de baja gravedad que compramos en Absalón y los retropropulsores de salto de Gerty. Caída libre controlada con desaceleración en los últimos cincuenta metros.
 
-Benray abrió la boca para protestar, pero la cerró de golpe al comprobar que Axel y Marloc ya estaban ajustándose las cinchas de los arneses a sus armaduras:
+Benrey abrió la boca para protestar, pero la cerró de golpe al comprobar que Axel y Marloc ya estaban ajustándose las cinchas de los arneses a sus armaduras:
 —Como caído del cielo... Literalmente. Si muero en esta zanja, juro que regresaré como un fantasma muy molesto para esconderles las llaves de la nave.
 
 ***

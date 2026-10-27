@@ -19,7 +19,7 @@ Tras semanas en el silencio mortal del vacío, la tripulación regresa a la metr
 * **El Pulmón Negro:** La legendaria taberna obrera subterránea en las profundidades de la Espiga. Decorada con chapa de cargueros y presidida por el emotivo «Muro de los Caídos del Vacío», es el escenario de la gran celebración popular donde Marloc y el pelotón rinden homenaje a Marlene Boosmar, a Amelie y a los mineros del *Acreon*.
 
 ### La Nave Hippocampus (*El Caballito de Mar*)
-Nave ligera de transporte consolidada ya como el cuartel permanente y hogar de Benray, Triel, Gerty, Marloc, Axel y sus dos agregados goblins, Willy y Naru.
+Nave ligera de transporte consolidada ya como el cuartel permanente y hogar de Benrey, Triel, Gerty, Marloc, Axel y sus dos agregados goblins, Willy y Naru.
 
 ---
 
@@ -33,9 +33,9 @@ De piel grisácea con destellos lila, cabellos blancos y ojos carmesíes. En est
 *Dron de Combate y Soporte Pesado (Voz: Roberto)*  
 Meca bípedo de dos metros, dotado ahora de **cuatro brazos mecánicos** y cañón láser. Pese a sufrir sus exasperantes reinicios de sistema operativo en pleno combate contra el Garaggakal, su blindaje reforzado sostiene la primera línea del pelotón. Mantiene una continua guerra de nervios con Willy para evitar que el goblin le extraiga pernos mientras está en modo de espera.
 
-### Benray Galway
+### Benrey Galway
 *Emisario Ysoki (Jugador: Miguel)*  
-Orador infatigable, astuto y carismático. Con su pelaje níveo y su antifaz natural negro, Benray utiliza su capacidad de liderazgo táctico para mantener unidos los ánimos ante el horror cósmico del asteroide. A su regreso a Absalón, canaliza su antiguo talento para los medios de comunicación y las redes de holovídeo, convirtiendo la rueda de prensa de la misión en un triunfo mediático que inclina la balanza a favor del Colectivo Hardscrabble.
+Orador infatigable, astuto y carismático. Con su pelaje níveo y su antifaz natural negro, Benrey utiliza su capacidad de liderazgo táctico para mantener unidos los ánimos ante el horror cósmico del asteroide. A su regreso a Absalón, canaliza su antiguo talento para los medios de comunicación y las redes de holovídeo, convirtiendo la rueda de prensa de la misión en un triunfo mediático que inclina la balanza a favor del Colectivo Hardscrabble.
 
 ### Marloc Boosmar
 *Tecnomante Humano (Jugador: Juan Pablo)*  
@@ -75,7 +75,7 @@ Primer oficial de la tripulación minera del *Acreon*. Trágicamente infectado p
 
 ### Oficial León Holden
 *Oficial de Enlace de Los Protectores*  
-Mando de enlace y comunicaciones de los Protectores en la Estación Absalón. Marcial y estricto, vigila con severidad y resignada paciencia que la tripulación no convierta el proceso judicial en un circo mediático, siendo el receptor habitual de las chanzas de Benray Galway... y el protagonista de un clandestino, apasionado e inesperado romance con Triel tras una noche de mensajes etílicos e insolentes.
+Mando de enlace y comunicaciones de los Protectores en la Estación Absalón. Marcial y estricto, vigila con severidad y resignada paciencia que la tripulación no convierta el proceso judicial en un circo mediático, siendo el receptor habitual de las chanzas de Benrey Galway... y el protagonista de un clandestino, apasionado e inesperado romance con Triel tras una noche de mensajes etílicos e insolentes.
 
 ### Chiskisk
 *Comisionado y Directivo Shirren de Inversiones Estelares S.C.*  
@@ -107,5 +107,5 @@ Criatura necrófaga vestida con librea protocolaria y refinados modales cortesan
 
 ### Señorita George (*Ms. George / Ms. Joss*)
 *Jefa de relaciones institucionales, portavoz y asesora jurídica de Extracciones Estelares*  
-Ejecutiva lashunta de porte distinguido, piel de tono ambarino, peinado estricto y largas antenas siempre atentas. Viste trajes ejecutivos de corte impecable y lleva un visor de datos cuántico con auricular en la sien. Tras haber intentado previamente engatusar a la tripulación en el Volumen 2 con vídeos propagandísticos y una cómica cesta de tocador en las torres de El Ojo, comparece en este volumen ante el Gran Salón de Arbitraje de los Protectores como la principal portavoz y acusadora corporativa contra los mediadores. Sus argumentos contractuales son demolidos públicamente cuando Triel y Marloc demuestran que la Roca del Drift es una estructura militar y civil pre-Brecha sujeta a la Ley de Salvamento de Derelictos, y Benray la abochorna frente a las gradas de los mineros sacando a relucir sus pases de cine caducos y sus jaboncitos de lavanda.
+Ejecutiva lashunta de porte distinguido, piel de tono ambarino, peinado estricto y largas antenas siempre atentas. Viste trajes ejecutivos de corte impecable y lleva un visor de datos cuántico con auricular en la sien. Tras haber intentado previamente engatusar a la tripulación en el Volumen 2 con vídeos propagandísticos y una cómica cesta de tocador en las torres de El Ojo, comparece en este volumen ante el Gran Salón de Arbitraje de los Protectores como la principal portavoz y acusadora corporativa contra los mediadores. Sus argumentos contractuales son demolidos públicamente cuando Triel y Marloc demuestran que la Roca del Drift es una estructura militar y civil pre-Brecha sujeta a la Ley de Salvamento de Derelictos, y Benrey la abochorna frente a las gradas de los mineros sacando a relucir sus pases de cine caducos y sus jaboncitos de lavanda.
 

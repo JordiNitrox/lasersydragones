@@ -18,7 +18,7 @@ Exploración de los pasillos residenciales del clan Galway. Ropa infantil ysoki 
 #### II. Las Habitaciones de la Familia
 <!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
 
-#### III. La Furia Contenida de Benray
+#### III. La Furia Contenida de Benrey
 <!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
 
 <!-- Escribir el texto novelado completo aquí siguiendo la transcripción limpia correspondiente -->

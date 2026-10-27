@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Aproximación visual a La Galway. La nave flota despresurizada, con mamparos destrozados y sin luces de navegación. Benray suplica cautela y respeto al abordar.
+Aproximación visual a La Galway. La nave flota despresurizada, con mamparos destrozados y sin luces de navegación. Benrey suplica cautela y respeto al abordar.
 
 ---
 

@@ -11,7 +11,7 @@ La historia adapta con fidelidad y pulso literario la dirección, giros y modifi
 ### ✦ Mesa de Juego Original ✦
 
 * **Roberto:** Game Master / Narrador (y la voz del meca **Gerty**)
-* **Miguel:** Benray Galway *(Emisario Ysoki)*
+* **Miguel:** Benrey Galway *(Emisario Ysoki)*
 * **Irene:** Triel Istrav *(Mecánica Semi-drow)*
 * **Juan Pablo:** Marloc Boosmar *(Tecnomante Humano)*
 * **Sofía:** A.Xel 42 *(Operativa Androide)*

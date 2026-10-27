@@ -6,7 +6,7 @@ Bumak Istrav vestía un traje sastre de corte entallado en seda negra de Apostae
 
 —¡Prima! —exclamó Bumak, levantándose con un movimiento fluido y abriendo los brazos para envolver a la semi-drow en un abrazo cálido y sincero—. Mírate nada más. Sigues llevando esa chaqueta andrajosa de corsario, pero al menos veo que no has perdido ninguno de tus dedos en los talleres. Te sienta bien el aire de la independencia.
 
-—Tú tampoco estás mal para ser un sicario corporativo, Bumak —sonrió Triel, devolviéndole el abrazo con una palmada en la espalda antes de volverse hacia sus compañeros—. Muchachos, les presento a mi primo Bumak. Bumak, estos son Benray, Marloc y Axel.
+—Tú tampoco estás mal para ser un sicario corporativo, Bumak —sonrió Triel, devolviéndole el abrazo con una palmada en la espalda antes de volverse hacia sus compañeros—. Muchachos, les presento a mi primo Bumak. Bumak, estos son Benrey, Marloc y Axel.
 
 El drow recorrió con la mirada a los tres aventureros, deteniéndose unos segundos de más en el rostro inexpresivo de Axel y en el brazo cibernético de Marloc.
 
@@ -30,16 +30,16 @@ Marloc apoyó los codos sobre la mesa, con la mirada encendida por una determina
 
 —Ahí es donde la cosa se pone divertida —sonrió el drow con un brillo travieso en los ojos—. A partir de las diez de la noche, el edificio entra en protocolo de cierre perimetral. Los ascensores principales se bloquean, los guardias de patrulla van armados con rifles automáticos de calibre militar y los pisos superiores están custodiados por autómatas de asalto pesado con sensores de movimiento y visión infrarroja. Además, la antesala de la oficina de Joss cuenta con un salón de recepción donde la directiva suele agasajar a sus socios: alfombras persas, obras de arte de millones de créditos y un piano de cola clásico que cuesta más que una corbeta de combate.
 
-—Un piano de cola —repitió Benray, rascándose la barbilla—. Qué detalle tan distinguido para una banda de ladrones corporativos. Por cierto, primo Bumak, antes de que nos vistamos de ninjas y saltemos por los conductos de ventilación... ¿pudo averiguar algo sobre mi viejo amigo Marcelus?
+—Un piano de cola —repitió Benrey, rascándose la barbilla—. Qué detalle tan distinguido para una banda de ladrones corporativos. Por cierto, primo Bumak, antes de que nos vistamos de ninjas y saltemos por los conductos de ventilación... ¿pudo averiguar algo sobre mi viejo amigo Marcelus?
 
 Bumak sonrió de lado y extrajo una pequeña tarjeta de datos cifrada de su chaleco, deslizándola hacia el roedor:
 
 —Mis contactos en los muelles de la Espiga hicieron un par de llamadas discretas. Hay un individuo que responde al nombre de Marcelus operando en un almacén del muelle veintidós, coordinando la distribución clandestina de grabaciones antiguas y retransmisiones piratas. Coincide exactamente con la descripción de tu productor.
 
-—¡Lo sabía! —exclamó Benray, guardándose la tarjeta en el bolsillo con una sonrisa triunfal—. ¡Ese sinvergüenza está aquí! En cuanto terminemos de saquear la torre de Joss, voy a hacerle una visita de cortesía que no va a olvidar en su vida.
+—¡Lo sabía! —exclamó Benrey, guardándose la tarjeta en el bolsillo con una sonrisa triunfal—. ¡Ese sinvergüenza está aquí! En cuanto terminemos de saquear la torre de Joss, voy a hacerle una visita de cortesía que no va a olvidar en su vida.
 
 —Primero concentrémonos en salir vivos de la Torre Prisma —cortó Axel, revisando los sellos de su armadura—. Entraremos por el muelle de carga subterráneo utilizando las credenciales de mantenimiento que Bumak ha clonado. Marloc y Triel se encargarán de anular los circuitos de las cámaras en el nodo de comunicaciones del piso veintiséis. Yo asumiré la vanguardia táctica y la eliminación de sensores perimetrales.
 
-—Y yo me encargo de hacer bulto, cubrir la retaguardia y asegurar que nadie nos dispare por la espalda —añadió Benray, ajustándose sus gafas de sol—. Si vamos a cometer un allanamiento corporativo de guante blanco, hagámoslo con estilo.
+—Y yo me encargo de hacer bulto, cubrir la retaguardia y asegurar que nadie nos dispare por la espalda —añadió Benrey, ajustándose sus gafas de sol—. Si vamos a cometer un allanamiento corporativo de guante blanco, hagámoslo con estilo.
 
 La noche caía sobre la Estación Ábsalon. Las luces de neón comenzaron a parpadear en la penumbra artificial de los sectores comerciales. Cuatro sombras y un ejecutor drow se pusieron en marcha hacia el rascacielos blindado de Extracciones Astrales, dispuestos a encender la mecha en el corazón mismo del poder corporativo.

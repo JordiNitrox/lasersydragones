@@ -8,9 +8,9 @@ Bajo la fría luz de los proyectores auxiliares, la falsa recepcionista permanec
 
 —¡Por favor! —gimió la mujer, con una voz rota y una mirada desorbitada que buscaba desesperadamente una salida—. ¡No me disparen! ¡Les juro que hablaré! Yo... yo solo estaba haciendo lo que me ordenaron. ¡Me obligaron! Necesitaba el dinero, no quería que nadie muriera...
 
-Triel y Marloc intercambiaron una mirada de escepticismo, pero fue Benray Galway quien dio un paso al frente. El ysoki, todavía empapado en el líquido viscoso del tanque de inmersión, con el pelaje erizado y los bigotes goteando, parecía un gato callejero furioso al que hubiesen sumergido en un cubo de agua fría.
+Triel y Marloc intercambiaron una mirada de escepticismo, pero fue Benrey Galway quien dio un paso al frente. El ysoki, todavía empapado en el líquido viscoso del tanque de inmersión, con el pelaje erizado y los bigotes goteando, parecía un gato callejero furioso al que hubiesen sumergido en un cubo de agua fría.
 
-—¡Vaya, qué conmovedora interpretación! —chilló Benray, plantándose frente a ella y pellizcándole una mejilla con sus zarpas ganchudas—. ¡Casi se me escapa una lágrima! Menudo cambio de actitud, ¿no? Hace dos minutos te reías como una desquiciada mientras dos hienas blindadas intentaban convertirnos en picadillo de carne. ¡Mírame a los ojos, bruja de pacotilla! ¡A un Galway no le mientes en su cara mojada!
+—¡Vaya, qué conmovedora interpretación! —chilló Benrey, plantándose frente a ella y pellizcándole una mejilla con sus zarpas ganchudas—. ¡Casi se me escapa una lágrima! Menudo cambio de actitud, ¿no? Hace dos minutos te reías como una desquiciada mientras dos hienas blindadas intentaban convertirnos en picadillo de carne. ¡Mírame a los ojos, bruja de pacotilla! ¡A un Galway no le mientes en su cara mojada!
 
 La mujer titubeó. De pronto, fingió un espasmo de dolor, encorvándose sobre sus rodillas mientras deslizaba disimuladamente una mano enguantada hacia la hebilla de su cinturón. Con dedos ágiles, extrajo una diminuta cápsula de cristal translúcido, dispuesta a llevársela a los labios.
 
@@ -18,13 +18,13 @@ Axel no pestañeó. Con la velocidad de cálculo de sus procesadores de combate,
 
 —Cianuro neurotóxico de efecto fulminante —dictaminó Axel con voz gélida, guardando la píldora en su cartuchera—. Tu intento de suicidio preventivo ha sido neutralizado. Ahora responderás.
 
-Benray volvió a encañonarla con su pistola gravitatoria, apoyándola con desdén sobre su hombro:
+Benrey volvió a encañonarla con su pistola gravitatoria, apoyándola con desdén sobre su hombro:
 —¿Para quién trabajas? ¿De qué culto eres? ¿Y por qué atacaron nuestra cabina de juego?
 
 La mujer escupió al suelo, despojándose al fin de su máscara de víctima y mostrando una sonrisa nihilista, torcida y venenosa:
-—Trabajo en relaciones públicas de Epix. Cuando sus agentes reservaron la cabina para la promoción del concurso de Syd Velch, intercepté la solicitud. Sabíamos quiénes eran ustedes. Los que estuvieron en Castrovel... los que acabaron con Tahomen. Queríamos lo que ustedes saben. Lo que esa rata inmunda —señaló con rabia a Benray— cortó de sus vídeos para la holored.
+—Trabajo en relaciones públicas de Epix. Cuando sus agentes reservaron la cabina para la promoción del concurso de Syd Velch, intercepté la solicitud. Sabíamos quiénes eran ustedes. Los que estuvieron en Castrovel... los que acabaron con Tahomen. Queríamos lo que ustedes saben. Lo que esa rata inmunda —señaló con rabia a Benrey— cortó de sus vídeos para la holored.
 
-—¡Oye, mis ediciones son obras maestras del periodismo independiente! —protestó Benray, ofendido en lo más hondo de su orgullo artístico.
+—¡Oye, mis ediciones son obras maestras del periodismo independiente! —protestó Benrey, ofendido en lo más hondo de su orgullo artístico.
 
 —El fin se acerca —susurró la prisionera con ojos febriles—. La música de Syd Velch... las vibraciones de sus acordes... el Gran Destructor ya ha marcado el destino del cosmos. Las estrellas se apagarán una por una. Ustedes solo retrasan lo inevitable. Formo parte del Coro, los que nos ocultamos entre ustedes en la holored, en los servidores ocultos, en los foros oscuros del Devorador. ¡Jamás encontrarán a nuestros líderes!
 
@@ -44,7 +44,7 @@ Era un mediano. Vestía un mono de trabajo andrajoso con herramientas sueltas co
 
 —Tú nos salvaste el pellejo —dijo Triel con una sonrisa cálida mientras abría su botiquín de campaña y le inyectaba un suero dérmico coagulante—. Eres un héroe, Valdo. Un mediano valiente como pocos.
 
-—Si algún día tu sentido común se cansa de esta estación espacial y buscas aventuras de verdad —intervino Benray, acercándose con una palmada en el hombro del mediano—, búscanos. Nos llamamos Inversiones Estelares. Tenemos una nave hermosa, sueldos cuestionables y comida vencida de hace cincuenta años, ¡pero nunca falta la emoción!
+—Si algún día tu sentido común se cansa de esta estación espacial y buscas aventuras de verdad —intervino Benrey, acercándose con una palmada en el hombro del mediano—, búscanos. Nos llamamos Inversiones Estelares. Tenemos una nave hermosa, sueldos cuestionables y comida vencida de hace cincuenta años, ¡pero nunca falta la emoción!
 
 Valdo sonrió débilmente entre el dolor:
 —Me lo pensaré, señor Galway... No tengo a nadie en Absalón. Y esos locos del culto me las van a pagar.
@@ -62,7 +62,7 @@ Tras ellos aparecieron los directivos de la corporación: una mujer lashunta con
 La abogada lashunta se adelantó con paso firme, desplegando un holopad frente a la tripulación:
 —Epix lamenta profundamente este... desafortunado incidente interno. A cambio de su firma en un estricto acuerdo de no divulgación que proteja a la marca del escándalo, estamos dispuestos a ofrecerles una compensación integral: cien mil créditos en bonos transferibles, la suscripción vitalicia a todos nuestros servicios de holojuegos... y la entrega inmediata de su premio.
 
-—¡Y todos los aspectos estéticos y skins exclusivas del catálogo! —exigió Benray, cruzando los brazos con gesto inflexible—. ¡Sin trampas ni microtransacciones de temporada! ¡Y un manual de juego para Triel!
+—¡Y todos los aspectos estéticos y skins exclusivas del catálogo! —exigió Benrey, cruzando los brazos con gesto inflexible—. ¡Sin trampas ni microtransacciones de temporada! ¡Y un manual de juego para Triel!
 
 —Hecho —asintió la lashunta sin vacilar un segundo—. Además, tienen acceso prioritario al canal cuántico privado de Syd Velch. Podrán transmitirle un mensaje directo en alta resolución. Él tiene por contrato la obligación de responder a los ganadores del concurso en un plazo máximo de una hora.
 
@@ -79,9 +79,9 @@ El mensaje fue codificado y lanzado a través de la red del Drift.
 
 ### III. El misterio en el Laboratorio «Mi Alegría»
 
-Mientras aguardaban la respuesta del músico, el grupo decidió tomarse unas horas de respiro para reabastecerse. Triel se marchó hacia los niveles residenciales para una gestión personal, Benray fue a peinarse su pelaje maltrecho a una peluquería ysoki, y Marloc Boosmar alquiló unas horas en un laboratorio biomédico independiente del Anillo, apodado con sorna entre los técnicos como «Laboratorio Mi Alegría».
+Mientras aguardaban la respuesta del músico, el grupo decidió tomarse unas horas de respiro para reabastecerse. Triel se marchó hacia los niveles residenciales para una gestión personal, Benrey fue a peinarse su pelaje maltrecho a una peluquería ysoki, y Marloc Boosmar alquiló unas horas en un laboratorio biomédico independiente del Anillo, apodado con sorna entre los técnicos como «Laboratorio Mi Alegría».
 
-Rodeado de matraces de polímero, centrífugas moleculares y analizadores espectrales, el tecnomante extrajo una muestra de sangre que había conservado de Benray Galway tras los extraños incidentes químicos de sus misiones recientes.
+Rodeado de matraces de polímero, centrífugas moleculares y analizadores espectrales, el tecnomante extrajo una muestra de sangre que había conservado de Benrey Galway tras los extraños incidentes químicos de sus misiones recientes.
 
 Marloc ajustó sus gafas de análisis y activó el secuenciador de ciencias biológicas. Durante casi dos horas, sus dedos cibernéticos manipularon reactivos hasta aislar un residuo aceitoso y microscópico, apenas unas gotas de un compuesto sintético de color ámbar pálido.
 
@@ -131,7 +131,7 @@ Frente a la rampa de carga de la nave estaban los dos goblins espaciales: Willy 
 
 —¡Pero tenemos uniformes! —protestó Naru, señalándose el trasero con una cremallera amarilla—. ¡Y tienen apertura rápida para ir al baño!
 
-Benray, que venía llegando con el pelaje impecablemente peinado, intentó intervenir a favor de sus pequeños secuaces:
+Benrey, que venía llegando con el pelaje impecablemente peinado, intentó intervenir a favor de sus pequeños secuaces:
 —¡Vamos, Triel! ¡Trabajan gratis y hacen bulto en el puente! ¡Son como mascotas aerodinámicas!
 
 —¡He dicho que no! —sentenció la mecánica.
@@ -142,13 +142,13 @@ Marloc Boosmar se adelantó con paso solemne. Se arrodilló frente a los dos gob
 Los goblins parpadearon, conmovidos por el discurso:
 —Vaya... qué profundo, señor mago —susurró Willy, secándose una lágrima invisible—. Supongo que puedo dedicar más tiempo a mis hijos...
 
-Aprovechando el momento de distracción, Benray se inclinó entre los dos roedores verdes y les susurró al oído con una sonrisa cómplice:
+Aprovechando el momento de distracción, Benrey se inclinó entre los dos roedores verdes y les susurró al oído con una sonrisa cómplice:
 —Psst... muchachos. De buena fuente sé que el oficial León Holden parte en una misión secreta de Los Protectores en el muelle cuarenta y dos. Si se cuelan de polizones en su nave, podrán entrenar con la policía estelar y convertirse en soldados de verdad. ¡Llévense los uniformes puestos!
 
 Los ojos de los goblins se iluminaron como bengalas. Sin despedirse, echaron a correr por el hangar chillando de entusiasmo hacia la nave de León.
 
-Triel miró a Benray con los ojos entrecerrados:
-—¿Qué les acabas de decir, Benray?
+Triel miró a Benrey con los ojos entrecerrados:
+—¿Qué les acabas de decir, Benrey?
 
 —Nada, socia. Diplomacia de alto nivel. Problema resuelto.
 

@@ -18,7 +18,7 @@
 
 ## 🌌 Sinopsis del Volumen
 
-Juan Pablo da descanso temporal a Marloc e introduce al operativo enano Zivok. A bordo del destartalado carguero La Galway, Benray se reúne con parientes de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Sin embargo, la travesía se interrumpe drásticamente al hallar un pecio colosal eoxiano de kilómetros de longitud en el vacío (*El Corazón de la Oscuridad*). La tripulación aborda el navío óseo, enfrentándose a las primeras trampas mortales y espectros no-muertos de la Flota de los Cuerpos.
+Juan Pablo da descanso temporal a Marloc e introduce al operativo enano Zivok. A bordo del destartalado carguero La Galway, Benrey se reúne con parientes de su clan ysoki (Yolmar, Valentina, Gazit y Rinrey). Sin embargo, la travesía se interrumpe drásticamente al hallar un pecio colosal eoxiano de kilómetros de longitud en el vacío (*El Corazón de la Oscuridad*). La tripulación aborda el navío óseo, enfrentándose a las primeras trampas mortales y espectros no-muertos de la Flota de los Cuerpos.
 
 ---
 

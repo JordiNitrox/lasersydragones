@@ -10,9 +10,9 @@ Para Marloc Boosmar, aquellos pasillos no evocaban nostalgia académica, sino el
 
 Hacía escasas semanas que el tecnomante había despertado en el suelo helado del aula diecisiete, con la boca ensangrentada, la mente en blanco, sin registros oficiales en el censo de Absalón y con sus cuentas bancarias vacías. En ese breve lapso de tiempo, el destino lo había arrastrado desde las reyertas callejeras del Nivel 21 hasta las entrañas de la *Roca del Drift* y la victoria jurídica en el Consejo de Síndicos. Pero ahora, el hilo de las pesquisas lo devolvía al punto de partida.
 
-—Debo confesar, mi querido Marloc —comentó Benray Galway, quebrando el eco cavernoso de sus pasos con el tintineo de su casaca y el vaivén curioso de sus bigotes de ysoki—, que la arquitectura es indudablemente majestuosa, pero el ambiente nocturno parece sacado de una morgue de la Espiga. Un par de carteles holográficos de neón o una buena banda de cuerdas vercesianas le vendrían de perlas a estos corredores funerarios.
+—Debo confesar, mi querido Marloc —comentó Benrey Galway, quebrando el eco cavernoso de sus pasos con el tintineo de su casaca y el vaivén curioso de sus bigotes de ysoki—, que la arquitectura es indudablemente majestuosa, pero el ambiente nocturno parece sacado de una morgue de la Espiga. Un par de carteles holográficos de neón o una buena banda de cuerdas vercesianas le vendrían de perlas a estos corredores funerarios.
 
-—El saber arcano no necesita publicidad, Benray —respondió Marloc con voz baja y mesurada, ajustándose el cuello de su gabardina oscura—. Y ese hombre ciertamente no tolera la ligereza. Ambrose Boosmar es la viva estampa del padre que conocí antes de que mi mundo se quebrara, pero no es alguien que conceda audiencias por cortesía. Les ruego prudencia.
+—El saber arcano no necesita publicidad, Benrey —respondió Marloc con voz baja y mesurada, ajustándose el cuello de su gabardina oscura—. Y ese hombre ciertamente no tolera la ligereza. Ambrose Boosmar es la viva estampa del padre que conocí antes de que mi mundo se quebrara, pero no es alguien que conceda audiencias por cortesía. Les ruego prudencia.
 
 En la esclusa de acceso del ala docente, una figura familiar los esperaba con un gigantesco manojo de tarjetas magnéticas y llaves mecánicas tintineando en el cinturón. Era Richie, el veterano conserje del Arcanamirium, enfundado en su overol de faena:
 
@@ -58,7 +58,7 @@ Ambrose deslizó un dedo sobre la pantalla. Durante una fracción de segundo, su
 
 —Esa escritura es una ramificación arcaica de los dialectos kishitas, entrelazada con fórmulas matemáticas que tu mente jamás podría descifrar, Marloc. En todos los Mundos del Pacto solo existe una investigadora capacitada para correlacionar estas coordenadas con la floresta de Ukulam: la doctora **Omejia Solstarni**, de la Universidad de Qabarat.
 
-—Por esa razón partiremos de inmediato hacia Castrovel en la *Estrella Errante* —intervino Benray, adelantándose con una reverencia diplomática de casaca—. Confiamos en que la academia nos facilite credenciales de cortesía.
+—Por esa razón partiremos de inmediato hacia Castrovel en la *Estrella Errante* —intervino Benrey, adelantándose con una reverencia diplomática de casaca—. Confiamos en que la academia nos facilite credenciales de cortesía.
 
 Ambrose miró al ysoki como quien observa a un parásito que ha osado posarse sobre sus pergaminos:
 
@@ -80,7 +80,7 @@ Antes de que Ambrose pudiera responder, el portal se deslizó y una mujer madura
 
 —Ambrose... ¿otra vez aquí? —su voz temblaba con una mezcla de reproche y desconsuelo—. Es casi el funeral de nuestra hija y llevas días encerrado entre estos papeles. Por favor... Ángela llegará en cualquier momento de su viaje y tenemos que recibirla para coordinar los preparativos del sepelio en el camposanto.
 
-La mujer se detuvo en seco al reparar en los cuatro aventureros. Sus ojos, enrojecidos por el llanto, recorrieron la casaca de Benray, las herramientas de Triel, el porte silencioso de Axel... y finalmente se clavaron en Marloc.
+La mujer se detuvo en seco al reparar en los cuatro aventureros. Sus ojos, enrojecidos por el llanto, recorrieron la casaca de Benrey, las herramientas de Triel, el porte silencioso de Axel... y finalmente se clavaron en Marloc.
 
 La respiración de la mujer se quebró en un jadeo ahogado. Dio un paso involuntario hacia atrás, llevándose una mano al pecho mientras palidecía visiblemente:
 
@@ -132,13 +132,13 @@ El tecnomante alzó la mirada hacia las estrellas lejanas del Vasto. Sus ojos re
 
 —Esa mujer... Olivia... tiene el rostro y la voz de mi madre. Pero en los recuerdos que conservo de mi pasado, mi madre murió intoxicada en la atmósfera de Aucturn hace años. Verla ahí dentro, viva, hablando de su hija muerta... es como contemplar un espejo roto del universo.
 
-Benray se mesó los bigotes con gravedad inusual:
+Benrey se mesó los bigotes con gravedad inusual:
 
 —¿Estás diciendo que Marlene era tu reflejo en esta dimensión?
 
 —No lo sé con certeza —admitió Marloc, apretando el puño cibernético hasta hacer chirriar los servomotores—. Pero una cosa es indiscutible: Ambrose Boosmar sabe exactamente qué es la esfera rúnica. Cuando la mencioné, el miedo en sus ojos fue inequívoco. Estuvo en Aucturn, descubrió algo allí y manipuló las investigaciones de Marlene. Si queremos respuestas sobre quién soy y qué amenaza se cierne sobre los Mundos del Pacto... tenemos que encontrarlas en Castrovel.
 
-Axel dio un paso hacia él y apoyó su mano de aleación sobre el hombro del tecnomante, mientras Benray y Triel se cerraban a su alrededor en un círculo protector.
+Axel dio un paso hacia él y apoyó su mano de aleación sobre el hombro del tecnomante, mientras Benrey y Triel se cerraban a su alrededor en un círculo protector.
 
 —La ruta está trazada, Marloc —dijo la androide con firmeza serena—. En dos días rendiremos honores a Marlene en el Jardín de Cenizas, nos despediremos de Absalón y zarparemos rumbo a Qabarat. Las respuestas nos aguardan en las torres esmeralda.
 
@@ -152,7 +152,7 @@ De pronto, la voz de Marloc se extinguió en un jadeo sordo.
 
 Una gota espesa de sangre oscura brotó de su fosa nasal izquierda, seguida de inmediato por un hilo constante y caliente que manchó su labio y goteó sobre el cuello de su camisa ceremonial.
 
-—¿Marloc? —preguntó Benray, retrocediendo con los ojos desorbitados—. ¡Marloc, te está saliendo sangre de la nariz!
+—¿Marloc? —preguntó Benrey, retrocediendo con los ojos desorbitados—. ¡Marloc, te está saliendo sangre de la nariz!
 
 El tecnomante intentó hablar, pero sus cuerdas vocales solo emitieron un estertor ahogado. Sus ojos se volvieron vidriosos, carentes de foco. De repente, su cuerpo comenzó a parpadear con una estática translúcida azulada: la masa física de su torso perdió consistencia atómica y comenzó a desfasarse, resbalando a través de los brazos de Triel y de la barandilla metálica como si fuera un espectro de luz incoherente.
 
@@ -172,9 +172,9 @@ Desde las entrañas enfermas del planeta, emergiendo lentamente envuelta en hebr
 
 Un latigazo de sales aromáticas concentradas penetró por sus fosas nasales, acompañado por la descarga electromagnética milimétrica del desfibrilador táctico de Axel.
 
-Marloc abrió los ojos de par en par con una bocanada de aire entrecortada, tosiendo violently mientras se incorporaba sobre las baldosas metálicas del pasillo. Tenía el rostro empapado en sudor frío y la sangre aún manchándole la barbilla, pero las ópticas azuladas de Axel y los rostros pálidos de Triel y Benray estaban allí, sosteniéndolo contra el suelo del mirador.
+Marloc abrió los ojos de par en par con una bocanada de aire entrecortada, tosiendo violently mientras se incorporaba sobre las baldosas metálicas del pasillo. Tenía el rostro empapado en sudor frío y la sangre aún manchándole la barbilla, pero las ópticas azuladas de Axel y los rostros pálidos de Triel y Benrey estaban allí, sosteniéndolo contra el suelo del mirador.
 
-—Bienvenido de vuelta, profesor —dijo Benray, secándose el sudor de la frente con la manga—. Por un segundo creí que te nos evaporabas al hiperespacio sin pagar la cuenta.
+—Bienvenido de vuelta, profesor —dijo Benrey, secándose el sudor de la frente con la manga—. Por un segundo creí que te nos evaporabas al hiperespacio sin pagar la cuenta.
 
 Marloc se llevó los dedos temblorosos a la nariz, contemplando la sangre que manchaba sus guantes mientras el recuerdo de la carne viva de Aucturn aún palpitaba en el fondo de sus pupilas:
 

@@ -4,7 +4,7 @@
 
 La sala de simulación holográfica de la *Estrella Errante* quedó sumida en una penumbra azulada cuando Triel desconectó los proyectores auxiliares del techo. En el centro del habitáculo circular, una columna de luz tridimensional comenzó a parpadear con el grano tembloroso de una cinta electromagnética desgastada por los siglos.
 
-Axel permanecía de pie en el centro de la sala, con sus fotorreceptores calibrados en modo de captura directa. A su lado, Triel, Benray y Marloc aguardaban en silencio.
+Axel permanecía de pie en el centro de la sala, con sus fotorreceptores calibrados en modo de captura directa. A su lado, Triel, Benrey y Marloc aguardaban en silencio.
 
 El archivo recuperado de la matriz de Éclair —apenas un veinticinco por ciento de su contenido original— se desdobló en el aire. Pequeños píxeles de luz se ensamblaron hasta formar la figura de un androide esbelto, de rasgos serenos y circuitos dorados que brillaban bajo un abrigo desgastado de la Sociedad Starfinder.
 
@@ -53,11 +53,11 @@ Triel se acercó a la consola táctica, rastreando los perfiles astronómicos y 
 
 —Yo nací allí —murmuró Axel, con una voz cargada de una extraña fragilidad—. Desperté entre los escombros de aquella guerra, desorientada y sin memoria, creyendo que era una trabajadora más rescatada por Éclair. Pero ahora lo entiendo: Yara no era una esclava común. Estaba buscando algo vinculado al culto o a la Devoradora de Soles. Y cuando murió, Éclair recogió su cuerpo para darme una nueva oportunidad de existir.
 
-Benray Galway se acercó a la androide y, con un gesto inusualmente tierno, le dio unas palmaditas en la rodillera metálica:
+Benrey Galway se acercó a la androide y, con un gesto inusualmente tierno, le dio unas palmaditas en la rodillera metálica:
 —Escúchame bien, Axel. Éclair te dio ese chasis para que vivieras tu propia vida, no para que cargues con los fantasmas de Yara ni con las culpas de los que vinieron antes. Tú eres Axel, la mejor tiradora de la Diáspora y la única persona capaz de aguantar mis quejas sin desconectar mis comunicadores. Encontraremos a Null-9 y rescataremos a ese chico nuevo. Pero lo haremos por ti, no por el pasado.
 
 Axel parpadeó lentamente, asintiendo con una inclinación de cabeza:
-—Gratitud registrada, Benray. Conservaré el archivo para procesar sus variables. Ahora debemos cumplir con los compromisos inmediatos.
+—Gratitud registrada, Benrey. Conservaré el archivo para procesar sus variables. Ahora debemos cumplir con los compromisos inmediatos.
 
 ***
 
@@ -67,15 +67,15 @@ Tras veinticuatro horas de navegación por los corredores balizados del Campo de
 
 A diferencia de los peñascos esféricos habituales, Ceres era una mole plana y descomunal, semejante a una gigantesca tortilla de piedra de kilómetros de anchura que rotaba perezosamente sobre su eje. Equipado con generadores de gravedad artificial interna, el asteroide servía como la auténtica capital comercial y punto de encuentro de la Diáspora: un puerto franco sin leyes estrictas donde mineros, chatarreros, diplomáticos clandestinos y corsarios acudían a reparar naves, negociar alijos y gastar sus créditos en cantinas abarrotadas.
 
-Durante el viaje, Triel había aprovechado cada hora en el taller para fabricar un implante tecnológico de destreza aumentada de nivel siete, instalando además una mejora cibernética en los relés vertebrales de Axel gracias a su habilidad médica tecnológica. Por su parte, Benray había contactado a través de su red de fanáticos con un cirujano del bajo mundo —el doctor John Harris— para certificar las intervenciones en el puerto.
+Durante el viaje, Triel había aprovechado cada hora en el taller para fabricar un implante tecnológico de destreza aumentada de nivel siete, instalando además una mejora cibernética en los relés vertebrales de Axel gracias a su habilidad médica tecnológica. Por su parte, Benrey había contactado a través de su red de fanáticos con un cirujano del bajo mundo —el doctor John Harris— para certificar las intervenciones en el puerto.
 
 La *Estrella Errante* maniobró hacia uno de los inmensos hangares excavados en el borde perimetral del asteroide.
 
 Al descender por la rampa de desembarco, fueron recibidos por el jefe de muelle: un ser colosal semejante a una morsa humanoide, enfundado en un mono de mecánico grasiento y sosteniendo una tableta de cobros:
 —Cien créditos por ciclo estándar de atraque —rugió el oficial con voz de barítono—. Sin excepciones de la casa. Aquí no hay caridad de la Sociedad Starfinder.
 
-Benray Galway dio un paso al frente, ajustándose la chaqueta con la elegancia de una superestrella:
-—Cien créditos para los viajeros ordinarios, caballero. Pero ante usted se encuentra el mismísimo Benray Galway, héroe mediático de Castrovel y comandante de la *Estrella Errante*. Estoy seguro de que podemos acordar una tarifa de cortesía... digamos, ¿ochenta créditos y un hológrafo firmado para su familia?
+Benrey Galway dio un paso al frente, ajustándose la chaqueta con la elegancia de una superestrella:
+—Cien créditos para los viajeros ordinarios, caballero. Pero ante usted se encuentra el mismísimo Benrey Galway, héroe mediático de Castrovel y comandante de la *Estrella Errante*. Estoy seguro de que podemos acordar una tarifa de cortesía... digamos, ¿ochenta créditos y un hológrafo firmado para su familia?
 
 El oficial morsa entornó los ojos, miró la tableta, miró al ysoki y soltó un bufido que hizo temblar sus bigotes:
 —A mi hijo le encanta su programa... aunque yo prefiero los debates de Gallito Peligro. Trato hecho: ochenta créditos. Tienen el muelle doce asegurado.
@@ -89,7 +89,7 @@ Marloc se acercó a Triel, consultando su cronómetro personal con una suave son
 
 ### IV. La sombra del rencor
 
-Guiados por los escáneres de Triel, el grupo regresó a la bodega inferior de la nave. Gerty iluminaba los rincones con sus focos halógenos mientras Axel y Benray avanzaban con las armas preparadas.
+Guiados por los escáneres de Triel, el grupo regresó a la bodega inferior de la nave. Gerty iluminaba los rincones con sus focos halógenos mientras Axel y Benrey avanzaban con las armas preparadas.
 
 Al inspeccionar los conductos de ventilación que corrían bajo el vientre de la nave, Triel descubrió una anomalía estructural: una línea de remaches ocultos bajo una capa de aislante térmico.
 
@@ -104,7 +104,7 @@ Del compartimento secreto emergió una figura colosal que heló el aliento de lo
 
 Era un imponente oficial **Veszk**, de más de dos metros de altura y escamas verdosas blindadas. Vestía una armadura pesada con los blasones dorados y escarlatas de los **Protectores** (*Stewards*), las fuerzas de paz supremas de los Mundos del Pacto. En sus garras sostenía un arma aterradora: una pesada cadena de eslabones de energía (*shock chain*) que chisporroteaba con relámpagos azulados y dos esferas electrificadas en sus extremos.
 
-Benray Galway dio un paso atrás, con los ojos abiertos de par en par y las orejas totalmente plegadas por el espanto:
+Benrey Galway dio un paso atrás, con los ojos abiertos de par en par y las orejas totalmente plegadas por el espanto:
 —¡Por los dioses del vacío...! ¡Usted es... el general Radavox!
 
 —El general Radavox de los Protectores —rugió el reptil, haciendo girar la cadena con un zumbido ensordecedor—. Y el padre de **Alcon**. El muchacho al que usted arrastró a una muerte miserable en los muelles de Absalom por culpa de su ambición de pacotilla.
@@ -115,12 +115,12 @@ Benray Galway dio un paso atrás, con los ojos abiertos de par en par y las orej
 
 El combate estalló en el estrecho muelle del hangar con una violencia atronadora.
 
-Radavox cargó con la furia de un titán herido, lanzando su cadena electrificada directamente hacia el pecho de Benray:
+Radavox cargó con la furia de un titán herido, lanzando su cadena electrificada directamente hacia el pecho de Benrey:
 *¡BZZZZ-THUMP!*
 
 El impacto de treinta y un voltios de pura furia derribó al emisario contra los contenedores de carga, haciéndolo escupir sangre y quemando gran parte de las placas de su nuevo traje refractor.
 
-—¡Benray! —gritó Axel, desenfundando su pistola de partículas. La androide ajustó la frecuencia para infligir únicamente daño no letal: a pesar del peligro, comprendía que Radavox no era un criminal del Devorador, sino un padre destrozado por el duelo.
+—¡Benrey! —gritó Axel, desenfundando su pistola de partículas. La androide ajustó la frecuencia para infligir únicamente daño no letal: a pesar del peligro, comprendía que Radavox no era un criminal del Devorador, sino un padre destrozado por el duelo.
 
 Marloc Boosmar actuó con la velocidad del rayo. Alzando sus brazos hacia el Veszk enfurecido, el tecnomante canalizó un hechizo de transmutación regresiva:
 —*¡Retrorsum vestigium!*
@@ -134,20 +134,20 @@ Un torrente de grasa densa y sintética inundó las losas metálicas a los pies 
 
 Gerty se abalanzó sobre él con dos de sus escudos de plasma, bloqueando los latigazos de la cadena electrificada mientras Axel disparaba dos descargas no letales precisas a las articulaciones de sus hombros.
 
-Benray se puso en pie a duras penas, apoyándose en un mamparo humeante mientras se limpiaba la sangre del labio con la manga. El roedor alzó ambas garras desarmadas y dio un paso firme hacia el charco de grasa, interponiéndose entre el general derribado y las armas de sus compañeros.
+Benrey se puso en pie a duras penas, apoyándose en un mamparo humeante mientras se limpiaba la sangre del labio con la manga. El roedor alzó ambas garras desarmadas y dio un paso firme hacia el charco de grasa, interponiéndose entre el general derribado y las armas de sus compañeros.
 
-—¡Basta! —gritó Benray con una voz que desgarró la tensión del muelle—. ¡Basta, general Radavox!
+—¡Basta! —gritó Benrey con una voz que desgarró la tensión del muelle—. ¡Basta, general Radavox!
 
 El reptil, jadeando sobre el suelo aceitoso con las escamas humeantes, alzó la vista con los ojos inyectados en sangre:
 —¿Cree que sus discursos baratos de presentador van a salvarle el pellejo, Galway? ¡Usted mató a mi hijo! ¡Alcon lo admiraba! ¡Tenía sus pósters en su habitación de la academia! ¡Confió en usted... y usted lo mandó al matadero!
 
-Las palabras golpearon a Benray con más fuerza que la propia descarga eléctrica. El ysoki bajó la mirada durante un instante desgarrador, pero cuando volvió a levantarla, sus ojos no reflejaban miedo ni cinismo: reflejaban un dolor genuino y desgarrador.
+Las palabras golpearon a Benrey con más fuerza que la propia descarga eléctrica. El ysoki bajó la mirada durante un instante desgarrador, pero cuando volvió a levantarla, sus ojos no reflejaban miedo ni cinismo: reflejaban un dolor genuino y desgarrador.
 
-—Tiene toda la razón, general —dijo Benray con la voz rota por la sinceridad—. Cometí el peor error de mi vida al dejar que Alcon subiera a ese muelle. Era solo un muchacho... un chico valiente que no merecía morir en un tiroteo sucio de pandilleros. No hay un solo día en que no recuerde su nombre ni el sonido de su caída. Si mi muerte pudiera devolvérselo vivo a sus brazos, dejaría que me partiera en dos con esa cadena ahora mismo.
+—Tiene toda la razón, general —dijo Benrey con la voz rota por la sinceridad—. Cometí el peor error de mi vida al dejar que Alcon subiera a ese muelle. Era solo un muchacho... un chico valiente que no merecía morir en un tiroteo sucio de pandilleros. No hay un solo día en que no recuerde su nombre ni el sonido de su caída. Si mi muerte pudiera devolvérselo vivo a sus brazos, dejaría que me partiera en dos con esa cadena ahora mismo.
 
 El Veszk apretó los dientes, pero sus garras dejaron de tensar el arma.
 
-—Pero matarme no traerá a Alcon de vuelta —continuó Benray, dando un paso más hacia él—. Y convertir a un general condecorado de los Protectores en un asesino clandestino que muere en una fosa de la Diáspora no honra su memoria. Alcon murió queriendo proteger a la gente inocente. No deje que su duelo destruya al hombre que su hijo tanto admiraba.
+—Pero matarme no traerá a Alcon de vuelta —continuó Benrey, dando un paso más hacia él—. Y convertir a un general condecorado de los Protectores en un asesino clandestino que muere en una fosa de la Diáspora no honra su memoria. Alcon murió queriendo proteger a la gente inocente. No deje que su duelo destruya al hombre que su hijo tanto admiraba.
 
 El silencio que siguió fue absoluto, roto únicamente por el siseo del refrigerante de la nave.
 

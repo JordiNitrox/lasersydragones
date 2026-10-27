@@ -12,11 +12,11 @@ Axel 42, con sus biosensores en alerta máxima, reaccionó antes de que la ola r
 
 **Il**, el cantante de *Super BMT*, saltó con agilidad atlética aferrándose al borde de la tarima flotante, mientras Axel lo seguía de un impulso limpio. Triel intentó encaramarse tras ellos, pero la masa desbocada chocó contra sus piernas, haciéndola tambalearse entre gritos de dolor. Con la ayuda combinada de Il y Axel tirando de su brazo, la semi-drow logró rodar sobre el escenario, magullada y jadeante.
 
-Sin embargo, **Benray Galway** no tuvo la misma suerte.
+Sin embargo, **Benrey Galway** no tuvo la misma suerte.
 
 Un empellón brutal de un estibador vesk desequilibró al ysoki, arrojándolo de espaldas a la vorágine de la pista. Las botas de la multitud amenazaban con pisotearlo en cuestión de segundos:
 
-—¡Benray! —gritó Triel, asomándose al vacío e intentando tenderle la mano.
+—¡Benrey! —gritó Triel, asomándose al vacío e intentando tenderle la mano.
 
 Guardias de seguridad privados del recinto irrumpieron en el escenario con porras eléctricas, intentando despejar la tarima para sellar los accesos de emergencia. Axel desenfundó discretamente la pistola táctica que guardaba oculta bajo su falda de vinilo, pero Il se interpuso ante los guardias con porte autoritario:
 
@@ -34,23 +34,23 @@ Apenas dos minutos después, una compuerta lateral se abrió con un crujido de b
 
 ### II. El mosh pit de la rata
 
-En el foso central, Benray Galway no estaba dispuesto a morir aplastado por fanáticos enloquecidos.
+En el foso central, Benrey Galway no estaba dispuesto a morir aplastado por fanáticos enloquecidos.
 
 Haciendo gala del instinto de supervivencia ancestral de los ysokis, el periodista se encogió sobre sí mismo, bajó el centro de gravedad y comenzó a escurrirse entre las piernas de los agresores como una anguila aceitada:
 
 —¡Paso al reportero! ¡Cuidado con esa pezuña, cara de lagarto! —mascullaba entre dientes mientras se deslizaba por debajo de capas, faldas y botas pesadas.
 
-El foso era una pesadilla dantesca: ojos inyectados en sangre, alaridos incomprensibles en lenguas muertas y fanáticos golpeándose las cabezas contra el suelo. Benray comprendió al instante que intentar alcanzar las puertas principales de evacuación a ras de suelo sería un suicidio; los accesos terrestres estaban completamente taponados por muros humanos de quinientas personas aplastándose contra el blindaje.
+El foso era una pesadilla dantesca: ojos inyectados en sangre, alaridos incomprensibles en lenguas muertas y fanáticos golpeándose las cabezas contra el suelo. Benrey comprendió al instante que intentar alcanzar las puertas principales de evacuación a ras de suelo sería un suicidio; los accesos terrestres estaban completamente taponados por muros humanos de quinientas personas aplastándose contra el blindaje.
 
 La única salvación estaba arriba.
 
-Aprovechando su diminuto tamaño, Benray trepó por las rejas metálicas de ventilación que separaban el foso de las galerías de palcos VIP. Se coló entre los barrotes con la soltura que solo un ysoki de la Espiga poseía y desembocó en el corredor alfombrado del segundo nivel.
+Aprovechando su diminuto tamaño, Benrey trepó por las rejas metálicas de ventilación que separaban el foso de las galerías de palcos VIP. Se coló entre los barrotes con la soltura que solo un ysoki de la Espiga poseía y desembocó en el corredor alfombrado del segundo nivel.
 
 Sin embargo, al enfilar el pasillo hacia las escaleras del techo, se topó de frente con un fanático corpulento que blandía una pata de silla metálica arrancada de cuajo, golpeando las paredes con furia homicida.
 
-Benray retrocedió sigilosamente, se deslizó en una cabina de control audiovisual contigua y localizó la consola maestra del circuito cerrado de televisión. Con una sonrisa socarrona, subió los potenciómetros al máximo y encendió todas las holopantallas del pasillo a volumen ensordecedor.
+Benrey retrocedió sigilosamente, se deslizó en una cabina de control audiovisual contigua y localizó la consola maestra del circuito cerrado de televisión. Con una sonrisa socarrona, subió los potenciómetros al máximo y encendió todas las holopantallas del pasillo a volumen ensordecedor.
 
-El estruendo repentino de un rugido sónico aturdió al maniático, que se abalanzó contra las pantallas intentando destruirlas a golpes. Aprovechando la distracción, Benray cruzó el corredor como una centella, propinó una certera patada a la endeble cerradura de la puerta de servicio y comenzó a escalar la empinada escalerilla de mantenimiento que conducía a la cubierta exterior.
+El estruendo repentino de un rugido sónico aturdió al maniático, que se abalanzó contra las pantallas intentando destruirlas a golpes. Aprovechando la distracción, Benrey cruzó el corredor como una centella, propinó una certera patada a la endeble cerradura de la puerta de servicio y comenzó a escalar la empinada escalerilla de mantenimiento que conducía a la cubierta exterior.
 
 ***
 
@@ -102,9 +102,9 @@ El enano tomó los créditos con parsimonia, le dedicó una mirada burlona a su 
 
 Marloc se deslizó tras el volante. El interior del vehículo olía a tabaco rancio y humedad, con una funda de bolitas de madera en el asiento del conductor y una estatuilla de la Sagrada Familia sujeta con cinta adhesiva al salpicadero. Activando sus circuitos arcanománticos para sincronizarse con la rudimentaria computadora de a bordo, el hechicero aceleró los propulsores verticales y elevó el aerotaxi a trompicones hacia la cúpula del Domo, esquivando a duras penas los avisos de alto de los drones policiales.
 
-En el helipuerto del tejado, azotado por el viento artificial de la estación, Triel, Axel, Il y Gerty acababan de franquear la escotilla exterior justo cuando Benray asomaba la cabeza por la escalera de servicio opuesta, jadeando y cubierto de tizne:
+En el helipuerto del tejado, azotado por el viento artificial de la estación, Triel, Axel, Il y Gerty acababan de franquear la escotilla exterior justo cuando Benrey asomaba la cabeza por la escalera de servicio opuesta, jadeando y cubierto de tizne:
 
-—¡Benray! —exclamó Triel corriendo hacia él—. ¡Maldito seas, sigues de una pieza!
+—¡Benrey! —exclamó Triel corriendo hacia él—. ¡Maldito seas, sigues de una pieza!
 
 —¡El mosh de la rata nunca falla! —festejó el ysoki alzando los brazos—. ¡He surfeado sobre trescientos energúmenos y he burlado a un gigante con pantallas de alta definición!
 
@@ -116,4 +116,4 @@ El aerotaxi de Marloc derrapó en el aire, frenó a escasos centímetros del sue
 
 —¡¿Quieren subir de una maldita vez antes de que la guardia de Los Protectores nos derribe?!
 
-Il, Triel, Axel, Benray y Gerty se amontonaron a trompicones en el asiento trasero sobre las bolitas de madera. Marloc pisó a fondo el acelerador y el aerotaxi se disparó en picado hacia las sombras del Quinto Brazo, perdiéndose en el laberinto de neón de Absalón mientras las sirenas de la policía aullaban a lo lejos.
+Il, Triel, Axel, Benrey y Gerty se amontonaron a trompicones en el asiento trasero sobre las bolitas de madera. Marloc pisó a fondo el acelerador y el aerotaxi se disparó en picado hacia las sombras del Quinto Brazo, perdiéndose en el laberinto de neón de Absalón mientras las sirenas de la policía aullaban a lo lejos.

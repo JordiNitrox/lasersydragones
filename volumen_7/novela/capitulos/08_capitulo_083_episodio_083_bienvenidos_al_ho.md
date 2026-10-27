@@ -14,11 +14,11 @@ Sin embargo, en el instante en que sus botas cruzaron el umbral a menos de tres 
 
 —¡Fuga química! —gritó Axel.
 
-Triel reaccionó por puro instinto de supervivencia: activó los sellos de sus pulmones presurizados, conteniendo la respiración en seco antes de que el gas penetrara en sus filtros. Pero Marloc y Benray, que se encontraban a pocos pasos de la entrada, inhalaron una bocanada involuntaria antes de que los recicladores bloquearan el conducto.
+Triel reaccionó por puro instinto de supervivencia: activó los sellos de sus pulmones presurizados, conteniendo la respiración en seco antes de que el gas penetrara en sus filtros. Pero Marloc y Benrey, que se encontraban a pocos pasos de la entrada, inhalaron una bocanada involuntaria antes de que los recicladores bloquearan el conducto.
 
 El efecto fue instantáneo y demoledor.
 
-Marloc Boosmar se llevó las manos a la cabeza mientras sus pupilas se dilataban bajo el visor. Una oleada de vértigo y desvarío cognitivo sacudió sus pensamientos, reduciendo su agudeza mental a la de un niño aturdido. A su lado, Benray Galway comenzó a tambalearse sobre sus patas traseras, riéndose con un chillido tonto mientras se rascaba los bigotes con ambas garras.
+Marloc Boosmar se llevó las manos a la cabeza mientras sus pupilas se dilataban bajo el visor. Una oleada de vértigo y desvarío cognitivo sacudió sus pensamientos, reduciendo su agudeza mental a la de un niño aturdido. A su lado, Benrey Galway comenzó a tambalearse sobre sus patas traseras, riéndose con un chillido tonto mientras se rascaba los bigotes con ambas garras.
 
 —Marloc... —balbuceó el ysoki, arrastrando las palabras con una sonrisa estúpida—. Escucho... escucho ratoncitos en una moto espacial. Una moto muy bonita con ruedas de queso... ¿Por qué la pared tiene bigotes?
 
@@ -27,7 +27,7 @@ Marloc Boosmar se llevó las manos a la cabeza mientras sus pupilas se dilataban
 Triel suspiró con exasperación mientras conectaba su herramienta a la rejilla del techo para sellar los eyectores y evitar que la trampa se reiniciara:
 —Fantástico. Mi capitán tiene la inteligencia de un vegetal y mi tecnomante estrella no puede multiplicar dos por dos. Siéntense contra ese mamparo y no toquen nada hasta que los filtros de sus trajes metabolicen la toxina.
 
-Tuvieron que aguardar dos horas enteras en la esclusa, vigilando el túnel en silencio mientras Axel montaba guardia y Benray intentaba atrapar su propia cola en la penumbra.
+Tuvieron que aguardar dos horas enteras en la esclusa, vigilando el túnel en silencio mientras Axel montaba guardia y Benrey intentaba atrapar su propia cola en la penumbra.
 
 ***
 
@@ -43,13 +43,13 @@ Cerca de la base del segundo pilar, Axel descubrió un rastro macabro: un montó
 
 —Son restos desmembrados —indicó Axel, examinando un fragmento con la punta de su bota—. Pero no fueron mordidos. Parecen haber sido seccionados en dados perfectos de cinco centímetros.
 
-Benray dio dos pasos al frente para inspeccionar las puertas laterales del pasillo.
+Benrey dio dos pasos al frente para inspeccionar las puertas laterales del pasillo.
 
 En ese preciso instante, una trampa de seguridad se activó en los raíles del techo y el suelo.
 
 Un chasquido electromagnético resonó en la sala. Desde las molduras laterales brotó una densa malla geométrica de cien rayos láser rojos entrecruzados en ángulos rectos, formando una cuadrícula letal que comenzó a desplazarse a gran velocidad hacia el fondo de la habitación, barriendo el espacio de pared a pared con el zumbido abrasador de un escalpelo gigante.
 
-—¡REJILLA DE CORTE! —aulló Benray.
+—¡REJILLA DE CORTE! —aulló Benrey.
 
 Con un salto acrobático desesperado, el ysoki se arrojó de panza contra el zócalo del pilar más cercano, pegando la nariz al suelo justo cuando la red de rayos pasaba rozándole las orejas con un olor a ozono recalentado. La malla continuó su barrido hasta el final del vestíbulo, donde se detuvo para iniciar un ciclo de retorno constante hacia el punto de origen.
 
@@ -66,7 +66,7 @@ Antes de cruzar, Triel se detuvo junto a los restos desmembrados del suelo para 
 
 —Los no-muertos estuvieron aquí —confirmó Triel por el canal interno—. Y uno de sus soldados cayó víctima de esta misma trampa al intentar huir.
 
-Aprovechando el intervalo en que la rejilla láser se replegaba hacia la pared opuesta, Axel, Benray, Marloc y Gerty cruzaron el vestíbulo al trote y franquearon la puerta abierta, dejando atrás la guillotina de luz.
+Aprovechando el intervalo en que la rejilla láser se replegaba hacia la pared opuesta, Axel, Benrey, Marloc y Gerty cruzaron el vestíbulo al trote y franquearon la puerta abierta, dejando atrás la guillotina de luz.
 
 ***
 
@@ -95,7 +95,7 @@ Pero no eran autómatas de fábrica comunes. Los cultistas los habían profanado
 
 —Dos androides de asalto pesado en modo de vigilancia —susurró Axel—. Son modelos industriales antiguos. Vulnerables a la sobrecarga eléctrica, pero letales en cuerpo a cuerpo.
 
-—Nosotros tenemos ventaja táctica —propuso Benray con una sonrisa ladina—. Atraigámoslos hacia los barracones. ¡Usaremos los camarotes como posiciones elevadas!
+—Nosotros tenemos ventaja táctica —propuso Benrey con una sonrisa ladina—. Atraigámoslos hacia los barracones. ¡Usaremos los camarotes como posiciones elevadas!
 
 El ysoki preparó una granada de pulso voltaico, asomó medio cuerpo por la puerta y la arrojó con fuerza hacia el centro de la armería. La detonación desató una tormenta de arcos eléctricos azules que sacudió los circuitos de los dos autómatas con un chispazo demoledor.
 

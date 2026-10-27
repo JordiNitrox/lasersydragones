@@ -76,7 +76,7 @@ El ciclo de vida de un volumen se divide en cuatro fases modulares, cada una res
 * **Acciones:**
   1. Transformar las tiradas y combates en prosa fluida de ópera espacial (cero jerga de mesa).
   2. Aplicar la **inmersión diegética absoluta**: PROHIBIDO usar nombres de jugadores en el texto narrativo; Gerty habla mediante su sintetizador vocal.
-  3. Preservar las personalidades de Benray, Triel, Marloc y Axel, así como la primacía de la partida real sobre Paizo.
+  3. Preservar las personalidades de Benrey, Triel, Marloc y Axel, así como la primacía de la partida real sobre Paizo.
   4. Actualizar el `GLOSARIO_Y_PERSONAJES.md` del volumen.
 
 ### Fase 3: Maquetación Editorial y Compilación del PDF
@@ -111,3 +111,12 @@ Antes de dar por cerrado cualquier volumen, es preceptivo verificar los 10 punto
 8. **Inclusión de Descargos Legales:** Presencia obligatoria del Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución en la Nota Editorial.
 9. **Sincronización del Compendio Maestro:** Resumir el volumen en `Contexto completo/CONTEXTO_COMPLETO_SAGA.md` y actualizar las etiquetas de aparición de personajes y facciones.
 10. **Recompilación de Contexto Completo:** Ejecutar `python3 "Contexto completo/generar_contexto_pdf.py"` para mantener al día el libro maestro de la saga.
+
+---
+
+## 5. Política Estricta de Control de Versiones (Git)
+
+> 🚨 **REGLA MANDATORIA DE CONTROL DE VERSIONES:**  
+> **NUNCA realizar `git commit` ni `git push` de forma autónoma o automática.**  
+> * Toda operación de `git commit` o `git push` hacia el repositorio debe ser solicitada **de manera explícita y directa por el usuario** (por ejemplo: *«haz commit de esto»* o *«haz push de los cambios»*).  
+> * Durante las tareas ordinarias de redacción de capítulos, revisión de erratas, maquetación editorial, compilación de PDFs o actualización de glosarios y compendios, los cambios deben permanecer en el árbol de trabajo local (*working directory*) sin comitear ni subir al remoto hasta recibir la orden expresa.

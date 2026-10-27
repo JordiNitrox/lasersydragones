@@ -20,7 +20,7 @@ Al verlos entrar, sus labios resecos se curvaron en una sonrisa educada, casi en
 
 —Bienvenidos, distinguidos amigos míos —dijo el embajador con su voz sibilante y aristocrática, que sonaba como el roce de hojas secas arrastradas por un viento otoñal—. Llena de un sincero y renovado regocijo mi viejo y ennegrecido corazón comprobar que los peligros de la biosfera de Castrovel no han mermado su extraordinaria vitalidad. Tomen asiento, por favor.
 
-Benray se acomodó en uno de los sillones de cuero con un suspiro de satisfacción, mientras Marloc permanecía erguido junto a Axel y Triel.
+Benrey se acomodó en uno de los sillones de cuero con un suspiro de satisfacción, mientras Marloc permanecía erguido junto a Axel y Triel.
 
 —Señor embajador —comenzó Marloc, extrayendo un datapad sellado de su túnica—, traemos el informe completo de la incursión en Ukulam. Me temo que las noticias no son halagüeñas. El Culto del Devorador ha superado con creces el estatus de una simple secta marginal de fanáticos milenaristas. Tienen una estructura militar clandestina, apoyo financiero de facciones que aún no hemos identificado plenamente y han logrado reactivar parcialmente la tecnología pre-Brecha del Templo de los Doce Soles.
 
@@ -36,7 +36,7 @@ El embajador suspiró, un sonido hueco que hizo oscilar la llama de una lámpara
 
 —Comprendo la gravedad de la situación, señorita Axel. Pero deben entender la cruda realidad de la política interestelar: el Consejo de los Mundos del Pacto es un órgano lento, deliberativo y burocrático. Sin pruebas físicas irrefutables que demuestren que la superarma es operativa y que la amenaza es inmediata, los Protectores no movilizarán una flota de guerra hacia la Diáspora. La soberanía de los Capitanes Libres en el cinturón es un avispero legal que nadie en el senado se atreverá a agitar a la ligera.
 
-—O sea —intervino Benray, enderezándose en el asiento con el ceño fruncido—, que los burócratas van a esperar a que nos apaguen el sol para redactar un memorando de queja. Típico de los gobiernos centrales.
+—O sea —intervino Benrey, enderezándose en el asiento con el ceño fruncido—, que los burócratas van a esperar a que nos apaguen el sol para redactar un memorando de queja. Típico de los gobiernos centrales.
 
 —Precisamente por esa razón, mi estimado señor Galway —replicó Nor con una leve inclinación de cabeza—, las misiones no oficiales son la única herramienta eficaz en tiempos de crisis. Como representante plenipotenciario de Eox y en coordinación discreta con ciertos mandos de los Protectores, estoy facultado para financiar y respaldar su expedición a la Diáspora como un destacamento de reconocimiento encubierto.
 

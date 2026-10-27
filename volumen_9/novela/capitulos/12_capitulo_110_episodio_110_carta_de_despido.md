@@ -11,11 +11,11 @@ El documento no llevaba la firma habitual de Chiskisk ni el membrete del departa
 > *Por medio de la presente, la junta directiva de Inversiones Estelares S.C. formaliza la rescisión amistosa de su contrato de exploración y prospección minera en los territorios de la Diáspora y el planeta Eox.*  
 > *Sus cuentas de fideicomiso han sido liquidadas con una bonificación extraordinaria por cumplimiento de objetivos de alto riesgo. A partir de este momento, quedan desvinculados de toda obligación contractual con esta compañía.*
 
-Benray abrió los ojos de par en par, llevándose las manos a la cabeza:
+Benrey abrió los ojos de par en par, llevándose las manos a la cabeza:
 —¿Nos despiden? ¿Después de cruzar un desierto atómico, reventar una fortaleza zombi y hacernos amigos de un dragón de tres metros, nos envían una carta de despido por correo certificado? ¡Esto es una falta de respeto al derecho laboral galáctico!
 
 Triel sonrió suavemente, señalando la parte inferior del documento con el dedo:
-—Sigue leyendo, Benray. No es un despido. Es una orden de marcha.
+—Sigue leyendo, Benrey. No es un despido. Es una orden de marcha.
 
 ***
 
@@ -23,7 +23,7 @@ Triel sonrió suavemente, señalando la parte inferior del documento con el dedo
 
 En la parte inferior de la pantalla, un anexo cifrado se abrió revelando un breve mensaje personal:
 
-> *Para Marloc, Triel, Benray y Axel:*  
+> *Para Marloc, Triel, Benrey y Axel:*  
 > *Cumplieron la primera parte del camino. Salvaron Absalón, desmantelaron el altar de la Diáspora y obtuvieron las coordenadas de Nejeor. Pero la guerra que viene no se librará con contratos de oficina.*  
 > *La Flota de Cadáveres avanza hacia la Puerta del Sistema. Para detenerlos, necesitarán aliados que no teman a la suerte y una nave capaz de rasgar el velo de la Deriva.*  
 > *Pongan rumbo a la frontera de Apostae. Busquen la Roca de la Fortuna y el asteroide Kairos. Allí comprenderán que las cartas del destino todavía tienen un as guardado en la manga.*  
@@ -43,7 +43,7 @@ Triel se giró hacia sus compañeros con una sonrisa radiante y decidida:
 Gerty dio dos pasos al frente, alzando sus cuatro brazos mecánicos en una pose marcial que arrancó una sonrisa a la tripulación:
 —*Sistemas de navegación preparados* —articuló el meca por sus altavoces—. *Aviso para la tripulación: el asteroide Kairos es famoso en los registros por albergar casinos de alta gama y bufés con reposición ilimitada de bollería.*
 
-Benray saltó de su asiento como impulsado por un resorte, con los ojos brillando de entusiasmo:
+Benrey saltó de su asiento como impulsado por un resorte, con los ojos brillando de entusiasmo:
 —¡Casinos! ¡Juegos de azar! ¡Ruletas de la fortuna! ¿Por qué no empezamos por ahí en lugar de ir a las tumbas de Eox? ¡Triel, pon los motores al doscientos por ciento! ¡La suerte de la familia Galway está a punto de hacer saltar la banca!
 
 Axel introdujo las nuevas coordenadas en la consola central con su serenidad habitual:

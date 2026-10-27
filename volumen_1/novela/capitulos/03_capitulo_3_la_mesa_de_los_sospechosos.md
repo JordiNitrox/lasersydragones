@@ -1,24 +1,24 @@
 # Capítulo 3: La Mesa de los Sospechosos
 
-La mesa del rincón en el *Club 13* se quedó pequeña en cuanto Benray y Marloc tomaron asiento.
+La mesa del rincón en el *Club 13* se quedó pequeña en cuanto Benrey y Marloc tomaron asiento.
 
 El viejo Chic dio una palmada sonora con sus manitas peludas, apoyando la barriga contra el borde de la mesa mientras una sonrisa satisfecha arrugaba su hocico.
 
 —¡Brillante! Aquí están los cuatro. Ni los mejores reclutadores de la Flota de los Mundos del Pacto habrían conseguido reunir a un grupo tan variopinto en menos de doce horas de ciclo.
 
-Benray se arrellanó en su silla, cruzó una pierna sobre la otra y miró de reojo la jarra de cerveza espumosa y el plato de frutos secos que la camarera monobrazo acababa de dejar sobre la mesa. Entrecerró los ojos con suma desconfianza, sacó un pequeño estilete de su bolsillo y pinchó uno de los frutos antes de llevárselo a la nariz.
+Benrey se arrellanó en su silla, cruzó una pierna sobre la otra y miró de reojo la jarra de cerveza espumosa y el plato de frutos secos que la camarera monobrazo acababa de dejar sobre la mesa. Entrecerró los ojos con suma desconfianza, sacó un pequeño estilete de su bolsillo y pinchó uno de los frutos antes de llevárselo a la nariz.
 
-—Un momento —dijo Benray, apuntando a Chic con el tenedor improvisado—. ¿Cómo sabía esta tal Marlene exactamente quiénes éramos? ¿Cómo sabía que yo estaba en la estación, o que la señorita del robot gigante venía de la Diáspora, o que el caballero de la corbata fina andaba vagando por los monobloques con sangre en la boca? ¿Y si esta comida está envenenada? ¿Y si esto es una redada encubierta de los Protectores?
+—Un momento —dijo Benrey, apuntando a Chic con el tenedor improvisado—. ¿Quién nos garantiza que esto no es una trampa? ¿Y si esta comida está envenenada? ¿Y si esto es una redada encubierta de los Protectores para cobrarme infracciones de tráfico atrasadas? En este sector nadie te invita a cerveza y frutos secos por tu cara bonita.
 
 Triel, que daba pequeños sorbos a su copa de vino de Apostae, lo miró con una mezcla de diversión y fastidio.
 
 —Si los Protectores quisieran arrestarte, roedor, no te invitarían a frutos secos en un bar del Anillo. Te habrían puesto grilletes de gravitón en cuanto pusiste un pie fuera del hangar.
 
-—¡Usted no conoce a los Protectores del sector cuatro, señorita! —replicó Benray indignado—. Son sutiles. Retorcidos. Usan neurotoxinas de acción retardada que te hacen confesar tus infracciones de tráfico mientras duermes.
+—¡Usted no conoce a los Protectores del sector cuatro, señorita! —replicó Benrey indignado—. Son sutiles. Retorcidos. Usan neurotoxinas de acción retardada que te hacen confesar tus infracciones de tráfico mientras duermes.
 
 —El análisis toxicológico ambiental es negativo —intervino A.Xel 42 sin inmutarse, señalando el plato con un dedo pálido—. Concentración de cianuro y sales de arsénico: cero coma cero partes por millón. Es simple comida biológica con exceso de sodio. Puedes ingerirla sin riesgo de colapso fisiológico inmediato.
 
-Benray miró a la androide, miró el fruto seco ensartado en su estilete y, tras un segundo de duda, se lo metió en la boca y empezó a masticar con fruición.
+Benrey miró a la androide, miró el fruto seco ensartado en su estilete y, tras un segundo de duda, se lo metió en la boca y empezó a masticar con fruición.
 
 —Bueno, si la máquina lo dice... Pero mantengo mi escepticismo profesional.
 
@@ -48,11 +48,11 @@ La frase *«la esposa de Ángela»* impactó en el pecho de Marloc con la fuerza
 
 Un sudor gélido le empapó la nuca y el mundo pareció desvanecerse en un pitido blanco ensordecedor. ¿Ángela... casada con Marlene? En su universo original, Ángela era su propia esposa; la mujer a la que había visto morir atrapada en una esclusa de Verces, la pérdida insuperable que había quebrado su alma. Sin mediar palabra, con la mano temblando de forma visible, Marloc agarró un vaso entero de vodka destilado de la mesa y se lo tragó de un solo trago, sin respirar, dejando que el alcohol le abrasara la garganta en un intento desesperado por anclar su mente a la realidad.
 
-Benray, que lo observaba de reojo, dejó su comida y se inclinó hacia el humano. Con dos dedos peludos le tomó el pulso en la muñeca cibernética, palpando los tendones que vibraban al rojo vivo:
+Benrey, que lo observaba de reojo, dejó su comida y se inclinó hacia el humano. Con dos dedos peludos le tomó el pulso en la muñeca cibernética, palpando los tendones que vibraban al rojo vivo:
 
 —Tranquilo, aristócrata de la corbata, que me va a dar un colapso en plena mesa de negociación —diagnosticó el ysoki con seriedad médica repentina—. Eso es un shock neurológico de manual, con taquicardia y bajón de azúcar acelerado. Abra la boca.
 
-Benray metió la pata delantera en uno de los amplios bolsillos interiores de su gabardina y extrajo un tubo arrugado de confites de colores brillantes:
+Benrey metió la pata delantera en uno de los amplios bolsillos interiores de su gabardina y extrajo un tubo arrugado de confites de colores brillantes:
 
 —Tome dos de estos y mastique despacio. Es glucosa concentrada con sabor a fresas de Castrovel. Le estabilizará el azúcar y la ansiedad antes de que se me desmaye otra vez sobre las baldosas.
 
@@ -60,7 +60,7 @@ Marloc se llevó los caramelos a la boca con movimientos mecánicos. El dulzor q
 
 —Mi padre y yo teníamos una relación nefasta, distante hasta el desprecio —murmuró Marloc con la voz quebrada por el vodka—. Desconozco si mi padre engendró otra hija en secreto o si me ocultó a una hermana toda la vida... pero en mis recuerdos, yo era el profesor titular en el Arcanamirium. Y Ángela... en mis recuerdos, Ángela murió hace años. Cuando desperté esta mañana en un aula vacía con la boca ensangrentada, mis cuentas bancarias estaban borradas, mis credenciales no existían en las bases de datos de Absalón y solo encontré un mensaje residual en mi comlink que decía: *«Busque a Chic. Nos veremos hermano. Firmado: M.B.»*
 
-El silencio cayó sobre el reservado como un manto plomizo. Incluso Benray guardó silencio respetuoso, guardándose el tubo de dulces en la mejilla.
+El silencio cayó sobre el reservado como un manto plomizo. Incluso Benrey guardó silencio respetuoso, guardándose el tubo de dulces en la mejilla.
 
 Chic sacó un pequeño proyector holográfico de su chaleco y lo depositó sobre el centro de la mesa.
 
@@ -86,31 +86,41 @@ Triel soltó una carcajada defensiva, dándole una palmada afectuosa al chasis d
 
 Marloc, mientras tanto, no apartaba los ojos del holograma de Marlene. Algo en lo más profundo de sus conexiones neuronales vibraba con una certeza que no podía formular en palabras.
 
-—Ella me dio sus nombres exactos —continuó Chic, apagando el holograma—. Me dijo que los necesitaba a los cuatro para una misión crítica. ¿Qué clase de trabajo requiere a un tecnomante sin identidad, una mecánica naval de la Diáspora con un meca artillero, una agente sintética de élite y un... —miró a Benray de arriba abajo— ...un agitador profesional con problemas de paranoia?
+—Chic... —intervino A.Xel 42 con su fría cadencia analítica—. Hay una anomalía estadística en tu relato. Yo aterricé en Absalón hace escasas dos horas desde un transporte civil. Carezco de registros públicos en la estación y nadie sabía de mi llegada. ¿Cómo obtuvo esa mujer mi identificador de serie?
 
-—¡Oiga! —saltó Benray—. ¡«Agitador» suena vulgar! Soy un especialista en relaciones públicas, negociación de crisis y supervivencia urbana. Además, tengo una carrera artística respetable.
+Triel asintió, cruzándose de brazos:
+
+—Lo mismo digo. Salí de la Diáspora en un viejo carguero de chatarra y no conozco a nadie aquí excepto a un par de técnicos de muelle. ¿Cómo sabía esa investigadora que yo estaba en la estación y que tenía a Gerty?
+
+—¡Y a mí ni siquiera me estaba buscando! —añadió Benrey, masticando otro fruto seco con vehemencia—. Yo solo vine de chófer acompañando a este distinguido caballero mareado. ¿Cómo demonios encajamos en sus planes?
+
+El viejo Chic sonrió con picardía, frotándose las patitas:
+
+—Marlene Boosmar es una de las mentes más brillantes del Arcanamirium y tiene acceso a canales que ustedes ni imaginan. Me envió una lista cifrada con tres perfiles muy concretos que necesitaba desesperadamente para un trabajo urgente: un tecnomante versado en magia computacional, una mecánica naval independiente y una especialista táctica androide. Pero me advirtió que necesitarían a un cuarto miembro: alguien que conociera los Bajos como la palma de su mano, un mediador callejero con labia suficiente para tratar con estibadores o eludir a los inspectores portuarios. Y cuando te vi entrar por la puerta con Marloc, Benrey... supe que eras la pieza que faltaba. ¿Qué clase de misión requiere a un tecnomante en crisis, una mecánica con un meca de combate, una agente sintética de élite y un... —miró a Benrey de arriba abajo— ...un agitador profesional con problemas de paranoia?
+
+—¡Oiga! —saltó Benrey—. ¡«Agitador» suena vulgar! Soy un especialista en relaciones públicas, negociación de crisis y supervivencia urbana. Además, tengo una carrera artística respetable.
 
 Triel enarcó una ceja nívea, claramente escéptica.
 
 —¿Artística? ¿Qué cantas, baladas en las alcantarillas?
 
-—¡Ja! Qué poco mundo tiene la juventud de hoy en día —bufó el ysoki, inflando el pecho con orgullo—. Busquen en la holored. Pongan «Benray Galway» en el buscador del comlink. Vamos, háganlo. Los desafío.
+—¡Ja! Qué poco mundo tiene la juventud de hoy en día —bufó el ysoki, inflando el pecho con orgullo—. Busquen en la holored. Pongan «Benrey Galway» en el buscador del comlink. Vamos, háganlo. Los desafío.
 
 A.Xel parpadeó dos veces. La luz rosada de sus conectores craneales parpadeó al acceder a la red pública de la estación. 
 
-—Búsqueda completada —anunció la androide tras medio segundo—. Seiscientas cuarenta y dos entradas registradas. Archivos de holovídeo alojados en servidores de entretenimiento extremo de acceso libre. Título del primer registro: *«Benray salta al vacío desde el muelle de carga seis sin paracaídas inercial»*.
+—Búsqueda completada —anunció la androide tras medio segundo—. Seiscientas cuarenta y dos entradas registradas. Archivos de holovídeo alojados en servidores de entretenimiento extremo de acceso libre. Título del primer registro: *«Benrey salta al vacío desde el muelle de carga seis sin paracaídas inercial»*.
 
-Triel soltó una carcajada espontánea mientras Marloc proyectaba el archivo holográfico en miniatura sobre el centro de la mesa. En la imagen parpadeante se veía a un Benray más joven, con pelaje blanco impecable, subido a la barandilla de un puente de atraque al borde del vacío exterior. El sonido del vídeo era espantoso: un siseo constante de estática y viento espacial donde apenas se distinguían los gritos agudos del ysoki antes de lanzarse al abismo.
+Triel soltó una carcajada espontánea mientras Marloc proyectaba el archivo holográfico en miniatura sobre el centro de la mesa. En la imagen parpadeante se veía a un Benrey más joven, con pelaje blanco impecable, subido a la barandilla de un puente de atraque al borde del vacío exterior. El sonido del vídeo era espantoso: un siseo constante de estática y viento espacial donde apenas se distinguían los gritos agudos del ysoki antes de lanzarse al abismo.
 
 —*«¡Miren esto, fanáticos del peligro! ¡Si sobrevivo a este salto, quiero mil créditos en mi cuenta!»* —se oía en el audio distorsionado, seguido por un golpe metálico brutal y un alarido de agonía cómica.
 
 —El sonido es atroz —comentó Marloc, sonriendo por primera vez en todo el día—. Y el encuadre de la cámara parece obra de un ciego.
 
-—¡Estaba empezando en la producción audiovisual! —se defendió Benray agitando las patas, con las orejas enrojecidas bajo el pelaje—. La tecnología de captura en esa época era muy precaria. ¡Pero el salto fue real! ¡Estuve en cuidados intensivos durante tres semanas y gané cincuenta mil seguidores en Absalón!
+—¡Estaba empezando en la producción audiovisual! —se defendió Benrey agitando las patas, con las orejas enrojecidas bajo el pelaje—. La tecnología de captura en esa época era muy precaria. ¡Pero el salto fue real! ¡Estuve en cuidados intensivos durante tres semanas y gané cincuenta mil seguidores en Absalón!
 
 —*Nivel de estupidez biológica confirmado: sobrepasa todos los parámetros medibles* —dictaminó Gerty desde detrás de Triel, iluminando sus dos puntos ópticos con desdén—. *Sugiero no dejar que el espécimen roedor tome decisiones relacionadas con la navegación o la seguridad vital del grupo.*
 
-—Cállate, tostadora con patas —gruñó Benray, fulminando al meca con la mirada—. Ya veremos quién le salva el pellejo a quién cuando las cosas se pongan feas.
+—Cállate, tostadora con patas —gruñó Benrey, fulminando al meca con la mirada—. Ya veremos quién le salva el pellejo a quién cuando las cosas se pongan feas.
 
 Chic carraspeó con fuerza, acallando las risas con un golpe seco de sus nudillos en la mesa.
 
@@ -136,7 +146,7 @@ A medida que el convoy se alejaba de los distritos iluminados y se adentraba en 
 
 En el vagón semivacío, los cuatro permanecían en silencio, cada uno procesando el peso de lo que estaba por venir.
 
-Benray cargaba de energía la batería de su pistola láser con chasquidos rítmicos. Triel revisaba los servomotores de los hombros de Gerty con una llave inglesa, asegurándose de que los anclajes del cañón retráctil respondieran sin atascos. A.Xel miraba fijamente el plano esquemático del muelle proyectado en su visor ocular, memorizando rutas de escape y puntos ciegos. Y Marloc, con la mandíbula apretada, contemplaba su propio reflejo en el cristal oscuro de la ventanilla, rogando a los dioses antiguos que la pesadilla que lo atormentaba no tuviera nada de profética.
+Benrey cargaba de energía la batería de su pistola láser con chasquidos rítmicos. Triel revisaba los servomotores de los hombros de Gerty con una llave inglesa, asegurándose de que los anclajes del cañón retráctil respondieran sin atascos. A.Xel miraba fijamente el plano esquemático del muelle proyectado en su visor ocular, memorizando rutas de escape y puntos ciegos. Y Marloc, con la mandíbula apretada, contemplaba su propio reflejo en el cristal oscuro de la ventanilla, rogando a los dioses antiguos que la pesadilla que lo atormentaba no tuviera nada de profética.
 
 El tren frenó con un chirrido ensordecedor que hizo vibrar los asientos de metal.
 

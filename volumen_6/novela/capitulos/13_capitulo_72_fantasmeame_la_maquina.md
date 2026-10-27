@@ -4,15 +4,15 @@ El Almacén 47-B del Muelle 22 olía a polvo acumulado, cajas de embalaje sinté
 
 Frente a una mesa de trabajo improvisada, una figura esbelta vestida con una gabardina elegante apilaba con prisas varios discos de almacenamiento holográfico en un maletín reforzado.
 
-—¡Quieto todo el mundo y las manos donde pueda contárselas con calma! —tronó la voz de Benray Galway mientras la compuerta de acceso se abría de golpe.
+—¡Quieto todo el mundo y las manos donde pueda contárselas con calma! —tronó la voz de Benrey Galway mientras la compuerta de acceso se abría de golpe.
 
-Cuatro cañones de plasma y el colosal manipulador hidráulico de Gerty apuntaron simultáneamente al pecho del individuo. Axel se posicionó en el flanco izquierdo con el rifle en guardia baja; Triel y Marloc cubrieron la salida de emergencia; y Benray avanzó hasta el centro de la estancia con su pistola láser estabilizada a la altura de los ojos.
+Cuatro cañones de plasma y el colosal manipulador hidráulico de Gerty apuntaron simultáneamente al pecho del individuo. Axel se posicionó en el flanco izquierdo con el rifle en guardia baja; Triel y Marloc cubrieron la salida de emergencia; y Benrey avanzó hasta el centro de la estancia con su pistola láser estabilizada a la altura de los ojos.
 
 La figura se congeló en el acto. Lentamente, alzó dos manos delgadas con dedos palmeados. Al girarse hacia la luz, el grupo descubrió a una criatura de complexión anfibia, con una piel grisácea y seis pequeños ojos saltones dispuestos en arco sobre la frente, que temblaban de puro terror.
 
 —Tranquilos... por favor, no disparen —suplicó el sujeto con una voz grave, profunda y segura de sí misma que sonaba extrañamente autoritaria—. No queremos problemas. La situación... la situación ya ha cumplido su propósito útil para todos nosotros. ¿Qué desean? ¿Qué quiere de mí, señor Galway?
 
-Benray entrecerró los ojos, reconociendo el timbre al instante:
+Benrey entrecerró los ojos, reconociendo el timbre al instante:
 
 —Esa voz... Esa es la voz que me llamaba a las tres de la madrugada para decirme que mi salto sobre el cráter de la Espiga no tenía suficiente dramatismo. ¡Muy bien, Marcelus, empieza a cantar! Número uno: ¿dónde están los beneficios de mis derechos de retransmisión? Número dos: ¿por qué vendiste mis vídeos personales al datapad de un sicario en Castrovel? Y número tres: ¿por qué tienes cara de renacuajo asustado en vez del humano engreído que aparecía en tus holollamadas?
 
@@ -22,7 +22,7 @@ Cuando volvió a hablar, su voz ya no era la del productor carismático y arroll
 
 —¡Soy solo un actor! —chilló el alienígena, agitando las manos frenéticamente—. ¡Por el amor de los dioses del espacio, no me hagan daño! ¡Mi nombre es Bordin y me contrataron como actor de doblaje e intérprete presencial!
 
-Benray bajó la pistola medio centímetro, boquiabierto:
+Benrey bajó la pistola medio centímetro, boquiabierto:
 
 —¿Un... un actor?
 
@@ -36,7 +36,7 @@ Marloc y Triel intercambiaron una mirada cargada de significado.
 
 —La Diáspora —repitió Marloc en voz baja—. Las coordenadas de Tahomen nos conducían allí. El rastro del Culto del Devorador apunta a sus asteroides. Y ahora, el hilo suelto del pasado del señor Galway nos lleva exactamente al mismo destino.
 
-—El destino tiene un sentido del humor bastante retorcido —concluyó Benray, guardando su arma con un bufido de resignación—. Quédate con el maletín, Bordin. Pero dile a tu jefe que Benray Galway va de camino a su asteroide. Y que cuando llegue, le voy a pasar la factura con los intereses acumulados de los últimos cinco años.
+—El destino tiene un sentido del humor bastante retorcido —concluyó Benrey, guardando su arma con un bufido de resignación—. Quédate con el maletín, Bordin. Pero dile a tu jefe que Benrey Galway va de camino a su asteroide. Y que cuando llegue, le voy a pasar la factura con los intereses acumulados de los últimos cinco años.
 
 Dos horas después, la tripulación se encontraba reunida en la bahía de ingeniería de la *Estrella Errante*.
 
@@ -52,9 +52,9 @@ Triel conectó el bus principal de datos al núcleo de la *Estrella Errante*.
 
 Durante tres segundos angustiosos, el mundo pareció detenerse.
 
-De repente, un chasquido sordo resonó por toda la cubierta. Todas las luces de la nave —desde los focos halógenos del pasillo hasta los paneles de control de la cabina— se apagaron al unísono. La *Estrella Errante* quedó sumida en una oscuridad total, fría y silenciosa, en la que solo se escuchaba la respiración agitada de Benray y el zumbido en reposo de Gerty.
+De repente, un chasquido sordo resonó por toda la cubierta. Todas las luces de la nave —desde los focos halógenos del pasillo hasta los paneles de control de la cabina— se apagaron al unísono. La *Estrella Errante* quedó sumida en una oscuridad total, fría y silenciosa, en la que solo se escuchaba la respiración agitada de Benrey y el zumbido en reposo de Gerty.
 
-—¿Triel? —susurró Benray en la negrura—. Dime que no acabas de freír el generador principal de la nave, por favor te lo pido.
+—¿Triel? —susurró Benrey en la negrura—. Dime que no acabas de freír el generador principal de la nave, por favor te lo pido.
 
 Antes de que la semi-drow pudiera responder, una suave luminiscencia azul cobalto comenzó a brotar de las ranuras del suelo y de las pantallas del mamparo. No era la iluminación de emergencia convencional; era una luz líquida, suave, casi orgánica, que respiraba al compás de un pulso sutil.
 
@@ -72,13 +72,13 @@ Marloc se acercó al terminal, sus ojos brillando con una fascinación científi
 
 —No es una inteligencia artificial convencional, señorita Istrav. Es un traslado de conciencia... Una mente viva, un alma digitalizada atrapada en una arquitectura de silicio antes de la pérdida de sus registros.
 
-Benray Galway dio un paso al frente, quitándose el sombrero con una reverencia respetuosa hacia el altavoz central de la cabina:
+Benrey Galway dio un paso al frente, quitándose el sombrero con una reverencia respetuosa hacia el altavoz central de la cabina:
 
-—Hola, amiga. O amigo. Mi nombre es Benray Galway. Soy el capitán de este modesto montón de chatarra espacial. Y estos son mis compañeros: Triel, Marloc y Axel.
+—Hola, amiga. O amigo. Mi nombre es Benrey Galway. Soy el capitán de este modesto montón de chatarra espacial. Y estos son mis compañeros: Triel, Marloc y Axel.
 
 La luz de los paneles osciló levemente, como si la computadora reflexionara en el silencio de sus circuitos.
 
-*«Benray Galway...»*, susurró la voz en la nave, y por primera vez hubo un matiz de reconocimiento en su timbre sintético. *«Conozco ese nombre... Había una voz en el éter que hablaba de saltos imposibles y estrellas lejanas... Conozco tu nombre, Benray»*.
+*«Benrey Galway...»*, susurró la voz en la nave, y por primera vez hubo un matiz de reconocimiento en su timbre sintético. *«Conozco ese nombre... Había una voz en el éter que hablaba de saltos imposibles y estrellas lejanas... Conozco tu nombre, Benrey»*.
 
 Una sonrisa suave y conmovida se dibujó en el rostro del ysoki:
 

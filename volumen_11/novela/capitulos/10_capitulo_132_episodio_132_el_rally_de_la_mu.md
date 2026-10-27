@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Preparación de los petates y la transferencia formal de equipo. Marloc entrega sus notas y fórmulas arcanas a Triel y Benray.
+Preparación de los petates y la transferencia formal de equipo. Marloc entrega sus notas y fórmulas arcanas a Triel y Benrey.
 
 ---
 

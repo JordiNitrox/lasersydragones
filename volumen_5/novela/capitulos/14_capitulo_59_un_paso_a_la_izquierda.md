@@ -12,7 +12,7 @@ Al escuchar el eco de las botas del pelotón, Tahomen giró sobre sus talones co
 
 —¡Llegáis tarde, insectos de Absalón! —bramó el sumo sacerdote con una voz cavernosa impregnada de poder entrópico—. ¡Los Doce Soles han hablado! ¡La puerta dimensional hacia el Devastador Estelar está fijada y la gran noche cósmica del Devorador está a punto de caer sobre todos los mundos!
 
-Benray Galway no esperó a que el sacerdote terminara su monólogo apocalíptico. Con una audacia consumada, el ysoki dio un paso lateral deliberado, inclinando el cuerpo hacia la izquierda y lanzando un comentario burlón que descolocó por completo los reflejos de Tahomen:
+Benrey Galway no esperó a que el sacerdote terminara su monólogo apocalíptico. Con una audacia consumada, el ysoki dio un paso lateral deliberado, inclinando el cuerpo hacia la izquierda y lanzando un comentario burlón que descolocó por completo los reflejos de Tahomen:
 
 —Lo siento, amigo, pero tu apocalipsis tiene una falta de ortografía en el guión —dijo el emisario con un guiño socarrón—. ¡Un paso a la izquierda y fuego a discreción!
 
@@ -32,7 +32,7 @@ Triel sobrecargó su fusil de plasma y disparó contra el primer guardia acoraza
 
 Marloc Boosmar levantó su báculo hacia la cúpula, canalizando la energía estelar del propio templo para neutralizar los rayos oscuros que Tahomen intentaba convocar desde el vacío. Los zarcillos de entropía se disiparon en chispas de luz dorada, dejando al fanático completamente desprotegido.
 
-Desesperado, Tahomen extrajo una pistola de ácido de su cinturón e intentó abalanzarse sobre Benray.
+Desesperado, Tahomen extrajo una pistola de ácido de su cinturón e intentó abalanzarse sobre Benrey.
 
 El ysoki no retrocedió. Corrió en línea recta hacia el sacerdote, se deslizó por el suelo encerado esquivando el chorro cáustico, cerró un ojo para fijar la puntería a quemarropa y apretó el gatillo de su pistola balística.
 
@@ -70,7 +70,7 @@ Triel tecleó con rapidez, rastreando los últimos paquetes de datos emitidos po
 
 —Sí... pero no la envió a Castrovel ni al Vasto exterior —la joven levantó la vista hacia sus compañeros con una expresión de asombro y alarma—. El mensaje fue transmitido a un receptor oculto en el cinturón de asteroides de **La Diáspora**. Hay una base secreta del Culto del Devorador escondida en un planetoide sin cartografiar.
 
-Benray se acercó a la consola, contemplando las coordenadas vectoriales que parpadeaban en la pantalla:
+Benrey se acercó a la consola, contemplando las coordenadas vectoriales que parpadeaban en la pantalla:
 
 —La Diáspora... el hogar de los piratas, los corsarios y los asteroides olvidados. Justo de donde venimos.
 
@@ -78,7 +78,7 @@ La doctora Solstarni, apoyada en el marco de la puerta con una sonrisa exhausta 
 
 —Habéis salvado Castrovel... y tal vez a la galaxia entera, muchachos. Pero si el culto reúne sus fuerzas en la Diáspora para alcanzar el Devastador Estelar, el tiempo juega en vuestra contra.
 
-Axel miró a Benray, a Triel, a Marloc y a Gerty. La misión en las selvas de Ukulam había concluido con una victoria incontestable: la doctora estaba a salvo, los misterios del templo resueltos y los líderes del culto en Castrovel aniquilados. Pero el verdadero destino los aguardaba en la negrura del espacio profundo.
+Axel miró a Benrey, a Triel, a Marloc y a Gerty. La misión en las selvas de Ukulam había concluido con una victoria incontestable: la doctora estaba a salvo, los misterios del templo resueltos y los líderes del culto en Castrovel aniquilados. Pero el verdadero destino los aguardaba en la negrura del espacio profundo.
 
 —Comuniquen con la *Estrella Errante* y preparen los motores sublumínicos —ordenó Axel con voz firme y serena—. Regresamos a la civilización... y después, ponemos rumbo a la Diáspora.
 

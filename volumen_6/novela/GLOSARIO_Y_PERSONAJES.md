@@ -36,7 +36,7 @@ De 19 años, piel cenicienta con reflejos violáceos y cabello níveo. En este v
 *Dron de Combate y Asalto Pesado (Voz: Roberto)*  
 Meca bípedo cuadrúmano de blindaje industrial, armado con pica de alta frecuencia, ametralladora rotatoria pesada y escudos de aleación. En Ukulam combate en medio de los rápidos del río contra el monstruoso Campin, y en la Torre Prisma sostiene un feroz cuerpo a cuerpo contra el autómata de seguridad corporativo, todo ello sin dejar de quejarse con su sintetizador monótono de la humedad, la arena en sus juntas y la falta de lubricante de alta calidad.
 
-### Benray Galway
+### Benrey Galway
 *Emisario Ysoki (Jugador: Miguel)*  
 Roedor maestro de la diplomacia callejera, el engaño y las relaciones públicas interestelares. Sufre los efectos alucinógenos residuales de las sanguijuelas del río de Ukulam, pero salva al pelotón con su lengua de plata al negociar una tregua instantánea con el Capitán De Bonet («Ukulam Standoff»). Lidera las transmisiones falsas que desvían a la Legión del Cielofuego y en Ábsalon encabeza la persecución personal contra su antiguo productor Marcelus, descubriendo el engaño del actor Bordin y dando una cálida bienvenida a la nueva conciencia de la nave.
 
@@ -58,7 +58,7 @@ Primo materno de Triel. Drow de complexión atlética, cabello blanco recortado 
 
 ### Capitán De Bonet
 *Comandante Corsario de «La Furia» (Capitanes Libres)*  
-Capitán pirata de aspecto saurio-aviar, con plumaje violáceo, abrigo naval deshilachado con charreteras doradas y sombrero de ala ancha coronado por una pluma fosforescente. Teatral, pomposo y honorable dentro del código forajido, traba una alianza inmediata con Benray y Triel en Ukulam tras admirar la labia del ysoki y el emblema corsario en la cazadora de la semi-drow.
+Capitán pirata de aspecto saurio-aviar, con plumaje violáceo, abrigo naval deshilachado con charreteras doradas y sombrero de ala ancha coronado por una pluma fosforescente. Teatral, pomposo y honorable dentro del código forajido, traba una alianza inmediata con Benrey y Triel en Ukulam tras admirar la labia del ysoki y el emblema corsario en la cazadora de la semi-drow.
 
 ### Ila
 *Tiradora de Élite de «La Furia» (Humana)*  
@@ -74,11 +74,11 @@ Asistente afable, alegre y eficiente del embajador Nor. De pelaje canela y unifo
 
 ### Doctora Omejia Solstarni Way-ir de la casa Raimar
 *Arqueóloga Superior de la Universidad de Qabarat (Kasatha)*  
-Científica ilustre rescatada del Templo de los Doce Soles. Acompaña al pelotón durante la penosa travesía por el río de Ukulam, cayendo a las aguas durante el asalto del Campin antes de ser rescatada por Axel y Benray. En Qabarat jura guardar silencio sobre las coordenadas del Devastador Estelar hasta que la amenaza sea contenida.
+Científica ilustre rescatada del Templo de los Doce Soles. Acompaña al pelotón durante la penosa travesía por el río de Ukulam, cayendo a las aguas durante el asalto del Campin antes de ser rescatada por Axel y Benrey. En Qabarat jura guardar silencio sobre las coordenadas del Devastador Estelar hasta que la amenaza sea contenida.
 
 ### La Conciencia de la Estrella Errante
 *Entidad Sintética Consciente / Alma Digitalizada*  
-Voz etérea y melancólica que despierta en los altavoces y mamparos de la *Estrella Errante* tras la instalación del procesador militar recuperado en Ukulam. Con lagunas de memoria sobre su vida previa, reconoce de forma intuitiva el nombre de Benray Galway y asume el control de los sistemas de navegación de la nave para guiar a la tripulación a través de la Diáspora.
+Voz etérea y melancólica que despierta en los altavoces y mamparos de la *Estrella Errante* tras la instalación del procesador militar recuperado en Ukulam. Con lagunas de memoria sobre su vida previa, reconoce de forma intuitiva el nombre de Benrey Galway y asume el control de los sistemas de navegación de la nave para guiar a la tripulación a través de la Diáspora.
 
 ### Willy y Naru
 *Goblins Espaciales de Absalón (Bajo la Tutela de Los Protectores)*  
@@ -94,15 +94,15 @@ Alta ejecutiva despiadada, calculadora y fría, encargada de las operaciones cla
 
 ### Bordin (El Falso Marcelus)
 *Actor y Doble Presencial en la Estación Ábsalon (Alienígena Polioftálmico)*  
-Actor de voz y suplantador contratado por Marcelus para firmar contratos y mantener la ilusión de que el productor reside físicamente en la Estación Ábsalon mediante el uso de un modulador de voz en el cuello. Es acorralado e interrogado en el Almacén 47-B por Benray y sus compañeros.
+Actor de voz y suplantador contratado por Marcelus para firmar contratos y mantener la ilusión de que el productor reside físicamente en la Estación Ábsalon mediante el uso de un modulador de voz en el cuello. Es acorralado e interrogado en el Almacén 47-B por Benrey y sus compañeros.
 
 ### Marcelus
 *Productor de Holomedia y Magnate Clandestino de la Diáspora*  
-Antiguo productor de Benray Galway durante su época de acróbata y streamer en la Espiga. Opera desde una estación espacial fortificada oculta en el interior de un asteroide en la Diáspora cerca de Eox, explotando transmisiones piratas y acuerdos forajidos.
+Antiguo productor de Benrey Galway durante su época de acróbata y streamer en la Espiga. Opera desde una estación espacial fortificada oculta en el interior de un asteroide en la Diáspora cerca de Eox, explotando transmisiones piratas y acuerdos forajidos.
 
 ### Legión del Cielofuego
 *Fuerza Militar de Élite de los Mundos del Pacto en Castrovel*  
-Despliega ocho cápsulas de asalto orbital pesado sobre Ukulam para recuperar la tecnología militar clasificada que los piratas de De Bonet habían robado de sus depósitos. Sus tropas son burladas durante doce horas por las trampas y señuelos de Triel, Axel, Marloc y Benray.
+Despliega ocho cápsulas de asalto orbital pesado sobre Ukulam para recuperar la tecnología militar clasificada que los piratas de De Bonet habían robado de sus depósitos. Sus tropas son burladas durante doce horas por las trampas y señuelos de Triel, Axel, Marloc y Benrey.
 
 ---
 
@@ -119,7 +119,7 @@ Despliega ocho cápsulas de asalto orbital pesado sobre Ukulam para recuperar la
 ## 6. Glosario Técnico y Conceptual
 
 * **El Campin:** Aberración anfibia mágica de conciencia bífida que habita los ríos caudalosos de Ukulam. Su organismo está dividido en un depredador principal acorazado y un enjambre de sanguijuelas fluviales que comparten sistema nervioso y reflejos cinéticos.
-* **El Motor del Sabor:** Apodo humorístico otorgado por el Capitán De Bonet y Benray Galway al reactor sublumínico de repuesto de grado militar lanzado en cápsula de reentrada orbital sobre Ukulam.
+* **El Motor del Sabor:** Apodo humorístico otorgado por el Capitán De Bonet y Benrey Galway al reactor sublumínico de repuesto de grado militar lanzado en cápsula de reentrada orbital sobre Ukulam.
 * **Trascendencia Androide (Renovación):** Proceso voluntario y sagrado según la fe de Triuno mediante el cual la conciencia activa de un androide decide disolverse y abandonar su chasis físico para dar paso al nacimiento de una nueva alma independiente sin recuerdos del pasado.
 * **Alas de Planeo Térmico:** Arneses de nailon y polímeros difractores diseñados para infiltración urbana nocturna. Se despliegan a gran altitud para permitir descensos silenciosos y estables a través de las corrientes de aire de la estación espacial.
 * **El Fantasma en la Máquina:** Fenómeno arcanotécnico consistente en el traslado involuntario o voluntario de una mente consciente biológica a un sustrato de silicio y cristal cuántico, otorgando a la nave una personalidad y reflejos orgánicos propios.

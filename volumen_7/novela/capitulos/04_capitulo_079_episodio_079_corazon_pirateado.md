@@ -4,13 +4,13 @@
 
 La corbeta corsaria maniobró con destreza entre los peñascos flotantes del Campo de los Perdidos hasta acoplar su esclusa de abordaje al costado de la *Estrella Errante*. El fuselaje de la nave pirata era una oda a la supervivencia improvisada: chapas de aleación marrón cubiertas de herrumbre, parches de soldadura apresurados y placas de blindaje suplementario arrancadas de cargueros militares. Sobre la proa, pintado con esmalte blanco desvaído, destacaba su nombre: el *Ribete Herrumbrado*.
 
-Triel, Marloc, Axel y Benray cruzaron el tubo presurizado de interconexión con las armas enfundadas, escoltados por Valdo, quien se quedó en el puente de la nave nodriza asegurando los mamparos del motor para evitar que el misterioso polizón causara estragos durante su ausencia.
+Triel, Marloc, Axel y Benrey cruzaron el tubo presurizado de interconexión con las armas enfundadas, escoltados por Valdo, quien se quedó en el puente de la nave nodriza asegurando los mamparos del motor para evitar que el misterioso polizón causara estragos durante su ausencia.
 
 Al entrar en la rotonda central del *Ribete*, una docena de piratas levantaron sus armas al unísono, encañonándolos con subfusiles láser, rifles de plasma y sables dentados. Entre ellos destacaba Q-4, un androide de chasis negro obsidiana con circuitos bioluminiscentes de un azul eléctrico glacial; Secanoy Destructor de Picos, un colosal guerrero vesk enfundado en un chaleco de cuero tachonado de púas de escalador; y Corina Colmillo de Acero, una mujer lashunta de facciones ofidias cuya armadura imitaba escamas de reptil.
 
 —¡Manos donde podamos verlas! —gruñó el vesk con voz gutural.
 
-Benray alzó sus zarpas al instante, sonriendo con descaro:
+Benrey alzó sus zarpas al instante, sonriendo con descaro:
 —Tranquilos, chicos... venimos en son de paz y con alto contenido de carbohidratos.
 
 Al frente del círculo se plantó la capitana Alera Juana. De cerca resultaba todavía más imponente: alta, de tez negra y complexión atlética, lucía un peinado rizado recogido hacia arriba con una pañoleta escarlata. Sobre su ojo derecho brillaba un visor cibernético carmesí que zumbaba al enfocar a los visitantes. Vestía una coraza dorada con cuello de piel sobre ropas de combate y botas pesadas adornadas con calaveras plateadas en las rodilleras.
@@ -79,7 +79,7 @@ El tercero era un paquete de tela reforzada. Al desplegarlo, Triel descubrió un
 Triel se colocó el anillo en el dedo anular, sintiendo una extraña calidez metálica envolverle la piel:
 —Gracias, capitana. No descansaré hasta encontrarlo.
 
-Al regresar a la sala común, Benray, Marloc y Axel compartían una animada charla con Secanoy y Corina sobre tácticas de combate y armamento pesado. Alera Juana carraspeó, retomando su semblante de mando militar:
+Al regresar a la sala común, Benrey, Marloc y Axel compartían una animada charla con Secanoy y Corina sobre tácticas de combate y armamento pesado. Alera Juana carraspeó, retomando su semblante de mando militar:
 —Bueno, aventureros. Me dijeron que venían siguiendo el rastro del Culto del Devorador.
 
 —Así es —asintió Axel, mostrando una holoficha táctica—. Buscamos su base en este sector y cualquier indicio sobre una operativa androide llamada Null-9.
@@ -105,7 +105,7 @@ El asteroide K-9204 flotaba en el vacío como una masa informe y amenazadora de 
 
 —Gravedad reducida —informó Axel desde la consola de pilotaje—. Podremos saltar tres veces más lejos y transportar cargas mayores, pero la inercia exigirá compensadores de movimiento en el sellado de las escafandras.
 
-—Valdo, te quedas al mando de la nave —ordenó Benray por el interfono interno—. Mantén los motores en espera caliente y las cámaras del pasillo monitorizadas. Si ese polizón asoma la nariz por las baterías del motor, le sueltas una descarga de plasma.
+—Valdo, te quedas al mando de la nave —ordenó Benrey por el interfono interno—. Mantén los motores en espera caliente y las cámaras del pasillo monitorizadas. Si ese polizón asoma la nariz por las baterías del motor, le sueltas una descarga de plasma.
 
 —Entendido, capitán —respondió el mediano desde el taller—. Buena cacería.
 
@@ -123,6 +123,6 @@ A través del visor térmico de su casco, la semi-drow captó un diminuto destel
 
 —¡CUBIERTO! —gritó Triel por el canal de radio cerrado.
 
-En la cima de las rocas, la silueta agazapada de un francotirador alineó su rifle de largo alcance. Una llamarada de plasma cruzó el vacío en silencio mortal, impactando contra el suelo de esquirlas metálicas a centímetros de las botas de Benray.
+En la cima de las rocas, la silueta agazapada de un francotirador alineó su rifle de largo alcance. Una llamarada de plasma cruzó el vacío en silencio mortal, impactando contra el suelo de esquirlas metálicas a centímetros de las botas de Benrey.
 
 La emboscada en el templo del Devorador acababa de comenzar.

@@ -12,7 +12,7 @@ Axel, que observaba la escena desde la retaguardia, detectó de inmediato una an
 
 —No exageres, Axel —replicó Triel con una sonrisa lánguida bajo la visera de su casco, avanzando paso a paso hacia la orilla—. Solo voy a mirar la superficie. Gerty, quédate cubriendo la retaguardia...
 
-—¡Triel, detente! —chilló Benray Galway, entrando en pánico al ver a su amiga a menos de un metro del foso—. ¡Te ordeno como capitán que des media vuelta!
+—¡Triel, detente! —chilló Benrey Galway, entrando en pánico al ver a su amiga a menos de un metro del foso—. ¡Te ordeno como capitán que des media vuelta!
 
 El ysoki desenfundó su pistola de gravitones y disparó un rayo de tracción para enganchar el arnés de la mecánica y arrastrarla hacia atrás. Pero el pulso magnético resbaló sobre las placas de su armadura. Axel se lanzó al trote para aferrarla del brazo con sus servomotores, pero Triel se zafó con un giro elástico, hipnotizada por las burbujas esmeralda que ascendían desde las profundidades del cieno.
 
@@ -36,7 +36,7 @@ Desde las profundidades de la balsa emergió la abominación que había señorea
 
 Un tentáculo azotó el aire del vacío como un látigo de acero, enrollándose alrededor de la cintura de Triel antes de que la joven pudiera alzar su arma.
 
-—¡TRIEL! —gritaron Benray y Axel al unísono.
+—¡TRIEL! —gritaron Benrey y Axel al unísono.
 
 La fuerza descomunal de la bestia alzó a la semi-drow en vilo y la arrojó hacia el foso de ácido. Triel reaccionó con reflejos desesperados: extendió los brazos y logró aferrarse con los dedos enguantados a una saliente de roca en el brocal del pozo. Sus botas se sumergieron de lleno en el líquido corrosivo; una alarma estridente chirrió dentro de su casco mientras el ácido comenzaba a corroer las capas externas de polímero térmico de sus piernas, provocándole quemaduras lacerantes.
 
@@ -44,7 +44,7 @@ La fuerza descomunal de la bestia alzó a la semi-drow en vilo y la arrojó haci
 
 El dron de asalto se abalanzó sobre el borde del estanque con su espada de plasma zumbando. El filo de energía hendió el tentáculo opresor, obligando al monstruo a aflojar la presa con un aullido psíquico que retumbó en los cerebros de los presentes. Triel aprovechó el respiro para trepar con las uñas por la piedra resbaladiza y rodar sobre el suelo de plata, gimiendo de dolor mientras el ácido humeaba en sus botas.
 
-Benray corrió a su encuentro, descargando un apósito neutralizador sobre las piernas de la mecánica mientras le gritaba a la bestia con los bigotes crispados:
+Benrey corrió a su encuentro, descargando un apósito neutralizador sobre las piernas de la mecánica mientras le gritaba a la bestia con los bigotes crispados:
 —¡Maldito calamar del averno! ¡A mi tripulación no la toca nadie!
 
 El Skreeg, enfurecido por la resistencia, emergió por completo del foso. Sus alas membranosas se desplegaron, impulsándose con sus tentáculos para arrojarse sobre el grupo. Con un barrido brutal, una de sus extremidades alcanzó a Marloc por el pecho, elevando al tecnomante por los aires.
@@ -74,14 +74,14 @@ Tras tres combates encarnizados en menos de tres horas —el francotirador sarce
 
 —No podemos asaltar un santuario subterráneo en estas condiciones —dictaminó Axel con pragmatismo militar—. Recomiendo repliegue táctico a la *Estrella Errante* para descanso prolongado y reabastecimiento.
 
-El regreso a la nave tomó apenas quince minutos. Valdo los recibió en la esclusa con mantas térmicas y una cafetera humeante. Mientras Triel se encerraba en el taller con sus herramientas para reparar las juntas de Gerty y curar sus propias heridas, Marloc analizó el anillo mágico que Benray había extraído del cadáver de la entrada.
+El regreso a la nave tomó apenas quince minutos. Valdo los recibió en la esclusa con mantas térmicas y una cafetera humeante. Mientras Triel se encerraba en el taller con sus herramientas para reparar las juntas de Gerty y curar sus propias heridas, Marloc analizó el anillo mágico que Benrey había extraído del cadáver de la entrada.
 
 —Es un *Anillo de Sustento* —anunció el tecnomante con una sonrisa de satisfacción—. Una joya legendaria. Quien lo porte no necesita comer ni beber para mantenerse con vida, y su organismo recupera toda la energía física y mágica con tan solo dos horas de sueño reparador.
 
-Benray se quitó el anillo con reverencia y se lo entregó a Marloc:
+Benrey se quitó el anillo con reverencia y se lo entregó a Marloc:
 —Tómalo tú, mago. Eres el único que necesita meditar para recargar sus fuegos artificiales. Nosotros los pistoleros funcionamos a base de café rancio y adrenalina.
 
-Benray aprovechó el descanso para volcar todas las grabaciones de sus cámaras de casco en discos de memoria externos. Obsesionado con el misterioso polizón de la nave, le pidió a Axel que custodiase una copia de seguridad en su caja fuerte personal:
+Benrey aprovechó el descanso para volcar todas las grabaciones de sus cámaras de casco en discos de memoria externos. Obsesionado con el misterioso polizón de la nave, le pidió a Axel que custodiase una copia de seguridad en su caja fuerte personal:
 —Si ese fantasma del espacio decide borrar los archivos de nuevo, al menos tendremos una copia física que Galito Peligro no podrá desacreditar.
 
 ***
@@ -99,7 +99,7 @@ Triel se arrodilló junto a la pesada compuerta circular de acero empotrada en l
 Tras unos segundos de escaneo, la semi-drow alzó la vista con sorpresa:
 —Había una trampa de sobrecarga de plasma instalada en el mecanismo... pero alguien la desactivó desde el exterior. El pestillo está desbloqueado.
 
-—¿Los cultistas tenían prisa por marcharse? —preguntó Benray con suspicacia.
+—¿Los cultistas tenían prisa por marcharse? —preguntó Benrey con suspicacia.
 
 —O quienquiera que los visitó no quería que nadie se quedara fuera —respondió Axel con frialdad.
 

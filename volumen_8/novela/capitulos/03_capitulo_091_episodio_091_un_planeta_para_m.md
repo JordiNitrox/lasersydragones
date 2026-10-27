@@ -11,7 +11,7 @@ A su alrededor, una guardia de honor compuesta por caballeros esqueléticos con 
 Gerty avanzó un paso situándose al flanco de Triel, con sus cuatro brazos cruzados sobre el torso blindado:
 —*Aviso táctico* —siseó el meca por el canal interno—. *La unidad central del estrado emite radiación mágica de noveno círculo. Si ese cadáver decide atacarnos, mis probabilidades de supervivencia son del cuarenta y dos por ciento. Las de ustedes son cero.*
 
-—Gracias por el optimismo, Gerty —murmuró Benray desde la retaguardia, apretándose las manos para evitar que le temblaran los bigotes.
+—Gracias por el optimismo, Gerty —murmuró Benrey desde la retaguardia, apretándose las manos para evitar que le temblaran los bigotes.
 
 El Ministro Varkos alzó lentamente su cetro óseo. Dos orbes de fuego blanco brillaron en el fondo de sus cuencas vacías mientras una voz cavernosa, como el roce de dos losas de mármol, llenaba el salón:
 —*«Representantes de Absalón. Solicitan autorización para cruzar el yermo hacia la fosa de la Necrogarganta en calidad de auditores técnicos. ¿Por qué la aristocracia de Eox habría de conceder el paso a criaturas cuyo corazón late con tanta insolencia?»*
@@ -42,8 +42,8 @@ El liche extendió su mano esquelética y estampó un sello de cera negra sobre 
 
 El grupo recogió el documento sellado y abandonó el salón ministerial con paso presuroso.
 
-Al cruzar las puertas de bronce hacia la calle, Benray se secó la frente con la manga y respiró hondo:
+Al cruzar las puertas de bronce hacia la calle, Benrey se secó la frente con la manga y respiró hondo:
 —Marloc, te juro que si sobrevivimos a esta misión, te voy a pagar el mejor almuerzo de toda la Estación Absalón. ¡Hablaste como un auténtico abogado de las tumbas!
 
 Marloc sonrió de medio lado, guardando el pergamino en su gabán:
-—El lenguaje del poder es universal, Benray. Ahora tenemos el pase legal. Pero antes de cruzar los páramos, necesitamos saber qué defensas nos aguardan en la fosa. Y para eso, tendremos que visitar los archivos subterráneos de la ciudad.
+—El lenguaje del poder es universal, Benrey. Ahora tenemos el pase legal. Pero antes de cruzar los páramos, necesitamos saber qué defensas nos aguardan en la fosa. Y para eso, tendremos que visitar los archivos subterráneos de la ciudad.

@@ -6,7 +6,7 @@ El descenso por el pozo cilíndrico de la Roca del Drift fue un ejercicio de ing
 
 En ausencia de atmósfera y gravedad, el avance no requería esfuerzo físico, sino una calculada disciplina cinemática. Un leve impulso con la puntera de las botas contra el borde del brocal bastaba para deslizarse en línea recta hacia el fondo del abismo, avanzando metro tras metro en una caída que carecía por completo de la sensación de velocidad. A su alrededor, las paredes del pozo bajaban perfectamente pulidas, talladas en una piedra de tonalidad plomiza con vetas cerámicas que absorbían los haces de las linternas frontales.
 
-A la cabeza de la columna flotaba Gerty. El dron de combate avanzaba con sus cuatro extremidades mecánicas replegadas hacia el pecho, sosteniendo un foco halógeno en una de sus pinzas frontales. Tras él descendían Axel y Triel, asegurando sus rifles magnéticos a los arneses de pecho para conservar al menos una mano libre con la que maniobrar contra los salientes. Más arriba, cerrando la formación, Benray sujetaba por los cuellos de sus trajes a Willy y a Naru, quienes pataleaban en el vacío con la fascinación desquiciada de dos niños lanzados por un tobogán interestelar.
+A la cabeza de la columna flotaba Gerty. El dron de combate avanzaba con sus cuatro extremidades mecánicas replegadas hacia el pecho, sosteniendo un foco halógeno en una de sus pinzas frontales. Tras él descendían Axel y Triel, asegurando sus rifles magnéticos a los arneses de pecho para conservar al menos una mano libre con la que maniobrar contra los salientes. Más arriba, cerrando la formación, Benrey sujetaba por los cuellos de sus trajes a Willy y a Naru, quienes pataleaban en el vacío con la fascinación desquiciada de dos niños lanzados por un tobogán interestelar.
 
 Marloc Boosmar cerraba la comitiva. Con un suave gesto de su mano cibernética, el tecnomante liberó una tríada de esferas bioluminiscentes (*luces danzantes*) que orbitaron suavemente a su alrededor, proyectando un resplandor azulado sobre las espaldas de sus compañeros.
 
@@ -22,7 +22,7 @@ Al aproximarse a la primera bifurcación, Axel extendió un puño enguantado, la
 
 A escasos centímetros de la roca, flotaba una hilera de glóbulos escarlatas coagulados en esferas casi perfectas. Hacia el corredor opuesto, en cambio, la superficie de la piedra mostraba salpicaduras secas de un fluido viscoso y azulado, inconfundible para cualquiera que hubiera sobrevivido al *Acreon*: hemolinfa de akata.
 
-—Los mineros se dividieron —dedujo Benray, acomodándose las gafas tácticas sobre el hocico dentro de su casco—. Los que sangraban rojo huyeron hacia la izquierda. Las alimañas con tentáculos los persiguieron por la derecha.
+—Los mineros se dividieron —dedujo Benrey, acomodándose las gafas tácticas sobre el hocico dentro de su casco—. Los que sangraban rojo huyeron hacia la izquierda. Las alimañas con tentáculos los persiguieron por la derecha.
 
 —Sigamos el rastro rojo —resolvió Triel, orientando los propulsores manuales de Gerty—. Quizá alguno logró atrincherarse.
 
@@ -34,7 +34,7 @@ El túnel de la izquierda se ensanchaba hasta formar una cavidad abovedada de ca
 
 Era un cuerpo envuelto en un traje de presurización pesada, modelo *Estex I*, diseñado a medida para la complexión imponente de un vesk. Flotaba de espaldas, con los brazos entreabiertos y la cola rígida, envuelta en un halo de diminutos fragmentos de metal y esferas de sangre congelada.
 
-—No se mueve —advirtió Benray, desenfundando con prudencia su pistola táctica y manteniéndose a distancia prudencial—. Y si algo hemos aprendido en esta maldita misión, es que las cosas muertas en este sistema solar tienen la desagradable costumbre de volver a levantarse para merendarse tu cara.
+—No se mueve —advirtió Benrey, desenfundando con prudencia su pistola táctica y manteniéndose a distancia prudencial—. Y si algo hemos aprendido en esta maldita misión, es que las cosas muertas en este sistema solar tienen la desagradable costumbre de volver a levantarse para merendarse tu cara.
 
 —Permítanme comprobar sus constantes —solicitó Triel.
 
@@ -54,7 +54,7 @@ Entre los pliegues del arnés táctico, Triel desprendió una cadena metálica c
 
 El inventario de la difunta vesk resultó ser un bálsamo providencial para la castigada logística del grupo: cuatro varillas de crédito corporativas con doscientos cincuenta créditos cada una, un botiquín militar intacto con cuatro ampollas de antibióticos de amplio espectro, sedantes de emergencia, antitoxinas y un cargador auxiliar cinético acoplado a la espalda del traje, capaz de regenerar baterías mediante el movimiento inercial.
 
-—Nos repartimos los créditos y los suministros —propuso Benray, embolsándose su parte con pulcritud mercantil—. Si salimos de esta roca con vida, entregaremos el registro formal a la delegación de Hardscrabble.
+—Nos repartimos los créditos y los suministros —propuso Benrey, embolsándose su parte con pulcritud mercantil—. Si salimos de esta roca con vida, entregaremos el registro formal a la delegación de Hardscrabble.
 
 Pero apenas terminó de pronunciar aquellas palabras, un escalofrío helado atravesó la espalda de Axel.
 
@@ -72,7 +72,7 @@ De la penumbra del techo surgió una silueta ágil y delgada, envuelta en un tra
 
 —Es Clara-247 —alertó Axel, con la voz templada por el cálculo de combate—. La francotiradora del muelle noventa y cuatro.
 
-—¡Maldita sea! —chilló Benray, impulsándose hacia abajo para pegarse a la pared con la cola tensa como una varilla de acero—. ¡¿Esa desgraciada sobrevivió a la estampida de los Bajos y nos estaba esperando aquí dentro?!
+—¡Maldita sea! —chilló Benrey, impulsándose hacia abajo para pegarse a la pared con la cola tensa como una varilla de acero—. ¡¿Esa desgraciada sobrevivió a la estampida de los Bajos y nos estaba esperando aquí dentro?!
 
 A través del intercomunicador general de banda ancha, la voz de Clara sonó clara y burlona, cargada de una estática granulada:
 
@@ -86,7 +86,7 @@ A través del intercomunicador general de banda ancha, la voz de Clara sonó cla
 
 La respuesta de Marloc fue fulminante. El tecnomante no necesitó mover las piernas ni buscar apoyo en el suelo; extendió su brazo cibernético hacia la cornisa y canalizó toda la potencia de su matriz arcana. Tres dardos luminosos de fuerza pura (*proyectiles mágicos*) brotaron de las puntas de sus dedos metálicos, silbando en trayectorias espirales a través del vacío para estrellarse de lleno contra el pecho de Clara. Las detonaciones la hicieron tambalearse, arrancándole un grito ahogado mientras astillas de blindaje salían despedidas al espacio.
 
-—¡Fuego coordinado! —ordenó Benray por el canal táctico, señalando la posición enemiga—. ¡Concentren descargas en la cornisa! ¡Gerty, cúbrenos!
+—¡Fuego coordinado! —ordenó Benrey por el canal táctico, señalando la posición enemiga—. ¡Concentren descargas en la cornisa! ¡Gerty, cúbrenos!
 
 Willy y Naru, acurrucados tras el hombro metálico del dron, sacaron sus pistolas caseras y comenzaron a disparar ráfagas intermitentes que, si bien no alcanzaron al objetivo, forzaron a la francotiradora a agachar la cabeza y perder su línea de tiro.
 
@@ -126,7 +126,7 @@ Triel dejó caer los instrumentos médicos en el polvo con un suspiro frustrado:
 
 —No pude hacer nada. El daño en su núcleo energético era irreversible.
 
-—Era ella o nosotros, Triel —dijo Benray en tono sombrío, flotando a su lado y posando una mano sobre su hombrera—. No podíamos correr el riesgo.
+—Era ella o nosotros, Triel —dijo Benrey en tono sombrío, flotando a su lado y posando una mano sobre su hombrera—. No podíamos correr el riesgo.
 
 El registro del equipo de Clara arrojó hallazgos de gran valor táctico: su armadura ligera *Freebooter I*, un rifle de francotirador táctico *Shirren-Eye* con mira de largo alcance, propulsores neumáticos *jump jets* integrados en su armazón, trescientos créditos en tarjetas al portador y un amuleto consagrado a Besmara, la diosa pirata de los confines del espacio. Flotando a escasas pulgadas sobre su cabeza descansaba además una reliquia insólita: una *Clear Spindle Aeon Stone*, una pequeña esfera mágica que orbitaba en el vacío sustentando las funciones vitales sin necesidad de comida ni bebida, aunque dejando en quien la portaba una persistente e incómoda sensación de hambre insatisfecha.
 

@@ -4,11 +4,11 @@
 
 La mañana en los muelles de atraque de la Estación Absalón comenzó con una llamada de auxilio mecánico que amenazaba con derivar en crisis diplomática interna.
 
-Triel Istrav y Benray Galway se personaron a paso ligero en el muelle de reparaciones donde el *Hippocampus*, con sus setenta y cinco años de fatiga estructural a cuestas, recibía una exhaustiva restauración de filtros, cableado y médula sintética en el casco. Un joven ingeniero humano los aguardaba al pie de la rampa de acceso con el rostro tiznado y los brazos en jarras:
+Triel Istrav y Benrey Galway se personaron a paso ligero en el muelle de reparaciones donde el *Hippocampus*, con sus setenta y cinco años de fatiga estructural a cuestas, recibía una exhaustiva restauración de filtros, cableado y médula sintética en el casco. Un joven ingeniero humano los aguardaba al pie de la rampa de acceso con el rostro tiznado y los brazos en jarras:
 
 —Menos mal que vienen, señores. Estábamos ajustando las toberas del motor principal y tuvimos que meternos por las escotillas secundarias de ventilación. Hay un... pequeño problema de inquilinos en las entrañas de la nave.
 
-Triel frunció el ceño, apretó el paso y se deslizó ágilmente por las angostas esclusas de servicio, seguida de cerca por Benray. Al doblar el último recodo hacia la cámara de propulsión primaria, el espectáculo que se desplegó ante sus ojos rozaba el delirio.
+Triel frunció el ceño, apretó el paso y se deslizó ágilmente por las angostas esclusas de servicio, seguida de cerca por Benrey. Al doblar el último recodo hacia la cámara de propulsión primaria, el espectáculo que se desplegó ante sus ojos rozaba el delirio.
 
 El suelo metálico de las galerías de enfriamiento estaba cubierto de chatarra, cajas abiertas, ropas colgadas y restos de huesos. En el centro neurálgico del compartimento, **Naru** vigilaba con parsimonia una desvencijada cazuela humeante asentada directamente sobre una de las tuberías maestras de escape del núcleo atómico, cuyas placas de blindaje antirradiación habían sido meticulosamente arrancadas para aprovechar el calor del reactor. Dos chiquillos goblins de ojos desorbitados revolvían el caldo con huesos de procedencia incierta. Al otro lado de la bancada de turbinas, **Willy** y otros dos pequeños goblins desarmaban paneles de circuitos con una palanca improvisada:
 
@@ -20,7 +20,7 @@ Triel se quedó petrificada. Sus ojos carmesíes se abrieron con un fulgor homic
 
 —Ustedes nos dijeron que entráramos a la nave —se defendió Willy con tono inocente, rascándose la oreja puntiaguda—. Y como nadie nos dijo que nos fuéramos, pues me traje a mis hijos y Naru se trajo a los suyos.
 
-—¿Cuántos son? —inquirió Benray, parpadeando con estupefacción mientras veía a otra cría goblin asomarse por el interior de una tobera de plasma.
+—¿Cuántos son? —inquirió Benrey, parpadeando con estupefacción mientras veía a otra cría goblin asomarse por el interior de una tobera de plasma.
 
 —Tengo quince más en la bodega del puerto, pero solo trajimos a estos cinco para el desayuno —aclaró Willy muy orondo.
 
@@ -28,11 +28,11 @@ Naru se acercó a Triel con una taza de hojalata humeante, ofreciéndosela con u
 
 —Tome un poco de sopa de reactor, jefa. Se le quitará esa cara de amargura. Además, limpiamos una esquina del conducto de ventilación y encontramos unos trastos viejos que el Garabatal había dejado escondidos.
 
-Benray se asomó a la esquina indicada y soltó un silbido de admiración profesional. Entre cajas de plástico carcomidas por la humedad descansaban estatuas labradas, lienzos pintados al óleo de diferentes eras galácticas y piezas de orfebrería de alto valor histórico. El ysoki calculó mentalmente el botín: al menos cuatro mil créditos en antigüedades finas.
+Benrey se asomó a la esquina indicada y soltó un silbido de admiración profesional. Entre cajas de plástico carcomidas por la humedad descansaban estatuas labradas, lienzos pintados al óleo de diferentes eras galácticas y piezas de orfebrería de alto valor histórico. El ysoki calculó mentalmente el botín: al menos cuatro mil créditos en antigüedades finas.
 
-—La sopa huele deliciosa, estimada Naru —dijo Benray con cortesía exquisita, colocándose entre Triel y la olla antes de que la mecánica comenzara a disparar descargas de soldador sónico—, pero Triel tiene una predisposición genética desfavorable hacia la radiación en los caldos. Y sobre todo... este *Hippocampus* es un cascarón anciano y temperamental. Es demasiado peligroso para una familia de su calibre.
+—La sopa huele deliciosa, estimada Naru —dijo Benrey con cortesía exquisita, colocándose entre Triel y la olla antes de que la mecánica comenzara a disparar descargas de soldador sónico—, pero Triel tiene una predisposición genética desfavorable hacia la radiación en los caldos. Y sobre todo... este *Hippocampus* es un cascarón anciano y temperamental. Es demasiado peligroso para una familia de su calibre.
 
-Benray se arrodilló a la altura de Willy, mirándolo con absoluta solemnidad:
+Benrey se arrodilló a la altura de Willy, mirándolo con absoluta solemnidad:
 
 —Ustedes son goblins de recursos. Merecen instalaciones de vanguardia. En el **muelle 34** está atracada la nave insignia de nuestro queridísimo colega, el **oficial León Holden**, de Los Protectores. Es una nave militar nuevecita, blindada, repleta de raciones gourmet, conductos sin escapes y comodidades de lujo. El señor León es, de hecho, el mayor protector de los goblins de toda la estación. Si van para allá y ocupan un par de cuarteles en su bodega, los recibirá con los brazos abiertos.
 
@@ -44,9 +44,9 @@ En menos de tres minutos, la prole goblin al completo desfiló escaleras arriba 
 
 Triel contempló el desastre de paneles sueltos y cables colgantes, suspirando con la mano apoyada en la frente:
 
-—No quiero volver a ver a esos bichos en mi vida, Benray. Si vuelven a pisar esta nave, le daré autorización formal a Gerty para que los convierta en confeti. Destaparon el núcleo atómico... Por los dioses, casi nos transforman en «Los Atómicos».
+—No quiero volver a ver a esos bichos en mi vida, Benrey. Si vuelven a pisar esta nave, le daré autorización formal a Gerty para que los convierta en confeti. Destaparon el núcleo atómico... Por los dioses, casi nos transforman en «Los Atómicos».
 
-—«La Estrella Atómica» no suena nada mal para una banda de mercenarios —bromeó Benray, palmeándole el hombro mientras sacaba el alijo de arte—. Y mira el lado positivo: tenemos cuatro mil créditos limpios y la nave despejada.
+—«La Estrella Atómica» no suena nada mal para una banda de mercenarios —bromeó Benrey, palmeándole el hombro mientras sacaba el alijo de arte—. Y mira el lado positivo: tenemos cuatro mil créditos limpios y la nave despejada.
 
 Un timbre suave interrumpió la charla en el terminal de Triel. Era un mensaje holográfico de **Il**, el carismático cantante lashunta del exitoso grupo pop *Super BMT*, a quien habían conocido en la recepción de la alta sociedad la noche anterior:
 
@@ -112,7 +112,7 @@ Eclair no se inmutó. Posó su mano sintética, tibia y reconfortante, sobre los
 
 ***
 
-### III. El doble velatorio y la fractura de Benray
+### III. El doble velatorio y la fractura de Benrey
 
 Mientras la tarde caía sobre la estación, Marloc Boosmar deambulaba como un espectro por las inmediaciones del Arcanamirium. Siguiendo las coordenadas de su propia memoria, llegó al edificio residencial que figuraba en sus registros como su hogar en Absalón.
 
@@ -130,17 +130,17 @@ Marloc tragó saliva, sintiendo que el suelo se abría bajo sus pies ante la atr
 
 Incapaz de soportar el peso de aquel laberinto dimensional, Marloc huyó del edificio. Regresó al hotel en pijama, se despojó de la casaca y se encerró con una botella de vodka frente al monitor holovisión, negándose a asistir a fiesta alguna.
 
-Entretanto, en los suburbios de la Espiga, Benray Galway vivía su propio calvario.
+Entretanto, en los suburbios de la Espiga, Benrey Galway vivía su propio calvario.
 
 El periodista ysoki había acudido a una multitudinaria fiesta familiar donde decenas de primos, tías y parientes le atiborraban de comida grasienta y licor casero, felicitándolo por las exclusivas del *Acreon*. Sin embargo, en mitad de la algarabía, la atmósfera pareció espesarse.
 
-Al fondo del abarrotado salón, sentado en una esquina solitaria, Benray divisó una figura en sombras de rasgos dragonoides que no encajaba en la fiesta. Un frío antinatural le caló los huesos. De pronto, un susurro gélido retumbó directamente en su corteza cerebral:
+Al fondo del abarrotado salón, sentado en una esquina solitaria, Benrey divisó una figura en sombras de rasgos dragonoides que no encajaba en la fiesta. Un frío antinatural le caló los huesos. De pronto, un susurro gélido retumbó directamente en su corteza cerebral:
 
-*«Los dejaste morir en la roca... Tú los mataste a todos, Benray...»*
+*«Los dejaste morir en la roca... Tú los mataste a todos, Benrey...»*
 
 Antes de que pudiera desenfundar, una fuerza invisible y demoledora alzó al ysoki dos metros por el aire y lo estampó brutalmente contra la mesa central del banquete. La vajilla estalló en pedazos, manchando su casaca de salsa y caldo entre los alaridos de pánico de su familia.
 
-Herido y enfurecido, Benray se levantó a trompicones, empujó a sus primos que intentaban socorrerlo y salió disparado a la calle bajo la lluvia ácida de la Espiga:
+Herido y enfurecido, Benrey se levantó a trompicones, empujó a sus primos que intentaban socorrerlo y salió disparado a la calle bajo la lluvia ácida de la Espiga:
 
 —¡No fue mi culpa! ¡Maldita sea, nunca fue mi culpa! —bramó al vacío de la noche, con el corazón galopando desbocado.
 
@@ -150,7 +150,7 @@ Tras limpiarse someramente en un servicio público, tomó un aerotaxi hacia el h
 
 ### IV. El Domo Jamspore y el colapso de Syd Velch
 
-Una lujosa limusina de cristales tintados recogió al grupo frente a la dársena de ocio. En su interior, **Il**, la estrella juvenil lashunta de *Super BMT*, charlaba animadamente con Triel mientras una azafata medusoide desinfectaba a vapor la maltrecha casaca de Benray. Axel lucía su llamativa peluca de coletas bajas y su falda de vinilo translúcido con absoluta frialdad militar.
+Una lujosa limusina de cristales tintados recogió al grupo frente a la dársena de ocio. En su interior, **Il**, la estrella juvenil lashunta de *Super BMT*, charlaba animadamente con Triel mientras una azafata medusoide desinfectaba a vapor la maltrecha casaca de Benrey. Axel lucía su llamativa peluca de coletas bajas y su falda de vinilo translúcido con absoluta frialdad militar.
 
 El destino era el monumental **Teatro-torio Jamspore**, un coliseo metamórfico en el Ojo de Absalón capaz de albergar a treinta y cinco mil almas bajo una cúpula acústica de geometría variable.
 

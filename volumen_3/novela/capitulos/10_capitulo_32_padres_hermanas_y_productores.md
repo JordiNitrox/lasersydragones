@@ -4,15 +4,15 @@
 
 Mientras la música electrónica y el flujo de copas doradas llenaban el ático del hotel *Las Lunas*, las sombras del pasado y las intrigas del presente reclamaron su cuota de atención tras las puertas cerradas de la suite.
 
-Benray fue convocado a uno de los despachos privados por su primo Rim Rey. Al cruzar el umbral, la pantalla mural se encendió, proyectando el logotipo oscuro de la productora Atmos. La voz de Marcellus sonó afilada como un bisturí:
+Benrey fue convocado a uno de los despachos privados por su primo Rim Rey. Al cruzar el umbral, la pantalla mural se encendió, proyectando el logotipo oscuro de la productora Atmos. La voz de Marcellus sonó afilada como un bisturí:
 
-—*Felicidades por la audiencia, Benray. Medio millón de visualizaciones en el canal pirata. Pero tenemos un grave problema de imagen.*
+—*Felicidades por la audiencia, Benrey. Medio millón de visualizaciones en el canal pirata. Pero tenemos un grave problema de imagen.*
 
 —¿Problema de imagen? —protestó el ysoki, abriendo los brazos con indignación—. ¡Acabo de salir de un asteroide lleno de monstruos caníbales y hemos traído una nave legendaria!
 
-—*En el setenta por ciento del metraje, querido capitán, estás escondido detrás de una caja o flotando de espaldas con cara de pánico* —replicó el editor, mientras en pantalla aparecía un montaje despiadado que señalaba con círculos rojos a Benray en retaguardia mientras Triel, Axel y Marloc despachaban a los enemigos en primer plano—. *El público de Absalón busca un héroe de acción arrojado, no un roedor tembloroso que da órdenes desde el techo. La semi-drow con su cañón, la androide con el rifle de precisión y el mago con su gabana se están comiendo tu fama. Si no empiezas a ponerte al frente en los tiroteos, la semana que viene nadie recordará tu nombre.*
+—*En el setenta por ciento del metraje, querido capitán, estás escondido detrás de una caja o flotando de espaldas con cara de pánico* —replicó el editor, mientras en pantalla aparecía un montaje despiadado que señalaba con círculos rojos a Benrey en retaguardia mientras Triel, Axel y Marloc despachaban a los enemigos en primer plano—. *El público de Absalón busca un héroe de acción arrojado, no un roedor tembloroso que da órdenes desde el techo. La semi-drow con su cañón, la androide con el rifle de precisión y el mago con su gabana se están comiendo tu fama. Si no empiezas a ponerte al frente en los tiroteos, la semana que viene nadie recordará tu nombre.*
 
-Benray apretó los puños, con los bigotes vibrando de furia contenida:
+Benrey apretó los puños, con los bigotes vibrando de furia contenida:
 
 —El trabajo de un capitán es mantener con vida a su gente, Marcellus. Y todos estamos aquí. Sigue editando el vídeo y déjame la estrategia a mí.
 
@@ -98,7 +98,7 @@ El oficial dio un paso hacia el interior de la suite, cerrando la puerta tras de
 
 La distancia entre ambos se redujo a un palmo de aire cargado de electricidad. León la observó en silencio durante tres segundos que parecieron eternos; la rigidez militar de su mandíbula tembló levemente, traicionada por un calor repentino que le encendió el cuello ante la mirada desafiante y hermosa de la mecánica mestiza. Toda la compostura de la ley saltó por los aires: el oficial sujetó a Triel por la cintura con firmeza innegable, atrayéndola hacia sí, mientras ella soltaba una risotada ahogada que se extinguió en el instante en que sus bocas chocaron con un ímpetu salvaje y largamente reprimido.
 
-Media hora después, cuando el timbre de aviso de Benray anunció que la comitiva debía partir hacia la embajada de Eox, Triel apareció en la terraza del ático con el cabello recogido con una aguja de tungsteno, las mejillas arreboladas y una serenidad radiante que contrastaba con las ojeras del resto de sus compañeros, mientras devoraba gofres con sirope ante la mirada suspicaz de Axel.
+Media hora después, cuando el timbre de aviso de Benrey anunció que la comitiva debía partir hacia la embajada de Eox, Triel apareció en la terraza del ático con el cabello recogido con una aguja de tungsteno, las mejillas arreboladas y una serenidad radiante que contrastaba con las ojeras del resto de sus compañeros, mientras devoraba gofres con sirope ante la mirada suspicaz de Axel.
 
 El grupo se dirigió a paso firme hacia el Distrito de las Embajadas.
 
@@ -106,7 +106,7 @@ Los corredores subterráneos de la delegación diplomática los recibieron con s
 
 —Mis queridos amigos de la *Estrella Errante*. Es un deleite constatar que las noticias sobre su triunfo han inundado las redes de la estación.
 
-—Traemos buenas noticias, señor embajador —anunció Benray, adoptando su tono más formal mientras Axel permanecía en guardia junto a la puerta—. Su paquete fue asegurado a bordo del *Hippocampus* y entregado sin alteraciones. Mantenemos nuestra palabra.
+—Traemos buenas noticias, señor embajador —anunció Benrey, adoptando su tono más formal mientras Axel permanecía en guardia junto a la puerta—. Su paquete fue asegurado a bordo del *Hippocampus* y entregado sin alteraciones. Mantenemos nuestra palabra.
 
 —Lo sé con certeza, capitán Galway —asintió el embajador Nor, deslizando cuatro varillas de crédito sobre el escritorio de obsidiana—. Seiscientos créditos de oro para cada uno, tal y como acordamos en nuestro primer encuentro. Un pago justo por un silencio impecable.
 

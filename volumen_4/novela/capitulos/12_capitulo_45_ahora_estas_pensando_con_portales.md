@@ -4,13 +4,13 @@
 
 El sol matutino de Castrovel filtraba sus rayos dorados a través de los amplios ventanales del despacho de la decana Muhali, iluminando una escena de alta tensión protocolaria.
 
-Junto a la mesa rectoral se encontraba Benray Galway, luciendo su casaca con una dignidad aristocrática impecable y la armadura *Temp-weave* recién ajustada bajo los pliegues de tela. A su izquierda, custodiado por dos guardias jurados del campus, comparecía el archivista Waluss, con la túnica arrugada, el rostro demudado y los ojos inyectados en sangre. Cerrando la comitiva destacaba una mole de escamas verde oliva y dos metros de altura: el capitán de seguridad de la universidad, un fornido guerrero vesk enfundado en un imponente blindaje de asalto.
+Junto a la mesa rectoral se encontraba Benrey Galway, luciendo su casaca con una dignidad aristocrática impecable y la armadura *Temp-weave* recién ajustada bajo los pliegues de tela. A su izquierda, custodiado por dos guardias jurados del campus, comparecía el archivista Waluss, con la túnica arrugada, el rostro demudado y los ojos inyectados en sangre. Cerrando la comitiva destacaba una mole de escamas verde oliva y dos metros de altura: el capitán de seguridad de la universidad, un fornido guerrero vesk enfundado en un imponente blindaje de asalto.
 
 —Me siento profundamente decepcionada, señor Waluss —sentenció la decana Muhali con tono severo, mientras sus cuatro brazos firmaban una orden disciplinaria en su terminal—. El señor Galway acudió a los archivos con el legítimo afán de enriquecer su formación cultural, y usted respondió con una agresión física incalificable y una retahíla de insultos xenófobos hacia su especie.
 
 —¡Decana, por piedad! —gimió el archivista, con las antenas crispadas de humillación—. ¡El roedor agarró a Annabelle! ¡Arrojó reliquias invaluables por el pasillo y desató el caos!
 
-—¡Le solicité orientación con la humildad que caracteriza a mi pueblo! —intervino Benray con un quiebro lastimero en la voz, llevándose una zarpa al pecho como si el recuerdo del agravio le desgarrara el alma—. Yo buscaba elevar mi espíritu en esta noble institución... y este individuo me arrojó al suelo y me llamó rata con desprecio asesino. Acepto los golpes en el cuerpo, decana, pero el veneno del prejuicio hiere más hondo que un disparo de plasma.
+—¡Le solicité orientación con la humildad que caracteriza a mi pueblo! —intervino Benrey con un quiebro lastimero en la voz, llevándose una zarpa al pecho como si el recuerdo del agravio le desgarrara el alma—. Yo buscaba elevar mi espíritu en esta noble institución... y este individuo me arrojó al suelo y me llamó rata con desprecio asesino. Acepto los golpes en el cuerpo, decana, pero el veneno del prejuicio hiere más hondo que un disparo de plasma.
 
 El capitán vesk cruzó sus corpulentos brazos sobre el peto de placas y asintió con un gruñido grave de aprobación:
 
@@ -18,7 +18,7 @@ El capitán vesk cruzó sus corpulentos brazos sobre el peto de placas y asinti�
 
 —Su padre fue un distinguido embajador en Akiton, Waluss —dijo Muhali con fría repulsa—. Su conducta deshonra el apellido de su familia. Tenía previsto tramitar su despido inmediato, pero el señor Galway ha abogado generosamente por usted.
 
-Benray sonrió con magnanimidad beatífica:
+Benrey sonrió con magnanimidad beatífica:
 
 —Todos merecemos una segunda oportunidad en este vasto universo, decana. Bastará con que el señor Waluss complete varios cursos intensivos de tolerancia interespecie y sensibilización cultural.
 
@@ -28,11 +28,11 @@ Waluss apretó las mandíbulas con tanta fuerza que sus dientes rechinaron de fo
 
 —Disculpas aceptadas de todo corazón, querido amigo —respondió el ysoki, dedicándole un guiño afable.
 
-Cuando la audiencia concluyó y los guardias escoltaron al archivista hacia el área de sanciones, el oficial vesk se detuvo un instante ante Benray, ofreciéndole una mano escamosa y nudosa:
+Cuando la audiencia concluyó y los guardias escoltaron al archivista hacia el área de sanciones, el oficial vesk se detuvo un instante ante Benrey, ofreciéndole una mano escamosa y nudosa:
 
 —Excelente temple, señor Galway. He seguido varios de sus vídeos de supervivencia en la infosfera de Absalón. Me sorprende gratamente su incursión en los círculos académicos. Siga adelante con ese contenido; tiene usted un nuevo suscriptor en Castrovel.
 
-Benray le estrechó la mano con una inclinación reverente:
+Benrey le estrechó la mano con una inclinación reverente:
 
 —El honor es mío, soldado. Recuerde activar la campanita de notificaciones.
 
@@ -76,15 +76,15 @@ Poco antes del mediodía, Sophie Ren bajó al laboratorio cargada con una bandej
 
 —Espero que les guste la cocina tradicional de Qabarat —dijo la estudiante con una sonrisa tímida—. Es lo mínimo que puedo hacer después de todo el alboroto del coche.
 
-—Delicioso, pequeña —agradeció Triel, mientras Benray devoraba dos empanadas de un solo bocado.
+—Delicioso, pequeña —agradeció Triel, mientras Benrey devoraba dos empanadas de un solo bocado.
 
 Tras reponer fuerzas y despedirse de Sophie con palabras de sincero afecto, el grupo se dirigió al distrito comercial del puerto fluvial para ultimar los pertrechos de la expedición. Con el adelanto de créditos de Muhali y los fondos de la compañía, adquirieron una docena de viales de antitoxina concentrada contra las picaduras del temible Kaukariki, raciones deshidratadas, botiquines de primeros auxilios y repelentes biológicos de amplio espectro.
 
 Axel supervisó la calibración de los trajes:
 
-—Nuestras armaduras disponen de sistemas de protección ambiental sellados (*environmental protections*). Sin embargo, las reservas de filtrado y climatización son limitadas. La mía garantiza cuarenta y ocho horas de atmósfera controlada; la armadura *Temp-weave* de Benray, noventa y seis horas continuas. Tendremos que racionar el aire acondicionado para las horas de marcha diurna si no queremos sucumbir a golpes de calor letales o fiebres de la jungla.
+—Nuestras armaduras disponen de sistemas de protección ambiental sellados (*environmental protections*). Sin embargo, las reservas de filtrado y climatización son limitadas. La mía garantiza cuarenta y ocho horas de atmósfera controlada; la armadura *Temp-weave* de Benrey, noventa y seis horas continuas. Tendremos que racionar el aire acondicionado para las horas de marcha diurna si no queremos sucumbir a golpes de calor letales o fiebres de la jungla.
 
-—Todo bajo control, mi estimada estratega —aseguró Benray palmeando su petate—. Conozco los rigores del desierto marciano de Akiton; la humedad de Castrovel no será más que un baño de vapor glorificado.
+—Todo bajo control, mi estimada estratega —aseguró Benrey palmeando su petate—. Conozco los rigores del desierto marciano de Akiton; la humedad de Castrovel no será más que un baño de vapor glorificado.
 
 ***
 
@@ -112,7 +112,7 @@ Triel no vaciló un instante. Agarró con firmeza la mano de Gerty y dio un paso
 
 Al cruzar, la silueta de Triel y el androide pareció pixelarse en un mosaico de fotogramas desfasados antes de desaparecer por completo en el vórtice.
 
-Benray sacó su comunicador, encendió la cámara frontal, sonrió con todas sus muelas afiladas y gritó:
+Benrey sacó su comunicador, encendió la cámara frontal, sonrió con todas sus muelas afiladas y gritó:
 
 —¡*Ukulam, baby*!
 
@@ -124,7 +124,7 @@ El ysoki se arrojó de espaldas al interior del portal como si se lanzara a una 
 
 Atravesar el portal no provocó vértigo ni mareo; fue como dar un simple paso sobre una línea trazada en el suelo. Sin embargo, en el instante exacto en que sus botas tocaron la tierra del otro lado, el impacto climático fue brutal.
 
-Una masa sofocante de calor viscoso y humedad casi líquida los envolvió de golpe, como si se hubieran sumergido en una caldera hirviente de caldo vegetal. El contraste con la brisa templada de Qabarat fue tan violento que a Marloc se le empañaron de inmediato las gafas y Benray tuvo que jadear para inflar los pulmones.
+Una masa sofocante de calor viscoso y humedad casi líquida los envolvió de golpe, como si se hubieran sumergido en una caldera hirviente de caldo vegetal. El contraste con la brisa templada de Qabarat fue tan violento que a Marloc se le empañaron de inmediato las gafas y Benrey tuvo que jadear para inflar los pulmones.
 
 —¡Por los testículos de Iomedae! —bufó el ysoki, abanicándose con una zarpa—. ¿Quién demonios dejó la calefacción encendida a mil grados?
 
@@ -170,7 +170,7 @@ Al escuchar ese nombre, Marloc y Triel intercambiaron una mirada de alarma.
 
 —Ese mismo monstruo —asintió Kaeral con un escalofrío visible—. Hace unos años, la unidad de Salas fue emboscada en el sector de las marismas por un depredador ápice de la selva. La bestia devoró vivos a todos sus compañeros frente a él. Salas sobrevivió, pero su mente se quebró sin remedio. Desde aquel día, desarrolló una fascinación enfermiza y sádica por contemplar a seres sintientes siendo devorados por bestias salvajes. Organizó expediciones falsas solo para alimentar a los carnívoros locales con reclutas incautos. Cuando la Legión descubrió su locura, fue expulsado sin honores. Que ahora custodie a la doctora Solstarni es el peor de los presagios.
 
-—No permitiremos que le ponga una mano encima a la profesora —aseguró Benray apretando los puñales—. Le arrancaremos esa sonrisa de hiena en cuanto le demos alcance.
+—No permitiremos que le ponga una mano encima a la profesora —aseguró Benrey apretando los puñales—. Le arrancaremos esa sonrisa de hiena en cuanto le demos alcance.
 
 Kaeral les ofreció hospitalidad en la estación para pasar la noche, facilitándoles cartas de navegación topográfica y consejos sobre los pasos fluviales menos infestados de fauna hostil.
 

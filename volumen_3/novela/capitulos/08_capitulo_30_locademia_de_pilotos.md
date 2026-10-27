@@ -10,9 +10,9 @@ Al instante, una voz femenina suave y melodiosa resonó a través de los altavoc
 
 —*Secuencia de testamento validada. Archivo de última voluntad autenticado con la firma biométrica de la capitana Moriko Nash. Bienvenidos a bordo de la Estrella Errante. Yo soy la inteligencia artificial de a bordo. ¿Desean registrar los perfiles de la nueva tripulación de mando?*
 
-Benray se adelantó, inflando el pecho con gravedad cómica:
+Benrey se adelantó, inflando el pecho con gravedad cómica:
 
-—Registra a Benray Galway como capitán y oficial de comunicaciones; a Triel Istrav como jefa de ingeniería; a A.Xel 42 como piloto principal y oficial táctico; y a Marloc Boosmar como oficial científico y asesor arcano. Ah, y añade a Gerty, Willy y Naru como personal de apoyo y mantenimiento de armas pesadas.
+—Registra a Benrey Galway como capitán y oficial de comunicaciones; a Triel Istrav como jefa de ingeniería; a A.Xel 42 como piloto principal y oficial táctico; y a Marloc Boosmar como oficial científico y asesor arcano. Ah, y añade a Gerty, Willy y Naru como personal de apoyo y mantenimiento de armas pesadas.
 
 —*Perfiles de usuario actualizados* —confirmó la IA—. *La propiedad civil y los derechos de salvamento de la Estrella Errante han sido transferidos legalmente a su nombre. Todos los sistemas de navegación, armas y soporte vital se encuentran al noventa y dos por ciento de operatividad.*
 
@@ -32,7 +32,7 @@ El *Hippocampus* había desaparecido.
 
 —Se lo llevaron —informó Axel por el comunicador—. La nave no está en la superficie. O bien los sistemas automatizados de los Protectores tenían una orden de repliegue tras cumplirse el plazo límite de la misión, o alguien en Absalón activó un protocolo remoto para recuperar el paquete diplomático que transportábamos para el embajador de Eox.
 
-—Bueno, de todos modos era un trasto prestado —replicó Benray desde el puente—. Ahora tenemos una nave de verdad. Carguen los restos de los robots y el equipo en la bodega de la *Estrella Errante*. Es hora de encender motores.
+—Bueno, de todos modos era un trasto prestado —replicó Benrey desde el puente—. Ahora tenemos una nave de verdad. Carguen los restos de los robots y el equipo en la bodega de la *Estrella Errante*. Es hora de encender motores.
 
 ***
 
@@ -44,7 +44,7 @@ Triel manipuló la consola de control del hangar, desactivando el gigantesco cam
 
 La *Estrella Errante* abandonó el hangar flotando en el vacío exterior, cruzando la estela de polvo que envolvía a la Roca del Drift para orientar su morro cobrizo hacia el brillante disco de la Estación Absalón.
 
-En el instante exacto en que la nave abandonó la zona de sombra electromagnética del asteroide, el comunicador personal de Benray comenzó a sonar.
+En el instante exacto en que la nave abandonó la zona de sombra electromagnética del asteroide, el comunicador personal de Benrey comenzó a sonar.
 
 No fue un pitido ordinario. Fue una cascada frenética e ininterrumpida de alertas sonoras, zumbidos hápticos y notificaciones luminosas que colapsaron la pantalla del dispositivo:
 
@@ -52,7 +52,7 @@ No fue un pitido ordinario. Fue una cascada frenética e ininterrumpida de alert
 > **MENSAJERÍA GLOBAL DE LA RED DE ABSALÓN:** TENDENCIA NÚMERO UNO  
 > **CANAL DE REPETIDOR DE ATMOS:** TRANSMISIÓN PIRATA EN DIRECTO — 450.000 ESPECTADORES SIMULTÁNEOS
 
-Benray miró la pantalla con los ojos desorbitados:
+Benrey miró la pantalla con los ojos desorbitados:
 
 —¡Por las barbas de mi abuela! ¡Miren esto! ¡Somos virales!
 
@@ -60,7 +60,7 @@ Triel y Marloc se asomaron a su consola. A través de la intranet pública de Ab
 
 —Nos vendieron como un espectáculo de holovídeo —murmuró Axel, con una mueca de desagrado calculada—. Marcellus utilizó la baliza del *Hippocampus* para retransmitir nuestras señales de combate sin nuestro consentimiento.
 
-—¡Pero míralo por el lado positivo, mi querida androide! —exclamó Benray dando brincos sobre el asiento—. ¡Somos los Héroes del *Acreon*! ¡Todo Absalón sabe que sobrevivimos y que la tripulación no fue asesinada por los mineros! ¡Esto inclina la opinión pública por completo a nuestro favor!
+—¡Pero míralo por el lado positivo, mi querida androide! —exclamó Benrey dando brincos sobre el asiento—. ¡Somos los Héroes del *Acreon*! ¡Todo Absalón sabe que sobrevivimos y que la tripulación no fue asesinada por los mineros! ¡Esto inclina la opinión pública por completo a nuestro favor!
 
 Pero antes de que pudieran continuar celebrando, una alarma roja estalló en los altavoces del puente.
 
@@ -80,7 +80,7 @@ Por los altavoces de comunicación abierta resonó una voz gutural, densa y dist
 
 —Cultura e ingeniería —dictaminó Marloc con voz severa, analizando el diseño del casco—. Es una corbeta clase *Talla-Tuétanos*. Procede de Eox, pero no lleva las insignias diplomáticas del planeta. Pertenece a la **Flota de los Cuerpos**.
 
-—Los rebeldes no-muertos —comprendió Benray, apretando los dientes—. Los extremistas que se niegan a aceptar el Pacto de los Mundos y operan en la sombra como piratas de la muerte. No vinieron a rescatar a nadie; vinieron a asegurarse de que nadie contara lo que había en la roca.
+—Los rebeldes no-muertos —comprendió Benrey, apretando los dientes—. Los extremistas que se niegan a aceptar el Pacto de los Mundos y operan en la sombra como piratas de la muerte. No vinieron a rescatar a nadie; vinieron a asegurarse de que nadie contara lo que había en la roca.
 
 —Pues se equivocaron de presa —declaró Axel, empujando los aceleradores a fondo mientras sus circuitos del rostro se encendían en un tono azul gélido—. A sus puestos de combate.
 
@@ -88,7 +88,7 @@ El combate estelar en la órbita de la Roca del Drift fue un torbellino de manio
 
 La corbeta enemiga abrió fuego con una andanada de proyectiles de pulso magnético y un misil guiado que sacudieron los escudos frontales de la *Estrella Errante*. Pero Axel demostró por qué los androides eran los pilotos más temidos de la frontera: con un giro de evasión lateral (*strafing*), deslizó la nave a ras de la superficie del asteroide, esquivando la trayectoria del misil y aprovechando la atracción de la masa rocosa para ganar aceleración.
 
-—¡Escudos al cincuenta por ciento! —reportó Triel, redirigiendo la energía del generador auxiliar hacia los deflectores laterales—. ¡Marloc, Benray, el blanco está alineado en la torreta superior!
+—¡Escudos al cincuenta por ciento! —reportó Triel, redirigiendo la energía del generador auxiliar hacia los deflectores laterales—. ¡Marloc, Benrey, el blanco está alineado en la torreta superior!
 
 Marloc tomó los mandos de tiro de la torreta de partículas. Canalizando su precisión analítica a través de la interfaz de la computadora, fijó la mira en la tobera principal del motor de la nave ósea:
 

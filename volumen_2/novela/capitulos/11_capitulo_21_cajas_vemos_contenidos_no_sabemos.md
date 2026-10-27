@@ -4,7 +4,7 @@
 
 Los dos Akata cargaron por el pasillo estrecho con la velocidad aterradora de depredadores guiados por el calor corporal de la escuadra. Sus garras raspaban las planchas del suelo levantando virutas de acero y sus tentáculos sensoriales azotaban el aire como látigos enloquecidos.
 
-Benray no lo dudó un instante. Metió la mano en su bandolera táctica, extrajo uno de los cilindros presurizados de salmuera recién ensamblados en la cocina y armó la espoleta de impacto:
+Benrey no lo dudó un instante. Metió la mano en su bandolera táctica, extrajo uno de los cilindros presurizados de salmuera recién ensamblados en la cocina y armó la espoleta de impacto:
 
 —¡Cortesía del servicio de habitaciones! ¡Salmuera concentrada para los cachorros del vacío!
 
@@ -25,7 +25,7 @@ Era una caja rectangular de un metro ochenta de largo, forjada con una combinaci
 En la superficie superior, sobre un precinto holográfico intacto, parpadeaba una única etiqueta oficial:  
 *«DESTINATARIO: EXCMO. EMBAJADOR GEVALARSK NOR - EMBAJADA DE EOX, ESTACIÓN ABSALÓN. CARGA DIPLOMÁTICA CLASIFICADA. PROHIBIDA SU APERTURA.»*
 
-Benray se frotó los bigotes con perplejidad, alumbrando la caja con su linterna:
+Benrey se frotó los bigotes con perplejidad, alumbrando la caja con su linterna:
 
 —Bueno, bueno... El señor embajador dijo que era una «pequeña encomienda personal». Pero esto tiene la forma, las medidas y la decoración exacta de un ataúd de lujo.
 
@@ -67,7 +67,7 @@ Pero apenas Triel y Gerty dieron el primer paso sobre el suelo de la cabina, el 
 
 Tres rejillas de ventilación y paneles de mantenimiento del suelo reventaron hacia arriba despedidas por la fuerza bruta de tres bestias adultas que aguardaban emboscadas en los conductos inferiores. Eran ejemplares enormes, liderados por un Akata alfa de piel cenicienta y cornamenta rugosa que bramó en el vacío abriendo unas fauces descomunales.
 
-—¡Emboscada! ¡Están dentro de la consola! —chilló Benray.
+—¡Emboscada! ¡Están dentro de la consola! —chilló Benrey.
 
 El Akata más veloz se abalanzó directamente contra Gerty, descargando una andanada furiosa de zarpazos y mordiscos contra las articulaciones del meca. El blindaje frontal del autómata crujió bajo la presión desmedida: los circuitos chisporrotearon violentamente y el meca colapsó sobre sus rodillas metálicas, apagando sus focos principales tras sufrir un colapso catastrófico en su núcleo de potencia.
 
@@ -83,7 +83,7 @@ Marloc Boosmar intentó realizar una maniobra evasiva para ganar ángulo de tiro
 
 El impacto fue salvaje: la fuerza trituradora de las mandíbulas sacudió el cuerpo de Marloc de un golpe, arrancándole un grito ahogado. Los colmillos cristalinos desgarraron el tejido de su mono reforzado, perforaron la armadura interna y se clavaron profundamente en la carne viva del muslo. Una alarma roja de fuga atmosférica comenzó a silbar estridentemente en el traje de Marloc, mientras una llamarada de dolor abrasador le nublaba la vista.
 
-—¡Marloc! —gritó Benray por la radio, retrocediendo hacia la puerta para enfilar su fusil—. ¡Aguante, profesor! ¡Piense en Ángela, no nos deje ahora!
+—¡Marloc! —gritó Benrey por la radio, retrocediendo hacia la puerta para enfilar su fusil—. ¡Aguante, profesor! ¡Piense en Ángela, no nos deje ahora!
 
 Con la vehemencia y el coraje inquebrantable que siempre contagiaba a sus compañeros, el bramido del pequeño ysoki actuó como una inyección de pura adrenalina sobre el ánimo del tecnomante, disipando el estupor del impacto y devolviéndole la entereza para resistir la embestida.
 
@@ -95,7 +95,7 @@ El disparo a quemarropa fue ensordecedor a través del contacto físico de las a
 
 —¡Cinco pulgadas más a la derecha y me vuelas la cabeza a mí, Marloc! —espetó la androide, retrocediendo un paso mientras se limpiaba el viscoso fluido alienígena del visor.
 
-El tercer Akata, acorralado junto a la silla del capitán, intentó saltar sobre Triel, pero Benray arrojó su última granada de salmuera presurizada con puntería magistral: *¡BUM!* La nube salina cubrió a la criatura por completo, licuándole el pecho mientras Willy y Naru la remataban a tiros de carabina entre vítores histéricos.
+El tercer Akata, acorralado junto a la silla del capitán, intentó saltar sobre Triel, pero Benrey arrojó su última granada de salmuera presurizada con puntería magistral: *¡BUM!* La nube salina cubrió a la criatura por completo, licuándole el pecho mientras Willy y Naru la remataban a tiros de carabina entre vítores histéricos.
 
 El silencio volvió a caer sobre el puente de mando. En el suelo, entre fragmentos humeantes de consolas y casquillos, los tres Akatas yacían reducidos a charcos de barro azul y piedra pulverizada.
 
@@ -129,7 +129,7 @@ Triel se frotó los brazos, mirando con aprensión los restos disueltos de las b
 
 —Les juro que jamás en mi vida había visto aberraciones del vacío como esas... En los talleres de la estación uno escucha historias de corsarios o monstruos mitológicos, pero tener a esas cosas saltando a tu cuello con tentáculos y saliva parasitaria... Eso te cambia para siempre. A partir de hoy, los Akatas encabezan oficialmente el puesto número uno en mi lista de peores pesadillas.
 
-Benray soltó una risita nerviosa, sacudiendo sus bigotes mientras lanzaba una mirada involuntaria hacia la popa, donde descansaba el ataúd de Eox:
+Benrey soltó una risita nerviosa, sacudiendo sus bigotes mientras lanzaba una mirada involuntaria hacia la popa, donde descansaba el ataúd de Eox:
 
 —Bueno, yo te cambio cien akatas por un solo muerto viviente de esos que no descansan en paz. Estar en la embajada de Eox, rodeado de esos diplomáticos cadavéricos de ojos llameantes y zombis con levita que te sonríen como si fueras un aperitivo... Eso sí que me heló la sangre. Los *undead* y ese maldito planeta marchito me provocan un pavor que ni diez cargadores de plasma pueden calmar.
 
@@ -141,7 +141,7 @@ Axel permaneció inmóvil frente a la pantalla de mando. Sus ojos dorados reflej
 
 —Ustedes temen a los monstruos del cosmos o a los muertos sin descanso... Mi mayor temor es mucho más terrenal y calculable.
 
-Triel y Benray la miraron en silencio. La androide bajó la mirada hacia sus manos articuladas de aleación blanca:
+Triel y Benrey la miraron en silencio. La androide bajó la mirada hacia sus manos articuladas de aleación blanca:
 
 —Mi primer recuerdo consciente al despertar en este chasis no fue una cuna ni una familia orgánica. Fue el polvo asfixiante de una mina de asteroides, una pala colocada a la fuerza entre mis dedos y una orden tajante de los capataces corporativos: trabajar y callar. Nací siendo una esclava minera en un cuerpo adulto que ya estaba condenado al trabajo forzado. Durante años, mi único algoritmo de existencia consistió en no morir hoy.
 

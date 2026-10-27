@@ -11,7 +11,7 @@ Tras resolver la crisis de la *Roca del Drift*, la tripulación disfruta de un b
 * **Domo Horizonte:** Colosal estadio de espectáculos en el Ojo de Absalón, dotado de cúpula estelar holográfica y resonadores sónicos. Es el escenario del multitudinario concierto de Syd Velch, que culmina en un motín psíquico general.
 * **Jardín de Cenizas:** Solemne parque memorial de Absalón donde reposan monumentos conmemorativos a los caídos del espacio. Allí se celebra el funeral formal en memoria de Marlene Boosmar.
 * **Club 13:** Popular establecimiento en los límites entre el Anillo y la Espiga, donde tiene lugar la recepción póstuma y el brindis de despedida de los estibadores y mineros de Hardscrabble antes de zarpar hacia Castrovel.
-* **Muelle 94 y la Fragata Estrella Errante:** La nave comercial de pasajeros y carga ligera en la que el equipo zarpa rumbo a Castrovel cruzando el hiperespacio del Drift, escenario de las emotivas despedidas de Triel con León y de Benray con su primo menor.
+* **Muelle 94 y la Fragata Estrella Errante:** La nave comercial de pasajeros y carga ligera en la que el equipo zarpa rumbo a Castrovel cruzando el hiperespacio del Drift, escenario de las emotivas despedidas de Triel con León y de Benrey con su primo menor.
 
 ### El Planeta Castrovel
 El segundo planeta del sistema solar de los Mundos del Pacto, un orbe verde rebosante de vida exuberante, telepatía natural y misterios ancestrales:
@@ -34,7 +34,7 @@ De piel grisácea con destellos lila, cabellos blancos y ojos carmesíes. En est
 *Dron de Combate y Soporte Pesado (Voz: Roberto)*  
 Meca bípedo de dos metros dotado de cuatro brazos mecánicos y pica de choque. Custodia a Triel en cada incursión y responde con eficacia blindada ante los asaltos en la cantina portuaria y los conductos del laboratorio, manteniendo su cómica desconfianza hacia las intrusiones repentinas y custodiando la nave junto a los goblins en Shin'Kari.
 
-### Benray Galway
+### Benrey Galway
 *Emisario Ysoki (Jugador: Miguel)*  
 Orador infatigable, estrella mediática de la infosfera y superviviente nato. En este volumen brilla con luz propia: enfrenta el peso de su pasado en el Muelle 94 cuando su primo le pide no volver a abandonar a su familia, decora su camarote con su placa agrietada de un millón de suscriptores, desata el «mosh pit de la rata» en el concierto de Syd Velch, increpa en triaxiano a la Legión del Fuego en el Cielo recordando su código de honor, viste la armadura *Lashunta Temp-weave* y protagoniza la memorable distracción en el archivo universitario con la muñeca Annabelle.
 
@@ -112,7 +112,7 @@ Psicópata despiadado que escolta a los secuestradores de Solstarni. Enloqueció
 
 ### Waluss
 *Archivista del Ala Oeste de la Universidad de Qabarat*  
-Bibliotecario estirado y xenófobo que protagoniza una hilarante trifulca en el suelo con Benray disputándose la muñeca Annabelle, siendo posteriormente obligado por la decana Muhali a disculparse y a asistir a cursos de tolerancia.
+Bibliotecario estirado y xenófobo que protagoniza una hilarante trifulca en el suelo con Benrey disputándose la muñeca Annabelle, siendo posteriormente obligado por la decana Muhali a disculparse y a asistir a cursos de tolerancia.
 
 ### Éclair
 *Veterano Androide de Absalón y Mentor Espiritual de Axel 42*  
@@ -128,7 +128,7 @@ Compañera inseparable de Éclair y adiestradora de combate de Axel. Arrasada po
 
 ### Willy y Naru (Los Amigoblins)
 *Goblins Espaciales Reubicados en Absalón*  
-Náufragos rescatados del *Acreon*. Tras acampar con su prole en la sala de máquinas del *Hippocampus*, Benray y Marloc los convencen de mudarse con todo su clan a la patrulla artillada del Oficial León Holden en el Muelle 34 («el gran protector de los goblins»). Quedan custodiados en la estación espacial, dejando la sala de máquinas de la *Estrella Errante* limpia y operativa para la expedición a Castrovel.
+Náufragos rescatados del *Acreon*. Tras acampar con su prole en la sala de máquinas del *Hippocampus*, Benrey y Marloc los convencen de mudarse con todo su clan a la patrulla artillada del Oficial León Holden en el Muelle 34 («el gran protector de los goblins»). Quedan custodiados en la estación espacial, dejando la sala de máquinas de la *Estrella Errante* limpia y operativa para la expedición a Castrovel.
 
 ---
 

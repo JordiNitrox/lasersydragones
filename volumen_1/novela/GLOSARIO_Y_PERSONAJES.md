@@ -41,7 +41,7 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 - **Apariencia:** Treinta y pocos años, tez morena, cabello largo peinado cuidadosamente hacia atrás y un pulcro mostacho que recuerda al villano de época interpretado por Aidan Gillen. Su brazo izquierdo es enteramente cibernético, una compleja obra de ingeniería repleta de filamentos conductores. A diferencia de los académicos desaliñados del Arcanamirium, Marloc viste con elegancia: traje a medida, gabán y corbata impecable.
 - **Rasgos:** Intelectual, atormentado por visiones cósmicas y un pasado fragmentado. Tras despertar en un aula vacía del Arcanamirium habiendo tocado un artefacto rúnico dorado, descubre que no figura en ninguna base de datos de la estación. Su parecido con Marlene Boosmar y el enigma de su vinculación con Ambrose Boosmar constituyen uno de los misterios centrales de su destino.
 
-### Benray Galway
+### Benrey Galway
 - **Especie:** Ysoki (hombre-rata).
 - **Rol:** Emisario (*Envoy*) y negociador callejero.
 - **Apariencia:** Menudo (alrededor de 1,35 m de altura), pelaje blanco níveo que evoca a un sofisticado ratón de laboratorio, con una distintiva mancha de pelo negro alrededor de los ojos a modo de antifaz natural. Orejas perforadas con múltiples aretes metálicos, pantalones cargo repletos de bolsillos y una gabardina adaptada.
@@ -63,11 +63,11 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 - **Apariencia:** Insectoide sabio de metro y medio, con exoesqueleto quitinoso de tono ámbar oscuro, cuatro patas esbeltas, brazos manipuladores auxiliares cerca del cuello, largas antenas sensoriales y grandes ojos compuestos negros. Viste túnicas ejecutivas con el logotipo de Inversiones Estelares S.C.
 - **Rasgos:** Empático, prudente y sereno. Se comunica exclusivamente mediante telepatía directa. Calma la mente atribulada de Marloc y valida los datos recuperados de Marlene, contratando al grupo como peritos independientes con legitimidad y salvoconducto ante el Consejo de Síndicos para investigar el *Acreon*.
 
-### Rim Rey (el primo de Benray)
+### Rim Rey (el primo de Benrey)
 - **Especie:** Ysoki.
-- **Rol:** Mecánico callejero, confidente y primo hermano de Benray.
+- **Rol:** Mecánico callejero, confidente y primo hermano de Benrey.
 - **Apariencia:** Ysoki rechoncho de pelaje castaño claro y hocico curioso, siempre manchado de lubricante y masticando pinchos de insectos fritos.
-- **Rasgos:** Ruidoso, solidario y cómplice de las aventuras de Benray. Es el dueño de la maltrecha motoneta espacial de dos ruedas que Benray toma prestada habitualmente y el primer enlace del grupo en los monobloques del Anillo.
+- **Rasgos:** Ruidoso, solidario y cómplice de las aventuras de Benrey. Es el dueño de la maltrecha motoneta espacial de dos ruedas que Benrey toma prestada habitualmente y el primer enlace del grupo en los monobloques del Anillo.
 
 ### Marlene Boosmar
 - **Especie:** Humana.
@@ -99,7 +99,7 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 ### Thalud
 - **Especie:** Dragonkin.
 - **Rol:** Veterano guerrero de Triaxus y custodio del reservado VIP del Club 13.
-- **Rasgos:** Imponente gigante escamoso de cresta dorada y mirada penetrante. Habla la lengua dracónica ancestral y conoce el turbio pasado de Benray en las colonias glaciares de Triaxus. Actúa como confidente y guardián de secretos en los bajos fondos.
+- **Rasgos:** Imponente gigante escamoso de cresta dorada y mirada penetrante. Habla la lengua dracónica ancestral y conoce el turbio pasado de Benrey en las colonias glaciares de Triaxus. Actúa como confidente y guardián de secretos en los bajos fondos.
 
 ### Eclair
 - **Especie:** Androide.
@@ -114,7 +114,7 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 - Joven aprendiz lashunta de mecánica naval en los muelles de atraque de Absalón. Amigo de videojuegos de carreras espaciales de Triel; fue quien le recomendó buscar trabajo en el Arcanamirium y visitar el Club 13.
 
 ### Marcelo
-- Contacto y camarada ysoki de Benray Galway en los monobloques del Anillo. Fue quien despertó a Benray en su camarote con las primicias sobre la llegada del carguero *Acreon*.
+- Contacto y camarada ysoki de Benrey Galway en los monobloques del Anillo. Fue quien despertó a Benrey en su camarote con las primicias sobre la llegada del carguero *Acreon*.
 
 ### Kallio
 - Francotirador profesional drow de sangre fría, asesino a sueldo de élite contratado en secreto por Extracciones Estelares para abatir a Marlene Boosmar en el Muelle 94.

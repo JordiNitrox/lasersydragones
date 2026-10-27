@@ -4,7 +4,7 @@
 
 En el vacío absoluto, el sonido no existe.
 
-Cuando las botas magnéticas de Axel 42 hicieron contacto con la rejilla metálica del hangar de estribor del *Acreon*, el impacto no produjo ningún estruendo aéreo, sino una vibración sorda que ascendió a través de las suelas de su armadura hasta el receptor de audio de su En el interior del carguero minero estaba completamente a oscuras, iluminado únicamente por los potentes haces de las linternas tácticas montadas sobre los hombros de Gerty y los fusiles de la tripulación. Detrás de ellos, dos pequeños artefactos sobrevolaban la escena en silencio: el dron diplomático de Eox, cuyo ojo verde grababa con fría perseverancia, y la microcámara deportiva de Marcellus que Benray llevaba orientada hacia el pasillo. El frío del espacio profundo impregnaba cada centímetro de metal: finas capas de escarcha blanca cubrían los mamparos y en el aire enrarecido flotaban pequeñas esferas de refrigerante congelado y virutas de metal que bailaban como motas de polvo estelar al paso de los exploradores.
+Cuando las botas magnéticas de Axel 42 hicieron contacto con la rejilla metálica del hangar de estribor del *Acreon*, el impacto no produjo ningún estruendo aéreo, sino una vibración sorda que ascendió a través de las suelas de su armadura hasta el receptor de audio de su En el interior del carguero minero estaba completamente a oscuras, iluminado únicamente por los potentes haces de las linternas tácticas montadas sobre los hombros de Gerty y los fusiles de la tripulación. Detrás de ellos, dos pequeños artefactos sobrevolaban la escena en silencio: el dron diplomático de Eox, cuyo ojo verde grababa con fría perseverancia, y la microcámara deportiva de Marcellus que Benrey llevaba orientada hacia el pasillo. El frío del espacio profundo impregnaba cada centímetro de metal: finas capas de escarcha blanca cubrían los mamparos y en el aire enrarecido flotaban pequeñas esferas de refrigerante congelado y virutas de metal que bailaban como motas de polvo estelar al paso de los exploradores.
 
 Triel avanzó con el rifle en guardia, sintiendo la extraña ligereza de sus diecinueve años amortiguada por el lastre de los generadores magnéticos de sus botas:
 
@@ -12,7 +12,7 @@ Triel avanzó con el rifle en guardia, sintiendo la extraña ligereza de sus die
 
 —*Sensores operativos* —respondió la voz metálica del dron directamente en los auriculares del equipo—. *Atmósfera exterior: presión cero. Temperatura: noventa Kelvin. Ausencia total de ventilación o sistemas de filtrado. Aviso: detecto una perturbación cinética en el cuadrante oriental de las pasarelas superiores.*
 
-Benray se agachó tras un contenedor de herramientas industriales abollado. A través de la visera de su escafandra adaptada para orejas de ysoki, sus ojos negros escudriñaban la penumbra con nerviosismo felino:
+Benrey se agachó tras un contenedor de herramientas industriales abollado. A través de la visera de su escafandra adaptada para orejas de ysoki, sus ojos negros escudriñaban la penumbra con nerviosismo felino:
 
 —Miren allá arriba, en las vigas del techo... Entre las cajas de transporte. Hay algo que no es chatarra.
 
@@ -42,7 +42,7 @@ La bestia ni siquiera aminoró la caída. Chocó contra la cubierta a tres metro
 
 El meca de dos metros alzó sus dos brazos superiores principales y desató una ráfaga devastadora con su cañón láser rotatorio. Los haces de luz escarlata perforaron el hombro y el flanco de la bestia, haciendo retroceder al Akata mientras el monstruo rugía en una frecuencia inaudible, agitando sus tentáculos sensoriales con furia enloquecida.
 
-Al mismo tiempo, desde la penumbra del fondo del hangar, una segunda silueta cuadrúpeda emergió de entre las sombras de las cajas de carga, saltando sobre los palés con intenciones asesinas hacia Benray.
+Al mismo tiempo, desde la penumbra del fondo del hangar, una segunda silueta cuadrúpeda emergió de entre las sombras de las cajas de carga, saltando sobre los palés con intenciones asesinas hacia Benrey.
 
 —¡A mí no me hincas los dientes, bicho feo! —chilló el ysoki por la radio, activando los amortiguadores de sus botas para dar un salto lateral y desenfundar su fusil con la destreza de un acróbata.
 
@@ -54,7 +54,7 @@ Axel dio dos zancadas rápidas hacia adelante, desenfundó su cuchillo táctico 
 
 El Akata se convulsionó por última vez antes de quedar completamente inerte, flotando con las patas agarrotadas en el vacío.
 
-A pocos metros, el segundo depredador, herido de muerte por los misiles mágicos de Marloc y los disparos certeros de Benray, se desplomó pesadamente sobre las rejillas de la esclusa.
+A pocos metros, el segundo depredador, herido de muerte por los misiles mágicos de Marloc y los disparos certeros de Benrey, se desplomó pesadamente sobre las rejillas de la esclusa.
 
 El silencio volvió a adueñarse del hangar. Cuatro respiraciones agitadas resonaron al unísono por los canales de los intercomunicadores.
 
@@ -74,7 +74,7 @@ Mientras Axel asistía a la joven, Marloc se arrodilló junto a los restos de la
 
 —Increíble... Miren la composición molecular de estos capullos. No es roca silícea ordinaria. Es **Noqual puro**. El *metal de las estrellas*.
 
-Benray dio un salto en gravedad cero, sujetándose a una barandilla con los ojos muy abiertos:
+Benrey dio un salto en gravedad cero, sujetándose a una barandilla con los ojos muy abiertos:
 
 —¿Noqual? ¿El mineral metamágico que absorbe la radiación y potencia los blindajes pesados? ¿Cuánto vale eso, profesor?
 
@@ -94,7 +94,7 @@ En ese instante, una serie de vibraciones rítmicas resonó a través de las sue
 
 Un chirrido espeluznante de garras afiladas raspando el interior de los conductos de ventilación recorrió los mamparos superiores. En la oscuridad del pecio, algo grande y hambriento los estaba escuchando.
 
-Benray amartilló su fusil con decisión:
+Benrey amartilló su fusil con decisión:
 
 —Bueno, muchachos... El hangar está asegurado. Ahora entramos hasta la cocina.hasquido seco y miró hacia la puerta de acceso interior que parpadeaba con una débil luz de emergencia:
 

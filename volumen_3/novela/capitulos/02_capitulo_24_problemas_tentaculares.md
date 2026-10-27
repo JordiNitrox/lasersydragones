@@ -6,7 +6,7 @@ Tras el enfrentamiento con Clara-247, el aire en el canal de comunicaciones del 
 
 Axel examinó el rifle de francotirador confiscado a la mercenaria. El arma era una obra maestra de balística táctica: un rifle de ánima rayada de aleación pesada, con culata retráctil de polímero negro y un cargador rotatorio diseñado para operar sin fricción en el vacío absoluto. La androide ajustó la correa a su hombro y calibró la mira telescópica holográfica directamente con sus implantes oculares; a partir de ese momento, bastaría un parpadeo para fijar un objetivo a más de doscientos metros de distancia.
 
-—¿Estás lista para avanzar, Axel? —preguntó Benray, que terminaba de asegurar el dron de grabación sobre su hombrera mientras flotaba en ángulo sobre una saliente de basalto.
+—¿Estás lista para avanzar, Axel? —preguntó Benrey, que terminaba de asegurar el dron de grabación sobre su hombrera mientras flotaba en ángulo sobre una saliente de basalto.
 
 —Mi integridad estructural se mantiene al ochenta y cinco por ciento —respondió la androide, deslizando el cerrojo del rifle con un chasquido metálico impecable—. Procedamos.
 
@@ -18,7 +18,7 @@ Empotrados directamente en las paredes de piedra, asomaban paneles lisos de una 
 
 —Tecnología pre-Brecha —afirmó Marloc, cuyos sensores arcanos registraban débiles oscilaciones electromagnéticas mezcladas con residuos de transmutación mágica—. Los cuadernos de Marlene Boosmar hablaban de estructuras similares en sus notas sobre el Vasto exterior. Civilizaciones que dominaban la materia a escalas moleculares antes de que los Mundos del Pacto aprendieran a fundir el hierro.
 
-—Todo eso es fascinante a nivel académico, profesor —intervino Benray, señalando hacia el fondo de la galería con la linterna táctica—, pero sugiero que reservemos las tesis doctorales para la vuelta. Porque lo que sea que esté esperándonos al final del pasillo... no tiene pinta de querer matricularse en su facultad.
+—Todo eso es fascinante a nivel académico, profesor —intervino Benrey, señalando hacia el fondo de la galería con la linterna táctica—, pero sugiero que reservemos las tesis doctorales para la vuelta. Porque lo que sea que esté esperándonos al final del pasillo... no tiene pinta de querer matricularse en su facultad.
 
 ***
 
@@ -46,7 +46,7 @@ Gerty reaccionó al instante. El meca interpuso sus dos escudos frontales de ale
 
 El zombi lanzó un latigazo con su apéndice azulado. El tentáculo golpeó el hombro mecánico de Gerty con una violencia atroz; aunque el dron era inmune al drenaje de fuerza biológica, la sacudida arrancó un perno de su chasis superior, dejando al meca flotando en barrena en mitad del túnel.
 
-—¡Fuego de apoyo! —ordenó Benray, que ya había activado la grabación holográfica de su dron de retransmisión mientras flotaba boca abajo en el techo—. ¡Willy, Naru, acaben con esa pesadilla de pescadera!
+—¡Fuego de apoyo! —ordenó Benrey, que ya había activado la grabación holográfica de su dron de retransmisión mientras flotaba boca abajo en el techo—. ¡Willy, Naru, acaben con esa pesadilla de pescadera!
 
 Los dos goblins no se hicieron de rogar. Asomando sus cabezas bulbosas tras una saliente, descargaron sus pistolas improvisadas con una puntería inesperadamente feroz. Los proyectiles perforaron el muslo y el costado del zombi, arrancando fragmentos de carne seca que flotaron en el vacío como confeti macabro.
 
@@ -74,11 +74,11 @@ Durante unos segundos, lo único que se escuchó fue el silbido del soporte vita
 
 La reparación tomó media hora de minucioso trabajo en gravedad cero. Con la asistencia de Marloc, que utilizó pequeñas descargas estáticas de tecnomagia para alinear los circuitos quemados de la placa madre del meca, Gerty recuperó la movilidad plena en sus cuatro extremidades mecánicas.
 
-Mientras Triel terminaba de ajustar los últimos cables, Benray y Axel revisaron el datapad con el manifiesto oficial del *Acreon* para tachar con pesar el nombre de Aravat de la lista de supervivientes. Luego, el bardo inspeccionó el material grabado por su dron flotante:
+Mientras Triel terminaba de ajustar los últimos cables, Benrey y Axel revisaron el datapad con el manifiesto oficial del *Acreon* para tachar con pesar el nombre de Aravat de la lista de supervivientes. Luego, el bardo inspeccionó el material grabado por su dron flotante:
 
 —Debo admitir, querida tripulación, que las tomas de combate son absolutamente cinematográficas. La entrada de Axel deslizándose por la pared, el rayo destructor de Triel... Aunque tendré que pedirle a mi editor en Absalón que recorte los tres minutos en los que me quedé atascado de espaldas intentando no vomitar en el visor. La épica espacial tiene sus exigencias de imagen.
 
-—El día que te calles cinco minutos seguidos, Benray —murmuró Axel mientras recargaba el rifle—, mandaré a revisar tus funciones vitales por si has sufrido muerte cerebral.
+—El día que te calles cinco minutos seguidos, Benrey —murmuró Axel mientras recargaba el rifle—, mandaré a revisar tus funciones vitales por si has sufrido muerte cerebral.
 
 —Eso es amor de equipo, mi querida androide, pura química laboral.
 

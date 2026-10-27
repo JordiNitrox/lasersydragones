@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Benray y Axel detectan una conspiración de sindicatos del crimen que buscan asaltar la cámara del tesoro de Kairos.
+Benrey y Axel detectan una conspiración de sindicatos del crimen que buscan asaltar la cámara del tesoro de Kairos.
 
 ---
 

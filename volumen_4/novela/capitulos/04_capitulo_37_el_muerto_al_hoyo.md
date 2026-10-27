@@ -30,7 +30,7 @@ Marloc Boosmar contempló la marcha de la viuda con el pecho oprimido. Triel pos
 
 —Tiene que saber quién soy —respondió Marloc con voz apagada—. No pude despedirme de ella en mi universo... no volveré a cometer el mismo error.
 
-Mientras Marloc y Triel subían las escaleras hacia el mirador superior —un bar semicircular con vistas al anillo exterior donde Ángela ya había pedido una botella entera de whisky—, Benray Galway se deslizó con rapidez hacia el fondo del templo. Allí, recibiendo condolencias formales con cortesía mecánica, se encontraban Ambrose y Olivia Boosmar.
+Mientras Marloc y Triel subían las escaleras hacia el mirador superior —un bar semicircular con vistas al anillo exterior donde Ángela ya había pedido una botella entera de whisky—, Benrey Galway se deslizó con rapidez hacia el fondo del templo. Allí, recibiendo condolencias formales con cortesía mecánica, se encontraban Ambrose y Olivia Boosmar.
 
 —Profesor Ambrose, señora Olivia —intervino el ysoki con insólita seriedad, inclinando sus orejas en señal de respeto—. Lamento interrumpir, pero en el segundo piso está la señorita Ángela con nuestro colega, el profesor Marloc. Hay algo crucial sobre Marlene que les concierne a los dos... Les ruego que nos acompañen.
 
@@ -52,7 +52,7 @@ La copa tembló entre los dedos de la viuda. La pequeña esfera oscura tras su e
 
 —¿De qué se burla? ¿Quién demonios es usted?
 
-En ese instante, Benray, Triel, Axel y los padres de Marlene alcanzaron la cima de las escaleras. Al ver la agitación de la mujer, Benray alzó las manos con diplomacia:
+En ese instante, Benrey, Triel, Axel y los padres de Marlene alcanzaron la cima de las escaleras. Al ver la agitación de la mujer, Benrey alzó las manos con diplomacia:
 
 —¡Tranquilos todos! Señora Ángela, escuche al profesor Marloc. Nadie viene a burlarse de su dolor.
 

@@ -24,9 +24,9 @@ Luego, Seris se volvió hacia Triel, inclinando la cabeza con respeto:
 
 —Señorita Istrav... Conozco a muchos corsarios drow, pero la inmensa mayoría sirven a los linajes nobles de Apostae. Para una semi-drow, abrirse paso entre los Capitanes Libres por mérito propio exige el doble de agallas. Es un orgullo tenerla a bordo.
 
-—Y el señor Benray Galway —añadió Seris, estrechando la pata del ysoki con una carcajada—. He visto sus vídeos acrobáticos en la red; hay que tener propulsores de acero para lanzarse al vacío como usted lo hace. Díganme, ¿la señorita George ya intentó dorarles la píldora en sus torres con su cesta de jaboncitos y pases de cine de los jueves?
+—Y el señor Benrey Galway —añadió Seris, estrechando la pata del ysoki con una carcajada—. He visto sus vídeos acrobáticos en la red; hay que tener propulsores de acero para lanzarse al vacío como usted lo hace. Díganme, ¿la señorita George ya intentó dorarles la píldora en sus torres con su cesta de jaboncitos y pases de cine de los jueves?
 
-—La cesta se quedó en el hotel, capitán —guiñó Benray—. Nuestro juicio no se compra con lavanda sintética.
+—La cesta se quedó en el hotel, capitán —guiñó Benrey—. Nuestro juicio no se compra con lavanda sintética.
 
 El oficial León de los Protectores dio un paso al frente, ajustándose los guantes reglamentarios con ademán sobrio:
 
@@ -53,7 +53,7 @@ En la sala de máquinas, Triel y Gerty sincronizaron el reactor de plasma. Con s
 En el puente de mando, la tripulación se distribuyó formalmente en sus puestos de combate naval:
 * **A.Xel 42** ocupó el sillón central del timonel principal: sus reflejos sintéticos y precisión milimétrica la convertían en la piloto perfecta.
 * **Triel Istrav** tomó la estación de ingeniería superior: encargada de redistribuir energía del reactor, remendar escudos y reparar averías críticas en pleno vuelo.
-* **Benray Galway** se ajustó los auriculares en la consola de táctica y comunicaciones: listo para coordinar órdenes, arengar al equipo y emitir directivas de combate.
+* **Benrey Galway** se ajustó los auriculares en la consola de táctica y comunicaciones: listo para coordinar órdenes, arengar al equipo y emitir directivas de combate.
 * **Marloc Boosmar y Gerty** asumieron el control de artillería en la torreta ventral: sincronizando sus miras telemétricas con el cañón láser doble de alta potencia.
 
 El capitán Otal Seris subió a la pasarela una última vez para insertar un chip de navegación en la ranura de comunicaciones:
@@ -78,6 +78,6 @@ Triel levantó la vista de la consola de sensores con los ojos abiertos de par e
 
 —¡Axel, a estribor! ¡Una corbeta interceptora acaba de salir del ángulo muerto de un carguero desguazado! ¡Tiene los reactores militares al cien por cien y sus baterías láser están encendidas y apuntándonos a la cabina!
 
-Benray saltó sobre su asiento, aferrando el comunicador táctico:
+Benrey saltó sobre su asiento, aferrando el comunicador táctico:
 
 —¡Maldita sea! ¡Alerta roja general! ¡Nos están cerrando el paso al espacio abierto!

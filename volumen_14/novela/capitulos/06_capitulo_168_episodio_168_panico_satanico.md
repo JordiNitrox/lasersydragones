@@ -14,7 +14,7 @@ Las columnas y los parapetos de hormigón estaban cubiertos de una desconcertant
 
 —*«Vivo en la oscuridad por siempre... El vacío y la esencia...»* —leyó Triel en un susurro incrédulo, apuntando con el foco de su armadura—. ¿Los cultistas están decorando su búnker con la discografía de Syd Velch?
 
-—Pánico satánico en estado puro —murmuró Benray, sacudiendo los bigotes con perplejidad—. Es como si un puñado de adolescentes nihilistas hubieran mezclado un club de fans de rock glam con un culto de aniquilación interestelar. 
+—Pánico satánico en estado puro —murmuró Benrey, sacudiendo los bigotes con perplejidad—. Es como si un puñado de adolescentes nihilistas hubieran mezclado un club de fans de rock glam con un culto de aniquilación interestelar. 
 
 Zivok, el veterano comandante que marchaba junto a ellos con el peso de su blindaje militar, inspeccionó el campamento del nivel inferior con repugnancia. Entre los restos de raciones y cenizas de hogueras apagadas, los símbolos del Devorador parecían burdas imitaciones... a excepción de un círculo ritual en el centro exacto de la estancia, donde un cráneo pulido descansaba sobre runas trazadas con precisión milimétrica.
 
@@ -68,7 +68,7 @@ Bajo su imagen, escrita con trazos de tiza firmes y desgarradores, figuraba una 
 
 # **«¿Cuál es mi nombre?»**
 
-Benray subió al borde de la litera para ponerse a la altura de Axel, posando sus pequeñas garras en el hombro de la androide:
+Benrey subió al borde de la litera para ponerse a la altura de Axel, posando sus pequeñas garras en el hombro de la androide:
 
 —Todavía está esperando que tú le pongas un nombre, Axel...
 

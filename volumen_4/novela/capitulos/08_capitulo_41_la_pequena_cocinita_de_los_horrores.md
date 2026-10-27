@@ -10,7 +10,7 @@ Sophie Ren aparcó su pequeño coche turquesa entre dos camiones de transporte d
 
 —Bienvenidos a los Cinco Arcos —anunció la estudiante, bajando el volumen de su comunicador mientras guiaba al grupo por una pasarela de tablones húmedos—. En el campus dicen que si buscas algo que el senado lashunta haya declarado ilegal, impuro o simplemente demasiado divertido, este es el único lugar donde puedes encontrarlo por menos de cincuenta créditos.
 
-—A mí me parece un paraíso gastronómico —declaró Benray Galway, olfateando el aire con sus largos bigotes vibrando hacia un puesto donde un kasatha doraba brochetas de insectos gigantes con un soplete de plasma—. El olor a aceite recalentado y especias de la cuenca fluvial le devuelve la alegría al corazón de cualquier roedor que se respete.
+—A mí me parece un paraíso gastronómico —declaró Benrey Galway, olfateando el aire con sus largos bigotes vibrando hacia un puesto donde un kasatha doraba brochetas de insectos gigantes con un soplete de plasma—. El olor a aceite recalentado y especias de la cuenca fluvial le devuelve la alegría al corazón de cualquier roedor que se respete.
 
 —Mantengan la guardia en alto —advirtió Axel 42, con la mano apoyada discretamente sobre la funda de su pistola láser bajo la cazadora de viaje—. Mis escáneres detectan una densidad anormal de comunicadores con frecuencias militares encriptadas en este sector. No somos los únicos forasteros armados en estos muelles.
 
@@ -48,9 +48,9 @@ En su muñeca izquierda lucía un brazalete de cobre grabado con las iniciales q
 
 El pelotón avanzó con paso firme hacia el reservado.
 
-Benray se deslizó en el banco frente al lashunta con una sonrisa afable y desarmante, mientras Axel y Triel se apostaban a ambos lados del pasillo, bloqueando discretamente cualquier intento de huida:
+Benrey se deslizó en el banco frente al lashunta con una sonrisa afable y desarmante, mientras Axel y Triel se apostaban a ambos lados del pasillo, bloqueando discretamente cualquier intento de huida:
 
-—Buenas tardes, amigo —dijo Benray en tono confidencial, apoyando los codos sobre la mesa pegajosa—. ¿**Tuwanas En**, supongo?
+—Buenas tardes, amigo —dijo Benrey en tono confidencial, apoyando los codos sobre la mesa pegajosa—. ¿**Tuwanas En**, supongo?
 
 El lashunta dio un respingo tan violento que derramó parte de su aguardiente sobre la mesa. Sus pupilas se dilataron con pánico mientras sus manos se cerraban bajo el tablero:
 
@@ -86,6 +86,6 @@ El líder del escuadrón, un imponente guerrero ryphoriano de ojos felinos y cre
 
 Willing soltó su sartén, agachándose tras la barra metálica con un chillido mecánico, mientras los parroquianos se arrojaban al suelo en medio del pánico.
 
-Triel miró a Benray y a Marloc. Una sonrisa feroz y desafiante se dibujó en los labios de la semi-drow mientras deslizaba la palanca de su rifle láser al modo de máxima sobrecarga:
+Triel miró a Benrey y a Marloc. Una sonrisa feroz y desafiante se dibujó en los labios de la semi-drow mientras deslizaba la palanca de su rifle láser al modo de máxima sobrecarga:
 
 —Mala suerte, lagartos espaciales... Nosotros lo vimos primero.

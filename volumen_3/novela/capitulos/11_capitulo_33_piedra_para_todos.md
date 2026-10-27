@@ -12,7 +12,7 @@ Al pie del estrado, de pie junto a la barandilla de los testigos, se hallaba el 
 
 —Espero que se comporten con profesionalismo —advirtió León con severidad marcial, esforzándose visiblemente por no mirar a Triel—. O al menos lo más cercano a ello que les sea posible.
 
-—Ay, señor León, pero si ya estamos aquí... —replicó Benray abriendo los brazos con dramatismo inocente—. Acabamos de salir con vida de una nave maldita. Hoy seremos unos santos.
+—Ay, señor León, pero si ya estamos aquí... —replicó Benrey abriendo los brazos con dramatismo inocente—. Acabamos de salir con vida de una nave maldita. Hoy seremos unos santos.
 
 León se frotó la frente con un suspiro contenido:
 
@@ -22,13 +22,13 @@ León se frotó la frente con un suspiro contenido:
 
 —Intente no convertir esta actividad en un circo. Como casi seguro que va a ocurrir.
 
-—Trato hecho —concluyó Benray, guiñándole un ojo con absoluta desfachatez.
+—Trato hecho —concluyó Benrey, guiñándole un ojo con absoluta desfachatez.
 
 La jueza Keltrosho golpeó el bloque de resonancia con dos de sus mazos ceremoniales, y un silencio instantáneo cayó sobre la asamblea:
 
 —Se reanuda la audiencia de arbitraje en el litigio entre el Colectivo Hardscrabble y Extracciones Estelares respecto a los derechos de prospección y salvamento del carguero *Acreon* y el cuerpo celeste remolcado. Comparecen como peritos neutrales e inspectores independientes designados por Inversiones Estelares S.C. Testigos... presten juramento ante la verdad del Pacto.
 
-Benray, Triel, Axel y Marloc levantaron la mano al unísono:
+Benrey, Triel, Axel y Marloc levantaron la mano al unísono:
 
 —Lo juramos.
 
@@ -40,7 +40,7 @@ La señorita George fue la primera en saltar al ataque. Levantándose de su banc
 
 —Su señoría... Extracciones Estelares desea hacer constar que el testimonio de estos aventureros carece de rigor procesal. Fueron emboscados por una mercenaria en el asteroide y la ejecutaron sumariamente antes de que pudiera testificar sobre sus verdaderos patrocinadores. Además, los vídeos aportados por su canal presentan cortes sospechosos de diez minutos en el almacén de la nave. ¿Cómo podemos confiar en su imparcialidad?
 
-Benray dio un paso al frente, apoyando una pata en el estrado con una compostura impecable y una reverencia burlona:
+Benrey dio un paso al frente, apoyando una pata en el estrado con una compostura impecable y una reverencia burlona:
 
 —Señorita George... Es un auténtico placer reencontrarla fuera de sus relucientes oficinas de El Ojo. Si hubo diez minutos sin cobertura en la bodega, fue porque estábamos ocupados vomitando sobre las losas mientras los parásitos akatas intentaban arrancarnos la cabeza. Y si vamos a hablar de intentos de influir en los árbitros, hablemos de aquella entrañable reunión en su sala de juntas y del patético paquete de relaciones públicas que nos puso en las manos antes de partir: aquella cesta de bienvenida con jaboncitos aromáticos, crema hidratante y pases de cine baratos que solo valían los jueves. Agradezco el detalle para el brillo de mi pelaje, pero el honor de la verdad no se limpia con lavanda sintética.
 
@@ -80,9 +80,9 @@ La jueza Keltrosho examinó los diagramas de Marloc y los escaneos de Triel dura
 
 La explosión de júbilo fue apoteósica.
 
-Cientos de mineros rompieron las vallas de seguridad y se precipitaron hacia el estrado. El capitán Otal Seris, con lágrimas rodando por sus mejillas curtidas por el vacío, alzó a Triel en vilo mientras los obreros la rodeaban y uno de ellos le plantaba un sonoro beso en la mejilla entre vítores de gratitud: «¡Gracias, Triel! ¡Gracias a todos!». Mineros corpulentos abrazaron a Benray y a Marloc, mientras la multitud ovacionaba a Axel por su precisión táctica.
+Cientos de mineros rompieron las vallas de seguridad y se precipitaron hacia el estrado. El capitán Otal Seris, con lágrimas rodando por sus mejillas curtidas por el vacío, alzó a Triel en vilo mientras los obreros la rodeaban y uno de ellos le plantaba un sonoro beso en la mejilla entre vítores de gratitud: «¡Gracias, Triel! ¡Gracias a todos!». Mineros corpulentos abrazaron a Benrey y a Marloc, mientras la multitud ovacionaba a Axel por su precisión táctica.
 
-Desde el lateral del hemiciclo, el oficial León contemplaba la escena con los brazos cruzados y una expresión entre el alivio y la exasperación. Al ver a Triel alzada en hombros de los mineros y riendo a carcajadas con el rostro arrebolado, la comisura de los labios del oficial se curvó en una sonrisa involuntaria de franca admiración. Triel lo descubrió entre el gentío y le lanzó un beso furtivo con los dedos; León tosió apresuradamente, miró a los guardias de su escolta para comprobar que nadie lo hubiera visto y sacudió la cabeza con fingida severidad marcial. Benray lo divisó entonces y, con una sonrisa de victoria absoluta, asomó del bolsillo de su casaca un cupón de descuento para pancakes de la cafetería de los Protectores, haciéndole un saludo militar antes de volver a guardárselo con picaresca.
+Desde el lateral del hemiciclo, el oficial León contemplaba la escena con los brazos cruzados y una expresión entre el alivio y la exasperación. Al ver a Triel alzada en hombros de los mineros y riendo a carcajadas con el rostro arrebolado, la comisura de los labios del oficial se curvó en una sonrisa involuntaria de franca admiración. Triel lo descubrió entre el gentío y le lanzó un beso furtivo con los dedos; León tosió apresuradamente, miró a los guardias de su escolta para comprobar que nadie lo hubiera visto y sacudió la cabeza con fingida severidad marcial. Benrey lo divisó entonces y, con una sonrisa de victoria absoluta, asomó del bolsillo de su casaca un cupón de descuento para pancakes de la cafetería de los Protectores, haciéndole un saludo militar antes de volver a guardárselo con picaresca.
 
 La señorita George abandonó la sala apresuradamente escoltada por sus abogados, lanzando una mirada de odio eterno hacia el pelotón antes de que las puertas se cerraran a su espalda.
 
@@ -122,7 +122,7 @@ La taberna era un laberinto cavernoso iluminado por neones parpadeantes de color
 
 En el fondo del local se erigía el verdadero corazón de la taberna: el Muro de los Caídos del Vacío. Una pared de aleación ennegrecida cubierta por miles de placas de identificación militar, pequeñas fotografías holográficas gastadas por el tiempo y reliquias personales de los mineros que habían partido a los asteroides de la Diáspora para no regresar jamás.
 
-El silencio se adueñó del local cuando Marloc, acompañado por Triel, Axel y Benray, se acercó al muro.
+El silencio se adueñó del local cuando Marloc, acompañado por Triel, Axel y Benrey, se acercó al muro.
 
 Con movimientos pausados y ceremoniosos, Marloc extrajo del bolsillo de su túnica las placas de identificación recuperadas en el *Acreon*: la del primer oficial Aravat, la del ingeniero Olier y las de los tripulantes caídos ante la plaga de los akatas. Una a una, las fue colgando de los ganchos de acero entre el respetuoso silencio de los presentes.
 
@@ -140,7 +140,7 @@ El místico tomó una jarra de cerveza oscura de los mineros y la alzó en alto,
 
 —¡Por Marlene! ¡Por los mineros! —rugió la multitud al unísono, haciendo chocar cientos de jarras de metal y golpeando las mesas con los puños en una salva atronadora.
 
-Incluso Willy y Naru, encaramados a una barrica con sendos vasos de refresco hiperazucarado, levantaron sus copas mientras Benray improvisaba con su laúd una emotiva balada sobre los mineros de la Diáspora que arrancó lágrimas entre los estibadores más curtidos.
+Incluso Willy y Naru, encaramados a una barrica con sendos vasos de refresco hiperazucarado, levantaron sus copas mientras Benrey improvisaba con su laúd una emotiva balada sobre los mineros de la Diáspora que arrancó lágrimas entre los estibadores más curtidos.
 
 ***
 
@@ -148,15 +148,15 @@ Incluso Willy y Naru, encaramados a una barrica con sendos vasos de refresco hip
 
 La resaca de la victoria en *El Pulmón Negro* se prolongó hasta el alba, pero la realidad institucional reclamaba su cierre formal.
 
-Con el dictamen judicial de la jueza Keltrosho debidamente rubricado y los generosos honorarios de arbitraje liquidados, el grupo acudió a primera hora al Registro Civil Central de los Mundos del Pacto para formalizar la titularidad de su mayor recompensa: la *Estrella Errante*. El antiguo navío pre-Brecha fue matriculado legalmente como propiedad compartida e indivisa de Axel 42, Benray Galway, Marloc Boosmar y Triel Istrav, reconociéndolos a todos los efectos legales como capitanes independientes del Pacto.
+Con el dictamen judicial de la jueza Keltrosho debidamente rubricado y los generosos honorarios de arbitraje liquidados, el grupo acudió a primera hora al Registro Civil Central de los Mundos del Pacto para formalizar la titularidad de su mayor recompensa: la *Estrella Errante*. El antiguo navío pre-Brecha fue matriculado legalmente como propiedad compartida e indivisa de Axel 42, Benrey Galway, Marloc Boosmar y Triel Istrav, reconociéndolos a todos los efectos legales como capitanes independientes del Pacto.
 
 La nave quedó amarrada en el Muelle 94, una dársena tranquila resguardada bajo los arcos metálicos de la Espiga, lejos del tráfico comercial pesado. Mientras Gerty —empuñando una flamante pica táctica de dos manos recién adquirida para el combate cuerpo a cuerpo— supervisaba los sistemas auxiliares y mantenía a raya a Willy y a Naru, quienes ya habían colonizado una esquina de la bodega con sus mantas térmicas, los cuatro aventureros se dispusieron a invertir sus créditos en las avenidas comerciales de Absalón.
 
-La primera parada fue un discreto y vanguardista dispensario de biomejora en los niveles intermedios, un híbrido entre quirófano de alta precisión y taller de estética cibernética. Allí, un cirujano de manos polimórficas dotadas de microagujas instaló en la médula y extremidades de Benray filamentos neuronales aceleradores de reflejos, una intervención vertiginosa que dejó al ysoki dando saltos de agilidad por la sala. Para Axel, una estilizada androide de chasis completamente cromado integró en sus circuitos internos un módulo de respuesta sintética invisible a simple vista. Triel, por su parte, se sometió a una sesión en cámara hiperbárica para infundir en sus tejidos pulmonares nanitos de presurización biológica, garantizándole la capacidad de resistir en el vacío del espacio sin asfixiarse.
+La primera parada fue un discreto y vanguardista dispensario de biomejora en los niveles intermedios, un híbrido entre quirófano de alta precisión y taller de estética cibernética. Allí, un cirujano de manos polimórficas dotadas de microagujas instaló en la médula y extremidades de Benrey filamentos neuronales aceleradores de reflejos, una intervención vertiginosa que dejó al ysoki dando saltos de agilidad por la sala. Para Axel, una estilizada androide de chasis completamente cromado integró en sus circuitos internos un módulo de respuesta sintética invisible a simple vista. Triel, por su parte, se sometió a una sesión en cámara hiperbárica para infundir en sus tejidos pulmonares nanitos de presurización biológica, garantizándole la capacidad de resistir en el vacío del espacio sin asfixiarse.
 
-El resto de la tarde fue un torbellino de novedades. Marloc y Triel adquirieron sendas armaduras de combate de grafito mate con sobrias líneas luminosas, mientras que Benray no pudo resistirse a la excentricidad: una coraza *Clear Weave* de polímero transparente que proyectaba patrones geométricos de neón y los logotipos holográficos de sus patrocinadores virtuales alrededor de su pelaje. 
+El resto de la tarde fue un torbellino de novedades. Marloc y Triel adquirieron sendas armaduras de combate de grafito mate con sobrias líneas luminosas, mientras que Benrey no pudo resistirse a la excentricidad: una coraza *Clear Weave* de polímero transparente que proyectaba patrones geométricos de neón y los logotipos holográficos de sus patrocinadores virtuales alrededor de su pelaje. 
 
-Hacia el final del día, el grupo recaló en los bulevares del Anillo. Mientras Benray cargaba bolsas y cajas presumiendo de su armadura luminosa, Triel y Axel se entregaron a una inesperada y distendida jornada de compras, probándose calzado y examinando prendas con nanotejidos reconfigurables capaces de transformar un atuendo de gala en ropa de diario con un simple pulso electromagnético. Hacía meses que ninguna de las dos disfrutaba de la sencilla ligereza de ser simplemente dos jóvenes paseando entre escaparates, lejos de horrores cósmicos y cadáveres infectados.
+Hacia el final del día, el grupo recaló en los bulevares del Anillo. Mientras Benrey cargaba bolsas y cajas presumiendo de su armadura luminosa, Triel y Axel se entregaron a una inesperada y distendida jornada de compras, probándose calzado y examinando prendas con nanotejidos reconfigurables capaces de transformar un atuendo de gala en ropa de diario con un simple pulso electromagnético. Hacía meses que ninguna de las dos disfrutaba de la sencilla ligereza de ser simplemente dos jóvenes paseando entre escaparates, lejos de horrores cósmicos y cadáveres infectados.
 
 Sentado en un banco metálico frente a una zapatería de lujo, Marloc las observaba de reojo mientras mataba el tiempo jugando una partida de solitario en su datapad. El místico respiró hondo, paladeando la calma engañosa de la estación tras las semanas de asfixia en la roca.
 

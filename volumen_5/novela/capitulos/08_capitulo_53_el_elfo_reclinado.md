@@ -6,7 +6,7 @@ El interior del coloso de granito albergaba una red de galerías y cámaras cere
 
 A medida que el grupo avanzaba por la galería principal, una sensación de mareo y presión intracraneal comenzó a afectar a los miembros biológicos del equipo.
 
-Benray se frotó las sienes con una mueca de dolor:
+Benrey se frotó las sienes con una mueca de dolor:
 
 —Uff... ¿alguien más siente como si tuviera una colonia de avispas zumbando dentro del cráneo? Me tiemblan hasta los bigotes.
 
@@ -18,9 +18,9 @@ Al fondo de la primera gran sala hipóstila, el agua pura de un manantial de mon
 
 Triel fue la primera en dar un paso al frente. Sumergió las manos en el agua helada y se humedeció las mejillas y la frente. Al instante, un suspiro de alivio brotó de su garganta: el dolor punzante en sus sienes se disipó como el humo, reemplazado por una lucidez cristalina y una sensación de vigor renovado.
 
-—Santo cielo... funciona de verdad —dijo la mecánica, invitando a Benray y Marloc a hacer lo mismo—. Es como si te reiniciaran los procesadores neuronales con agua bendita.
+—Santo cielo... funciona de verdad —dijo la mecánica, invitando a Benrey y Marloc a hacer lo mismo—. Es como si te reiniciaran los procesadores neuronales con agua bendita.
 
-Benray hundió el hocico entero en la pila, resoplando con regocijo:
+Benrey hundió el hocico entero en la pila, resoplando con regocijo:
 
 —¡Ay, qué gloria! Hasta el sabor a fruta podrida se me ha quitado de la boca. Gerty, ¿tú no quieres un chapuzón purificador?
 
@@ -48,7 +48,7 @@ El meca cargó con todo su tonelaje, embistiendo los batientes de piedra con el 
 
 Salas arrojó una granada de fragmentación justo al centro del pasillo. Marloc, anticipando la explosión, extendió su báculo y generó una cúpula de energía cinética que contuvo la onda expansiva y desvió la metralla contra las paredes.
 
-A través del humo, Axel y Benray avanzaron en pinza táctica.
+A través del humo, Axel y Benrey avanzaron en pinza táctica.
 
 El ysoki rodó con agilidad por el suelo, atrayendo el fuego de Salas hacia una columna rota:
 
@@ -68,7 +68,7 @@ El proyectil impactó directamente en la sien derecha de Salas. La veterana rene
 
 Un silencio sobrecogedor se adueñó de la cámara en lo alto de la cabeza de piedra. A través de las cuencas oculares del coloso, la brisa de la montaña entraba fresca y limpia, disipando el humo de los disparos.
 
-Benray se acercó al cuerpo sin vida de Salas y le dio un puntapié a su arma para alejarla:
+Benrey se acercó al cuerpo sin vida de Salas y le dio un puntapié a su arma para alejarla:
 
 —Fin de la cacería. Ya no alimentarás a más monstruos con gente inocente, desgraciada.
 

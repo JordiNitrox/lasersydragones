@@ -2,11 +2,11 @@
 
 El olor a ozono quemado y carne chamuscada saturó la atmósfera del Muelle 94 con la violencia de una bofetada.
 
-En una situación así, la mayoría de los ciudadanos comunes de la estación habrían caído presos del pánico o se habrían arrojado al suelo a implorar piedad. Pero los cuatro supervivientes que rodeaban a Chic no eran civiles ordinarios: eran criaturas marcadas por la marginalidad, los márgenes de la ley y el instinto visceral de supervivencia.
+En una situación así, la mayoría de los ciudadanos comunes de la estación habrían caído presos del pánico o se habrían arrojado al suelo a implorar piedad. Pero los cuatro que rodeaban el cuerpo caído de Marlene no eran civiles ordinarios: eran criaturas marcadas por la marginalidad, los márgenes de la ley y el instinto visceral de supervivencia.
 
-Benray Galway no necesitó procesar órdenes racionales. Su cuerpo reaccionó antes de que su cerebro terminara de asimilar la muerte de Marlene. Con la agilidad explosiva propia de su especie —forjada en años de saltos al vacío y huidas por conductos estrechos—, el ysoki se agachó y se lanzó en un sprint frenético hacia su flanco derecho. 
+Benrey Galway no necesitó procesar órdenes racionales. Su cuerpo reaccionó antes de que su cerebro terminara de asimilar la muerte de Marlene. Con la agilidad explosiva propia de su especie —forjada en años de saltos al vacío y huidas por conductos estrechos—, el ysoki se agachó y se lanzó en un sprint frenético hacia su flanco derecho. 
 
-Aprovechando la inercia, trepó por la escalerilla metálica de una grúa de carga suspendida, encaramándose a la pasarela superior. Desde aquella posición elevada, Benray comenzó a disparar ráfagas de hostigamiento con su pistola láser, proyectando un grito teatral cargado de autoridad que desconcertó a los asaltantes:
+Aprovechando la inercia, trepó por la escalerilla metálica de una grúa de carga suspendida, encaramándose a la pasarela superior. Desde aquella posición elevada, Benrey comenzó a disparar ráfagas de hostigamiento con su pistola láser, proyectando un grito teatral cargado de autoridad que desconcertó a los asaltantes:
 
 —¡A cubierto, pedazos de carne! —bramó el ysoki desde las alturas—. ¡Flanco izquierdo, tras el montacargas! ¡Si no se mueven ahora mismo, van a ser combustible para las calderas!
 
@@ -44,7 +44,7 @@ Tres proyectiles de energía pura brotaron de las yemas de sus dedos mecánicos,
 
 Triel aprovechó el desconcierto creado por la magia de Marloc. Con un salto acrobático, se deslizó por el suelo grasiento hasta el cuerpo de Marlene. Tragó saliva y metió la mano enguantada en el bolsillo interior de la bata ensangrentada.
 
-Sus dedos tropezaron con dos objetos cruciales: una tablilla de memoria portátil con las esquinas chamuscadas y el comunicador personal de Marlene. La pantalla del comlink aún parpadeaba con un archivo de texto abierto bajo el membrete oficial de **Inversiones Estelares S.C.**: una lista que contenía los perfiles de Triel, A.Xel y Benray, y una última nota dirigida a *«Mi hermano a través de las estrellas»*.
+Sus dedos tropezaron con dos objetos cruciales: una tablilla de memoria portátil con las esquinas chamuscadas y el comunicador personal de Marlene. La pantalla del comlink aún parpadeaba con un archivo de texto abierto bajo el membrete oficial de **Inversiones Estelares S.C.**: una lista que contenía los perfiles de Triel, A.Xel y Benrey, y una última nota dirigida a *«Mi hermano a través de las estrellas»*.
 
 —¡Tengo los datos y su comunicador! —gritó Triel, asegurando los dispositivos en su cinturón magnético.
 
@@ -54,7 +54,7 @@ A escasos metros, una terminal de supervisión portuaria parpadeaba en amarillo 
 
 Marloc se colocó a su flanco, conectando su interfaz cibernética en paralelo al nodo. En menos de cinco segundos, fusionando comandos arcanos y subrutinas de sobreescritura cuántica, ambos sobrecargaron el búfer del servidor portuario, quemando los últimos diez minutos de grabación en un bucle inservible de estática.
 
-Mientras tanto, Benray y A.Xel registraron a toda velocidad los cuerpos de los pandilleros caídos: ciento cincuenta créditos en fichas no registradas y dos pistolas láser Azimuth en perfecto estado pasaron a los bolsillos de la gabardina del roedor para su reparto posterior.
+Mientras tanto, Benrey y A.Xel registraron a toda velocidad los cuerpos de los pandilleros caídos: ciento cincuenta créditos en fichas no registradas y dos pistolas láser Azimuth en perfecto estado pasaron a los bolsillos de la gabardina del roedor para su reparto posterior.
 
 En ese momento, una sirena de tres tonos modulados reverberó contra las vigas superiores:
 
@@ -66,10 +66,10 @@ A.Xel descendió de la viga con un salto amortiguado, aterrizando junto a Triel:
 
 —Tiempo estimado antes del sellado del perímetro: dos minutos. Si nos capturan en el escenario del crimen con bajas enemigas y un cadáver de alta relevancia científica, nuestro encarcelamiento preventivo en colonias penales está garantizado.
 
-—Nadie va a ir a ninguna colonia penal —sentenció Benray, señalando una rejilla de ventilación industrial encajada a ras de suelo al fondo de los contenedores—. Ese conducto desciende cuatro niveles directo a la Espiga. Huele a desagüe de alcantarilla, pero no tiene sensores térmicos ni cámaras de los Protectores.
+—Nadie va a ir a ninguna colonia penal —sentenció Benrey, señalando una rejilla de ventilación industrial encajada a ras de suelo al fondo de los contenedores—. Ese conducto desciende cuatro niveles directo a la Espiga. Huele a desagüe de alcantarilla, pero no tiene sensores térmicos ni cámaras de los Protectores.
 
 Marloc miró por última vez hacia el cuerpo de Marlene, que comenzaba a difuminarse entre la espesa humareda blanca de las granadas. Apretó la mandíbula con tanta fuerza que le crujieron los dientes.
 
-—Guía el camino, Benray —dijo el tecnomante con una frialdad nueva en su voz—. Esto no termina aquí. Vamos a averiguar quién pagó por este tiro.
+—Guía el camino, Benrey —dijo el tecnomante con una frialdad nueva en su voz—. Esto no termina aquí. Vamos a averiguar quién pagó por este tiro.
 
 Uno tras otro —el ysoki a la cabeza, seguido por Triel, la imponente mole de Gerty agachando su cúpula para entrar en el túnel, Marloc y A.Xel cubriendo la retaguardia—, los cuatro se arrojaron hacia la oscuridad de las entrañas de la Estación Absalón, mientras las primeras luces de los deslizadores policiales comenzaban a iluminar las paredes ensangrentadas del Muelle 94.

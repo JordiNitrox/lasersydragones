@@ -8,7 +8,7 @@ En la popa, el equipo de mecánicos de De Bonet trabajaba febrilmente con soplet
 
 —Doce horas en una selva abierta contra ocho patrullas de infantería de élite —calculó Axel con frialdad—. No podemos plantear un combate frontal; nos superan en número diez a uno y cuentan con apoyo de comunicaciones orbitales. Nuestra única opción es la guerra asimétrica de desgaste: desviar sus líneas de avance, cegar sus sensores y sembrar el bosque de trampas y señuelos.
 
-—Para eso me pinto solo —afirmó Benray, descolgando de su petate un intercomunicador militar de largo alcance confiscado a los cultistas de Avissa—. Puedo piratear la frecuencia de patrulla de la Legión y alimentar sus receptores con informes falsos de avistamientos al otro lado del río. Si les digo que hemos visto una columna de piratas huyendo hacia el sur con cajas de armamento pesado, mandarán a la mitad de sus batidores a chapotear en las marismas ácidas.
+—Para eso me pinto solo —afirmó Benrey, descolgando de su petate un intercomunicador militar de largo alcance confiscado a los cultistas de Avissa—. Puedo piratear la frecuencia de patrulla de la Legión y alimentar sus receptores con informes falsos de avistamientos al otro lado del río. Si les digo que hemos visto una columna de piratas huyendo hacia el sur con cajas de armamento pesado, mandarán a la mitad de sus batidores a chapotear en las marismas ácidas.
 
 —Excelente iniciativa, señor Galway —asintió Marloc—. Por mi parte, utilizaré mi terminal de campo para proyectar pulsos electromagnéticos en abanico que saturen sus radares de barrido terrestre. Creerán que detectan concentraciones de metal donde solo hay troncos huecos y raíces ferruginosas.
 
@@ -24,11 +24,11 @@ Ila silbó en voz baja, admirada:
 
 El plan funcionó con la precisión de un cronómetro suizo.
 
-A las tres de la madrugada, la primera patrulla de la Legión mordió el anzuelo de Benray. Las transmisiones de radio interceptadas chisporroteaban de indignación y desconcierto:
+A las tres de la madrugada, la primera patrulla de la Legión mordió el anzuelo de Benrey. Las transmisiones de radio interceptadas chisporroteaban de indignación y desconcierto:
 
 *«—¡Centro de mando Cielofuego, habla Patrulla Bravo! ¡El contacto en el sector sur ha resultado ser un rebaño de Yaruks desorientados por una baliza sonora! ¡Repito, no hay señal de los fugitivos! ¡El barro nos llega a la cintura y los sensores de calor no registran más que humedad ambiental!»*
 
-—¡Que disfruten del paseo por el fango, muchachos! —reía Benray en voz baja, agazapado tras una roca con los auriculares puestos—. ¡La próxima vez contraten a un guía de la Espiga!
+—¡Que disfruten del paseo por el fango, muchachos! —reía Benrey en voz baja, agazapado tras una roca con los auriculares puestos—. ¡La próxima vez contraten a un guía de la Espiga!
 
 Hacia las cinco de la mañana, sin embargo, la tensión alcanzó su punto crítico. Una patrulla de asalto pesado de la Legión, compuesta por seis soldados lashunta con servoarmaduras blindadas, logró sortear las interferencias de Marloc y se internó en el desfiladero este, a menos de ochocientos metros del casco de *La Furia*.
 

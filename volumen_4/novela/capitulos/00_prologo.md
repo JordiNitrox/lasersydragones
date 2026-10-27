@@ -14,9 +14,9 @@ En el puente de mando, Axel 42 supervisaba los monitores de telemetría. La luz 
 
 En la pasarela elevada de observación que dominaba el hangar, apoyados contra la barandilla metálica, tres siluetas contemplaban la silueta de la corbeta bajo la luz fría de los focos de mantenimiento.
 
-—¿Saben lo que más me fascina de esta noche? —rompió el silencio Benray Galway, mesándose los bigotes con una sonrisa reflexiva mientras acariciaba la medalla conmemorativa que los mineros le habían colgado al cuello—. Que por una vez en mi vida, no tuvimos que salir corriendo por un conducto de basura con la policía pisándonos los talones. Ganamos con la ley en la mano... y con un discurso tan demoledor que hasta los drones de transmisión se emocionaron.
+—¿Saben lo que más me fascina de esta noche? —rompió el silencio Benrey Galway, mesándose los bigotes con una sonrisa reflexiva mientras acariciaba la medalla conmemorativa que los mineros le habían colgado al cuello—. Que por una vez en mi vida, no tuvimos que salir corriendo por un conducto de basura con la policía pisándonos los talones. Ganamos con la ley en la mano... y con un discurso tan demoledor que hasta los drones de transmisión se emocionaron.
 
-—Ganamos una nave, Benray —respondió Triel Istrav en voz baja, con los brazos cruzados sobre su cazadora de cuero y la mirada fija en las compuertas de propulsión de popa—. Pero lo que desenterramos en esa roca no es una simple victoria comercial.
+—Ganamos una nave, Benrey —respondió Triel Istrav en voz baja, con los brazos cruzados sobre su cazadora de cuero y la mirada fija en las compuertas de propulsión de popa—. Pero lo que desenterramos en esa roca no es una simple victoria comercial.
 
 La semi-drow llevó involuntariamente la mano a su pecho. Bajo la pechera de combate, pegado a la piel, latía el pequeño talismán de ámbar que su abuela le había confiado antes de su huida de Apostae. El eco de los piratas espaciales y la sombra de su padre humano, el legendario corsario Keiden Ashton, parecían murmurar entre las estrellas con cada hora que pasaba.
 
@@ -28,13 +28,13 @@ Todos los vectores astronómicos trazados por la exploradora señalaban hacia un
 
 —El vacío no guarda sus secretos para siempre —sentenció Marloc con voz serena y mesurada—. Quien logre descifrar los accesos a ese santuario tendrá en sus manos una fuerza que nadie en esta galaxia está preparado para gobernar. Pero la escritura de ese templo escapa a los códices convencionales; necesitamos descifrar sus raíces arcanas antes de lanzarnos a ciegas a través del hiperespacio.
 
-—Entonces el plan es sensato —dijo Benray, ajustándose el cuello de la casaca con su habitual aplomo—. Conseguimos que los sabios de la academia nos traduzcan los jeroglíficos alienígenas, ponemos rumbo al planeta verde, una charla civilizada con los claustros lashuntas, unas cuantas fotos para la holored y salvaremos la galaxia antes de que termine el mes.
+—Entonces el plan es sensato —dijo Benrey, ajustándose el cuello de la casaca con su habitual aplomo—. Conseguimos que los sabios de la academia nos traduzcan los jeroglíficos alienígenas, ponemos rumbo al planeta verde, una charla civilizada con los claustros lashuntas, unas cuantas fotos para la holored y salvaremos la galaxia antes de que termine el mes.
 
 Marloc apagó el terminal, envolviendo sus manos enguantadas en los pliegues de su gabardina oscura:
 
 —Castrovel aguarda, amigos míos. Pero antes de cruzar el umbral del Drift hacia mundos salvajes, hay cuentas pendientes que reclaman justicia en esta estación. Hay memorias que exigen respuestas... y un nombre que no puedo seguir eludiendo.
 
-Triel y Benray intercambiaron una mirada de complicidad y respeto. Sabían a qué se refería.
+Triel y Benrey intercambiaron una mirada de complicidad y respeto. Sabían a qué se refería.
 
 Hacía escasas semanas, Marloc Boosmar había despertado en el suelo ensangrentado de una estancia del Arcanamirium, despojado de sus recuerdos, de su identidad y de su pasado, mientras su pariente Marlene caía asesinada en los muelles. Ahora, con las runas del asteroide vibrando en su datapad y el amparo de su nuevo estatus como ciudadanos libres, la verdad aguardaba tras las puertas de la academia de magia más imponente del Pacto.
 
@@ -42,7 +42,7 @@ Axel descendió por la rampa de la *Estrella Errante* y se reunió con ellos al 
 
 —Los diagnósticos de los sistemas están completados y la nave ha quedado asegurada —informó la androide con su serenidad habitual—. Si tenemos una cita nocturna en la academia, sugiero no demorarnos más de lo estrictamente necesario.
 
-Benray dio una palmada en el hombro del tecnomante, casi poniéndose de puntillas para alcanzarlo:
+Benrey dio una palmada en el hombro del tecnomante, casi poniéndose de puntillas para alcanzarlo:
 
 —No tiene que enfrentarse a ese viejo cascarrabias usted solo, profesor. Ya le demostramos a toda la estación de lo que somos capaces; unos cuantos académicos estirados no van a intimidarnos. Lidere el camino hacia su claustro, Marloc. Nosotros le cubrimos las espaldas.
 

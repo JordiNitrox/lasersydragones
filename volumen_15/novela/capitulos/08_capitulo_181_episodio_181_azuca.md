@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Triel y Axel estabilizan a Zivok con sueros curativos mientras Benray utiliza señuelos holográficos para despistar a los perseguidores.
+Triel y Axel estabilizan a Zivok con sueros curativos mientras Benrey utiliza señuelos holográficos para despistar a los perseguidores.
 
 ---
 

@@ -50,7 +50,7 @@ Axel 42 activó de inmediato sus analizadores forenses. Sus ojos barrieron el su
 
 ### III. La pista de los Cinco Arcos
 
-Mientras Benray distraía a la decana Muhali con una elocuente disertación sobre los protocolos de salvamento en estaciones espaciales, Marloc se acercó al fondo de la estancia, donde un gran librero de roble ferroso descansaba contra la pared de piedra.
+Mientras Benrey distraía a la decana Muhali con una elocuente disertación sobre los protocolos de salvamento en estaciones espaciales, Marloc se acercó al fondo de la estancia, donde un gran librero de roble ferroso descansaba contra la pared de piedra.
 
 El tecnomante cerró los ojos y canalizó un leve pulso de *Detección de Magia* a través de su guantelete cibernético. Una tenue firma residual de tecnomagia defensiva palpitó detrás de la moldura inferior del mueble.
 
@@ -68,7 +68,7 @@ En el anverso figuraba una invitación manuscrita con tinta fosforescente:
 
 Al pie de la nota, garabateado con caligrafía apresurada, aparecía el nombre del remitente: **Eroopa Cual**.
 
-—Los **Cinco Arcos** —leyó Benray por encima del hombro de Marloc con un silbido de reconocimiento—. Eso no suena a un seminario de filología comparada.
+—Los **Cinco Arcos** —leyó Benrey por encima del hombro de Marloc con un silbido de reconocimiento—. Eso no suena a un seminario de filología comparada.
 
 Sophie Ren se acercó al grupo, abriendo los ojos de par en par al ver la tarjeta:
 

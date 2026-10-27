@@ -12,7 +12,7 @@ Gerty encabezaba la marcha, abriendo paso con sus pasos metálicos de dos metros
 
 —*Nivel de iluminación en este sector: lamentable* —murmuró el meca a través de su sintetizador de voz—. *Diseñado específicamente para favorecer emboscadas, accidentes laborales y la proliferación de bacterias no deseadas.*
 
-—Por una vez estoy de acuerdo con tu cafetera con patas —susurró Benray desde la retaguardia, con las orejas agachadas y los bigotes vibrando al captar corrientes de aire caliente—. Hay demasiados rincones ciegos aquí. Este sitio apesta a encerrona de bandas.
+—Por una vez estoy de acuerdo con tu cafetera con patas —susurró Benrey desde la retaguardia, con las orejas agachadas y los bigotes vibrando al captar corrientes de aire caliente—. Hay demasiados rincones ciegos aquí. Este sitio apesta a encerrona de bandas.
 
 A.Xel 42, por el contrario, caminaba sin hacer el menor ruido. Sus pisadas sobre la rejilla metálica eran ingrávidas; sus pupilas digitales realizaban barridos térmicos de trescientos sesenta grados en microsegundos, calculando coberturas y líneas de tiro.
 
@@ -54,7 +54,7 @@ Marlene entreabrió los ojos. La luz azul de sus pupilas parpadeaba con la debil
 
 Los párpados de Marlene cayeron y su cabeza se ladeó pesadamente en el regazo de Marloc. La vida acababa de abandonar su cuerpo.
 
-Marloc sintió que un frío cósmico le congelaba el alma. Apretó la frente contra los cabellos oscuros de la mujer y, con los ojos anegados en lágrimas ardientes, le cerró suavemente los párpados. A su lado, Benray, que se había deslizado tras una caja de embalaje con la pistola desenfundada, bajó las orejas y guardó un segundo de silencio respetuoso y sombrío, impresionado por la desolación del humano.
+Marloc sintió que un frío cósmico le congelaba el alma. Apretó la frente contra los cabellos oscuros de la mujer y, con los ojos anegados en lágrimas ardientes, le cerró suavemente los párpados. A su lado, Benrey, que se había deslizado tras una caja de embalaje con la pistola desenfundada, bajó las orejas y guardó un segundo de silencio respetuoso y sombrío, impresionado por la desolación del humano.
 
 —¡Fuego de francotirador! ¡Vienen de ambos lados! —bramó A.Xel 42, con sus protocolos de combate al máximo—. ¡A cubierto!
 

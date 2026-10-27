@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Recuperación de los restos mortales de los oficiales Galway para su preparación funeraria. Momento solemne de respeto donde toda la tripulación ayuda a Benray.
+Recuperación de los restos mortales de los oficiales Galway para su preparación funeraria. Momento solemne de respeto donde toda la tripulación ayuda a Benrey.
 
 ---
 

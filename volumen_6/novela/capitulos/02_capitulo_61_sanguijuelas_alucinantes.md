@@ -10,11 +10,11 @@ Desde las profundidades fangosas del remolino surgió una mole anfibia de aspect
 
 —¡Contacto hostil en vanguardia! —gritó la androide, retrocediendo un paso mientras desenfundaba su pistola de iones con reflejos fulgurantes.
 
-—¡Cuidado, señorita Axel! —bramó Benray desde el islote central, hacia donde acababa de saltar con más fortuna que elegancia—. ¡Esa cosa parece un bagre gigante con complejo de tanque de asalto!
+—¡Cuidado, señorita Axel! —bramó Benrey desde el islote central, hacia donde acababa de saltar con más fortuna que elegancia—. ¡Esa cosa parece un bagre gigante con complejo de tanque de asalto!
 
-Pero la pesadilla apenas comenzaba. En el mismo segundo en que la bestia principal atacaba a Axel en la orilla norte, la masa de agua que rodeaba el islote de Benray comenzó a hervir. No eran burbujas de gas: eran miles de cuerpos anillados, viscosos y de un color púrpura fosforescente que emergían de las grietas submarinas. Un enjambre colosal de sanguijuelas fluviales, conectadas por filamentos de mucosidad luminiscente, reptó sobre la piedra mojada cerrándole el paso al ysoki por todos los flancos.
+Pero la pesadilla apenas comenzaba. En el mismo segundo en que la bestia principal atacaba a Axel en la orilla norte, la masa de agua que rodeaba el islote de Benrey comenzó a hervir. No eran burbujas de gas: eran miles de cuerpos anillados, viscosos y de un color púrpura fosforescente que emergían de las grietas submarinas. Un enjambre colosal de sanguijuelas fluviales, conectadas por filamentos de mucosidad luminiscente, reptó sobre la piedra mojada cerrándole el paso al ysoki por todos los flancos.
 
-—¡Por los bigotes de mi abuela! —chilló Benray, dando brincos histéricos mientras disparaba su pistola contra la marea viscosa—. ¡Tienen dientes en la cola! ¡Y brillan como un club nocturno de mala muerte en los Bajos de Ábsalon!
+—¡Por los bigotes de mi abuela! —chilló Benrey, dando brincos histéricos mientras disparaba su pistola contra la marea viscosa—. ¡Tienen dientes en la cola! ¡Y brillan como un club nocturno de mala muerte en los Bajos de Ábsalon!
 
 Marloc, encaramado a una roca más alta unos metros a la retaguardia, ajustó su monóculo táctico y proyectó un pulso analítico sobre la aberración. La matriz de datos del tecnomante parpadeó con caracteres matemáticos antiguos.
 
@@ -40,11 +40,11 @@ Un haz de escarcha mágica impactó contra la superficie del agua entre las dos 
 
 —¡Cruce ahora, doctora Solstarni! —urgió Marloc, aterrizando con un golpe sordo al otro lado.
 
-La arqueóloga kasatha no dudó. Con una agilidad sorprendente para su edad y complexión académica, corrió sobre el hielo, dio un salto desesperado hacia la piedra donde se encontraba Benray... pero el limo traicionero hizo de las suyas. Su bota resbaló en el borde húmedo, sus cuatro brazos se agitaron en el aire en busca de apoyo y la científica cayó de espaldas a las aguas heladas del río.
+La arqueóloga kasatha no dudó. Con una agilidad sorprendente para su edad y complexión académica, corrió sobre el hielo, dio un salto desesperado hacia la piedra donde se encontraba Benrey... pero el limo traicionero hizo de las suyas. Su bota resbaló en el borde húmedo, sus cuatro brazos se agitaron en el aire en busca de apoyo y la científica cayó de espaldas a las aguas heladas del río.
 
-—¡La profesora al agua! —gritó Benray, lanzándose de panza al borde de la roca y estirando sus brazos cortos hasta aferrar la casaca impermeable de la kasatha—. ¡Pese menos, doctora, por el amor de Dios, que me voy detrás con usted!
+—¡La profesora al agua! —gritó Benrey, lanzándose de panza al borde de la roca y estirando sus brazos cortos hasta aferrar la casaca impermeable de la kasatha—. ¡Pese menos, doctora, por el amor de Dios, que me voy detrás con usted!
 
-Axel, tras descargar una ráfaga certera que perforó el cartílago craneal del Campin, corrió por los salientes con la velocidad de un autómata de precisión. Llegó al borde del islote en tres zancadas, sujetó a Benray por el cinturón con una mano y con la otra izó a la doctora Solstarni fuera de la corriente con un tirón firme y demoledor.
+Axel, tras descargar una ráfaga certera que perforó el cartílago craneal del Campin, corrió por los salientes con la velocidad de un autómata de precisión. Llegó al borde del islote en tres zancadas, sujetó a Benrey por el cinturón con una mano y con la otra izó a la doctora Solstarni fuera de la corriente con un tirón firme y demoledor.
 
 La kasatha tosió agua cenagosa, sacudiendo la cabeza con dignidad estoica mientras el agua chorreaba de su velo facial.
 
@@ -52,6 +52,6 @@ La kasatha tosió agua cenagosa, sacudiendo la cabeza con dignidad estoica mient
 
 Con la criatura principal herida de muerte por las cuchillas rotatorias de Gerty y el hielo de Marloc quebrándose bajo sus convulsiones finales, el enjambre de sanguijuelas se disolvió en una masa informe de pulpa violácea que la corriente se llevó río abajo.
 
-Sin embargo, en el suelo de piedra del islote, y sobre las perneras del uniforme de Benray, una sustancia gelatinosa y brillante había quedado adherida como una costra invisible. Un veneno sutil, de propiedades psicoactivas lentas, comenzaba a evaporarse bajo la lluvia tibia de Ukulam, filtrándose a través de las fibras del tejido y los poros del roedor.
+Sin embargo, en el suelo de piedra del islote, y sobre las perneras del uniforme de Benrey, una sustancia gelatinosa y brillante había quedado adherida como una costra invisible. Un veneno sutil, de propiedades psicoactivas lentas, comenzaba a evaporarse bajo la lluvia tibia de Ukulam, filtrándose a través de las fibras del tejido y los poros del roedor.
 
-—Bueno —dijo Benray, secándose el hocico con la manga empapada mientras miraba el río que volvía a bramar en soledad—, al menos hemos cruzado. ¿Qué es lo peor que podría pasarnos ahora? ¿Una horda de piratas espaciales cayendo del cielo?
+—Bueno —dijo Benrey, secándose el hocico con la manga empapada mientras miraba el río que volvía a bramar en soledad—, al menos hemos cruzado. ¿Qué es lo peor que podría pasarnos ahora? ¿Una horda de piratas espaciales cayendo del cielo?

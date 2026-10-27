@@ -10,9 +10,9 @@ La mecánica semi-drow no esperó a que el líder ryphoriano terminara de emitir
 
 El restaurante de los Cinco Arcos se convirtió al instante en una zona de guerra.
 
-Benray Galway se arrojó de cabeza bajo el banco del reservado, arrastrando a Tuwanas En de la pechera mientras las descargas de plasma perforaban los paneles de linóleo a escasos centímetros de sus orejas. Con el cuerpo aplastado contra el suelo pegajoso, el ysoki desenfundó su pistola cuadrada y rugió con una voz gutural, rota por la furia, en el idioma nativo de las cumbres boreales de su mundo natal: el **triaxiano**.
+Benrey Galway se arrojó de cabeza bajo el banco del reservado, arrastrando a Tuwanas En de la pechera mientras las descargas de plasma perforaban los paneles de linóleo a escasos centímetros de sus orejas. Con el cuerpo aplastado contra el suelo pegajoso, el ysoki desenfundó su pistola cuadrada y rugió con una voz gutural, rota por la furia, en el idioma nativo de las cumbres boreales de su mundo natal: el **triaxiano**.
 
-—*¡La Legión no tiene jurisdicción en este muelle!* —bramó Benray en lengua triaxiana, con un desprecio feroz que brotaba de las heridas más profundas de su pasado—. *¡Este hombre es nuestro testigo! ¡Ustedes no tienen derecho a entrar disparando aquí! ¿Acaso la Legión del Fuego en el Cielo ya no tiene honor, o es que se les ha olvidado el Mandato para actuar como vulgares matones de callejón?*
+—*¡La Legión no tiene jurisdicción en este muelle!* —bramó Benrey en lengua triaxiana, con un desprecio feroz que brotaba de las heridas más profundas de su pasado—. *¡Este hombre es nuestro testigo! ¡Ustedes no tienen derecho a entrar disparando aquí! ¿Acaso la Legión del Fuego en el Cielo ya no tiene honor, o es que se les ha olvidado el Mandato para actuar como vulgares matones de callejón?*
 
 El mercenario ryphoriano que avanzaba por el pasillo se detuvo en seco por una fracción de segundo al escuchar su propia lengua materna brotar de debajo de una mesa grasienta. Se agachó, clavando sus ojos felinos en los bigotes del ysoki, y le respondió en el mismo dialecto áspero y gélido:
 
@@ -34,7 +34,7 @@ Comprobando que su líder yacía inconsciente y desangrándose en el suelo, los 
 
 ### II. Al volante del mini-compacto
 
-—¡Larguémonos antes de que traigan a toda la guarnición! —chilló Benray, saliendo de debajo de la mesa y empujando a Tuwanas hacia la salida de servicio.
+—¡Larguémonos antes de que traigan a toda la guarnición! —chilló Benrey, saliendo de debajo de la mesa y empujando a Tuwanas hacia la salida de servicio.
 
 El grupo cruzó la puerta trasera a la carrera, desembocando en el callejón de servicio que daba al estacionamiento de los camiones de carga.
 
@@ -46,7 +46,7 @@ Allí, con el limpiaparabrisas barriendo frenéticamente la lluvia torrencial y 
 
 La androide abrió la puerta del conductor de un tirón y, en una maniobra acrobática asombrosa, pasó una pierna por encima de la estudiante, desplazándola con firmeza hacia el asiento del copiloto mientras sus manos de aleación se cerraban sobre el volante.
 
-Benray, Triel, Marloc y Tuwanas En se embutieron como pudieron en el asiento trasero. El espacio era tan ridículamente estrecho que los bigotes de Benray quedaron aplastados contra la nuca de Tuwanas, mientras la rodilla mecánica de Marloc presionaba las costillas de Triel contra la ventanilla derecha.
+Benrey, Triel, Marloc y Tuwanas En se embutieron como pudieron en el asiento trasero. El espacio era tan ridículamente estrecho que los bigotes de Benrey quedaron aplastados contra la nuca de Tuwanas, mientras la rodilla mecánica de Marloc presionaba las costillas de Triel contra la ventanilla derecha.
 
 —¡Cierren las puertas! —gritó Axel.
 
@@ -68,7 +68,7 @@ El blindado de la Legión había rebotado contra los contenedores y avanzaba a t
 
 —¡Fuego de cobertura por las ventanillas! —ordenó Triel, bajando el cristal derecho y sacando el torso bajo la lluvia con su rifle de plasma cargado—. ¡Axel, mantén el coche recto si no quieres que el retroceso nos mande al río!
 
-Benray sacó su pistola por la otra ventanilla, disparando ráfagas rápidas contra los neumáticos acorazados del perseguidor:
+Benrey sacó su pistola por la otra ventanilla, disparando ráfagas rápidas contra los neumáticos acorazados del perseguidor:
 
 —¡Tomen plomo, soldados de juguete! ¡Nadie abolla el coche de mi amiga Sophie sin pagar la franquicia del seguro!
 
@@ -76,11 +76,11 @@ Marloc Boosmar, apretujado en el centro del asiento trasero, evaluó la situaci�
 
 —Las balas convencionales apenas rozarán su blindaje compuesto, tripulación. Necesitamos desestabilizar su control de tracción.
 
-El tecnomante sacó su brazo derecho por encima del hombro de Benray, apuntando directamente hacia el parabrisas blindado del *warwagon*. Con un susurro arcano y un chasquido de sus dedos metálicos, canalizó su conjuro predilecto: **Grasa**.
+El tecnomante sacó su brazo derecho por encima del hombro de Benrey, apuntando directamente hacia el parabrisas blindado del *warwagon*. Con un susurro arcano y un chasquido de sus dedos metálicos, canalizó su conjuro predilecto: **Grasa**.
 
 Una densa capa de aceite arcano hiperdeslizante brotó instantáneamente sobre el volante y los paneles de control del piloto enemigo en el interior de su cabina sellada. A través del cristal agrietado se vio al conductor ryphoriano perder el agarre del volante, resbalando cómicamente hacia un lado mientras el blindado comenzaba a dar bandazos erráticos de un carril a otro.
 
-—¡Le diste al volante, Marloc! —rió Benray a carcajadas—. ¡Está conduciendo como un novato borracho en su primer día de academia!
+—¡Le diste al volante, Marloc! —rió Benrey a carcajadas—. ¡Está conduciendo como un novato borracho en su primer día de academia!
 
 —¡Ahora al asfalto! —ordenó Triel.
 
@@ -104,6 +104,6 @@ La androide dio un violento volantazo, deslizando el compacto en un derrape magi
 
 La Legión del Fuego en el Cielo había quedado atrás.
 
-Dentro del coche, el silencio solo estaba roto por los jadeos de Sophie Ren, el traqueteo del tubo de escape medio suelto y las risotadas triunfales de Benray Galway:
+Dentro del coche, el silencio solo estaba roto por los jadeos de Sophie Ren, el traqueteo del tubo de escape medio suelto y las risotadas triunfales de Benrey Galway:
 
 —¡Díganme que alguien tomó una foto de las sandías volando! ¡Eso fue cine puro! ¡Castrovel Drift en estado salvaje!

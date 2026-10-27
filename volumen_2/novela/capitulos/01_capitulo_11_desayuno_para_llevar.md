@@ -6,13 +6,13 @@ La luz artificial del Ojo de Absalón se filtraba a través de los cristales tem
 
 Para cuatro aventureros que la noche anterior habían estado esquivando proyectiles de plasma entre la mugre condensada de la Espiga, la terraza al aire libre de aquel restaurante resultaba un espejismo casi insultante.
 
-Benray Galway tenía los bigotes cubiertos de mermelada de moras espaciales y dos tostadas doradas apretadas contra las comisuras de los labios. Sentado con las patas cruzadas sobre un mullido sillón ergonómico, el ysoki masticaba a velocidad vertiginosa mientras llenaba los amplios bolsillos de su chaleco con panecillos calientes y sobres de edulcorante.
+Benrey Galway tenía los bigotes cubiertos de mermelada de moras espaciales y dos tostadas doradas apretadas contra las comisuras de los labios. Sentado con las patas cruzadas sobre un mullido sillón ergonómico, el ysoki masticaba a velocidad vertiginosa mientras llenaba los amplios bolsillos de su chaleco con panecillos calientes y sobres de edulcorante.
 
-—Les digo que el secreto de la felicidad no son los créditos, sino los bufés con reposición ilimitada —declaró Benray con la boca medio llena, señalando una bandeja de hojaldres con su tenedor—. Miren este queso curado. ¡Es de leche de bestia de carga auténtica, no ese engrudo de soja sintética que te venden en los Bajos! Si sobrevivimos a esa loca de Ferani Nadaz, nos merecemos desayunar como síndicos.
+—Les digo que el secreto de la felicidad no son los créditos, sino los bufés con reposición ilimitada —declaró Benrey con la boca medio llena, señalando una bandeja de hojaldres con su tenedor—. Miren este queso curado. ¡Es de leche de bestia de carga auténtica, no ese engrudo de soja sintética que te venden en los Bajos! Si sobrevivimos a esa loca de Ferani Nadaz, nos merecemos desayunar como síndicos.
 
 Frente a él, Marloc Boosmar sostenía una taza de porcelana blanca con la mano derecha, mientras los dedos mecánicos de su brazo cibernético izquierdo tamborileaban en silencio sobre el mantel de hilo. El tecnomante vestía un traje impecablemente planchado, gabán de cuello alto y corbata oscura, contrastando con las miradas de reojo de los camareros.
 
-—Disfruta de la abundancia mientras dure, Benray —murmuró Marloc, bebiendo un sorbo mesurado de café negro—. La pólvora aún impregna el aire de los niveles inferiores. La muerte de Marlene no fue un accidente y el sindicato minero sigue en pie de guerra. El Consejo de la estación no tardará en atar cabos sobre lo sucedido en el Club Fusión.
+—Disfruta de la abundancia mientras dure, Benrey —murmuró Marloc, bebiendo un sorbo mesurado de café negro—. La pólvora aún impregna el aire de los niveles inferiores. La muerte de Marlene no fue un accidente y el sindicato minero sigue en pie de guerra. El Consejo de la estación no tardará en atar cabos sobre lo sucedido en el Club Fusión.
 
 —Siempre tan optimista, profesor —ironizó Triel Istrav desde el otro lado de la mesa. La joven semi-drow vestía su habitual traje de segunda piel con el chaleco técnico de los *Free Captains*. Con una pequeña llave de calibración, ajustaba los pernos del hombro izquierdo de Gerty, cuyo chasis grisáceo de dos metros de altura permanecía erguido junto a la mesa como una mole de acero silenciosa. Sobre la placa pectoral del autómata lucía una flamante calcomanía que Triel le había pegado esa misma mañana: un emoticono sonriente con un parche pirata negro y dos tibias cruzadas—. Déjanos respirar al menos cinco minutos. Gerty ha gastado un tercio de su batería principal en enfriar los servomotores y todavía tiene pegadas virutas de titanio de la puerta blindada.
 
@@ -50,7 +50,7 @@ El haz escarlata impactó de lleno en el chasis del dron esférico, arrancando c
 
 —*¡Alerta de código rojo! ¡Resistencia armada! ¡Solicitando unidades de pacificación pesada!*
 
-Benray reaccionó por puro instinto callejero. Agarró un puñado de tostadas, se las embutió en los carrillos hinchándolos como un hámster y derribó la mesa de café de una patada para crear una barricada improvisada.
+Benrey reaccionó por puro instinto callejero. Agarró un puñado de tostadas, se las embutió en los carrillos hinchándolos como un hámster y derribó la mesa de café de una patada para crear una barricada improvisada.
 
 —¡Plan de contingencia noventa y nueve! —chilló el ysoki con la voz deformada por la comida—. ¡Correr como ratas espaciales! ¡A las habitaciones por el equipaje y fuera del hotel!
 
@@ -76,11 +76,11 @@ Con el dron empujando a los peregrinos atónitos y Marloc conjurando ráfagas de
 
 Mientras tanto, en el sector oriental, Axel corría con ligereza sobrehumana a través del zoológico botánico de la estación. Esquivó a los guardias arrojándose a los fosos de aclimatación, pasando a milímetros de las garras de varios tigres de seis patas adormilados por la atmósfera controlada, y trepó por las rejas de contención ejecutando acrobacias milimétricas sobre los cables de alta tensión.
 
-Por su parte, Benray se había metido en un callejón sin salida junto a un edificio en obras. Al toparse con un portón de rejas metálicas bloqueado con un candado industrial, el ysoki retrocedió unos pasos, tomó carrerilla y embistió con el hombro:
+Por su parte, Benrey se había metido en un callejón sin salida junto a un edificio en obras. Al toparse con un portón de rejas metálicas bloqueado con un candado industrial, el ysoki retrocedió unos pasos, tomó carrerilla y embistió con el hombro:
 
 —¡Abran paso al cometa Galway!
 
-El golpe contra el hierro sonó como una campana desafinada: *¡CLANG!* Benray rebotó hacia atrás, frotándose el hombro dolorido y soltando una maldición entre dientes.
+El golpe contra el hierro sonó como una campana desafinada: *¡CLANG!* Benrey rebotó hacia atrás, frotándose el hombro dolorido y soltando una maldición entre dientes.
 
 —Nota mental: los ysoki tenemos agilidad, no masa muscular de trox —se quejó el roedor—. Menos mal que no hay testigos...
 
@@ -102,7 +102,7 @@ En el vídeo, el célebre cantante galáctico Syd Velch detenía su actuación e
 
 El cantante se arrodillaba en el suelo, haciéndose un ovillo mientras el público enmudecía en la pantalla. El espectáculo era tan hipnótico y desconcertante que la muchedumbre del bulevar no apartaba la vista.
 
-—Aprovechemos el trance colectivo —susurró Benray, agarrando a Axel de la mano—. Con permiso, caballeros... Asunto de Estado... Disculpen la prisa...
+—Aprovechemos el trance colectivo —susurró Benrey, agarrando a Axel de la mano—. Con permiso, caballeros... Asunto de Estado... Disculpen la prisa...
 
 Abriéndose paso con diplomacia callejera, saltando sobre el capó de aerodeslizadores detenidos y esquivando a los transeúntes absortos, el grupo avistó al fin la silueta del edificio corporativo donde Inversiones Estelares S.C. mantenía su sede central en el Ojo de Absalón.
 
@@ -112,7 +112,7 @@ Axel analizó el patrón de barrido óptico del autómata en microsegundos:
 
 —Detecto un cono ciego de tres metros en su flanco izquierdo —susurró la androide.
 
-Con una agilidad felina y sin emitir el menor roce, Axel se deslizó por las sombras de los pilares, franqueando el perímetro sin que los sensores del robot lograran fijarla. Pero la pesada mole de Gerty, el gabán de Marloc y la figura menuda de Benray no gozaban de tanta discreción.
+Con una agilidad felina y sin emitir el menor roce, Axel se deslizó por las sombras de los pilares, franqueando el perímetro sin que los sensores del robot lograran fijarla. Pero la pesada mole de Gerty, el gabán de Marloc y la figura menuda de Benrey no gozaban de tanta discreción.
 
 El robot de asalto giró su torso con un chasquido hidráulico y abrió fuego. El proyectil cinético de contención impactó de lleno en el pecho de Gerty: *¡CRAC!* El golpe hizo tambalearse al meca de Triel, agrietando su placa pectoral y drenando el noventa por ciento de sus escudos en una lluvia de chispas.
 
@@ -138,6 +138,6 @@ Fue entonces cuando, desde el pasillo interior de los despachos, una figura alta
 
 —Disculpen las molestias, señores oficiales —anunció el abogado vesk con una sonrisa colmilluda, mostrando sus credenciales a través del panel transparente—. Estos ciudadanos se encuentran bajo la tutela jurídica directa de esta corporación y bajo la cláusula de arbitraje oficial del Consejo de Síndicos. Guarden sus juguetes antes de que les redacte una demanda por acoso institucional que les costará su jubilación.
 
-Benray se dejó caer de espaldas en el mullido sillón de la recepción, soltando una carcajada exhausta mientras se sacaba el último panecillo aplastado del bolsillo.
+Benrey se dejó caer de espaldas en el mullido sillón de la recepción, soltando una carcajada exhausta mientras se sacaba el último panecillo aplastado del bolsillo.
 
 —Definitivamente —suspiró el ysoki—, amo el sistema judicial de esta estación.

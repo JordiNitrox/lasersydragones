@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Benray deslumbra en las mesas de dados y sabacc espacial. Mientras tanto, Triel detecta emisarios drow de la Casa Istrav observándola desde los palcos VIP.
+Benrey deslumbra en las mesas de dados y sabacc espacial. Mientras tanto, Triel detecta emisarios drow de la Casa Istrav observándola desde los palcos VIP.
 
 ---
 

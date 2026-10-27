@@ -18,13 +18,13 @@ Triel apartó la mirada, apretando los puños con rabia:
 
 Axel dio un paso al frente con el arma en la mano, dispuesta a cumplir la sombría tarea con fría eficiencia militar, pero una pequeña mano enguantada se posó con firmeza sobre su antebrazo.
 
-Era Benray.
+Era Benrey.
 
 El rostro del ysoki, habitualmente chispeante de picardía y bromas insolentes, mostraba una solemnidad implacable. Sus ojos oscuros reflejaban el peso de quien ha visto demasiadas muertes en los bajos fondos de la galaxia.
 
 —Déjamelo a mí, Axel —dijo en voz baja, desenfundando su pistola balística—. Hay cosas que una máquina de combate no debería tener que cargar en sus bancos de memoria.
 
-Benray se arrodilló frente a la cultista. Miró a los ojos a la mujer que había jurado la aniquilación de toda vida sintiente en el universo:
+Benrey se arrodilló frente a la cultista. Miró a los ojos a la mujer que había jurado la aniquilación de toda vida sintiente en el universo:
 
 —A veces hay que dejar algunos atrás —dijo el emisario con una suavidad cargada de compasión—. Pero en mi guardia nadie muere como abono para las alimañas. Buen viaje al vacío, Aravask.
 
@@ -46,7 +46,7 @@ Marloc consultó con alarma su sensor meteorológico:
 
 —¡Alerta ambiental de nivel cuatro! ¡Es una tormenta de moho!
 
-—¿Una qué? —preguntó Benray, guardando la pala de campaña.
+—¿Una qué? —preguntó Benrey, guardando la pala de campaña.
 
 —Los ciclos biogeoquímicos de Castrovel —explicó Marloc a gritos sobre el bramido creciente del vendaval—. Cada cierto tiempo, millones de hongos a lo largo de cientos de kilómetros cuadrados sincronizan su floración fúngica y liberan billones de toneladas de esporas cáusticas a la atmósfera al mismo tiempo. El aire se vuelve tóxico y corrosivo; respirarlo sin filtros industriales disuelve los alvéolos pulmonares en diez segundos, y la acidez es capaz de picar los sellos de polímero de nuestras armaduras. ¡Tenemos que encontrar refugio subterráneo de inmediato!
 

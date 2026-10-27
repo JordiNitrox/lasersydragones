@@ -37,7 +37,7 @@ Un ronroneo grave y poderoso, libre de fallos de encendido, inundó la estancia.
 Triel se secó la frente con el dorso de la mano ensangrentada por un corte de chapa, mirando el vehículo con orgullo de fabricante:
 —Cabina presurizada al cien por cien. Blindaje contra radiación gamma activo. Autonomía de combustible para mil doscientos kilómetros. La bestia está lista para rodar.
 
-Benray cargó su macuto en la bodega de popa, asegurando las cajas de raciones de campaña:
+Benrey cargó su macuto en la bodega de popa, asegurando las cajas de raciones de campaña:
 —Bueno, muchachos... Próxima parada: la gran nada de ceniza. Si no volvemos en una semana, recuerden ponerle a la taberna de Absalón una placa conmemorativa con mi nombre en letras doradas.
 
 Marloc cerró la pesada compuerta blindada de acceso y activó el sello hermético con un chasquido definitivo: *¡PSSSHT!*

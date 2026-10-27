@@ -12,7 +12,7 @@
 ## 2. Los Protagonistas y su Evolución Emocional
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Descifra la tecnología de levitación kishala y lidera el restablecimiento de los sistemas de purificación de aire de la ciudad.
 * **Zivok:** Operativo Enano (Jugador: Juan Pablo). Encabeza el asalto a las posiciones atrincheradas de la Flota de Cadáveres en los templos flotantes.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Se gana la confianza del líder kishalo mediante su carisma y comprensión de los pueblos oprimidos, forjando una alianza histórica.
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). Se gana la confianza del líder kishalo mediante su carisma y comprensión de los pueblos oprimidos, forjando una alianza histórica.
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Conecta su red neuronal con la supercomputadora pre-Brecha de Istamak, vislumbrando por primera vez el templo de la Forja Viviente.
 * **Gerty:** Dron de Asalto (Voz: Roberto). Implacable en la defensa de los civiles kishalos.
 

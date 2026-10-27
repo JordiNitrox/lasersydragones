@@ -16,10 +16,10 @@ Axel disparaba con una precisión milimétrica, abatiendo a los artilleros enemi
 
 ### II. La caída de la fortaleza
 
-Triel y Benray arrastraban a Xerantha Zatus, que se negaba a caminar con rapidez, contemplando con ojos de fuego la destrucción de sus amados laboratorios:
+Triel y Benrey arrastraban a Xerantha Zatus, que se negaba a caminar con rapidez, contemplando con ojos de fuego la destrucción de sus amados laboratorios:
 —Cincuenta años de investigación... destruidos por unos burócratas militares que no comprenden la grandeza de la ciencia.
 
-—Agradece que te estemos sacando viva, doctora —le espetó Benray, empujándola hacia el interior de la cabina del montacargas—. ¡Si fuera por ellos, ahora mismo serías un bonito montón de cenizas en el suelo de tu despacho!
+—Agradece que te estemos sacando viva, doctora —le espetó Benrey, empujándola hacia el interior de la cabina del montacargas—. ¡Si fuera por ellos, ahora mismo serías un bonito montón de cenizas en el suelo de tu despacho!
 
 Marloc accionó la palanca del elevador mientras colocaba una carga térmica de sobrecarga en el panel de control del pozo:
 —Este elevador no volverá a bajar. Cuando alcancemos el brocal del cañón, detonaré los pilares de la fortaleza para sepultar los reactores de necroplasma bajo la montaña.

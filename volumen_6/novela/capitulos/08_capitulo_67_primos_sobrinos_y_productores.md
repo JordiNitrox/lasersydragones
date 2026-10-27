@@ -6,7 +6,7 @@ Marloc Boosmar caminaba por la avenida comercial luciendo una capa ceremonial co
 
 —Una presencia académica impecable es el primer axioma del respeto intelectual, señor Galway —sentenció Marloc con satisfacción, ajustándose el broche dorado en el hombro.
 
-—Claro que sí, profesor —bromeó Benray, que acababa de gastar parte de sus créditos en munición de plasma sobrecargada y un par de gafas de sol reflectantes que le quedaban ridículamente grandes sobre el hocico—. Nada impone más respeto en un tiroteo que una diana roja gigante bordada en oro. Si los francotiradores enemigos no lo ven a usted desde tres manzanas de distancia, es que están legalmente ciegos.
+—Claro que sí, profesor —bromeó Benrey, que acababa de gastar parte de sus créditos en munición de plasma sobrecargada y un par de gafas de sol reflectantes que le quedaban ridículamente grandes sobre el hocico—. Nada impone más respeto en un tiroteo que una diana roja gigante bordada en oro. Si los francotiradores enemigos no lo ven a usted desde tres manzanas de distancia, es que están legalmente ciegos.
 
 —Nadie le pidió su opinión estilística, señor Galway —replicó el tecnomante con altivez fingida.
 
@@ -14,7 +14,7 @@ Triel, sin embargo, apenas prestaba atención a las bromas de sus compañeros. L
 
 —Tenemos que hablar —dijo Triel de pronto, deteniéndose junto a la barandilla de un mirador que daba al núcleo gravitatorio de la estación—. El mensaje de mi comunicador no era spam. Es mi primo Bumak.
 
-Benray levantó las orejas con curiosidad:
+Benrey levantó las orejas con curiosidad:
 
 —¿Otro pariente lejano? Caramba, Triel, pensé que la única de tu familia que no estaba intentando clavarte una daga por la espalda eras tú misma. ¿A qué se dedica este caballero? ¿Es banquero, diplomático... o tal vez vendedor de seguros de vida para drows paranoicos?
 
@@ -36,7 +36,7 @@ El nombre de Extracciones Astrales resonó en la mente de Marloc como un trueno 
 
 —Extracciones Astrales —pronunció el tecnomante, cerrando su puño de acero con un chasquido metálico—. La corporación que sembró el caos en el Muelle 94 y cuyos contratos encubiertos costaron la vida de Marlene. Si hay una sola posibilidad de acceder a los discos duros privados de su cúpula directiva y desenterrar las pruebas de sus crímenes, me uno a esa operación sin dudarlo un segundo.
 
-—Esperen un momento, muchachos —interrumpió Benray, dando un paso adelante con el pecho inflado de indignación ysoki—. Me parece fantástico lo del espionaje corporativo y la venganza académica, de verdad que sí. Pero yo tengo mis propias cuentas pendientes en este sector de la estación.
+—Esperen un momento, muchachos —interrumpió Benrey, dando un paso adelante con el pecho inflado de indignación ysoki—. Me parece fantástico lo del espionaje corporativo y la venganza académica, de verdad que sí. Pero yo tengo mis propias cuentas pendientes en este sector de la estación.
 
 —¿Qué cuentas, Ben? —preguntó Triel, desconcertada.
 

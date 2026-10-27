@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Interrogatorio a los androides rebeldes. Benray descubre que creen falsamente que los Mundos del Pacto vienen a destruirlos con el Devastador.
+Interrogatorio a los androides rebeldes. Benrey descubre que creen falsamente que los Mundos del Pacto vienen a destruirlos con el Devastador.
 
 ---
 
@@ -15,7 +15,7 @@ Interrogatorio a los androides rebeldes. Benray descubre que creen falsamente qu
 #### I. El Miedo a la Segunda Esclavitud
 <!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
 
-#### II. Las Palabras Conciliadoras de Benray
+#### II. Las Palabras Conciliadoras de Benrey
 <!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
 
 #### III. La Revelación del Liderazgo de Null-9

@@ -14,7 +14,7 @@ Marloc Boosmar caminaba con paso reverente entre las estructuras, pasando la man
 
 —Exactamente —asintió Marloc—. Estas pirámides de piedra eran únicamente las plataformas basales y sótanos reforzados sobre los cuales los antiguos elfos pre-Brecha levantaban sus palacios, observatorios astronómicos y academias de madera noble, vidrio policromado y enredaderas vivas. Con el paso de los milenios y el cataclismo mnemónico de la Brecha, la arquitectura biológica y orgánica se pudrió y desapareció, dejando al descubierto solo los cimientos pétreos.
 
-—Una ciudad entera suspendida en el aire sobre pirámides —comentó Benray con asombro—. Debió ser un espectáculo impresionante. Halkueth menciona que este lugar albergaba a miles de peregrinos y sabios que acudían de todos los rincones del planeta para rendir culto a Desna y estudiar la configuración estelar de los Doce Soles.
+—Una ciudad entera suspendida en el aire sobre pirámides —comentó Benrey con asombro—. Debió ser un espectáculo impresionante. Halkueth menciona que este lugar albergaba a miles de peregrinos y sabios que acudían de todos los rincones del planeta para rendir culto a Desna y estudiar la configuración estelar de los Doce Soles.
 
 —Y según los rastros en el suelo —indicó Axel, señalando las ramas rotas y los restos de raciones militares—, la expedición de Tahomen cruzó esta acrópolis hace apenas dos días. Se movían deprisa, pero con extrema precaución.
 
@@ -38,7 +38,7 @@ La anguila soltó un siseo atronador que sonó como una fuga de vapor a alta pre
 
 —¡Cuidado con la descarga! —advirtió Triel, activando los disipadores de tierra de su armadura mientras Gerty se interponía entre el monstruo y el grupo.
 
-Benray rodó por el suelo enlosado, colocándose tras el flanco ciego de la bestia:
+Benrey rodó por el suelo enlosado, colocándose tras el flanco ciego de la bestia:
 
 —¡Eh, pescadito de charca! ¡Aquí tienes un poco de salsa para tu merienda! —el ysoki disparó dos tiros de plasma concentrado a las aletas pectorales de la criatura, quemando sus membranas y frenando su avance.
 

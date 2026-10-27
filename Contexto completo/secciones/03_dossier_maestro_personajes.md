@@ -16,7 +16,7 @@
 * **Rasgos físicos:** Dos metros de altura, blindaje reforzado gris marengo, cuatro brazos articulados y cañón láser de alta cadencia.  
 * **Voz y Personalidad:** Cínico, quejumbroso y despectivo hacia la fragilidad biológica («los seres de carne»). Sufre reinicios cómicos en los momentos de mayor tensión. En el Vol. 3 soporta el asalto directo del Garaggakal sin batería; en el Vol. 5 frena la caída de Triel tras el ataque del Oshiga; en el Vol. 6 combate en medio de los rápidos de Ukulam contra el Campin y en la Torre Prisma sostiene un feroz cuerpo a cuerpo contra el autómata de asalto corporativo, quejándose incansablemente de la arena en sus servos y la falta de lubricante premium.
 
-#### Benray Galway
+#### Benrey Galway
 * **Especie / Clase:** Ysoki (hombre-rata) / Emisario (*Envoy*)  
 * **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
 * **Voz y Actor:** Miguel  
@@ -63,7 +63,7 @@
 * **Especie:** Saurio-aviar (alienígena desconocido)  
 * **Rol:** Comandante Corsario de la corbeta *La Furia* (Capitanes Libres)  
 * **Aparición en volúmenes:** **Volumen 4 (mención), Volumen 6 (aparición física y alianza en Ukulam)**  
-* **Descripción:** Capitán pirata teatral, pomposo y honorable de plumaje violáceo, abrigo naval deshilachado con charreteras doradas y sombrero con pluma fosforescente. Tras quedar varado en Ukulam, pacta una alianza con Benray y Triel («el Ukulam Standoff») tras reconocer la cazadora y el valor corsario de la semi-drow.
+* **Descripción:** Capitán pirata teatral, pomposo y honorable de plumaje violáceo, abrigo naval deshilachado con charreteras doradas y sombrero con pluma fosforescente. Tras quedar varado en Ukulam, pacta una alianza con Benrey y Triel («el Ukulam Standoff») tras reconocer la cazadora y el valor corsario de la semi-drow.
 
 #### Ila
 * **Especie:** Humana  
@@ -92,7 +92,7 @@
 #### La Conciencia de la Estrella Errante (*El Fantasma en la Máquina*)
 * **Modelo / Naturaleza:** Conciencia viva digitalizada / IA de grado militar pre-Brecha  
 * **Aparición en volúmenes:** **Volumen 6**  
-* **Descripción:** Entidad etérea, sabia y melancólica que despierta en los altavoces de la *Estrella Errante* tras integrar el procesador militar recuperado en Ukulam. Reconoce intuitivamente el nombre de Benray Galway y asume el control de los sistemas de salto para guiar a la tripulación hacia La Diáspora.
+* **Descripción:** Entidad etérea, sabia y melancólica que despierta en los altavoces de la *Estrella Errante* tras integrar el procesador militar recuperado en Ukulam. Reconoce intuitivamente el nombre de Benrey Galway y asume el control de los sistemas de salto para guiar a la tripulación hacia La Diáspora.
 
 #### Doctora Omejia Solstarni (Way-ir de la Casa Raimar)
 * **Especie:** Kasatha (cuatro brazos)  
@@ -120,7 +120,7 @@
 
 #### Rim Rey
 * **Especie:** Ysoki  
-* **Rol:** Mecánico de la Espiga y primo de Benray  
+* **Rol:** Mecánico de la Espiga y primo de Benrey  
 * **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3 (mención/apoyo)**  
 * **Descripción:** Proveedor de carnitas espaciales, repuestos y contactos en el inframundo de Absalón.
 
@@ -152,7 +152,7 @@
 * **Especie:** Dragonkin  
 * **Rol:** Veterano guerrero de Triaxus y custodio del reservado VIP del Club 13  
 * **Aparición en volúmenes:** **Volumen 1**  
-* **Descripción:** Imponente gigante escamoso de cresta dorada y mirada penetrante. Habla la lengua dracónica ancestral con Benray y actúa como su confidente en los bajos fondos, advirtiéndole sobre las deudas de sangre y el padre que busca venganza por su hijo muerto en las minas de Triaxus.
+* **Descripción:** Imponente gigante escamoso de cresta dorada y mirada penetrante. Habla la lengua dracónica ancestral con Benrey y actúa como su confidente en los bajos fondos, advirtiéndole sobre las deudas de sangre y el padre que busca venganza por su hijo muerto en las minas de Triaxus.
 
 #### Clamor Sambor
 * **Especie:** Humano (presunto magnate)  
@@ -168,9 +168,9 @@
 
 #### Marcelo
 * **Especie:** Ysoki  
-* **Rol:** Camarada e informante de Benray Galway  
+* **Rol:** Camarada e informante de Benrey Galway  
 * **Aparición en volúmenes:** **Volumen 1**  
-* **Descripción:** Estibador del Anillo que despierta a Benray en su camarote con las primicias sobre la reaparición del carguero *Acreon*.
+* **Descripción:** Estibador del Anillo que despierta a Benrey en su camarote con las primicias sobre la reaparición del carguero *Acreon*.
 
 #### Silo y Luigi
 * **Especie:** Humana (Silo) / Ysoki (Luigi)  
@@ -216,7 +216,7 @@
 * **Especie:** Humana cibernética (Ferani) / Vesk (Brock)  
 * **Rol:** Comandantes de los Reyes del Nivel 21 y mercenarios corporativos  
 * **Aparición en volúmenes:** **Volumen 1**  
-* **Descripción:** Cabecillas del hampa de la Espiga en el club *Con-Fusión*. Brock es famoso por arrancar compuertas blindadas con sus manos desnudas; Ferani negoció suministros militares con la Casa Istrav y recibió transferencias opacas de Extracciones Estelares para encubrir el asesinato de Marlene. Tras ser derrotados por el grupo y encañonados por Benray sobre la mesa, Ferani confiesa la trama corporativa antes de ser entregada a la justicia.
+* **Descripción:** Cabecillas del hampa de la Espiga en el club *Con-Fusión*. Brock es famoso por arrancar compuertas blindadas con sus manos desnudas; Ferani negoció suministros militares con la Casa Istrav y recibió transferencias opacas de Extracciones Estelares para encubrir el asesinato de Marlene. Tras ser derrotados por el grupo y encañonados por Benrey sobre la mesa, Ferani confiesa la trama corporativa antes de ser entregada a la justicia.
 
 #### Clara-247
 * **Especie:** Androide  
@@ -240,13 +240,13 @@
 * **Especie:** Ysoki  
 * **Rol:** Productor forajido de holomedia y magnate clandestino de La Diáspora  
 * **Aparición en volúmenes:** **Volumen 1 (mención), Volumen 2 (dron), Volumen 3, Volumen 6 (revelación de base)**  
-* **Descripción:** Antiguo productor usurero de Benray en la Espiga. Opera atrincherado desde una estación asteroide en La Diáspora explotando transmisiones piratas.
+* **Descripción:** Antiguo productor usurero de Benrey en la Espiga. Opera atrincherado desde una estación asteroide en La Diáspora explotando transmisiones piratas.
 
 #### Tahomen
 * **Especie:** Lashunta  
 * **Rol:** Sumo Sacerdote del Culto del Devorador en Castrovel  
 * **Aparición en volúmenes:** **Volumen 5**  
-* **Descripción:** Líder fanático de rostro desfigurado por escarificaciones rituales que intentó activar el Devastador Estelar antes de ser abatido por Benray en la Cámara de las Estrellas.
+* **Descripción:** Líder fanático de rostro desfigurado por escarificaciones rituales que intentó activar el Devastador Estelar antes de ser abatido por Benrey en la Cámara de las Estrellas.
 
 #### Salas
 * **Especie:** Lashunta  

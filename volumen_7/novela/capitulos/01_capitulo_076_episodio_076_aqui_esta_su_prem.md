@@ -6,7 +6,7 @@ La transición entre la simulación y el mundo real no fue suave ni piadosa. Fue
 
 Triel Istrav abrió los ojos bajo el agua tibia y viscosa del tanque de inmersión, ahogando un grito en su garganta mientras sus pulmones rechazaban el fluido amniótico sintético. La joven semi-drow tosió con violencia, arqueando la espalda dentro de la cápsula mientras sus dedos buscaban a tientas los pestillos de apertura neumática. Al liberarse la compuerta, una cascada de líquido translúcido se desbordó contra las baldosas metálicas del suelo, arrastrándola en una oleada de náusea y vértigo atroz. El zumbido industrial de los generadores de la Espiga, el hedor rancio a ozono, desinfectante barato y polvo de taller la golpearon sin contemplaciones, borrando de un plumazo las selvas ilusorias de Castrovel y la macabra pesadilla medieval de Damien.
 
-A menos de dos metros, Benray Galway rodó sobre su costado emitiendo un chillido lastimero de pura desorientación sensorial. El ysoki pataleaba en el charco, sacudiéndose el hocico y frotándose los ojos con zarpas temblorosas. Sus bigotes estaban apelmazados por la baba química del tanque y su cola parecía un látigo empapado.
+A menos de dos metros, Benrey Galway rodó sobre su costado emitiendo un chillido lastimero de pura desorientación sensorial. El ysoki pataleaba en el charco, sacudiéndose el hocico y frotándose los ojos con zarpas temblorosas. Sus bigotes estaban apelmazados por la baba química del tanque y su cola parecía un látigo empapado.
 
 —¡Por las siete madrigueras de Akiton! —jadeó el emisario, palpándose frenéticamente el pecho, las orejas y la rabadilla como si temiera haber dejado algún miembro en el servidor—. ¡Sigo teniendo cuatro patas y una cola! ¡No me convertí en un montón de vóxeles masticados por un lagarto gigante! Oigan... ¿por qué me duelen los ojos?
 
@@ -16,13 +16,13 @@ En el preciso instante en que los cables neurales se soltaron de su nuca, la men
 
 —*He seguido todas las instrucciones...* —susurró una voz de mujer, un eco que no vibraba en los oídos sino en el núcleo de sus neuronas, resonando a través del tiempo—. *¿Quién eres tú? ¿Quién está ahí?... Oh, mi hermano. Mi hermano a través de las estrellas. Siempre supe que vendrías. Siempre sentí que había alguien como yo al otro lado... Dime qué debo hacer. Hay una esfera en el Arcanamirium... Hablaré con mi padre. Pronto nos veremos. Trabajaré en esto. Pronto estaremos juntos...*
 
-—Marloc... ¿por qué me duelen los ojos? —insistió Benray a lo lejos, quejumbroso.
+—Marloc... ¿por qué me duelen los ojos? —insistió Benrey a lo lejos, quejumbroso.
 
 El tecnomante emergió del tanque de golpe, jadeando como un náufrago. Se llevó una mano al rostro mientras sus pupilas se dilataban bajo las luces frías del techo.
 
 —Porque nunca los habías usado —murmuró Marloc con voz hueca, limpiándose con el dorso de la muñeca un espeso reguero de sangre escarlata que le brotaba de ambas fosas nasales, disolviéndose en el fluido tibio que le empapaba el pecho.
 
-A.Xel 42 ya estaba de pie sobre el suelo enrejado. La androide no mostraba ni rastro de mareo; sus líneas de nanitos bioluminiscentes titilaban en un violeta gélido de cálculo analítico. Miró de reojo a Triel, que aún vomitaba restos de solución nutritiva sobre el enrejado, y luego sujetó a Benray por el cogote con la fría delicadeza con que se levanta a un roedor mojado, depositándolo sobre una superficie seca.
+A.Xel 42 ya estaba de pie sobre el suelo enrejado. La androide no mostraba ni rastro de mareo; sus líneas de nanitos bioluminiscentes titilaban en un violeta gélido de cálculo analítico. Miró de reojo a Triel, que aún vomitaba restos de solución nutritiva sobre el enrejado, y luego sujetó a Benrey por el cogote con la fría delicadeza con que se levanta a un roedor mojado, depositándolo sobre una superficie seca.
 
 —Signos vitales estables, pero la adaptación psicomotriz es deficiente —dictaminó Axel con su voz modulada—. Despejen sus vías respiratorias de inmediato. Tenemos un problema mayor.
 
@@ -40,7 +40,7 @@ Desde el pasillo exterior, más allá de la mampara de vidrio blindado que separ
 
 Fue entonces cuando los cuatro cayeron en la cuenta de su precaria situación táctica. No llevaban puestas sus armaduras de combate ni sus trajes de sellado ambiental. Para sumergirse en las cápsulas de inmersión total de Damien, la clínica les había exigido despojarse de todo el equipo y enfundarse en ceñidos monos elastoméricos de fibra térmica, unos trajes negros y húmedos pegados al cuerpo como una segunda piel que apenas ofrecían protección contra un arañazo, y mucho menos contra metralla pesada.
 
-—¿Dónde están las armas? —gritó Benray, poniéndose en pie de un salto con el pelaje erizado de punta a punta—. ¡Ajustarse una armadura táctica toma cuatro asaltos completos de reloj! ¡Nos van a reventar en calzones!
+—¿Dónde están las armas? —gritó Benrey, poniéndose en pie de un salto con el pelaje erizado de punta a punta—. ¡Ajustarse una armadura táctica toma cuatro asaltos completos de reloj! ¡Nos van a reventar en calzones!
 
 —¡Al panel de suministro! —ordenó Axel.
 
@@ -48,13 +48,13 @@ La androide cruzó la estancia en dos zancadas elásticas. Al fondo de la habita
 
 Marloc llegó tras ella, trastabillando levemente por el choque sensorial de la visión estelar. Alargó su brazo cibernético y tomó su rifle táctico y su estuche de componentes mágicos, suspirando de alivio al comprobar que su larga chaqueta negra y su gabán descansaban intactos en el perchero. Con un gesto rápido, se tocó la base de la garganta activando su *Voice Encoder* dérmico, endureciendo las cuerdas vocales para canalizar órdenes de mando tecnomántico.
 
-—Toma esto, Benray —dijo Axel, lanzándole al ysoki su pistola de gravitones.
+—Toma esto, Benrey —dijo Axel, lanzándole al ysoki su pistola de gravitones.
 
 El roedor atrapó el arma en el aire con destreza gimnástica, pero sus ojos saltones se fijaron en otro proyectil que descansaba en la repisa: una granada holográfica.
 
 —¡Tienen taladros, pero nosotros tenemos ingenio! —chilló el emisario.
 
-Sin pensarlo dos veces, Benray arrancó el seguro de la granada y la arrojó hacia los tanques de energía que alimentaban las cápsulas de inmersión. El artefacto detonó sin pólvora ni fuego: una proyección tridimensional perfecta de Benray Galway apareció de pronto agazapada sobre el servidor principal, gesticulando y chillando insultos en dialecto ysoki para atraer el fuego enemigo. El Benray real, en cambio, se arrojó de panza tras una hilera de baterías auxiliares, deslizándose en el suelo mojado hasta quedar en cobertura total.
+Sin pensarlo dos veces, Benrey arrancó el seguro de la granada y la arrojó hacia los tanques de energía que alimentaban las cápsulas de inmersión. El artefacto detonó sin pólvora ni fuego: una proyección tridimensional perfecta de Benrey Galway apareció de pronto agazapada sobre el servidor principal, gesticulando y chillando insultos en dialecto ysoki para atraer el fuego enemigo. El Benrey real, en cambio, se arrojó de panza tras una hilera de baterías auxiliares, deslizándose en el suelo mojado hasta quedar en cobertura total.
 
 —¡Triel, tu carabina! —gritó Axel, arrojándole el arma a la mecánica.
 
@@ -97,7 +97,7 @@ Conectando su *Custom Rig* a la consola de control mediante un enlace magnético
 
 —¡Por los clavos del Vacío! —rugió el segundo gnoll, intentando avanzar a trompicones mientras esquivaba las raíces y la grasa—. ¡Muévanse, malditas plantas!
 
-—¡Benray, dale al objetivo marcado! —ordenó el ysoki a sí mismo, asomando su hocico tras la batería—. ¡A ese perro le falta una dosis de gravedad concentrada!
+—¡Benrey, dale al objetivo marcado! —ordenó el ysoki a sí mismo, asomando su hocico tras la batería—. ¡A ese perro le falta una dosis de gravedad concentrada!
 
 El rayo tractor de su pistola gravitatoria golpeó el torso del gnoll atrapado en las ramas. La fuerza magnética lo sacudió violentamente, arrastrándolo hacia el charco viscoso mientras el mercenario aullaba de rabia, incapaz de fijar su subfusil contra los reflejos evasivos de los héroes.
 
@@ -115,7 +115,7 @@ Con un chasquido de sus dedos tatuados, tres proyectiles mágicos de energía ca
 
 Marloc apretó los dientes, pero no retrocedió. Sus ojos brillaron con el fuego frío de la resolución.
 
-—Benray... necesito una ruta despejada —murmuró Marloc por el intercomunicador—. Voy a cortarles la retirada con fuego.
+—Benrey... necesito una ruta despejada —murmuró Marloc por el intercomunicador—. Voy a cortarles la retirada con fuego.
 
 —¡Ruta despejada, socio! —gritó el roedor desde su cobertura, disparando una ráfaga supresiva que obligó al segundo mercenario a agachar la cabeza—. ¡Corre como si te persiguiera el casero de Absalón!
 
@@ -141,7 +141,7 @@ La semi-drow no corrió. Apuntó su *Custom Rig* hacia la esclusa en descenso. L
 
 La tecnomante enemiga intentó arrojarse al suelo para deslizarse por debajo de la compuerta trabada, pero Axel ya estaba cruzando la abertura con un salto rasante. La mujer se incorporó de golpe, extendiendo las manos para desatar un cono de llamas a quemarropa. Axel realizó una finta lateral, sintiendo el aire recalentado chamuscarle las puntas del cabello sintético mientras rodaba sobre el hombro para colocarse a su espalda.
 
-Detrás de ella, Benray corría con la lengua afuera, patinando en los últimos charcos de grasa pero manteniéndose milagrosamente en equilibrio gracias al balanceo de su cola.
+Detrás de ella, Benrey corría con la lengua afuera, patinando en los últimos charcos de grasa pero manteniéndose milagrosamente en equilibrio gracias al balanceo de su cola.
 
 —¡Marloc, córtale el audio! —chilló el ysoki.
 
@@ -153,7 +153,7 @@ La palabra paralizó a la mujer como si hubiera sido sumergida en cemento de sec
 
 Axel no perdió un solo segundo: barrió las piernas de la atacante con una patada baja y la derribó boca abajo contra el pavimento, apoyando su rodilla biomecánica en la espalda de la prisionera y clavando el cañón helado de su pistola directamente contra la nuca rapada.
 
-Triel y Benray llegaron al trote, jadeando todavía por el esfuerzo y el frío del fluido de inmersión que aún les goteaba por las piernas. Benray se adelantó con paso chulesco, apoyando la culata de su pistola de gravitones sobre el hombro como si fuera una vara de paseo, mientras sacaba de su cinturón un juego de esposas de supresión neural.
+Triel y Benrey llegaron al trote, jadeando todavía por el esfuerzo y el frío del fluido de inmersión que aún les goteaba por las piernas. Benrey se adelantó con paso chulesco, apoyando la culata de su pistola de gravitones sobre el hombro como si fuera una vara de paseo, mientras sacaba de su cinturón un juego de esposas de supresión neural.
 
 —Muy bien, señorita de recepción —dijo el ysoki con una sonrisa socarrona que dejaba ver sus afilados incisivos—. Quédese muy quieta y ahórrese los fuegos artificiales. A los tecnomantes que se resisten les suele salir un agujero de ventilación adicional en el pecho, y mi socia de cuatro brazos no tiene mucho sentido del humor los martes.
 

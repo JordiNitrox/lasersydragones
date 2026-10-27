@@ -19,7 +19,7 @@ Este documento constituye la referencia canónica obligatoria para mantener la c
 En la *Nota Editorial e Introducción* de cada volumen, la mesa original debe acreditarse con el siguiente formato exacto:
 
 - **Roberto:** Game Master / Narrador (y la voz del meca **Gerty**)
-- **Miguel:** Benray Galway *(Emisario Ysoki)*
+- **Miguel:** Benrey Galway *(Emisario Ysoki)*
 - **Irene:** Triel Istrav *(Mecánica Semi-drow)*
 - **Juan Pablo:** Marloc Boosmar *(Tecnomante Humano)*
 - **Sofía:** A.Xel 42 *(Operativa Androide)*
@@ -31,7 +31,7 @@ En la *Nota Editorial e Introducción* de cada volumen, la mesa original debe ac
 
 ### 2. Dossier Canónico de los Protagonistas
 
-#### Benray Galway *(Jugador: Miguel)*
+#### Benrey Galway *(Jugador: Miguel)*
 - **Especie / Clase:** Ysoki (pueblo rata) / Emisario (*Envoy*).
 - **Aspecto físico:** Menudo, pelaje castaño erizado, bigotes hiperactivos que detectan corrientes de aire, chaleco táctico con bolsillos ocultos para ganzúas y artefactos robados.
 - **Vehículo:** Una motoneta espacial ruidosa, abollada y sin matrícula reglamentaria.
@@ -54,7 +54,7 @@ En la *Nota Editorial e Introducción* de cada volumen, la mesa original debe ac
 - **Relación Romántica Canónica (Oficial León Holden):**
   - Triel es el único miembro de la tripulación que entabla un romance clandestino, picante y genuino con el estricto **Oficial León Holden** de los Protectores.
   - *Inicio (Episodios 31-32):* Tras regresar victoriosos de la Roca del Drift, durante la fiesta etílica en el hotel *Las Lunas*, Triel bebe de más y empieza a trolear a León con mensajes de comunicador descarados e inapropiados. A la mañana siguiente, con resaca, redobla la provocación retándolo a acudir a su suite. León se presenta fuera de servicio y de civil para cantarle las cuarenta, pero la química estalla en un apasionado y secreto encuentro.
-  - *Desarrollo (Episodios 33, 36, 38, 39):* En el arbitraje judicial (Ep. 33) disimulan la complicidad; tras el motín del concierto de Syd Velch (Ep. 36), León la llama preocupado por su seguridad; en el hangar antes de partir a Castrovel (Ep. 38), León acude a despedirse y Triel lo sonroja llamándole «mi león» y guiñándole el ojo; durante el viaje hiperespacial (Ep. 39), Benray le arranca la confesión mientras juegan a videojuegos.
+  - *Desarrollo (Episodios 33, 36, 38, 39):* En el arbitraje judicial (Ep. 33) disimulan la complicidad; tras el motín del concierto de Syd Velch (Ep. 36), León la llama preocupado por su seguridad; en el hangar antes de partir a Castrovel (Ep. 38), León acude a despedirse y Triel lo sonroja llamándole «mi león» y guiñándole el ojo; durante el viaje hiperespacial (Ep. 39), Benrey le arranca la confesión mientras juegan a videojuegos.
   - *Cita Formal en Absalón (Episodio 66):* Al volver de Castrovel, Triel se viste con un traje de gala escotado en la espalda para lucir su tatuaje y tienen una cita romántica a cenar en un café donde León (vegetariano estricto) la lleva en su aerovehículo civil.
   - *Aclaración vital:* En versiones preliminares erróneas de la novelización se asignó este romance a Axel 42. Axel no tiene ningún romance con León; la relación canónica es estricta y exclusivamente de **Triel**.
 
@@ -88,7 +88,7 @@ En la *Nota Editorial e Introducción* de cada volumen, la mesa original debe ac
 
 ### 3. Personajes Secundarios Clave (Grafías Canónicas)
 
-- **Rim Rey:** Primo ysoki de Benray Galway. Mecánico y chatarrero de confianza en los Bajos de Absalón.  
+- **Rim Rey:** Primo ysoki de Benrey Galway. Mecánico y chatarrero de confianza en los Bajos de Absalón.  
   *(Cuidado: Nunca escribir "Ring Rey" ni "Rin Rey", la grafía canónica es siempre **Rim Rey**).*
 - **Chiskisk:** Comisionado y directivo de **Inversiones Estelares S.C.** en la Estación Absalón (El Ojo). Shirren no binario (o descrito con naturalidad insectoide afable), telepático, analítico y prudente. Es quien contrata a los protagonistas como peritos/árbitros independientes y los ampara legal y financieramente.
 - **Marlene Boosmar:** Científica y xenobióloga del Arcanamirium asociada a **Inversiones Estelares S.C.**, casada con Ángela. Su trágica muerte en el Muelle 94 desencadena el conflicto principal de la saga. *(Atención canon: su supuesto parentesco como hermana de Marloc fue una deducción no confirmada de Chic; jamás se confirma que sean hermanos biológicos).*
@@ -100,11 +100,11 @@ En la *Nota Editorial e Introducción* de cada volumen, la mesa original debe ac
 - **D-52:** Androide minero de tono azul-grisáceo que juega a las cartas cuánticas junto a Silo y Luigi en el reservado de Thalud en el Club 13, de quien el grupo obtiene la pista sobre la androide intermediaria Eclair.
 - **Eclair:** Androide sensible de cabello azul cobalto e iris dorados, activista de los derechos sintéticos en Absalón y amiga íntima de Marlene Boosmar y A.Xel 42. Es la intermediaria clave que intentaba coordinar ayuda para Marlene; se comunica encriptadamente con Axel, advirtiéndole del peligro de radicalización del Frente de Liberación Androide liderado por Null-9.
 - **Ángela Boosmar:** Científica humana, esposa viuda de Marlene Boosmar. En la realidad original de Marloc, Ángela era su propia esposa y murió trágicamente por una esclusa rota en los astilleros de Verces; en esta línea temporal sobrevivió y se casó con Marlene, convirtiéndose en el epicentro del trauma y dolor dimensional de Marloc.
-- **Thalud:** Imponente veterano guerrero dragonkin de Triaxus que custodia el reservado VIP del Club 13. Habla la lengua dracónica ancestral con Benray y le advierte sobre un padre afligido que ha llegado a la estación buscando venganza por la muerte de su hijo en las minas de Triaxus.
+- **Thalud:** Imponente veterano guerrero dragonkin de Triaxus que custodia el reservado VIP del Club 13. Habla la lengua dracónica ancestral con Benrey y le advierte sobre un padre afligido que ha llegado a la estación buscando venganza por la muerte de su hijo en las minas de Triaxus.
 - **Kallio:** Francotirador profesional drow de sangre fría, asesino a sueldo de élite contratado en secreto por Extracciones Estelares para abatir a Marlene Boosmar en el Muelle 94.
 - **Clamor Sambor:** Acaudalado y misterioso magnate, propietario ausente de Inversiones Estelares S.C., en cuyo nombre Chiskisk contrata formalmente a la tripulación como peritos independientes.
 - **Sal:** Joven aprendiz lashunta de mecánico en los muelles de atraque de Absalón. Amigo de videojuegos de carreras espaciales de Triel; fue quien le recomendó buscar trabajo en el Arcanamirium y visitar el Club 13.
-- **Marcelo:** Contacto ysoki de Benray Galway en los monobloques del Anillo que lo despierta en su camarote con las primicias sobre el regreso del carguero *Acreon*.
+- **Marcelo:** Contacto ysoki de Benrey Galway en los monobloques del Anillo que lo despierta en su camarote con las primicias sobre el regreso del carguero *Acreon*.
 - **Silo y Luigi:** Tahúres habituales de las mesas clandestinas del Club 13. Silo es una ruda contrabandista humana de trenzas fucsia fosforescentes; Luigi es un viejo minero ysoki desdentado y experto en dados de plasma.
 - **Casa Istrav de Apostae:** Tiránica y poderosa casa noble matriarcal drow del planeta Apostae. Famosa por sus arsenales armamentísticos y su desprecio hacia las castas mestizas, representa el opresivo pasado familiar del que Triel Istrav huyó para forjar su propio destino.
 - **Clara-247:** Androide rescatada junto con Axel y Null-9 diez años atrás en el Vasto. Contratada como mercenaria/saboteadora por Extracciones Estelares; embosca al grupo en la Roca del Drift en el Volumen 3 portando una armadura de Freebooter, rifle táctico de francotirador shirren, una piedra de eón (*Clear Spindle Aeon Stone*) y un comlink con la nota literal: *«Triel Istrav: para herir, no matar, es un drow»*.
@@ -112,8 +112,8 @@ En la *Nota Editorial e Introducción* de cada volumen, la mesa original debe ac
 - **El Pulmón Negro (*The Black Lung*):** Cantina obrera de mineros en la Espiga donde cuelga el muro conmemorativo de placas de identificación de caídos en el vacío, donde descansan las fotografías de Marlene y Amelie.
 - **Embajador Gevalarsk Nor:** Embajador plenipotenciario de Eox en la Estación Absalón. Aristócrata y diplomático elebriano no-muerto. *(Cuidado STT: En los audios a menudo es nombrado rápidamente o truncado como "Gevalnor" o "que elevarse"; la forma canónica es Gevalarsk Nor o embajador Nor).*
 - **Keltus:** Asistente diplomático y mayordomo gul (necrófago) del embajador Gevalarsk Nor. De refinados modales cortesanos y lengua bífida, es famoso por hornear galletitas artesanales de anís y chocolate para los visitantes. *(Cuidado STT: La transcripción automática corrompe frecuentemente su nombre como "Keltusa", "que él tus" o "ángel tus a él"; el nombre canónico indiscutible es **Keltus**).*
-- **Señorita George (*Ms. George / Ms. Joss*):** Portavoz jurídica y de relaciones institucionales de Extracciones Estelares (adaptación de Roberto de *Ms. Joss* del AP de Paizo). Es una ejecutiva lashunta de piel ambarina, traje sastre impecable, comunicador cuántico en la sien y antenas siempre atentas. En el Episodio 15 cita al grupo en la torre de cristal azul de El Ojo, los encierra en una sala a oscuras para proyectarles un vídeo propagandístico corporativo, argumenta la titularidad de la Roca del Drift bajo la cláusula de prospección y les entrega una cómica cesta de bienvenida con jabones de lavanda sintética, crema hidratante y pases de cine válidos únicamente los jueves. En el Episodio 33 comparece ante el Tribunal de Arbitraje de los Protectores, donde Benray la humilla sacando a relucir la cesta de jaboncitos y Triel y Marloc destruyen sus pretensiones jurídicas con el Estatuto de Salvamento de Derelictos.
-- **El lote de cortesía de Extracciones Estelares (La «cesta de jabones»):** Detalle satírico canónico de la mesa (Episodios 15, 16 y 33). Al ser designados peritos independientes del arbitraje, la señorita George entregó en persona a la tripulación en la sede corporativa de El Ojo este ridículo paquete de relaciones públicas: una cesta con jaboncitos de lavanda, sales de baño, crema hidratante y pases de cine válidos solo los jueves (Volumen 2, Cap. 15). El capitán Otal Seris bromea sobre ello con Benray en el muelle antes de partir hacia el *Acreon* (Volumen 2, Cap. 16), y en la audiencia judicial (Volumen 3, Cap. 33), Benray lo saca a relucir con socarronería para acusar satíricamente a la corporación de intentar «ablandar árbitros con artículos de tocador», haciendo que la abogada George enrojezca y sus antenas vibren de furia desmintiendo que fuera un soborno formal.
+- **Señorita George (*Ms. George / Ms. Joss*):** Portavoz jurídica y de relaciones institucionales de Extracciones Estelares (adaptación de Roberto de *Ms. Joss* del AP de Paizo). Es una ejecutiva lashunta de piel ambarina, traje sastre impecable, comunicador cuántico en la sien y antenas siempre atentas. En el Episodio 15 cita al grupo en la torre de cristal azul de El Ojo, los encierra en una sala a oscuras para proyectarles un vídeo propagandístico corporativo, argumenta la titularidad de la Roca del Drift bajo la cláusula de prospección y les entrega una cómica cesta de bienvenida con jabones de lavanda sintética, crema hidratante y pases de cine válidos únicamente los jueves. En el Episodio 33 comparece ante el Tribunal de Arbitraje de los Protectores, donde Benrey la humilla sacando a relucir la cesta de jaboncitos y Triel y Marloc destruyen sus pretensiones jurídicas con el Estatuto de Salvamento de Derelictos.
+- **El lote de cortesía de Extracciones Estelares (La «cesta de jabones»):** Detalle satírico canónico de la mesa (Episodios 15, 16 y 33). Al ser designados peritos independientes del arbitraje, la señorita George entregó en persona a la tripulación en la sede corporativa de El Ojo este ridículo paquete de relaciones públicas: una cesta con jaboncitos de lavanda, sales de baño, crema hidratante y pases de cine válidos solo los jueves (Volumen 2, Cap. 15). El capitán Otal Seris bromea sobre ello con Benrey en el muelle antes de partir hacia el *Acreon* (Volumen 2, Cap. 16), y en la audiencia judicial (Volumen 3, Cap. 33), Benrey lo saca a relucir con socarronería para acusar satíricamente a la corporación de intentar «ablandar árbitros con artículos de tocador», haciendo que la abogada George enrojezca y sus antenas vibren de furia desmintiendo que fuera un soborno formal.
 - **Syd Velch (Roger Welch):** Estrella de culto del pop-metal y rock espacial de los Mundos del Pacto y personaje recurrente de enorme trascendencia profética a lo largo de la saga. *(Cuidado STT: Las transcripciones automáticas corrompen habitualmente su nombre como "Silv", "sirve", "Sedvelch" o "Silvelch"; el nombre canónico es estrictamente **Syd Velch**)*. En el Volumen 1 su rostro demacrado y su gira *Evento Horizonte* se anuncian en las pantallas del puerto de Absalón; en el Volumen 2 su colapso público en El Ojo facilita la huida del grupo ante el dron policial; en el Volumen 4 protagoniza un legendario y accidentado concierto en el Domo Horizonte con un motín masivo; y en arcos avanzados (Volumen 7 y Volumen 14) se desvela su conexión con la androide Null-9 y los misterios del Culto del Devorador.
 ---
 
@@ -151,7 +151,7 @@ Para mantener la fidelidad a los audios originales de la partida:
    |---|---|---|
    | *Piedra del Triunfo / del triunfo* | **Roca del Drift** / **el Drift** | Fonética rápida de *Drift* confundida con *triunfo*. |
    | *la deriva / el drive* | **el Drift** | Plano hiperespacial. Prohibido traducirlo como deriva. |
-   | *Ring Rey / Rin Rey* | **Rim Rey** | Primo ysoki de Benray (mecánico de los Bajos). |
+   | *Ring Rey / Rin Rey* | **Rim Rey** | Primo ysoki de Benrey (mecánico de los Bajos). |
    | *chischis / chiskis / chispas* | **Chiskisk** | Comisionado shirren de Inversiones Estelares S.C. |
    | *Sociedad Starfinder / Lorexpe* | **Inversiones Estelares S.C.** | En el podcast Roberto reemplazó la facción de Paizo. |
    | *Ferani Krane / Ferani Crane* | **Ferani Nadaz** | Nombre canónico bautizado por Roberto en la mesa. |
@@ -174,7 +174,7 @@ Conforme la campaña progresa en nuevos episodios y volúmenes, se deben incorpo
 #### A. Diplomacia y Política Galáctica
 - **El Embajador y su Asistente:**
   - *Función narrativa:* Figuras institucionales de alto nivel que representan los intereses diplomáticos de los Mundos del Pacto o de corporaciones planetarias ante Inversiones Estelares S.C. y los árbitros de la misión.
-  - *Dinámica con el grupo:* Protocolo estricto, burocracia que choca con la irreverencia de Benray y la rudeza de Gerty, pero que ofrece contratos legítimos y salvoconductos vitales.
+  - *Dinámica con el grupo:* Protocolo estricto, burocracia que choca con la irreverencia de Benrey y la rudeza de Gerty, pero que ofrece contratos legítimos y salvoconductos vitales.
   - *Regla de registro:* Documentar nombre exacto emitido en el podcast, especie, cargo oficial, peculiaridades del asistente (quien a menudo gestiona los detalles turbios o confidenciales) y posición política en la trama.
 
 #### B. Lazos Familiares y Pasado Oculto
@@ -184,14 +184,14 @@ Conforme la campaña progresa en nuevos episodios y volúmenes, se deben incorpo
   - *Regla de registro:* Especificar nombres exactos de familiares, parentesco, facción y deudas o agravios pendientes, evitando siempre etiquetar a Triel como pirata.
 
 - **El Entorno Familiar de los Protagonistas:**
-  - *Clan Galway (Benray):* Red extensa de primos y parientes ysoki (como **Rim Rey**) distribuidos en dársenas, talleres y cantinas.
+  - *Clan Galway (Benrey):* Red extensa de primos y parientes ysoki (como **Rim Rey**) distribuidos en dársenas, talleres y cantinas.
   - *Familia Boosmar (Marloc):* La sombra de su distanciado padre Ambrose Boosmar y el enigma cósmico de Marlene Boosmar y sus notas sobre artefactos de la Brecha (sin vínculo de hermandad confirmado).
 
 #### C. Los Protectores (*The Stewards*) y Enlaces Institucionales
 - **Capitán / Oficial León Holden:**
   - *Función narrativa:* Oficial de enlace y mando de los Protectores en la Estación Absalón. Marcial, sumamente recto, disciplinado y constantemente desbordado por el caos que deja la tripulación a su paso.
-  - *Dinámica con Benray:* Blanco predilecto de las burlas, guiños, ofertas de cupones de desayuno y provocaciones cómicas de Benray Galway (*«Para usted, León, lo que sea...»*).
-  - *Relación Romántica Canónica:* Mantiene una relación clandestina, ardiente y de pura atracción de opuestos con **Triel Stravinski (Istrav)**. Surge tras la fiesta de regreso de la Roca del Drift (Episodios 31-32) mediante mensajes borrachos y una visita de paisano de León a su suite; continúa en el arbitraje (Ep. 33), su llamada preocupado tras el concierto (Ep. 36), su despedida cómplice en el hangar rumbo a Castrovel (Ep. 38, donde Triel le llama «mi león»), la confesión de Triel a Benray (Ep. 39), y una cita a cenar formal en un café al regresar a Absalón (Episodio 66).
+  - *Dinámica con Benrey:* Blanco predilecto de las burlas, guiños, ofertas de cupones de desayuno y provocaciones cómicas de Benrey Galway (*«Para usted, León, lo que sea...»*).
+  - *Relación Romántica Canónica:* Mantiene una relación clandestina, ardiente y de pura atracción de opuestos con **Triel Stravinski (Istrav)**. Surge tras la fiesta de regreso de la Roca del Drift (Episodios 31-32) mediante mensajes borrachos y una visita de paisano de León a su suite; continúa en el arbitraje (Ep. 33), su llamada preocupado tras el concierto (Ep. 36), su despedida cómplice en el hangar rumbo a Castrovel (Ep. 38, donde Triel le llama «mi león»), la confesión de Triel a Benrey (Ep. 39), y una cita a cenar formal en un café al regresar a Absalón (Episodio 66).
   - *Aclaración obligatoria:* **Axel 42 no tiene ningún romance con León** (la relación es exclusiva de Triel).
 
 - **Oficial Monroe:**
@@ -216,8 +216,8 @@ Conforme la campaña progresa en nuevos episodios y volúmenes, se deben incorpo
   - *Estado:* Desaparecido en el Vasto. Personaje recurrente fundamental que reaparecerá con gran peso argumental en episodios posteriores de la campaña.
 
 - **Marcellus:**
-  - *Función narrativa:* Extravagante productor audiovisual, editor y promotor en la sombra de Benray Galway en la Estación Absalón. Proveedor del dron deportivo con llamas amarillas con el que Benray graba sus misiones desde el Volumen 2. Recibe el metraje crudo en tiempo real a través de un canal cuántico encriptado, lo edita con fanfarrias heroicas y lo filtra como emisión pirata a las pantallas gigantes del Ojo de Absalón, convirtiendo al grupo en celebridades virales. En el Volumen 3 organiza la recepción multitudinaria y la fiesta en el hotel *Las Lunas*. En el Volumen 6, su figura se convierte en el epicentro de una gran trama conspirativa (*Protocolo Marcelus*), revelándose que un actor lo suplantaba en Absalón mientras el auténtico operaba desde un asteroide de La Diáspora.
-  - *Estado:* Activo en la sombra; socio mediático de Benray.
+  - *Función narrativa:* Extravagante productor audiovisual, editor y promotor en la sombra de Benrey Galway en la Estación Absalón. Proveedor del dron deportivo con llamas amarillas con el que Benrey graba sus misiones desde el Volumen 2. Recibe el metraje crudo en tiempo real a través de un canal cuántico encriptado, lo edita con fanfarrias heroicas y lo filtra como emisión pirata a las pantallas gigantes del Ojo de Absalón, convirtiendo al grupo en celebridades virales. En el Volumen 3 organiza la recepción multitudinaria y la fiesta en el hotel *Las Lunas*. En el Volumen 6, su figura se convierte en el epicentro de una gran trama conspirativa (*Protocolo Marcelus*), revelándose que un actor lo suplantaba en Absalón mientras el auténtico operaba desde un asteroide de La Diáspora.
+  - *Estado:* Activo en la sombra; socio mediático de Benrey.
 
 #### H. El Colectivo Sintético y el Pasado de Axel 42
 - **Null-9 (Unidad Hermana / Androide 9000):**
@@ -232,7 +232,7 @@ Conforme la campaña progresa en nuevos episodios y volúmenes, se deben incorpo
 - **Tahomen:**
   - *Especie / Rol:* Lashunta / Sumo Sacerdote del Culto del Devorador en Castrovel.
   - *Aparición:* Volumen 5 (Ep. 58-59).
-  - *Función:* Fanático nihilista con rostro desfigurado por escarificaciones rituales. Muere abatido en el pecho por Benray tras transmitir la telemetría del templo a un asteroide de La Diáspora.
+  - *Función:* Fanático nihilista con rostro desfigurado por escarificaciones rituales. Muere abatido en el pecho por Benrey tras transmitir la telemetría del templo a un asteroide de La Diáspora.
 - **Salas:**
   - *Especie / Rol:* Lashunta / Exoficial renegado de la Legión del Fuego en el Cielo y francotirador sádico.
   - *Aparición:* Volumen 4 (mención), Volumen 5 (Ep. 51-53).
@@ -244,7 +244,7 @@ Conforme la campaña progresa en nuevos episodios y volúmenes, se deben incorpo
 - **Aravask:**
   - *Especie / Rol:* Lashunta / Exploradora del culto abandonada en la selva.
   - *Aparición:* Volumen 5 (Ep. 49-50).
-  - *Función:* Infectada por las esporas carroñeras del Khasari, recibe un disparo piadoso de Benray y entierro bajo las raíces.
+  - *Función:* Infectada por las esporas carroñeras del Khasari, recibe un disparo piadoso de Benrey y entierro bajo las raíces.
 - **El Último Elfo de Loskialua:**
   - *Especie / Rol:* Elfo Pre-Brecha / Centinela inmortal del Templo de los Doce Soles.
   - *Aparición:* Volumen 5 (Ep. 56).
@@ -274,10 +274,10 @@ Mantener actualizado el estado evolutivo de los protagonistas entre volumen y vo
 
 | Volumen | Nave Principal | Base / Refugio | Vínculos Mayores y Evolución Personal | Deudas y Enemigos Activos |
 |---|---|---|---|---|
-| **Volumen 1** | Ninguna (tránsito comercial / motoneta de Rim Rey) | Monobloques del Anillo / Hotel Las Lunas | Cohesión inicial del cuarteto; quiebre de Marloc ante la viuda Ángela; lealtad de Gerty y Triel contra la Casa Istrav; llamada de Axel con Eclair; culpa de Benray en Triaxus | Extracciones Estelares; sicario drow Kallio; Reyes del Nivel 21 neutralizados; orden de arresto preventivo en el Ojo |
+| **Volumen 1** | Ninguna (tránsito comercial / motoneta de Rim Rey) | Monobloques del Anillo / Hotel Las Lunas | Cohesión inicial del cuarteto; quiebre de Marloc ante la viuda Ángela; lealtad de Gerty y Triel contra la Casa Istrav; llamada de Axel con Eclair; culpa de Benrey en Triaxus | Extracciones Estelares; sicario drow Kallio; Reyes del Nivel 21 neutralizados; orden de arresto preventivo en el Ojo |
 | **Volumen 2** | *Hippocampus* (*El Caballito de Mar*) | Hotel Las Lunas / Nave *Hippocampus* en órbita | Evasión de drones policiales en el Ojo; arbitraje de Chiskisk; alianza con Willy y Naru; miedo de Axel a la esclavitud; fobia de Triel a los akatas; complicidad y romance de Triel con el Oficial León Holden | Extracciones Estelares (litigio legal de Kaerom y Señorita George); pacto encubierto con Gevalarsk Nor (Eox); misterio letal de la Roca del Drift |
 | **Volumen 3** | *Estrella Errante* (*Vagabond*) y *Hippocampus* | Dársena 94 / Complejo Lorexpe / Terraza Las Lunas | Triel revela su búsqueda de su padre **Keiden Ashton**; Marloc confronta la figura de Ambrose; amigoblins con visados de Eox | Extracciones Estelares (derrotada judicialmente); amenaza emergente de la Flota de los Cuerpos |
-| **Volumen 4** | *Estrella Errante* (en órbita de Castrovel) | Campus Universidad de Qabarat / Puesto de Turhalu (Ukulam) | Triel busca el rastro de **Keiden Ashton** y la nave *Fiebre de Oro*; Benray confronta su pasado de piloto en Triaxus | Legión del Fuego en el Cielo; partida mercenaria de Eroopa Cual y el cazador Salas |
-| **Volumen 5** | *Estrella Errante* (órbita de Castrovel, lista para salto) | Puesto de Turhalu / Vivac en Ukulam / Templo de los Doce Soles | Triel supera trauma de Oshiga; Benray reconciliado con su pasado; Axel asume Unidad 42; devoción fraternal | Culto del Devorador (célula de Castrovel destruida; alerta máxima por flota en La Diáspora) |
+| **Volumen 4** | *Estrella Errante* (en órbita de Castrovel) | Campus Universidad de Qabarat / Puesto de Turhalu (Ukulam) | Triel busca el rastro de **Keiden Ashton** y la nave *Fiebre de Oro*; Benrey confronta su pasado de piloto en Triaxus | Legión del Fuego en el Cielo; partida mercenaria de Eroopa Cual y el cazador Salas |
+| **Volumen 5** | *Estrella Errante* (órbita de Castrovel, lista para salto) | Puesto de Turhalu / Vivac en Ukulam / Templo de los Doce Soles | Triel supera trauma de Oshiga; Benrey reconciliado con su pasado; Axel asume Unidad 42; devoción fraternal | Culto del Devorador (célula de Castrovel destruida; alerta máxima por flota en La Diáspora) |
 
 

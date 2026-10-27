@@ -16,7 +16,7 @@ Sin mediar otra palabra, la ejecutiva apretó el gatillo en modo de fuego comple
 
 El rugido del fusil llenó el despacho con una violencia ensordecedora. Una tormenta de balas perforantes de calibre militar barrió la estancia a quemarropa. Las ráfagas destrozaron las estanterías de madera, haciendo que cientos de páginas de leyes corporativas salieran volando por el aire como una ventisca de papel ensangrentado. La alfombra persa quedó hecha jirones bajo los impactos, y las astillas del escritorio saltaron en todas direcciones mientras Marloc y Axel se lanzaban de cabeza tras un pesado sillón de cuero reforzado.
 
-—¡Por las barbas de mi abuelo! —bramó Benray, asomando apenas la punta de la nariz desde el pasillo mientras los casquillos vacíos tintineaban sobre el suelo—. ¡Nadie me avisó de que los abogados de Extracciones Astrales venían equipados con armamento de infantería pesada! ¡¿Dónde estudió leyes esta señora, en la academia de artillería de los Vesk?!
+—¡Por las barbas de mi abuelo! —bramó Benrey, asomando apenas la punta de la nariz desde el pasillo mientras los casquillos vacíos tintineaban sobre el suelo—. ¡Nadie me avisó de que los abogados de Extracciones Astrales venían equipados con armamento de infantería pesada! ¡¿Dónde estudió leyes esta señora, en la academia de artillería de los Vesk?!
 
 —¡Cubre el flanco izquierdo! —ordenó Bumak, disparando dos ráfagas de plasma desde la puerta para obligar a Joss a agachar la cabeza tras el mamparo de su mesa.
 
@@ -52,7 +52,7 @@ Bumak entró en el despacho a paso rápido, metiendo los discos duros y las carp
 
 —Archivos asegurados —anunció el drow, guiñándole un ojo a Triel con una sonrisa triunfal—. Patentes de antimateria, contratos de sicariato y los registros financieros de las operaciones en la Roca del Drift. Esto destruirá la carrera de Joss y pondrá a Extracciones Astrales a la defensiva durante los próximos diez años.
 
-—Ahora solo queda un pequeño detalle sin importancia —intervino Benray desde el umbral, señalando hacia el pasillo exterior con el hocico crispado.
+—Ahora solo queda un pequeño detalle sin importancia —intervino Benrey desde el umbral, señalando hacia el pasillo exterior con el hocico crispado.
 
 Desde las plantas inferiores, el aullido atronador de sirenas de alarma general y el chirrido de los frenos de tres patrullas aerotransportadas de la policía de la estación comenzaron a resonar contra los ventanales de la torre.
 

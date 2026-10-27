@@ -10,7 +10,7 @@ En el centro de su cabeza cónica se encendió un único fotorreceptor carmesí,
 
 —¡Construcción autónoma de seguridad! —gritó Triel, escaneando el chasis con su datapad de diagnóstico a toda velocidad—. ¡Los nanitos de mantenimiento interno murieron hace milenios, pero sus sistemas de armamento están al cien por ciento!
 
-—¿Puntos débiles, Triel? —demandó Benray, desenfundando su pistola mientras se parapetaba tras una consola de pared—. ¡Dime que no es inmune a las balas o tendré que empezar a arrojarle las raciones de emergencia!
+—¿Puntos débiles, Triel? —demandó Benrey, desenfundando su pistola mientras se parapetaba tras una consola de pared—. ¡Dime que no es inmune a las balas o tendré que empezar a arrojarle las raciones de emergencia!
 
 —¡Es vulnerable a sobrecargas eléctricas y a impactos críticos de energía! —respondió la mecánica mientras coordinaba los enlaces motores de Gerty—. ¡Sus blindajes desvían proyectiles balísticos ordinarios, pero su núcleo cuántico es sensible a la resonancia voltaica! ¡Y cuidado con su emisor de arco!
 
@@ -18,9 +18,9 @@ Como respondiendo a la advertencia, una compuerta lateral en el techo se abrió 
 
 —¡Abajo todos! —advirtió Axel.
 
-Los reflejos del pelotón fueron impecables. Benray y Marloc se arrojaron contra las losas del suelo, Triel se cubrió tras el hombro acorazado de Gerty y Axel ejecutó un salto lateral que le permitió rodar sobre el suelo presurizado y esquivar la masa viscosa, que se endureció al contacto con la piedra convirtiéndose en un polvo seco y quebradizo.
+Los reflejos del pelotón fueron impecables. Benrey y Marloc se arrojaron contra las losas del suelo, Triel se cubrió tras el hombro acorazado de Gerty y Axel ejecutó un salto lateral que le permitió rodar sobre el suelo presurizado y esquivar la masa viscosa, que se endureció al contacto con la piedra convirtiéndose en un polvo seco y quebradizo.
 
-—Esa trampa expiró hace tres dinastías —bufó Benray, sacudiéndose el polvo del hocico—. ¡Ahora nos toca a nosotros!
+—Esa trampa expiró hace tres dinastías —bufó Benrey, sacudiéndose el polvo del hocico—. ¡Ahora nos toca a nosotros!
 
 ***
 
@@ -76,7 +76,7 @@ Los dedos huesudos de Moriko sostenían con firmeza una pistola de arco estátic
 
 —Se quitó la vida —dijo Triel con la voz rota, volviéndose hacia sus compañeros con lágrimas asomando a sus ojos—. Se encerró aquí dentro, activó el campo de fuerza para aislarse... y apretó el gatillo.
 
-Benray se arrodilló al otro lado del cuerpo. El ysoki, habitualmente bromista y despreocupado, bajó la mirada con una tristeza profunda y sincera:
+Benrey se arrodilló al otro lado del cuerpo. El ysoki, habitualmente bromista y despreocupado, bajó la mirada con una tristeza profunda y sincera:
 
 —Setenta y cinco años sola en el abismo. Sin comida, sin suministros, viendo cómo las baterías del campo de fuerza se agotaban hora tras hora... y sabiendo que afuera acechaba algo que quería devorar su alma.
 
@@ -94,4 +94,4 @@ La pantalla del datapad parpadeó con una luz suave y azulada. Una interfaz holo
 
 > **MI ÚLTIMA VOLUNTAD Y TESTAMENTO**
 
-—Pónganle play —pidió Benray con voz queda—. Escuchemos lo que la capitana tiene que decirnos.
+—Pónganle play —pidió Benrey con voz queda—. Escuchemos lo que la capitana tiene que decirnos.

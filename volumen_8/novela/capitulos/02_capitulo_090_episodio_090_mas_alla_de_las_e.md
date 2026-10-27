@@ -6,10 +6,10 @@ El tránsito desde los muelles espaciales hacia el corazón del sector diplomát
 
 Las avenidas de la capital estaban pavimentadas con adoquines de vidrio volcánico pulido que reflejaban la luz enfermiza de los faroles de necroplasma violeta. A ambos lados de la calzada, sirvientes zombis con números de serie grabados en la frente empujaban carretas de suministros químicos, mientras ciudadanos momificados con trajes de negocios y aristócratas liches vestidos con sedas exóticas caminaban con lentitud aristocrática, ignorando olímpicamente a los escasos extranjeros de carne y hueso que se cruzaban en su camino.
 
-Benray caminaba pegado a Triel, con la capucha de su chaleco calada hasta los bigotes y las manos metidas en los bolsillos:
+Benrey caminaba pegado a Triel, con la capucha de su chaleco calada hasta los bigotes y las manos metidas en los bolsillos:
 —Esto es peor que una pesadilla de Halloween. Nadie pestañea. Nadie bosteza. ¡Ni siquiera se quejan del tráfico! Una ciudad donde la gente no protesta es una ciudad donde algo está profundamente podrido... literalmente.
 
-—La sociedad de Eox valora la eficiencia sobre la espontaneidad, Benray —apuntó Marloc con voz baja mientras observaba las fachadas de los ministerios—. Los muertos no tienen prisa porque el tiempo no corre en su contra. Pueden dedicar siglos a debatir una enmienda fiscal o a planificar una conspiración militar.
+—La sociedad de Eox valora la eficiencia sobre la espontaneidad, Benrey —apuntó Marloc con voz baja mientras observaba las fachadas de los ministerios—. Los muertos no tienen prisa porque el tiempo no corre en su contra. Pueden dedicar siglos a debatir una enmienda fiscal o a planificar una conspiración militar.
 
 —Y según los informes de inteligencia de los Protectores —añadió Triel—, la embajada de los Mundos del Pacto es el único pedazo de suelo en este planeta donde ondea una bandera que no huele a tumba.
 
@@ -48,7 +48,7 @@ El nombre hizo que Marloc tomara nota inmediata:
 Vance soltó un suspiro amargo:
 —No la encontrarán en ningún salón de baile de Orphys. Hace tres meses, Xerantha abandonó su escaño en el Consejo y se atrincheró en su fortaleza privada en la fosa de la Necrogarganta, a ochocientos kilómetros al sur, en pleno corazón de los páramos radiactivos más letales del planeta. Nadie que viaje hacia la Necrogarganta regresa para contarlo.
 
-Benray se levantó de su asiento con una mueca triunfal:
+Benrey se levantó de su asiento con una mueca triunfal:
 —¿Lo ven? El destino nos está diciendo claramente que es hora de volver a casa. ¡Ochocientos kilómetros de desierto nuclear para visitar a un zombi en una zanja! Muchas gracias, señora embajadora, ha sido un placer conocerla...
 
-—No nos iremos, Benray —lo cortó Triel con una mirada de acero—. Si Xerantha tiene los planos del Devastador, cruzaremos ese desierto aunque tengamos que empujar el convoy con las manos.
+—No nos iremos, Benrey —lo cortó Triel con una mirada de acero—. Si Xerantha tiene los planos del Devastador, cruzaremos ese desierto aunque tengamos que empujar el convoy con las manos.

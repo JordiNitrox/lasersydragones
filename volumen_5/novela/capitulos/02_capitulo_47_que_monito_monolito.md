@@ -4,7 +4,7 @@
 
 El silencio que siguió al derrumbe del puente resultó casi inquietante tras el estruendo de la estampida. Rodeados por una muralla de árboles colosales cuyas copas se entrelazaban a más de cuarenta metros de altura, el grupo se tomó unos minutos para recuperar el aliento y revisar el sellado ambiental de sus blindajes.
 
-—Bueno —rompió el silencio Benray, sacudiéndose el polvo calcáreo de la casaca—, supongo que la retirada estratégica queda formalmente cancelada. Nada agudiza el ingenio como saber que el único camino de vuelta es a través de un foso de cien metros.
+—Bueno —rompió el silencio Benrey, sacudiéndose el polvo calcáreo de la casaca—, supongo que la retirada estratégica queda formalmente cancelada. Nada agudiza el ingenio como saber que el único camino de vuelta es a través de un foso de cien metros.
 
 —Avanzar era nuestra única directiva desde el principio —repuso Axel, verificando el cargador térmico de su fusil—. Si Salas y los cultistas lograron cruzar esta región sin equipo pesado, debe existir un sendero practicable más adelante.
 
@@ -18,7 +18,7 @@ Marloc avanzó con los ojos muy abiertos, acariciando la piedra milenaria con la
 
 Antes de que Marloc pudiera responder, un proyectil húmedo y viscoso cruzó el aire a gran velocidad e impactó con un chasquido sordo contra la hombrera de Axel. La androide dio un paso atrás por reflejo, observando una masa pulposa y maloliente que chorreaba por su blindaje.
 
-—¿Qué demonios...? —murmuró Benray, olfateando el aire con una mueca de repugnancia—. Huele a fruta podrida fermentada con ácido de batería.
+—¿Qué demonios...? —murmuró Benrey, olfateando el aire con una mueca de repugnancia—. Huele a fruta podrida fermentada con ácido de batería.
 
 Desde las ramas más altas del dosel, un coro de chillidos estridentes y siseos metálicos respondió a sus palabras.
 
@@ -32,7 +32,7 @@ Trece de aquellas bestias planeaban en círculos cerrados sobre el claro, arroja
 
 —¡Emboscada aérea! —gritó Axel, rodando sobre el pavimento enlosado para buscar cobertura tras un pedestal derruido.
 
-Un segundo higo estalló en el pecho de Benray, haciéndole trastabillar mientras el jugo acre comenzaba a corroer la tela de su casaca:
+Un segundo higo estalló en el pecho de Benrey, haciéndole trastabillar mientras el jugo acre comenzaba a corroer la tela de su casaca:
 
 —¡Malditos monos degenerados! ¡Están usando artillería biológica! ¡Gerty, aplasta a esos bichos voladores!
 
@@ -50,7 +50,7 @@ En el suelo, la refriega se volvió caótica. Los simios alados se lanzaban en p
 
 Triel demostró una agilidad asombrosa. Blandiendo su pica con movimientos circulares aprendidos en los talleres y callejones de la Diáspora, interceptó a uno de los monstruos que se abalanzaba sobre ella, atravesándole el ala membranosa y estrellándolo contra los sillares de piedra. A su lado, Gerty descargó un puñetazo neumático de varias toneladas de presión que pulverizó a un segundo atacante contra el fuste del monolito.
 
-Benray, por su parte, convirtió el combate en un espectáculo de acrobacias y picaresca. Saltando de un bloque de piedra a otro con piruetas calculadas, el ysoki confundía a los simios con fintas engañosas antes de dispararles a quemarropa con su pistola:
+Benrey, por su parte, convirtió el combate en un espectáculo de acrobacias y picaresca. Saltando de un bloque de piedra a otro con piruetas calculadas, el ysoki confundía a los simios con fintas engañosas antes de dispararles a quemarropa con su pistola:
 
 —¡Por aquí, carotas de escorpión! ¡A ver si atrapan esto! —gritó, rodando bajo las garras de un macho alfa y descerrajándole un tiro de plasma en el bajo vientre que lo hizo desplomarse envuelto en humo.
 
@@ -68,6 +68,6 @@ Axel, entretanto, se arrodilló junto a la base del obelisco, apartando cuidados
 
 —Salas estuvo apostado aquí arriba —anunció la androide, mostrando la pieza a sus compañeros—. Usó el obelisco como puesto de observación para estudiar el valle antes de reanudar la marcha. No estamos lejos de ellos.
 
-Benray recargó su arma con un chasquido metálico y miró hacia la espesura que se cerraba más allá del monumento:
+Benrey recargó su arma con un chasquido metálico y miró hacia la espesura que se cerraba más allá del monumento:
 
 —Entonces no perdamos más tiempo oliendo a macedonia podrida. Sigamos las huellas.

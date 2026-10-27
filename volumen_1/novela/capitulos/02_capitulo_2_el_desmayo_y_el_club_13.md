@@ -12,27 +12,27 @@ Cada paso le exigía una concentración hercúlea. Dentro de su cráneo, la reso
 
 Tosió con violencia. Un esputo sanguinolento cayó sobre las rejillas de ventilación. La prótesis cibernética de su brazo izquierdo temblaba fuera de control; los circuitos de plata grabados bajo las placas metálicas emitían chispas azuladas que olían a aislante derretido. Buscaba a Chic, el contacto indicado en aquel mensaje insólito firmado por *M.B.*, la única pista que le quedaba tras haber sido borrado de los registros del Arcanamirium. Pero el laberinto de contenedores habitacionales apilados como fichas de dominó era interminable.
 
-La vista se le nubló por completo. El horizonte de luces y pasarelas giró sobre su eje, las piernas le fallaron y Marloc Boosmar cayó de bruces sobre el suelo de metal, perdiendo el sentido justo en el umbral de una vivienda familiar.
+La vista se le nubló por completo. El horizonte de luces y pasarelas giró sobre su eje, las piernas le fallaron y Marloc Boosmar cayó de bruces sobre el suelo de metal, perdiendo el sentido justo frente a la puerta de uno de los módulos habitacionales.
 
 Apenas dos segundos después, el estridente petardeo de un motor de combustión modificada rasgó el aire del callejón.
 
-Una motoneta espacial de dos ruedas, con el chasis despintado y tubos de escape que escupían humo blanco con olor a queroseno barato, derrapó en la esquina. Sobre el asiento iba Benray Galway a los mandos, con su pelaje blanco ondeando al viento y la mancha negra de sus ojos fija en el obstáculo. En el transportín trasero, su primo Rim Rey se aferraba al guardabarros chillando de pánico.
+Una motoneta espacial de dos ruedas, con el chasis despintado y tubos de escape que escupían humo blanco con olor a queroseno barato, derrapó en la esquina. Sobre el asiento iba Benrey Galway a los mandos, con su pelaje blanco ondeando al viento y la mancha negra de sus ojos fija en el obstáculo. En el transportín trasero, su primo Rim Rey se aferraba al guardabarros chillando de pánico.
 
-—¡Frena, Benray, frena que nos estrellamos contra un muerto!
+—¡Frena, Benrey, frena que nos estrellamos contra un muerto!
 
-Benray clavó los frenos magnéticos. La motoneta se detuvo a escasos centímetros del cuerpo tendido de Marloc, levantando una nube de polvo y serrín.
+Benrey clavó los frenos magnéticos. La motoneta se detuvo a escasos centímetros del cuerpo tendido de Marloc, levantando una nube de polvo y serrín.
 
-—¡Por los bigotes de mi abuela! —exclamó Benray, bajándose de un salto ágil y apoyando el vehículo en la pata de cabra—. ¿Qué clase de borracho se desmaya en mitad de la vía pública a estas horas del ciclo?
+—¡Por los bigotes de mi abuela! —exclamó Benrey, bajándose de un salto ágil y apoyando el vehículo en la pata de cabra—. ¿Qué clase de borracho se desmaya en mitad de la vía pública a estas horas del ciclo?
 
 Rim Rey asomó el hocico, olisqueando el aire con desconfianza.
 
 —Mira esa ropa, primo. Traje de paño fino, gabán con forro de seda, corbata... Ese tipo huele a créditos. Rápido, revisémosle los bolsillos antes de que vengan los del sindicato.
 
-Benray le dio un manotazo en la frente a su primo.
+Benrey le dio un manotazo en la frente a su primo.
 
 —¡Compórtate, Rim! Ya no nos dedicamos a esas bajezas callejeras, somos profesionales de la aventura y el espectáculo. Además... mira su brazo.
 
-Benray se arrodilló junto al humano inconsciente. Le dio un par de palmadas firmes en la mejilla, notando que el hombre ardía en fiebre. 
+Benrey se arrodilló junto al humano inconsciente. Le dio un par de palmadas firmes en la mejilla, notando que el hombre ardía en fiebre. 
 
 —Amigo, despierta. Oiga, señor de la corbata elegante. Si va a morirse, tenga la decencia de hacerlo a un lado de la calzada, que bloquea el tráfico vecinal.
 
@@ -40,15 +40,15 @@ Marloc emitió un gemido sordo. Sus ojos se abrieron con lentitud, desenfocados,
 
 —¿Qué... qué ocurre? —balbuceó el tecnomante, tratando de apoyarse en su brazo mecánico—. ¿Quién es usted?
 
-—Alguien con la cortesía de no haberle robado la billetera todavía —respondió Benray con una sonrisa de oreja a oreja—. Ha sufrido una caída estrepitosa contra el suelo, caballero. ¿Está bien o necesita que llame a una carretilla de reciclaje?
+—Alguien con la cortesía de no haberle robado la billetera todavía —respondió Benrey con una sonrisa de oreja a oreja—. Ha sufrido una caída estrepitosa contra el suelo, caballero. ¿Está bien o necesita que llame a una carretilla de reciclaje?
 
 —Buscaba... buscaba a Chic —dijo Marloc con dificultad, pasándose la manga por la boca para limpiarse la sangre—. Me indicaron que vivía en este bloque.
 
-Benray arqueó una ceja, sorprendido.
+Benrey arqueó una ceja, sorprendido.
 
 —¿Chic? ¿El viejo Chic? Esta es la casa de su familia, en efecto. Vamos, arriba, aristócrata de las togas. Veamos si el gordo está en casa.
 
-Benray ayudó a Marloc a ponerse en pie y aporreó la puerta de chapa con los nudillos.
+Benrey ayudó a Marloc a ponerse en pie y aporreó la puerta de chapa con los nudillos.
 
 Unos goznes chirriaron y la puerta se abrió una rendija. Al otro lado apareció un pequeño ysoki de no más de diez años, con un mono de mecánico infantil tres tallas más grande. El cachorro alzó la vista, vio la estatura imponente de Marloc, su bigote afilado, el brazo de metal humeante y el semblante demacrado, y soltó un alarido de puro pánico:
 
@@ -56,9 +56,9 @@ Unos goznes chirriaron y la puerta se abrió una rendija. Al otro lado apareció
 
 El niño salió disparado hacia el interior chillando a pleno pulmón. Un segundo después apareció en el umbral una matrona ysoki de aspecto imponente, secándose las manos en un delantal grasiento y cargando en brazos a un bebé roedor completamente calvo, rosado y arrugado que chupaba un tornillo de plástico. Al fondo de la vivienda se veían otros dos pequeños ysokis enfrascados en juegos holo-ópticos con grandes visores de realidad virtual sobre sus orejas.
 
-—¡A ver, qué escándalo es este! —bramó la mujer, fulminando a Benray con la mirada—. ¡Benray Galway! ¿Ya estás trayendo borrachos de la superficie a mi puerta? Bastante asustado está el pequeño Remy con las historias de fantasmas que cuentan en la holored para que me vengan con estas fachas.
+—¡A ver, qué escándalo es este! —bramó la mujer, fulminando a Benrey con la mirada—. ¡Benrey Galway! ¿Ya estás trayendo borrachos de la superficie a mi puerta? Bastante asustado está el pequeño Remy con las historias de fantasmas que cuentan en la holored para que me vengan con estas fachas.
 
-—Mis respetos, doña Marta —dijo Benray inclinando la cabeza con una cortesía impecable—. No es un borracho, es un distinguido profesor que busca a su esposo Chic por asuntos de vital urgencia.
+—Mis respetos, doña Marta —dijo Benrey inclinando la cabeza con una cortesía impecable—. No es un borracho, es un distinguido profesor que busca a su esposo Chic por asuntos de vital urgencia.
 
 Marloc, tratando de recomponer su dignidad pese al mareo, hizo una leve reverencia.
 
@@ -74,7 +74,7 @@ La mujer entrecerró los ojos pardos, examinando el traje de Marloc y la sangre 
 
 La mujer cerró la puerta de golpe, dejando el callejón en silencio.
 
-Benray se volvió hacia Marloc, frotándose las manos enguantadas.
+Benrey se volvió hacia Marloc, frotándose las manos enguantadas.
 
 —Bueno, señor Boosmar. Parece que compartimos destino. El *Club 13* está a cuatro esquinas de aquí. Súbase a la motoneta... si promete no vomitar sobre el motor.
 
@@ -90,7 +90,7 @@ Triel Istrav se detuvo ante la entrada protegida por una cortina de cuentas de p
 
 —*Secuencia de inicio completada. Firmware versión 4.2 restaurado sin optimismo biológico* —anunció el meca con una voz sintetizada, plana y carente de toda cortesía—. *Sensores de audio detectan música estridente de frecuencia desagradable en el interior. Adicionalmente, registro olores a alcohol destilado de baja graduación y fluidos corporales fermentados. Sugiero abrir fuego preventivo contra el establecimiento.*
 
-—Gerty, compórtate —ordenó Triel en un susurro cortante—. Vamos a entrar, buscar a nuestro contacto, tomarnos algo decente y conseguir una habitación. No busques pelea.
+—Gerty, compórtate —ordenó Triel en un susurro cortante—. Vamos a entrar, tomarnos algo decente y alquilar una habitación para pasar la noche. No busques pelea.
 
 —*Mi programación no busca peleas, jefa. Las peleas simplemente se sienten atraídas por mi superioridad mecánica.*
 
@@ -100,23 +100,29 @@ El interior del *Club 13* estaba envuelto en una penumbra azulada surcada por ha
 
 En el centro de la sala, una camarera cibernética que solo conservaba un brazo se desplazaba sobre una sola rueda giroscópica, sosteniendo con pasmosa destreza una bandeja llena de vasos de cristal. En su chasis facial tenía pintados unos labios rojos muy vivos y dos lunares negros que le daban un aire coqueto y anticuado.
 
-—Buenas noches, señorita —dijo la máquina con una voz metálica cantaril—. Bienvenidos al 13. Para la mole de aleación tenemos aceite sintético premium; para usted, tenemos mesas libres al fondo.
+—Buenas noches, señorita —dijo la máquina con una voz metálica cantaril—. Bienvenidos al 13. Para la mole de aleación tenemos aceite sintético premium; para usted, habitaciones disponibles y mesas al fondo.
 
-—Solo un vaso de vino de Apostae —pidió Triel, dejándole dos créditos sobre la bandeja—. Y dígame... ¿dónde puedo encontrar a Chic?
+—Solo un vaso de vino de Apostae y una habitación para descansar —pidió Triel, dejándole dos créditos sobre la bandeja—. Sal me dijo que este era un buen sitio para no llamar la atención.
 
-La camarera giró la cabeza noventa grados, señalando con el pico de su única bandeja hacia una mesa circular ubicada en el rincón más oscuro, bajo una lámpara colgante con la pantalla rota.
+—Aquí nadie hace preguntas indiscretas, cariño —respondió la camarera, haciéndole un guiño mecánico—. Pase hacia las mesas del fondo mientras le preparo la llave digital.
 
-Allí estaba sentado un ysoki corpulento y entrado en años, enfundado en un chaleco de cuero desgastado. Y frente a él, inmóvil como una pantera agazapada, una mujer androide de cabello oscuro y líneas bioluminiscentes rosadas masticaba con lentitud milimétrica un plato de barritas de nutrientes deshidratados.
+Triel avanzó con paso cauteloso hacia la zona más apartada. Gerty marchó tras ella, haciendo crujir las tablas del suelo a cada pisada, con sus dos puntos ópticos parpadeando en la cúpula superior.
 
-Triel se acercó con paso cauteloso. Gerty marchó tras ella, haciendo crujir las tablas del suelo a cada pisada, con sus dos puntos ópticos parpadeando en la cúpula superior.
+En una mesa circular ubicada en el rincón más oscuro, bajo una lámpara colgante con la pantalla rota, estaba sentado un ysoki corpulento y entrado en años, enfundado en un chaleco de cuero desgastado. Frente a él, inmóvil como una pantera agazapada, una mujer androide de cabello oscuro y líneas bioluminiscentes rosadas masticaba con lentitud milimétrica un plato de barritas de nutrientes deshidratados.
 
-El ysoki de la mesa alzó la vista, sorprendido por el tamaño del autómata, pero sus ojos se iluminaron al fijarse en Triel.
+Al escuchar los pesados pasos metálicos de Gerty, el ysoki alzó la vista. Sus ojillos oscuros recorrieron con asombro la descomunal silueta del meca, pero al posarse en Triel —en su piel violácea de mestizaje drow, su pelo blanco revuelto y el emblema corsario en la espalda de su chaqueta—, su hocico se abrió en una mueca de franca satisfacción.
 
-—¡Vaya, por fin! —exclamó el roedor con una voz ronca que delataba fumar demasiado puro—. Tú debes de ser Triel Istrav. La muchacha que vino en el *Halcón de Hierro*. El capitán Frederick me mandó tus credenciales por la mañana.
+—¡Eh, tú! ¡La chica de la chaqueta corsaria! —exclamó el roedor con una voz ronca que delataba fumar demasiado puro—. Tú debes de ser Triel Istrav.
 
-—Así es —respondió Triel, tomando asiento frente a ellos mientras Gerty se apostaba a sus espaldas, cruzando sus enormes brazos mecánicos con actitud de centinela implacable—. Me dijeron que tenía un trabajo para mí.
+Triel se detuvo en seco, frunciendo el ceño con desconfianza. Gerty se cuadró a sus espaldas, cruzando sus enormes brazos mecánicos con actitud de centinela implacable.
 
-—Y uno muy bien pagado —dijo Chic, antes de señalar con el pulgar hacia su acompañante—. Te presento a tu compañera de contrato: la unidad A.Xel 42.
+—¿Quién pregunta? —inquirió Triel en guardia—. No recuerdo haberle dado mi nombre a nadie en esta estación.
+
+—Tranquila, linda, no soy de la patrulla del sindicato —dijo el ysoki, haciéndole un gesto para que se sentara—. Me llamo Chic. Mi cliente me pagó para encontrar a alguien de tus características exactas para un encargo confidencial.
+
+—No estaba buscando trabajo —respondió Triel, tomando asiento frente a ellos sin bajar la guardia—. Solo buscaba un trago y una cama donde dormir. Aunque... supongo que escuchar no cuesta créditos.
+
+—Y este trabajo está muy bien pagado —aseguró Chic, antes de señalar con el pulgar hacia su acompañante—. Te presento a tu compañera de contrato: la unidad A.Xel 42.
 
 A.Xel detuvo el movimiento de su tenedor. Sus pupilas digitales, de un tono magenta pálido y cristalino, recorrieron el rostro de Triel, su piel violácea, el diseño de calavera y espadas cruzadas a la espalda de su chaqueta negra y, finalmente, se posaron sobre la mole de dos metros que la custodiaba.
 

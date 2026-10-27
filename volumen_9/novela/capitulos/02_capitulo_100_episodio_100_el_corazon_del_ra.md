@@ -16,9 +16,9 @@ Una decena de soldados esqueléticos con armaduras de placas negras y rifles de 
 
 ### II. Resistencia de choque en la pasarela
 
-Zivok y Marloc tomaron la vanguardia del combate. Marloc extendió su mano mística y conjuró un muro de escarcha arcana que congeló los proyectiles enemigos en el aire, mientras Benray y Axel respondían con fuego de precisión desde la cobertura de los pilares de refrigeración.
+Zivok y Marloc tomaron la vanguardia del combate. Marloc extendió su mano mística y conjuró un muro de escarcha arcana que congeló los proyectiles enemigos en el aire, mientras Benrey y Axel respondían con fuego de precisión desde la cobertura de los pilares de refrigeración.
 
-—¡Disparen a los núcleos de los chalecos! —gritó Benray—. ¡Los esqueletos no sienten dolor, pero sus condensadores de energía explotan como castañas!
+—¡Disparen a los núcleos de los chalecos! —gritó Benrey—. ¡Los esqueletos no sienten dolor, pero sus condensadores de energía explotan como castañas!
 
 Axel ejecutó tres disparos milimétricos. Tres soldados enemigos estallaron en fogonazos de plasma violeta, quebrando la línea de ataque de la Flota.
 

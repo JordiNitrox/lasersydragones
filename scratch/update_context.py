@@ -14,9 +14,9 @@ gerty_old = "así consolidándose como el muro indestructible de la tripulación
 gerty_new = "así consolidándose como el muro indestructible de la tripulación. En el Vol. 4 y Vol. 5 actúa como la vanguardia blindada ante estampidas de Yaruks, ráfagas de ametralladora rotatoria y estatuas de piedra milenarias con sus cuatro brazos mecánicos y pica de choque."
 text = text.replace(gerty_old, gerty_new)
 
-benray_old = "manda a paseo las cláusulas usureras de los productores de la holored."
-benray_new = "manda a paseo las cláusulas usureras de los productores de la holored. En el Vol. 4 desata el motín del Domo Horizonte con su 'mosh pit de la rata'; en el Vol. 5 otorga un disparo compasivo a Aravask, sus compañeros descubren en el datapad de Salas sus temerarios vídeos de juventud en Absalón y abate a Tahomen con su maniobra de 'un paso a la izquierda' en la Cámara de las Estrellas."
-text = text.replace(benray_old, benray_new)
+benrey_old = "manda a paseo las cláusulas usureras de los productores de la holored."
+benrey_new = "manda a paseo las cláusulas usureras de los productores de la holored. En el Vol. 4 desata el motín del Domo Horizonte con su 'mosh pit de la rata'; en el Vol. 5 otorga un disparo compasivo a Aravask, sus compañeros descubren en el datapad de Salas sus temerarios vídeos de juventud en Absalón y abate a Tahomen con su maniobra de 'un paso a la izquierda' en la Cámara de las Estrellas."
+text = text.replace(benrey_old, benrey_new)
 
 marloc_old = "articula la victoria legal de Hardscrabble ante el juez Keltrosho."
 marloc_new = "articula la victoria legal de Hardscrabble ante el juez Keltrosho. En el Vol. 4 encara a su pariente Ambrose Boosmar y honra a Marlene; en el Vol. 5 descifra las inscripciones astronómicas de Loskialua, conmueve al Último Elfo con su esfera rúnica dorada y neutraliza la magia entrópica del Devorador en el santuario cumbre."
@@ -27,7 +27,7 @@ axel_new = "consolida formalmente su romance con el **Oficial León** de Los Pro
 text = text.replace(axel_old, axel_new)
 
 # Reemplazar apariciones de protagonistas
-for p in ['Triel Istrav', 'Gerty', 'Benray Galway', 'Marloc Boosmar', 'A.Xel 42']:
+for p in ['Triel Istrav', 'Gerty', 'Benrey Galway', 'Marloc Boosmar', 'A.Xel 42']:
     header = f"#### {p}\n"
     pos = text.find(header)
     if pos != -1:
@@ -91,7 +91,7 @@ nuevos_personajes = """
 * **Especie:** Lashunta  
 * **Rol:** Sumo Sacerdote del Culto del Devorador en Castrovel (Comandante de Ukulam)  
 * **Aparición en volúmenes:** **Volumen 5**  
-* **Descripción:** Líder fanático y despiadado con el rostro desfigurado por escarificaciones rituales y manto de pieles de bestias. Obsesionado con abrir la Puerta de los Doce Soles y aniquilar las estrellas, fuerza a la doctora Solstarni a descifrar el templo antes de ser abatido de un disparo en el pecho por Benray en la Cámara de las Estrellas tras transmitir las coordenadas a La Diáspora.
+* **Descripción:** Líder fanático y despiadado con el rostro desfigurado por escarificaciones rituales y manto de pieles de bestias. Obsesionado con abrir la Puerta de los Doce Soles y aniquilar las estrellas, fuerza a la doctora Solstarni a descifrar el templo antes de ser abatido de un disparo en el pecho por Benrey en la Cámara de las Estrellas tras transmitir las coordenadas a La Diáspora.
 
 #### Salas
 * **Especie:** Lashunta  
@@ -109,7 +109,7 @@ nuevos_personajes = """
 * **Especie:** Lashunta  
 * **Rol:** Exploradora y cultista del Devorador  
 * **Aparición en volúmenes:** **Volumen 5**  
-* **Descripción:** Fanática del culto abandonada en la espesura tras ser infectada por las esporas carroñeras de un Khasari. En medio de su agonía febril, recibe un disparo de compasión por parte de Benray y un entierro digno bajo las raíces de Ukulam.
+* **Descripción:** Fanática del culto abandonada en la espesura tras ser infectada por las esporas carroñeras de un Khasari. En medio de su agonía febril, recibe un disparo de compasión por parte de Benrey y un entierro digno bajo las raíces de Ukulam.
 
 #### El Último Elfo de Loskialua
 * **Especie:** Elfo Pre-Brecha (Inmortal)  
@@ -202,7 +202,7 @@ tabla_new = """| Parámetro | Volumen 1 (*Sombras sobre Absalón*) | Volumen 2 (
 | **Armamento de Gerty** | Cañón láser frontal, dos brazos pesados | Cuatro brazos (añadidos manipuladores finos) | Cuatro brazos reforzados + cañón láser pesado | Cuatro brazos pesados + pica de choque y cañón láser | Cuatro brazos reforzados + pica de alta frecuencia, ametralladora pesada y escudos |
 | **Aliados a Bordo** | Ninguno (solo los 4 fundadores + Gerty) | Se unen los goblins **Willy** y **Naru** | Willy y Naru (ciudadanos de honor y protegidos de Eox) | Willy y Naru (en órbita); Sophie Ren (Qabarat); Dr. Kaeral (Turhalu) | Willy y Naru (en órbita); **Doctora Omejia Solstarni** (rescatada); Dr. Kaeral |
 | **Contactos / Red** | **Null-9** (Club 13), Chic, Rim Rey | Rim Rey, Embajador Nor | **Null-9** (red androide), Rim Rey, Embajador Nor, Chiskisk | **Null-9**, Oficial León (token prioritario), Decana Muhali, Casonas y Thiable | **Null-9**, Oficial León, Decana Muhali, claustro de la Universidad de Qabarat |
-| **Vínculos Afectivos** | Cohesión fraternal inicial en combate | Creciente atracción entre **Axel 42** y el **Oficial León** | Romance formalizado entre **Axel 42** y el **Oficial León** | Axel y León se despiden con token cuántico; Triel revela a Cayden Aston | Triel supera trauma de Oshiga; Benray reconciliado con su pasado; Axel asume Unidad 42 |
+| **Vínculos Afectivos** | Cohesión fraternal inicial en combate | Creciente atracción entre **Axel 42** y el **Oficial León** | Romance formalizado entre **Axel 42** y el **Oficial León** | Axel y León se despiden con token cuántico; Triel revela a Cayden Aston | Triel supera trauma de Oshiga; Benrey reconciliado con su pasado; Axel asume Unidad 42 |
 | **Facciones Rivales** | Reyes del Nivel 21 (destruidos) | Extracciones Estelares (vía letrado Kaerom) | Extracciones Estelares (derrotada) y **Flota de los Cuerpos** | Legión del Fuego en el Cielo, mercenarios de Eroopa Cual y el cazador Salas | **Culto del Devorador** (célula de Castrovel destruida: Tahomen, Salas y Avissa muertos) |
 | **Pactos Secretos** | Ninguno | Sarcófago funerario de Eox asegurado | Sarcófago entregado al Embajador Nor; recompensa cobrada | Contrato con la Decana Muhali (2.500 cr.); salvoconducto corsario de *La Venganza* | Rescate de Solstarni cumplido; telemetría del Devastador Estelar recuperada |
 | **Misterio Cósmico** | Asesinato de Marlene Boosmar | Anomalía dimensional de la Roca del Drift; enigma de Syd Velch | Revelación de la baliza hacia el **Degenerador Estelar** | Relación de la esfera con Aucturn, portales de Aiakos y Dinastía Osuwak | Confirmado: la Roca del Drift es la llave de control; coordenadas apuntan a **La Diáspora** |

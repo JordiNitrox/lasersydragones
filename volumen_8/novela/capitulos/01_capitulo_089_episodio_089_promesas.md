@@ -6,13 +6,13 @@ El descenso a través de la ionosfera de Eox fue una experiencia que puso a prue
 
 En los monitores tácticos del *Hippocampus*, las lecturas de radiación gamma y estática electromagnética alcanzaban niveles críticos de color naranja. Afuera, el cielo no era azul ni estrellado: era una masa informe de nubes plomizas cargadas de hollín y ceniza pulverizada que azotaba el casco con un silbido metálico aterrador. A medida que la nave perdía altitud, las cordilleras de obsidiana y los mares de polvo atómico del continente muerto comenzaron a perfilarse bajo la neblina.
 
-Benray Galway estaba sentado en su butaca con los ojos desorbitados, aferrando los reposabrazos con tal fuerza que sus nudillos roedores estaban blancos:
+Benrey Galway estaba sentado en su butaca con los ojos desorbitados, aferrando los reposabrazos con tal fuerza que sus nudillos roedores estaban blancos:
 —Prométeme una cosa, Triel —jadeó el emisario, con la voz temblorosa—. Prométeme que no vamos a salir de la nave sin al menos tres capas de escafandra de plomo, cuatro crucifijos de plasma y un ambientador con olor a pino. ¡Puedo oler la descomposición a través del casco blindado!
 
-—Los mamparos tienen triple aislamiento hermético, Benray —respondió Triel sin apartar las manos de los mandos de vuelo—. Lo que hueles es el ozono de los escudos deflectores quemando el polvo radiactivo. Respira hondo. Si te hiperventilas ahora, vas a gastar el tanque de oxígeno antes de aterrizar en Orphys.
+—Los mamparos tienen triple aislamiento hermético, Benrey —respondió Triel sin apartar las manos de los mandos de vuelo—. Lo que hueles es el ozono de los escudos deflectores quemando el polvo radiactivo. Respira hondo. Si te hiperventilas ahora, vas a gastar el tanque de oxígeno antes de aterrizar en Orphys.
 
 Marloc Boosmar observaba los valles calcinados con una serenidad casi reverente:
-—Observa la arquitectura de las llanuras, Benray. Esas grietas no son fallas geológicas; son cicatrices de magia termonuclear de diez mil años de antigüedad. Este planeta sobrevivió a su propia muerte. En cierta forma, es el triunfo definitivo de la voluntad sobre la biología.
+—Observa la arquitectura de las llanuras, Benrey. Esas grietas no son fallas geológicas; son cicatrices de magia termonuclear de diez mil años de antigüedad. Este planeta sobrevivió a su propia muerte. En cierta forma, es el triunfo definitivo de la voluntad sobre la biología.
 
 —El triunfo de la locura, querrás decir —masculló el ysoki, tragando saliva—. Si la muerte te parece tan encantadora, avísame para pedir habitación individual en el hotel.
 
@@ -41,7 +41,7 @@ Eran esqueletos humanoides reanimados por cibernética de precisión: sus cráne
 
 —*«Bienvenidos a la ciudad eterna de Orphys, representantes de Absalón»* —entonó el aduanero con una voz sintetizada a través de un modulador instalado en su tráquea de cobre—. *«Presenten sus cartas de navegación y salvoconductos del Pacto. Cualquier intento de ingresar armas de energía no registradas o sustancias biológicas perecederas será castigado con la reasignación de su biomasa a los laboratorios de reciclaje.»*
 
-Benray soltó un chillido ahogado y se ocultó por completo detrás de la pierna izquierda de Gerty, asomando únicamente un ojo y dos bigotes temblorosos:
+Benrey soltó un chillido ahogado y se ocultó por completo detrás de la pierna izquierda de Gerty, asomando únicamente un ojo y dos bigotes temblorosos:
 —¡Díganle que somos vegetarianos y que no tenemos nada reciclable! ¡Gerty, ponte delante!
 
 Axel, imperturbable, avanzó con paso firme hasta quedar a un palmo del esqueleto aduanero. Extrajo el datapad con las credenciales selladas por Chiskisk e Inversiones Estelares S.C., sosteniéndolo con perfecta frialdad:
@@ -50,5 +50,5 @@ Axel, imperturbable, avanzó con paso firme hasta quedar a un palmo del esquelet
 El funcionario esquelético escaneó el documento. Los diodos de sus cuencas parpadearon dos veces antes de emitir un chasquido de aprobación:
 —*«Documentación aceptada, ciudadana sintética. Es un placer tratar con una entidad que no desperdicia recursos en transpirar. Tienen permiso para transitar por el sector diplomático. Que la paz de la no-muerte guíe sus pasos.»*
 
-Triel soltó el aire que contenía en los pulmones, tiró de la oreja de Benray para obligarlo a caminar y miró a Marloc con una sonrisa tensa:
+Triel soltó el aire que contenía en los pulmones, tiró de la oreja de Benrey para obligarlo a caminar y miró a Marloc con una sonrisa tensa:
 —Primera prueba superada. Bienvenidos a Eox, muchachos. No toquen nada que no esté bien muerto.

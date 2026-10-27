@@ -68,7 +68,7 @@ EPISODIOS_VOLUMEN_2 = [
         "url_pagina": "https://lasersydragones.libsyn.com/episodio-15-carnitas-corporativas",
         "url_audio": "https://traffic.libsyn.com/secure/lasersydragones/LasersYDragonesEpisodio015.mp3",
         "archivo_audio": "LasersYDragonesEpisodio015.mp3",
-        "sinopsis": "Benray visita a su familia ysoki, recupera su motoneta vespacial y recibe llamadas amenazantes."
+        "sinopsis": "Benrey visita a su familia ysoki, recupera su motoneta vespacial y recibe llamadas amenazantes."
     },
     {
         "numero": 16,

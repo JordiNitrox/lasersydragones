@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Ceremonia fúnebre a bordo del Hippocampus. Benray recita los cánticos de despedida de su clan y agradece a sus compañeros por no haberlo dejado solo.
+Ceremonia fúnebre a bordo del Hippocampus. Benrey recita los cánticos de despedida de su clan y agradece a sus compañeros por no haberlo dejado solo.
 
 ---
 

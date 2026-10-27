@@ -17,7 +17,7 @@ for ep in episodes:
     print(f"==========================================")
     
     # Check mentions of characters
-    chars = ["Marloc", "Benray", "Darv", "Twonás", "Twonas", "Triel", "Willy", "Naru", "Solstarni", "Salas", "Tahomen", "Nor", "Gevalarsk", "Joss", "Marcelus", "Venture", "Chula", "Hess", "Jabaxa"]
+    chars = ["Marloc", "Benrey", "Darv", "Twonás", "Twonas", "Triel", "Willy", "Naru", "Solstarni", "Salas", "Tahomen", "Nor", "Gevalarsk", "Joss", "Marcelus", "Venture", "Chula", "Hess", "Jabaxa"]
     found = {c: len(re.findall(r'\b' + re.escape(c) + r'\b', text, re.IGNORECASE)) for c in chars if re.findall(r'\b' + re.escape(c) + r'\b', text, re.IGNORECASE)}
     print(f"Menciones de personajes: {found}")
 

@@ -6,11 +6,11 @@ El Archivo Central de Orphys estaba construido en las galerías subterráneas ex
 
 A diferencia de las bibliotecas luminosas de Absalón, aquí no había pantallas táctiles ni terminales conectadas a la red pública. Las paredes de basalto estaban cubiertas de nichos hexagonales donde descansaban miles de *cilindros de alma*: tubos de cristal reforzado llenos de un fluido electrolítico luminiscente donde flotaban matrices de memoria mnemónica de ciudadanos fallecidos hace siglos.
 
-El aire en el archivo era tan frío que el vaho de la respiración de Triel, Marloc y Benray formaba pequeñas nubes blancas que se congelaban al rozar el suelo.
+El aire en el archivo era tan frío que el vaho de la respiración de Triel, Marloc y Benrey formaba pequeñas nubes blancas que se congelaban al rozar el suelo.
 
-—Qué lugar tan encantador para pasar la tarde —ironizó Benray en un susurro, cubriéndose la boca con la bufanda térmica—. Si me muero aquí, les prohíbo terminantemente que metan mi cerebro en un tarro de pepinillos mágicos como estos.
+—Qué lugar tan encantador para pasar la tarde —ironizó Benrey en un susurro, cubriéndose la boca con la bufanda térmica—. Si me muero aquí, les prohíbo terminantemente que metan mi cerebro en un tarro de pepinillos mágicos como estos.
 
-—Guarda silencio, Benray —susurró Triel mientras conectaba su *Custom Rig* a un pedestal de lectura en desuso—. La seguridad del archivo está a cargo de guardianes constructos programados para incinerar a cualquier usuario no registrado. Necesito dos minutos para anular los sensores de intrusión.
+—Guarda silencio, Benrey —susurró Triel mientras conectaba su *Custom Rig* a un pedestal de lectura en desuso—. La seguridad del archivo está a cargo de guardianes constructos programados para incinerar a cualquier usuario no registrado. Necesito dos minutos para anular los sensores de intrusión.
 
 Axel permanecía apostada en el recodo del pasillo, vigilando el ascensor principal con su rifle en posición de guardia baja. Sus circuitos rosados brillaban con una tenue luz de camuflaje que la mimetizaba con la penumbra circundante.
 

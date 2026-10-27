@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Audiencia con el líder kishalo. Benray despliega diplomacia para disipar los temores de la tribu y demostrar que no son aliados de la Flota de Cadáveres.
+Audiencia con el líder kishalo. Benrey despliega diplomacia para disipar los temores de la tribu y demostrar que no son aliados de la Flota de Cadáveres.
 
 ---
 

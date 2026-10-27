@@ -6,7 +6,7 @@ El proceso de desencriptado del datapad militar de Salas tomó poco más de un c
 
 —Acceso concedido —anunció Triel con una sonrisa de satisfacción—. Las defensas de la Legión son muy rígidas, pero carecen de imaginación frente a un desvío cuántico bien colocado.
 
-Marloc y Benray se inclinaron sobre la pantalla holográfica que flotaba entre ellos.
+Marloc y Benrey se inclinaron sobre la pantalla holográfica que flotaba entre ellos.
 
 El primer bloque de datos contenía las comunicaciones encriptadas entre Salas y el líder del culto, **Tahomen**:
 
@@ -20,13 +20,13 @@ Pero al explorar una carpeta oculta etiquetada como «Curiosidades de la Espiga�
 
 En la imagen tridimensional apareció un ysoki mucho más joven, vestido con una chaqueta chillona de cuero sintético y unas gafas de soldador sobre la frente, encaramado de forma temeraria en la barandilla de una pasarela exterior en el Nivel 21 de la Estación Absalón, con el abismo del vacío estelar a sus espaldas:
 
-*«¡Hola a todos, dementes de la holored! ¡Soy Benray Galway y hoy vamos a demostrar que la gravedad es una simple sugerencia para los roedores de la Espiga! ¡Tres, dos, uno... al vacío!»*.
+*«¡Hola a todos, dementes de la holored! ¡Soy Benrey Galway y hoy vamos a demostrar que la gravedad es una simple sugerencia para los roedores de la Espiga! ¡Tres, dos, uno... al vacío!»*.
 
-En el vídeo, el joven Benray se lanzaba en una caída libre suicida sobre una motoneta antigravitatoria trucada, esquivando conductos de escape de plasma a toda velocidad mientras profería gritos de júbilo ante la cámara.
+En el vídeo, el joven Benrey se lanzaba en una caída libre suicida sobre una motoneta antigravitatoria trucada, esquivando conductos de escape de plasma a toda velocidad mientras profería gritos de júbilo ante la cámara.
 
 Triel se quedó con la boca abierta, alternando la mirada entre la pantalla y su compañero:
 
-—¿Benray...? ¿Ese... ese eras tú?
+—¿Benrey...? ¿Ese... ese eras tú?
 
 El emisario se rascó la nuca con las orejas gachas, en una mezcla inusual de orgullo pícaro, culpa y una profunda nostalgia agridulce:
 
@@ -34,7 +34,7 @@ El emisario se rascó la nuca con las orejas gachas, en una mezcla inusual de or
 
 —Demuestra un notable desprecio por las leyes de la física y por su propia integridad orgánica —comentó Gerty tras analizar la grabación—. Me sorprende sinceramente que haya sobrevivido el tiempo suficiente para formar parte de este equipo.
 
-—Esa locura tiene su mérito, Benray —sonrió Triel dándole un codazo afectuoso—. Ahora entiendo de dónde sacaste la puntería para disparar haciendo volteretas.
+—Esa locura tiene su mérito, Benrey —sonrió Triel dándole un codazo afectuoso—. Ahora entiendo de dónde sacaste la puntería para disparar haciendo volteretas.
 
 ---
 
@@ -46,7 +46,7 @@ Por los amplios ventanales que formaban los ojos esculpidos del coloso, dos silu
 
 Sus tentáculos faciales latían con avidez mientras intentaban colar sus enormes cuerpos por las aberturas oculares.
 
-—¡Tenemos compañía en las ventanas! —bramó Benray, desenfundando su arma al instante.
+—¡Tenemos compañía en las ventanas! —bramó Benrey, desenfundando su arma al instante.
 
 El combate en el espacio confinado de la cumbre fue feroz. Uno de los monstruos logró asomar medio torso en la cámara, lanzando una andanada de espinas ponzoñosas que rebotaron contra las paredes de granito.
 
@@ -78,6 +78,6 @@ Marloc consultó el diario de viaje de hace trescientos años, con los ojos ilum
 
 —Lo encontramos... Es la legendaria ciudad de **Loskialua**. La capital astronómica pre-Brecha donde los sabios de Castrovel estudiaban el portal de los doce soles.
 
-—Una ciudad entera de pirámides dormida en medio de la nada —susurró Benray, ajustando las lentes de Atmos para inmortalizar la panorámica—. Esto va a ser la portada de mi próximo documental.
+—Una ciudad entera de pirámides dormida en medio de la nada —susurró Benrey, ajustando las lentes de Atmos para inmortalizar la panorámica—. Esto va a ser la portada de mi próximo documental.
 
 —Y en la cima de esa escalera —concluyó Axel señalando hacia las nubes— nos espera Tahomen con la profesora Solstarni. Prepárense: entramos en territorio sagrado.

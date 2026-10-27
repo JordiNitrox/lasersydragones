@@ -14,7 +14,7 @@ Marloc contempló el monumento con una reverencia sobrecogedora:
 
 —Halkueth tenía razón... Esta colosal escultura custodiaba el acceso al valle interior de Loskialua. Los doce símbolos astronómicos que rodean el torso son idénticos a las matrices rúnicas que descubrimos en la Roca del Drift. La conexión estelar entre la superarma y este santuario es inequívoca.
 
-—Y según parece —observó Benray, señalando con el cañón de su arma hacia la base del coloso—, hay una entrada tallada en la roca justo debajo del hombro de la estatua. Una escalinata de piedra asciende hacia lo que parece un pórtico ceremonial.
+—Y según parece —observó Benrey, señalando con el cañón de su arma hacia la base del coloso—, hay una entrada tallada en la roca justo debajo del hombro de la estatua. Una escalinata de piedra asciende hacia lo que parece un pórtico ceremonial.
 
 Axel, sin embargo, no miraba la base. Sus sensores de rastreo de largo alcance estaban fijados en las alturas, justo en la coronilla de la cabeza del elfo de piedra, a más de setenta metros de elevación.
 
@@ -22,13 +22,13 @@ Un destello metálico reflejó la luz del sol entre los mechones esculpidos en l
 
 —¡Cuerpo a tierra! —gritó la androide.
 
-Un proyectil hipersónico de alta energía desgarró el aire con un trueno ensordecedor. La bala perforante estalló contra el suelo de grava a escasos centímetros de las botas de Benray, pulverizando la roca en una nube de metralla incandescente y arrojando al ysoki de espaldas contra un talud.
+Un proyectil hipersónico de alta energía desgarró el aire con un trueno ensordecedor. La bala perforante estalló contra el suelo de grava a escasos centímetros de las botas de Benrey, pulverizando la roca en una nube de metralla incandescente y arrojando al ysoki de espaldas contra un talud.
 
 ---
 
 ### II. La risa del verdugo
 
-—¡Francotirador en la azotea! —aulló Benray rodando frenéticamente hacia la cobertura de un peñasco—. ¡Y tiene mejor fusil que el mío! ¡Por la gran cola de mi abuela, eso casi me afeita los bigotes!
+—¡Francotirador en la azotea! —aulló Benrey rodando frenéticamente hacia la cobertura de un peñasco—. ¡Y tiene mejor fusil que el mío! ¡Por la gran cola de mi abuela, eso casi me afeita los bigotes!
 
 Desde la cumbre de la cabeza del coloso de piedra, una voz bronca y desquiciada, amplificada por un megáfono táctico militar, resonó en el desfiladero con una carcajada estridente:
 
@@ -62,7 +62,7 @@ Era un **Oshiga**, un superdepredador aéreo autóctono de las altas cumbres de 
 
 El Oshiga esquivó el fuego arcano con una maniobra acrobática prodigiosa y extendió dos largos tentáculos prensiles desde sus bordes alares. Los zarcillos se cerraron como tenazas de acero en torno a la cintura de Triel Istrav, levantándola del suelo con un tirón brutal.
 
-—¡Triel! —bramó Benray, disparando a la criatura mientras el dron Atmos se elevaba en persecución.
+—¡Triel! —bramó Benrey, disparando a la criatura mientras el dron Atmos se elevaba en persecución.
 
 La semi-drow pataleó en el aire, intentando clavar su pica en el cuerpo del monstruo, pero la fuerza ascensional del Oshiga era imparable. En cuestión de segundos, la criatura se elevó diez metros sobre el desfiladero, atrayendo el cuerpo indefenso de Triel directamente hacia el abismo insaciable de su pico triturador.
 

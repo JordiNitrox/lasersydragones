@@ -12,11 +12,11 @@ La mujer lashunta no bajó el arma. Sus ojos carmesíes barrieron a Triel, que b
 
 —¿Quiénes son ustedes? —su voz resonó directamente en las mentes de los presentes con un tono gélido y desconfiado—. ¿Y qué hace una mestiza con una cazadora corsaria en nuestro escondite?
 
-Benray Galway no dejó pasar la oportunidad. El ysoki saltó sobre el capó abollado del compacto, acomodándose la casaca con indignación aristocrática:
+Benrey Galway no dejó pasar la oportunidad. El ysoki saltó sobre el capó abollado del compacto, acomodándose la casaca con indignación aristocrática:
 
 —¡Un poco de respeto, señorita! ¿Cómo se atreve a exigir la identidad de una dama sin presentarse primero? ¿Es que la etiqueta de los muelles se ha extinguido por completo en Castrovel? ¡Tenga consideración ante la tripulación que acaba de humillar a un escuadrón entero del Fuego en el Cielo!
 
-El arrebato teatral de Benray desconcertó a los dos pistoleros. La mujer lashunta bajó lentamente la carabina, esbozando una sonrisa sardónica mientras hacía una leve reverencia:
+El arrebato teatral de Benrey desconcertó a los dos pistoleros. La mujer lashunta bajó lentamente la carabina, esbozando una sonrisa sardónica mientras hacía una leve reverencia:
 
 —Mi nombre es **Casonas**. Y este caballero a mi lado es **Thiable**.
 
@@ -60,7 +60,7 @@ Casonas bajó la mirada con un gesto de sincera incomodidad:
 
 El silencio se adueñó de la bodega. Todas las piezas del rompecabezas encajaban con aterradora precisión: el Culto del Devorador y los agentes corporativos habían raptado a la mayor experta en lenguas antiguas de Castrovel para obligarla a descifrar los accesos del Templo de los Doce en Ukulam.
 
-Benray apoyó las manos en la mesa, adoptando su tono de negociador estelar:
+Benrey apoyó las manos en la mesa, adoptando su tono de negociador estelar:
 
 —Bien, amigos de *La Venganza*. Tenemos un problema común y una solución compartida. Nosotros necesitamos cruzar ese portal en Turhalu para rescatar a la doctora y evitar una catástrofe galáctica. Y ustedes necesitan hacerle llegar repuestos y un faro transmisor a su capitán varado en la selva.
 
@@ -94,7 +94,7 @@ Triel se sentó en el centro de la estancia, con los codos apoyados en las rodil
 
 Marloc preparó una jarra de infusión relajante y la colocó sobre la mesa baja, asintiendo en silencio hacia su compañera con una mirada de serena complicidad.
 
-—Triel —dijo Benray en voz baja, con las orejas gachas por la preocupación—. Llevas callada desde que salimos de la bodega. ¿Qué tiene que ver ese pirata fantasma contigo?
+—Triel —dijo Benrey en voz baja, con las orejas gachas por la preocupación—. Llevas callada desde que salimos de la bodega. ¿Qué tiene que ver ese pirata fantasma contigo?
 
 La semi-drow levantó la vista. Por primera vez desde que la conocían, sus ojos no mostraban la arrogancia feroz de la mecánica de combate, sino una vulnerabilidad desgarradora. Con manos temblorosas, desabrochó su pechera de cuero y extrajo la cajita de madera que guardaba celosamente bajo su litera.
 
@@ -102,15 +102,15 @@ Al abrirla, la esfera de ámbar pulsante iluminó la cabina con un cálido respl
 
 —Keiden Ashton no es una leyenda para mí —confesó Triel con la voz quebrada por la emoción—. **Keiden Ashton es mi padre**.
 
-Benray abrió la boca sin emitir sonido. Axel parpadeó lentamente, registrando la revelación en su procesador central con absoluta atención.
+Benrey abrió la boca sin emitir sonido. Axel parpadeó lentamente, registrando la revelación en su procesador central con absoluta atención.
 
 —Mi madre era una drow de alta cuna en Apostae —continuó Triel, acariciando la esfera con dedos reverentes—. Para su familia noble, tenerme a mí, una mestiza de sangre humana, era una deshonra imperdonable. Me trataron como a una escoria durante toda mi infancia. Lo único que me mantuvo en pie fue esta esfera que mi abuela me entregó en secreto antes de morir, diciéndome que mi padre era un capitán humano del Vasto que me amaba y que algún día vendría a buscarme.
 
-Triel alzó la mirada hacia Marloc, Benray y Axel:
+Triel alzó la mirada hacia Marloc, Benrey y Axel:
 
 —Por eso huí de Apostae. Por eso me enrolé en cargueros y aprendí a disparar y soldar en la Espiga. No busco gloria ni fortuna. Busco a mi padre. Y si el Capitán Bonet está en esa maldita selva de Ukulam y sabe qué le ocurrió a Keiden Ashton... cruzaré ese portal aunque tenga que quemar el planeta entero para llegar hasta él.
 
-Benray se levantó de su asiento y puso una pata peluda sobre la rodilla de Triel:
+Benrey se levantó de su asiento y puso una pata peluda sobre la rodilla de Triel:
 
 —Nadie quema un planeta solo, Triel. Somos la tripulación de la *Estrella Errante*. Si tu padre fue un pirata legendario, ten por seguro que lo encontraremos... aunque tengamos que poner patas arriba toda la galaxia.
 

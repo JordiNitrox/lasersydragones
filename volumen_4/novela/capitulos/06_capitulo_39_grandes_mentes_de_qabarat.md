@@ -6,11 +6,11 @@ Los seis días de travesía a través de las corrientes psicodélicas del Drift 
 
 A bordo del carguero, cada tripulante reclamó su propio territorio vital. 
 
-Benray Galway no dudó en adjudicarse el camarote principal del capitán, transformándolo rápidamente en una delirante sucursal de sus antiguas glorias mediáticas. El ysoki empapeló los mamparos con pósteres holográficos de sus mejores retransmisiones, instaló un croma verde para emisiones de emergencia y colgó sobre la cabecera de su litera su tesoro más preciado: una **placa dorada de un millón de suscriptores en la Inforred**. Aunque el cristal frontal lucía una profunda grieta transversal —recuerdo del tumulto en el que su canal fue cancelado tras el escándalo de las carreras—, Benray la lustraba cada mañana con un paño de terciopelo.
+Benrey Galway no dudó en adjudicarse el camarote principal del capitán, transformándolo rápidamente en una delirante sucursal de sus antiguas glorias mediáticas. El ysoki empapeló los mamparos con pósteres holográficos de sus mejores retransmisiones, instaló un croma verde para emisiones de emergencia y colgó sobre la cabecera de su litera su tesoro más preciado: una **placa dorada de un millón de suscriptores en la Inforred**. Aunque el cristal frontal lucía una profunda grieta transversal —recuerdo del tumulto en el que su canal fue cancelado tras el escándalo de las carreras—, Benrey la lustraba cada mañana con un paño de terciopelo.
 
 Triel Istrav, por su parte, rechazó de plano los camarotes estándar. Fiel a su naturaleza forjada en los talleres de la Espiga, la mecánica colgó una hamaca militar directamente en la cubierta de máquinas, durmiendo plácidamente arrullada por el zumbido atronador del reactor y rodeada de bidones de lubricante, cables pelados y sus herramientas de impacto.
 
-El habitáculo de Axel 42 era un prodigio de contradicciones: orden táctico en su armero y un absoluto caos juvenil en el resto de la estancia, con ropa apilada sobre las sillas y carteles publicitarios retro recogidos en sus viajes por el Vasto. Para evitar incursiones nocturnas de Benray o Triel en busca de refrigerios, la androide había instalado un sensor biométrico en su mini-nevera que disparaba una ruidosa sirena de abordaje si alguien intentaba tocar sus provisiones.
+El habitáculo de Axel 42 era un prodigio de contradicciones: orden táctico en su armero y un absoluto caos juvenil en el resto de la estancia, con ropa apilada sobre las sillas y carteles publicitarios retro recogidos en sus viajes por el Vasto. Para evitar incursiones nocturnas de Benrey o Triel en busca de refrigerios, la androide había instalado un sensor biométrico en su mini-nevera que disparaba una ruidosa sirena de abordaje si alguien intentaba tocar sus provisiones.
 
 Fue precisamente en su camarote donde Axel abrió el paquete anónimo que los estibadores habían dejado junto a la esclusa antes de zarpar.
 
@@ -24,7 +24,7 @@ Alertadas por la señal, Axel y Triel irrumpieron en la cocina con linternas tá
 
 Marloc parpadeó varias veces, despertando de golpe con el rostro cubierto de polvo dulce y azúcar cristalizada, profundamente avergonzado al descubrirse masticando reliquias alimentarias en mitad de la noche.
 
-A la mañana siguiente en el comedor, mientras Marloc bebía té digestivo con fingida compostura académica, la tripulación aprovechó para desquitarse. Benray no tardó en recordar los ardientes mensajes que Triel había enviado por comunicador al oficial León tras el concierto de Syd Velch, haciendo sonrojar a la semi-drow ante las carcajadas de los presentes.
+A la mañana siguiente en el comedor, mientras Marloc bebía té digestivo con fingida compostura académica, la tripulación aprovechó para desquitarse. Benrey no tardó en recordar los ardientes mensajes que Triel había enviado por comunicador al oficial León tras el concierto de Syd Velch, haciendo sonrojar a la semi-drow ante las carcajadas de los presentes.
 
 —Mis registros de telemetría confirman —apostilló Axel con su habitual sequedad androide— que, estadísticamente hablando, el profesor Boosmar y mi procesador central fuimos las únicas dos unidades de la tripulación que no recibieron atención romántica antes de abandonar Absalón.
 
@@ -46,9 +46,9 @@ Ante los ojos del pelotón apareció **Qabarat**, la Joya del Mar Brillante, la 
 
 A diferencia del trazado ortogonal y grisáceo de las ciudades humanas, Qabarat parecía haber brotado directamente del suelo selvático como un organismo viviente. Colosales agujas de cristal translúcido y bio-arquitectura trepaban cientos de metros hacia el cielo, entrelazadas por puentes colgantes cubiertos de enredaderas luminosas y terrazas ajardinadas donde árboles gigantescos de hojas purpúreas desafiaban la gravedad. A lo lejos, el océano interior brillaba como un espejo de mercurio bajo los relámpagos estivales.
 
-—¡Por los bigotes de mi abuela! —exclamó Benray Galway, apoyando el hocico contra la ventanilla con los ojos abiertos de par en par—. Miren ese follaje... Hay más clorofila en esa rotonda de la que ha visto la Estación Absalón en los últimos trescientos años. Si los árboles de aquí producen semillas comestibles, este planeta podría alimentar a medio clan ysoki durante generaciones.
+—¡Por los bigotes de mi abuela! —exclamó Benrey Galway, apoyando el hocico contra la ventanilla con los ojos abiertos de par en par—. Miren ese follaje... Hay más clorofila en esa rotonda de la que ha visto la Estación Absalón en los últimos trescientos años. Si los árboles de aquí producen semillas comestibles, este planeta podría alimentar a medio clan ysoki durante generaciones.
 
-—El ecosistema de Castrovel es tan fértil como despiadado, Benray —advirtió Marloc Boosmar mientras revisaba los sensores ambientales en su consola—. La atmósfera es rica en oxígeno y feromonas vegetales, pero la selva que rodea la ciudad alberga formas de vida hipercompetitivas capaces de devorar una armadura de polímero en cuestión de horas. No debemos dejarnos engañar por la belleza de las agujas de cristal.
+—El ecosistema de Castrovel es tan fértil como despiadado, Benrey —advirtió Marloc Boosmar mientras revisaba los sensores ambientales en su consola—. La atmósfera es rica en oxígeno y feromonas vegetales, pero la selva que rodea la ciudad alberga formas de vida hipercompetitivas capaces de devorar una armadura de polímero en cuestión de horas. No debemos dejarnos engañar por la belleza de las agujas de cristal.
 
 Axel 42 estabilizó los propulsores de maniobra, alineando la nave con los corredores aéreos del espaciopuerto de Shin'Kari, la inmensa terminal astronáutica que coronaba una de las mesetas más elevadas de Qabarat.
 
@@ -56,29 +56,29 @@ Al cruzar la barrera de control aduanero, las pantallas holográficas del puente
 
 Allí reposaba una flotilla imponente: un crucero de asalto pesado y tres cañoneras artilladas, pintadas de un rojo carmesí brillante ribeteado en plata reluciente que destellaba bajo la lluvia tropical. En sus cascos blindados destacaba el emblema de una calavera alada coronada por lenguas de fuego dorado.
 
-Benray, que hasta ese instante había mantenido su habitual parloteo desenfadado, se quedó petrificado frente al cristal. Sus bigotes cayeron de golpe y una sombra de rigidez insólita tensó cada músculo de su rostro menudo. Cuando habló, su voz sonó extrañamente neutra, monocorde, como si estuviese recitando de memoria las páginas de un manual marcial que llevaba años intentando olvidar:
+Benrey, que hasta ese instante había mantenido su habitual parloteo desenfadado, se quedó petrificado frente al cristal. Sus bigotes cayeron de golpe y una sombra de rigidez insólita tensó cada músculo de su rostro menudo. Cuando habló, su voz sonó extrañamente neutra, monocorde, como si estuviese recitando de memoria las páginas de un manual marcial que llevaba años intentando olvidar:
 
 —Son naves de la **Legión del Fuego en el Cielo** (*Skyfire Legion*)... La Legión Dragón. Una coalición militar mercenaria de élite del planeta Triaxus. Guerreros ryphorianos y dragonkin juramentados bajo el Mandato del Fuego Celeste. En tiempos remotos cabalgaban dragones verdaderos en los cielos boreales; hoy patrullan las rutas comerciales con cruceros de calibre acorazado.
 
 Axel ladeó la cabeza, registrando la inflexión anómala en la voz del ysoki:
 
-—Mencionaste en nuestros registros de tripulación que pasaste una temporada trabajando en Triaxus, Benray.
+—Mencionaste en nuestros registros de tripulación que pasaste una temporada trabajando en Triaxus, Benrey.
 
 —Es imposible poner un pie en Triaxus sin cruzarse con la Legión —respondió el ysoki, tragando saliva con dificultad y clavando sus ojos oscuros en las cañoneras carmesíes—. Controlan prácticamente todo lo que vuela en el planeta. Se rigen por un código de honor estricto, sí, y cumplirán un contrato hasta la última gota de sangre... pero son máquinas de combate despiadadas. Mercenarios profesionales a gran escala. No me pondría en su camino jamás... y nosotros deberíamos mantenernos tan lejos de ellos como la física nos lo permita.
 
-El tono de Benray se volvió apremiante, casi desesperado:
+El tono de Benrey se volvió apremiante, casi desesperado:
 
 —Axel... aparca la nave tan lejos de esas cañoneras como puedas. En el extremo opuesto del espaciopuerto. No quiero que nuestros sensores rocen siquiera sus radares.
 
 Triel alzó las cejas, intercambiando una mirada de extrañeza con Marloc. Jamás habían visto al piloto fanfarrón mostrar una pizca de temor ante nada, ni siquiera frente a las aberraciones de la Roca del Drift.
 
-Axel ajustó las coordenadas de aproximación sin apartar sus sensores ópticos de las reacciones biológicas de Benray. Con su habitual y desarmante carencia de filtro androide, la tiradora soltó una pregunta a bocajarro:
+Axel ajustó las coordenadas de aproximación sin apartar sus sensores ópticos de las reacciones biológicas de Benrey. Con su habitual y desarmante carencia de filtro androide, la tiradora soltó una pregunta a bocajarro:
 
-—Tu frecuencia cardíaca se ha acelerado un cuarenta y dos por ciento, Benray. Tus microexpresiones faciales indican una respuesta de estrés severo. ¿Es allí donde murieron tus antiguos compañeros de carreras?
+—Tu frecuencia cardíaca se ha acelerado un cuarenta y dos por ciento, Benrey. Tus microexpresiones faciales indican una respuesta de estrés severo. ¿Es allí donde murieron tus antiguos compañeros de carreras?
 
 El silencio que cayó sobre el puente de mando fue instantáneo y glacial.
 
-Benray se congeló. Dio dos pasos lentos hacia el puesto de mando y clavó sus pequeñas garras en el respaldo del asiento del piloto, hundiendo el cuero sintético con una fuerza que hizo temblar sus nudillos. Sus ojos, habitualmente chispeantes de picardía, se volvieron dos pozos negros y gélidos fijos en la nuca de la androide. Cuando abrió la boca, su voz fue un susurro afilado que heló la cabina:
+Benrey se congeló. Dio dos pasos lentos hacia el puesto de mando y clavó sus pequeñas garras en el respaldo del asiento del piloto, hundiendo el cuero sintético con una fuerza que hizo temblar sus nudillos. Sus ojos, habitualmente chispeantes de picardía, se volvieron dos pozos negros y gélidos fijos en la nuca de la androide. Cuando abrió la boca, su voz fue un susurro afilado que heló la cabina:
 
 —Terminemos de aparcar la nave, Axel. Y hablaremos luego.
 
@@ -110,11 +110,11 @@ Una voz juvenil y alegre rompió la conversación desde el final de la pasarela 
 
 Una joven mujer lashunta de la subespecie korasha avanzaba hacia ellos esquivando los charcos del muelle con paso enérgico. Llevaba una chaqueta impermeable amarilla ligeramente descolorida sobre el uniforme azul de la Universidad de Qabarat, unos pantalones cargo repletos de cuadernos de notas y dos antenas craneales que vibraban con curiosidad inquieta. Su rostro pecoso lucía una sonrisa radiante que desarmaba cualquier atisbo de protocolo formal:
 
-—¡Hola! Mi nombre es **Sophie Ren** —se presentó la chica, estrechando la mano de Benray con tanto entusiasmo que casi sacudió al ysoki entero—. Soy estudiante de último año de arqueología comparada y becaria del departamento de investigación. La decana interina, la profesora Muhali, me asignó como su enlace estudiantil y conductora oficial en la ciudad mientras dure su peritaje.
+—¡Hola! Mi nombre es **Sophie Ren** —se presentó la chica, estrechando la mano de Benrey con tanto entusiasmo que casi sacudió al ysoki entero—. Soy estudiante de último año de arqueología comparada y becaria del departamento de investigación. La decana interina, la profesora Muhali, me asignó como su enlace estudiantil y conductora oficial en la ciudad mientras dure su peritaje.
 
-Benray parpadeó, sacudiéndose el abatimiento con un esfuerzo visible y enderezando la casaca para recuperar su habitual fachada de portavoz profesional:
+Benrey parpadeó, sacudiéndose el abatimiento con un esfuerzo visible y enderezando la casaca para recuperar su habitual fachada de portavoz profesional:
 
-—Un placer absoluto, señorita Ren. Soy Benray Galway, emisario principal y portavoz de la expedición, y estos son mis distinguidos socios: la señorita Istrav, el maestro Boosmar y la especialista táctica Axel 42. Como verá, somos un equipo multidisciplinar de contrastada reputación galáctica.
+—Un placer absoluto, señorita Ren. Soy Benrey Galway, emisario principal y portavoz de la expedición, y estos son mis distinguidos socios: la señorita Istrav, el maestro Boosmar y la especialista táctica Axel 42. Como verá, somos un equipo multidisciplinar de contrastada reputación galáctica.
 
 Sophie abrió los ojos con asombro al contemplar la silueta estilizada de la *Estrella Errante*:
 
@@ -128,8 +128,8 @@ La sonrisa de Sophie vaciló por una fracción de segundo. Una sombra de incomod
 
 Al salir del espaciopuerto hacia el aparcamiento del acceso sur, Sophie señaló con orgullo un coche compacto de cuatro plazas, abollado en el parachoques trasero y pintado de un azul turquesa desgastado por el sol tropical:
 
-—Este es mi fiel compañero de estudios. Entren, por favor... Si Axel y Marloc pueden acomodarse en el asiento trasero y el señor Benray no tiene inconveniente en viajar en el regazo de Triel, llegaremos a la Universidad en diez minutos.
+—Este es mi fiel compañero de estudios. Entren, por favor... Si Axel y Marloc pueden acomodarse en el asiento trasero y el señor Benrey no tiene inconveniente en viajar en el regazo de Triel, llegaremos a la Universidad en diez minutos.
 
 Entre risas y apretones, los cuatro aventureros se acomodaron como pudieron en el pequeño vehículo de Sophie Ren. El motor eléctrico zumbó con esfuerzo mientras el utilitario se incorporaba a las majestuosas avenidas elevadas de Qabarat, zigzagueando entre torres de cristal y puentes vegetales rumbo a los claustros de la Universidad.
 
-En el asiento delantero, acomodado sobre el regazo de Triel mientras Marloc y Sophie conversaban animadamente sobre modelos cosmológicos y anomalías de los agujeros negros, Benray permaneció en un silencio inusual. Con el hocico inclinado sobre la pantalla de su comlink personal, el ysoki consultaba discretamente las redes de noticias locales de Castrovel, rastreando cualquier información pública sobre la flotilla de la Legión del Fuego en el Cielo. Los escasos reportes indicaban que las cañoneras triaxianas habían atracado en la ciudad hacía apenas una semana bajo herméticos contratos de seguridad privada, pero nadie en las redes civiles parecía saber qué buscaban realmente en la capital de los sabios.
+En el asiento delantero, acomodado sobre el regazo de Triel mientras Marloc y Sophie conversaban animadamente sobre modelos cosmológicos y anomalías de los agujeros negros, Benrey permaneció en un silencio inusual. Con el hocico inclinado sobre la pantalla de su comlink personal, el ysoki consultaba discretamente las redes de noticias locales de Castrovel, rastreando cualquier información pública sobre la flotilla de la Legión del Fuego en el Cielo. Los escasos reportes indicaban que las cañoneras triaxianas habían atracado en la ciudad hacía apenas una semana bajo herméticos contratos de seguridad privada, pero nadie en las redes civiles parecía saber qué buscaban realmente en la capital de los sabios.

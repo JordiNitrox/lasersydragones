@@ -43,7 +43,7 @@ python3 .agents/skills/lasers-ingesta-transcripciones/scripts/limpiar_transcripc
 | Error Típico del STT | Término Canónico Real | Contexto en la Campaña |
 |---|---|---|
 | *piedra del triunfo* / *del triunfo* | **Roca del Drift** / **del Drift** | Asteroide y plano hiperespacial |
-| *Ring Rey* | **Rim Rey** | Primo ysoki de Benray |
+| *Ring Rey* | **Rim Rey** | Primo ysoki de Benrey |
 | *octurno* / *autor* | **Aucturn** | El planeta viviente del Pacto |
 | *Sociedad Starfinder* / *Lorexpe* | **Inversiones Estelares S.C.** | Corporación patrona de Chiskisk |
 | *durabor kril* / *kreel* | **Marlene Boosmar** | Investigadora asesinada (PNJ de Roberto) |
@@ -67,15 +67,15 @@ Antes de escribir el primer capítulo de un volumen, es obligatorio ejecutar bar
 
 ### Eje 2: Familias, Linajes y Vínculos Biológicos/Sintéticos
 * Buscar términos: `padre`, `madre`, `hijo`, `hija`, `esposa`, `familia`, `clan`, `hermano`, `hermana`.
-* *Identificar:* El padre de Triel (**Keiden Ashton**) y su madre drow; el linaje de Benray y los parientes Galway; el enigma del padre de Marloc (**Ambrose Boosmar**) y su esposa Ángela; los vínculos androides de Axel (**Null-9**, Éclair, la nueva conciencia).
+* *Identificar:* El padre de Triel (**Keiden Ashton**) y su madre drow; el linaje de Benrey y los parientes Galway; el enigma del padre de Marloc (**Ambrose Boosmar**) y su esposa Ángela; los vínculos androides de Axel (**Null-9**, Éclair, la nueva conciencia).
 
 ### Eje 3: Relaciones Interpersonales y Dinámicas de la Tripulación
 * Buscar términos: `León`, `oficial`, `comunicador`, `cita`, `despedida`, `promesa`, `confianza`.
-* *Registrar:* El desarrollo del romance canónico entre **Triel y el Oficial León**; las charlas íntimas de cabina; los pactos de lealtad entre Benray y Gerty.
+* *Registrar:* El desarrollo del romance canónico entre **Triel y el Oficial León**; las charlas íntimas de cabina; los pactos de lealtad entre Benrey y Gerty.
 
 ### Eje 4: Traumas, Fobias y Cicatrices Psicológicas
 * Buscar términos: `miedo`, `terror`, `pesadilla`, `recuerdo`, `dolor`, `esclavitud`.
-* *Capturar:* La fobia de Benray a Eox y los no-muertos; el pánico de Axel a perder la libertad y volver a ser esclavizada; el duelo autodestructivo de Marloc; los traumas de Triel en Apostae.
+* *Capturar:* La fobia de Benrey a Eox y los no-muertos; el pánico de Axel a perder la libertad y volver a ser esclavizada; el duelo autodestructivo de Marloc; los traumas de Triel en Apostae.
 
 ---
 

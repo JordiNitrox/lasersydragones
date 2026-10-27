@@ -6,24 +6,24 @@ La quietud de la caverna estalló en una pesadilla de garras y silbidos secos.
 
 Desde el mar de virutas de plata que cubría el suelo del domo natural, tres siluetas emergieron de un salto, batiendo alas membranosas de murciélago en el vacío. Eran criaturas del tamaño de un perro mediano, pero de aspecto aterrador: pellejo grisáceo pegado a los huesos como piel curtida sobre una calavera, cuencas oculares vacías, fauces repletas de dientes en aguja y una cola larga y segmentada que recordaba el espinazo curvado de un pez abisal. Eran Skreelings: las crías voraces de la abominación que moraba en el asteroide.
 
-—¡Atrás! —chilló Benray Galway por el enlace táctico, pero una de las alimañas ya se abalanzaba sobre él por la espalda.
+—¡Atrás! —chilló Benrey Galway por el enlace táctico, pero una de las alimañas ya se abalanzaba sobre él por la espalda.
 
 El mordisco del Skreeling se clavó en la base de la cola del ysoki. Sus dientes aserrados rasgaron el tejido térmico de su traje ambiental; aunque los sellos automáticos evitaron la despresurización inmediata, el dolor fue lacerante. La herida comenzó a sangrar con una hemorragia persistente e insidiosa provocada por los anticoagulantes naturales de la bestia.
 
-—¡Malditas ratas con alas! —bramó Benray, dando una voltereta acrobática prodigiosa en la baja gravedad. El roedor se deslizó entre las patas de otra de las criaturas, rebotando en el suelo de plata hasta colocarse a la retaguardia de Gerty.
+—¡Malditas ratas con alas! —bramó Benrey, dando una voltereta acrobática prodigiosa en la baja gravedad. El roedor se deslizó entre las patas de otra de las criaturas, rebotando en el suelo de plata hasta colocarse a la retaguardia de Gerty.
 
 Axel, atrapada dentro de la cueva entre las dunas de metal, intentó maniobrar con su cuchillo táctico, pero las bestias operaban con una inteligencia de enjambre implacable. Se movían en formación triangular, coordinando sus vuelos para flanquear a la androide y acorralarla contra la pared rocosa.
 
-—¡Gerty, protocolo de exterminio! —ordenó Triel mientras corría hacia Benray con un apósito médico de hemostasia rápida en la mano—. ¡Hazlos pedazos!
+—¡Gerty, protocolo de exterminio! —ordenó Triel mientras corría hacia Benrey con un apósito médico de hemostasia rápida en la mano—. ¡Hazlos pedazos!
 
 El dron acorazado dio un paso adelante, haciendo crujir las lajas de plata bajo sus pisadas. Con la espada de energía en alto y sus líneas de pintura negra y roja reluciendo en la penumbra, el meca barrió el aire con un mandoble descendente. La hoja de plasma partió al primer Skreeling en dos mitades limpias que cayeron sobre el polvo metálico con un chisporroteo de icor negruzco.
 
-Triel se arrodilló junto a Benray, aplicándole un parche quirúrgico presurizado directamente sobre la herida de la cola:
-—Quédate quieto, Benray. Te he puesto una venda con dibujitos de ratones para que no te quejes.
+Triel se arrodilló junto a Benrey, aplicándole un parche quirúrgico presurizado directamente sobre la herida de la cola:
+—Quédate quieto, Benrey. Te he puesto una venda con dibujitos de ratones para que no te quejes.
 
 —¡Es un ultraje a mi dignidad militar, pero gracias! —respondió el emisario, poniéndose en pie de un salto mientras desenfundaba una granada de fragmentación que acababan de arrebatarle al sarcesiano—. ¡Cierren los ojos, muchachos!
 
-Benray armó el temporizador y lanzó la granada con una parábola impecable en la baja gravedad. El artefacto voló veinticinco metros por encima de las cabezas de sus compañeros y detonó en el corazón del enjambre. La onda expansiva levantó un géiser cegador de virutas de plata, despedazando a una segunda criatura en pleno vuelo.
+Benrey armó el temporizador y lanzó la granada con una parábola impecable en la baja gravedad. El artefacto voló veinticinco metros por encima de las cabezas de sus compañeros y detonó en el corazón del enjambre. La onda expansiva levantó un géiser cegador de virutas de plata, despedazando a una segunda criatura en pleno vuelo.
 
 Marloc Boosmar completó la purga. Con un gesto seco de sus dedos cibernéticos, el tecnomante canalizó tres proyectiles mágicos que silbaron en trayectorias curvas en la oscuridad. Dos de ellos impactaron en las alas de la bestia que amenazaba a Axel, destrozando sus membranas; el tercero perforó su espina dorsal.
 
@@ -48,7 +48,7 @@ Junto a la caja torácica del minero descansaban dos placas de identificación m
 Axel tomó uno de los lingotes y le aplicó el analizador espectral:
 —Plata pura refinada. Cada lingote tiene un peso de diez kilogramos y una cotización de mercado de mil doscientos créditos. Cuatro mil ochocientos créditos en metal de grado industrial.
 
-Benray silbó por el intercomunicador, frotándose las garras con avaricia:
+Benrey silbó por el intercomunicador, frotándose las garras con avaricia:
 —¡Por fin una buena noticia en esta roca maldita! Recojan las placas de identificación para entregarlas a la corporación en Absalón y guarden la plata. Si salimos vivos de este agujero, voy a comprarme una dotación de frutos secos que ocupará medio hangar.
 
 Triel guardó las placas en su bolsa técnica con respeto:
@@ -97,7 +97,7 @@ No fue un sonido ni un ataque físico. Fue una marea cálida, seductora y asfixi
 
 Triel se detuvo en seco. La tensión de su cuerpo se disolvió en una placidez hipnótica. Sus ojos lilas perdieron el enfoque, clavándose con fascinación febril en la superficie burbujeante del estanque verde.
 
-—Triel... ¿qué ves en el panel? —preguntó Benray desde la retaguardia, con la pistola lista.
+—Triel... ¿qué ves en el panel? —preguntó Benrey desde la retaguardia, con la pistola lista.
 
 La joven semi-drow no respondió. Bajó los brazos lentamente, dejando que su carabina colgase inerte de la correa. Con pasos mecánicos, lentos y arrastrados, comenzó a caminar directamente hacia la orilla del pozo de ácido, donde las sombras del vacío parecían curvarse en torno a unas fauces titánicas agazapadas bajo el fango.
 

@@ -6,14 +6,14 @@ El pasillo de los archivos se convirtió en una trampa mortal en cuestión de se
 
 Desde las rejillas de ventilación superiores y los nichos funerarios vacíos, una docena de gules cibernéticos se arrojaron sobre la tripulación. A diferencia de los zombis lentos de los muelles, estos autómatas de asalto eran ágiles como felinos: sus extremidades habían sido reemplazadas por patas mecánicas de acero templado y sus mandíbulas reforzadas con sierras circulares en miniatura que giraban emitiendo un zumbido demencial.
 
-El primero de ellos saltó directamente sobre Benray, derribándolo contra una fila de cilindros de alma que estallaron en una lluvia de cristal y fluido criogénico.
+El primero de ellos saltó directamente sobre Benrey, derribándolo contra una fila de cilindros de alma que estallaron en una lluvia de cristal y fluido criogénico.
 
 —¡Socorro! ¡Quítenme a este perro de hojalata de encima! —aulló el ysoki, forcejeando con su pistola láser para interponer el cañón entre los dientes de la bestia.
 
-Axel reaccionó con la velocidad del rayo. Sin apuntar, descargó una ráfaga precisa que decapitó al gul en pleno forcejeo, bañando a Benray en aceite sintético caliente y líquido refrigerante:
+Axel reaccionó con la velocidad del rayo. Sin apuntar, descargó una ráfaga precisa que decapitó al gul en pleno forcejeo, bañando a Benrey en aceite sintético caliente y líquido refrigerante:
 —Emisario liberado. Sugiero replegarse hacia la columna central.
 
-Benray se levantó de un salto, escupiendo fluido y sacudiéndose los bigotes:
+Benrey se levantó de un salto, escupiendo fluido y sacudiéndose los bigotes:
 —¡Por poco me afeitan sin espuma! ¡Antes muerta que sencilla, pero estos bichos no tienen ni pizca de modales!
 
 ***
@@ -46,7 +46,7 @@ Axel cubrió la retirada disparando ráfagas controladas que contuvieron a los �
 
 Los cuatro salieron al callejón oscuro tosiendo polvo y hollín, empapados en sudor y aceite.
 
-Benray se dejó caer contra la pared, mirándose el chaleco arruinado:
+Benrey se dejó caer contra la pared, mirándose el chaleco arruinado:
 —Bueno... ya tenemos el mapa de la fortaleza. Ahora solo nos falta un vehículo blindado que no se derrita con la radiación, suministros para una semana y un milagro para no morir en el intento.
 
 —Conozco el lugar exacto donde conseguir todo eso —dijo Marloc con una sonrisa cómplice—. Hay una taberna en el bajo Orphys donde los desertores de la Flota venden información al mejor postor.

@@ -12,7 +12,7 @@
 ## 2. Los Protagonistas y su Evolución Emocional
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo). Protagonista absoluto del arco emocional: tras reencontrarse con Ángela y comprender que tiene la oportunidad de una vida de amor y paz, toma la desgarradora decisión de abandonar la tripulación en el Episodio 135.
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Llora la partida de su mentor y compañero intelectual; acepta su decisión con inmenso cariño y asume la capitanía moral de la nave.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Afligido por perder a su amigo de gabán y magia; le entrega un recuerdo especial antes de despedirse.
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). Afligido por perder a su amigo de gabán y magia; le entrega un recuerdo especial antes de despedirse.
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Expresa conmovida su respeto por la elección humana de Marloc, reconociendo que el amor es el mayor enigma que ha presenciado.
 * **Gerty:** Dron de Asalto (Voz: Roberto). Emite un chirrido quebrado de despedida, recordando los momentos en que Marloc potenció sus armas con tecnomancia.
 

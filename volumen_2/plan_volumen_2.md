@@ -15,7 +15,7 @@
 ### Capítulo 11: *Desayuno para Llevar*
 - **Fuente:** Episodio 11 (`LasersYDragonesEpisodio011.mp3`, `LnAF2e4mzM0`).
 - **Núcleo Dramático:** Tras el asalto nocturno al Club Fusión, el grupo disfruta de un opulento desayuno en una terraza del Ojo de Absalón. La calma se quiebra cuando drones de seguridad policial los rodean; una espectacular persecución urbana a través de jardines, zoológicos y plazas atestadas los obliga a dividirse y buscar refugio desesperado.
-- **Personajes:** Benray, Triel, Gerty, Marloc, Axel 42, drones de seguridad de la estación.
+- **Personajes:** Benrey, Triel, Gerty, Marloc, Axel 42, drones de seguridad de la estación.
 
 ### Capítulo 12: *Asesoría y Arbitraje*
 - **Fuente:** Episodio 12 (`LasersYDragonesEpisodio012.mp3`, `sQ5Ca3WnnBk`).
@@ -25,22 +25,22 @@
 ### Capítulo 13: *El Saber del Arcanamirium*
 - **Fuente:** Episodio 13 (`LasersYDragonesEpisodio013.mp3`, `I4EBWgPDUS8`).
 - **Núcleo Dramático:** En los distinguidos claustros del Arcanamirium se celebra una solemne ceremonia de doctorado. Camuflados entre la multitud académica, Marloc y sus compañeros burlan la vigilancia y se cuelan en el despacho precintado de Marlene, hallando solicitudes de objetos y fórmulas anómalas de la Brecha.
-- **Personajes:** Marloc, Axel, Benray, conserje alienígena Richie, académicos del Arcanamirium.
+- **Personajes:** Marloc, Axel, Benrey, conserje alienígena Richie, académicos del Arcanamirium.
 
 ### Capítulo 14: *Pacto con la Cripta*
 - **Fuente:** Episodio 14 (`LasersYDragonesEpisodio014.mp3`, `yKmENAexQAU`).
 - **Núcleo Dramático:** Convocados mediante una siniestra invitación formal, los cuatro aventureros acuden a la embajada ósea de Eox. En un salón opresivo de mármol y hierro, el Embajador Gevalarsk Nor y su asistente gul Keltus les ofrecen una misión de arbitraje oficial hacia el pecio del *Acreon*, encargándoles en secreto recuperar un paquete confidencial sin declarar.
-- **Personajes:** Embajador Gevalarsk Nor, asistente Keltus, guardias graveknights, Benray, Triel, Axel, Marloc.
+- **Personajes:** Embajador Gevalarsk Nor, asistente Keltus, guardias graveknights, Benrey, Triel, Axel, Marloc.
 
 ### Capítulo 15: *Carnitas y Despedidas*
 - **Fuente:** Episodio 15 (`LasersYDragonesEpisodio015.mp3`, `t5iyFIGGnyU`).
-- **Núcleo Dramático:** Benray desciende a las profundidades de la Espiga (*The Spike*) para reunirse con su clan ysoki en una concurrida parrillada familiar. Con ayuda de su primo Rim Rey, recupera su apreciada motoneta vespacial y elude el acecho de sicarios corporativos de Extracciones Estelares.
-- **Personajes:** Benray, Rim Rey, clan ysoki, agentes encubiertos corporativos.
+- **Núcleo Dramático:** Benrey desciende a las profundidades de la Espiga (*The Spike*) para reunirse con su clan ysoki en una concurrida parrillada familiar. Con ayuda de su primo Rim Rey, recupera su apreciada motoneta vespacial y elude el acecho de sicarios corporativos de Extracciones Estelares.
+- **Personajes:** Benrey, Rim Rey, clan ysoki, agentes encubiertos corporativos.
 
 ### Capítulo 16: *El Caballito de Mar*
 - **Fuente:** Episodio 16 (`LasersYDragonesEpisodio016.mp3`, `VfkDJE79aww`).
 - **Núcleo Dramático:** Reunión en los muelles mineros con el veterano Capitán Otal Seris del Colectivo Hardscrabble. La tripulación toma posesión de la nave exploradora *Hippocampus*, donde Triel y Gerty realizan pruebas de vacío, soldaduras y calibraciones en los motores Drift.
-- **Personajes:** Capitán Otal Seris, Triel, Gerty, Marloc, Axel, Benray.
+- **Personajes:** Capitán Otal Seris, Triel, Gerty, Marloc, Axel, Benrey.
 
 ### Capítulo 17: *Insinuación Mortal*
 - **Fuente:** Episodio 17 (`LasersYDragonesEpisodio017.mp3`, `usCxwc2UcyU`).
@@ -50,7 +50,7 @@
 ### Capítulo 18: *Aka-Ta: El Horror en el Hangar*
 - **Fuente:** Episodio 18 (`LasersYDragonesEpisodio018.mp3`, `K0S1X8Z63o8`).
 - **Núcleo Dramático:** Atraque y despresurización en el hangar helado del *Acreon*. En gravedad cero y penumbra total, la tripulación sufre la primera emboscada de los Akata, depredadores cuadrúpedos del vacío insensibles a las armas convencionales.
-- **Personajes:** Axel 42, Gerty, Triel, Marloc, Benray, bestias Akata.
+- **Personajes:** Axel 42, Gerty, Triel, Marloc, Benrey, bestias Akata.
 
 ### Capítulo 19: *Hasta la Cocina: Los Restos del Pasado*
 - **Fuente:** Episodio 19 (`LasersYDragonesEpisodio019.mp3`, `FO_qCT74dDc`).
@@ -60,17 +60,17 @@
 ### Capítulo 20: *Amigoblins del Espacio*
 - **Fuente:** Episodio 20 (`LasersYDragonesEpisodio020.mp3`, `RqEP45tICIA`).
 - **Núcleo Dramático:** Tras derribar un mamparo sellado, el grupo encuentra atrincherados a Willy y Naru, dos goblins espaciales supervivientes armados con chatarra y granadas. En medio de un tiroteo caótico y trampas improvisadas, forjan una alianza estrafalaria y descubren los cuadernos del ingeniero Olier y sus fórmulas para alterar el salto en el Drift.
-- **Personajes:** Willy, Naru, Benray, Gerty, Triel, Axel, Marloc.
+- **Personajes:** Willy, Naru, Benrey, Gerty, Triel, Axel, Marloc.
 
 ### Capítulo 21: *Cajas Vemos, Contenidos no Sabemos*
 - **Fuente:** Episodio 21 (`LasersYDragonesEpisodio021.mp3`, `5DWxo3x_Zi4`).
 - **Núcleo Dramático:** Exploración de las bahías de carga central del *Acreon*. El grupo combate a las últimas bestias Akata entre contenedores de mineral noqual y localiza el paquete confidencial de Gevalarsk Nor: un pesado sarcófago sellado con tecnología levitatoria que trasladan sigilosamente al *Hippocampus*.
-- **Personajes:** Willy, Naru, Benray, Triel, Gerty, Axel, Marloc.
+- **Personajes:** Willy, Naru, Benrey, Triel, Gerty, Axel, Marloc.
 
 ### Capítulo 22: *¿Cuál Noqual?: El Destino del Acreon*
 - **Fuente:** Episodio 22 (`LasersYDragonesEpisodio022.mp3`, `zXztnYGxQps`).
-- **Núcleo Dramático:** En el puente de mando, la tripulación descifra las bitácoras finales de la capitana Elba Sohar, revelando la tragedia que devoró a la tripulación tras enganchar la roca. El grupo transmite los datos oficiales a Absalón a través del oficial León de los Protectores, a quien Benray desquicia con sus bromas y cuelga la llamada al descubrirse las filtraciones de Marcellus. Asegurado el pecio, el grupo, junto a Willy, Naru y Gerty, avanza por los cables de amarre hacia el profundo y geométrico pozo que se abre en el corazón de la Roca del Drift.
-- **Personajes:** Axel 42, Oficial León (Protectores), Capitana Elba Sohar (bitácoras), Willy, Naru, Gerty, Triel, Marloc, Benray.
+- **Núcleo Dramático:** En el puente de mando, la tripulación descifra las bitácoras finales de la capitana Elba Sohar, revelando la tragedia que devoró a la tripulación tras enganchar la roca. El grupo transmite los datos oficiales a Absalón a través del oficial León de los Protectores, a quien Benrey desquicia con sus bromas y cuelga la llamada al descubrirse las filtraciones de Marcellus. Asegurado el pecio, el grupo, junto a Willy, Naru y Gerty, avanza por los cables de amarre hacia el profundo y geométrico pozo que se abre en el corazón de la Roca del Drift.
+- **Personajes:** Axel 42, Oficial León (Protectores), Capitana Elba Sohar (bitácoras), Willy, Naru, Gerty, Triel, Marloc, Benrey.
 
 ---
 

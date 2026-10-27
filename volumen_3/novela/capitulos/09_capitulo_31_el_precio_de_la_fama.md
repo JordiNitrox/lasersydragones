@@ -12,11 +12,11 @@ Apenas se cortó la transmisión de Poko, la consola de comunicaciones se ilumin
 
 —*Estrella Errante, habla el oficial de enlace León. Les ordeno dirigirse de inmediato al muelle sesenta y dos para una inspección médica y cuarentena de descontaminación de rutina. El Alto Mando exige un informe pormenorizado sobre los sucesos del Acreon.*
 
-Pero antes de que Axel pudiera confirmar las coordenadas, una segunda transmisión paralela se abrió con un tono agudo y confidencial. Era la voz inconfundible de Marcellus, el editor en la sombra de Benray:
+Pero antes de que Axel pudiera confirmar las coordenadas, una segunda transmisión paralela se abrió con un tono agudo y confidencial. Era la voz inconfundible de Marcellus, el editor en la sombra de Benrey:
 
-—*Benray, amigo mío, hazme un favor y desobedece a la policía. Diríjanse al muelle noventa y cuatro. Hay cuatrocientas personas, tres cadenas de holovisión y un servicio de catering de primera esperándolos. Si van al sesenta y dos, los burócratas los encerrarán durante días en una sala de desinfección. Sean inteligentes: reclamen su triunfo.*
+—*Benrey, amigo mío, hazme un favor y desobedece a la policía. Diríjanse al muelle noventa y cuatro. Hay cuatrocientas personas, tres cadenas de holovisión y un servicio de catering de primera esperándolos. Si van al sesenta y dos, los burócratas los encerrarán durante días en una sala de desinfección. Sean inteligentes: reclamen su triunfo.*
 
-Benray miró a Axel con una sonrisa pícara:
+Benrey miró a Axel con una sonrisa pícara:
 
 —Axel, querida... ¿cuál era ese muelle que tanto te gustaba?
 
@@ -26,7 +26,7 @@ Cuando la *Estrella Errante* atravesó la compuerta presurizada del muelle 94 y 
 
 Una marea humana rugía tras las vallas de seguridad. Banderas con los emblemas del Colectivo Hardscrabble e Inversiones Estelares, pancartas caseras con el lema *«¡Héroes del Acreon!»* y decenas de drones de grabación sobrevolaban el hangar en un zumbido ensordecedor. Justo en el mismo muelle donde semanas atrás habían tenido que esquivar el fuego de los francotiradores al descender de su lanzadera, una multitud eufórica los aclamaba a gritos.
 
-—¡Bienvenidos a la celebridad, muchachos! —exclamó Benray, ajustándose su mejor capa escarlata antes de pulsar el interruptor de la rampa de desembarco.
+—¡Bienvenidos a la celebridad, muchachos! —exclamó Benrey, ajustándose su mejor capa escarlata antes de pulsar el interruptor de la rampa de desembarco.
 
 ***
 
@@ -36,11 +36,11 @@ Al descender por la pasarela de la nave, el gentío se abalanzó sobre el cordó
 
 Sin embargo, la multitud se abrió de golpe como las olas ante un rompeolas. Avanzando con paso marcial a través del gentío, asomó una imponente mujer de especie barathu, cuyo cuerpo vegetal cubierto de afiladísimas púas verdes servía de salvoconducto natural: era Carnegia, la reportera estrella de la cadena *Noticias en Acción*. Tras ella flotaba una medusa rosada de ojos múltiples que sostenía una cámara holográfica pesada con media docena de tentáculos flexibles.
 
-Carnegia plantó el micrófono a pocos centímetros del hocico de Benray:
+Carnegia plantó el micrófono a pocos centímetros del hocico de Benrey:
 
-—¡Buenas noches, Estación Absalón! Les habla Carnegia para *Noticias en Acción*, transmitiendo en directo desde el muelle noventa y cuatro. Me encuentro ante los legendarios supervivientes que abordaron el carguero *Acreon*, descendieron a las profundidades de la misteriosa Roca del Drift y han regresado a bordo de la mítica *Estrella Errante*. Capitán Benray Galway... ¿cómo se siente al haber salvado la verdad de la conspiración más grande del año?
+—¡Buenas noches, Estación Absalón! Les habla Carnegia para *Noticias en Acción*, transmitiendo en directo desde el muelle noventa y cuatro. Me encuentro ante los legendarios supervivientes que abordaron el carguero *Acreon*, descendieron a las profundidades de la misteriosa Roca del Drift y han regresado a bordo de la mítica *Estrella Errante*. Capitán Benrey Galway... ¿cómo se siente al haber salvado la verdad de la conspiración más grande del año?
 
-Benray clavó la mirada directamente en la lente flotante con la maestría de un actor consagrado:
+Benrey clavó la mirada directamente en la lente flotante con la maestría de un actor consagrado:
 
 —Fue una misión dura, Carnegia. Vimos cosas en ese asteroide que pondrían los pelos de punta al soldado más curtido del Pacto. Pero como capitán de esta tripulación, juré que no dejaríamos atrás la memoria de los mineros caídos. Somos profesionales, somos la tripulación de la *Estrella Errante*, y le aseguro a todo nuestro público que mientras estemos aquí, la verdad siempre saldrá a la luz. ¡No olviden suscribirse a mi canal personal y estar atentos a la línea oficial de camisetas de la misión!
 
@@ -66,7 +66,7 @@ Axel miró la cámara flotante durante dos segundos de silencio imperturbable:
 
 —Fue una misión eficiente. Los enemigos fueron neutralizados. La nave funciona. Gracias.
 
-Entre la muchedumbre, Benray distinguió a su primo Rim Rey saludando con ambas patas en alto, mientras en una esquina resguardada de las cámaras, Keltus —el asistente no-muerto del embajador de Eox— observaba la escena con una leve inclinación de cabeza, sosteniendo una caja metálica bajo el brazo.
+Entre la muchedumbre, Benrey distinguió a su primo Rim Rey saludando con ambas patas en alto, mientras en una esquina resguardada de las cámaras, Keltus —el asistente no-muerto del embajador de Eox— observaba la escena con una leve inclinación de cabeza, sosteniendo una caja metálica bajo el brazo.
 
 Pero el espectáculo más ruidoso lo protagonizaban Willy y Naru: encaramados a las aletas traseras de la nave, los dos goblins recibían las aclamaciones histéricas de más de doscientos goblins de los muelles de desguace, que coreaban sus nombres mientras arrojaban tuercas y cables al aire en un aquelarre de júbilo callejero.
 
@@ -90,11 +90,11 @@ Entre los invitados de la alta sociedad y los diplomáticos del Consejo de Sínd
 
 —*Por cierto, amigos míos...* —añadió Chiskisk con una leve vibración en sus palpos—. *He recibido un despacho sumamente irritado del oficial León. Los esperaba en el muelle sesenta y dos para someterlos a los protocolos de descontaminación reglamentarios. No le ha hecho ninguna gracia ver su llegada triunfal por todas las cadenas de noticias.*
 
-—¿Acaso don León sabe redactar algo que no sea molesto? —bufó Benray con una risita, dando un sorbo a su copa—. A ese hombre le saldrían canas si intentara sonreír un solo día de su vida.
+—¿Acaso don León sabe redactar algo que no sea molesto? —bufó Benrey con una risita, dando un sorbo a su copa—. A ese hombre le saldrían canas si intentara sonreír un solo día de su vida.
 
 —*Siempre ha sido muy correcto conmigo* —respondió Chiskisk con mesura telepática—. *Pero me temo que la diferencia radica en que nosotros solemos respetar la ley.*
 
-Mientras Benray se lanzaba de cabeza hacia el bar para brindar con su primo Rim Rey y Triel era rodeada por curiosos fascinados por las modificaciones de Gerty, Axel optó por apostarse junto a la mesa de bocadillos, degustando canapés con metódica parsimonia para evitar el contacto social.
+Mientras Benrey se lanzaba de cabeza hacia el bar para brindar con su primo Rim Rey y Triel era rodeada por curiosos fascinados por las modificaciones de Gerty, Axel optó por apostarse junto a la mesa de bocadillos, degustando canapés con metódica parsimonia para evitar el contacto social.
 
 No tardó en ser interceptada por los aduladores de la alta sociedad. Un joven estilista se acercó para preguntarle cómo se sentía una androide al matar a la renegada Clara-247, seguido casi de inmediato por un avispado comerciante de cibernética que sacó de su maletín un estilete retráctil de aleación negra:
 

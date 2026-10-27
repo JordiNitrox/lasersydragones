@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Detección de una llamada de auxilio de baja frecuencia en el Drift. El identificador transpondedor sacude a Benray: es La Galway, la nave insignia de su familia ysoki.
+Detección de una llamada de auxilio de baja frecuencia en el Drift. El identificador transpondedor sacude a Benrey: es La Galway, la nave insignia de su familia ysoki.
 
 ---
 
@@ -15,7 +15,7 @@ Detección de una llamada de auxilio de baja frecuencia en el Drift. El identifi
 #### I. El Eco en el Escáner Cuántico
 <!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
 
-#### II. El Rostro Desencajado de Benray
+#### II. El Rostro Desencajado de Benrey
 <!-- Redactar escena literaria manteniendo la voz de los personajes y detalles canónicos -->
 
 #### III. Fijando Rumbo hacia el Pecio

@@ -7,7 +7,7 @@ En el altiplano de basalto, junto a las ruedas de oruga del Goliath Terrestre, e
 El coloso draconiano apoyó su guja de energía en el suelo con un golpe ceremonial y se llevó la garra derecha al pecho blindado, inclinando la cabeza ante los cuatro aventureros y su guardián de acero:
 —*«Guerreros de Absalón. Mi juramento con la fosa de la Necrogarganta ha quedado extinguido con la traición de la Flota de Cadáveres. Mis alas volverán a buscar el cielo de Triaxus para advertir a mi pueblo de la tormenta que se avecina.»*
 
-Benray dio un paso al frente y le estrechó una de las garras gigantescas con ambas manos:
+Benrey dio un paso al frente y le estrechó una de las garras gigantescas con ambas manos:
 —Ha sido un honor luchar a tu lado, Keltus. Si alguna vez pasas por la Estación Absalón, pregunta por la familia Galway. La primera ronda de hidromiel corre por mi cuenta.
 
 El dragón dejó escapar una risa grave que sonó como brasas crepitando:

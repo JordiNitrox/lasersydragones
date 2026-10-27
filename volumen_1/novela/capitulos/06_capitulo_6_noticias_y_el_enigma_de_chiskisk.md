@@ -10,9 +10,9 @@ Avanzaban en fila india, encorvados bajo el techo abovedado de chapa ondulada. G
 
 —*Carezco de boca, jefa. Y de paciencia con los túneles subterráneos.*
 
-Benray, que marchaba a la cabeza guiándose por el calor residual de las tuberías de refrigerante, levantó una pata enguantada para ordenar silencio. El ysoki empujó con cuidado una rejilla de evacuación que daba a un callejón transversal del Sector 14, en los márgenes entre el Anillo y la zona residencial media.
+Benrey, que marchaba a la cabeza guiándose por el calor residual de las tuberías de refrigerante, levantó una pata enguantada para ordenar silencio. El ysoki empujó con cuidado una rejilla de evacuación que daba a un callejón transversal del Sector 14, en los márgenes entre el Anillo y la zona residencial media.
 
-—Despejado —dijo Benray asomando el hocico con los bigotes tensos—. Pero no bajen la guardia. Miren hacia el bulevar.
+—Despejado —dijo Benrey asomando el hocico con los bigotes tensos—. Pero no bajen la guardia. Miren hacia el bulevar.
 
 A través de la rendija de la rejilla, las pantallas holográficas públicas que coronaban los edificios comerciales proyectaban un resplandor azulado sobre la multitud. En todas ellas parpadeaba en letras escarlatas un rótulo urgente:  
 **BOLETÍN ESPECIAL DE NOTICIAS: TIROTEO EN EL PUERTO 94.**
@@ -39,15 +39,19 @@ Finalmente, un anciano con bigote blanco erizado y túnica de gala empujó la c�
 
 La transmisión regresó al plató central, donde Joana Jiménez leyó una advertencia de búsqueda y captura con retratos robot aproximados.
 
-Benray se llevó las patas a la cabeza, tirándose de los bigotes con desesperación fingida:
+Benrey se llevó las patas a la cabeza, tirándose de los bigotes con desesperación fingida:
 
 —¡Retrato robot de payaso de circo! ¡Nos han visto! ¡Mi impecable gabardina de diseño, reducida a una parodia de feria en la holored pública!
 
 —El sesgo estético de los medios de comunicación es irrelevante —sentenció A.Xel con tono imperturbable, revisando los mapas de tráfico en su visor—. Lo tácticamente relevante es que la seguridad corporativa y los Protectores tienen nuestras descripciones biométricas. Permanecer en los niveles comerciales del Anillo garantiza nuestra detención en menos de dos horas.
 
-—Marlene tenía un contacto oficial —dijo Marloc, abriendo los ojos con mirada decidida—. Antes de que todo se fuera al infierno, el mensaje que me envió mencionaba una reunión previa en la delegación de *Inversiones Estelares*, en el distrito de los Parques de Jatembe, en pleno Ojo. Si Marlene estaba en peligro, su enlace allí debe de saber por qué la mataron.
+Triel extrajo de su cinturón magnético el comunicador ensangrentado que había rescatado del cuerpo de Marlene y activó su pantalla holográfica.
 
-—¿Subir al Ojo? —bufó Benray—. ¡El Ojo es donde vive la gente rica, los jueces y los directores corporativos! Con estas ropas manchadas de sangre y un meca de dos metros cubierto de pegatinas, nos van a escanear a cincuenta metros de distancia.
+—Marlene no trabajaba sola —dijo la muchacha, mostrando las líneas de datos que parpadeaban en azul—. Miren el registro de su último archivo: lleva el membrete oficial de *Inversiones Estelares S.C.* Tenía una reunión programada en su delegación de los Parques de Jatembe, en pleno Ojo.
+
+—Un contacto oficial —asintió Marloc, abriendo los ojos con mirada decidida—. Si Marlene estaba en peligro por su investigación sobre el *Acreon*, su enlace corporativo allí debe de saber por qué la mataron... y quién ordenó el atentado.
+
+—¿Subir al Ojo? —bufó Benrey—. ¡El Ojo es donde vive la gente rica, los jueces y los directores corporativos! Con estas ropas manchadas de sangre y un meca de dos metros cubierto de pegatinas, nos van a escanear a cincuenta metros de distancia.
 
 Triel le dio una palmada en el hombro al ysoki:
 
@@ -55,7 +59,7 @@ Triel le dio una palmada en el hombro al ysoki:
 
 ***
 
-Para llegar a las alturas del Ojo sin activar las alarmas del transporte público, Benray recurrió a sus viejos contactos de las líneas de mantenimiento. Abordaron un montacargas de suministros que transportaba alimentos frescos hacia las áreas residenciales más exclusivas de la estación.
+Para llegar a las alturas del Ojo sin activar las alarmas del transporte público, Benrey recurrió a sus viejos contactos de las líneas de mantenimiento. Abordaron un montacargas de suministros que transportaba alimentos frescos hacia las áreas residenciales más exclusivas de la estación.
 
 Cuando las compuertas neumáticas del montacargas se abrieron en el Nivel Superior, el contraste fue casi violento para sus sentidos.
 
@@ -121,7 +125,10 @@ La estancia olía a tabaco aromático de clavo y café frío. En las paredes col
 
 Marloc avanzó con pasos vacilantes, como si caminara en sueños. Sus dedos cibernéticos rozaron el cristal del marco.
 
-La fotografía mostraba una habitación de hospital en Verces. En la cama yacía Marlene, sonriendo con entereza pese al aparatoso vendaje que cubría su hombro izquierdo, donde su brazo había sido recientemente amputado. Sentada junto a ella sobre el colchón, abrazándola con una devoción infinita, estaba una mujer rubia de sonrisa dulce y mirada luminosa: **Ángela**. A su lado posaban el viejo Chic y una mujer guerrera de tez morena y mirada severa llamada **Amélie**.
+La fotografía mostraba una habitación de hospital en Verces. En la cama yacía Marlene, sonriendo con entereza pese al aparatoso vendaje que cubría su hombro izquierdo, donde su brazo había sido recientemente amputado. Sentada junto a ella sobre el colchón, abrazándola con una devoción infinita, estaba una mujer rubia de sonrisa dulce y mirada luminosa: **Ángela**. A su lado posaban el viejo Chic —el mismo intermediario ysoki del *Club 13*, varios años más joven y con un chaleco impoluto— y una mujer guerrera de tez morena y mirada severa.
+
+Al darle la vuelta al marco con dedos temblorosos, Marloc leyó la dedicatoria grabada al dorso:  
+*«Verces, un día de suerte. Con amor a Ángela —firmado por Chic, Amélie y Marlene».*
 
 Al contemplar el rostro vivo y radiante de Ángela, el dique de contención que sostenía la cordura de Marloc se quebró en mil pedazos.
 
@@ -153,6 +160,6 @@ El shirren posó sus ojos compuestos en el grupo:
 
 *«La policía los busca como chivos expiatorios. La única forma de limpiar sus nombres y vengar a Marlene es descender a las profundidades de la Espiga, infiltrarse en el Club Con-Fusión y arrancarle la verdad a la líder de los Reyes del Nivel 21: Ferani Nadaz.»*
 
-Benray sonrió de oreja a oreja, acariciando la culata de su pistola:
+Benrey sonrió de oreja a oreja, acariciando la culata de su pistola:
 
 —Meternos en la boca del lobo para interrogar a la reina de los bajos fondos... Empiezo a sentirme como en casa. En marcha, equipo.

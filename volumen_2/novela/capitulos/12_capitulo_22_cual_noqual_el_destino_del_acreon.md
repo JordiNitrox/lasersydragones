@@ -42,7 +42,7 @@ Mago disparó dos ráfagas finales con su rifle hacia la compuerta, arrojó el a
 
 El silencio que siguió a la proyección fue sepulcral.
 
-—Cuatro sobrevivieron a la evacuación del pecio —murmuró Benray, bajando las orejas—. La capitana, la vesk Mago, Danver y Harbar consiguieron descolgarse por los cables hasta la roca. Pero estaban infectados...
+—Cuatro sobrevivieron a la evacuación del pecio —murmuró Benrey, bajando las orejas—. La capitana, la vesk Mago, Danver y Harbar consiguieron descolgarse por los cables hasta la roca. Pero estaban infectados...
 
 Triel no respondió de inmediato. Sus ojos carmesíes se habían fijado en el rostro de Axel y en la postura rígida de Marloc.
 
@@ -64,13 +64,13 @@ Los bordes de las heridas no estaban cicatrizando. Bajo la dermis de Marloc y en
 
 —Por el dios Triune... —susurró Triel, con las manos temblando sobre el teclado del escáner—. No es una simple infección bacteriana. Es la **Muerte del Abismo**.
 
-—¿Qué significa eso en términos de supervivencia? —preguntó Benray con el corazón en un puño.
+—¿Qué significa eso en términos de supervivencia? —preguntó Benrey con el corazón en un puño.
 
 —Significa que el parásito ya ha colonizado sus sistemas celulares —explicó Triel con la voz quebrada por la angustia—. La enfermedad avanza con rapidez implacable. En su primera fase provoca fiebre, debilidad motriz y atrofia muscular generalizada... Pero si no se erradica a tiempo, las larvas consumen los órganos internos, alcanzan el cerebro y devoran la conciencia del huésped. Y cuando el infectado muere... el cadáver se levanta en cuestión de días convertido en un zombi del vacío con un nuevo Akata gestándose en sus entrañas.
 
 Axel clavó sus ojos dorados en Triel. La androide que siempre se había mostrado inmutable y analítica experimentó un estremecimiento genuino de pavor:
 
-—He pasado diez años de mi existencia luchando por ser dueña de mi mente y de mi voluntad. No permitiré que una aberración del vacío me arrebate el control de este cuerpo. Triel... Benray... si mi temperatura cae a cero y mi procesador central colapsa, les exijo un juramento: incineren mi chasis de inmediato. No dejen que despierte como un monstruo.
+—He pasado diez años de mi existencia luchando por ser dueña de mi mente y de mi voluntad. No permitiré que una aberración del vacío me arrebate el control de este cuerpo. Triel... Benrey... si mi temperatura cae a cero y mi procesador central colapsa, les exijo un juramento: incineren mi chasis de inmediato. No dejen que despierte como un monstruo.
 
 Willy y Naru, asomados con timidez desde la puerta, levantaron dos dedos solemnes en el aire:
 
@@ -80,7 +80,7 @@ Willy y Naru, asomados con timidez desde la puerta, levantaron dos dedos solemne
 
 Triel asintió con determinación, administrando sendos parches reforzados con inmunoestimulantes en el muslo de Marloc y en el hombro de Axel. El calor reconfortante del fármaco alivió temporalmente el dolor, pero el reloj biológico había comenzado su cuenta regresiva.
 
-—La única esperanza es la Roca del Drift —sentenció Benray, apretando los puños—. La tripulación del *Acreon* se refugió en el asteroide con sus kits de supervivencia de campaña. Si encontramos a los supervivientes o los suministros médicos de su campamento, podremos salvar a Axel y a Marloc. No hay un segundo que perder.
+—La única esperanza es la Roca del Drift —sentenció Benrey, apretando los puños—. La tripulación del *Acreon* se refugió en el asteroide con sus kits de supervivencia de campaña. Si encontramos a los supervivientes o los suministros médicos de su campamento, podremos salvar a Axel y a Marloc. No hay un segundo que perder.
 
 ***
 
@@ -90,7 +90,7 @@ Antes de abandonar el pecio, una deuda de honor pendiente reclamaba la atención
 
 En el hangar de popa, Willy y Naru se detuvieron ante el cuerpo inmóvil de su hermana Martha, tendido sobre las planchas metálicas junto a los restos destrozados de los Akata. Conociendo ahora el horror de la Muerte del Abismo, los pequeños carroñeros sabían lo que debían hacer.
 
-Con la ayuda de Benray, vaciaron dos bidones de combustible técnico sobre los cadáveres de las criaturas y sobre el cuerpo de la goblin caída, asegurando el perímetro con barriles para evitar que las llamas se propagaran al resto de la nave. Naru encendió una bengala de magnesio y la dejó caer sobre la pira:
+Con la ayuda de Benrey, vaciaron dos bidones de combustible técnico sobre los cadáveres de las criaturas y sobre el cuerpo de la goblin caída, asegurando el perímetro con barriles para evitar que las llamas se propagaran al resto de la nave. Naru encendió una bengala de magnesio y la dejó caer sobre la pira:
 
 *¡FWOOOOSH!*
 
@@ -114,7 +114,7 @@ El rostro de León se endureció con una frialdad burocrática implacable:
 
 —*Negativo absoluto, perito Boosmar. El Acreon y su entorno permanecen bajo cuarentena estricta de nivel cuatro. Los estatutos sanitarios de los Mundos del Pacto prohíben taxativamente la entrada de cualquier nave con tripulantes infectados por patógenos del Vasto. Su nave tiene bloqueados los vectores de atraque en Absalón por cinco días estándar hasta la llegada de un equipo de descontaminación de los Protectores. No se les permitirá cruzar la Armada.*
 
-Benray se adelantó hacia la cámara, enseñando los dientes con rabia contenida:
+Benrey se adelantó hacia la cámara, enseñando los dientes con rabia contenida:
 
 —¿Cinco días? ¡En cinco días mis compañeros serán zombis del vacío comiéndose las paredes de esta nave! ¿Esa es la gloriosa justicia de los Protectores? ¿Por qué no mueve su fragata y nos envía un transbordador médico, señor paladín de las estrellas?
 
@@ -122,7 +122,7 @@ Benray se adelantó hacia la cámara, enseñando los dientes con rabia contenida
 
 —*¡Un momento! ¡Señor Galway! ¿Tiene usted conocimiento de que fragmentos completos de sus combates contra las bestias y la exploración del pecio se están emitiendo en directo y en bucle en las holopantallas gigantes del paseo central del Ojo de Absalón? ¡Miles de ciudadanos están viendo sus maniobras como si fuera un espectáculo de holovisión de Canal Atmos! ¿Quién autorizó esa retransmisión pirata?*
 
-Benray soltó una risita burlona por debajo de los bigotes, bendiciendo en silencio la audacia de Marcellus, y fingió un súbito carraspeo agitando la mano frente al micrófono:
+Benrey soltó una risita burlona por debajo de los bigotes, bendiciendo en silencio la audacia de Marcellus, y fingió un súbito carraspeo agitando la mano frente al micrófono:
 
 —¡Caramba, mi estimadísimo oficial León, las interferencias de la Roca del Drift son atroces! ¡Se está perdiendo la portadora cuántica... krrrzzzt, psssshh! Qué lástima, no le escucho nada de nada... ¡Cortando transmisión de emergencia!
 
@@ -162,6 +162,6 @@ El haz atravesó los treinta metros de caída vertical e iluminó por un instant
 
 —Un templo pre-Brecha —susurró Marloc, fascinado ante el descubrimiento mientras el veneno de la Muerte del Abismo latía en su sangre—. Un santuario olvidado enterrado en el corazón de la roca desde antes de que el universo recordara su propio pasado.
 
-Benray ajustó los arneses de descenso y miró a sus compañeros con una sonrisa afilada:
+Benrey ajustó los arneses de descenso y miró a sus compañeros con una sonrisa afilada:
 
 —Supervivientes que encontrar, corsarios a los que cobrar viejas deudas, un templo milenario por saquear y dos infecciones que curar antes de que se ponga el sol... Bienvenidos al verdadero misterio de la Roca del Drift.

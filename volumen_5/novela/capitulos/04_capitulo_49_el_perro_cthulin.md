@@ -12,7 +12,7 @@ No se trataba de las alertas convencionales de movimiento en su radar táctico. 
 
 El grupo se replegó de inmediato en formación defensiva en torno a Gerty.
 
-—¿Otra planta carnívora? —preguntó Benray en un susurro tenso, empuñando su pistola mientras Atmos giraba sobre su eje barriendo el follaje.
+—¿Otra planta carnívora? —preguntó Benrey en un susurro tenso, empuñando su pistola mientras Atmos giraba sobre su eje barriendo el follaje.
 
 —No —respondió Marloc, examinando con su escáner una rama quebrada a la altura de su pecho—. Las marcas son biológicas pero aberrantes. Tejido vegetal fusionado con fibras musculares animales. Hay secreción de toxinas fúngicas en la corteza.
 
@@ -42,11 +42,11 @@ Siguiendo el rastro de savia corrupta y ramas quebradas que el monstruo dejaba a
 
 Allí, desplomada sobre un lecho de hojas húmedas y rodeada de moscas carroñeras, yacía una figura humanoide.
 
-Marloc y Benray se acercaron con las armas en ristre. Se trataba de una mujer lashunta, de complexión atlética pero demacrada hasta los huesos. Tenía la cabeza completamente afeitada y, marcada a fuego en la piel de su frente, destacaba una cicatriz ritual inconfundible: un círculo hendido por una línea quebrada, el emblema sagrado del **Culto del Devorador**.
+Marloc y Benrey se acercaron con las armas en ristre. Se trataba de una mujer lashunta, de complexión atlética pero demacrada hasta los huesos. Tenía la cabeza completamente afeitada y, marcada a fuego en la piel de su frente, destacaba una cicatriz ritual inconfundible: un círculo hendido por una línea quebrada, el emblema sagrado del **Culto del Devorador**.
 
 Su cuerpo estaba en un estado atroz. Esporas púrpuras y tumores fúngicos le cubrían los brazos y el pecho, y la fiebre consumía sus últimos destellos de conciencia.
 
-—Es... una de ellos —susurró Benray, retrocediendo un paso con una mezcla de horror y desprecio—. Una cultista de Tahomen.
+—Es... una de ellos —susurró Benrey, retrocediendo un paso con una mezcla de horror y desprecio—. Una cultista de Tahomen.
 
 La mujer entreabrió unos ojos lechosos y enrojecidos, clavando la mirada en los aventureros. Sus labios resecos se movieron con un hilo de voz quebrado:
 
@@ -62,13 +62,13 @@ El Khasari se había encaramado a las raíces superiores del árbol y se prepara
 
 —¡Cuidado arriba! —gritó Triel, alzando su fusil.
 
-Benray reaccionó con la velocidad de un rayo. Arrojando al suelo un proyector holográfico portátil de su pechera, el ysoki activó una simulación visual a tamaño real de sí mismo, proyectando la imagen de un roedor chillón y desarmado que corría dando traspiés en dirección opuesta:
+Benrey reaccionó con la velocidad de un rayo. Arrojando al suelo un proyector holográfico portátil de su pechera, el ysoki activó una simulación visual a tamaño real de sí mismo, proyectando la imagen de un roedor chillón y desarmado que corría dando traspiés en dirección opuesta:
 
 —¡Por aquí, bicho asqueroso! ¡Mira qué aperitivo más jugoso y fácil de masticar!
 
 La aberración mordió el anzuelo por completo. Confundida por la distracción holográfica y el chillido de los altavoces, desvió su salto, aterrizando pesadamente sobre la proyección vacía y clavando sus garras en el aire.
 
-Axel no desaprovechó la fracción de segundo que Benray le había regalado.
+Axel no desaprovechó la fracción de segundo que Benrey le había regalado.
 
 Ignorando el dolor punzante de las esporas que ardían en su costado, la androide hincó una rodilla en el fango, alineó el punto de mira holográfico de su fusil de hielo y contuvo la respiración. Sus circuitos de puntería calcularon la trayectoria balística perfecta, el viento y la densidad de la bruma.
 
@@ -78,7 +78,7 @@ El haz criogénico atravesó con estruendo el aire de la selva e impactó con pr
 
 La mole cayó de costado, pataleando espasmódicamente antes de quedar completamente inmóvil sobre el fango.
 
-Benray soltó un largo silbido de admiración, recogiendo su proyector:
+Benrey soltó un largo silbido de admiración, recogiendo su proyector:
 
 —Eso es lo que yo llamo un veinte natural en puntería, señorita 42.
 

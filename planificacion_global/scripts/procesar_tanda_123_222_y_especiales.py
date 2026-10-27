@@ -49,7 +49,7 @@ def clasificar_episodio_123_222(num):
             "parte_aventura": "Misión con Yolmar, Valentina y Gazit; tensiones de convivencia en el vacío",
             "volumen_propuesto": "Volumen 11",
             "arco": "La Odisea de La Galway y el Camino a las Nubes",
-            "notas_mesa": "Marloc ausente de la mesa presencial; tripulación resuelve crisis familiares de Benray."
+            "notas_mesa": "Marloc ausente de la mesa presencial; tripulación resuelve crisis familiares de Benrey."
         }
     elif 163 <= num <= 175:
         return {

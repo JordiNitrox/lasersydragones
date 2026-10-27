@@ -21,7 +21,7 @@ Durante horas interminables, el viaje a través del desierto eoxiano fue un ejer
 
 En el interior de la cabina presurizada, iluminada por la luz ámbar de los diales, el grupo observaba por las ventanas blindadas un paisaje que parecía extraído del final del universo. A lo lejos, las siluetas de titánicos acueductos partidos por la mitad y pirámides escalonadas de cristal negro se recortaban contra la penumbra como lápidas gigantescas. No había pájaros en el aire, ni insectos en el polvo, ni viento natural: solo el azote errático de las tormentas de iones que hacían castañear la chapa del convoy.
 
-Benray sacó su termo de café sintético y se sirvió un trago, mirando el paisaje con el ceño fruncido:
+Benrey sacó su termo de café sintético y se sirvió un trago, mirando el paisaje con el ceño fruncido:
 —¿Saben lo que más me impresiona de este sitio? El silencio. En Absalón siempre hay ruido: motores, gritos en los muelles, música en las terrazas, gente quejándose de los impuestos. Pero aquí afuera no hay nada. Es como si el universo entero se hubiera ido a dormir y se hubiera olvidado de despertar a este planeta.
 
 Marloc sonrió con melancolía, apoyando la frente contra el cristal frío:

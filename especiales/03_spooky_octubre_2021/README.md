@@ -2,7 +2,7 @@
 
 > **Episodios:** 73 al 76a (4 episodios / ~4 capítulos).  
 > **Sistema:** *Pathfinder 2e* dentro del universo Starfinder (Cámara de inmersión virtual EPIX en Ábsalon).  
-> **Avatares:** Benray (rana Isopi Flower), Marloc (orco Valor con Bigote Sangrienta), Axel (leshy Pastinaxcel 42) y Triel (mutante Monstruo).  
+> **Avatares:** Benrey (rana Isopi Flower), Marloc (orco Valor con Bigote Sangrienta), Axel (leshy Pastinaxcel 42) y Triel (mutante Monstruo).  
 > **Estado:** Transcripciones limpias y raw integradas y listas para la redacción final.
 
 ---

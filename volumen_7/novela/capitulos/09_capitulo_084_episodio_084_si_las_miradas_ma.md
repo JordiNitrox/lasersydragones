@@ -4,13 +4,13 @@
 
 El silencio que siguió a la destrucción de los dos autómatas de seguridad en el armero subterráneo fue denso, roto únicamente por el siseo del oxígeno reciclado y el zumbido mortecino de los fluorescentes amarillentos. En torno a ellos, las paredes no eran de metal pulido ni de cerámica militar: eran toscas galerías de perforación minera a las que los fanáticos del Devorador habían adosado apresuradamente paneles modulares de plástico y aislante acústico. El techo conservaba la roca viva, agrietada por barrenos ancestrales y ennegrecida por el hollín.
 
-—Míralos nada más —comentó Benray Galway, apoyando la culata de su carabina en el suelo y dándole una patada con desdén a la cabeza decapitada de uno de los robots, cuyo delineador de ojos negro todavía brillaba bajo los cascos—. Autómatas con ínfulas de estrella de rock gótica. Tanta pose intimidante y no nos aguantaron ni dos asaltos frente a la táctica del camarote.
+—Míralos nada más —comentó Benrey Galway, apoyando la culata de su carabina en el suelo y dándole una patada con desdén a la cabeza decapitada de uno de los robots, cuyo delineador de ojos negro todavía brillaba bajo los cascos—. Autómatas con ínfulas de estrella de rock gótica. Tanta pose intimidante y no nos aguantaron ni dos asaltos frente a la táctica del camarote.
 
 Axel, con su agilidad silenciosa habitual, ya estaba inspeccionando las largas estanterías metálicas que recorrían el perímetro del almacén. Tres filas de aparadores bajos y curvos, anclados a la roca, servían como perchero para los pertrechos de asalto del culto.
 
 —Muebles bajos con almacenamiento múltiple —dictaminó la androide, deslizando sus dedos metálicos por los bordes remachados—. Una distribución sumamente ineficiente para un hangar balístico. En los mundos centrales llamarían a esto una credencia de taller.
 
-—¿Una credencia? —bufó Benray, arrugando el hocico bajo la visera—. Axel, por todos los santos de Akiton, estamos en el nido de una secta de perturbados espaciales a cien leguas de cualquier tribunal civilizado y tú estás catalogando el mobiliario de recibidor.
+—¿Una credencia? —bufó Benrey, arrugando el hocico bajo la visera—. Axel, por todos los santos de Akiton, estamos en el nido de una secta de perturbados espaciales a cien leguas de cualquier tribunal civilizado y tú estás catalogando el mobiliario de recibidor.
 
 —La taxonomía del entorno fomenta la calma táctica, emisario Galway —replicó Axel sin inmutarse—. Y además, miren lo que contenía la credencia.
 
@@ -23,7 +23,7 @@ Marloc dio un paso hacia el fondo de la estancia, donde una compuerta empotrada 
 
 La androide sacó su juego de ganzúas electrónicas y, con la asistencia de los sensores arcanos del brazo cibernético de Marloc, desbloqueó los cerrojos de presión. La escotilla cayó con un chasquido sordo. En su interior, impecablemente preservada sobre un armazón hidráulico, descansaba una armadura pesada de placas compuestas: un blindaje *Golemforged Plating III* equipado con impulsores de salto balístico integrados. Y junto a ella, en los estantes contiguos, una joya para exploradores de superficie: un *Refractor Suit* de manufactura ysoki de nivel seis, ligero como una pluma y capaz de deflectar la radiación láser, además de dos monos de desembarco reforzados *D-Suit*.
 
-Benray abrió los ojos como platos. Sus bigotes vibraron de pura codicia.
+Benrey abrió los ojos como platos. Sus bigotes vibraron de pura codicia.
 —¡Por las lunas de Absalom! ¡Ese mono refractor tiene mi nombre grabado en los tornillos de las orejeras! ¡Mírenlo! ¡Es ysoki de pura cepa, ergonómico, aerodinámico y hecho para caballeros de baja estatura pero alto valor estratégico!
 
 —Yo llevo tres misiones soñando con un traje de desembarco con sellado atmosférico reforzado —intervino Axel, señalando con calma analítica el *D-Suit*—. Es el modelo que portaban los pioneros de la corporación minera. Sin embargo, no pienso vestirme como un altar de sacrificios andante cubierto de fémures.
@@ -31,11 +31,11 @@ Benray abrió los ojos como platos. Sus bigotes vibraron de pura codicia.
 Triel desenganchó su estación de ingeniería portátil —su *custom rig* repleto de microsoldadores, parches de polímero y disolventes— y la apoyó sobre la mesa de trabajo con una sonrisa calculadora:
 —Nadie va a ponerse nada hasta que pasen por mis manos. Desmontaré las aberraciones que le pegaron estos dementes, ajustaré las juntas herméticas a la anatomía de cada uno y utilizaremos los aerosoles de pintura industrial que hay en el rincón. Nos llevará tres o cuatro horas de reacondicionamiento, pero saldremos de aquí protegidos como una fragata de guerra.
 
-Durante las horas siguientes, el taller subterráneo se convirtió en un quirófano de blindajes. Entre el chisporroteo de los arcos voltaicos y el zumbido de las lijadoras sónicas, Triel pulió los pinchos de hierro, eliminó los huesos y recalibró los servos musculares. Benray, no pudiendo quedarse quieto, tomó una lata de aerosol amarillo y, mientras Marloc meditaba con su anillo de sustento activo, le estampó en letras mayúsculas sobre la placa pectoral de su nuevo blindaje la palabra: **RULEZ**.
+Durante las horas siguientes, el taller subterráneo se convirtió en un quirófano de blindajes. Entre el chisporroteo de los arcos voltaicos y el zumbido de las lijadoras sónicas, Triel pulió los pinchos de hierro, eliminó los huesos y recalibró los servos musculares. Benrey, no pudiendo quedarse quieto, tomó una lata de aerosol amarillo y, mientras Marloc meditaba con su anillo de sustento activo, le estampó en letras mayúsculas sobre la placa pectoral de su nuevo blindaje la palabra: **RULEZ**.
 
-Cuando el trabajo concluyó, el aspecto del grupo imponía respeto: Benray vestía su flamante *Refractor Suit* ysoki, impecable y ligero; Axel lucía el robusto traje de desembarco con líneas limpias y estilizadas; y Marloc vestía la pesada coraza compuesta, a la que Triel había dejado a modo de faldón ceremonial una serie de láminas metálicas grabadas con estrofas rebeldes de Syd Velch, coronada con la calavera en la hombrera izquierda que el propio místico había insistido en conservar como recordatorio memento mori.
+Cuando el trabajo concluyó, el aspecto del grupo imponía respeto: Benrey vestía su flamante *Refractor Suit* ysoki, impecable y ligero; Axel lucía el robusto traje de desembarco con líneas limpias y estilizadas; y Marloc vestía la pesada coraza compuesta, a la que Triel había dejado a modo de faldón ceremonial una serie de láminas metálicas grabadas con estrofas rebeldes de Syd Velch, coronada con la calavera en la hombrera izquierda que el propio místico había insistido en conservar como recordatorio memento mori.
 
-—Quedó perfecto —dijo Benray admirando el pecho de Marloc—. Nada dice «místico arcano temible» como una hombrera con cara de muerto y la confirmación oficial de que Benray rulea.
+—Quedó perfecto —dijo Benrey admirando el pecho de Marloc—. Nada dice «místico arcano temible» como una hombrera con cara de muerto y la confirmación oficial de que Benrey rulea.
 
 Marloc miró hacia abajo, parpadeó con resignación solemne y suspiró:
 —Que los Dioses del Pacto me den paciencia. Vámonos antes de que decidas pintarle flores a mi vara.
@@ -48,7 +48,7 @@ Dejando atrás el armero y los tres retretes desquiciados cubiertos de insultos 
 
 En una de las literas superiores, un esqueleto humanoide yacía pulcramente tendido sobre el colchón mohoso, tapado hasta el cuello con mantas raídas de lana sintética como si durmiera un plácido sueño infantil.
 
-Benray levantó la ceja y encañonó la manta:
+Benrey levantó la ceja y encañonó la manta:
 —O ese sujeto tenía un catarro terminal, o estos sectarios tienen una idea muy distorsionada del descanso médico.
 
 Triel se acercó con paso cauteloso y levantó la sábana con la punta de su rifle. Las costillas del esqueleto mostraban profundas incisiones causadas por hojas cortantes triangulares:
@@ -71,7 +71,7 @@ El lugar no parecía una cantina militar organizada, sino el botín de saqueador
 
 —Imaginen vivir aquí —dijo Triel con una mueca de disgusto—. Levantarse a las tres de la mañana para sacrificar a un prisionero al Devorador, y luego pelearse en la cocina porque alguien dejó el cuchillo sucio con manteca rancia metido en la mayonesa.
 
-—Ni siquiera tenían disciplina de intendencia —añadió Benray, hurgando con una bayoneta en una caja de cartón—. Miren esto: cuarenta latas de caviar de Castrovel y ni un solo paquete de harina básica. Estos animales asaltaban un carguero, se comían lo que encontraban como cerdos y dejaban que el resto se pudriera.
+—Ni siquiera tenían disciplina de intendencia —añadió Benrey, hurgando con una bayoneta en una caja de cartón—. Miren esto: cuarenta latas de caviar de Castrovel y ni un solo paquete de harina básica. Estos animales asaltaban un carguero, se comían lo que encontraban como cerdos y dejaban que el resto se pudriera.
 
 Axel se agachó ante una alacena inferior y extrajo cuatro bloques compactos de proteína sintética grisácea, completamente herméticos y asépticos.
 —Nutrición estándar androide. Inodora, insípida, inalterable por el paso del tiempo. Me quedaré con esto. Mientras ustedes debaten sobre mayonesa alienígena, mi reactor interno operará con eficiencia máxima.
@@ -94,12 +94,12 @@ Volvieron sobre sus pasos hacia el pilar de computación que presidía la rotond
 Triel pulsó tres comandos y una señal acústica confirmó la purga de los conductos:
 —Listo. Válvulas selladas y filtros purgados. Pero el segundo módulo es más inquietante. Está rotulado como «Cámara de Devoración y Oración».
 
-—¿El cuarto donde estaban los láseres asesinos que casi me parten en lonjas de jamón? —preguntó Benray, tocándose el bigote con indignación retrospectiva.
+—¿El cuarto donde estaban los láseres asesinos que casi me parten en lonjas de jamón? —preguntó Benrey, tocándose el bigote con indignación retrospectiva.
 
 Triel profundizó en los registros de eventos de la computadora, frunciendo el ceño a medida que leía los informes de seguridad:
 —Por los dioses... no era un sistema de seguridad para ladrones. Era un altar de sacrificio activo. Metían a los cautivos en ese pasillo acristalado, encendían la cuadrícula láser resonante y hacían cánticos litúrgicos al ritmo de los cortes térmicos mientras veían a las víctimas desintegrarse en cubos perfectos. Por eso lo llamaban su salón de oración.
 
-Un silencio frío se instaló en el grupo. Hasta Benray tragó saliva, mirando hacia el corredor ahora apagado.
+Un silencio frío se instaló en el grupo. Hasta Benrey tragó saliva, mirando hacia el corredor ahora apagado.
 
 —Desconecta esa atrocidad para siempre —dijo Marloc con tono glacial.
 
@@ -110,9 +110,9 @@ Triel ejecutó la orden, formateando las secuencias de activación del láser y 
 
 ### IV. La bestia en la penumbra
 
-Avanzaron con extrema cautela hacia la antecámara del altar, guiados por el brillo carmesí que se filtraba bajo las compuertas de hierro forjado. Triel avanzaba con el rifle a la cintura; Axel cubría el flanco con sus dagas y la pistola listas; Benray, armado con su holocámara montada al hombro, encendió el foco para registrar cada metro del avance mientras Gerty, con sus cuatro brazos metálicos preparados, avanzaba como vanguardia acorazada.
+Avanzaron con extrema cautela hacia la antecámara del altar, guiados por el brillo carmesí que se filtraba bajo las compuertas de hierro forjado. Triel avanzaba con el rifle a la cintura; Axel cubría el flanco con sus dagas y la pistola listas; Benrey, armado con su holocámara montada al hombro, encendió el foco para registrar cada metro del avance mientras Gerty, con sus cuatro brazos metálicos preparados, avanzaba como vanguardia acorazada.
 
-—Cámara rodando —susurró Benray—. Si los de la Federación de Prensa de Absalom ven este reportaje, nos van a dar tres premios de periodismo de investigación de alto riesgo... si salimos vivos de esta tumba, claro.
+—Cámara rodando —susurró Benrey—. Si los de la Federación de Prensa de Absalom ven este reportaje, nos van a dar tres premios de periodismo de investigación de alto riesgo... si salimos vivos de esta tumba, claro.
 
 La puerta cedió con un gemido de bisagras oxidadas.
 
@@ -125,7 +125,7 @@ En la esquina derecha, tendido sobre un charco viscoso de sangre negruzca, yací
 Gerty avanzó pesadamente hacia la esquina con una de sus espadas de plasma lista:
 —*Por supuesto. Un animal muerto. A nosotros nos encanta matar animales en cada planeta que pisamos. Siempre recuerdo el bosque donde despedazamos a cada bestia que se cruzó en el sendero.*
 
-—Era defensa propia, Gerty, ¡te lo hemos dicho cien veces! —protestó Benray en voz baja—. Tráelo para acá a ver qué demonios es.
+—Era defensa propia, Gerty, ¡te lo hemos dicho cien veces! —protestó Benrey en voz baja—. Tráelo para acá a ver qué demonios es.
 
 El dron de combate enganchó a la criatura por una de sus patas traseras escamosas y la arrastró hasta la alfombra central. El animal recordaba a un descomunal dragón de komodo de escamas rojizas y coriáceas, pero sus cuencas oculares no contenían ojos: eran fosas cavernosas y vacías de las que aún se desprendían débiles jirones de una niebla negra como la tinta. Alrededor de su cuello grueso llevaba un collar de cuero tachonado de hierro con una inscripción grabada en runas infernales.
 
@@ -135,13 +135,13 @@ Marloc leyó los caracteres en voz alta:
 Triel se arrodilló para examinar los orificios en el costado del reptil:
 —Tiene múltiples impactos de dispersión y quemaduras térmicas de fusiles de plasma militar. No murió de causas naturales ni en una pelea de fieras: lo abatieron a quemarropa hace menos de dos días. Quienquiera que haya irrumpido aquí antes que nosotros —la Flota Cadáver o los propios escoltas de Null-9— no tuvo piedad ni con los perros del templo.
 
-—Eso significa que no estamos solos en este nivel —advirtió Benray, apuntando su cámara con nerviosismo hacia las sombras que rodeaban la enorme consola—. O que lo que sea que mató a este bicho sigue rondando...
+—Eso significa que no estamos solos en este nivel —advirtió Benrey, apuntando su cámara con nerviosismo hacia las sombras que rodeaban la enorme consola—. O que lo que sea que mató a este bicho sigue rondando...
 
-En ese preciso instante, mientras el foco de la cámara de Benray barría los haces de cables colgantes detrás de la torre informática, el ysoki vio un destello de oscuridad condensada.
+En ese preciso instante, mientras el foco de la cámara de Benrey barría los haces de cables colgantes detrás de la torre informática, el ysoki vio un destello de oscuridad condensada.
 
 Entre las sombras, deslizándose sin un solo crujido sobre la alfombra de sangre, un segundo reptil gigantesco —idéntico al cadáver, pero rebosante de una energía predatoria voraz— emergió con las fauces abiertas. Sus cuencas oculares eran dos pozos de negrura absoluta que parecían succionar la luz de las linternas.
 
-—¡Cuidado detrás de la terminal! —chilló Benray—. ¡Hay otro! ¡Y este está vivito y coleando!
+—¡Cuidado detrás de la terminal! —chilló Benrey—. ¡Hay otro! ¡Y este está vivito y coleando!
 
 ***
 
@@ -151,7 +151,7 @@ El reptil no emitió un rugido convencional. De sus fauces brotó un siseo que r
 
 El impacto mental fue demoledor.
 
-Benray sintió que el suelo se desvanecía bajo sus patas. De repente, ya no estaba en el asteroide; estaba atrapado nuevamente en los pasillos en llamas de la nave donde toda su tripulación original había sido descuartizada. El pánico se apoderó de sus circuitos neurales y, víctima de una confusión absoluta, comenzó a disparar su carabina en ráfagas descontroladas hacia lo primero que se movió:
+Benrey sintió que el suelo se desvanecía bajo sus patas. De repente, ya no estaba en el asteroide; estaba atrapado nuevamente en los pasillos en llamas de la nave donde toda su tripulación original había sido descuartizada. El pánico se apoderó de sus circuitos neurales y, víctima de una confusión absoluta, comenzó a disparar su carabina en ráfagas descontroladas hacia lo primero que se movió:
 —¡Atrás! ¡No dejen que me lleven! ¡Fuego a discreción!
 
 Triel sacudió la cabeza con violencia, pero sus ojos se nublaron en una neblina violeta. La drow giró su fusil hacia Gerty, viendo en el dron a un tirano de su pasado drow, y apretó el gatillo en una descarga errática que rebotó contra el chasis reforzado de la máquina.
@@ -159,9 +159,9 @@ Triel sacudió la cabeza con violencia, pero sus ojos se nublaron en una neblina
 Marloc sintió una fractura en su concentración arcana. Sus rodillas flaquearon y se quedó inmóvil en medio de la sala, con la mirada perdida y balbuceando palabras inconexas en una lengua muerta de Kasath:
 —...Ángela de la boca... las estrellas sangran al revés... el círculo no cierra...
 
-El lagarto monstruoso aprovechó el caos. Se abalanzó en carrera directa hacia Benray y hundió sus colmillos acerados en el hombro del ysoki con un crujido espantoso. Benray aulló de dolor cuando la mordedura le arrancó placas enteras del nuevo traje refractor, dejándolo al borde del desmayo mientras la sangre caliente empapaba su pelaje.
+El lagarto monstruoso aprovechó el caos. Se abalanzó en carrera directa hacia Benrey y hundió sus colmillos acerados en el hombro del ysoki con un crujido espantoso. Benrey aulló de dolor cuando la mordedura le arrancó placas enteras del nuevo traje refractor, dejándolo al borde del desmayo mientras la sangre caliente empapaba su pelaje.
 
-—¡Axel! —gritó Benray con las pocas fuerzas que le quedaban mientras se arrastraba desesperadamente hacia la salida de la cocina—. ¡Haz algo! ¡El bicho me come la pierna!
+—¡Axel! —gritó Benrey con las pocas fuerzas que le quedaban mientras se arrastraba desesperadamente hacia la salida de la cocina—. ¡Haz algo! ¡El bicho me come la pierna!
 
 Axel parpadeó con fuerza. Por un milisegundo, sus procesadores sintéticos vacilaron ante la visión de cientos de androides desmantelados flotando en el frío espacio interestelar. Pero con un esfuerzo supremo de su memoria volitiva, quemó un punto de resolución interna y reinició sus subrutinas lógicas en modo de combate puro:
 —*Purga de distorsión sensorial completada. Blancos hostiles redefinidos.*
@@ -176,9 +176,9 @@ Axel fijó el punto ciego en la nuca escamosa de la criatura. Su truco de franco
 
 El rayo concentrado atravesó el cráneo del Feolist justo en el nacimiento de la espina dorsal. La masa cerebral del monstruo estalló en un fogonazo de energía térmica y la enorme mole cayó desplomada sobre la alfombra, convulsionando antes de quedar inmóvil en un lago de sangre espesa.
 
-De sus cuencas vacías brotó un último suspiro de humo negro que se dispersó en el aire reciclado. En ese mismo instante, la niebla mental que atenazaba a Benray, Triel y Marloc se desvaneció como una pesadilla al despertar.
+De sus cuencas vacías brotó un último suspiro de humo negro que se dispersó en el aire reciclado. En ese mismo instante, la niebla mental que atenazaba a Benrey, Triel y Marloc se desvaneció como una pesadilla al despertar.
 
-Benray, tirado contra el aparador de la cocina y sujetándose el hombro ensangrentado con una mano temblorosa, soltó una carcajada ronca:
+Benrey, tirado contra el aparador de la cocina y sujetándose el hombro ensangrentado con una mano temblorosa, soltó una carcajada ronca:
 —Díganme que mi cámara grabó ese tiro... Por los clavos de hierro de Castrovel, Axel, te debo la vida y tres suscripciones de por vida a la cantina de Absalom.
 
 Marloc descendió de la consola, con el rostro pálido pero entero, y extendió su mano luminosa sobre las heridas del roedor para estabilizar sus constantes vitales:

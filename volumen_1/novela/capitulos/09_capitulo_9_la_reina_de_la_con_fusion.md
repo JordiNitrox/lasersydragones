@@ -6,7 +6,7 @@ Ocupaba un gigantesco hangar de manufactura en desuso, en el corazón del Sector
 
 En el acceso principal, dos fornidos matones de los *Reyes del Nivel 21* custodiaban la entrada. Pero antes de que pudieran alzar sus armas, la comitiva del farol se abrió paso con una arrogancia calculada.
 
-Triel avanzó con la cabeza erguida, la mirada gélida y el paso altivo propio de la nobleza matriarcal de Apostae. A su lado, Benray Galway marchaba con las solapas de la gabardina estiradas, hinchando el pecho como un diplomático de carrera, mientras Marloc y A.Xel, provistos de gafas oscuras y trajes cerrados, flanqueaban a la semi-drow con las manos cruzadas rígidamente a la espalda. Tras ellos, Gerty cerraba la formación con sus dos metros de aleación pesada.
+Triel avanzó con la cabeza erguida, la mirada gélida y el paso altivo propio de la nobleza matriarcal de Apostae. A su lado, Benrey Galway marchaba con las solapas de la gabardina estiradas, hinchando el pecho como un diplomático de carrera, mientras Marloc y A.Xel, provistos de gafas oscuras y trajes cerrados, flanqueaban a la semi-drow con las manos cruzadas rígidamente a la espalda. Tras ellos, Gerty cerraba la formación con sus dos metros de aleación pesada.
 
 Los guardias de la puerta titubearon, desconcertados ante semejante estampa aristocrática en mitad de los suburbios, y se apartaron sin atreverse a exigir credenciales.
 
@@ -16,7 +16,7 @@ En la antesala, sentados sobre cajones de cerveza sintética alrededor de una me
 
 —¡Alto ahí! ¿Quién diablos los dejó pasar?
 
-Benray dio un paso al frente con una solemnidad teatral impecable, señalando a Triel con un gesto majestuoso:
+Benrey dio un paso al frente con una solemnidad teatral impecable, señalando a Triel con un gesto majestuoso:
 
 —¡Atención, escoria de los muelles! —bramó el ysoki con voz engolada—. Ha llegado la honorable Señorita Istrav, representante plenipotenciaria de la Casa Istrav de Apostae. Ha venido en persona a resolver cuentas pendientes con Ferani Nadaz. Y mantengan esas zarpas lejos del armamento si no quieren que sus nombres figuren en el registro de decesos corporativos antes del amanecer.
 
@@ -48,7 +48,7 @@ Ferani entrecerró los ojos verdes al ver entrar a Triel y a su grupo, apoyando 
 
 —¿Qué demonios es esto? Ya me reuní hace cuatro días con el emisario de Apostae y el trato de armas quedó cerrado. ¿Qué más quieren?
 
-Benray carraspeó, intentando mantener la farsa:
+Benrey carraspeó, intentando mantener la farsa:
 
 —La Señorita Istrav no responde ante los acuerdos de otros intermediarios; viene a verificar sus propios intereses de forma...
 
@@ -66,7 +66,7 @@ Triel alzó su rifle y abrió fuego con una puntería quirúrgica. El rayo escar
 
 A.Xel ejecutó una finta lateral perfecta a través de la nube de polvo verde. Desenfundó su pistola rápida y descerrajó dos tiros balísticos certeros a la rodilla de Brock, haciendo que el gigante de trescientos kilos se desplomara contra una silla y cayera noqueado sobre el suelo entre estertores agónicos.
 
-Ferani trepó sobre el escritorio derribado con una pirueta acrobática y abrió fuego contra Benray, rozándole la oreja izquierda con un haz de plasma. Pero antes de que pudiera amartillar de nuevo, Axel se deslizó por debajo de la mesa y le propinó un golpe contundente en el plexo con la culata reforzada de su arma.
+Ferani trepó sobre el escritorio derribado con una pirueta acrobática y abrió fuego contra Benrey, rozándole la oreja izquierda con un haz de plasma. Pero antes de que pudiera amartillar de nuevo, Axel se deslizó por debajo de la mesa y le propinó un golpe contundente en el plexo con la culata reforzada de su arma.
 
 La *Reina de la Con-Fusión* soltó el aire de golpe y cayó de espaldas contra las baldosas, inconsciente.
 
@@ -76,7 +76,7 @@ En ese instante, la puerta trasera se abrió de golpe. Los tres pandilleros de l
 
 No pudieron terminar la frase.
 
-Benray Galway saltó sobre el escritorio derribado como un resorte. Plantó sus botas sobre el pecho de Ferani inconsciente, le apoyó el cañón de su pistola láser directamente en la sien y bramó con una ferocidad salvaje que heló la sangre de los atacantes:
+Benrey Galway saltó sobre el escritorio derribado como un resorte. Plantó sus botas sobre el pecho de Ferani inconsciente, le apoyó el cañón de su pistola láser directamente en la sien y bramó con una ferocidad salvaje que heló la sangre de los atacantes:
 
 —¡BAJEN LAS MALDITAS ARMAS O LE VUELO LOS SESOS A SU JEFA AQUÍ MISMO! ¡Ella todavía respira, pero si mueven un solo dedo, saldrán de esta oficina en bolsas de basura! ¡AL SUELO, DIJE!
 
@@ -96,13 +96,13 @@ Mientras tanto, Triel hackeó la terminal principal de Ferani, accediendo a los 
 
 —¡Bingo! —exclamó la semi-drow—. Pagos masivos triangulados desde cuentas corporativas de **Extracciones Estelares** a nombre de Ferani para acosar a los mineros de Hardscrabble. Y miren esto: para el golpe del Muelle 94, Ferani solo envió a dos de sus hombres... Las notas dicen que el tercer tirador, el francotirador que mató a Marlene, fue enviado directamente por el enlace drow de la corporación.
 
-Benray agarró una botella de whisky fino del suelo y le arrojó un chorro a la cara a Ferani Nadaz.
+Benrey agarró una botella de whisky fino del suelo y le arrojó un chorro a la cara a Ferani Nadaz.
 
 La líder criminal tosió con violencia, escupiendo alcohol y abriendo los ojos desorientada. Al ver a sus hombres atados y a Marloc encendiendo una chispa arcana crepitante en los nudillos de su puño cibernético, la mujer se encogió contra la pared:
 
 —¡Esperen, esperen! —suplicó Ferani con voz ronca por el humo—. ¡No me maten! ¡Entréguenme a los Protectores de la estación! Si me entregan a la policía para un juicio formal con abogado del sindicato, les diré todo lo que sé.
 
-—¿Pides ir a prisión? —se burló Benray—. Qué modesta te has vuelto de repente.
+—¿Pides ir a prisión? —se burló Benrey—. Qué modesta te has vuelto de repente.
 
 —¡Tengo miedo de que me liquiden! —confesó la mujer temblando—. Si los drow o Extracciones Estelares descubren que ustedes entraron aquí, enviarán sicarios para silenciarme. El francotirador que mató a Marlene Boosmar no era de mi banda... lo mandó el enlace drow de la corporación. Se llamaba **Kallio**, un humano joven con la cara llena de marcas y pelo claro. Murió o cayó preso en el tiroteo del muelle. Yo solo puse la distracción. Cumplí mi parte y hoy vinieron a pagarme.
 
@@ -114,7 +114,7 @@ Ferani miró hacia una pequeña puerta blindada en el fondo de la habitación:
 
 —Escuchen... podemos hacer un trato. En esa bodeguita trasera tengo mi botín privado. Todo lo que quieran es suyo si me dejan escapar. Pero cuidado: la compuerta tiene una trampa explosiva de plasma... solo yo sé cómo desactivarla.
 
-Benray examinó el marco de la compuerta con su linterna ultravioleta, soltando una risita burlona:
+Benrey examinó el marco de la compuerta con su linterna ultravioleta, soltando una risita burlona:
 
 —Buen intento, reina de la chatarra. El circuito de apertura es un pestillo estándar de tarjeta magnética; no hay rastro de explosivos. Tu oportunidad de negociar se acabó.
 

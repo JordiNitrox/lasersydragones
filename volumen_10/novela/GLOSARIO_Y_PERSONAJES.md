@@ -12,7 +12,7 @@
 ## 2. Los Protagonistas y su Evolución Emocional
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Debe navegar las tensiones diplomáticas con sus parientes drow de Apostae mientras asume el liderazgo técnico del grupo tras el impacto de la revelación de Sambert Klamburg.
 * **Gerty:** Dron de Combate (Voz: Roberto). Vigilante constante en las salas de juego, desconfiando de los crupieres androides y la seguridad privada del casino.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). En su elemento natural: los juegos de azar, el engaño diplomático y el ambiente festivo del casino le permiten olvidar el horror vivido en Eox.
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). En su elemento natural: los juegos de azar, el engaño diplomático y el ambiente festivo del casino le permiten olvidar el horror vivido en Eox.
 * **Marloc Boosmar:** Tecnomante Humano (Jugador: Juan Pablo). Carga con el peso del conocimiento de su futuro; al llegar al casino, experimenta una conmoción demoledora al descubrir indicios del regreso de su difunta esposa Ángela.
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Se convierte en el foco de atención de coleccionistas y corporaciones en el casino en el Episodio 122 (*El verdadero valor de A.Xel*), revelando que su chasis es una obra maestra invaluable de origen pre-Brecha.
 

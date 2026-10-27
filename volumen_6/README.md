@@ -16,7 +16,7 @@ Adaptación literaria y maquetación editorial en PDF del sexto bloque de la cam
 
 ## 🌌 Sinopsis del Volumen
 
-Tras derrotar al Sumo Sacerdote Tahomen en el Templo de los Doce Soles y evitar la demolición del santuario pre-Brecha, la tripulación de la *Estrella Errante* (Triel Istrav, Gerty, Benray Galway, Marloc Boosmar y A.Xel 42) debe escapar de las profundidades de Ukulam custodiando a la doctora Omejia Solstarni.
+Tras derrotar al Sumo Sacerdote Tahomen en el Templo de los Doce Soles y evitar la demolición del santuario pre-Brecha, la tripulación de la *Estrella Errante* (Triel Istrav, Gerty, Benrey Galway, Marloc Boosmar y A.Xel 42) debe escapar de las profundidades de Ukulam custodiando a la doctora Omejia Solstarni.
 
 El descenso no es sencillo: las lluvias torrenciales inundan los cañones y una bestia anfibia milenaria —el temible Campin y sus sanguijuelas alucinantes— embosca al equipo en el vado del río. Extraviados en el barro, los exploradores pactan una alianza inesperada con el Capitán De Bonet y sus piratas de *La Furia*, colaborando en la recuperación del reactor de repuesto («el Motor del Sabor») y tendiendo trampas en la espesura para frenar durante doce horas a ocho cápsulas de asalto de la Legión del Cielofuego.
 
@@ -24,7 +24,7 @@ De regreso a la Estación Ábsalon, la calma es solo aparente:
 1. **La Identidad de Axel:** Un mensaje anónimo y una fotografía en la Avenida 41 desvelan que el chasis de Axel fue habitado por otra alma antes de su renovación en el Templo de Triuno, un secreto sellado por Claire y Null-9.
 2. **El Respaldo de Eox:** El Embajador Gevalarsk Nor y Cheesecake reciben al grupo en la embajada, recompensando sus esfuerzos y financiando una expedición encubierta hacia La Diáspora para impedir que el Culto del Devorador active el Devastador Estelar.
 3. **El Asalto a la Torre Prisma:** A petición de su primo Bumak Istrav —ejecutor de la Casa Istrav de Apostae—, el grupo ejecuta un golpe de espionaje corporativo contra Extracciones Astrales. Tras un tiroteo alrededor de un piano de cola contra guardias y autómatas pesados, Axel abate a la señorita Joss en su despacho privado, Triel y Marloc saquean los discos duros de la caja fuerte, y el equipo escapa en alas de planeo desde el piso 28 sobre la noche de Ábsalon.
-4. **El Fantasma en la Máquina:** Benray descubre que su productor Marcelus es personificado en la estación por un actor impostor, operando el auténtico desde una estación asteroide en La Diáspora. Al integrar el procesador militar recuperado en el motor de la *Estrella Errante*, una conciencia viva y melancólica despierta en los altavoces de la nave, reconociendo el nombre de Benray y guiando a la tripulación hacia el salto al Drift con rumbo a La Diáspora.
+4. **El Fantasma en la Máquina:** Benrey descubre que su productor Marcelus es personificado en la estación por un actor impostor, operando el auténtico desde una estación asteroide en La Diáspora. Al integrar el procesador militar recuperado en el motor de la *Estrella Errante*, una conciencia viva y melancólica despierta en los altavoces de la nave, reconociendo el nombre de Benrey y guiando a la tripulación hacia el salto al Drift con rumbo a La Diáspora.
 
 ---
 

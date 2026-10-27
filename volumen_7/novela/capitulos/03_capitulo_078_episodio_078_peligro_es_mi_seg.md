@@ -20,11 +20,11 @@ El vídeo mostró a la ejecutiva Joss arrojando un datapad contra la pared antes
 Pero lo peor estaba por llegar. La toma cortó hacia Halicklixtus XIII, recién asimilado y cubierto de polvos de maquillaje, quien flotaba junto a un hombre de piel aceitunada, cabello azul engominado y gafas panorámicas de espejo:
 —*«Les presento a Galito Peligro»* —anunció el barathu con voz pastosa—. *«Bicampeón de holocompeticiones de riesgo.»*
 
-—*«¡Hola a todos los que tienen buen gusto!»* —bramó Galito Peligro, señalando a la cámara con dedos cargados de anillos de oro—. *«Estoy aquí para decirles la verdad sobre ese tal Benray Galway. ¡Sus vídeos de Golarion son una farsa! ¡Pura basura reeditada con cortes falsos! Cualquiera que sepa de supervivencia sabe que Benray es un fraude. En el fondo, solo es un ratón con suerte... ¡gordo y acabado!»*
+—*«¡Hola a todos los que tienen buen gusto!»* —bramó Galito Peligro, señalando a la cámara con dedos cargados de anillos de oro—. *«Estoy aquí para decirles la verdad sobre ese tal Benrey Galway. ¡Sus vídeos de Golarion son una farsa! ¡Pura basura reeditada con cortes falsos! Cualquiera que sepa de supervivencia sabe que Benrey es un fraude. En el fondo, solo es un ratón con suerte... ¡gordo y acabado!»*
 
-—*«Confirmado por mis receptores»* —añadió Halicklixtus XIII—. *«Benray Galway es falso y presenta exceso de grasa corporal.»*
+—*«Confirmado por mis receptores»* —añadió Halicklixtus XIII—. *«Benrey Galway es falso y presenta exceso de grasa corporal.»*
 
-En el puente de la nave, Benray Galway se levantó de su asiento como impulsado por un resorte electromagnético. El pelaje de su espalda se erizó como púas de puercoespín; el roedor aferró los reposabrazos con zarpas temblorosas y chilló hacia la pantalla con los ojos desorbitados:
+En el puente de la nave, Benrey Galway se levantó de su asiento como impulsado por un resorte electromagnético. El pelaje de su espalda se erizó como púas de puercoespín; el roedor aferró los reposabrazos con zarpas temblorosas y chilló hacia la pantalla con los ojos desorbitados:
 —¡¿Gordo?! ¡¿Acabado?! ¡Maldito Galito Peligro, farsante de pacotilla! ¡Ese engendro jamás ha pisado un planeta sin aire acondicionado! ¡Él me copió el canal, me robó las miniaturas y pagó bots para inflar sus visitas! ¡Y tú, Halicklixtus... el doce tenía mi respeto, pero el trece apesta a gelatina rancia!
 
 Frenético, el ysoki comenzó a teclear a dos manos en su consola, abriendo foros clandestinos, lanzando comentarios incendiarios y creando memes difamatorios contra Galito Peligro a la velocidad de la luz.
@@ -40,9 +40,9 @@ León se limitó a clavar una mirada de piedra en el objetivo:
 Al dar media vuelta el oficial, la cámara captó la grúa de suministros elevando una pesada caja de armamento hacia la bodega de la patrulla policial. Marloc entrecerró los ojos y soltó una carcajada seca:
 —Miren con atención la rendija de ventilación de esa caja.
 
-Triel y Benray enfocaron los sensores ópticos. Asomando sus narices chatas y sus grandes ojos amarillos entre los barrotes de la caja, enfundados en sus ceñidos monos naranjas de una pieza, estaban Willy y Naru saludando con disimulo.
+Triel y Benrey enfocaron los sensores ópticos. Asomando sus narices chatas y sus grandes ojos amarillos entre los barrotes de la caja, enfundados en sus ceñidos monos naranjas de una pieza, estaban Willy y Naru saludando con disimulo.
 
-—¡Lo lograron! —festejó Benray, olvidando su rencor contra Galito por un instante—. ¡Esos dos demonios verdes se van a la Diáspora en la nave insignia de Los Protectores! León va a necesitar una dotación entera de sedantes cuando descubra quién vive en su despensa de munición.
+—¡Lo lograron! —festejó Benrey, olvidando su rencor contra Galito por un instante—. ¡Esos dos demonios verdes se van a la Diáspora en la nave insignia de Los Protectores! León va a necesitar una dotación entera de sedantes cuando descubra quién vive en su despensa de munición.
 
 Triel sonrió con dulzura, aunque una sombra de melancolía cruzó su mirada al recordar la despedida en el apartamento del oficial. Antes de abordar, la mecánica había enviado un paquete anónimo a la sede de Extracciones Astrales dirigido a la señorita Joss: las viejas orejitas de gato de su traje festivo junto a una tarjeta cursi de papelería que rezaba: *«Nunca es tarde para seguir tus sueños. Atentamente: [bomba y corazón]»*.
 
@@ -50,7 +50,7 @@ Un rugido de motor en el muelle interrumpió sus pensamientos. Una motocicleta d
 
 —Valdo el ingeniero reportándose al servicio, capitán —anunció el mediano con una reverencia socarrona—. Tengo una resaca espantosa y muchas ganas de salir de esta estación.
 
-—¡Bienvenido a bordo, socio! —exclamó Benray—. Te quedarás en el camarote de Marloc. Él prepara café con vodka y tú sabes mezclar cócteles; son una combinación hecha en los cielos.
+—¡Bienvenido a bordo, socio! —exclamó Benrey—. Te quedarás en el camarote de Marloc. Él prepara café con vodka y tú sabes mezclar cócteles; son una combinación hecha en los cielos.
 
 ***
 
@@ -63,7 +63,7 @@ Con Valdo instalado y las compuertas selladas, Axel ocupó el puesto de pilotaje
 
 La nave aceleró hacia el vacío, y con un destello carmesí de curvatura dimensional, se sumergió en las corrientes hiperespaciales de la Deriva.
 
-Durante los cuatro días de travesía, la rutina a bordo fue intensa. Triel y Axel se encerraron en el taller con la impresora de polímeros universales (UPB), reconstruyendo pacientemente la carcasa fracturada de la llave de datos que contenía información sobre la forja androide. Benray se dedicó a filmar planos cinematográficos de la tripulación en poses dramáticas para el futuro intro de su canal de la holored, obligando a Marloc a empuñar su rifle con cara de circunstancias y a Valdo a posar como el técnico más enigmático de la galaxia.
+Durante los cuatro días de travesía, la rutina a bordo fue intensa. Triel y Axel se encerraron en el taller con la impresora de polímeros universales (UPB), reconstruyendo pacientemente la carcasa fracturada de la llave de datos que contenía información sobre la forja androide. Benrey se dedicó a filmar planos cinematográficos de la tripulación en poses dramáticas para el futuro intro de su canal de la holored, obligando a Marloc a empuñar su rifle con cara de circunstancias y a Valdo a posar como el técnico más enigmático de la galaxia.
 
 Sin embargo, en la tercera noche de viaje, la tranquilidad se quebró.
 
@@ -74,21 +74,21 @@ Valdo, despierto desde la litera inferior, lo observó con preocupación:
 
 —Solo... un mal sueño, Valdo —murmuró el tecnomante, limpiándose con una toalla—. Nada que el café no arregle.
 
-A la mañana siguiente, el mediano cumplió con el protocolo naval y le transmitió la anomalía a Benray:
+A la mañana siguiente, el mediano cumplió con el protocolo naval y le transmitió la anomalía a Benrey:
 —Capitán, el señor Marloc sangró anoche por la nariz. Y además... creo que escuché pasos en el corredor después de que apagaron las luces.
 
-Benray frunció el ceño. Se dirigió de inmediato al panel de comunicaciones del puente:
+Benrey frunció el ceño. Se dirigió de inmediato al panel de comunicaciones del puente:
 —Estrella Errante, muéstrame los registros visuales de las cámaras del pasillo central entre las dos y las cinco de la madrugada.
 
 —*«Petición denegada, capitán Galway»* —respondió la IA con tono monótono—. *«Los registros audiovisuales de ese intervalo no se encuentran en la memoria local. Fueron purgados deliberadamente del sistema.»*
 
-Benray dio un salto hacia atrás, blandiendo una llave de tuercas como si fuera un sable de plasma:
+Benrey dio un salto hacia atrás, blandiendo una llave de tuercas como si fuera un sable de plasma:
 —¡Por las siete madrigueras de Akiton! ¡El fantasma del espacio ha vuelto! ¡Alguien borró los registros otra vez! ¡Estamos atrapados con un polizón invisible!
 
-—Cálmate, Benray —intervino Triel, conectando su *Custom Rig* a la consola principal—. Déjame auditar los registros de acceso.
+—Cálmate, Benrey —intervino Triel, conectando su *Custom Rig* a la consola principal—. Déjame auditar los registros de acceso.
 
 Tras unos minutos de hackeo defensivo, la semi-drow levantó la vista con el rostro ensombrecido:
-—Benray tiene razón. Alguien accedió a la subrutina de seguridad y borró las grabaciones desde un terminal interno. No hay rastro de brechas exteriores. El intruso está dentro de la nave... o la propia nave nos está ocultando algo.
+—Benrey tiene razón. Alguien accedió a la subrutina de seguridad y borró las grabaciones desde un terminal interno. No hay rastro de brechas exteriores. El intruso está dentro de la nave... o la propia nave nos está ocultando algo.
 
 ***
 
@@ -111,7 +111,7 @@ El tecnomante guardó silencio durante un largo trago.
 
 —Qué complicado es el amor —suspiró Triel, encogiéndose de hombros—. Espero no enamorarme nunca. Parece una fuerza destructiva capaz de destrozar los escudos de cualquiera.
 
-—No digas eso, socia —bromeó Benray, dándole un codazo amistoso—. El día que te cases con algún oficial estirado de uniforme impecable, ¡yo seré el padrino de honor y te cobraré la barra libre!
+—No digas eso, socia —bromeó Benrey, dándole un codazo amistoso—. El día que te cases con algún oficial estirado de uniforme impecable, ¡yo seré el padrino de honor y te cobraré la barra libre!
 
 Axel, desde el rincón de la sala, evaluó la conversación con sus sensores bioluminiscentes titilando en un rosado suave:
 —Las unidades sintéticas carecemos de esos parámetros químicos, pero Null-9... ella parecía sentir algo similar hacia Syd Velch. Una distorsión de prioridad que alteraba todas sus funciones lógicas.
@@ -134,7 +134,7 @@ Antes de que Triel pudiera activar las pantallas deflectoras, el intercomunicado
 
 —*«¡Atención, chatarra no identificada!»* —bramó la mujer con voz potente y ademanes teatrales—. *«Les habla la capitana Alera Juana, de la hermandad de los Capitanes Libres. Prepárense para ser abordados y despojados de su carga con la debida elegancia, o prepárense para convertirse en polvo espacial flotante.»*
 
-Benray parpadeó, desconcertado por el discurso:
+Benrey parpadeó, desconcertado por el discurso:
 —Vaya... qué modales tan novelescos.
 
 Triel, sin embargo, reconoció de inmediato el acento y los distintivos de la tripulación corsaria. Sin intimidarse por el sable ni los cañones, la semi-drow dio un paso al frente y se plantó ante la cámara:

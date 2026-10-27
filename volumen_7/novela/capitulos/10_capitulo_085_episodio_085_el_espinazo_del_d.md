@@ -4,11 +4,11 @@
 
 El hedor a ozono quemado y sangre viscosa del Feolist abatido aún flotaba en el aire estancado del santuario subterráneo. Sobre la alfombra ceremonial deshilachada, el reptil monstruoso yacía inerte, con sus cuencas vacías apagadas y desprovistas por fin de aquella bruma oscura que había estado a punto de fracturar la cordura de la tripulación.
 
-Benray Galway estaba sentado en el suelo de piedra, apoyado contra la base de la consola informática. Con un quejido sordo, el roedor se desabrochó la hombrera de su flamante traje refractor ysoki, retirando con cuidado una gasa empapada en un suero curativo que desprendía un persistente y desagradable olor a vainilla artificial.
+Benrey Galway estaba sentado en el suelo de piedra, apoyado contra la base de la consola informática. Con un quejido sordo, el roedor se desabrochó la hombrera de su flamante traje refractor ysoki, retirando con cuidado una gasa empapada en un suero curativo que desprendía un persistente y desagradable olor a vainilla artificial.
 
-—Por todos los santos de la Diáspora —rezongó Benray, tocándose el borde de las marcas de los colmillos que aún supuraban en su hombro—. Lagartos del vacío con mirada de pesadilla cósmica. Juré que no dejaría que me tocaran ni un pelo del bigote en esta misión, y casi termino convertido en su aperitivo de medianoche. ¿Vainilla? ¿Quién en los Mundos del Pacto sintetiza un estimulante médico con sabor a pastelería barata?
+—Por todos los santos de la Diáspora —rezongó Benrey, tocándose el borde de las marcas de los colmillos que aún supuraban en su hombro—. Lagartos del vacío con mirada de pesadilla cósmica. Juré que no dejaría que me tocaran ni un pelo del bigote en esta misión, y casi termino convertido en su aperitivo de medianoche. ¿Vainilla? ¿Quién en los Mundos del Pacto sintetiza un estimulante médico con sabor a pastelería barata?
 
-—Es un coagulante estándar de grado tres, Benray —respondió Axel con su voz pausada y monocorde, mientras enfundaba su pistola de partículas tras una impecable pirueta táctica—. Tu tasa de supervivencia se incrementó en un setenta y dos por ciento tras la aplicación. Además, has demostrado una agilidad encomiable huyendo hacia la alacena.
+—Es un coagulante estándar de grado tres, Benrey —respondió Axel con su voz pausada y monocorde, mientras enfundaba su pistola de partículas tras una impecable pirueta táctica—. Tu tasa de supervivencia se incrementó en un setenta y dos por ciento tras la aplicación. Además, has demostrado una agilidad encomiable huyendo hacia la alacena.
 
 —No estaba huyendo, señorita androide —replicó el emisario, inflando el pecho con fingida dignidad—. Estaba ejecutando un repliegue estratégico para llamar la atención del enemigo hacia mi cobertura, mientras tú encontrabas el ángulo de tiro. Ahora que soy una celebridad consagrada en la Diáspora, tengo una reputación mediática que proteger. Si los agentes de prensa de Absalom se enteran de que casi me desangro por culpa de una salamandra gigante con humo en los ojos, mi caché como superestrella se irá por el desagüe.
 
@@ -25,7 +25,7 @@ El tecnomante no respondió de inmediato. Permanecía de pie, erguido frente a l
 
 Triel desplegó los cables de interfaz de su *custom rig*. El símbolo holográfico de un agujero negro devorando una espiral de galaxias se proyectó sobre el panel central, exigiendo una clave de acceso místico y un comando fonético de voz.
 
-—El cortafuegos es de grado militar —murmuró Triel, tecleando a una velocidad vertiginosa mientras Marloc canalizaba impulsos lógicos arcanos a través de sus procesadores cibernéticos—. Axel, monitoriza los buses de enlace. Benray, no toques nada que parezca un botón de autodestrucción.
+—El cortafuegos es de grado militar —murmuró Triel, tecleando a una velocidad vertiginosa mientras Marloc canalizaba impulsos lógicos arcanos a través de sus procesadores cibernéticos—. Axel, monitoriza los buses de enlace. Benrey, no toques nada que parezca un botón de autodestrucción.
 
 —Solo estaba buscando dónde se sube el volumen —se disculpó el ysoki, apartando las zarpas con presteza.
 
@@ -40,7 +40,7 @@ Triel abrió en primer lugar los registros de actividades. Los datos revelaron u
 Un gráfico financiero tridimensional se proyectó en el aire.
 —Hace diez años —continuó Triel—, la actividad se dispara de forma astronómica. Cientos de miles de créditos comienzan a fluir hacia la roca desde cuentas fantasma en los confines del sistema. Llegaron cargamentos masivos de armas de grado militar, autómatas de seguridad, armaduras compuestas y decenas de fanáticos reclutados en los bajos fondos de la Diáspora.
 
-—Nadie financia a un hatajo de lunáticos a esa escala por mera caridad cósmica —reflexionó Benray, rascándose la barbilla—. Alguien con bolsillos infinitos vio potencial en estos maníacos. ¿Y para qué? ¿Para adorar piedras viejas?
+—Nadie financia a un hatajo de lunáticos a esa escala por mera caridad cósmica —reflexionó Benrey, rascándose la barbilla—. Alguien con bolsillos infinitos vio potencial en estos maníacos. ¿Y para qué? ¿Para adorar piedras viejas?
 
 —No eran piedras viejas —intervino Marloc, cuyos ojos brillaban con un fuego oscuro mientras abría el directorio de *Conocimiento Sagrado*, sorteando una segunda barrera criptográfica con la ayuda de sus compañeros—. Estaban aquí para comprender una sola obra: *La Entropía de la Existencia y el Glorioso Ascenso del Vacío*.
 
@@ -53,7 +53,7 @@ Un archivo de vídeo holográfico se activó automáticamente en el centro de la
 La figura tridimensional de Nyara se materializó flotando sobre el suelo rocoso. Llevaba el rostro cubierto de cicatrices rituales y los ojos enmarcados por sombras negras densas como brea. De sus manos abiertas manaba sangre fresca que caía en un cuenco invisible. Su cuerpo se sacudía con espasmos rítmicos mientras su voz, rota y siseante, llenaba el habitáculo:
 —*En las fauces de los Doce se encuentra la llave... Romper el ciclo cuando el momento llegue... Las estrellas se apagarán como rescoldos en la lluvia...*
 
-Benray dio un respingo, abriendo la boca con estupor:
+Benrey dio un respingo, abriendo la boca con estupor:
 —Esa frase... ¡Por los clavos de hierro de Castrovel! «En las fauces de los Doce». Es una estrofa casi idéntica a la que abre el primer álbum de Syd Velch, *La Balada de la Nada*, lanzado hace veinticinco años. ¿Acaso ese viejo rockero formaba parte de este manicomio?
 
 —O Syd Velch ha tenido visiones similares sin comprender su origen místico —señaló Axel con frialdad matemática—, o las letras de sus canciones fueron utilizadas como canal de captación subliminal por los mecenas del culto.
@@ -71,7 +71,7 @@ De pronto, en medio del horror infinito, la anciana detuvo su cántico.
 Giró la cabeza lentamente. Sus cuencas ensangrentadas atravesaron los siglos, el espacio y la realidad, clavándose con una fijeza insoportable directamente en los ojos de Marloc.
 —*Tú...* —susurró la voz en su cráneo con una agonía atronadora—. *El fuego al final del túnel no salvará a nadie. Las estrellas morirán. El ciclo se cerrará para siempre.*
 
-Marloc cayó de rodillas al suelo de la sala de control, jadeando con violencia. Un hilo espeso de sangre roja brotaba de su nariz, manchando la placa pectoral donde Benray había pintado su tosco grafiti.
+Marloc cayó de rodillas al suelo de la sala de control, jadeando con violencia. Un hilo espeso de sangre roja brotaba de su nariz, manchando la placa pectoral donde Benrey había pintado su tosco grafiti.
 
 Axel y Triel lo sujetaron por los hombros antes de que su frente golpeara las losas.
 —¡Marloc! ¡Respira! —exclamó la drow, limpiándole el rostro con un pañuelo estéril—. ¿Qué has visto?
@@ -90,13 +90,13 @@ Triel tuvo que desactivar una rutina destructiva —un virus gusano programado p
 En la pantalla aparecieron las transcripciones de los últimos mensajes enviados por Tahomen a esta guarnición:
 *«Los perros de la Sociedad Starfinder y sus mercenarios de pacotilla nos pisan los talones en los bosques de Ukulam. No son rivales para el poder que se avecina. Nos reuniremos en las coordenadas sagradas una vez que el templo de Castrovel sea purgado. Que el Vacío reclame sus huesos.»*
 
-—Palabras que envejecieron miserablemente —se burló Benray con una mueca burlona—. «No son rivales». Tendría que haber visto su cara cuando le dejamos el templo como un solar en liquidación.
+—Palabras que envejecieron miserablemente —se burló Benrey con una mueca burlona—. «No son rivales». Tendría que haber visto su cara cuando le dejamos el templo como un solar en liquidación.
 
 Sin embargo, el triunfo duró poco. Al descender hacia los registros más recientes recibidos en la estación minera, descubrieron que gran parte de los archivos de destino habían sido meticulosamente eliminados.
 
 —Alguien purgó las bitácoras de navegación hace menos de setenta y dos horas —anunció Triel, golpeando con frustración la consola metálica—. Borraron las coordenadas del salto hacia el que huyeron los supervivientes del culto tras la caída de Tahomen. Solo quedan fragmentos rotos de una orden de evacuación: *«Vuelen de inmediato... donde la llave nos aguarda... al sistema Son...»*
 
-—¿Son? ¿Sonder? ¿Sonnac? —preguntó Benray con desesperación—. ¡Maldita sea! ¿Ni un mísero archivo en la papelera de reciclaje? ¡Tanto estudiar computación para que estos maníacos usen un triturador de datos militar!
+—¿Son? ¿Sonder? ¿Sonnac? —preguntó Benrey con desesperación—. ¡Maldita sea! ¿Ni un mísero archivo en la papelera de reciclaje? ¡Tanto estudiar computación para que estos maníacos usen un triturador de datos militar!
 
 —No fue un cultista común quien borró esto —sentenció Axel, analizando los patrones criptográficos de los sectores sobreescritos—. El algoritmo de borrado es de firma militar eoxiana. Fue la Flota Cadáver. Los no-muertos estuvieron aquí, aseguraron los datos críticos de la localización del arma y se marcharon, dejando atrás a los fanáticos y a las bestias para cubrir su retirada.
 
@@ -111,16 +111,16 @@ Decididos a no dejar un solo palmo de la roca sin registrar, rodearon la sala de
 
 Al cruzar una mampara de cortinas plásticas desgarradas, entraron en un segundo comedor. A diferencia del primero, aquí el desorden era fruto del pánico repentino: sobre las mesas de metal desvencijadas descansaban platos de comida medio consumir, tazones de cereales azucarados que ahora eran una pasta mohosa y vasos de café sintético volcados que habían formado costras negras en el suelo.
 
-Benray se acercó a una mesa, examinando un tazón petrificado con una mueca de asco:
+Benrey se acercó a una mesa, examinando un tazón petrificado con una mueca de asco:
 —Capitán Crunch de fresa radioactiva... Estaban desayunando tranquilamente cuando llegó el mensaje de emergencia de Castrovel. Recibieron la orden de evacuación de Tahomen o de la Flota Cadáver, soltaron las cucharas y salieron despavoridos hacia las naves como ratas en un mamparo roto.
 
 Axel avanzó hacia el bloque de dormitorios contiguo. La disposición era idéntica a la del ala norte: literas de tres niveles, taquillas abiertas y taquillas saqueadas. Sin embargo, los ojos biónicos de la androide detectaron un bulto anómalo bajo el colchón inferior de una litera esquinera.
 
-Benray, impulsado por su olfato insaciable para los botines no declarados, se deslizó antes que nadie y metió el brazo bajo el somier:
+Benrey, impulsado por su olfato insaciable para los botines no declarados, se deslizó antes que nadie y metió el brazo bajo el somier:
 —¡Ajá! ¡Tesoro a la vista!
 
 El ysoki extrajo una cartera de cuero negro que contenía un *credstick* corporativo precintado y un terminal portátil personal (*datapad*).
-—Veamos qué tenemos aquí... ¡Mil cuatrocientos créditos limpios y sin rastrear! —celebró Benray, guardándose la tarjeta con una sonrisa de oreja a oreja—. El diezmo del Devorador ahora financia el fondo de pensiones de Galway.
+—Veamos qué tenemos aquí... ¡Mil cuatrocientos créditos limpios y sin rastrear! —celebró Benrey, guardándose la tarjeta con una sonrisa de oreja a oreja—. El diezmo del Devorador ahora financia el fondo de pensiones de Galway.
 
 Triel tomó el *datapad*. La pantalla solicitaba un código de desbloqueo básico de cuatro dígitos. Con dos pulsaciones expertas de su puntero lógico, la elfa oscura reventó la protección en menos de cinco segundos:
 —Pertenecía al intendente de la base. El contable del culto.
@@ -169,7 +169,7 @@ Eran dibujos de **Axel**.
 
 En uno de ellos, la androide aparecía de perfil, con la mirada perdida en las estrellas y sus circuitos faciales trazados con una devoción casi reverente. En otro, sonreía con una expresión humana y cálida que Axel jamás había manifestado en la realidad. Había bocetos de sus manos cibernéticas, de sus ojos sintéticos y de cada línea de ensamblaje de su rostro metálico, acompañados de anotaciones poéticas escritas con una caligrafía perfecta y melancólica.
 
-Benray se asomó por encima del hombro de Axel y se quedó mudo por primera vez en todo el viaje.
+Benrey se asomó por encima del hombro de Axel y se quedó mudo por primera vez en todo el viaje.
 
 Triel tragó saliva, mirando alrededor de la habitación desierta:
 —Eran los aposentos privados de Null-9...

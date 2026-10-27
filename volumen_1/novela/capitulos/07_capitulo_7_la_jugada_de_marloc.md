@@ -6,7 +6,7 @@ El Nivel 21 de la Espiga era una cicatriz abierta en el vientre de la Estación 
 
 A medida que el grupo descendía por las escaleras de servicio oxidadas, la luz diurna y el aire puro de los jardines del Ojo se desvanecieron como un espejismo lejano. Aquí abajo, el techo de acero estaba tan bajo que las cabezas de los transeúntes casi rozaban los manojos de cables pelados y las tuberías que goteaban condensación aceitosa. La atmósfera vibraba con los golpes de los martillos neumáticos de los talleres clandestinos y el hedor picante a alcohol sintético destilado en alambiques caseros.
 
-—Si alguien me hubiera dicho esta mañana que pasaría de desayunar fideos a buscar pelea en la boca del lobo con un aristócrata de corbata, una drow renegada y un robot gigante, le habría apostado diez créditos a que estaba loco —masculló Benray, ajustándose los aros de las orejas y tanteando la culata de su pistola bajo la gabardina.
+—Si alguien me hubiera dicho esta mañana que pasaría de desayunar fideos a buscar pelea en la boca del lobo con un aristócrata de corbata, una drow renegada y un robot gigante, le habría apostado diez créditos a que estaba loco —masculló Benrey, ajustándose los aros de las orejas y tanteando la culata de su pistola bajo la gabardina.
 
 —*Corrección* —intervino Gerty, que caminaba encorvado para no arrancar las vigas del techo con su cúpula—. *El término apropiado no es 'loco', sino 'estadísticamente suicida'. Y las probabilidades continúan empeorando a cada metro de profundidad que descendemos.*
 
@@ -22,15 +22,15 @@ Al ver acercarse al variopinto grupo, el coloso reptiliano emitió un gruñido g
 
 —El salón trasero está reservado para trabajadores del sindicato y mineros del Vasto. Fuera de aquí.
 
-Benray Galway dio un paso al frente. El pícaro ysoki cuadró los hombros, alzó el hocico con una solemnidad insólita y comenzó a hablar en un idioma gutural, melodioso y antiguo: **Dracónico ancestral**, el dialecto sagrado de los dragones de Triaxus.
+Benrey Galway dio un paso al frente. El pícaro ysoki cuadró los hombros, alzó el hocico con una solemnidad insólita y comenzó a hablar en un idioma gutural, melodioso y antiguo: **Dracónico ancestral**, el dialecto sagrado de los dragones de Triaxus.
 
-—*«Saludos a las alas de la nieve y el fuego, noble Thalud»* —articuló Benray con perfecta entonación—. *«Venimos en son de paz a buscar respuestas sobre el vacío. Las deudas de hospitalidad serán honradas en plata y discreción.»*
+—*«Saludos a las alas de la nieve y el fuego, noble Thalud»* —articuló Benrey con perfecta entonación—. *«Venimos en son de paz a buscar respuestas sobre el vacío. Las deudas de hospitalidad serán honradas en plata y discreción.»*
 
 El dragonkin abrió desmesuradamente sus ojos dorados con pupilas verticales, visiblemente impactado. Intercambió un vistazo mental con su compañero ryphorian antes de soltar un bufido de complacencia:
 
-—Un roedor de las alcantarillas que domina la lengua de los grandes wyrms... Me intriga tu pasado, Benray Galway. Pasen al salón. Pero anden con pies de plomo: han llegado rumores de que un hombre desolado de la superficie busca a un ysoki por la muerte de su hijo... El pasado siempre encuentra la forma de cobrar sus cuentas.
+—Un roedor de las alcantarillas que domina la lengua de los grandes wyrms... Me intriga tu pasado, Benrey Galway. Pasen al salón. Pero anden con pies de plomo: han llegado rumores de que un hombre desolado de la superficie busca a un ysoki por la muerte de su hijo... El pasado siempre encuentra la forma de cobrar sus cuentas.
 
-Benray tragó saliva y agachó las orejas, pero disimuló el estremecimiento con una reverencia teatral mientras las compuertas se abrían.
+Benrey tragó saliva y agachó las orejas, pero disimuló el estremecimiento con una reverencia teatral mientras las compuertas se abrían.
 
 ***
 
@@ -52,11 +52,11 @@ Axel 42 tomó asiento frente al imponente D-52:
 
 —Entro con veinte —dijo Axel, arrojando dos fichas sobre la mesa.
 
-Triel y Benray se sumaron a la apuesta con fichas menudas. La partida comenzó a un ritmo tenso y pausado. Los naipes holográficos fluctuaban según los pulsos electromagnéticos ambientales; se requería no solo cálculo de probabilidades, sino un control absoluto de las pulsaciones sintéticas para no delatar la fuerza de la mano.
+Triel y Benrey se sumaron a la apuesta con fichas menudas. La partida comenzó a un ritmo tenso y pausado. Los naipes holográficos fluctuaban según los pulsos electromagnéticos ambientales; se requería no solo cálculo de probabilidades, sino un control absoluto de las pulsaciones sintéticas para no delatar la fuerza de la mano.
 
 —Las cosas están difíciles en la estación —comentó Silo mientras barajaba los naipes luminosos—. Mucho movimiento en los muelles y demasiada sangre en el pavimento.
 
-—Nos enteramos de lo del Muelle 94 —deslizó Benray con tono inocente—. Dicen que los Reyes de Abajo andan buscando pelea con la gente equivocada.
+—Nos enteramos de lo del Muelle 94 —deslizó Benrey con tono inocente—. Dicen que los Reyes de Abajo andan buscando pelea con la gente equivocada.
 
 D-52 bufó, emitiendo una nube de vapor lubricante por sus filtros cervicales:
 
@@ -66,7 +66,7 @@ En la cuarta ronda, las apuestas subieron a cincuenta créditos. Axel miró sus 
 
 Axel activó un parpadeo tenue en los circuitos de su mejilla izquierda: la señal convenida.
 
-Benray reaccionó al instante con su magistral instinto histriónico. Al levantar su vaso de alcohol sintético picante, fingió un traspié torpe con la pata trasera:
+Benrey reaccionó al instante con su magistral instinto histriónico. Al levantar su vaso de alcohol sintético picante, fingió un traspié torpe con la pata trasera:
 
 —¡Ay, caramba! ¡Perdón, perdón a todos! —chilló el ysoki a voz en cuello, arrojando medio vaso de licor directamente sobre la manga metálica de D-52—. ¡Qué torpeza la mía! ¡Malditas articulaciones de roedor!
 
@@ -116,7 +116,7 @@ D-52 miró al tecnomante y luego a Axel, asintiendo con gravedad:
 
 ### IV. Duelo en el arcade y el fuego de la libertad
 
-Mientras Benray y Marloc terminaban de recopilar planos de acceso con Luigi en la mesa, Triel divisó en un rincón del club una cabina recreativa de realidad virtual holográfica: un simulador de combate táctico interestelar para dos pilotos.
+Mientras Benrey y Marloc terminaban de recopilar planos de acceso con Luigi en la mesa, Triel divisó en un rincón del club una cabina recreativa de realidad virtual holográfica: un simulador de combate táctico interestelar para dos pilotos.
 
 —Oye, A.Xel —dijo Triel con una sonrisa desafiante, dándole un codazo amistoso a la androide—. Has ganado al póker con trampas de prestidigitador, pero dudo que tus circuitos puedan competir con los reflejos de una mecánica de la Diáspora a los mandos de un caza. ¿Te atreves?
 

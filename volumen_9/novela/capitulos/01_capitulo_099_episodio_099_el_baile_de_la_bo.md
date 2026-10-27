@@ -21,7 +21,7 @@ Una cortina de fuego azul frenó la caída en seco, levantando nubes de ceniza p
 
 Apenas sus botas hicieron contacto con las planchas de acero, las alarmas de la fortaleza comenzaron a aullar como lobos cibernéticos.
 
-Desde las torres almenadas que rodeaban el patio de armas, torretas de defensa automática de proyectiles pesados giraron hacia el tejado, abriendo fuego cruzado sin previo aviso. Proyectiles cinéticos de gran calibre rebotaron contra el suelo a centímetros de las piernas de Benray:
+Desde las torres almenadas que rodeaban el patio de armas, torretas de defensa automática de proyectiles pesados giraron hacia el tejado, abriendo fuego cruzado sin previo aviso. Proyectiles cinéticos de gran calibre rebotaron contra el suelo a centímetros de las piernas de Benrey:
 —¡El baile de la bolita! —chilló el ysoki, dando volteretas laterales entre los respiraderos para evitar ser desintegrado—. ¡Nos van a dejar como un queso gruyere antes de que encontremos la puerta de entrada!
 
 Gerty se interpuso en la línea de fuego, alzando sus escudos frontales reforzados mientras sus dos brazos superiores alineaban el cañón rotatorio:

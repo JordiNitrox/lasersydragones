@@ -14,6 +14,101 @@ CAPS_DIR = os.path.join(BASE_DIR, "capitulos")
 PDF_OUTPUT = os.path.join(BASE_DIR, "Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf")
 HTML_OUTPUT = os.path.join(BASE_DIR, "libro_maquetado.html")
 
+# Metadata de capítulos para el índice
+TOC_ITEMS = [
+    {
+        "id": "nota_editorial",
+        "search_key": "Nota Editorial e Introducción",
+        "title": "Nota Editorial e Introducción",
+        "sub": "Contexto y créditos del podcast original",
+        "default_page": 2
+    },
+    {
+        "id": "prologo",
+        "search_key": "Prólogo: El Fantasma de Golarion",
+        "title": "Prólogo: El Fantasma de Golarion",
+        "sub": "La Brecha y la Estación Absalón",
+        "default_page": 4
+    },
+    {
+        "id": "cap_1",
+        "search_key": "Capítulo 1: Senderos hacia la Chatarra",
+        "title": "Capítulo 1: Senderos hacia la Chatarra",
+        "sub": "Basado en el Episodio 1",
+        "default_page": 5
+    },
+    {
+        "id": "cap_2",
+        "search_key": "Capítulo 2: El Desmayo y el Club 13",
+        "title": "Capítulo 2: El Desmayo y el Club 13",
+        "sub": "Basado en el Episodio 2 (Parte 1)",
+        "default_page": 15
+    },
+    {
+        "id": "cap_3",
+        "search_key": "Capítulo 3: La Mesa de los Sospechosos",
+        "title": "Capítulo 3: La Mesa de los Sospechosos",
+        "sub": "Basado en el Episodio 2 (Parte 2)",
+        "default_page": 21
+    },
+    {
+        "id": "cap_4",
+        "search_key": "Capítulo 4: Emboscada en el Muelle 94",
+        "title": "Capítulo 4: Emboscada en el Muelle 94",
+        "sub": "Basado en el final del Episodio 2",
+        "default_page": 28
+    },
+    {
+        "id": "cap_5",
+        "search_key": "Capítulo 5: Fuego Cruzado y Chatarra",
+        "title": "Capítulo 5: Fuego Cruzado y Chatarra",
+        "sub": "Basado en el Episodio 3 completo",
+        "default_page": 31
+    },
+    {
+        "id": "cap_6",
+        "search_key": "Capítulo 6: Noticias de Última Hora y el Enigma de Chiskisk",
+        "title": "Capítulo 6: Noticias de Última Hora y el Enigma de Chiskisk",
+        "sub": "Basado en los Episodios 4 y 5 · Inversiones Estelares y la Roca del Drift",
+        "default_page": 35
+    },
+    {
+        "id": "cap_7",
+        "search_key": "Capítulo 7: Mano de Seda y Cartas Cuánticas",
+        "title": "Capítulo 7: Mano de Seda y Cartas Cuánticas",
+        "sub": "Basado en el Episodio 6 · El rastro de Eclair y el Club 13",
+        "default_page": 43
+    },
+    {
+        "id": "cap_8",
+        "search_key": "Capítulo 8: El Laberinto de los Bajos",
+        "title": "Capítulo 8: El Laberinto de los Bajos",
+        "sub": "Basado en el Episodio 7",
+        "default_page": 50
+    },
+    {
+        "id": "cap_9",
+        "search_key": "Capítulo 9: La Reina de la Con-Fusión",
+        "title": "Capítulo 9: La Reina de la Con-Fusión",
+        "sub": "Basado en los Episodios 8 y 9 · Ferani Nadaz y Brock Hilario",
+        "default_page": 55
+    },
+    {
+        "id": "cap_10",
+        "search_key": "Capítulo 10: Huyendo del Pasado",
+        "title": "Capítulo 10: Huyendo del Pasado",
+        "sub": "Basado en el Episodio 10 · El botín de Con-Fusión y los fantasmas del ayer",
+        "default_page": 60
+    },
+    {
+        "id": "anexo",
+        "search_key": "Anexo Especial: Dossier de Personajes y Glosario",
+        "title": "Anexo Especial: Dossier de Personajes y Glosario",
+        "sub": "Fichas de personajes, corporaciones, facciones y el Drift",
+        "default_page": 76
+    }
+]
+
 def md_to_html(text, is_glossary=False):
     lines = text.strip().split("\n")
     html_lines = []
@@ -94,7 +189,7 @@ def inline_formatting(text):
     text = re.sub(r"`([^`]+)`", r"<code>\1</code>", text)
     return text
 
-def build_book():
+def generate_html(page_numbers=None):
     print("Compilando capítulos de la novela...")
     
     chapter_files = sorted(glob.glob(os.path.join(CAPS_DIR, "*.md")))
@@ -119,6 +214,18 @@ def build_book():
         glossary_raw = fp.read()
         remaining_glossary = "\n".join(glossary_raw.strip().split("\n")[1:])
         glossary_html = md_to_html(remaining_glossary, is_glossary=True)
+
+    # Construir filas del índice dinámico
+    toc_html = ""
+    for item in TOC_ITEMS:
+        p_num = page_numbers.get(item["id"], item.get("default_page", "--")) if page_numbers else item.get("default_page", "--")
+        toc_html += f"""    <tr>
+      <td>
+        <div class="toc-title">{item['title']}</div>
+        <div class="toc-sub">{item['sub']}</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">{p_num}</td>
+    </tr>\n"""
 
     html_doc = f"""<!DOCTYPE html>
 <html lang="es">
@@ -313,7 +420,7 @@ def build_book():
       ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
     </p>
     <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
-      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benray Galway <em>(Emisario Ysoki)</em>
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benrey Galway <em>(Emisario Ysoki)</em>
     </p>
     <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
       <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa)</em>
@@ -333,7 +440,7 @@ def build_book():
           Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
         </p>
         <p style="margin: 0; text-indent: 0;">
-          Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benray Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Marloc Boosmar) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+          Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benrey Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Marloc Boosmar) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
         </p>
       </td>
     </tr>
@@ -343,98 +450,7 @@ def build_book():
   <h2 class="section-heading-main">Índice de Contenidos</h2>
   
   <table class="toc-table">
-    <tr>
-      <td>
-        <div class="toc-title">Nota Editorial e Introducción</div>
-        <div class="toc-sub">Contexto y créditos del podcast original</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Prólogo: El Fantasma de Golarion</div>
-        <div class="toc-sub">La Brecha y la Estación Absalón</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 1: Senderos hacia la Chatarra</div>
-        <div class="toc-sub">Basado en el Episodio 1</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">5</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 2: El Desmayo y el Club 13</div>
-        <div class="toc-sub">Basado en el Episodio 2 (Parte 1)</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">15</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 3: La Mesa de los Sospechosos</div>
-        <div class="toc-sub">Basado en el Episodio 2 (Parte 2)</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">21</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 4: Emboscada en el Muelle 94</div>
-        <div class="toc-sub">Basado en el final del Episodio 2</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">27</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 5: Fuego Cruzado y Chatarra</div>
-        <div class="toc-sub">Basado en el Episodio 3 completo</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">30</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 6: Noticias de Última Hora y el Enigma de Chiskisk</div>
-        <div class="toc-sub">Basado en los Episodios 4 y 5 · Inversiones Estelares y la Roca del Drift</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">34</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 7: Mano de Seda y Cartas Cuánticas</div>
-        <div class="toc-sub">Basado en el Episodio 6 · El rastro de Eclair y el Club 13</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">42</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 8: El Laberinto de los Bajos</div>
-        <div class="toc-sub">Basado en el Episodio 7</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">49</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 9: La Reina de la Con-Fusión</div>
-        <div class="toc-sub">Basado en los Episodios 8 y 9 · Ferani Nadaz y Brock Hilario</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">54</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Capítulo 10: Huyendo del Pasado</div>
-        <div class="toc-sub">Basado en el Episodio 10 · El botín de Con-Fusión y los fantasmas del ayer</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">59</td>
-    </tr>
-    <tr>
-      <td>
-        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
-        <div class="toc-sub">Fichas de personajes, corporaciones, facciones y el Drift</div>
-      </td>
-      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">75</td>
-    </tr>
-  </table>
+{toc_html}  </table>
 """
 
     # Agregar capítulos: h2 tiene page-break-before: always;
@@ -465,10 +481,9 @@ def build_book():
 
     with open(HTML_OUTPUT, "w", encoding="utf-8") as fp:
         fp.write(html_doc)
-    print(f"Documento HTML consolidado creado en: {HTML_OUTPUT}")
-    
-    # Conversión a PDF mediante LibreOffice
-    print("Iniciando renderizado de PDF con LibreOffice...")
+    return HTML_OUTPUT
+
+def run_libreoffice():
     user_prof = f"file://{os.path.join(BASE_DIR, '.libreoffice_profile')}"
     cmd = [
         "libreoffice",
@@ -478,21 +493,83 @@ def build_book():
         "pdf",
         HTML_OUTPUT
     ]
-    
     res = subprocess.run(cmd, cwd=BASE_DIR, capture_output=True, text=True)
-    if res.returncode == 0:
-        gen_pdf = os.path.join(BASE_DIR, "libro_maquetado.pdf")
-        if os.path.exists(gen_pdf):
-            if os.path.exists(PDF_OUTPUT):
-                os.remove(PDF_OUTPUT)
-            os.rename(gen_pdf, PDF_OUTPUT)
-            print(f"¡PDF generado con éxito en:\n  {PDF_OUTPUT}")
-            size_mb = os.path.getsize(PDF_OUTPUT) / (1024 * 1024)
-            print(f"Tamaño del archivo: {size_mb:.2f} MB")
-        else:
-            print("Aviso: No se encontró el archivo PDF generado automáticamente.")
-    else:
-        print(f"Error al generar PDF: {res.stderr}")
+    if res.returncode != 0:
+        raise RuntimeError(f"Error al compilar con LibreOffice: {res.stderr}")
+    gen_pdf = os.path.join(BASE_DIR, "libro_maquetado.pdf")
+    if os.path.exists(gen_pdf):
+        if os.path.exists(PDF_OUTPUT):
+            os.remove(PDF_OUTPUT)
+        os.rename(gen_pdf, PDF_OUTPUT)
+    return PDF_OUTPUT
+
+def extract_page_numbers_from_pdf(pdf_path):
+    """
+    Usa pdftotext para encontrar en qué página física aparece cada h2.chapter-name
+    evitando falsos positivos dentro de la propia tabla del índice de contenidos.
+    """
+    res = subprocess.run(["pdftotext", pdf_path, "-"], capture_output=True, text=True)
+    pages = res.stdout.split("\x0c") # Form feed separa páginas
+    
+    found_pages = {}
+    
+    # Nota Editorial siempre está antes del índice (página 2)
+    for idx, page_text in enumerate(pages[:3]):
+        if "nota editorial e introducción" in page_text.lower():
+            found_pages["nota_editorial"] = idx + 1
+            break
+            
+    # Para el resto de capítulos y anexo, buscamos desde la página donde terminan los preliminares
+    # buscando que el título aparezca en el encabezado de la página (primeras 6 líneas)
+    for item in TOC_ITEMS:
+        if item["id"] == "nota_editorial":
+            continue
+        key = item["search_key"].lower()
+        for idx in range(3, len(pages)):
+            lines = [l.strip() for l in pages[idx].split("\n") if l.strip()][:6]
+            header_text = " ".join(lines).lower()
+            if key in header_text:
+                found_pages[item["id"]] = idx + 1
+                break
+                
+    # Fallback si alguno no fue detectado en las primeras líneas
+    for item in TOC_ITEMS:
+        if item["id"] not in found_pages:
+            key = item["search_key"].lower()
+            for idx in range(3, len(pages)):
+                if key in pages[idx].lower():
+                    found_pages[item["id"]] = idx + 1
+                    break
+                    
+    return found_pages
+
+def build_book():
+    print("=== Compilación de Volumen 1: Sombras sobre Absalón ===")
+    
+    # Pase 1: Generación preliminar para calcular páginas reales
+    print("Paso 1: Generando HTML preliminar...")
+    generate_html()
+    print("Paso 2: Compilando PDF preliminar con LibreOffice...")
+    run_libreoffice()
+    
+    print("Paso 3: Extrayendo paginación real de capítulos con pdftotext...")
+    pages = extract_page_numbers_from_pdf(PDF_OUTPUT)
+    print("Páginas detectadas:")
+    for item in TOC_ITEMS:
+        print(f"  - {item['title']}: pág. {pages.get(item['id'], '??')}")
+        
+    # Pase 2: Regeneración con la tabla de contenidos exacta
+    print("Paso 4: Regenerando HTML con el Índice de Contenidos final...")
+    generate_html(page_numbers=pages)
+    
+    print("Paso 5: Compilación final del PDF...")
+    final_pdf = run_libreoffice()
+    
+    # Validación final de tamaño
+    size_mb = os.path.getsize(final_pdf) / (1024 * 1024)
+    print(f"\n¡Libro Volumen 1 generado con éxito!")
+    print(f"Ruta: {final_pdf}")
+    print(f"Tamaño: {size_mb:.2f} MB")
 
 if __name__ == "__main__":
     build_book()

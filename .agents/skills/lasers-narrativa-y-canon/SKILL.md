@@ -29,7 +29,7 @@ Queda terminantemente prohibido mencionar términos de reglas o mecánicas de ro
 
 * **Los personajes existen por sí mismos en el universo:**
   * La voz de **Gerty** proviene de su *sintetizador vocal plano, cavernoso, cínico o monótono* (**JAMÁS** *«la voz de Roberto»*).
-  * Las emociones, planes y deducciones pertenecen a **Benray**, **Triel**, **Marloc** y **Axel** (**JAMÁS** a sus intérpretes).
+  * Las emociones, planes y deducciones pertenecen a **Benrey**, **Triel**, **Marloc** y **Axel** (**JAMÁS** a sus intérpretes).
 * **Los nombres del elenco ÚNICAMENTE pueden figurar en:**
   1. La **Nota Editorial e Introducción** (caja formal de créditos de la mesa de juego original).
   2. Los metadatos de ficha en el **Glosario** como referencia bibliográfica en cursiva (ej. `*Mecánica Semi-drow (Jugadora: Irene)*`).
@@ -40,7 +40,7 @@ Queda terminantemente prohibido mencionar términos de reglas o mecánicas de ro
 
 Consultar el dossier completo en [canon_y_personajes.md](./references/canon_y_personajes.md):
 
-* **Benray Galway:** Ysoki pícaro, verborrea acelerada, negociador incansable, leal a su clan y a su primo **Rim Rey**. Paranoico compulsivo respecto a ser envenenado (analiza y huele la comida ajena). Terror visceral hacia los no-muertos y el planeta **Eox**.
+* **Benrey Galway:** Ysoki pícaro, verborrea acelerada, negociador incansable, leal a su clan y a su primo **Rim Rey**. Paranoico compulsivo respecto a ser envenenado (analiza y huele la comida ajena). Terror visceral hacia los no-muertos y el planeta **Eox**.
 * **Triel Istrav:** Mecánica semi-drow de 19 años, pelo níveo, piel cenicienta, chaqueta de segunda mano con emblema de los *Free Captains* (NUNCA fue pirata ni corsaria; es una mecánica civil independiente). Cariñosa, ingeniosa y protectora con Gerty. Mantiene una relación romántica clandestina y picante con el **Oficial León Holden** de los Protectores. Huyó del desprecio aristocrático de su familia drow en Apostae y busca en secreto a su padre humano, **Keiden Ashton**.
 * **Gerty:** Dron bípedo de asalto pesado reconstruido por Triel, dotado de cuatro brazos mecánicos. Su procesador sarcástico expresa desprecio cómico hacia los *«bichos de carbono»*. Chiste recurrente: sufre reinicios lentos y actualizaciones de firmware exasperantes al estilo *Windows 95* en los momentos más tensos.
 * **Marloc Boosmar:** Tecnomante humano de porte académico elegante, traje impecable y brazo izquierdo cibernético. Fusiona la computación cuántica con fórmulas mágicas (*Null-Vector*). Despertó con amnesia en Absalón tras tocar una misteriosa esfera rúnica dorada; su vínculo con Marlene Boosmar es un enigma abierto (NUNCA se confirma que sean hermanos). Carga con el duelo de su difunta esposa Ángela y guarda rencor hacia su padre **Ambrose Boosmar**.

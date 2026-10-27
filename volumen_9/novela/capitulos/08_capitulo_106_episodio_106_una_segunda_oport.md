@@ -18,7 +18,7 @@ Marloc se acercó con paso mesurado, ajustándose las solapas del gabán:
 
 ### II. El anagrama descifrado: Sambert Klamburg es Marloc
 
-Benray se asomó por encima del hombro de Triel, rascándose la oreja:
+Benrey se asomó por encima del hombro de Triel, rascándose la oreja:
 —A lo mejor el señor Klamburg es adivino. O tiene una máquina del tiempo en el sótano de la oficina.
 
 Triel no respondió de inmediato. Sus ojos de semi-drow bailaban sobre las letras del nombre del presidente corporativo proyectadas en el aire:
@@ -41,7 +41,7 @@ Marloc Boosmar dio un paso atrás como si hubiese recibido un disparo a quemarro
 
 ### III. La segunda oportunidad: el silencio de los héroes
 
-Benray miró a Marloc con la boca completamente abierta, soltando el rifle que cayó con un sonido sordo sobre la alfombra:
+Benrey miró a Marloc con la boca completamente abierta, soltando el rifle que cayó con un sonido sordo sobre la alfombra:
 —¿Tú... tú eres nuestro jefe? ¿Tú eres el tipo que nos paga los sueldos, el que nos compró la nave y el que nos envía cartas con consejos misteriosos?
 
 Axel se acercó lentamente, sus circuitos bioluminiscentes titilando en un tono dorado de asombro analítico:

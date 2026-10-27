@@ -42,9 +42,9 @@ Sin mediar otra palabra, el guardián avanzó con una velocidad sobrehumana, con
 
 El combate fue una lección magistral de esgrima celestial y táctica moderna. El elfo se movía como un espectro, esquivando ráfagas de plasma con fintas imposibles y descargando tajos incandescentes con su espada de energía solar que hendían el pavimento y hacían saltar chispas de los escudos de fuerza.
 
-Gerty cargó con sus cuatro brazos desplegados, interceptando un mandoble descendente que habría partido en dos a Benray. La espada solar del elfo dejó un surco al rojo vivo en el blindaje del meca, pero Gerty no retrocedió un milímetro, respondiendo con un contragolpe de su pica de asalto que obligó al guerrero a replegarse.
+Gerty cargó con sus cuatro brazos desplegados, interceptando un mandoble descendente que habría partido en dos a Benrey. La espada solar del elfo dejó un surco al rojo vivo en el blindaje del meca, pero Gerty no retrocedió un milímetro, respondiendo con un contragolpe de su pica de asalto que obligó al guerrero a replegarse.
 
-Benray, empleando su prodigiosa labia y trucos de distracción, desorientó al centinela fingiendo un tropiezo hacia el borde del precipicio antes de rodar hacia su retaguardia.
+Benrey, empleando su prodigiosa labia y trucos de distracción, desorientó al centinela fingiendo un tropiezo hacia el borde del precipicio antes de rodar hacia su retaguardia.
 
 Marloc y Axel cerraron la pinza con una coordinación impecable. El tecnomante canalizó un potente cono de descarga electromagnética que sobrecargó la armadura ceremonial del elfo, paralizando momentáneamente sus articulaciones. En ese instante exacto, Axel disparó una bala perforante de gran calibre que atravesó el núcleo de energía solar en la pechera del guerrero.
 

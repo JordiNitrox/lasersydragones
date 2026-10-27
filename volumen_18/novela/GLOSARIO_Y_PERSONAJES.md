@@ -13,7 +13,7 @@
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Protagonista central del arco: sufre el acoso y desprecio de Null-9 y de las facciones androides separatistas mientras sus bancos de memoria desentierran el legado de Ashera.
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Con la paz alcanzada tras rescatar a su padre Keiden, Triel vuelca toda su sabiduría técnica en proteger a Axel y descifrar las runas de la Puerta.
 * **Kairos (en el cuerpo de Gerty):** Entidad Sintiente (Voz: Roberto). Tutor táctico y moral de la tripulación; utiliza sus cuatro brazos mecánicos con elegancia letal.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Diplomático consumado que intenta negociar con las facciones de colonos androides para evitar una guerra civil de máquinas.
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). Diplomático consumado que intenta negociar con las facciones de colonos androides para evitar una guerra civil de máquinas.
 * **Zivok:** Operativo Enano (Jugador: Juan Pablo). Bastión defensivo en los tiroteos de pasillo y las trampas cibernéticas.
 
 ---

@@ -34,15 +34,15 @@ Triel apretó los puños contra el teclado de energía:
 
 ### II. Fuego cruzado en el vacío
 
-La corbeta enemiga escupió una ráfaga doble de haces láser escarlata que atravesaron el vacío en silencio absoluto. Los proyectiles de energía impactaron de lleno en los deflectores delanteros del *Hippocampus*: *¡BUM!* Una violenta sacudida estremeció la nave, haciendo saltar chispas de los paneles del techo y arrojando a Benray contra su arnés de seguridad.
+La corbeta enemiga escupió una ráfaga doble de haces láser escarlata que atravesaron el vacío en silencio absoluto. Los proyectiles de energía impactaron de lleno en los deflectores delanteros del *Hippocampus*: *¡BUM!* Una violenta sacudida estremeció la nave, haciendo saltar chispas de los paneles del techo y arrojando a Benrey contra su arnés de seguridad.
 
 —¡Escudos frontales al treinta por ciento! —anunció Triel, con el sudor empapándole las sienes—. ¡Esa maldita sabe dónde disparar!
 
-Benray ajustó su micrófono de diadema con furia ysoki, activando el intercomunicador táctico de combate:
+Benrey ajustó su micrófono de diadema con furia ysoki, activando el intercomunicador táctico de combate:
 
 —¡Axel, no dejes que esa rubia de hojalata se coloque a nuestras espaldas! ¡Marloc, la torreta ventral tiene ángulo de tiro! ¡Demuéstrale a esa mercenaria que un profesor de universidad pega más duro que sus patrocinadores corporativos!
 
-—En ello estoy, Benray —respondió la voz pausada de Marloc a través de los auriculares de artillería.
+—En ello estoy, Benrey —respondió la voz pausada de Marloc a través de los auriculares de artillería.
 
 En la cúpula inferior de la panza del *Hippocampus*, Marloc y Gerty operaban el cañón láser doble en perfecta sincronía tecnomágica. El tecnomante manipulaba las miras de puntería con su mano mecánica mientras Gerty alimentaba las bobinas térmicas con sus actuadores hidráulicos:
 
@@ -82,7 +82,7 @@ En la holopantalla de comunicaciones, la imagen de Clara 247 parpadeó entre den
 
 —*«...Sistemas apagados... Propulsión muerta... Maldita sea...»*
 
-Benray se abalanzó sobre el micrófono del emisor:
+Benrey se abalanzó sobre el micrófono del emisor:
 
 —¡Clara! ¡Respóndeme, pedazo de chatarra! ¿Quién financió esos quinientos créditos? ¿Fue Extracciones Estelares o la señorita George? ¡Dígamelo antes de que se estrelle!
 
@@ -114,7 +114,7 @@ Triel amplió la imagen óptica en la pantalla:
 
 —Miren la esclusa de estribor en la popa... La compuerta exterior está forzada y encallada en posición abierta. Hay bolsas de suministros, cables sueltos y piezas de metal flotando en el espacio alrededor de la entrada. La nave está despresurizada; si queremos entrar, tendremos que hacerlo con escafandras y en gravedad cero.
 
-Benray encendió la microcámara deportiva de Marcellus acoplada a su hombro y comprobó que el dron diplomático del embajador Nor flotaba a su espalda, grabando cada movimiento con su frío lente verde:
+Benrey encendió la microcámara deportiva de Marcellus acoplada a su hombro y comprobó que el dron diplomático del embajador Nor flotaba a su espalda, grabando cada movimiento con su frío lente verde:
 
 —Cámaras rodando, muchachos. Marcellus va a pagar una fortuna por estas tomas.
 

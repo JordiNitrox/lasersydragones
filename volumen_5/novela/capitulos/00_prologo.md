@@ -18,7 +18,7 @@ A su lado, Triel Istrav comprobaba por última vez los servomotores y articulaci
 
 —Menos quejas y más potencia en las piernas, Gerty —sonrió Triel, golpeando cariñosamente el blindaje del meca mientras aseguraba la pica de asalto a su costado—. Si nos encontramos con plantas con dientes, tú eres el que abre camino.
 
-Benray Galway acomodó las lentes esféricas del dron Atmos, que flotaba a su alrededor emitiendo un zumbido alegre mientras enfocaba la inmensidad del horizonte esmeralda:
+Benrey Galway acomodó las lentes esféricas del dron Atmos, que flotaba a su alrededor emitiendo un zumbido alegre mientras enfocaba la inmensidad del horizonte esmeralda:
 
 —Damas, caballeros y entidades sintéticas de la galaxia: estamos a punto de cruzar el umbral del lugar más peligroso de Castrovel. Bestias gigantes, hongos asesinos y una secta apocalíptica armada hasta los dientes. Si no salimos en los libros de historia después de esto, juro por la memoria de mi primo Rim Rey que me hago streamer de videojuegos en Eox.
 

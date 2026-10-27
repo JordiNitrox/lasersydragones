@@ -8,7 +8,7 @@ Antes de que Triel pudiera acercarse a examinar los paneles táctiles que respla
 
 A través del visor astillado de su casco de vacío, los rasgos de un enano de barba enmarañada y piel azulada resultaban inconfundibles. Era Orin, el oficial científico del *Acreon*.
 
-—¡Otro más! —gritó Benray por el intercomunicador, desenfundando su pistola mientras se aferraba con las patas traseras a una grieta de la roca—. ¡Al oficial enano también lo cazaron las alimañas! ¡Apunten a la cabeza!
+—¡Otro más! —gritó Benrey por el intercomunicador, desenfundando su pistola mientras se aferraba con las patas traseras a una grieta de la roca—. ¡Al oficial enano también lo cazaron las alimañas! ¡Apunten a la cabeza!
 
 El zombi de Orin no necesitó tocar el suelo. Impulsándose con una torsión espasmódica de sus piernas, se lanzó en línea recta hacia Gerty. De su garganta destrozada brotaba un apéndice azulado y látigoide que fustigaba el vacío con furia hambrienta.
 
@@ -60,11 +60,11 @@ Marloc se arrodilló junto al umbral, pasando los sensores de su guantelete sobr
 
 —Esto no es tecnología de los Mundos del Pacto. Ni siquiera es de los elfos de Castrovel o los dragones de Triaxus. Estos patrones poligonales... estas secuencias de refracción cuántica integradas directamente en la estructura molecular del metal... Esto fue construido antes de la Brecha. Mucho antes.
 
-—¿De qué época estamos hablando, profesor? —inquirió Benray, asomando el hocico con genuina fascinación mercantil—. ¿Siglos? ¿Milenios? ¿Vale muchos créditos de oro?
+—¿De qué época estamos hablando, profesor? —inquirió Benrey, asomando el hocico con genuina fascinación mercantil—. ¿Siglos? ¿Milenios? ¿Vale muchos créditos de oro?
 
-—Incalculable, Benray —respondió Marloc con los ojos brillantes de fervor académico—. Esto podría datar de cientos de miles de años. Quizás millones. Si publicara un artículo sobre la cristalografía de estos mamparos en la revista *Arqueología de Hoy*, el claustro entero del Arcanamirium se caería de espaldas. Esto es el vestigio de un imperio espacial extinto que dominaba el cosmos cuando nuestras especies aún no sabían encender una fogata.
+—Incalculable, Benrey —respondió Marloc con los ojos brillantes de fervor académico—. Esto podría datar de cientos de miles de años. Quizás millones. Si publicara un artículo sobre la cristalografía de estos mamparos en la revista *Arqueología de Hoy*, el claustro entero del Arcanamirium se caería de espaldas. Esto es el vestigio de un imperio espacial extinto que dominaba el cosmos cuando nuestras especies aún no sabían encender una fogata.
 
-—Pues asegúrese de incluirme en los agradecimientos del artículo, profesor —bromeó el ysoki, inflando el pecho con orgullo—. «Agradezco al capitán Benray Galway su valentía al no desmayarse mientras descubríamos el mayor templo alienígena de la galaxia». Suena poético.
+—Pues asegúrese de incluirme en los agradecimientos del artículo, profesor —bromeó el ysoki, inflando el pecho con orgullo—. «Agradezco al capitán Benrey Galway su valentía al no desmayarse mientras descubríamos el mayor templo alienígena de la galaxia». Suena poético.
 
 —Lo tomaré en consideración, mi estimado capitán —sonrió Marloc—. Aunque sospecho que la comunidad científica mostrará más interés por los grabados que por sus dotes de supervivencia.
 
@@ -95,7 +95,7 @@ Triel se apartó del panel de un salto, empuñando su rifle mientras buscaba des
 
 —Yo también lo he percibido —confirmó Axel, cuyos ojos bioluminiscentes parpadearon en un destello violáceo de alerta máxima—. Una emisión psiónica de clase tres. Procede del interior de la roca.
 
-—Miren la pared —advirtió Benray con un hilo de voz, señalando con un dedo tembloroso hacia la roca sólida que flanqueaba la compuerta metálica.
+—Miren la pared —advirtió Benrey con un hilo de voz, señalando con un dedo tembloroso hacia la roca sólida que flanqueaba la compuerta metálica.
 
 A través de la piedra maciza, desafiando todas las leyes de la física y la materia sólida, dos extremidades espectrales comenzaron a emerger lentamente.
 

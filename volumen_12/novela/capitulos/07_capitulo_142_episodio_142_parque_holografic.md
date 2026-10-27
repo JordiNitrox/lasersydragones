@@ -7,7 +7,7 @@
 ---
 
 ### ⚠️ GUÍA EDITORIAL Y HITO NARRATIVO OBLIGATORIO:
-Benray encuentra la bitácora personal de su pariente Gazit. Se escucha la grabación de los últimos minutos del abordaje de los nigromantes. Benray rompe a llorar consolado por Triel.
+Benrey encuentra la bitácora personal de su pariente Gazit. Se escucha la grabación de los últimos minutos del abordaje de los nigromantes. Benrey rompe a llorar consolado por Triel.
 
 ---
 

@@ -12,7 +12,7 @@
 ## 2. Los Protagonistas y su Evolución Emocional
 * **Triel Istrav:** Mecánica Semi-drow (Jugadora: Irene). Enfrenta el desafío aeronáutico más extremo: adaptar los motores del Hippocampus y los propulsores de Gerty a la altísima presión y corrosión de las nubes de Nejeor.
 * **Zivok:** Operativo Enano (Jugador: Juan Pablo). Su resistencia física y entrenamiento en entornos extremos son vitales para liderar las incursiones en las plataformas flotantes corroídas.
-* **Benray Galway:** Emisario Ysoki (Jugador: Miguel). Habiendo superado el trauma de La Galway, Benray se muestra más maduro y resolutivo, usando su elocuencia para comunicarse con las extrañas formas de vida del gigante gaseoso.
+* **Benrey Galway:** Emisario Ysoki (Jugador: Miguel). Habiendo superado el trauma de La Galway, Benrey se muestra más maduro y resolutivo, usando su elocuencia para comunicarse con las extrañas formas de vida del gigante gaseoso.
 * **A.Xel 42:** Operativa Androide (Jugadora: Sofía). Se encuentra con Miseria (Jennifer), una androide vinculada a su propio linaje de fabricación, lo que reabre las dudas sobre su identidad como madre o hermana de una estirpe sintética.
 * **Gerty:** Dron de Asalto (Voz: Roberto). Adaptado con estabilizadores de vuelo aerodinámicos para el combate entre las nubes.
 
