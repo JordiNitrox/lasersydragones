@@ -34,7 +34,7 @@ Una leve sonrisa asomó en los labios de Muhali:
 
 Muhali señaló una caja de transporte sellada que descansaba sobre una mesilla auxiliar junto a un archivador digital:
 
-—Hay algo más. Cuando inspeccionaron el despacho de la doctora, dejamos allí su equipo de campo personal. Puesto que es propiedad de la universidad y su legítima dueña corre peligro mortal, considero prudente que lo lleven ustedes. Es una armadura ligera de combate modelo *Lashunta Temp-weave*. Necesitará algunos ajustes menores en el talle y en las mangas, pero es una pieza de blindaje de cuarto nivel excepcional: protección equilibrada contra impactos cinéticos y energía, sin penalizadores de agilidad y con un puerto de expansión integrado.
+—Hay algo más. Cuando inspeccionaron el despacho de la doctora, dejamos allí su equipo de campo personal. Puesto que es propiedad de la universidad y su legítima dueña corre peligro mortal, considero prudente que lo lleven ustedes. Es una armadura ligera de combate de manufactura lashunta, un tejido térmico reforzado de primer nivel. Necesitará algunos ajustes menores en el talle y en las mangas, pero ofrece una resistencia soberbia ante metralla y descargas de energía, sin restar un ápice de agilidad al caminar y con acoples para módulos auxiliares.
 
 Axel examinó las costuras de polímero térmico y negó suavemente con la cabeza:
 
@@ -62,7 +62,7 @@ Mientras Benrey se probaba la armadura *Temp-weave* con gestos teatrales y Gerty
 
 —Veamos qué tiene la academia sobre esta pequeña maravilla —murmuró Triel, con los dedos volando sobre el teclado holográfico.
 
-Las defensas del cortafuegos universitario eran sólidas, pero la ingeniera androide desplegó una secuencia de intrusión impecable. Con una destreza deslumbrante que superó todas las capas de cifrado institucional, los archivos más antiguos de la facultad comenzaron a abrirse en cascada.
+Las defensas del cortafuegos universitario eran sólidas, pero la ingeniosa mecánica semi-drow desplegó una secuencia de intrusión impecable. Con una destreza deslumbrante que superó todas las capas de cifrado institucional, los archivos más antiguos de la facultad comenzaron a abrirse en cascada.
 
 —Por todos los dioses... —susurró Triel, deteniéndose ante un documento desclasificado de hacía más de un siglo—. Marloc, mira esto.
 

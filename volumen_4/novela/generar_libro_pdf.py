@@ -29,6 +29,7 @@ def md_to_html(text, is_glossary=False):
     lines = text.strip().split("\n")
     html_lines = []
     in_list = False
+    in_quote = False
     
     for line in lines:
         line_s = line.strip()
@@ -38,6 +39,9 @@ def md_to_html(text, is_glossary=False):
             if in_list:
                 html_lines.append("</ul>")
                 in_list = False
+            if in_quote:
+                html_lines.append("</blockquote>")
+                in_quote = False
             html_lines.append("<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>")
             continue
             
@@ -46,6 +50,9 @@ def md_to_html(text, is_glossary=False):
             if in_list:
                 html_lines.append("</ul>")
                 in_list = False
+            if in_quote:
+                html_lines.append("</blockquote>")
+                in_quote = False
             title = inline_formatting(line_s[2:].strip())
             html_lines.append(f"<h2 class='chapter-name'>{title}</h2>")
             continue
@@ -53,6 +60,9 @@ def md_to_html(text, is_glossary=False):
             if in_list:
                 html_lines.append("</ul>")
                 in_list = False
+            if in_quote:
+                html_lines.append("</blockquote>")
+                in_quote = False
             title = inline_formatting(line_s[3:].strip())
             html_lines.append(f"<h3 class='section-title'>{title}</h3>")
             continue
@@ -60,6 +70,9 @@ def md_to_html(text, is_glossary=False):
             if in_list:
                 html_lines.append("</ul>")
                 in_list = False
+            if in_quote:
+                html_lines.append("</blockquote>")
+                in_quote = False
             title = inline_formatting(line_s[4:].strip())
             if is_glossary:
                 html_lines.append(f"<h4 class='subsection-title'>{title}</h4>")
@@ -69,6 +82,9 @@ def md_to_html(text, is_glossary=False):
             
         # Listas
         if line_s.startswith("- ") or line_s.startswith("* "):
+            if in_quote:
+                html_lines.append("</blockquote>")
+                in_quote = False
             if not in_list:
                 html_lines.append("<ul class='bullet-list'>")
                 in_list = True
@@ -82,10 +98,19 @@ def md_to_html(text, is_glossary=False):
                 in_list = False
                 
         # Citas
-        if line_s.startswith("> "):
-            quote_text = inline_formatting(line_s[2:].strip())
-            html_lines.append(f"<blockquote class='quote'>{quote_text}</blockquote>")
+        if line_s.startswith(">"):
+            if not in_quote:
+                html_lines.append("<blockquote class='quote'>")
+                in_quote = True
+            quote_content = line_s.lstrip(">").strip()
+            if quote_content:
+                quote_text = inline_formatting(quote_content)
+                html_lines.append(f"<p>{quote_text}</p>")
             continue
+        else:
+            if in_quote:
+                html_lines.append("</blockquote>")
+                in_quote = False
             
         # Párrafos normales
         if line_s:
@@ -94,6 +119,8 @@ def md_to_html(text, is_glossary=False):
             
     if in_list:
         html_lines.append("</ul>")
+    if in_quote:
+        html_lines.append("</blockquote>")
         
     return "\n".join(html_lines)
 
@@ -133,13 +160,13 @@ TOC_ITEMS = [
         "id": "cap_37",
         "search_key": "Capítulo 37: El Muerto al Hoyo",
         "title": "Capítulo 37: El Muerto al Hoyo...",
-        "sub": "Basado en el Episodio 37 · El funeral en el Jardín de Cenizas, el dolor de dos mundos y el anillo de Ángela"
+        "sub": "Basado en el Episodio 37 · El funeral en el Templo Sin Nombre, el dolor de dos mundos y el anillo de Ángela"
     },
     {
         "id": "cap_38",
         "search_key": "Capítulo 38: ...y el Vivo al Bollo",
         "title": "Capítulo 38: ...y el Vivo al Bollo",
-        "sub": "Basado en el Episodio 38 · Recepción en Club 13, despedidas en el Muelle 94 y desamarre de la Estrella Errante"
+        "sub": "Basado en el Episodio 38 · La Renovación en la capilla de Triune, despedidas en el Muelle 94 y desamarre de la Estrella Errante"
     },
     {
         "id": "cap_39",
@@ -384,6 +411,13 @@ def generate_html(page_numbers=None):
     background: #f7fafc;
     font-style: italic;
     color: #4a5568;
+  }}
+  .quote p {{
+    margin-bottom: 8px;
+    text-indent: 0;
+  }}
+  .quote p:last-child {{
+    margin-bottom: 0;
   }}
 </style>
 </head>

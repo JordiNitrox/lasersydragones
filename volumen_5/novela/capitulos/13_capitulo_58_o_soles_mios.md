@@ -56,7 +56,7 @@ Segundos después, Gerty logró derribar al segundo centinela, arrancándole la 
 
 Con la antecámara despejada y los guardianes reducidos a polvo, Axel inspeccionó los nichos ceremoniales junto a las escaleras, descubriendo un artefacto de oricalco abandonado por los cultistas:
 
-—Es un **Báculo de Sanación Mística** (*Staff of Mystic Healing*) —diagnosticó la androide tras analizar sus frecuencias místicas—. Canaliza energías de restauración celular de quinto nivel... pero solo responde a la disciplina de un místico consagrado.
+—Es un **Báculo de Sanación Mística** (*Staff of Mystic Healing*) —diagnosticó la androide tras analizar sus frecuencias místicas—. Canaliza energías de restauración celular de inmensa potencia... pero solo responde a la disciplina de un místico consagrado.
 
 Benrey, Triel y Marloc intercambiaron miradas de cómica decepción.
 

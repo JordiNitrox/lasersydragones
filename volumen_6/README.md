@@ -9,8 +9,8 @@ Adaptación literaria y maquetación editorial en PDF del sexto bloque de la cam
 * **Título:** *Lasers y Dragones: El Fantasma en la Máquina*
 * **Subtítulo:** *Volumen VI · El Fantasma en la Máquina*
 * **Episodios Adaptados:** Episodios 60 al 72 (13 episodios, 13 capítulos novelados + prólogo, nota editorial y anexo).
-* **Extensión del PDF:** 60 páginas en formato A4 editorial de alta fidelidad.
-* **Archivo PDF:** [Lasers_y_Dragones_Volumen_6_El_Fantasma_en_la_Maquina.pdf](file:///home/jordi/Proyectos/lasersydragones/volumen_6/novela/Lasers_y_Dragones_Volumen_6_El_Fantasma_en_la_Maquina.pdf)
+* **Extensión del PDF:** 59 páginas en formato A4 editorial de alta fidelidad.
+* **Archivo PDF:** [Lasers_y_Dragones_Volumen_6_El_Fantasma_en_la_Maquina.pdf](novela/Lasers_y_Dragones_Volumen_6_El_Fantasma_en_la_Maquina.pdf)
 
 ---
 

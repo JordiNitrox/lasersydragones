@@ -2,7 +2,7 @@
 
 La Estación Absalón nunca duerme, pero a veces contiene la respiración.
 
-Apenas habían transcurrido unas horas desde que el humo de los rifles de plasma se disipara en los túneles inferiores del Club Fusión. En los corredores claustrofóbicos de la Espiga, las pandillas aún comentaban en susurros la caída fulminante de Ferani Nadaz y el desmantelamiento de los Reyes de la Fusión. Lo que para el Consejo de Síndicos y los titulares sensacionalistas de *Noticias en Movimiento* no era más que otro sangriento episodio de violencia callejera entre bandas rivales de los Bajos, para cuatro recién llegados había sido el bautismo de fuego que los unió para siempre.
+Apenas habían transcurrido unas horas desde que el humo de los rifles de plasma se disipara en los túneles inferiores del Club Con-Fusión. En los corredores claustrofóbicos de la Espiga, las pandillas aún comentaban en susurros la caída fulminante de Ferani Nadaz y el desmantelamiento de los Reyes del Nivel 21. Lo que para el Consejo de Síndicos y los titulares sensacionalistas de *Noticias en Movimiento* no era más que otro sangriento episodio de violencia callejera entre bandas rivales de los Bajos, para cuatro recién llegados había sido el bautismo de fuego que los unió para siempre.
 
 Benrey Galway, el emisario ysoki de reflejos imposibles y verborrea infinita; Triel Istrav, la joven mecánica semi-drow de la Diáspora junto a Gerty, su meca de combate tan pesado como sarcástico; Marloc Boosmar, el tecnomante de gabán impoluto y brazo cibernético acosado por el enigma de Marlene; y A.Xel 42, la letal operativa androide de circuitos bioluminiscentes y mirada fría. 
 

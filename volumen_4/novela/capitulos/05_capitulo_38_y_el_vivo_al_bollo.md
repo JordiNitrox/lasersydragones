@@ -158,7 +158,7 @@ El sacerdote de Epoch se arrodilló con presteza y posó una mano cálida sobre 
 
 —Calma, hermano. Un alma nueva debe acostumbrarse al inmenso dolor de existir. Esto pasará pronto.
 
-Entre dos oficiantes levantaron el cuerpo y lo ayudaron a reincorporarse sobre el trono. Al alzar el rostro, la transformación fue sobrecogedora: la piel sintética había perdido su tono cobrizo oscuro, adoptando un matiz ligeramente más pálido, y las líneas bioluminiscentes que cruzaban sus mejillas y cuello ya no eran del ámbar cálido de Éclair, sino de un **blanco brillante y virginal**, como hielo iluminado por una supernova.
+Entre dos oficiantes levantaron el cuerpo y lo ayudaron a reincorporarse sobre el trono. Al alzar el rostro, la transformación fue sobrecogedora: la piel sintética había perdido su tono azul noche, adoptando un matiz ligeramente más pálido, y las líneas bioluminiscentes que cruzaban sus mejillas y cuello ya no eran del naranja dorado de Éclair, sino de un **blanco brillante y virginal**, como hielo iluminado por una supernova.
 
 Sus ojos recorrían la sala con el espanto y la maravilla de un recién nacido atrapado en un cuerpo de adulto.
 

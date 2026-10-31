@@ -2,19 +2,13 @@
 
 ### I. La interrupción del desayuno
 
-El apacible desayuno en la terraza botánica del Ojo de Absalón —entre panecillos calientes, café aromático y el engañoso cielo primaveral que simulaba la cúpula central tras la cruenta refriega en los Bajos— duró exactamente hasta que la esfera policial descendió flotando entre las jardineras.
+El haz escarlata de la pistola láser de Axel hendió el aire de la terraza botánica del Ojo de Absalón con la velocidad de un relámpago sintético. Sin soltar el tenedor cargado de tocino con la mano izquierda, la operativa androide abrió fuego justo en el instante en que la unidad policial *Observador* —aquella esfera metálica armada con macana de impulsos y dispensador de pasta inmovilizadora— terminaba de exigir su entrega por los disturbios del Nivel 21.
 
-Era una unidad de reconocimiento *Observador* de los Protectores: una bola metálica del tamaño de una sandía armada con macana de impulsos eléctricos, dispensador de pasta inmovilizadora y un lente ámbar que barrió implacable los rostros de Benrey, Marloc, Triel y Axel. Su sintetizador vocal emitió un requerimiento protocolario empalagosamente cortés, exigiendo su presencia inmediata para responder por los disturbios armados en el Nivel 21.
+—*¡Mi nombre es Gerty y peleo por el usuario!* —bramó el meca por sus altavoces, desplegando su cañón rotatorio con un chasquido ensordecedor mientras su cúpula brillaba en rojo carmesí.
 
-El silencio cayó sobre la terraza como una losa de plomo. Los comensales de las mesas vecinas soltaron los cubiertos despavoridos. Benrey aún tenía los bigotes manchados de mermelada y los bolsillos repletos de tostadas, pero nadie en la mesa albergaba la menor intención de entregarse de sobremesa.
+—¡Gerty, no dispares, es solo una bola de escaneo! —gritó Triel, arrojando una llave inglesa para desviar los sensores del autómata.
 
-Gerty fue el primero en reaccionar. Los servomotores de su torso giraron noventa grados con un chasquido ensordecedor. Su cañón láser rotatorio se desplegó con un zumbido de carga térmica mientras la cúpula brillaba en rojo carmesí.
-
-—*¡Mi nombre es Gerty y peleo por el usuario!* —bramó el meca por sus altavoces—. *¡La unidad Axel y yo nos defenderemos con la vida ante la tiranía policial!*
-
-—¡Gerty, no dispares, es solo una bola de escaneo! —gritó Triel, arrojando la llave inglesa.
-
-Pero ya era tarde. Axel, sin soltar el tenedor cargado de tocino con la mano izquierda, extrajo con la derecha su pistola láser de bolsillo con la velocidad de un relámpago sintético y abrió fuego.
+Pero la apacible mañana primaveral bajo la cúpula central ya había saltado por los aires. Los comensales de las mesas vecinas soltaron los cubiertos despavoridos, volcando tazas de porcelana y bandejas de hojaldres mientras el bufé se transformaba en un clamor de pánico. Benrey, que aún tenía los bigotes embadurnados de mermelada y los bolsillos de la gabardina repletos de tostadas calientes, se agazapó tras el mantel. Nadie en aquella mesa albergaba la menor intención de entregarse de sobremesa.
 
 ***
 

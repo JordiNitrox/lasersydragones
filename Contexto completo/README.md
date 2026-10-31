@@ -20,7 +20,7 @@ Para facilitar la lectura, edición y mantenimiento independiente sin manipular 
 2. **[CONTEXTO_COMPLETO_SAGA.md](CONTEXTO_COMPLETO_SAGA.md)**:
    Documento consolidado generado automáticamente por el compilador, que unifica todas las secciones anteriores en un único archivo de referencia.
 
-3. **[Descargar PDF Editorial (48 Páginas)](Contexto_Completo_Lasers_y_Dragones.pdf)**:
+3. **[Descargar PDF Editorial (49 Páginas)](Contexto_Completo_Lasers_y_Dragones.pdf)**:
    Versión maquetada con portada y diseño editorial homogéneo, ideal para lectura rápida y consulta con marcadores interactivos.
 
 4. **`generar_contexto_pdf.py`**:

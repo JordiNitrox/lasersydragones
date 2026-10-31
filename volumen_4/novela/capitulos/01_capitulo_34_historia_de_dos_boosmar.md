@@ -14,15 +14,15 @@ Hacía escasas semanas que el tecnomante había despertado en el suelo helado de
 
 —El saber arcano no necesita publicidad, Benrey —respondió Marloc con voz baja y mesurada, ajustándose el cuello de su gabardina oscura—. Y ese hombre ciertamente no tolera la ligereza. Ambrose Boosmar es la viva estampa del padre que conocí antes de que mi mundo se quebrara, pero no es alguien que conceda audiencias por cortesía. Les ruego prudencia.
 
-En la esclusa de acceso del ala docente, una figura familiar los esperaba con un gigantesco manojo de tarjetas magnéticas y llaves mecánicas tintineando en el cinturón. Era Richie, el veterano conserje del Arcanamirium, enfundado en su overol de faena:
+En la esclusa de acceso del ala docente, una figura familiar los esperaba con un gigantesco manojo de tarjetas magnéticas y llaves mecánicas tintineando en el cinturón. Era Richie, el veterano conserje del Arcanamirium: un barathu corpulento y flotante, cuyo cuerpo gelatinoso y translúcido iba embutido a duras penas en un overol de faena azul marino. Con dos de sus tentáculos superiores sostenía una linterna de mano para iluminar el rostro de Marloc, mientras otros apéndices manipulaban los cerrojos magnéticos:
 
-—Hola, profesor —saludó Richie, iluminando el rostro de Marloc con una linterna de mano antes de abrir la reja con un chasquido metálico—. Venga, lo llevo. El profesor Ambrose se queda siempre hasta tardísimo; lleva como dos días metido en su despacho casi sin salir.
+—Hola, profesor —saludó Richie con su característica voz húmeda y gorgoteante antes de abrir la reja con un chasquido metálico—. Venga, lo llevo. El profesor Ambrose se queda siempre hasta tardísimo; lleva como dos días metido en su despacho casi sin salir.
 
 —Trabajos e investigaciones, Richie; lo entiendo perfectamente —asintió Marloc.
 
-—Pues cuando salgan me avisan —añadió el conserje mientras los guiaba a través de las arcadas silenciosas—. Tengo el turno de noche y todavía me toca fregar los lavabos del subsótano. Por cierto, profesor... cuídese, me alegra ver que al menos ya no le sangra la nariz como aquella mañana.
+—Pues cuando salgan me avisan —añadió el conserje mientras sus cilios vibraban suavemente guiándolos a través de las arcadas silenciosas—. Tengo el turno de noche y todavía me toca fregar los lavabos del subsótano. Por cierto, profesor... cuídese, me alegra ver que al menos ya no le sangra la nariz como aquella mañana.
 
-Richie se despidió con una reverencia informal y dobló por un recodo, dejándolos frente al portal de roble ferroso que custodiaba el despacho de Ambrose Boosmar.
+Richie se despidió con una ondulación respetuosa de sus tentáculos superiores y flotó por un recodo, dejándolos frente al portal de roble ferroso que custodiaba el despacho de Ambrose Boosmar.
 
 Axel 42 escaneó los pestillos electromagnéticos con sus sensores ópticos amatistas:
 
@@ -140,42 +140,18 @@ Benrey se mesó los bigotes con gravedad inusual:
 
 Axel dio un paso hacia él y apoyó su mano de aleación sobre el hombro del tecnomante, mientras Benrey y Triel se cerraban a su alrededor en un círculo protector.
 
-—La ruta está trazada, Marloc —dijo la androide con firmeza serena—. En dos días rendiremos honores a Marlene en el Jardín de Cenizas, nos despediremos de Absalón y zarparemos rumbo a Qabarat. Las respuestas nos aguardan en las torres esmeralda.
+—Y por eso mismo no nos quedaremos sentados a esperar sus limosnas —dijo el ysoki con una palmada enérgica en la barandilla—. Si las pistas de la esfera y de la investigación de Marlene apuntan a Castrovel y a esa investigadora en Qabarat, hacia allá iremos. Nadie se burla de nosotros ni nos deja en la ignorancia.
+
+Axel asintió con serenidad, sus sensores ópticos fijos en el horizonte iluminado de la estación:
+
+—La ruta está clara, Marloc. En dos días asistiremos al funeral de Marlene en el Templo Sin Nombre, rendiremos honores a su memoria, ultimaremos los preparativos en la nave y zarparemos rumbo a Castrovel. Absalón ya no tiene respuestas para nosotros; las respuestas nos aguardan en las torres esmeralda.
 
 Marloc bajó la cabeza, permitiéndose por primera vez en semanas derrumbar su habitual fachada de frialdad académica. Rodeó a sus compañeros con los brazos, aferrándose a ellos como un náufrago a su última tabla de salvación en mitad de una tormenta cósmica:
 
 —Tranquilos... yo sé que todo esto es demasiado —susurró con la voz quebrada por la emoción—. No sé hasta qué punto voy a poder soportarlo, ni cómo voy a evitar volverme loco si descubro algo más sobre mi propia existencia. En serio... ustedes son mi único pilar. Son lo único que tengo en este universo que me mantiene atado a la cordura. Espero no sucumbir a la demencia, pero si caigo en el abismo... confío ciegamente en que sabrán qué hacer conmigo.
 
-—Nunca te dejaremos caer, profesor —murmuró Triel, apretándole el brazo con fuerza.
+—Nunca te dejaremos caer, profesor —murmuró Triel, apretándole el brazo con calidez y firmeza.
 
-De pronto, la voz de Marloc se extinguió en un jadeo sordo.
+Marloc contempló a sus tres camaradas, sintiendo por primera vez en muchas horas que la pesada niebla de la incertidumbre retrocedía ante la determinación compartida:
 
-Una gota espesa de sangre oscura brotó de su fosa nasal izquierda, seguida de inmediato por un hilo constante y caliente que manchó su labio y goteó sobre el cuello de su camisa ceremonial.
-
-—¿Marloc? —preguntó Benrey, retrocediendo con los ojos desorbitados—. ¡Marloc, te está saliendo sangre de la nariz!
-
-El tecnomante intentó hablar, pero sus cuerdas vocales solo emitieron un estertor ahogado. Sus ojos se volvieron vidriosos, carentes de foco. De repente, su cuerpo comenzó a parpadear con una estática translúcida azulada: la masa física de su torso perdió consistencia atómica y comenzó a desfasarse, resbalando a través de los brazos de Triel y de la barandilla metálica como si fuera un espectro de luz incoherente.
-
-—¡Fallo de masa dimensional! —alertó Axel con tono de alarma máxima, arrojándose hacia él—. ¡Está atravesando la estructura del suelo!
-
-Axel y Triel lograron sujetarlo justo cuando el desfase cesó abruptamente. El cuerpo de Marloc recuperó su peso de golpe, desplomándose pesadamente en los brazos de la androide mientras sus constantes vitales caían en picado.
-
-En el abismo de su mente inconsciente, la estación desapareció por completo.
-
-Marloc se encontró suspendido sobre una llanura desolada bajo un cielo negro como la brea. Era Aucturn. Pero no el planeta yermo de polvo y roca que describían los atlas astronómicos: la superficie entera estaba viva. El suelo bajo sus pies convulsionaba con latidos viscosos y lentos, hinchándose y palpitando como la carne tumoral de un órgano infectado. Grietas purulentas se abrían en la corteza terrestre, supurando pus amarillento y miasma fétido entre espasmos orgánicos grotescos.
-
-Y entonces, en el epicentro de aquel mar de carne supurante, la costra purulenta se desgarró con un sonido desgarrador.
-
-Desde las entrañas enfermas del planeta, emergiendo lentamente envuelta en hebras de tejido sanguinolento, comenzó a ascender una esfera perfecta de piedra negra, cubierta de runas ancestrales que brillaban con una luz violácea y corrupta...
-
-—¡Despierte, Marloc! ¡Respire!
-
-Un latigazo de sales aromáticas concentradas penetró por sus fosas nasales, acompañado por la descarga electromagnética milimétrica del desfibrilador táctico de Axel.
-
-Marloc abrió los ojos de par en par con una bocanada de aire entrecortada, tosiendo violently mientras se incorporaba sobre las baldosas metálicas del pasillo. Tenía el rostro empapado en sudor frío y la sangre aún manchándole la barbilla, pero las ópticas azuladas de Axel y los rostros pálidos de Triel y Benrey estaban allí, sosteniéndolo contra el suelo del mirador.
-
-—Bienvenido de vuelta, profesor —dijo Benrey, secándose el sudor de la frente con la manga—. Por un segundo creí que te nos evaporabas al hiperespacio sin pagar la cuenta.
-
-Marloc se llevó los dedos temblorosos a la nariz, contemplando la sangre que manchaba sus guantes mientras el recuerdo de la carne viva de Aucturn aún palpitaba en el fondo de sus pupilas:
-
-—La esfera... no es una máquina, amigos míos —susurró con un escalofrío que le recorrió la espina dorsal—. Está viva. Y está despertando.
+—Gracias, amigos míos. Castrovel será. Vayamos a descansar... nos aguardan días decisivos.

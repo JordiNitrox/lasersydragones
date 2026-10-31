@@ -112,6 +112,10 @@ D-52 miró al tecnomante y luego a Axel, asintiendo con gravedad:
 
 —Si buscan a la jefa de los Reyes de Abajo, su nombre es **Ferani Nadaz**. La llaman la *Reina de la Con-Fusión*. Ha montado su cuartel general en las ruinas del club nocturno *Con-Fusión*, en las profundidades del Sector Spire-Cero. Pero tengan cuidado... Ferani no está sola. Tiene a su lado a una bestia de dos metros y medio de la raza vesk llamada **Brock Hilario, el Rompeportones**. Dicen que ese lagarto arrancó un portón de seguridad blindado con sus propias manos y lo reventó contra el suelo solo para demostrar su fuerza.
 
+Benrey sonrió de medio lado, ajustándose el cuello de la gabardina:
+
+—Una dama encantadora y un lagarto que derriba puertas a puñetazos. Justo el tipo de fiesta a la que nos encanta presentarnos sin invitación.
+
 ***
 
 ### IV. Duelo en el arcade y el fuego de la libertad
@@ -146,7 +150,7 @@ El saludo sagrado del **Frente de Liberación Androide**: puño y fuego.
 
 —Mantén tus circuitos limpios, hermana —susurró Null-9—. La tormenta sobre Absalón apenas está comenzando.
 
-—Una dama encantadora y un lagarto que derriba puertas a puñetazos. Justo el tipo de fiesta a la que nos encanta presentarnos sin invitación.
+Null-9 asintió una última vez y se perdió entre las sombras del callejón trasero. Axel regresó con paso firme hacia la mesa, donde sus compañeros ya guardaban los mapas de terminales.
 
 Triel se puso en pie, ajustando la correa de su rifle mientras Gerty activaba sus giróscopos con un chasquido sordo:
 

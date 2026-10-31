@@ -76,11 +76,11 @@ Cuando la reunión comenzó a dispersarse para preparar los documentos, Triel se
 
 El corsario lashunta se detuvo en seco. Sus ojos se abrieron con una mezcla de respeto supersticioso y asombro:
 
-—¿Keiden Ashton? ¿El *Capitán sin Puerto*? Todos los marinos de los Capitanes Libres han oído hablar de él, muchacha. Es casi una leyenda mítica en el Vasto. Dicen que comandaba un navío con el emblema del cuervo y la espada que aparecía y desaparecía entre las tormentas del hiperespacio sin pagar tributo a nadie. Pero desapareció en una anomalía cósmica hace veintiún años. Nadie ha vuelto a ver su rastro desde entonces. ¿Por qué lo preguntas?
+—¿Keiden Ashton? ¿El *Capitán sin Puerto*? Todos los marinos de los Capitanes Libres han oído hablar de él, muchacha. Es casi una leyenda mítica en el Vasto. Dicen que comandaba un navío con el emblema del cuervo y la espada que aparecía y desaparecía entre las tormentas del hiperespacio sin pagar tributo a nadie. Pero desapareció en una anomalía cósmica hace diecinueve años. Nadie ha vuelto a ver su rastro desde entonces. ¿Por qué lo preguntas?
 
 Triel palideció levemente. Sus ojos carmesíes se nublaron por un instante:
 
-—Veintiún años... Es exactamente mi edad.
+—Diecinueve años... Es exactamente mi edad.
 
 —Es una historia para viejos en las tabernas de la Diáspora, muchacha —respondió Thiable con una palmada paternal en el hombro—. Si buscas fantasmas, el Vasto está lleno de ellos. Pero si alguien sabe qué fue de su nave, es el Capitán Bonet; él navegó con los veteranos de esa era.
 
@@ -102,7 +102,7 @@ Al abrirla, la esfera de ámbar pulsante iluminó la cabina con un cálido respl
 
 —Keiden Ashton no es una leyenda para mí —confesó Triel con la voz quebrada por la emoción—. **Keiden Ashton es mi padre**.
 
-Benrey abrió la boca sin emitir sonido. Axel parpadeó lentamente, registrando la revelación en su procesador central con absoluta atención.
+Benrey abrió la boca sin emitir sonido, perplejo ante la confesión. Axel parpadeó lentamente, procesando los nuevos parámetros genealógicos. Solo Marloc permaneció en calma, dedicándole un leve asentimiento comprensivo: el tecnomante custodiaba aquel secreto con lealtad desde la noche en la terraza del hotel Las Lunas en Absalón, y había esperado en silencio el momento en que Triel se sintiera con fuerzas para compartirlo con el resto de la tripulación.
 
 —Mi madre era una drow de alta cuna en Apostae —continuó Triel, acariciando la esfera con dedos reverentes—. Para su familia noble, tenerme a mí, una mestiza de sangre humana, era una deshonra imperdonable. Me trataron como a una escoria durante toda mi infancia. Lo único que me mantuvo en pie fue esta esfera que mi abuela me entregó en secreto antes de morir, diciéndome que mi padre era un capitán humano del Vasto que me amaba y que algún día vendría a buscarme.
 

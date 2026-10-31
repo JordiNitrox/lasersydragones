@@ -38,7 +38,7 @@ Comprobando que su líder yacía inconsciente y desangrándose en el suelo, los 
 
 El grupo cruzó la puerta trasera a la carrera, desembocando en el callejón de servicio que daba al estacionamiento de los camiones de carga.
 
-Allí, con el limpiaparabrisas barriendo frenéticamente la lluvia torrencial y el motor eléctrico zumbando en ralentí, los esperaba el pequeño coche turquesa de Sophie Ren. La estudiante lashunta se asomó por la ventanilla con el rostro crispado por el pánico:
+Allí, con el limpiaparabrisas barriendo frenéticamente la lluvia torrencial y el motor eléctrico zumbando en ralentí, los esperaba el pequeño coche turquesa de Sophie Ren. La joven estudiante shirren se asomó por la ventanilla con sus antenas crispadas por el pánico:
 
 —¡Oí las explosiones y los disparos desde la esquina! ¡Suban, suban rápido!
 
@@ -46,7 +46,7 @@ Allí, con el limpiaparabrisas barriendo frenéticamente la lluvia torrencial y 
 
 La androide abrió la puerta del conductor de un tirón y, en una maniobra acrobática asombrosa, pasó una pierna por encima de la estudiante, desplazándola con firmeza hacia el asiento del copiloto mientras sus manos de aleación se cerraban sobre el volante.
 
-Benrey, Triel, Marloc y Tuwanas En se embutieron como pudieron en el asiento trasero. El espacio era tan ridículamente estrecho que los bigotes de Benrey quedaron aplastados contra la nuca de Tuwanas, mientras la rodilla mecánica de Marloc presionaba las costillas de Triel contra la ventanilla derecha.
+Benrey, Triel, Marloc y Tuwanas En se embutieron como pudieron en el asiento trasero. El espacio era tan ridículamente estrecho que los bigotes de Benrey quedaron aplastados contra la nuca de Tuwanas, mientras el codo cibernético de Marloc presionaba las costillas de Triel contra la ventanilla derecha.
 
 —¡Cierren las puertas! —gritó Axel.
 
@@ -76,7 +76,7 @@ Marloc Boosmar, apretujado en el centro del asiento trasero, evaluó la situaci�
 
 —Las balas convencionales apenas rozarán su blindaje compuesto, tripulación. Necesitamos desestabilizar su control de tracción.
 
-El tecnomante sacó su brazo derecho por encima del hombro de Benrey, apuntando directamente hacia el parabrisas blindado del *warwagon*. Con un susurro arcano y un chasquido de sus dedos metálicos, canalizó su conjuro predilecto: **Grasa**.
+El tecnomante sacó su brazo izquierdo por encima del hombro de Benrey, apuntando directamente hacia el parabrisas blindado del *warwagon*. Con un susurro arcano y un chasquido de sus dedos metálicos, canalizó su conjuro predilecto: **Grasa**.
 
 Una densa capa de aceite arcano hiperdeslizante brotó instantáneamente sobre el volante y los paneles de control del piloto enemigo en el interior de su cabina sellada. A través del cristal agrietado se vio al conductor ryphoriano perder el agarre del volante, resbalando cómicamente hacia un lado mientras el blindado comenzaba a dar bandazos erráticos de un carril a otro.
 

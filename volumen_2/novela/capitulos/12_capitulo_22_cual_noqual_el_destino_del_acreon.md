@@ -8,27 +8,27 @@ Axel 42 accionó el reproductor de la consola de mando. Con un parpadeo de part�
 
 La grabación mostraba el comedor del carguero. Sentada a la mesa principal, mirando directamente a la cámara con seriedad indómita, aparecía la capitana **Elba Sohar**. Era una enana de piel muy oscura, casi negra como el carbón, con la cabeza rasurada a excepción de un mechón central teñido que caía hacia su frente. Sus labios estaban pintados de negro y el mono de vuelo abierto dejaba al descubierto una camiseta sin mangas y, sobre su pecho, el tatuaje del engranaje alado del Colectivo Hardscrabble.
 
-—*«Bitácora de la capitana Elba Sohar, 29 de Erastus»* —comenzó con voz áspera pero templada—. *«Nuestro ingeniero jefe Olier realizó una modificación no autorizada en las coordenadas de entrada al Drift. El piloto Harbar asegura que el desvío es mínimo, pero Olier insiste en que una revelación en sueños le garantiza que hallaremos algo trascendental en este vector. La piloto Alara lo considera un experimento fascinante... En cualquier caso, ya estamos en el hiperespacio.»*
+—*«Bitácora de la capitana Elba Sohar, 29 de Erastus»* —comenzó con voz áspera pero templada—. *«Nuestro ingeniero jefe Olier realizó una modificación no autorizada en las coordenadas de entrada al Drift. El primer oficial Arvath asegura que el desvío es mínimo, pero Olier insiste en que una revelación en sueños le garantiza que hallaremos algo trascendental en este vector. La piloto Alara lo considera un experimento fascinante... En cualquier caso, ya estamos en el hiperespacio.»*
 
-En ese instante, una figura colosal irrumpió en el comedor haciendo temblar el suelo metálico. Era la artillera vesk **Mago**: una hembra gigantesca de piel escamosa azul violácea, dos palmos más alta que cualquier humano, con una bandana roja anudada en la cabeza y brazos como troncos de árbol bajo su camiseta blanca. Mago apartó de un empujón al oficial de comunicaciones Danver —un enano de pelo y barba bermejos con las puntas teñidas de blanco— y abrió el arcón frigorífico con un rugido:
+En ese instante, una figura colosal irrumpió en el comedor haciendo temblar el suelo metálico. Era la artillera vesk **Mago**: una hembra gigantesca de piel escamosa azul violácea, dos palmos más alta que cualquier humano, con una bandana roja anudada en la cabeza y brazos como troncos de árbol bajo su camiseta blanca. Mago apartó de un empujón al oficial de comunicaciones Orin Thunder —un enano de pelo y barba bermejos con las puntas teñidas de blanco— y abrió el arcón frigorífico con un rugido:
 
 —*«¿Dónde están mis huevos? ¡Necesito mis proteínas de combate! Si alguien se comió mis raciones, ¡le arrancaré la cabeza y me comeré sus sesos!»*
 
 —*«¡Suficiente, Mago, estoy grabando!»* —la reprendió Elba Sohar con un bufido, cortando la transmisión entre murmullos de la tripulación. Al fondo se distinguía al joven Olier, con la cabeza rapada, dibujando febrilmente en su cuaderno junto a la primera oficial lashunta, cuya larguísima trenza le descendía hasta la cintura.
 
-Axel activó el segundo archivo, fechado el 30 de Erastus. La escena se desarrollaba en la bahía de carga: Danver y Mago apilaban varias geodas oscuras de superficie metálica rugosa bajo la supervisión de la capitana.
+Axel activó el segundo archivo, fechado el 30 de Erastus. La escena se desarrollaba en la bahía de carga: Orin Thunder y Mago apilaban varias geodas oscuras de superficie metálica rugosa bajo la supervisión de la capitana.
 
 —*«Hallamos un asteroide flotando en una bolsa de vacío del Drift»* —explicaba Elba con una sonrisa victoriosa—. *«Las muestras confirman que estas geodas son de Noqual puro. Estimamos un valor inicial de entre cuatro mil y cinco mil créditos. La intuición de Olier era acertada: ¡somos ricos!»* En la imagen, la gigantesca vesk levantaba a Olier en vilo celebrando entre carcajadas, mientras la lashunta le plantaba un beso en la mejilla al emocionado muchacho.
 
 El tercer vídeo cambió drásticamente de tono.
 
-La capitana Sohar aparecía en el puente de mando, pálida como la cera, empapada en sudor frío y con la respiración entrecortada. Al fondo, el oficial Harbar yacía vendado sobre un charco de sangre, mientras Olier sollozaba deshecho contra un mamparo:
+La capitana Sohar aparecía en el puente de mando, pálida como la cera, empapada en sudor frío y con la respiración entrecortada. Al fondo, el oficial Arvath yacía vendado sobre un charco de sangre, mientras Olier sollozaba deshecho contra un mamparo:
 
 —*«Las geodas no eran minerales... Eran crisálidas. Bestias del vacío... Akatas. Salieron de los capullos en mitad de la noche. Mordieron a varios de nosotros. Mis oficiales están ardiendo en fiebre. Y no es solo eso... Hay algo más en la nave. Una sombra que se mueve entre las cubiertas. La piloto Alara se encerró con una trampa en la bodega y murió en el asedio. Vamos a intentar purgar la nave despresurizando las cubiertas... Que los dioses nos amparen.»*
 
 El cuarto y último archivo estaba filmado desde la esclusa de popa.
 
-El viento del desahogo atmosférico aullaba en el registro mientras Harbar y el enano Danver, enfundados en pesadas escafandras cerradas, se enganchaban con mosquetones a los titánicos cables de remolque que conectaban el carguero con la Roca del Drift. Elba Sohar gritaba buscando desesperadamente a Olier, cuando de improviso un Akata saltó sobre ella derribándola contra el marco.
+El viento del desahogo atmosférico aullaba en el registro mientras Arvath y el enano Orin Thunder, enfundados en pesadas escafandras cerradas, se enganchaban con mosquetones a los titánicos cables de remolque que conectaban el carguero con la Roca del Drift. Elba Sohar gritaba buscando desesperadamente a Olier, cuando de improviso un Akata saltó sobre ella derribándola contra el marco.
 
 En una fracción de segundo, la vesk Mago cargó como una fiera, embistiendo a la bestia con su propio cuerpo. Con el visor bañado en sangre, Mago levantó a la capitana herida en brazos y la enganchó al cable de tracción con un bramido que traspasó los intercomunicadores:
 
@@ -42,7 +42,7 @@ Mago disparó dos ráfagas finales con su rifle hacia la compuerta, arrojó el a
 
 El silencio que siguió a la proyección fue sepulcral.
 
-—Cuatro sobrevivieron a la evacuación del pecio —murmuró Benrey, bajando las orejas—. La capitana, la vesk Mago, Danver y Harbar consiguieron descolgarse por los cables hasta la roca. Pero estaban infectados...
+—Cuatro sobrevivieron a la evacuación del pecio —murmuró Benrey, bajando las orejas—. La capitana, la vesk Mago, Orin Thunder y Arvath consiguieron descolgarse por los cables hasta la roca. Pero estaban infectados...
 
 Triel no respondió de inmediato. Sus ojos carmesíes se habían fijado en el rostro de Axel y en la postura rígida de Marloc.
 
@@ -138,7 +138,7 @@ El ysoki aplastó el conmutador de radio con el puño. La pantalla se apagó de 
 
 ### IV. El umbral de la Roca del Drift
 
-Con el *Acreon* pacificado y Willy y Naru apostados a bordo del *Hippocampus* custodiando el sarcófago de Eox con órdenes de disparar a cualquiera que no fuera de la tripulación, los cuatro aventureros se enfundaron sus escafandras y salieron a la intemperie del casco de popa.
+Con el *Acreon* pacificado, el plan original de dejar a Willy y Naru a bordo del *Hippocampus* custodiando el sarcófago de Eox quedó rápidamente descartado: ante la perspectiva de quedarse a solas en la bodega con aquella tumba milenaria, los dos goblins se negaron en redondo entre chillidos de pavor supersticioso. Embutidos a la fuerza en trajes de vacío improvisados —tres tallas más grandes, con cascos esféricos que bailaban sobre sus cabezas y parches de cinta industrial—, ambos se aferraron con uñas y dientes al equipo. Los cuatro aventureros y sus dos singulares reclutas se enfundaron sus escafandras y salieron a la intemperie del casco de popa.
 
 Antes de emprender el cruce por los cables, Triel y Marloc ejecutaron un barrido analítico de alta resolución sobre el asteroide mediante los sensores de largo alcance de su nave.
 
@@ -154,7 +154,7 @@ En la holopantalla, uno de los lados de la gigantesca mole negra presentaba una 
 
 Allí, encajada en el fondo de una grieta escarpada y envuelta en columnas de gas residual congelado, descansaba la silueta destrozada de la corbeta corsaria *Insinuación Mortal*. La nave que **Clara 247** había pilotado para emboscarlos en el muelle yacía partida en dos contra las rocas basálticas. Su rival se había estrellado allí abajo tras el combate naval.
 
-El grupo aseguró sus mosquetones magnéticos a los cinco colosales cables de acero trenzado que unían el carguero con la masa del asteroide. Uno tras otro, avanzaron en suspensión ingrávida sobre el abismo negro del espacio, deslizándose a pulso sobre el cable principal mientras las estrellas giraban en silencio a su alrededor.
+El grupo aseguró sus mosquetones magnéticos a los cinco colosales cables de acero trenzado que unían el carguero con la masa del asteroide. Uno tras otro, con Willy y Naru sujetos entre chillidos excitados a los arneses de Axel y Triel, avanzaron en suspensión ingrávida sobre el abismo negro del espacio, deslizándose a pulso sobre el cable principal mientras las estrellas giraban en silencio a su alrededor.
 
 Al poner las botas sobre la superficie lisa de la roca, la vibración milenaria del suelo reverberó en sus armaduras.
 

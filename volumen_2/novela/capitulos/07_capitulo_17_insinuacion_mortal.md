@@ -80,7 +80,7 @@ La salva doble del *Hippocampus* fue devastadora. Los dos rayos de energía conv
 
 En la holopantalla de comunicaciones, la imagen de Clara 247 parpadeó entre densas cortinas de interferencias y humo negro:
 
-—*«...Sistemas apagados... Propulsión muerta... Maldita sea...»*
+—*«Sistemas apagados... Propulsión muerta... Maldita sea...»*
 
 Benrey se abalanzó sobre el micrófono del emisor:
 
@@ -98,7 +98,7 @@ El silencio volvió a adueñarse del puente del *Hippocampus*. Las respiraciones
 
 —Que se quede congelada en esa roca —masculló Triel, secándose el sudor de la frente con alivio—. Buen disparo, profesor. Y buena puntería, Gerty.
 
-—*De nada, usuaria Triel* —respondió el meca por los altavoces—. *He registrado la destrucción de la unidad hostil en mi banco de memoria bajo la etiqueta: "Satisfactorio".*
+—*De nada, Triel* —respondió el meca por los altavoces—. *He registrado la destrucción de la unidad hostil en mi banco de memoria bajo la etiqueta: "Satisfactorio".*
 
 Axel redujo la potencia de los propulsores principales y comenzó la aproximación final hacia su verdadero objetivo.
 

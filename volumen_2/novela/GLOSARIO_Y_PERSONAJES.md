@@ -33,7 +33,7 @@ De piel grisácea con suave tonalidad lila, cabellos níveos y ojos carmesíes b
 
 ### Gerty
 *Dron de Soporte y Combate Táctico (Voz: Roberto)*  
-Unidad bípeda pesada de dos metros de altura con cúpula acristalada, cañón láser de asalto y calcomanías infantiles en el chasis. En este volumen recibe mejoras mecánicas significativas (dos brazos manipuladores adicionales dotados de motricidad fina), aunque mantiene sus clásicos reinicios estilo "Windows 95", su mordaz desprecio hacia la fragilidad de los seres orgánicos y su paranoia constante ante los goblins que intentan desmontarle piezas.
+Unidad bípeda pesada de dos metros de altura con cúpula acristalada, cañón láser de asalto y calcomanías infantiles en el chasis. En este volumen recibe mejoras mecánicas significativas (dos brazos manipuladores adicionales dotados de motricidad fina), aunque mantiene sus clásicos reinicios estilo *Windows 95*, su mordaz desprecio hacia la fragilidad de los seres orgánicos y su paranoia constante ante los goblins que intentan desmontarle piezas.
 
 ### Marloc Boosmar
 *Tecnomante Humano (Jugador: Juan Pablo)*  
@@ -69,7 +69,7 @@ Oficial del cuerpo de pacificadores espaciales asignado a la supervisión y moni
 
 ### Oficial Monroe
 *Oficial de Campo de los Protectores*  
-Mando de intervención rápida en la Espiga (*The Spike*). Encargado de coordinar el precinto policial del Club Fusión y atender a los medios de comunicación (noticiero *Noticias en Movimiento*) tras la desarticulación de la red de tráfico clandestino de Ferani Nadaz.
+Mando de intervención rápida en la Espiga (*The Spike*). Encargado de coordinar el precinto policial del Club Con-Fusión y atender a los medios de comunicación (noticiero *Noticias en Movimiento*) tras la desarticulación de la red de tráfico clandestino de Ferani Nadaz.
 
 ### Anastasio Oryander
 *Delegado de Seguridad y Mando Psíquico de Absalón*  

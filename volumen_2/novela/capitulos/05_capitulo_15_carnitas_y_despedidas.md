@@ -16,7 +16,7 @@ Triel entrecerró los ojos en la penumbra. Sus sentidos entrenados en la Diáspo
 
 El vídeo se apagó de golpe, la sala recuperó su luz blanca quirúrgica y una compuerta lateral se abrió.
 
-Por ella entró la señorita George.
+Por ella entró una elegante ejecutiva de la corporación.
 
 La ejecutiva de Extracciones Estelares era una lashunta de presencia impecable. Su piel de una suave tonalidad ambarina contrastaba con un traje sastre gris carbón de corte sobrio pero carísimo, y sobre su sien izquierda descansaba un estilizado visor de datos cuántico con auricular integrado. Sus largas antenas craneales, finas y alertas, se curvaron con calculada deferencia al contemplar al variopinto pelotón de mediadores.
 
@@ -118,7 +118,7 @@ Rim Rey bajó las orejas con un gesto a medio camino entre el orgullo herido y l
 
 Benrey suspiró, recordando su juventud compartida:
 
-—Primo, nos criamos juntos en las calles polvorientas de Akiton desde que teníamos diez años. Hace apenas dos meses que salimos huyendo de ese planeta agonizante para buscar un futuro en Absalón. Conozco a esa gente corporativa; no regalan quinientos créditos por cortesía.
+—Primo, nos criamos juntos en las calles polvorientas de Akiton desde que teníamos diez años. Y después de la pesadilla de la Fosa Negra en Triaxus, sabes bien por qué tuvimos que salir huyendo hacia Absalón para buscar un futuro. Conozco a esa gente corporativa; no regalan quinientos créditos por cortesía.
 
 Rim desvió la mirada y extrajo de debajo del banco de trabajo un maletín metálico sellado con un lector biométrico:
 
@@ -128,7 +128,7 @@ Al abrir el maletín, la tripulación se inclinó sobre el acolchado térmico. E
 
 Benrey insertó el chip en su terminal de muñeca. En el holoproyector apareció el rostro afilado y sonriente de **Marcellus**, el productor y editor estrella de Canal Atmos:
 
-—*«Benrey, muchacho... Estamos en negocios. ¿Cómo marcha ese asunto clasificado en el Acreon? Espero metraje de primera pronto. Te envío este equipo de grabación de grado broadcast para que no vuelvas a perderte una buena persecución policial. Tengo mucho material que editar para tu próximo especial en la red. Mucha suerte en el pecio... Nos estamos hablando.»*
+—*«Benrey, muchacho... Estamos en negocios. ¿Cómo marcha ese asunto clasificado en el Acreon? Espero metraje de primera pronto. Te envío este equipo de grabación de grado broadcast para sustituir esa cámara barata pegada con cinta adhesiva al hombro de tu dron; no quiero que vuelvas a perderte una buena toma. Tengo mucho material que editar para tu próximo especial en la red. Mucha suerte en el pecio... Nos estamos hablando.»*
 
 Marloc frunció el ceño, observando la holotransmisión con suspicacia:
 

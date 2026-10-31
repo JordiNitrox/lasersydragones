@@ -280,7 +280,7 @@ Eclair suspiró en el proyector, pasando una mano de luz sobre sus circuitos tem
 
 —*Axel... las cosas se están poniendo muy difíciles en la estación. Null-9 y los sectores más radicales del Frente de Liberación Androide están hablando de represalias armadas directas contra los almacenes de la compañía. Hay demasiada rabia en las calles. Si esto estalla, los Protectores no dudarán en declararnos una amenaza terrorista colectiva.*
 
-—Null-9 es impulsivo —coincidió Axel—. La fuerza ciega solo provocará el endurecimiento de las leyes de manufactura. Necesitamos pruebas, astucia y posiciones estratégicas.
+—Null-9 es impulsiva —coincidió Axel—. La fuerza ciega solo provocará el endurecimiento de las leyes de manufactura. Necesitamos pruebas, astucia y posiciones estratégicas.
 
 —*Siempre tan analítica...* —sonrió Eclair débilmente a través de la estática de la transmisión—. *Me alegra tanto oír tu voz de nuevo, Axel. Por favor, prométeme que nos veremos pronto. Necesito verte en persona.*
 

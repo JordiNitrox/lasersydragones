@@ -144,9 +144,9 @@
 
 #### Eclair
 * **Especie:** Androide  
-* **Rol:** Activista de derechos sintéticos y amiga íntima de Marlene Boosmar y A.Xel 42  
+* **Rol:** Activista de derechos sintéticos y amigo íntimo de Marlene Boosmar y A.Xel 42  
 * **Aparición en volúmenes:** **Volumen 1, Volumen 2**  
-* **Descripción:** Androide sensible de cabello azul cobalto e iris dorados. Enlace clave entre los círculos clandestinos de la estación y Marlene. Contacta encriptadamente con Axel para advertirle sobre el peligro de radicalización armada de Null-9 y el Frente de Liberación Androide, acordando citas clandestinas en el Club 13.
+* **Descripción:** Varón androide de piel azul noche, circuitos de color naranja brillante y mirada serena. Enlace clave entre los círculos clandestinos de la estación y Marlene. Comparte un estrecho vínculo con Axel, a quien advierte sobre el peligro de radicalización armada de Null-9 y el Frente de Liberación Androide, antes de anunciar su decisión voluntaria de someterse a la renovación para ceder su chasis a una nueva alma sintética.
 
 #### Thalud
 * **Especie:** Dragonkin  
@@ -173,22 +173,22 @@
 * **Descripción:** Estibador del Anillo que despierta a Benrey en su camarote con las primicias sobre la reaparición del carguero *Acreon*.
 
 #### Silo y Luigi
-* **Especie:** Humana (Silo) / Ysoki (Luigi)  
+* **Especie:** Androide (Silo) / Ysoki (Luigi)  
 * **Rol:** Tahúres habituales de las mesas clandestinas del Club 13  
 * **Aparición en volúmenes:** **Volumen 1**  
-* **Descripción:** Silo (contrabandista de trenzas fucsia fosforescentes) y Luigi (viejo minero desdentado y experto en dados) disputan la partida de cartas cuánticas con D-52 en la que la tripulación descubre el rastro de Eclair.
+* **Descripción:** Silo (operaria androide de llamativas trenzas fucsia fosforescentes y ojos plateados) y Luigi (viejo minero ysoki desdentado y experto en dados) disputan la partida de cartas cuánticas con D-52 en la que la tripulación descubre el rastro de Eclair.
 
 #### Sophie Ren
-* **Especie:** Lashunta (damaya)  
-* **Rol:** Estudiante guía de la Universidad de Qabarat  
-* **Aparición en volúmenes:** **Volumen 4**  
-* **Descripción:** Joven afable que asiste a la tripulación en Qabarat a bordo de su sacrificado compacto de alquiler.
+* **Especie:** Shirren  
+* **Rol:** Investigadora posdoctoral y guía académica en la Universidad de Qabarat  
+* **Aparición en volúmenes:** **Volumen 2, Volumen 4**  
+* **Descripción:** Entusiasta shirren que defendió su tesis doctoral *Magna Cum Laude* sobre física de agujeros negros y criaturas extraplanares en el Arcanamirium de Absalón (Vol. 2). Posteriormente obtuvo una estancia de investigación posdoctoral en la Universidad de Qabarat bajo la tutela de la Decana Muhali (Vol. 4), donde ejerce de anfitriona institucional para la tripulación y de audaz conductora de escape a bordo de su modesto utilitario compacto turquesa.
 
-#### Decana Muhali
+#### Decana Sava Muhali
 * **Especie:** Kasatha (cuatro brazos)  
 * **Rol:** Decana de la Universidad de Qabarat  
 * **Aparición en volúmenes:** **Volumen 4, Volumen 5, Volumen 6 (gratitud institucional)**  
-* **Descripción:** Dignataria académica que contrata oficiosamente a la tripulación para rescatar a Solstarni y salda con gratitud infinita la deuda tras su exitoso regreso.
+* **Descripción:** Dignataria académica kasatha que contrata oficiosamente a la tripulación para rescatar a la doctora Solstarni y salda con gratitud infinita la deuda institucional tras su exitoso regreso a Qabarat.
 
 #### Casonas y Thiable
 * **Especie:** Lashuntas  
@@ -207,10 +207,10 @@
 ### Antagonistas y Rivales
 
 #### Kallio
-* **Especie:** Drow (elfo oscuro)  
-* **Rol:** Francotirador profesional y asesino a sueldo de élite  
+* **Especie:** Humano  
+* **Rol:** Francotirador profesional y asesino a sueldo  
 * **Aparición en volúmenes:** **Volumen 1**  
-* **Descripción:** Sicario implacable contratado en secreto por Extracciones Estelares para abatir a Marlene Boosmar de un disparo certero al pecho en el Muelle 94, desatando la guerra de bandas entre los Reyes del Nivel 21 y los 21 Watts.
+* **Descripción:** Joven humano de tez marcada y cabello claro, sicario a sueldo contratado por el enlace drow de Extracciones Estelares para abatir a Marlene Boosmar de un disparo certero al pecho en el Muelle 94, desatando la guerra de bandas entre los Reyes del Nivel 21 y los 21 Watts.
 
 #### Ferani Nadaz y Brock Hilario «el Rompeportones»
 * **Especie:** Humana cibernética (Ferani) / Vesk (Brock)  

@@ -10,7 +10,7 @@ Benrey fue convocado a uno de los despachos privados por su primo Rim Rey. Al cr
 
 —¿Problema de imagen? —protestó el ysoki, abriendo los brazos con indignación—. ¡Acabo de salir de un asteroide lleno de monstruos caníbales y hemos traído una nave legendaria!
 
-—*En el setenta por ciento del metraje, querido capitán, estás escondido detrás de una caja o flotando de espaldas con cara de pánico* —replicó el editor, mientras en pantalla aparecía un montaje despiadado que señalaba con círculos rojos a Benrey en retaguardia mientras Triel, Axel y Marloc despachaban a los enemigos en primer plano—. *El público de Absalón busca un héroe de acción arrojado, no un roedor tembloroso que da órdenes desde el techo. La semi-drow con su cañón, la androide con el rifle de precisión y el mago con su gabana se están comiendo tu fama. Si no empiezas a ponerte al frente en los tiroteos, la semana que viene nadie recordará tu nombre.*
+—*En el setenta por ciento del metraje, querido capitán, estás escondido detrás de una caja o flotando de espaldas con cara de pánico* —replicó el editor, mientras en pantalla aparecía un montaje despiadado que señalaba con círculos rojos a Benrey en retaguardia mientras Triel, Axel y Marloc despachaban a los enemigos en primer plano—. *El público de Absalón busca un héroe de acción arrojado, no un roedor tembloroso que da órdenes desde el techo. La semi-drow con su cañón, la androide con el rifle de precisión y el mago con su gabán se están comiendo tu fama. Si no empiezas a ponerte al frente en los tiroteos, la semana que viene nadie recordará tu nombre.*
 
 Benrey apretó los puños, con los bigotes vibrando de furia contenida:
 
@@ -28,11 +28,15 @@ El tecnomante se apoyó en la barandilla de cristal, escuchando con atención re
 
 —Tu padre —dedujo Marloc con suavidad.
 
-—Se llama Keiden Ashton —susurró Triel, con los ojos húmedos pero decididos—. Es un Capitán Libre. Un pirata de la Diáspora. Sé que sigue surcando los asteroides y juré que me haría un nombre como aventurera y mecánica para que se sienta orgulloso de mí cuando nos encontremos. Prométeme que esto quedará entre nosotros, Marloc.
+—Se llama Keiden Ashton —susurró Triel, con los ojos húmedos pero decididos—. Es un Capitán Libre. Un pirata de la Diáspora.
 
-El tecnomante posó su mano humana sobre el hombro de la joven con solemnidad fraternal:
+Con manos trémulas, la joven extrajo del bolsillo interior de su chaqueta una pequeña caja metálica, pulida y labrada con esmero. En su tapa destacaba un grabado inconfundible: una figura alada con una espada roja atravesando el centro, el blasón de una temida hermandad de corsarios. Al abrirla con un leve chasquido, reveló una esfera de ámbar rojizo, perfectamente esférica y translúcida, en cuyo núcleo pulsaba un brillo ígneo con el latido suave de una brasa viva.
 
-—Tienes mi palabra, Triel. Por mi honor como académico y como tu amigo: te ayudaré a encontrarlo cuando llegue el momento.
+—Es un artefacto arcano —añadió la mecánica, mostrándosela al tecnomante—. Sé que perteneció a su tripulación y que encierra un enigma que no logro descifrar sola. Juré que me haría un nombre entre las estrellas para que se sienta orgulloso cuando nos encontremos, pero necesito de tu ciencia para comprender lo que custodia esta esfera. Prométeme que esto quedará entre nosotros, Marloc.
+
+El tecnomante contempló el resplandor de la esfera con fascinación académica antes de posar su mano humana sobre el hombro de la joven con solemnidad fraternal:
+
+—Tienes mi palabra, Triel. Por mi honor como académico y como tu amigo: te ayudaré a desentrañar su misterio y a encontrarlo cuando llegue el momento.
 
 Al regresar al salón principal, la serenidad de Marloc se quebró de golpe.
 

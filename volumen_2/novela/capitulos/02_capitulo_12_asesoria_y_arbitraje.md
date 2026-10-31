@@ -22,7 +22,7 @@ Benrey tomó la tarjeta con dos dedos y la examinó con fingida reverencia antes
 
 En ese instante, la pantalla mural del despacho emitió un tono agudo y la imagen de Joana Jiménez, la presentadora estrella de *Noticias en Movimiento*, ocupó la transmisión:
 
-—*«Conectamos en directo con nuestra corresponsal Carne Yac desde los niveles inferiores de la Espiga, frente a las puertas del clausurado Club Fusión...»*
+—*«Conectamos en directo con nuestra corresponsal Carne Yac desde los niveles inferiores de la Espiga, frente a las puertas del clausurado Club Con-Fusión...»*
 
 La imagen cambió a una toma callejera tenuemente iluminada por las balizas rojas de la policía. Al fondo, agentes de seguridad escoltaban a un grupo de individuos andrajosos y desorientados hacia transportes de asistencia médica.
 
@@ -84,21 +84,21 @@ Triel rio a carcajadas, dándole una palmada en el hombro:
 
 A pocos metros de allí, sentada sobre una caja de repuestos navales, Axel 42 limpiaba meticulosamente la corredera de su pistola. La androide vestía su armadura ligera de combate, cuyas placas se ajustaban con elegancia biomecánica a su silueta esbelta. Sus ojos de iris digital rosado siguieron el trabajo de Triel hasta que la semi-drow guardó las herramientas y se acercó a sentarse a su lado.
 
-Triel se quitó el chaleco técnico de los *Free Captains* para sacudirle el polvo. El emblema desgastado de la calavera alada brillaba tenuemente bajo las lámparas halógenas.
+Triel se quitó el chaleco técnico de los *Free Captains* para sacudirle el polvo. El emblema desgastado de la calavera alada brillaba tenuemente bajo las lámparas halógenas. En realidad, aquella prenda la había conseguido por cuatro míseros créditos en una casa de empeños del Nivel 21 para ganarse el respeto de los matones callejeros y tapar su origen clandestino, pero le encantaba alimentar la leyenda de que era una corsaria implacable.
 
-—Oye, Axel... —comenzó Triel con timidez, mirando de reojo a la androide—. Antes escuché que mencionaste haber vivido algún tiempo en los asteroides de la Diáspora.
+—Oye, Axel... —comenzó Triel, mirando de reojo a la androide—. Antes escuché que mencionaste haber vivido algún tiempo en los asteroides de la Diáspora.
 
 —Afirmativo —respondió Axel con su tono medido y pausado—. Realicé labores de extracción y seguridad privada en varios asentamientos menores. Sectores X-21 y 332-40, principalmente.
 
-—¿Alguna vez... tuviste contacto con los capitanes libres? ¿Con los corsarios?
+—¿Alguna vez... tuviste contacto con los capitanes libres? ¿Con los corsarios de verdad?
 
 Axel ladeó ligeramente la cabeza, procesando la pregunta mientras sus circuitos faciales emitían un tenue fulgor rosado.
 
-—Conozco sus códigos y he visto sus naves atracar en los enclaves sin ley, pero nunca operé bajo su bandera. En la Diáspora abundan las leyendas sobre su honor pirata, aunque mi análisis de datos sugiere que la mayoría son simples forajidos con buen departamento de propaganda. —La androide clavó sus ojos en el parche de la chaqueta de Triel—. ¿Tienes familiares entre ellos?
+—Conozco sus códigos y he visto sus naves atracar en los enclaves sin ley, pero nunca operé bajo su bandera. En la Diáspora abundan las leyendas sobre su honor pirata, aunque mi análisis de datos sugiere que la mayoría son simples forajidos con buen departamento de propaganda. —La androide clavó sus ojos en el parche de la chaqueta de Triel—. ¿Tienes contactos reales entre ellos?
 
-Triel tragó saliva y desvió la mirada hacia el suelo metálico, apretando la tela del chaleco entre sus dedos.
+Triel reprimió una sonrisilla traviesa y apretó la tela desgastada del chaleco entre sus dedos, disimulando su diversión:
 
-—Algo así... Cuestiones personales que dejé atrás cuando escapé hacia Absalón. Tal vez algún día tenga que regresar a buscar respuestas. Si llega ese momento, me gustaría contar contigo. Conoces aquellos asteroides mejor que nadie.
+—Quién sabe... Digamos que me gusta que los matones lo piensen dos veces antes de meterse conmigo, y quién sabe si algún día me dará por reclamar un puesto en el vacío exterior. Pero si llega ese momento, me gustaría contar contigo. Conoces aquellos asteroides mejor que nadie.
 
 Axel guardó la pistola en la funda del muslo con un chasquido suave y se puso en pie.
 

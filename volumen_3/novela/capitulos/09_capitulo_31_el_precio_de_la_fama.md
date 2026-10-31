@@ -34,17 +34,17 @@ Una marea humana rugía tras las vallas de seguridad. Banderas con los emblemas 
 
 Al descender por la pasarela de la nave, el gentío se abalanzó sobre el cordón policial.
 
-Sin embargo, la multitud se abrió de golpe como las olas ante un rompeolas. Avanzando con paso marcial a través del gentío, asomó una imponente mujer de especie barathu, cuyo cuerpo vegetal cubierto de afiladísimas púas verdes servía de salvoconducto natural: era Carnegia, la reportera estrella de la cadena *Noticias en Acción*. Tras ella flotaba una medusa rosada de ojos múltiples que sostenía una cámara holográfica pesada con media docena de tentáculos flexibles.
+Sin embargo, la multitud se abrió de golpe como las olas ante un rompeolas. Avanzando con paso marcial a través del gentío, asomó una imponente mujer de especie ghoran, cuyo cuerpo vegetal cubierto de afiladísimas púas verdes y flores exóticas servía de salvoconducto natural: era Carne Yac, la reportera estrella de la cadena *Noticias en Movimiento*. Tras ella flotaba un operador barathu —una medusa bioluminiscente de ojos múltiples— que sostenía una cámara holográfica pesada con media docena de tentáculos flexibles.
 
-Carnegia plantó el micrófono a pocos centímetros del hocico de Benrey:
+Carne Yac plantó el micrófono a pocos centímetros del hocico de Benrey:
 
-—¡Buenas noches, Estación Absalón! Les habla Carnegia para *Noticias en Acción*, transmitiendo en directo desde el muelle noventa y cuatro. Me encuentro ante los legendarios supervivientes que abordaron el carguero *Acreon*, descendieron a las profundidades de la misteriosa Roca del Drift y han regresado a bordo de la mítica *Estrella Errante*. Capitán Benrey Galway... ¿cómo se siente al haber salvado la verdad de la conspiración más grande del año?
+—¡Buenas noches, Estación Absalón! Les habla Carne Yac para *Noticias en Movimiento*, transmitiendo en directo desde el muelle noventa y cuatro. Me encuentro ante los legendarios supervivientes que abordaron el carguero *Acreon*, descendieron a las profundidades de la misteriosa Roca del Drift y han regresado a bordo de la mítica *Estrella Errante*. Capitán Benrey Galway... ¿cómo se siente al haber salvado la verdad de la conspiración más grande del año?
 
 Benrey clavó la mirada directamente en la lente flotante con la maestría de un actor consagrado:
 
-—Fue una misión dura, Carnegia. Vimos cosas en ese asteroide que pondrían los pelos de punta al soldado más curtido del Pacto. Pero como capitán de esta tripulación, juré que no dejaríamos atrás la memoria de los mineros caídos. Somos profesionales, somos la tripulación de la *Estrella Errante*, y le aseguro a todo nuestro público que mientras estemos aquí, la verdad siempre saldrá a la luz. ¡No olviden suscribirse a mi canal personal y estar atentos a la línea oficial de camisetas de la misión!
+—Fue una misión dura, Carne Yac. Vimos cosas en ese asteroide que pondrían los pelos de punta al soldado más curtido del Pacto. Pero como capitán de esta tripulación, juré que no dejaríamos atrás la memoria de los mineros caídos. Somos profesionales, somos la tripulación de la *Estrella Errante*, y le aseguro a todo nuestro público que mientras estemos aquí, la verdad siempre saldrá a la luz. ¡No olviden suscribirse a mi canal personal y estar atentos a la línea oficial de camisetas de la misión!
 
-Carnegia giró el micrófono hacia Triel, cuyos ojos carmesíes brillaban bajo las luces de los focos:
+Carne Yac giró el micrófono hacia Triel, cuyos ojos carmesíes brillaban bajo las luces de los focos:
 
 —Triel Istrav... Se rumorea que usted es una semi-drow vinculada a las grandes casas corporativas de Apostae. ¿Cómo se siente una mujer de su linaje al luchar codo a codo en una causa que defiende a los obreros de la Diáspora?
 
@@ -54,13 +54,13 @@ Triel levantó la barbilla con altivez y orgullo:
 
 Los aplausos de la multitud retumbaron en la bóveda del hangar.
 
-Carnegia se volvió hacia Marloc, quien permanecía un paso por detrás con las manos metidas en los bolsillos de su gabán:
+Carne Yac se volvió hacia Marloc, quien permanecía un paso por detrás con las manos metidas en los bolsillos de su gabán:
 
 —Señor Marloc Boosmar... Los registros civiles de la estación carecen por completo de antecedentes sobre usted. Parece un erudito salido de la nada. ¿Quién es verdaderamente el hombre detrás de los conjuros que salvaron a esta tripulación?
 
 —Solo un hombre de ciencia, señorita reportera —respondió el tecnomante con serenidad enigmática—. Un estudioso de los misterios que el universo sepultó antes de la Brecha. La verdad no necesita de fama para existir, solo de mentes dispuestas a buscarla en las sombras.
 
-—Y finalmente... la enigmática Axel 42 —añadió Carnegia, enfocando a la androide.
+—Y finalmente... la enigmática Axel 42 —añadió Carne Yac, enfocando a la androide.
 
 Axel miró la cámara flotante durante dos segundos de silencio imperturbable:
 

@@ -18,8 +18,11 @@ Tras semanas en el silencio mortal del vacío, la tripulación regresa a la metr
 * **El Palacio de Justicia del Consejo de Síndicos:** Sala solemne donde tiene lugar el arbitraje definitivo entre el Colectivo Hardscrabble y Extracciones Estelares ante los magistrados y mandos de los Protectores.
 * **El Pulmón Negro:** La legendaria taberna obrera subterránea en las profundidades de la Espiga. Decorada con chapa de cargueros y presidida por el emotivo «Muro de los Caídos del Vacío», es el escenario de la gran celebración popular donde Marloc y el pelotón rinden homenaje a Marlene Boosmar, a Amelie y a los mineros del *Acreon*.
 
+### La Estrella Errante (*Sunrise Maiden*)
+Antigua corbeta de exploración de largo alcance clase Vagabundo, joya de ingeniería pre-Brecha legada formalmente por la capitana Moriko Nash en su última voluntad. Tras ser rescatada del hangar sellado en el corazón de la Roca del Drift, resistir la emboscada de la Flota de los Cuerpos y ser matriculada legalmente a nombre compartido de Axel 42, Benrey Galway, Marloc Boosmar y Triel Istrav en el Registro Civil Central de Absalón, se consolida como el cuartel permanente, transporte interestelar y verdadero hogar de la tripulación y sus amigoblins.
+
 ### La Nave Hippocampus (*El Caballito de Mar*)
-Nave ligera de transporte consolidada ya como el cuartel permanente y hogar de Benrey, Triel, Gerty, Marloc, Axel y sus dos agregados goblins, Willy y Naru.
+Lanzadera ligera de transporte fletada por Inversiones Estelares S.C. y los Protectores para realizar la aproximación inicial al *Acreon*. Tras cumplir su función y resistir el combate espacial contra Clara-247, sus protocolos automáticos la replegaron a los muelles de Absalón, cediendo su lugar a la *Estrella Errante*.
 
 ---
 
@@ -27,7 +30,7 @@ Nave ligera de transporte consolidada ya como el cuartel permanente y hogar de B
 
 ### Triel Istrav
 *Mecánica Semi-drow (Jugadora: Irene)*  
-De piel grisácea con destellos lila, cabellos blancos y ojos carmesíes. En este volumen, su maestría técnica resulta vital para descifrar los paneles de energía alienígena del complejo ancestral, calibrar las armas pesadas del grupo y coordinar a Gerty durante el brutal choque con el autómata de seguridad de la roca. Revela en secreto a Marloc su huida de Apostae y su anhelo de hallar a su padre biológico humano, el pirata de los Capitanes Libres **Keiden Ashton**. Tras la gran fiesta de bienvenida, inicia un apasionado e inesperado romance clandestino con el oficial León Anoxiar.
+De piel grisácea con destellos lila, cabellos blancos y ojos carmesíes. En este volumen, su maestría técnica resulta vital para descifrar los paneles de energía alienígena del complejo ancestral, calibrar las armas pesadas del grupo y coordinar a Gerty durante el brutal choque con el autómata de seguridad de la roca. Revela en secreto a Marloc su huida de Apostae y su anhelo de hallar a su padre biológico humano, el pirata de los Capitanes Libres **Keiden Ashton**, confiándole una enigmática caja metálica con una esfera de ámbar pulsante. Tras la gran fiesta de bienvenida, inicia un apasionado e inesperado romance clandestino con el oficial León Anoxiar.
 
 ### Gerty
 *Dron de Combate y Soporte Pesado (Voz: Roberto)*  
@@ -51,11 +54,11 @@ Androide de tez de porcelana blanca mate y líneas rosadas bioluminiscentes. Su 
 
 ### Moriko Nash
 *Exploradora Humana de Frontera y Capitana de la Estrella Errante (Caída en Misión)*  
-Intrépida exploradora estelar cuyo equipo desapareció años atrás en el Drift. Sus restos conservados en traje de vacío en las profundidades de la roca son hallados por la tripulación. Su datapad testamentario proporciona mapas del complejo ancestral, advierte sobre la naturaleza vampírica del Garaggakal y lega formalmente sus armas y derechos de salvamento a los aventureros.
+Intrépida exploradora estelar cuyo equipo desapareció setenta y cinco años atrás en el Drift. Sus restos conservados en traje de vacío en las profundidades de la roca son hallados por la tripulación. Su datapad testamentario proporciona mapas del complejo ancestral, advierte sobre la naturaleza vampírica del Garaggakal y lega formalmente su amada nave a los aventureros.
 
 ### El Garaggakal
 *Abominación Vampírica del Drift (Monstruo Clímax)*  
-Entidad cósmica depredadora nativa de las corrientes energéticas del Drift. Posee cuerpo cuadrúpedo de quiróptero monstruoso, alas membranosas, cola espinosa y una fauce que proyecta zarcillos capaces de succionar simultáneamente la energía vital de seres orgánicos y la carga de baterías tecnológicas. Acechaba atrapado en la Roca del Drift devorando a todo intruso.
+Entidad cósmica depredadora nativa de las corrientes energéticas del Drift. Posee cuerpo cuadrúpedo de quiróptero monstruoso, alas membranosas, cola espinosa y una fauce circular que proyecta zarcillos capaces de succionar simultáneamente la energía vital de seres orgánicos y la carga de baterías tecnológicas. Acechaba atrapado en la Roca del Drift devorando a todo intruso.
 
 ### El Guardián Robótico Ancestral
 *Constructo Militar Pre-Brecha*  
@@ -65,9 +68,9 @@ Colosal máquina de combate humanoide de aleaciones desconocidas que custodia el
 *Goblins Espaciales y Aliados Recurrentes*  
 Los dos náufragos rescatados del *Acreon* se convierten en miembros plenos de la expedición. Willy asombra a todos improvisando detonadores que agrietan las defensas del guardián ancestral, mientras Naru combate con una lealtad feroz junto a Axel. En Absalón, se convierten en la sensación extravagante de los noticieros.
 
-### Primer Oficial Aravat
-*Oficial del Acreon y Víctima del Vacío*  
-Primer oficial de la tripulación minera del *Acreon*. Trágicamente infectado por la plaga de las larvas de akata y convertido en el peligroso «zombi del vacío» que custodiaba las galerías de acceso a la Roca del Drift. Tras ser abatido con respeto por el pelotón, su placa identificativa es recuperada por Marloc para ser ofrendada a los mineros en *El Pulmón Negro*.
+### Primera Oficial Arvath
+*Oficial Lashunta del Acreon y Víctima del Vacío*  
+Primera oficial de la tripulación minera del *Acreon*. Distinguida mujer lashunta de larguísima trenza negra, trágicamente infectada por la plaga de las larvas de akata y convertida en el peligroso «zombi del vacío» que custodiaba las galerías de acceso a la Roca del Drift. Tras ser abatida con respeto por el pelotón, su placa identificativa es recuperada por Marloc para ser ofrendada a los mineros en *El Pulmón Negro*.
 
 ---
 
@@ -80,10 +83,6 @@ Mando de enlace y comunicaciones de los Protectores en la Estación Absalón. Ma
 ### Chiskisk
 *Comisionado y Directivo Shirren de Inversiones Estelares S.C.*  
 Con la información descifrada del datapad de Moriko Nash y los registros de navegación del *Acreon*, Chiskisk presenta un caso incontestable ante el Consejo de Síndicos, garantizando la inmunidad de la tripulación y el reconocimiento oficial de su labor de arbitraje neutral independiente.
-
-### Letrado Kaerom
-*Abogado Corporativo Vesk de Extracciones Estelares*  
-Pese a sus maniobras jurídicas y amenazas contractuales, sus argumentos son demolidos públicamente durante la audiencia del Consejo al revelarse los crímenes encubiertos de su compañía en el Nivel 21 y la inocencia del carguero minero.
 
 ### Capitán Otal Seris
 *Comandante del Colectivo Hardscrabble*  
@@ -109,3 +108,18 @@ Criatura necrófaga vestida con librea protocolaria y refinados modales cortesan
 *Jefa de relaciones institucionales, portavoz y asesora jurídica de Extracciones Estelares*  
 Ejecutiva lashunta de porte distinguido, piel de tono ambarino, peinado estricto y largas antenas siempre atentas. Viste trajes ejecutivos de corte impecable y lleva un visor de datos cuántico con auricular en la sien. Tras haber intentado previamente engatusar a la tripulación en el Volumen 2 con vídeos propagandísticos y una cómica cesta de tocador en las torres de El Ojo, comparece en este volumen ante el Gran Salón de Arbitraje de los Protectores como la principal portavoz y acusadora corporativa contra los mediadores. Sus argumentos contractuales son demolidos públicamente cuando Triel y Marloc demuestran que la Roca del Drift es una estructura militar y civil pre-Brecha sujeta a la Ley de Salvamento de Derelictos, y Benrey la abochorna frente a las gradas de los mineros sacando a relucir sus pases de cine caducos y sus jaboncitos de lavanda.
 
+### Profesor Ambrose Boosmar
+*Catedrático de Tecnociencias Arcanas y Lingüística Pre-Brecha (Arcanamirium)*  
+Erudito severo y aristocrático de Absalón, padre de Marlene Boosmar e imagen viva del progenitor que Marloc temió en su dimensión de origen. Convocado por Inversiones Estelares para analizar los glifos de la Roca del Drift, mantiene un gélido pero revelador encuentro con Marloc en la fiesta de *Las Lunas*, citándolo formalmente en el Arcanamirium para coordinar la próxima expedición hacia el Vasto.
+
+### Carne Yac (*Carnegia*)
+*Reportera Estrella de Noticias en Movimiento*  
+Corresponsal de especie ghoran cuyo cuerpo vegetal cubierto de espinas afiladas y flores exóticas le permite abrirse paso a través de las multitudes más densas. Acompañada por un operador barathu —una medusa bioluminiscente que maneja la cámara holográfica flotante con sus tentáculos—, intercepta a los protagonistas a su llegada al Muelle 94, realizando la primera gran entrevista en directo que catapulta al grupo a la fama mediática en toda la estación.
+
+### Marcellus
+*Productor y Editor Audiovisual de Transmisiones Atmos*  
+Agudo y cínico editor de holovídeos de Benrey en Absalón. Filtra clandestinamente las grabaciones del dron durante la misión en el *Acreon* y la Roca del Drift, convirtiendo al grupo en una sensación viral y orquestando la fastuosa fiesta de bienvenida en el ático de *Las Lunas*, al tiempo que presiona al ysoki para que adopte un perfil de héroe de acción más arrojado frente a las cámaras.
+
+### Rim Rey
+*Emisario Ysoki y Primo de Benrey Galway*  
+Leal pariente de Benrey en la Estación Absalón. Ferviente seguidor de sus andanzas, encabeza la comitiva de bienvenida en el Muelle 94 y acompaña a la tripulación en la limusina y en la suite del hotel *Las Lunas*, celebrando el triunfo con la euforia y complicidad característica del clan Galway.

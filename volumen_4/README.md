@@ -61,6 +61,6 @@ volumen_4/
 
 ## 4. Sinopsis Narrativa
 
-Con la victoria en el arbitraje de la Estación Absalón y la titularidad de la *Estrella Errante*, la tripulación encara el inicio del segundo gran arco de *Dead Suns*. Antes de zarpar hacia el planeta selva Castrovel, el grupo resuelve cuentas pendientes en Absalón: la visita nocturna al despacho del profesor Ambrose Boosmar en el Arcanamirium, el concierto masivo de rock espacial de Syd Velch (con Benrey en el *mosh pit*), el emotivo funeral de Estado de Marlene Boosmar y la despedida romántica entre Axel y el oficial León. 
+Con la victoria en el arbitraje de la Estación Absalón y la titularidad de la *Estrella Errante*, la tripulación encara el inicio del segundo gran arco de *Dead Suns*. Antes de zarpar hacia el planeta selva Castrovel, el grupo resuelve cuentas pendientes en Absalón: la visita nocturna al despacho del profesor Ambrose Boosmar en el Arcanamirium, el concierto masivo de rock espacial de Syd Velch (con Benrey en el *mosh pit*), el emotivo funeral de Estado de Marlene Boosmar y la despedida romántica entre Triel y el oficial León. 
 
 Al llegar a la metrópoli lashunta de Qabarat, las pesquisas para localizar a la prestigiosa arqueóloga secuestrada, la doctora Omejia Solstarni, desatan una frenética persecución automovilística contra comandos de la Legión del Fuego en el Cielo, alianzas con la tripulación corsaria de *La Venganza*, la expedición al santuario de Aiakos y el salto por el portal arcano hacia el inhóspito continente de Ukulam.

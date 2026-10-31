@@ -52,7 +52,7 @@ Durante las horas siguientes, Marloc y Triel se entregaron a un minucioso examen
 
 —Observa esto, Triel —dijo Marloc, introduciendo una microsonda en el receptáculo sellado de la esfera—. La materia contenida en el núcleo no responde a los estados convencionales de la física. Cuando roza las paredes interiores de la cápsula, se expande como un líquido de mercurio fosforescente, adaptándose a la geometría del contenedor. Pero si aplicamos una frecuencia de presión...
 
-El estudioso dio un toque sutil con una aguja de tungsteno contra la sustancia. Un sonido seco y cristalino resonó en la sala (*ting, ting*):
+El estudioso dio un toque sutil con una aguja de tungsteno contra la sustancia. Un tintineo seco y cristalino resonó en la sala:
 
 —Se vuelve sólida y rígida como el diamante. No es un compuesto químico; es una condensación de esencia planar proveniente del plano del caos o de un nodo dimensional ajeno a nuestra galaxia. Las notas de Ambrose Boosmar eran certeras: este artefacto es una llave de orientación cuántica, diseñada para sintonizarse con las líneas de energía del planeta que los antiguos llamaron el Corazón del Vacío.
 

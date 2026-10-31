@@ -4,7 +4,7 @@
 
 La mañana en los muelles de atraque de la Estación Absalón comenzó con una llamada de auxilio mecánico que amenazaba con derivar en crisis diplomática interna.
 
-Triel Istrav y Benrey Galway se personaron a paso ligero en el muelle de reparaciones donde el *Hippocampus*, con sus setenta y cinco años de fatiga estructural a cuestas, recibía una exhaustiva restauración de filtros, cableado y médula sintética en el casco. Un joven ingeniero humano los aguardaba al pie de la rampa de acceso con el rostro tiznado y los brazos en jarras:
+Triel Istrav y Benrey Galway se personaron a paso ligero en el muelle de reparaciones donde la *Estrella Errante*, con sus setenta y cinco años de fatiga estructural a cuestas tras su rescate en la Roca del Drift, recibía una exhaustiva restauración de filtros, cableado y médula sintética en el casco. Un joven ingeniero humano los aguardaba al pie de la rampa de acceso con el rostro tiznado y los brazos en jarras:
 
 —Menos mal que vienen, señores. Estábamos ajustando las toberas del motor principal y tuvimos que meternos por las escotillas secundarias de ventilación. Hay un... pequeño problema de inquilinos en las entrañas de la nave.
 
@@ -30,7 +30,7 @@ Naru se acercó a Triel con una taza de hojalata humeante, ofreciéndosela con u
 
 Benrey se asomó a la esquina indicada y soltó un silbido de admiración profesional. Entre cajas de plástico carcomidas por la humedad descansaban estatuas labradas, lienzos pintados al óleo de diferentes eras galácticas y piezas de orfebrería de alto valor histórico. El ysoki calculó mentalmente el botín: al menos cuatro mil créditos en antigüedades finas.
 
-—La sopa huele deliciosa, estimada Naru —dijo Benrey con cortesía exquisita, colocándose entre Triel y la olla antes de que la mecánica comenzara a disparar descargas de soldador sónico—, pero Triel tiene una predisposición genética desfavorable hacia la radiación en los caldos. Y sobre todo... este *Hippocampus* es un cascarón anciano y temperamental. Es demasiado peligroso para una familia de su calibre.
+—La sopa huele deliciosa, estimada Naru —dijo Benrey con cortesía exquisita, colocándose entre Triel y la olla antes de que la mecánica comenzara a disparar descargas de soldador sónico—, pero Triel tiene una predisposición genética desfavorable hacia la radiación en los caldos. Y sobre todo... esta *Estrella Errante* es un cascarón anciano y temperamental. Es demasiado peligroso para una familia de su calibre.
 
 Benrey se arrodilló a la altura de Willy, mirándolo con absoluta solemnidad:
 
@@ -132,19 +132,17 @@ Incapaz de soportar el peso de aquel laberinto dimensional, Marloc huyó del edi
 
 Entretanto, en los suburbios de la Espiga, Benrey Galway vivía su propio calvario.
 
-El periodista ysoki había acudido a una multitudinaria fiesta familiar donde decenas de primos, tías y parientes le atiborraban de comida grasienta y licor casero, felicitándolo por las exclusivas del *Acreon*. Sin embargo, en mitad de la algarabía, la atmósfera pareció espesarse.
+El periodista ysoki había acudido a una multitudinaria fiesta familiar donde decenas de primos, tías y parientes lo atiborraban de comida grasienta, guisos caseros y felicitaciones entusiastas por su fama tras el rescate en la Roca del Drift. La velada era el clásico torbellino ysoki: música a todo volumen, niños correteando entre las patas de las mesas y platos pasando de mano en mano.
 
-Al fondo del abarrotado salón, sentado en una esquina solitaria, Benrey divisó una figura en sombras de rasgos dragonoides que no encajaba en la fiesta. Un frío antinatural le caló los huesos. De pronto, un susurro gélido retumbó directamente en su corteza cerebral:
+Sin embargo, entre el jolgorio y los abrazos sofocantes de sus tías, la mirada de Benrey tropezó con una presencia insólita. Sentado al fondo de la sala, impávido en medio del caos roedor, se hallaba el veterano dragonkin **Thalud**, observándolo en silencio con sus antiguos ojos ambarinos.
 
-*«Los dejaste morir en la roca... Tú los mataste a todos, Benrey...»*
+Antes de que Benrey pudiera acercarse a hablar con él, dos primos pequeños chocaron contra la mesa central jugando a las carreras: una bandeja entera de frijoles negros y estofado salió volando, rociando de lleno la casaca y el pelaje del periodista en medio de carcajadas y disculpas a gritos.
 
-Antes de que pudiera desenfundar, una fuerza invisible y demoledora alzó al ysoki dos metros por el aire y lo estampó brutalmente contra la mesa central del banquete. La vajilla estalló en pedazos, manchando su casaca de salsa y caldo entre los alaridos de pánico de su familia.
+Despeinado, manchado de salsa y abrumado por el bullicio familiar, Benrey aprovechó el alboroto para deslizarse discretamente hacia la salida:
 
-Herido y enfurecido, Benrey se levantó a trompicones, empujó a sus primos que intentaban socorrerlo y salió disparado a la calle bajo la lluvia ácida de la Espiga:
+—¡Problemas familiares y exceso de frijoles! —farfulló para sí con una sonrisa resignada mientras intentaba limpiarse con una servilleta de papel—. Menos mal que el rock espacial lo perdona todo.
 
-—¡No fue mi culpa! ¡Maldita sea, nunca fue mi culpa! —bramó al vacío de la noche, con el corazón galopando desbocado.
-
-Tras limpiarse someramente en un servicio público, tomó un aerotaxi hacia el hotel para reunirse con Triel y Axel.
+Tras un rápido aseo en un servicio público de la estación, tomó un aerotaxi hacia el hotel para reunirse con Triel y Axel.
 
 ***
 

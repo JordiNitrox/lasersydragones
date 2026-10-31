@@ -16,7 +16,7 @@ Benrey Galway no esperó a que el sacerdote terminara su monólogo apocalíptico
 
 —Lo siento, amigo, pero tu apocalipsis tiene una falta de ortografía en el guión —dijo el emisario con un guiño socarrón—. ¡Un paso a la izquierda y fuego a discreción!
 
-El engaño funcionó con una precisión ridículamente efectiva. Tahomen parpadeó desconcertado, perdiendo la iniciativa por una fracción de segundo crítica.
+El engaño funcionó con una precisión ridículamente efectiva. Tahomen parpadeó desconcertado, perdiendo la ventaja táctica por una fracción de segundo crítica.
 
 ---
 

@@ -10,9 +10,9 @@ A través del visor astillado de su casco de vacío, los rasgos de un enano de b
 
 —¡Otro más! —gritó Benrey por el intercomunicador, desenfundando su pistola mientras se aferraba con las patas traseras a una grieta de la roca—. ¡Al oficial enano también lo cazaron las alimañas! ¡Apunten a la cabeza!
 
-El zombi de Orin no necesitó tocar el suelo. Impulsándose con una torsión espasmódica de sus piernas, se lanzó en línea recta hacia Gerty. De su garganta destrozada brotaba un apéndice azulado y látigoide que fustigaba el vacío con furia hambrienta.
+El zombi de Orin no necesitó tocar el suelo. Impulsándose con una torsión espasmódica de sus piernas, se lanzó en línea recta hacia Gerty. De su garganta destrozada brotaba un apéndice azulado y latigoide que fustigaba el vacío con furia hambrienta.
 
-—¡Mantengan la formación! —ordenó el ysoki—. ¡Concéntrense en el enano! ¡Get 'em!
+—¡Mantengan la formación! —ordenó el ysoki—. ¡Concéntrense en el enano! ¡A por él!
 
 El fuego concentrado del pelotón fue devastador. Willy y Naru, fascinados por la ferocidad del combate, dispararon al unísono sus armas caseras, logrando que dos proyectiles perforaran las rodilleras del zombi y frenaran su embestida. Axel esperó el instante exacto en que la criatura quedó expuesta en su trayectoria balística para descargar un proyectil de francotirador que arrancó parte del blindaje de su hombro.
 
@@ -20,15 +20,15 @@ Gerty dio el paso decisivo. El dron de combate plantó sus pies de hierro en el 
 
 Pero el peligro no había concluido.
 
-Desde la cornisa más alta del dintel, una segunda figura se deslizó con la agilidad felina de una veterana de mil abordajes. Vestía el uniforme desgarrado de capitana de la marina mercante, con las insignias doradas del Colectivo Hardscrabble aún prendidas sobre el pecho cubierto de escarcha. Sus uñas, engrosadas y ennegrecidas por la mutación parasitaria, asomaban afiladas a través de los guantes tácticos.
+Desde la cornisa más alta del dintel, una segunda figura se deslizó con la ferocidad indómita de una veterana de mil abordajes. Era una enana de complexión robusta, piel muy oscura como el carbón y la cabeza rasurada a excepción de un mechón central teñido, congelado por el frío del espacio. Vestía el mono desgarrado de capitana mercante con la cremallera abierta, dejando a la vista el tatuaje del engranaje alado del Colectivo Hardscrabble sobre su pecho. Sus uñas, engrosadas y ennegrecidas por la mutación parasitaria, asomaban afiladas a través de los guantes tácticos.
 
-Era la capitana Alhana Durenn.
+Era la capitana Elba Sohar.
 
-La mujer cuya voz serena y decidida los había guiado a través de las grabaciones del puente de mando yacía ahora convertida en una pesadilla del vacío. Sus ojos muertos ardían con un odio ciego mientras abría las fauces desarticuladas para proyectar el tentáculo azul de la larva que había usurpado su mente.
+La comandante enana cuya voz áspera pero templada los había guiado a través de las grabaciones del puente del *Acreon* yacía ahora convertida en una pesadilla del vacío. Sus labios pintados de negro se abrían en unas fauces desarticuladas de las que brotaba el tentáculo azul de la larva que había usurpado su mente.
 
-—Capitana... —susurró Triel con un nudo en la garganta, sintiendo una punzada de dolor al ver la degradación de aquella comandante ejemplar—. Lo lamento tanto...
+—Capitana Sohar... —susurró Triel con un nudo en la garganta, sintiendo una punzada de dolor al ver la degradación de aquella líder obrera—. Lo lamento tanto...
 
-Alhana saltó directamente hacia la posición de Triel.
+Elba saltó directamente hacia la posición de Triel.
 
 Gerty se interpuso en el último segundo. El impacto de la capitana contra el dron fue atroz; sus garras arañaron las placas de blindaje del pecho mientras el tentáculo bucal buscaba desesperadamente una hendidura por la que inyectar su veneno drenador. Chispas y virutas de pintura volaron en la gravedad cero.
 
@@ -36,7 +36,7 @@ Gerty se interpuso en el último segundo. El impacto de la capitana contra el dr
 
 El tecnomante descargó una ráfaga continua de pulsos mágicos desde su guantelete cibernético, mientras Triel, conteniendo las lágrimas tras el visor, sobrecargó su rifle láser por tercera vez en la jornada. El haz escarlata atravesó el pecho de la capitana, seguido por un devastador contragolpe de los puños hidráulicos de Gerty que cercenó definitivamente la cabeza del cadáver contra el dintel de la compuerta.
 
-El cuerpo de Alhana Durenn cayó sin vida sobre las losas de piedra.
+El cuerpo de Elba Sohar cayó sin vida sobre las losas de piedra.
 
 Axel se aproximó con lentitud. Con solemnidad militar, desprendió del uniforme de la capitana su placa de identificación dorada y una varilla de créditos con cuatrocientos setenta créditos acumulados, guardándolas junto a los efectos personales de Magot Trask y Orin:
 

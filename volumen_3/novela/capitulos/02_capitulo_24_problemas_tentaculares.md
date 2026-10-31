@@ -4,7 +4,7 @@
 
 Tras el enfrentamiento con Clara-247, el aire en el canal de comunicaciones del grupo se mantuvo en un silencio tenso durante largos minutos.
 
-Axel examinó el rifle de francotirador confiscado a la mercenaria. El arma era una obra maestra de balística táctica: un rifle de ánima rayada de aleación pesada, con culata retráctil de polímero negro y un cargador rotatorio diseñado para operar sin fricción en el vacío absoluto. La androide ajustó la correa a su hombro y calibró la mira telescópica holográfica directamente con sus implantes oculares; a partir de ese momento, bastaría un parpadeo para fijar un objetivo a más de doscientos metros de distancia.
+Axel examinó el rifle de francotirador confiscado a la mercenaria. El arma era una obra maestra de balística táctica: un rifle de ánima rayada de aleación pesada, con culata retráctil de polímero negro y un cargador rotatorio diseñado para operar sin fricción en el vacío absoluto. Junto al arma, el grupo había recuperado sus propulsores de salto, una extraña piedra mágica orbitante (*Aeon Stone*) y su terminal de comunicaciones táctico. Al inspeccionar este último, Triel había descubierto una anotación encriptada que le heló la sangre: *«Triel Istrav: capturar o herir, no matar»*. La joven semi-drow guardó el dispositivo sin decir palabra, devanándose los sesos ante la inquietante sospecha de que la larga mano de las casas corporativas de Apostae la estuviera rastreando incluso hasta aquel abismo.
 
 —¿Estás lista para avanzar, Axel? —preguntó Benrey, que terminaba de asegurar el dron de grabación sobre su hombrera mientras flotaba en ángulo sobre una saliente de basalto.
 
@@ -24,15 +24,15 @@ Empotrados directamente en las paredes de piedra, asomaban paneles lisos de una 
 
 ### II. El zombi del vacío
 
-El corredor se estrechaba hasta una galería de apenas cinco metros de ancho. Allí, recortada contra el resplandor azulado de los paneles cerámicos, flotaba una silueta humana vestida con los restos desgarrados de un traje de vuelo del Colectivo Hardscrabble.
+El corredor se estrechaba hasta una galería de apenas cinco metros de ancho. Allí, recortada contra el resplandor azulado de los paneles cerámicos, flotaba una esbelta silueta vestida con los restos desgarrados de un traje de vuelo del Colectivo Hardscrabble.
 
-A primera vista parecía otro desafortunado minero atrapado por la descompresión. Pero cuando el haz de luz de Gerty iluminó su rostro, un estremecimiento colectivo recorrió el comunicador del pelotón.
+A primera vista parecía otra desafortunada tripulante atrapada por la descompresión. Pero cuando el haz de luz de Gerty iluminó su rostro, un estremecimiento colectivo recorrió el comunicador del pelotón.
 
 El cadáver no tenía mandíbula inferior.
 
-La quijada había sido arrancada desde el interior de la garganta. En su lugar, brotaba de la cavidad bucal un tentáculo grueso y carnoso, de piel azulada y cubierta de ventosas retráctiles, que ondeaba en el vacío buscando presas a ciegas. La piel del rostro estaba tensa, cetrina y momificada, pero los ojos muertos brillaban con una maligna luminiscencia añil.
+La quijada había sido arrancada desde el interior de la garganta. En su lugar, brotaba de la cavidad bucal un tentáculo grueso y carnoso, de piel azulada y cubierta de ventosas retráctiles, que ondeaba en el vacío buscando presas a ciegas. La piel del rostro estaba tensa, cetrina y momificada, pero los ojos muertos brillaban con una maligna luminiscencia añil. De la base del cráneo colgaba, rígida y cubierta de escarcha, su característica y larguísima trenza negra.
 
-Era el primer oficial Aravat, del *Acreon*. La placa identificativa medio desprendida de su pechera confirmaba el nombre que figuraba en el manifiesto oficial de la tripulación. O más bien, la cáscara vacía de lo que había sido un hombre, ahora controlada por la larva de akata que había devorado su cerebro para utilizar su sistema nervioso como un títere biológico.
+Era la primera oficial Arvath, del *Acreon*. La placa identificativa medio desprendida de su pechera confirmaba el nombre que figuraba en el manifiesto oficial de la tripulación. O más bien, la cáscara vacía de lo que había sido la distinguida oficial lashunta, ahora controlada por la larva de akata que había devorado su cerebro para utilizar su sistema nervioso como un títere biológico.
 
 —¡Zombi del vacío! —exclamó Marloc, reconociendo el horror en sus tratados de misticismo—. ¡Cuidado con el tentáculo! Si impacta contra tejido orgánico, drenará la fuerza vital de sus músculos en segundos.
 
@@ -60,7 +60,7 @@ Fue Triel quien puso fin a la abominación.
 
 La semi-drow deslizó la palanca de sobrecarga de su rifle láser hasta el límite rojo. Con los ojos carmesíes ardiendo de concentración, descargó un haz de plasma continuo que envolvió la cabeza del zombi en una llamarada incandescente. La carne podrida y el parásito se desintegraron en una nube de ceniza gaseosa que se disipó al instante en la negrura del vacío.
 
-El cuerpo descabezado del primer oficial Aravat perdió toda tensión, flotando inerte hasta chocar suavemente contra la pared de basalto. Con gravedad y respeto, Marloc recuperó la placa identificativa para entregársela al Colectivo Hardscrabble.
+El cuerpo descabezado de la primera oficial Arvath perdió toda tensión, flotando inerte hasta chocar suavemente contra la pared de basalto. Con gravedad y respeto, Marloc recuperó la placa identificativa para entregársela al Colectivo Hardscrabble.
 
 ***
 
@@ -74,7 +74,7 @@ Durante unos segundos, lo único que se escuchó fue el silbido del soporte vita
 
 La reparación tomó media hora de minucioso trabajo en gravedad cero. Con la asistencia de Marloc, que utilizó pequeñas descargas estáticas de tecnomagia para alinear los circuitos quemados de la placa madre del meca, Gerty recuperó la movilidad plena en sus cuatro extremidades mecánicas.
 
-Mientras Triel terminaba de ajustar los últimos cables, Benrey y Axel revisaron el datapad con el manifiesto oficial del *Acreon* para tachar con pesar el nombre de Aravat de la lista de supervivientes. Luego, el bardo inspeccionó el material grabado por su dron flotante:
+Mientras Triel terminaba de ajustar los últimos cables, Benrey y Axel revisaron el datapad con el manifiesto oficial del *Acreon* para tachar con pesar el nombre de Arvath de la lista de supervivientes. Luego, el bardo inspeccionó el material grabado por su dron flotante:
 
 —Debo admitir, querida tripulación, que las tomas de combate son absolutamente cinematográficas. La entrada de Axel deslizándose por la pared, el rayo destructor de Triel... Aunque tendré que pedirle a mi editor en Absalón que recorte los tres minutos en los que me quedé atascado de espaldas intentando no vomitar en el visor. La épica espacial tiene sus exigencias de imagen.
 

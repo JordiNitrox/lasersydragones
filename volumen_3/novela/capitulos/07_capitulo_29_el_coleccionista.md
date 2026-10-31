@@ -10,7 +10,7 @@ La androide sintió cómo la vitalidad de sus componentes sintéticos era succio
 
 —¡Es un parásito vampírico! —gritó Axel, apoyando la espalda contra el fuselaje de la *Estrella Errante* para no desplomarse—. ¡Se alimenta de nuestra fuerza a distancia y regenera su tejido celular!
 
-—¡Aléjense de su línea visual! —ordenó Benrey, trepando con agilidad de roedor por las escalerillas de servicio de la nave hasta alcanzar la curvatura del ala superior—. ¡No dejen que concentre sus zarcillos en un solo objetivo! ¡Get 'em, muchachos! ¡Es vulnerable a la electricidad!
+—¡Aléjense de su línea visual! —ordenó Benrey, trepando con agilidad de roedor por las escalerillas de servicio de la nave hasta alcanzar la curvatura del ala superior—. ¡No dejen que concentre sus zarcillos en un solo objetivo! ¡Denles con todo, muchachos! ¡Es vulnerable a la electricidad!
 
 Desde lo alto del ala, el ysoki abrió fuego continuo con su pistola de choque, alcanzando el lomo del monstruo con chispas azuladas que le arrancaron un chillido sordo.
 

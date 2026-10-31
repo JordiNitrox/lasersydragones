@@ -68,19 +68,19 @@ El proyectil de alta velocidad impactó de lleno en la juntura del omoplato de A
 
 —¡Contacto! —bramó Axel por el enlace de radio, estabilizando su giro al chocar contra el saliente rocoso superior—. ¡Tirador apostado a cincuenta metros, en la cornisa del túnel superior!
 
-De la penumbra del techo surgió una silueta ágil y delgada, envuelta en un traje táctico reforzado con placas de fibra de carbono. Sostenía un rifle de precisión de largo alcance con mira termográfica. A través de la visera polarizada, Axel reconoció de inmediato el rostro pálido y los patrones luminiscentes de su agresora:
+De la penumbra del techo surgió una silueta ágil y delgada, envuelta en un traje táctico reforzado con placas de fibra de carbono. Sostenía un rifle de precisión de largo alcance con mira termográfica. A través de la visera polarizada, Axel reconoció de inmediato la mirada descarada, la melena rubia recogida bajo el casco y los patrones luminiscentes de su agresora:
 
-—Es Clara-247 —alertó Axel, con la voz templada por el cálculo de combate—. La francotiradora del muelle noventa y cuatro.
+—Es Clara-247 —alertó Axel, con la voz templada por el cálculo de combate—. La corsaria de la *Insinuación Mortal*. Sobrevivió al impacto de su nave en la roca.
 
-—¡Maldita sea! —chilló Benrey, impulsándose hacia abajo para pegarse a la pared con la cola tensa como una varilla de acero—. ¡¿Esa desgraciada sobrevivió a la estampida de los Bajos y nos estaba esperando aquí dentro?!
+—¡Maldita sea! —chilló Benrey, impulsándose hacia abajo para pegarse a la pared con la cola tensa como una varilla de acero—. ¡¿Esa desgraciada sobrevivió al derribo en el Drift y nos estaba esperando aquí dentro?!
 
 A través del intercomunicador general de banda ancha, la voz de Clara sonó clara y burlona, cargada de una estática granulada:
 
-—*Vaya, vaya... Miren a quiénes tenemos aquí. Mis queridos amigos del muelle de desembarco. Axel, cariño, te felicito por esquivar el primer disparo. Te aseguro que el segundo no se desviará.*
+—*Vaya, vaya... Miren a quiénes tenemos aquí. Mis queridos amigos del Hippocampus. Axel, cariño, te felicito por esquivar el primer disparo. Me arruinaron la nave allá afuera, pero te aseguro que este segundo proyectil no se desviará.*
 
-—¿Quién te envió, Clara? —interrogó Marloc, deslizándose suavemente a lo largo del techo mientras sus ojos se encendían con chispas de energía mágica latente—. Ya no estás en la Espiga. Estás atrapada en una tumba a millones de kilómetros de la civilización.
+—¿Quién te envió, Clara? —interrogó Marloc, deslizándose suavemente a lo largo del techo mientras sus ojos se encendían con chispas de energía mágica latente—. Ya no estás en las tabernas de la Espiga. Estás atrapada en una tumba a millones de kilómetros de la civilización.
 
-—*Los mismos que pagan mis cuentas en Absalón, profesor* —replicó el androide desde su nido de tirador—. *Extracciones Estelares no deja cabos sueltos. Se suponía que debían morir a bordo del Acreon, pero ya que se tomaron la molestia de llegar hasta aquí... cobraré una prima por limpiar el asteroide.*
+—*Los mismos que pagan mis cuentas en Absalón, profesor* —replicó la androide desde su nido de tirador—. *Extracciones Estelares no deja cabos sueltos. Se suponía que debían morir a bordo del Acreon o flotando en el vacío tras mi emboscada, pero ya que se tomaron la molestia de llegar hasta aquí... cobraré una prima por limpiar el asteroide.*
 
 —¡Sobre mi cadáver, traidora! —rugió Triel.
 

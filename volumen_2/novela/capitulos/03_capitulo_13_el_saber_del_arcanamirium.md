@@ -6,7 +6,7 @@ El campus central del Arcanamirium se alzaba en el sector septentrional del Ojo 
 
 Al cruzar los arcos monumentales de la entrada, el grupo descubrió que el destino les brindaba una cobertura perfecta: una multitudinaria ceremonia de graduación de doctorados colmaba el atrio principal. Cientos de estudiantes de diversas especies —humanos, elfos, kasathas con cuatro brazos enfundados en togas de gala y lashuntas ataviadas con armaduras ceremoniales— abarrotaban las gradas bajo una lluvia de confeti holográfico.
 
-En el estrado, una pequeña shirren vestida con birrete académico y toga carmesí gesticulaba nerviosamente con sus cuatro apéndices ante el micrófono:
+En el estrado, una pequeña shirren llamada **Sophie Ren**, vestida con birrete académico y toga carmesí, gesticulaba nerviosamente con sus cuatro apéndices ante el micrófono:
 
 —*«...y en conclusión de estos diez años de investigación para mi tesis doctoral»* —proclamaba la flamante doctora por los altavoces del campus—, *«los datos demuestran que los agujeros negros no son meros colapsos gravitacionales de masa estelar, sino órganos sensoriales de titánicas entidades extraplanares que habitan el tejido dimensional previo a la Brecha...»*
 
@@ -78,7 +78,7 @@ Benrey y Axel se inclinaron sobre su hombro para leerlo.
 
 —¿Qué solicitó? —preguntó Axel.
 
-—Un espécimen arqueológico catalogado como *Reliquia X-9* —respondió Marloc, señalando el código numérico—. Procedencia: yacimientos profundos de Castrovel, previos a la Brecha. Una estructura tecnomágica inerte diseñada para interactuar con motores de salto Drift. Y miren el destino de entrega: el laboratorio de xenoarqueología contiguo al aula diecisiete.
+—Un espécimen arqueológico catalogado como **Artefacto 12-724** —respondió Marloc, señalando el código numérico—. Procedencia: yacimientos profundos de Castrovel, previos a la Brecha. Una estructura tecnomágica inerte diseñada para interactuar con motores de salto Drift. Y miren el destino de entrega: el laboratorio de xenoarqueología contiguo al aula diecisiete.
 
 —El laboratorio junto al aula donde tú apareciste sin recuerdos —comprendió Triel, abriendo los ojos de par en par—. Marlene no murió en un simple tiroteo callejero. Estaba experimentando con un artefacto de la Brecha que conectaba con el Drift... y alguien la silenció para apoderarse de la investigación.
 
@@ -116,7 +116,7 @@ Benrey ayudó a Marloc a ponerse en pie mientras Axel le alcanzaba un pañuelo p
 
 —Profesor... por los bigotes de mi abuela, creí que se desintegraba en el éter. ¿Qué demonios ha visto?
 
-—Doce estrellas... doce luces en círculo sobre la oscuridad —susurró Marloc, respirando con dificultad mientras se frotaba las sienes—. La esfera no es un simple artefacto mineral. Es un transmisor... una llave hacia algo mucho más antiguo. Y está ligada a mi llegada a este universo.
+—Doce estrellas... doce luces en círculo sobre la oscuridad —susurró Marloc, respirando con dificultad mientras se frotaba las sienes—. Ahora lo comprendo todo... En mi universo de origen, la última noche que recuerdo, yo estaba en el despacho de mi padre examinando una esfera idéntica a esta. Cuando toqué aquella pieza mientras Marlene activaba esta réplica aquí a frecuencias armónicas, los dos artefactos entraron en resonancia cuántica a través del vacío. El velo dimensional se desgarró... y me arrastró hasta su aula. Esta esfera no es un simple mineral: es un transmisor, una llave milenaria que conecta planos paralelos.
 
 Triel contempló la reliquia apagada y luego miró a sus compañeros con resolución:
 
@@ -152,7 +152,7 @@ Desde un reservado semicircular al fondo de la taberna, una discusión acalorada
 
 —*¡Es una estupidez, Eclair!* —bramaba una voz femenina, metálica y cargada de furia—. *¡Si estás cansado de existir, mejor pégate un tiro en la placa craneal y nos evitas el espectáculo! ¡Maldito cobarde!*
 
-La figura que se puso en pie de golpe era una mujer androide de complexión militar atlética, líneas bioluminiscentes carmesíes y una mirada abrasadora que rezumaba odio hacia cualquier ser biológico. Era Null-9.
+La figura que se puso en pie de golpe era una mujer androide de complexión militar atlética, llamativa melena rosa chicle rapada en los laterales, líneas bioluminiscentes carmesíes y una mirada abrasadora que rezumaba odio hacia cualquier ser biológico. Era Null-9.
 
 Axel sintió una sacudida electromagnética en sus procesadores. Null-9 era la guerrera que diez años atrás había liderado el asalto contra los capataces de las minas de asteroides de la Diáspora, rescatándola de las cadenas de la esclavitud.
 

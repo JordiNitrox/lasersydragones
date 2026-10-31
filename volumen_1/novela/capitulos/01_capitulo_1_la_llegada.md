@@ -79,7 +79,7 @@ Una sombra se cernió sobre él. Una mano extraña, gruesa, cubierta por placas 
 
 Marloc ahogó un grito, retrocediendo de golpe sobre los codos y buscando instintivamente la culata de su arma.
 
-—¡Calma, señor, calma! —chilló una voz húmeda y gorgoteante mientras la criatura alzaba varios apéndices en señal de paz—. ¡Yo solo trabajo aquí! No me haga daño, por favor. Soy el conserje... Me llamo Ritchie. Apenas empecé esta semana.
+—¡Calma, señor, calma! —chilló una voz húmeda y gorgoteante mientras la criatura alzaba varios apéndices en señal de paz—. ¡Yo solo trabajo aquí! No me haga daño, por favor. Soy el conserje... Me llamo Richie. Apenas empecé esta semana.
 
 Marloc parpadeó, enfocando la vista. La criatura frente a él era un barathu corpulento, de ojos oscuros saltones y un ramillete de tentáculos carnosos rodeando su cavidad bucal. Sostenía una mopa magnética y un cubo de desinfección.
 

@@ -50,7 +50,7 @@ La tripulación subió por la rampa tras el diplomático y su comitiva. Al cruza
 
 Nor los guio con ademán aristocrático hacia el puente de mando:
 
-—He dotado al navío de blindaje reforzado y escudos deflectores navales de grado tres, sensores de largo alcance recién calibrados y una computadora central de triple nodo con capacidad de procesamiento táctico distribuido. En proa dispone de un cañón láser de alta potencia y, en la panza, una torreta de iones ventral de alcance extendido. No podía permitir que mi caballito de mar saliera al vacío desprotegido.
+—He dotado al navío de blindaje reforzado y escudos deflectores navales de grado tres, sensores de largo alcance recién calibrados y una computadora central de triple nodo con capacidad de procesamiento táctico distribuido. Y en la panza, una torreta ventral de cañón láser doble de alta potencia. No podía permitir que mi caballito de mar saliera al vacío desprotegido.
 
 El embajador se volvió hacia Axel y le señaló con un dedo largo y descarnado el sillón central del timonel:
 

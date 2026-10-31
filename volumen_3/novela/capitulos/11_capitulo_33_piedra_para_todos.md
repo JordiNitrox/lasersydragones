@@ -4,7 +4,7 @@
 
 El Gran Salón de Arbitraje de los Protectores en la Estación Absalón parecía una caldera a punto de estallar.
 
-Cientos de personas abarrotaban las gradas circulares de la cámara: delegaciones sindicales del Colectivo Hardscrabble ataviadas con sus chaquetones de faena —entre las cuales, sentada en primera fila junto al capitán Otal Seris, destacaba una joven mujer de luto riguroso que apretaba las manos sobre su regazo con angustia contenida—, corresponsales de todas las cadenas de noticias del Pacto con drones de transmisión suspendidos sobre las cabezas, y una falange de abogados corporativos de traje oscuro rodeando a la señorita George, la jefa de relaciones institucionales y representante legal de Extracciones Estelares. La distinguida ejecutiva lashunta, con su piel de tonalidad ambarina, sus finas antenas craneales erguidas bajo un peinado milimétrico y su impecable traje sastre, tamborileaba con impaciencia sobre su terminal de datos, lanzando miradas ponzoñosas a los recién llegados. Era la misma mujer que, semanas atrás en los rascacielos de cristal de El Ojo, los había recibido con sonrisas condescendientes, vídeos propagandísticos y veladas ofertas de patrocinio corporativo.
+Cientos de personas abarrotaban las gradas circulares de la cámara: delegaciones sindicales del Colectivo Hardscrabble ataviadas con sus chaquetones de faena —entre las cuales, sentada en primera fila junto al capitán Otal Seris, destacaba una joven mujer de luto riguroso que apretaba las manos sobre su regazo con angustia contenida—, corresponsales de todas las cadenas de noticias del Pacto con drones de transmisión suspendidos sobre las cabezas, y una falange de abogados corporativos de traje oscuro rodeando a la señorita Joss, la jefa de relaciones institucionales y representante legal de Extracciones Estelares. La distinguida ejecutiva lashunta, con su piel de tonalidad ambarina, sus finas antenas craneales erguidas bajo un peinado milimétrico y su impecable traje sastre, tamborileaba con impaciencia sobre su terminal de datos, lanzando miradas ponzoñosas a los recién llegados. Era la misma mujer que, semanas atrás en los rascacielos de cristal de El Ojo, los había recibido con sonrisas condescendientes, vídeos propagandísticos y veladas ofertas de patrocinio corporativo.
 
 En el estrado superior, escoltada por un destacamento de guardias de élite de los Protectores, presidía la sesión la jueza Keltrosho, una venerable magistrada kasatha de cuatro brazos. Su piel correosa de tono ocre y la tradicional bufanda ceremonial que cubría su boca y mentón le otorgaban un aire de severidad imperturbable.
 
@@ -36,7 +36,7 @@ Benrey, Triel, Axel y Marloc levantaron la mano al unísono:
 
 ### II. El jaque mate legal
 
-La señorita George fue la primera en saltar al ataque. Levantándose de su bancada con una carpeta de contratos holográficos, clavó una mirada gélida en el pelotón:
+La señorita Joss fue la primera en saltar al ataque. Levantándose de su bancada con una carpeta de contratos holográficos, clavó una mirada gélida en el pelotón:
 
 —Su señoría... Extracciones Estelares desea hacer constar que el testimonio de estos aventureros carece de rigor procesal. Fueron emboscados por una mercenaria en el asteroide y la ejecutaron sumariamente antes de que pudiera testificar sobre sus verdaderos patrocinadores. Además, los vídeos aportados por su canal presentan cortes sospechosos de diez minutos en el almacén de la nave. ¿Cómo podemos confiar en su imparcialidad?
 
@@ -46,7 +46,7 @@ Benrey dio un paso al frente, apoyando una pata en el estrado con una compostura
 
 Un murmullo de carcajadas y silbidos burlones estalló en las gradas de los mineros.
 
-La señorita George se atragantó con su vaso de agua, sus antenas vibraron de pura indignación y sus mejillas ambarinas se encendieron ante las risitas del público:
+La señorita Joss se atragantó con su vaso de agua, sus antenas vibraron de pura indignación y sus mejillas ambarinas se encendieron ante las risitas del público:
 
 —¡Eso era un simple detalle institucional de cortesía para visitantes, no un soborno! —protestó agriamente la ejecutiva lashunta, ajustándose el cuello de su traje—. ¡Y este tribunal no está aquí para discutir sobre artículos de tocador! ¡La ley es meridianamente clara, magistrada! El contrato de fletamento del *Acreon* estipulaba que todos los yacimientos minerales, asteroides y cuerpos celestes naturales descubiertos durante la expedición pertenecen por derecho de prospección exclusiva a Extracciones Estelares. La roca remolcada es un asteroide minero y, por tanto, nuestra propiedad corporativa incuestionable.
 
@@ -68,11 +68,11 @@ Marloc Boosmar desplegó a su lado los registros de navegación recuperados del 
 
 Un clamor ensordecedor sacudió el salón.
 
-Los abogados de Extracciones Estelares comenzaron a susurrar frenéticamente entre sí, revisando los códigos legales mientras la señorita George se desplomaba en su asiento, pálida y derrotada.
+Los abogados de Extracciones Estelares comenzaron a susurrar frenéticamente entre sí, revisando los códigos legales mientras la señorita Joss se desplomaba en su asiento, pálida y derrotada.
 
 La jueza Keltrosho examinó los diagramas de Marloc y los escaneos de Triel durante dos minutos de tensión absoluta. Finalmente, alzó su mazo ceremonial y lo golpeó con fuerza contra el bloque de resonancia:
 
-—Este tribunal concluye que la evidencia pericial es irrebatible. La Roca del Drift constituye un derelito tecnológico pre-Brecha y no un yacimiento mineral. Las pretensiones de prospección de Extracciones Estelares quedan desestimadas en su totalidad. Se otorga la propiedad civil del *Acreon*, los derechos de salvamento de la roca y la custodia de sus accesos a la cooperativa del Colectivo Hardscrabble y a los deudos de los tripulantes fallecidos. ¡Caso cerrado!
+—Este tribunal concluye que la evidencia pericial es irrebatible. La Roca del Drift constituye un derelicto tecnológico pre-Brecha y no un yacimiento mineral. Las pretensiones de prospección de Extracciones Estelares quedan desestimadas en su totalidad. Se otorga la propiedad civil del *Acreon*, los derechos de salvamento de la roca y la custodia de sus accesos a la cooperativa del Colectivo Hardscrabble y a los deudos de los tripulantes fallecidos. ¡Caso cerrado!
 
 ***
 
@@ -84,7 +84,7 @@ Cientos de mineros rompieron las vallas de seguridad y se precipitaron hacia el 
 
 Desde el lateral del hemiciclo, el oficial León contemplaba la escena con los brazos cruzados y una expresión entre el alivio y la exasperación. Al ver a Triel alzada en hombros de los mineros y riendo a carcajadas con el rostro arrebolado, la comisura de los labios del oficial se curvó en una sonrisa involuntaria de franca admiración. Triel lo descubrió entre el gentío y le lanzó un beso furtivo con los dedos; León tosió apresuradamente, miró a los guardias de su escolta para comprobar que nadie lo hubiera visto y sacudió la cabeza con fingida severidad marcial. Benrey lo divisó entonces y, con una sonrisa de victoria absoluta, asomó del bolsillo de su casaca un cupón de descuento para pancakes de la cafetería de los Protectores, haciéndole un saludo militar antes de volver a guardárselo con picaresca.
 
-La señorita George abandonó la sala apresuradamente escoltada por sus abogados, lanzando una mirada de odio eterno hacia el pelotón antes de que las puertas se cerraran a su espalda.
+La señorita Joss abandonó la sala apresuradamente escoltada por sus abogados, lanzando una mirada de odio eterno hacia el pelotón antes de que las puertas se cerraran a su espalda.
 
 Entre el gentío que celebraba, la joven de luto que había permanecido junto a Otal Seris se abrió paso tímidamente hacia los cuatro aventureros. Sus ojos estaban arrasados en lágrimas, pero su expresión denotaba una mezcla de inmenso alivio y dolor desgarrador.
 
@@ -124,7 +124,7 @@ En el fondo del local se erigía el verdadero corazón de la taberna: el Muro de
 
 El silencio se adueñó del local cuando Marloc, acompañado por Triel, Axel y Benrey, se acercó al muro.
 
-Con movimientos pausados y ceremoniosos, Marloc extrajo del bolsillo de su túnica las placas de identificación recuperadas en el *Acreon*: la del primer oficial Aravat, la del ingeniero Olier y las de los tripulantes caídos ante la plaga de los akatas. Una a una, las fue colgando de los ganchos de acero entre el respetuoso silencio de los presentes.
+Con movimientos pausados y ceremoniosos, Marloc extrajo del bolsillo de su túnica las placas de identificación recuperadas en el *Acreon*: la de la primera oficial Arvath, la del ingeniero Olier y las de los tripulantes caídos ante la plaga de los akatas. Una a una, las fue colgando de los ganchos de acero entre el respetuoso silencio de los presentes.
 
 Al alzar la vista, los ojos del místico se detuvieron en una esquina del panel central.
 
@@ -134,7 +134,7 @@ Marloc permaneció inmóvil durante unos segundos eternos. Sus dedos huesudos y 
 
 El místico tomó una jarra de cerveza oscura de los mineros y la alzó en alto, proyectando su voz con una fuerza que resonó hasta el último rincón de la Espiga:
 
-—¡Por el primer oficial Aravat y los valientes del *Acreon*! ¡Por Marlene y Amelie! Y por cada trabajador que entregó su vida en el silencio del vacío sin pedir nada a cambio. Su sacrificio no ha sido olvidado, y su memoria jamás será pisoteada por los buitres corporativos. ¡Por los que nunca regresaron!
+—¡Por la primera oficial Arvath y los valientes del *Acreon*! ¡Por Marlene y Amelie! Y por cada trabajador que entregó su vida en el silencio del vacío sin pedir nada a cambio. Su sacrificio no ha sido olvidado, y su memoria jamás será pisoteada por los buitres corporativos. ¡Por los que nunca regresaron!
 
 —¡Por los caídos del vacío! —bramó el capitán Otal Seris.
 

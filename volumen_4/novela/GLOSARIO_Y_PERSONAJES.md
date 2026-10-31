@@ -8,10 +8,9 @@
 ### Estación Absalón (Despedida y Revelaciones)
 Tras resolver la crisis de la *Roca del Drift*, la tripulación disfruta de un breve respiro en la metrópolis estelar antes de partir hacia Castrovel:
 * **El Arcanamirium:** La academia mágica más prestigiosa del sistema. En sus laboratorios residenciales vive Ambrose Boosmar rodeado de artefactos pre-Brecha y secretos inconfesables sobre su expedición a Aucturn.
-* **Domo Horizonte:** Colosal estadio de espectáculos en el Ojo de Absalón, dotado de cúpula estelar holográfica y resonadores sónicos. Es el escenario del multitudinario concierto de Syd Velch, que culmina en un motín psíquico general.
-* **Jardín de Cenizas:** Solemne parque memorial de Absalón donde reposan monumentos conmemorativos a los caídos del espacio. Allí se celebra el funeral formal en memoria de Marlene Boosmar.
-* **Club 13:** Popular establecimiento en los límites entre el Anillo y la Espiga, donde tiene lugar la recepción póstuma y el brindis de despedida de los estibadores y mineros de Hardscrabble antes de zarpar hacia Castrovel.
-* **Muelle 94 y la Fragata Estrella Errante:** La nave comercial de pasajeros y carga ligera en la que el equipo zarpa rumbo a Castrovel cruzando el hiperespacio del Drift, escenario de las emotivas despedidas de Triel con León y de Benrey con su primo menor.
+* **Domo Jamspore:** Colosal estadio de espectáculos en el Ojo de Absalón, dotado de resonadores sónicos y plataformas suspendidas. Es el escenario del caótico concierto de Super BMT con Syd Velch, que culmina en un motín tras desatarse una detonación en los accesos.
+* **Templo Sin Nombre:** Monumental santuario consagrado a Triune en la Estación Absalón. Allí se celebra el funeral formal en memoria de Marlene Boosmar y la histórica ceremonia de Renovación de Éclair.
+* **Muelle 94 y la Fragata Estrella Errante:** La emblemática nave recuperada en la Roca del Drift en la que el equipo zarpa rumbo a Castrovel cruzando el hiperespacio del Drift, escenario de las emotivas despedidas de Triel con León y de Benrey con su familia.
 
 ### El Planeta Castrovel
 El segundo planeta del sistema solar de los Mundos del Pacto, un orbe verde rebosante de vida exuberante, telepatía natural y misterios ancestrales:
@@ -56,19 +55,19 @@ Científico frío, aristocrático y distante que reside en Absalón. Oculta bajo
 
 ### Ángela
 *Esposa y Viuda de Marlene Boosmar*  
-Compañera de vida de Marlene, devastada por su trágico asesinato en los muelles de Absalón. Su presencia conmociona profundamente a Marloc, pues resulta idéntica en apariencia y temperamento a la Ángela que el tecnomante amó y perdió en su dimensión original. En el camposanto, tras contemplar el anillo de bodas de Marloc grabado con su nombre, encuentra consuelo mutuo y entrega al tecnomante el medallón de campo y los cuadernos de Marlene.
+Compañera de vida de Marlene, devastada por su trágico asesinato en los muelles de Absalón. Su presencia conmociona profundamente a Marloc, pues resulta idéntica en apariencia y temperamento a la Ángela que el tecnomante amó y perdió en su dimensión original. En el Templo Sin Nombre, tras contemplar el anillo de bodas de Marloc grabado con su nombre, encuentra consuelo mutuo y acuerdan mantenerse en contacto por comlink mientras Marloc prosigue la investigación en Castrovel.
 
 ### Capitán / Oficial León Anoxiar
 *Oficial de Enlace de Los Protectores*  
 Oficial íntegro de la guardia militar de Absalón y romance clandestino de Triel Istrav. Tras la fiesta de la Roca del Drift, su apasionado encuentro secreto en el hotel y la llamada de preocupación tras el caos del concierto de Syd Velch, acude en persona al Muelle 94 para despedir a la mecánica semi-drow con afectuosa y sonrojada complicidad antes de que el pelotón zarpe rumbo a Castrovel.
 
 ### Syd Velch
-*Vocalista y Artista Psíquico Andrógino de Absalón*  
-Cantante icónico de estética glam y voz hipnótica. Durante su concierto en el Domo Horizonte, experimenta una sobrecarga psíquica descontrolada al sintonizarse involuntariamente con las perturbaciones cósmicas del Vacío, desvaneciéndose en el aire y provocando una histeria colectiva en la arena.
+*Veterano Vocalista de Super BMT*  
+Cantante veterano de rock industrial de Absalón, curtido con implantes cardíacos de la guerra del Veskarium. Durante su caótica actuación en el Domo Jamspore, en medio de la euforia y el tumulto desatado en el foso, sufre una descompensación tras una detonación en los accesos y es evacuado a toda prisa por cuatro escoltas hacia una nave privada en la azotea.
 
 ### Sophie Ren
 *Estudiante Guía de la Universidad de Qabarat*  
-Joven lashunta alegre y solícita, asignada como anfitriona del grupo en Castrovel. Conductora de un modesto coche compacto de alquiler que sufre las consecuencias de una persecución armada con la Legión, atiende a la tripulación con comida casera y devoción académica.
+Joven y entusiasta estudiante shirren, asignada como anfitriona de la tripulación en Castrovel. Conductora de un modesto coche compacto turquesa que sufre las consecuencias de una persecución armada contra la Legión, comparte con Marloc su fascinación por los agujeros negros y la cosmología, y atiende a la tripulación con comida casera, antenas inquietas y devoción académica.
 
 ### Decana Muhali
 *Decana Superior de la Facultad en la Universidad de Qabarat*  
@@ -100,7 +99,7 @@ Capitán libre cuya nave realizó un aterrizaje forzoso en la jungla profunda de
 
 ### Keiden Ashton (*El Capitán sin Puerto*)
 *Legendario Capitán Libre y Padre Biológico de Triel*  
-Mítico corsario espacial desaparecido veintiún años atrás en una misteriosa expedición hacia el Vasto. Su legado y su esfera ámbar viven a través de su hija Triel Istrav.
+Mítico corsario espacial desaparecido diecinueve años atrás en una misteriosa expedición hacia el Vasto. Su legado y su esfera ámbar viven a través de su hija Triel Istrav.
 
 ### Eroopa Cual
 *Contratista Clandestino y Líder del Secuestro*  
@@ -128,7 +127,7 @@ Compañera inseparable de Éclair y adiestradora de combate de Axel. Arrasada po
 
 ### Willy y Naru (Los Amigoblins)
 *Goblins Espaciales Reubicados en Absalón*  
-Náufragos rescatados del *Acreon*. Tras acampar con su prole en la sala de máquinas del *Hippocampus*, Benrey y Marloc los convencen de mudarse con todo su clan a la patrulla artillada del Oficial León Anoxiar en el Muelle 34 («el gran protector de los goblins»). Quedan custodiados en la estación espacial, dejando la sala de máquinas de la *Estrella Errante* limpia y operativa para la expedición a Castrovel.
+Náufragos rescatados del *Acreon*. Tras acampar con su prole y cocinar sobre el núcleo atómico en la sala de máquinas de la *Estrella Errante*, Benrey y Marloc los convencen de mudarse con todo su clan a la patrulla artillada del Oficial León Anoxiar en el Muelle 34 («el gran protector de los goblins»). Quedan custodiados en la estación espacial, dejando los motores limpios y operativos para la expedición a Castrovel.
 
 ---
 

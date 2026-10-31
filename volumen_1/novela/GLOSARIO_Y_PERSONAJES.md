@@ -119,6 +119,12 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 ### Kallio
 - Joven francotirador humano de pelo claro y rostro marcado, asesino a sueldo contratado por el enlace drow de Extracciones Estelares para abatir a Marlene Boosmar en el Muelle 94.
 
+### Park Maryland II
+- Vendedor y chatarrero humano de filtros y máscaras de oxígeno en el Muelle 94. Testigo presencial del tiroteo que declara con aspavientos para *Noticias en Movimiento* ante la reportera Carne Yac.
+
+### Anastasio Oryander
+- Delegado de Seguridad Psíquica de la Estación Absalón. Figura pública que denuncia en televisión la inoperancia del Consejo frente a la guerra encubierta entre corporaciones y sindicatos en los muelles.
+
 ### Clamor Sambor
 - Enigmático y acaudalado magnate, propietario ausente de Inversiones Estelares S.C. Aunque nunca se muestra en persona, delega en Chiskisk la toma de decisiones estratégicas y la contratación del grupo como peritos independientes.
 
@@ -137,10 +143,10 @@ La principal fuerza policial y militar encargada de velar por el frágil orden e
 Compañía corporativa y financiera de mediación con sede central en El Ojo de la Estación Absalón. Liderada por Chiskisk en representación del ausente Clamor Sambor, fue la entidad para la que trabajaba la investigadora Marlene Boosmar. Gestiona los procesos de arbitraje neutral sobre el litigio del carguero *Acreon* y contrata a los protagonistas como peritos independientes con cobertura legal y financiera ante las presiones de las grandes corporaciones.
 
 ### Extracciones Estelares (*Astral Extractions*)
-Poderosísima megacorporación minera y financiera interestelar con enormes explotaciones en el cinturón de asteroides de la Diáspora. Dirigida a nivel de relaciones públicas por portavoces como **Park Maryland II**, tras su pulcra fachada corporativa opera con métodos despiadados: contratación de sicarios encubiertos (como el francotirador humano Kallio, enviado por sus enlaces drow), compra de jueces y sobornos a bandas callejeras para monopolizar la Roca del Drift.
+Poderosísima megacorporación minera y financiera interestelar con enormes explotaciones en el cinturón de asteroides de la Diáspora. Respaldada por su pulcra fachada corporativa y portavoces legales institucionales como la **Señorita Joss**, entre bastidores opera con métodos despiadados: contratación de sicarios encubiertos (como el francotirador humano Kallio, enviado por sus enlaces drow), compra de voluntades y sobornos a bandas callejeras para monopolizar la Roca del Drift.
 
 ### Colectivo Hardscrabble
-Cooperativa y sindicato de mineros y transportistas independientes de la Diáspora, representados legalmente por delegados gremiales como **Anastasio Oryander**. Trabajadores espaciales rudos y autosuficientes, dueños legítimos del carguero *Acreon*, decididos a descubrir la verdad sobre sus camaradas desaparecidos y reclamar sus derechos de salvamento.
+Cooperativa y sindicato de mineros y transportistas independientes de la Diáspora. Trabajadores espaciales rudos y autosuficientes, dueños legítimos del carguero *Acreon*, decididos a descubrir la verdad sobre sus camaradas desaparecidos y reclamar sus derechos de salvamento.
 
 ### Casa Istrav de Apostae
 Poderosa y tiránica casa noble matriarcal de elfos oscuros (drow) con sede en las ciudades-factoría subterráneas del planeta Apostae. Famosa por sus arsenales armamentísticos y su desprecio hacia las castas mestizas, representa el opresivo pasado familiar del que Triel Istrav huyó para forjar su propio destino.

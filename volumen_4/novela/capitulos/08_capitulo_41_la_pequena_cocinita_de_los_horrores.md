@@ -1,91 +1,113 @@
 # Capítulo 41: La Pequeña Cocinita de los Horrores
 
-### I. El aroma de los Cinco Arcos
+### I. Rumbo a los Cinco Arcos
 
-El distrito de los **Cinco Arcos** era una bofetada sensorial en el rostro de la elegante y mesurada Qabarat.
+El trayecto hacia el distrito fluvial de los **Cinco Arcos** puso a prueba los amortiguadores del maltrecho utilitario de Sophie Ren y los nervios de sus ocupantes.
 
-Ubicado en la confluencia de cinco colosales viaductos de piedra blanca que salvaban el río principal de la ciudad, el barrio palpitaba con una vitalidad caótica y ruidosa. Bajo los arcos monumentales, donde el agua turbia del canal reflejaba los anuncios holográficos de marcas de licor de Castrovel y talleres de repuestos navales, se extendía un laberinto de muelles de madera flotante, mercados de especias exóticas y tenderetes de comida callejera que despedían vapores picantes y aromas a fritura especiada.
+Con Axel 42 al volante y Gerty acomodado en el portón trasero con las extremidades colgando hacia el asfalto, el vehículo zigzagueó a toda velocidad entre los carriles elevados de Qabarat. Sophie, sentada en el asiento del copiloto con un mapa interactivo entre las manos, emitía indicaciones de giro con un segundo de antelación, forzando a la androide a cruzar tres carriles de golpe entre chirridos de neumáticos que arrancaban chillidos de alarma a Benrey, aprisionado en el regazo de Triel.
 
-Sophie Ren aparcó su pequeño coche turquesa entre dos camiones de transporte de verduras, respirando con alivio al comprobar que las cuatro ruedas seguían en su sitio:
+Mientras sorteaban el tráfico vespertino, Marloc Boosmar consultaba la Inforred local en busca de información sobre su destino.
 
-—Bienvenidos a los Cinco Arcos —anunció la estudiante, bajando el volumen de su comunicador mientras guiaba al grupo por una pasarela de tablones húmedos—. En el campus dicen que si buscas algo que el senado lashunta haya declarado ilegal, impuro o simplemente demasiado divertido, este es el único lugar donde puedes encontrarlo por menos de cincuenta créditos.
+—El establecimiento tiene página oficial —comentó el tecnomante, enarcando una ceja con perplejidad—. Se promociona como un café de alta gastronomía interestelar para paladares refinados de una docena de mundos. Sin embargo, tres cuartas partes de las reseñas públicas figuran con el rótulo de *«Borrado por el administrador»*.
 
-—A mí me parece un paraíso gastronómico —declaró Benrey Galway, olfateando el aire con sus largos bigotes vibrando hacia un puesto donde un kasatha doraba brochetas de insectos gigantes con un soplete de plasma—. El olor a aceite recalentado y especias de la cuenca fluvial le devuelve la alegría al corazón de cualquier roedor que se respete.
+—¿Y las que quedan en pie? —preguntó Triel, sujetando a Benrey por la pechera en una curva cerrada.
 
-—Mantengan la guardia en alto —advirtió Axel 42, con la mano apoyada discretamente sobre la funda de su pistola láser bajo la cazadora de viaje—. Mis escáneres detectan una densidad anormal de comunicadores con frecuencias militares encriptadas en este sector. No somos los únicos forasteros armados en estos muelles.
+—Son desconcertantes —respondió Marloc—. Un cliente escribió: *«El sabor de la comida es una experiencia que nadie debería dejar pasar; ciertamente mi vida cambió después de probarla»*, a lo que el café respondió: *«¡Muchísimas gracias por su lealtad!»*. Otro usuario comentó: *«Si volviera a comer aquí, sería la última acción que realizaría en esta vida»*, recibiendo una réplica idéntica: *«¡Nos complace hacer realidad sus sueños culinarios!»*.
 
-A escasos cincuenta metros, encajada bajo el tercer arco del puente y con un letrero de neón magenta parpadeante que anunciaba platos combinados y licores destilados, se alzaba la cantina: **Los Cinco Arcos**.
+—Ironía pura no procesada —sentenció Axel con frialdad—. Los registros indican que la propietaria es una androide llamada Willing. Carece manifiestamente de filtros para el sarcasmo orgánico y asume cualquier reseña cáustica como un elogio formal.
+
+Minutos más tarde, el coche descendió hacia los muelles inferiores de Qabarat. El contraste con las agujas académicas fue brutal: bajo la sombra de cinco monumentales viaductos de piedra milenaria erigidos por los elfos en eras pretéritas, se apiñaba un sector portuario dominado por bodegas de hormigón, canales de aguas turbias y almacenes vinculados a los antiguos portales mágicos del planeta.
+
+Sophie aparcó frente a una hilera de contenedores:
+
+—Los esperaré aquí con el motor encendido. Si la situación se complica con esos contrabandistas, toquen dos veces el comunicador y saldremos disparados.
 
 ***
 
 ### II. Las delicias de Willing
 
-El interior del local era una mezcla entre taberna fluvial, cantina de contrabandistas y restaurante de paso rápido.
+A escasos cincuenta metros, encajada bajo el tercer arco de piedra, se alzaba la cantina: **Los Cinco Arcos**. El nombre brillaba en elegantes letras metálicas doradas sobre la entrada, flanqueado por pantallas que proyectaban fotografías de platillos extravagantes donde cabezas de reptiles y frutos selváticos se combinaban en composiciones cromáticas perturbadoras.
 
-Mesas de melamina pegajosa forradas de linóleo verde se repartían por una sala con poca ventilación, donde marineros lashuntas, comerciantes de la cuenca y estibadores de baja estofa bebían en vasos de plástico mientras discutían a media voz. Tras la barra metálica, rodeada de sartenes humeantes, cazuelas de barro burbujeantes y una campana extractora que rugía con el esfuerzo de una turbina de despegue, operaba la dueña del establecimiento: una androide de complexión menuda llamada **Willing**.
+Al abrirse la puerta neumática, una ráfaga de aire cargada de alcohol destilado y especias discordantes envolvió al grupo.
 
-Willing tenía la tez sintética salpicada de pequeñas manchas de hollín culinario, un delantal de rayas azules atado a la cintura y un menú holográfico que proyectaba platos combinados con nombres extravagantes:
+El local era amplio, con mesas de melamina verde pegajosa y una hilera de reservados laterales. Para sorpresa de los recién llegados, ni uno solo de los clientes —estibadores lashuntas, navegantes kasathas y tipos de mirada hosca— estaba comiendo. Todas las mesas lucían botellas de licor de alta graduación y vasos de aguardiente a medio consumir.
 
-—¡Mesa para cinco forasteros distinguidos! —saludó la cocinera con una voz metálica y cantarina, volteando una tortilla de raíces fluviales con una destreza impecable—. Pasen, pasen, no se queden en la puerta que la brisa del canal me apaga los quemadores. ¿Qué les sirvo? ¿Especialidad de la casa con ancas de saltador lacustre o el guiso picante de tubérculos de Ukulam?
+Tras la barra, ataviada con un delantal azul y un sombrero de chef blanco impecable, operaba **Willing**. La androide, de piel sintética verdosa y sonrisa imperturbable, los saludó agitando una espátula:
 
-Marloc Boosmar, siempre intrigado por las experiencias culturales locales, se acercó a la barra con curiosidad científica:
+—¡Bienvenidos a Los Cinco Arcos! Permítanme deleitarlos de pies a cabeza con la mayor fusión culinaria de Castrovel.
 
-—Aceptaré una porción del guiso tradicional, señorita Willing. Con poca sal, si sus procesadores culinarios lo permiten.
+En las mesas cercanas, varios parroquianos soltaron risitas burlonas al ver a nuevos incautos aproximarse a la barra.
 
-—¡Marchando un guiso académico para el caballero de la gabardina! —respondió la androide, sirviendo un cuenco humeante de color ocre coronado por hierbas aromáticas que desprendían un olor sorprendentemente apetitoso.
+—Deseamos dos especialidades de la casa para mis socios —solicitó Marloc con prudencia académica—, y agua purificada para mí.
 
-Mientras Marloc probaba el plato con una cucharilla de plástico —asintiendo con genuina sorpresa ante la complejidad de los sabores silvestres—, Axel y Triel barrieron la sala con la mirada en busca de su objetivo.
+—Y para mí, un capuchino caliente con un trago de tequila —añadió Benrey, frotándose las manos—. Pero por separado, señorita.
 
-Al fondo de la cantina, en un reservado en penumbra junto a la puerta trasera que daba a los callejones de servicio, se encontraba un hombre lashunta solitario.
+—¡Marchando la inspiración del día! —canturreó Willing.
 
-Vestía una chaqueta impermeable desgastada con parches de marinero de agua dulce. Tenía una jarra de aguardiente a medio consumir frente a él, pero no bebía; sus antenas craneales temblaban con nerviosismo espasmódico y sus ojos saltones escudriñaban la entrada principal cada vez que la cortina de cuentas se movía con el viento.
+Segundos después, la androide depositó dos fuentes colosales frente a Triel y Marloc: un zapallo gigante partido por la mitad, relleno de una masa de carne de coloración violácea que reposaba sobre un caldo verde fluorescente de olor intensamente ácido. A Benrey le sirvió una taza humeante de café sobre la cual, ante el pasmo del roedor, dejó caer directamente el vaso de tequila con un chapoteo alegre:
 
-En su muñeca izquierda lucía un brazalete de cobre grabado con las iniciales que figuraban en la tarjeta de visita del despacho de Solstarni: **T.E.**
+—¡Caputequila! Una combinación vigorizante nacida de mi procesador creativo. ¡Que aproveche!
+
+Triel contempló la masa gelatinosa de su plato con una mueca de espanto:
+
+—Por la Matrona... Esto no es comida, es un experimento de guerra química.
+
+Aprovechando el revuelo, Axel se inclinó hacia sus compañeros:
+
+—Necesito revisar las instalaciones sanitarias. Estén atentos a mi señal.
 
 ***
 
-### III. El hombre en el reservado
+### III. El secreto en el sótano
 
-El pelotón avanzó con paso firme hacia el reservado.
+La tiradora androide avanzó hacia el fondo del local. En el baño, dos individuos con monos de trabajo portuario intercambiaban estimulantes ilegales sobre un fragmento de espejo; Axel los ignoró olímpicamente, deslizándose hacia una puerta de servicio contigua que exhibía un cartel oxidado: *Solo personal autorizado*.
 
-Benrey se deslizó en el banco frente al lashunta con una sonrisa afable y desarmante, mientras Axel y Triel se apostaban a ambos lados del pasillo, bloqueando discretamente cualquier intento de huida:
+Tras forzar el pestillo con una ganzúa magnética, Axel descendió por unas escaleras de madera crujiente hacia el sótano de almacenamiento.
 
-—Buenas tardes, amigo —dijo Benrey en tono confidencial, apoyando los codos sobre la mesa pegajosa—. ¿**Tuwanas En**, supongo?
+La bodega subterránea estaba atestada de cajas de provisiones y bidones de aceite. Sin embargo, en el rincón más oscuro, entre piezas desguazadas de turbinas auxiliares de naves de asalto, una figura yacía amordazada y maniatada contra una columna de soporte.
 
-El lashunta dio un respingo tan violento que derramó parte de su aguardiente sobre la mesa. Sus pupilas se dilataron con pánico mientras sus manos se cerraban bajo el tablero:
+Era un hombre lashunta de la subespecie damaya, con una chaqueta impermeable gastada y antenas lacias por el agotamiento.
 
-—¿Quiénes son ustedes? No los conozco... No he hecho nada ilegal, solo estoy esperando a un cliente...
+Axel se arrodilló a su lado, retirándole la mordaza de un tirón seco:
 
-—Baja las manos, Tuwanas —susurró Triel con voz fría, mostrando levemente la empuñadura de su rifle láser bajo la pechera—. Venimos de la Universidad de Qabarat. De la oficina de la doctora Omejia Solstarni.
+—Identifícate.
 
-Al escuchar el nombre de la investigadora, el rostro de Tuwanas se tornó pálido como el papel. El contrabandista tragó saliva con dificultad, bajando la voz hasta un susurro apenas audible sobre el estruendo de la cocina de Willing:
+El hombre tosió, respirando con dificultad:
 
-—Por los dioses... Les juro que yo no sabía lo que iban a hacer con ella. Me dijeron que solo era un traslado discreto, un servicio de transporte para una expedición privada...
+—Me llamo **Tuwanas En**... Por favor, no disparen... No tuve alternativa.
 
-—La doctora fue drogada y secuestrada de su despacho, Tuwanas —intervino Marloc, deteniéndose junto a la mesa con el cuenco de guiso en la mano y la mirada severa—. Y tu tarjeta de visita fue el último rastro que dejó antes de desaparecer. Explícanos con quién estás tratando o la policía de Qabarat y Los Protectores de Absalón se encargarán de que tu próxima comida sea en una celda de máxima seguridad.
+—¿Qué haces atado en el sótano del café?
 
-Tuwanas se tomó la cabeza con ambas manos, temblando de pánico:
+—Nosotros... mi tripulación fue contratada por un sujeto llamado Eroopa Cual para trasladar a una prisionera a través de los portales élficos hacia el interior salvaje —confesó el lashunta con la voz quebrada por el pánico—. Secuestramos a la doctora Solstarni de la universidad hace dos noches. Pero la operación se torció: la **Legión del Fuego en el Cielo** intervino para confiscar el botín y borrar las huellas. Mis socios me dejaron aquí como chivo expiatorio mientras ellos negociaban con los triaxianos. ¡Vienen a silenciarme!
 
-—¡No entienden nada! No son simples matones de puerto... El hombre que me contrató se hace llamar **Eroopa Cual**. Me pagó una fortuna en lingotes de electrum para que le consiguiera documentos de tránsito hacia el continente de Ukulam y pases para cruzar el cordón militar. Yo solo soy un intermediario, hago trabajos de contrabando menor para sobrevivir... Pero cuando vi las armas pesadas que traían y los mercenarios que lo escoltaban, supe que estaba metido hasta el cuello en una pesadilla.
+***
 
-—¿Hacia dónde se la llevaron? —exigió Axel, con sus ópticas azules fijas en los ojos del sospechoso—. Coordenadas exactas y vía de escape.
+### IV. Emboscada en los arcos
 
-Tuwanas abrió la boca para responder:
+En la planta superior, mientras Triel intentaba interrogar disimuladamente a Willing sobre los movimientos en el muelle, la puerta principal de la cantina fue derribada con estruendo violento.
 
-—Se la llevaron hacia el portal de...
+Dos mercenarios ryphorianos de la Legión del Fuego en el Cielo irrumpieron en el local. Iban enfundados en armaduras de combate escarlata y plata con hombreras grabadas con calaveras de dragón. El que abría la marcha empuñaba una espada larga de aleación pesada, mientras su compañero encañonaba la sala con un fusil automático:
 
-Las palabras se congelaron en su garganta.
+—¡La Legión del Fuego en el Cielo reclama la custodia de Tuwanas En! —rugió el guerrero de la espada—. ¡Cualquier interferencia civil será respondida con fuerza letal!
 
-Un estruendo metálico ensordecedor sacudió la entrada de la cantina. La puerta principal de madera y vidrio templado voló hecha pedazos, arrancada de cuajo por una granada de conmoción.
+Willing soltó su espátula y levantó las manos con una queja estridente:
 
-A través de la humareda entraron cuatro figuras colosales enfundadas en armaduras de asalto pesado de color rojo escarlata con grabados de dragones dorados, empuñando rifles automáticos y lanzas de plasma: mercenarios de la **Legión del Fuego en el Cielo**.
+—¡Les he dicho mil veces que no se permiten armas en el salón principal!
 
-El líder del escuadrón, un imponente guerrero ryphoriano de ojos felinos y cresta blanca, alzó su arma pesada apuntando directamente hacia el reservado del fondo:
+Los parroquianos se arrojaron de cabeza bajo las mesas en un acto reflejo de supervivencia. 
 
-—¡Nadie se mueva! ¡La Legión del Fuego en el Cielo tiene bajo custodia a este traidor! ¡Entreguen a Tuwanas En o este local arderá hasta los cimientos!
+En ese mismo instante, Tuwanas En subió a trompicones por la trampilla del sótano seguido por Axel. Al ver a los legionarios, el contrabandista se arrojó tras la barra suplicando auxilio:
 
-Willing soltó su sartén, agachándose tras la barra metálica con un chillido mecánico, mientras los parroquianos se arrojaban al suelo en medio del pánico.
+—¡Ayuda! ¡Pido asilo! ¡Sé hacia dónde llevaron a la doctora!
 
-Triel miró a Benrey y a Marloc. Una sonrisa feroz y desafiante se dibujó en los labios de la semi-drow mientras deslizaba la palanca de su rifle láser al modo de máxima sobrecarga:
+El ryphoriano del fusil no dudó: alineó la mira sobre la pechera de Triel y apretó el gatillo. El disparo láser impactó en el hombro de la mecánica, arrancándole un gruñido de dolor cuando su blindaje absorbió la quemadura.
 
-—Mala suerte, lagartos espaciales... Nosotros lo vimos primero.
+—¡Error de cálculo, lagartija! —bramó Triel.
+
+Desde la trampilla de servicio, Axel activó su módulo de distorsión holográfica: cuatro copias idénticas de la androide emergieron al unísono, desplazándose en formación defensiva por el pasillo central.
+
+Triel sobrecargó la batería de su horquilla de plasma con un chasquido sónico y abrió fuego a quemarropa contra el ryphoriano de la espada. La llamarada incandescente le fundió la hombrera, haciéndolo tambalearse. Antes de que el guerrero pudiera levantar su hoja, Gerty cargó a máxima potencia: la pica táctica del dron perforó el peto de combate del legionario en un impacto brutal que lo derribó al suelo sobre un charco de sangre.
+
+—¡Comandante caído! —gritó el segundo ryphoriano, retrocediendo hacia la puerta mientras pedía refuerzos por su transmisor de casco—. ¡Solicito apoyo blindado en Los Cinco Arcos!
+
+El tiroteo acababa de comenzar.

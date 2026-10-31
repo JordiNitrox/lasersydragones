@@ -22,7 +22,7 @@ Benrey Galway acomodó las lentes esféricas del dron Atmos, que flotaba a su al
 
 —Damas, caballeros y entidades sintéticas de la galaxia: estamos a punto de cruzar el umbral del lugar más peligroso de Castrovel. Bestias gigantes, hongos asesinos y una secta apocalíptica armada hasta los dientes. Si no salimos en los libros de historia después de esto, juro por la memoria de mi primo Rim Rey que me hago streamer de videojuegos en Eox.
 
-Axel 42 permanecía en silencio unos pasos por delante, examinando las huellas aplastadas en la hierba alta. La brisa caliente agitaba su cabello plateado, mientras las líneas rosadas de su blindaje brillaban con un tenue parpadeo analítico. Al contemplar la pradera infinita de cañas blanquecinas, un latido mnemónico reverberó en sus circuitos internos: la memoria espectral de la Unidad 42, el fuego purificador en un mundo olvidado, la sensación del cañón al rojo vivo en sus manos mecánicas.
+Axel 42 permanecía en silencio unos pasos por delante, examinando las huellas aplastadas en la hierba alta. La brisa caliente agitaba su cabello negro corto, mientras las líneas rosadas de su blindaje brillaban con un tenue parpadeo analítico. Al contemplar la pradera infinita de cañas blanquecinas, un latido mnemónico reverberó en sus circuitos internos: la memoria espectral de la Unidad 42, el fuego purificador en un mundo olvidado, la sensación del cañón al rojo vivo en sus manos mecánicas.
 
 La androide cerró los ojos un instante, respiró hondo para calmar los sensores de sobrecarga y descolgó su rifle de precisión.
 

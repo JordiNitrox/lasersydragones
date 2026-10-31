@@ -8,7 +8,7 @@
 ### Volumen 1: Sombras sobre Absalón
 *Subtítulo:* **Conspiración en la Espiga**  
 *Episodios adaptados:* **1 al 10** (Transmisión original: enero a marzo de 2020)  
-*Extensión:* 10 Capítulos + Prólogo + Anexo (84 páginas)
+*Extensión:* 10 Capítulos + Prólogo + Anexo (87 páginas en PDF)
 
 #### Sinopsis General:
 Cuatro desconocidos de orígenes dispares coinciden en la Estación Absalón tras recibir una citación urgente de la investigadora **Marlene Boosmar**:
@@ -20,9 +20,9 @@ Cuatro desconocidos de orígenes dispares coinciden en la Estación Absalón tra
 
 Tras acudir al *Club 13* (el Click-Clack Club) en la Espiga, Axel se reencuentra con su «unidad hermana», la androide **Null-9**, quien le recuerda un rescate crucial diez años atrás en el Vasto y la presenta ante el intermediario ysoki **Chic**. Allí confluyen con Triel, Benrey y Marloc (a quien Benrey rescata de un colapso hipoglucémico en los monobloques). Chic revela con naturalidad que Marlene está casada con una científica llamada **Ángela**, lo que sume a Marloc en un profundo shock emocional, pues en su realidad natal Ángela era su propia esposa y murió asfixiada en el vacío.
 
-El grupo acude al **Muelle 94** para la cita con Marlene. Justo cuando ella va a revelar su investigación sobre el *Acreon*, el francotirador profesional drow **Kallio** la asesina de un certero disparo al pecho, desatando una brutal emboscada armada entre dos bandas rivales: los **Reyes del Nivel 21** (*21st Crew*) y los **21 Watts**. Marloc sostiene a Marlene en sus brazos mientras ella expira llamándolo «hermano a través de las estrellas». Benrey asume el mando táctico desde una grúa, Axel neutraliza la posición del tirador y Gerty desata fuego pesado de plasma, mientras Triel y Marloc hackean la terminal portuaria para purgar los vídeos de seguridad y asegurar el comunicador y los datos de Marlene.
+El grupo acude al **Muelle 94** para la cita con Marlene. Justo cuando ella va a revelar su investigación sobre el *Acreon*, el francotirador humano **Kallio** (enviado por los enlaces drow de la corporación) la asesina de un certero disparo al pecho, desatando una brutal emboscada armada entre dos bandas rivales: los **Reyes del Nivel 21** (*21st Crew*) y los **21 Watts**. Marloc sostiene a Marlene en sus brazos mientras ella expira llamándolo «hermano a través de las estrellas». Benrey asume el mando táctico desde una grúa, Axel neutraliza la posición del tirador y Gerty desata fuego pesado de plasma, mientras Triel y Marloc hackean la terminal portuaria para purgar los vídeos de seguridad y asegurar el comunicador y los datos de Marlene.
 
-El sabio directivo shirren **Chiskisk**, comisionado de **Inversiones Estelares S.C.**, los recibe en El Ojo y les confía formalmente la investigación del complot. En el despacho de Marlene descubren la foto familiar con Ángela y Chic, y la muerte por descompresión de su colega Amélie en instalaciones de **Extracciones Estelares** (*Astral Extractions*). Guiados por las pistas, el grupo acude al reservado VIP del Club 13 custodiado por el veterano dragonkin **Thalud** (con quien Benrey conversa en lengua dracónica ancestral sobre su pasado en Triaxus). En una partida de cartas cuánticas contra los tahúres **D-52**, **Silo** y **Luigi**, consiguen el enlace con la androide intermediaria **Eclair**, mientras Triel y Axel compiten en un simulador arcade VR y Axel intercambia con Null-9 el saludo de la resistencia sintética.
+El sabio directivo shirren **Chiskisk**, comisionado de **Inversiones Estelares S.C.**, los recibe en El Ojo y les confía formalmente la investigación del complot. En el despacho de Marlene descubren la foto familiar con Ángela y Chic, y la muerte por descompresión de su colega Amélie en instalaciones de **Extracciones Estelares** (*Astral Extractions*). Guiados por las pistas, el grupo acude al reservado VIP del Club 13 custodiado por el veterano dragonkin **Thalud** (con quien Benrey conversa en lengua dracónica ancestral sobre su pasado en Triaxus). En una partida de cartas cuánticas contra los tahúres **D-52**, **Silo** y **Luigi**, consiguen el enlace con el androide intermediario **Eclair**, mientras Triel y Axel compiten en un simulador arcade VR y Axel intercambia con Null-9 el saludo de la resistencia sintética.
 
 Al descender a los túneles de desagüe, Triel repara la moto de una corredora clandestina y descubre que la **Casa Istrav** de Apostae —su propia y despótica familia noble materna de la que huyó— cerró un trato de armamento con la líder pandillera **Ferani Nadaz**. La tripulación urde un ingenioso farol: Triel se hace pasar por la altiva «Señorita Istrav», Benrey por su embajador diplomático y Marloc y Axel por implacables guardaespaldas de etiqueta. Se infiltran pacíficamente en el club *Con-Fusión*, asaltando el despacho privado: Ferani patea el escritorio esparciendo una nube brillante de cocaína cósmica y su colosal lugarteniente vesk **Brock Hilario «el Rompeportones»** lanza una granada eléctrica. Axel derriba a Brock y Ferani, y Benrey salta sobre la mesa encañonando a la líder para rendir a los refuerzos. Triel hackea los pagos encubiertos de Extracciones Estelares y Marloc purga las cámaras; bajo interrogatorio, Ferani ruega protección policial contra los drow y confiesa que la corporación contrató al sicario Kallio.
 
@@ -37,12 +37,12 @@ A la mañana siguiente, mientras desayunan en una terraza idílica del Ojo de Ab
 ### Volumen 2: El Misterio del Acreon
 *Subtítulo:* **Los Secretos del Vacío**  
 *Episodios adaptados:* **11 al 22** (Transmisión original: marzo a mayo de 2020)  
-*Extensión:* 12 Capítulos + Prólogo + Anexo (59 páginas)
+*Extensión:* 12 Capítulos + Prólogo + Anexo (95 páginas en PDF)
 
 #### Sinopsis General:
-El volumen arranca exactamente en el desayuno del Ojo de Absalón: ante la orden de arresto del dron *Observador*, Axel abre fuego contra la máquina, Benrey vuelca la mesa creando una barricada y Marloc la electrocuta con un arco voltaico, desatando una caótica fuga por el bulevar botánico. La multitud entra en pánico y queda paralizada ante las pantallas gigantes que retransmiten el colapso y desaparición de la estrella musical **Syd Velch**. El grupo se refugia en la sede de Inversiones Estelares S.C., donde el sabio comisionado **Chiskisk** y el magistrado **Anastasio Oryander** intervienen frente al letrado vesk **Kaerom** de Extracciones Estelares, desestimando la detención preventiva a cambio de nombrar a los cuatro protagonistas como peritos judiciales independientes para abordar la nave fantasma *Acreon*.
+El volumen arranca exactamente en el desayuno del Ojo de Absalón: ante la orden de arresto del dron *Observador*, Axel abre fuego contra la máquina, Benrey vuelca la mesa creando una barricada y Marloc la electrocuta con un arco voltaico, desatando una caótica fuga por el bulevar botánico. La multitud entra en pánico y queda paralizada ante las pantallas gigantes que retransmiten el colapso y desaparición de la estrella musical **Syd Velch**. El grupo se refugia en la sede de Inversiones Estelares S.C., donde el sabio comisionado **Chiskisk** y el letrado vesk **Kaerom** blindan legalmente al grupo frente a las denuncias policiales a cambio de actuar como peritos judiciales independientes para abordar la nave fantasma *Acreon*.
 
-Antes de zarpar, Marloc y Axel visitan los archivos secretos del **Arcanamirium** en busca de respuestas sobre los últimos estudios de Marlene, encontrando un comprobante de requisición interna sobre un artefacto pre-Brecha y advertencias sobre anomalías dimensionales. Simultáneamente, el grupo recibe una invitación confidencial en la embajada piramidal de **Eox**: el aristócrata elebriano **Gevalarsk Nor** y su sirviente gul **Keltus** (con sus peculiares galletitas de anís) les ofrecen patrocinio y suministros a cambio de recuperar en secreto una misteriosa caja funeraria a bordo del carguero. Tras sortear el burdo intento de Extracciones Estelares de congraciarse con ellos mediante una ridícula cesta de bienvenida corporativa (con jaboncitos aromáticos y pases de cine) y compartir una despedida familiar con **Rim Rey** y sus carnitas espaciales, el Colectivo Hardscrabble les entrega la nave ligera **Hippocampus** (*El Caballito de Mar*), comandada provisionalmente por el curtido **Capitán Otal Seris**. Triel y Marloc aprovechan la travesía para dotar a Gerty de dos brazos manipuladores adicionales (pasando a tener 4 brazos).
+Antes de zarpar, Marloc y Axel visitan los archivos secretos del **Arcanamirium** en busca de respuestas sobre los últimos estudios de Marlene, presenciando la emotiva graduación doctoral *Magna Cum Laude* de la joven shirren **Sophie Ren** con su revolucionaria tesis sobre agujeros negros y criaturas extraplanares. En los archivos hallan un comprobante de requisición interna sobre un artefacto pre-Brecha y advertencias sobre anomalías dimensionales. Simultáneamente, el grupo recibe una invitación confidencial en la embajada piramidal de **Eox**: el aristócrata elebriano **Gevalarsk Nor** y su sirviente gul **Keltus** (con sus peculiares galletitas de anís) les ofrecen patrocinio y suministros a cambio de recuperar en secreto una misteriosa caja funeraria a bordo del carguero. Tras sortear el burdo intento de Extracciones Estelares de congraciarse con ellos mediante una ridícula cesta de bienvenida corporativa (con jaboncitos aromáticos y pases de cine) y compartir una despedida familiar con **Rim Rey** y sus carnitas espaciales, el Colectivo Hardscrabble les entrega la nave ligera **Hippocampus** (*El Caballito de Mar*), comandada provisionalmente por el curtido **Capitán Otal Seris**. Triel y Marloc aprovechan la travesía para dotar a Gerty de dos brazos manipuladores adicionales (pasando a tener 4 brazos).
 
 Al cruzar la flotilla de la Armada y llegar a la órbita de cuarentena del *Acreon*, el grupo realiza un abordaje en gravedad cero y atmósfera despresurizada, grabado en diferido por el dron deportivo que el extravagante editor **Marcellus** le entregó a Benrey en Absalón. Descubren una pesadilla biológica: la tripulación fue masacrada por **Akatas**, depredadores cósmicos mudos y cuadrúpedos con tentáculos que resisten el vacío. Tras violentos combates en el hangar, la cocina y los camarotes, descubren a dos supervivientes insólitos: los goblins espaciales **Willy** (un artificiero chiflado que adora toquetear a Gerty) y **Naru** (su beligerante hermana de clan). Con su ayuda y usando salmuera de la despensa (la debilidad biológica del parásito), limpian las bodegas y aseguran el sarcófago de Eox en la bodega del *Hippocampus*. 
 
@@ -53,7 +53,7 @@ Al descifrar las bitácoras finales de la **Capitana Elba Sohar** y el devoto in
 ### Volumen 3: La Roca del Drift
 *Subtítulo:* **El Enigma Ancestral**  
 *Episodios adaptados:* **23 al 33** (Transmisión original: mayo a agosto de 2020)  
-*Extensión:* 11 Capítulos + Prólogo + Anexo (67 páginas)
+*Extensión:* 11 Capítulos + Prólogo + Anexo (76 páginas en PDF)
 
 #### Sinopsis General:
 Este volumen culmina el primer gran arco argumental de la campaña (*Incidente en la Estación Absalón*). La expedición se adentra en el corazón de la **Roca del Drift**, descendiendo por un abismo vertical en gravedad cero. En las cavernas exteriores sufren la emboscada de **Clara-247**, una letal asesina cibernética contratada por Extracciones Estelares enviada para rematarlos y no dejar testigos. Tras un feroz intercambio de disparos, Clara es abatida por Axel 42, lo que más tarde suscita dolorosas reflexiones entre Axel y su «unidad hermana» **Null-9** sobre el trágico destino de los de su clase al servicio de intereses corporativos.
@@ -73,14 +73,14 @@ El desenlace sella las tramas personales y políticas: Benrey sortea el acoso de
 ### Volumen 4: Las Torres de Qabarat
 *Subtítulo:* **El Horizonte Esmeralda**  
 *Episodios adaptados:* **34 al 45** (Transmisión original: enero a abril de 2021)  
-*Extensión:* 12 Capítulos + Prólogo + Anexo (76 páginas)
+*Extensión:* 12 Capítulos + Prólogo + Anexo (100 páginas en PDF)
 
 #### Sinopsis General:
 Tras resolver la crisis de la **Roca del Drift**, la tripulación disfruta de un breve respiro en la Estación Absalón antes de emprender su misión hacia Castrovel. Marloc acude al **Arcanamirium** para confrontar al gélido catedrático **Ambrose Boosmar**, descubriendo que la misteriosa esfera rúnica que custodia pertenecía a los archivos de la Universidad de Qabarat y está vinculada a una expedición fallida al planeta mortal **Aucturn**. Mientras tanto, Triel y el **Oficial León** mantienen un fluido e ingenioso cruce de mensajes de coqueteo a través de la holored, y la tripulación al completo acude al multitudinario concierto de **Syd Velch** en el **Domo Horizonte**; allí, una sobrecarga psíquica descontrolada del cantante desata un motín multitudinario que Benrey neutraliza con su épico «mosh pit de la rata».
 
 El equipo asiste al funeral de Marlene en el **Jardín de Cenizas**, donde Marloc rompe la frialdad protocolaria de Ambrose con un emocionante panegírico, recibiendo de manos de **Ángela** (la viuda de Marlene, idéntica a la amada perdida de Marloc en su línea original) el medallón y los cuadernos de notas de la exploradora. Tras una íntima recepción de despedida en el **Club 13** con Null-9 y la entrega a Triel por parte del Oficial León de una ficha cuántica de enlace prioritario cifrado para mantener el contacto en el vacío, la tripulación aborda la *Estrella Errante* en el Muelle 94 y salta por el Drift rumbo a **Castrovel**.
 
-Al arribar a **Qabarat**, la luminosa capital lashunta, son recibidos por la estudiante guía **Sophie Ren** y su modesto coche compacto de alquiler, mientras observan el intimidante despliegue de las cañoneras de la **Legión del Fuego en el Cielo**. En la Universidad de Qabarat, la decana kasatha **Muhali** les informa de que la célebre arqueoastrónoma **doctora Omejia Solstarni** ha sido secuestrada. Al investigar el despacho asaltado, hallan una nota oculta que los guía a la cantina portuaria **Los Cinco Arcos**. Tras interrogar al contrabandista **Tuwanas En**, sufren una violenta emboscada por un escuadrón mercenario de la Legión, desatando un tiroteo y una frenética persecución automovilística a bordo del maltrecho compacto de Sophie, donde los conjuros de *Grasa* de Marloc y los disparos de plasma de Triel les permiten eludir a un transporte artillado blindado (*warwagon*).
+Al arribar a **Qabarat**, la luminosa capital lashunta, son recibidos en el espaciopuerto por la joven shirren **Sophie Ren** —antigua tesista del Arcanamirium, ahora con estancia de investigación posdoctoral en Qabarat— y su modesto coche compacto turquesa de alquiler, mientras observan el intimidante despliegue de las cañoneras de la **Legión del Fuego en el Cielo**. En la Universidad de Qabarat, la decana kasatha **Sava Muhali** les informa de que la célebre arqueoastrónoma **doctora Omejia Solstarni** ha sido secuestrada. Al investigar el despacho asaltado, hallan una nota oculta que los guía a la cantina portuaria **Los Cinco Arcos**. Tras interrogar al contrabandista **Tuwanas En**, sufren una violenta emboscada por un escuadrón mercenario de la Legión, desatando un tiroteo y una frenética persecución automovilística a bordo del maltrecho compacto de Sophie, donde los conjuros de *Grasa* de Marloc y los disparos de plasma de Triel les permiten eludir a un transporte artillado blindado (*warwagon*).
 
 Refugiados en una bodega portuaria junto a **Casonas** y **Thiable** —corsarios de la fragata *La Venganza* del **Capitán Bonet**, derribada en Ukulam por la Legión—, la tripulación obtiene credenciales falsificadas para franquear la aduana. Al reconocer su cazadora, los corsarios evocan la memoria del legendario **Keiden Ashton** (*el Capitán sin Puerto*), y Triel revela formalmente a sus compañeros que Keiden Ashton es su padre biológico, mostrando la esfera ámbar que él le legó. Con la bendición oficiosa de la decana Muhali (quien les adelanta 2.500 créditos y les entrega la armadura *Lashunta Temp-weave* de Solstarni, que viste Benrey), el grupo investiga los archivos universitarios: mientras Triel hackea los servidores desvelando que la esfera forma parte de un conjunto de cuatro piezas rescatadas de Aucturn, Benrey y Axel orquestan una disparatada distracción en los archivos históricos con la muñeca de trapo **Annabelle**, permitiendo que Axel se cuele por los conductos de ventilación y sustraiga las tres placas metálicas restantes, cuyos glifos pre-Brecha coinciden exactamente con los de la **Roca del Drift**.
 
@@ -91,7 +91,7 @@ Con las credenciales y las reliquias en su poder, el equipo activa el ancestral 
 ### Volumen 5: El Templo de los Doce Soles
 *Subtítulo:* **El Templo de los Doce Soles**  
 *Episodios adaptados:* **46 al 59** (Transmisión original: abril a julio de 2021)  
-*Extensión:* 14 Capítulos + Prólogo + Anexo (67 páginas)
+*Extensión:* 14 Capítulos + Prólogo + Anexo (66 páginas en PDF)
 
 #### Sinopsis General:
 La expedición se interna en las profundidades de **Ukulam**, el continente prohibido de Castrovel. Tras superar las estepas de hierba blanca de Cabo Turhalu —donde Axel 42 experimenta vívidos recuerdos de su servicio en la Unidad 42—, el grupo se topa con una manada de colosales **Yaruks** alimentándose de hongos gigantes. Un disparo de advertencia provoca una catastrófica estampida que obliga al pelotón a huir en una carrera desesperada por el cañón, cruzando un puente milenario que se derrumba en un abismo de cien metros tras su paso, cortando cualquier retirada.
@@ -111,7 +111,7 @@ En el Gran Atrio Columnado, el pelotón asalta la trinchera fortificada de la ca
 ### Volumen 6: El Fantasma en la Máquina
 *Subtítulo:* **El Fantasma en la Máquina**  
 *Episodios adaptados:* **60 al 72** (Transmisión original: agosto a noviembre de 2021)  
-*Extensión:* 13 Capítulos + Prólogo + Anexo (60 páginas)
+*Extensión:* 13 Capítulos + Prólogo + Anexo (59 páginas en PDF)
 
 #### Sinopsis General:
 Tras la caída de Tahomen en la Cámara de las Estrellas y la neutralización de los explosivos de Avissa, la tripulación emprende el peligroso descenso de la Cordillera Cantante escoltando a la doctora Omejia Solstarni hacia la civilización. El viaje de regreso por la selva de Ukulam se convierte en una odisea: las lluvias torrenciales desbordan los cañones y, en el vado del río, una milenaria aberración bífida —el temible Campin y su enjambre de sanguijuelas fluviales alucinógenas— embosca al equipo arrastrando a Solstarni a las aguas. Gracias al fuego de cobertura de Axel y la tecnomagia criogénica de Marloc congelando los rápidos con *Null-Vector Cryo*, la científica es salvada y la criatura neutralizada.
@@ -385,9 +385,9 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 
 #### Eclair
 * **Especie:** Androide  
-* **Rol:** Activista de derechos sintéticos y amiga íntima de Marlene Boosmar y A.Xel 42  
+* **Rol:** Activista de derechos sintéticos y amigo íntimo de Marlene Boosmar y A.Xel 42  
 * **Aparición en volúmenes:** **Volumen 1, Volumen 2**  
-* **Descripción:** Androide sensible de cabello azul cobalto e iris dorados. Enlace clave entre los círculos clandestinos de la estación y Marlene. Contacta encriptadamente con Axel para advertirle sobre el peligro de radicalización armada de Null-9 y el Frente de Liberación Androide, acordando citas clandestinas en el Club 13.
+* **Descripción:** Varón androide de piel azul noche, circuitos de color naranja brillante y mirada serena. Enlace clave entre los círculos clandestinos de la estación y Marlene. Comparte un estrecho vínculo con Axel, a quien advierte sobre el peligro de radicalización armada de Null-9 y el Frente de Liberación Androide, antes de anunciar su decisión voluntaria de someterse a la renovación para ceder su chasis a una nueva alma sintética.
 
 #### Thalud
 * **Especie:** Dragonkin  
@@ -414,22 +414,22 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 * **Descripción:** Estibador del Anillo que despierta a Benrey en su camarote con las primicias sobre la reaparición del carguero *Acreon*.
 
 #### Silo y Luigi
-* **Especie:** Humana (Silo) / Ysoki (Luigi)  
+* **Especie:** Androide (Silo) / Ysoki (Luigi)  
 * **Rol:** Tahúres habituales de las mesas clandestinas del Club 13  
 * **Aparición en volúmenes:** **Volumen 1**  
-* **Descripción:** Silo (contrabandista de trenzas fucsia fosforescentes) y Luigi (viejo minero desdentado y experto en dados) disputan la partida de cartas cuánticas con D-52 en la que la tripulación descubre el rastro de Eclair.
+* **Descripción:** Silo (operaria androide de llamativas trenzas fucsia fosforescentes y ojos plateados) y Luigi (viejo minero ysoki desdentado y experto en dados) disputan la partida de cartas cuánticas con D-52 en la que la tripulación descubre el rastro de Eclair.
 
 #### Sophie Ren
-* **Especie:** Lashunta (damaya)  
-* **Rol:** Estudiante guía de la Universidad de Qabarat  
-* **Aparición en volúmenes:** **Volumen 4**  
-* **Descripción:** Joven afable que asiste a la tripulación en Qabarat a bordo de su sacrificado compacto de alquiler.
+* **Especie:** Shirren  
+* **Rol:** Investigadora posdoctoral y guía académica en la Universidad de Qabarat  
+* **Aparición en volúmenes:** **Volumen 2, Volumen 4**  
+* **Descripción:** Entusiasta shirren que defendió su tesis doctoral *Magna Cum Laude* sobre física de agujeros negros y criaturas extraplanares en el Arcanamirium de Absalón (Vol. 2). Posteriormente obtuvo una estancia de investigación posdoctoral en la Universidad de Qabarat bajo la tutela de la Decana Muhali (Vol. 4), donde ejerce de anfitriona institucional para la tripulación y de audaz conductora de escape a bordo de su modesto utilitario compacto turquesa.
 
-#### Decana Muhali
+#### Decana Sava Muhali
 * **Especie:** Kasatha (cuatro brazos)  
 * **Rol:** Decana de la Universidad de Qabarat  
 * **Aparición en volúmenes:** **Volumen 4, Volumen 5, Volumen 6 (gratitud institucional)**  
-* **Descripción:** Dignataria académica que contrata oficiosamente a la tripulación para rescatar a Solstarni y salda con gratitud infinita la deuda tras su exitoso regreso.
+* **Descripción:** Dignataria académica kasatha que contrata oficiosamente a la tripulación para rescatar a la doctora Solstarni y salda con gratitud infinita la deuda institucional tras su exitoso regreso a Qabarat.
 
 #### Casonas y Thiable
 * **Especie:** Lashuntas  
@@ -448,10 +448,10 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 ### Antagonistas y Rivales
 
 #### Kallio
-* **Especie:** Drow (elfo oscuro)  
-* **Rol:** Francotirador profesional y asesino a sueldo de élite  
+* **Especie:** Humano  
+* **Rol:** Francotirador profesional y asesino a sueldo  
 * **Aparición en volúmenes:** **Volumen 1**  
-* **Descripción:** Sicario implacable contratado en secreto por Extracciones Estelares para abatir a Marlene Boosmar de un disparo certero al pecho en el Muelle 94, desatando la guerra de bandas entre los Reyes del Nivel 21 y los 21 Watts.
+* **Descripción:** Joven humano de tez marcada y cabello claro, sicario a sueldo contratado por el enlace drow de Extracciones Estelares para abatir a Marlene Boosmar de un disparo certero al pecho en el Muelle 94, desatando la guerra de bandas entre los Reyes del Nivel 21 y los 21 Watts.
 
 #### Ferani Nadaz y Brock Hilario «el Rompeportones»
 * **Especie:** Humana cibernética (Ferani) / Vesk (Brock)  
@@ -609,7 +609,7 @@ Constructos bípedos blindados de grado militar desplegados en la Torre Prisma d
 | **Aliados a Bordo** | Ninguno (solo los 4 fundadores + Gerty) | Se unen los goblins **Willy** y **Naru** | Willy y Naru (ciudadanos de honor y protegidos de Eox) | Willy y Naru (en órbita); Sophie Ren (Qabarat); Dr. Kaeral (Turhalu) | Willy y Naru (en órbita); **Doctora Omejia Solstarni** (rescatada); Dr. Kaeral | Willy y Naru; **La Conciencia de la Nave**; Bumak Istrav (enlace en Absalón); Capitán De Bonet e Ila |
 | **Contactos / Red** | **Null-9**, **Eclair**, Chic, Rim Rey, Sal, Marcelo, Chiskisk, Thalud | Rim Rey, Embajador Nor, Keltus, Capitán Otal Seris | **Null-9** (red androide), Rim Rey, Embajador Nor, Chiskisk | **Null-9**, Oficial León (enlace con Triel), Decana Muhali, Casonas y Thiable | **Null-9**, Decana Muhali, claustro de la Universidad de Qabarat | **Bumak Istrav** (Casa Istrav), Embajador Gevalarsk Nor, Cheesecake, Capitán De Bonet, Templo de Triuno |
 | **Vínculos Afectivos** | Cohesión del cuarteto; quiebre de Marloc ante la viuda Ángela; amistad Triel-Gerty; Axel y Eclair; pasado de Benrey | Coqueteo y química por comunicador entre **Triel Istrav** y el **Oficial León** | Complicidad y guiños entre **Triel** y el **Oficial León** en el arbitraje; Axel reflexiona sobre los suyos con Null-9 | Triel y León intercambian mensajes cifrados y token cuántico; Triel revela ser hija de Keiden Ashton | Triel supera trauma de Oshiga; Benrey reconciliado con su pasado; Axel asume Unidad 42 | Axel asimila la verdad de su chasis previo; Triel reconectada con su primo Bumak; Benrey asume el mando como capitán ante la conciencia viva de la nave |
-| **Facciones Rivales** | Reyes del Nivel 21 (neutralizados), sicario drow Kallio, Extracciones Estelares | Extracciones Estelares (vía letrados Kaerom y Srta. George) | Extracciones Estelares (derrotada) y **Flota de los Cuerpos** | Legión del Fuego en el Cielo, mercenarios de Eroopa Cual y el cazador Salas | **Culto del Devorador** (célula de Castrovel destruida: Tahomen, Salas y Avissa muertos) | **Extracciones Astrales** (Señorita Joss neutralizada; archivos expuestos) y Legión del Cielofuego (burlada) |
+| **Facciones Rivales** | Reyes del Nivel 21 (neutralizados), sicario humano Kallio (bajo enlace drow), Extracciones Estelares | Extracciones Estelares (vía Srta. Joss / George) | Extracciones Estelares (derrotada) y **Flota de los Cuerpos** | Legión del Fuego en el Cielo, mercenarios de Eroopa Cual y el cazador Salas | **Culto del Devorador** (célula de Castrovel destruida: Tahomen, Salas y Avissa muertos) | **Extracciones Astrales** (Señorita Joss neutralizada; archivos expuestos) y Legión del Cielofuego (burlada) |
 | **Pactos Secretos** | Contrato con Chiskisk en nombre del ausente Clamor Sambor | Sarcófago funerario de Eox asegurado en secreto con Nor y Keltus | Sarcófago entregado al Embajador Nor; recompensa cobrada | Contrato con la Decana Muhali (2.500 cr.); salvoconducto corsario de *La Venganza* | Rescate de Solstarni cumplido; telemetría del Devastador Estelar recuperada | Alianza encubierta con Embajador Nor (fondos y salvoconducto); pacto de sangre con Bumak Istrav |
 | **Misterio Cósmico** | Asesinato de Marlene Boosmar; enigma de parentesco y esfera rúnica | Anomalía dimensional de la Roca del Drift; enigma del colapso de Syd Velch | Revelación de la baliza hacia el **Degenerador Estelar** | Relación de la esfera con Aucturn, portales de Aiakos y Dinastía Osuwak | Confirmado: la Roca del Drift es la llave de control; coordenadas apuntan a **La Diáspora** | El alma previa de Axel en la Avenida 41; el traslado de conciencia en la nave; Marcelus oculto en el asteroide de La Diáspora |
 | **Posición Actual** | Terraza del Ojo de Absalón (irrupción del dron policial de arresto) | Umbral exterior de la Roca del Drift | Héroes aclamados en Absalón listos para viajar al Vasto | Internándose en la selva prohibida de Ukulam hacia la Cordillera Cantante | Retornando de Ukulam a la *Estrella Errante* para zarpar rumbo a La Diáspora | Navegando por el Drift a bordo de la *Estrella Errante* con rumbo fijo al cinturón de La Diáspora |

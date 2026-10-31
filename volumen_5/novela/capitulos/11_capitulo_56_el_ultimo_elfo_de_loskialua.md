@@ -62,6 +62,6 @@ Alzó el rostro hacia los cuatro aventureros. En sus ojos ya no había hostilida
 
 Con un último destello de luz, el cuerpo del centinela se desvaneció en el aire, transformándose en una lluvia de motas doradas que ascendieron hacia la bóveda celeste de Castrovel, dejando sobre el suelo únicamente su empuñadura ceremonial.
 
-En ese instante de consagración mística y superación absoluta, una poderosa oleada de sincronización recorrió a los cuatro héroes. Los misterios descifrados, la supervivencia ante las bestias de Ukulam y la victoria frente al guardián milenario elevaron sus capacidades al **quinto nivel de maestría**. Sus reflejos se multiplicaron, su resistencia se forjó como el adamantine y sus reservas de poder alcanzaron un nuevo pináculo heroico.
+En ese instante de consagración mística y superación absoluta, una profunda conmoción recorrió a los cuatro compañeros. Los misterios descifrados, la supervivencia incansable ante las bestias de Ukulam y la victoria frente al guardián milenario sellaron una madurez y compenetración inéditas en el grupo. Sus reflejos se afinaron como el filo de una hoja de plasma, su determinación se forjó como el adamantine y una renovada confianza templó el espíritu de la tripulación.
 
 Frente a ellos, pesadas y enigmáticas, las grandes puertas de bronce y cristal del Templo de los Doce Soles aguardaban su llegada.
