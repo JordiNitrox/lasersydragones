@@ -21,7 +21,7 @@
 
 | Capítulo / Escena | Episodio Podcast | Marcas Aprox. | Tipología | Descripción del Origen en la Mesa |
 |---|---|---|---|---|
-| **Prólogo: El Eco del Futuro** | N/A | N/A | `[LIT-AMBIENTE]` / `[CANON-CTX]` | Ambientación del páramo de Eox, la omnipresencia de Zo! y el enigma temporal de Sambert Klamburg. |
+| **Prólogo: El Eco del Futuro** | N/A | N/A | `[LIT-AMBIENTE]` / `[CANON-CTX]` | Ambientación del páramo de Eox, la omnipresencia de Zo! y el enigma temporal de Clamor Sambor. |
 | **Capítulo 1: El Baile de la Bolita** | Ep. 99 | [00:28 - 01:15:00] | | |
 | · *I. El apagón en la arena de Zo!* | Ep. 99 | [00:45 - 00:25:10] | `[MESA-ACTO]` / `[LIT-AMBIENTE]` | Corte de emisión deliberado de Zo!; nave de asalto furtiva deja caer al coloso de la Casa Brevak. |
 | · *II. El baile de las esferas reflectoras* | Ep. 99 | [00:25:10 - 00:52:30] | `[MESA-ACTO]` | Esferas de púas reflectantes que rebotan láseres; torretas fijas; embestida del bruto contra Benrey. |
@@ -52,7 +52,7 @@
 | · *III. El golpe al pulsador rojo y la gloria de Zo!* | Ep. 105 | [00:58:30 - 01:13:00] | `[MESA-ACTO]` | Discurso dialéctico de Benrey; salto coordinado con A.Xel para aplastar el pulsador y sellar la victoria. |
 | **Capítulo 8: Una Segunda Oportunidad** | Ep. 106 | [00:30 - 01:07:23] | | |
 | · *I. La retirada de Gallito y la confesión de Brody Malone* | Ep. 106 | [00:30 - 00:38:20] | `[MESA-DIALOGO]` | Despedida de Gallito; Brody Malone (Dragonkin Borai) revela los planes de Marcellus en la Necrogarganta. |
-| · *II. El anagrama maestro: Sambert Klamburg es Marloc* | Ep. 106 | [00:38:20 - 00:52:15] | `[MESA-ACTO]` / `[MESA-DIALOGO]` | Triel procesa las letras en el datapad: SAMBERT KLAMBURG = MARLOC BOOSMAR; colapso existencial del grupo. |
+| · *II. El anagrama maestro: Clamor Sambor es Marloc* | Ep. 106 | [00:38:20 - 00:52:15] | `[MESA-ACTO]` / `[MESA-DIALOGO]` | Triel procesa las letras en el datapad: CLAMOR SAMBOR = MARLOC BOSMAR; colapso existencial del grupo. |
 | · *III. El colapso del tecnomante y la visión de los Doce Soles* | Ep. 106 | [00:52:15 - 01:06:50] | `[MESA-ACTO]` / `[LIT-AMBIENTE]` | Hemorragia nasal de Marloc; visiones de la línea temporal previa y la catástrofe de los Doce Soles. |
 | **Capítulo 9: ¿Cómo está el arroz?** | Ep. 107 | [00:30 - 01:39:21] | | |
 | · *I. Ecos del futuro y lágrimas en el taller* | Ep. 107 | [00:30 - 00:35:10] | `[MESA-ACTO]` / `[MESA-DIALOGO]` | Visión de Chiskisk de luto por Ambrose Boosmar; Triel cura a Marloc y sella un pacto de silencio fraternal. |
@@ -68,7 +68,7 @@
 | · *III. El disparo letal a través de la pupila cósmica* | Ep. 109 | [00:58:30 - 01:14:40] | `[MESA-ACTO]` | A.Xel ejecuta un disparo milimétrico con el rifle criogénico a través del ojo del titán; extracción de datos. |
 | **Capítulo 12: Carta de Despido** | Ep. 110 | [00:30 - 01:19:26] | | |
 | · *I. El juicio desde la estratosfera* | Ep. 110 | [00:30 - 00:19:50] | `[MESA-ACTO]` / `[LIT-AMBIENTE]` | Bombardero Tenebris de la Flota de Cadáveres pulveriza el pabellón; escape por los cañones de osamentas. |
-| · *II. El desfiladero de los leales* | Ep. 110 | [00:19:50 - 00:27:30] | `[MESA-DIALOGO]` | Marcellus Galway y los Bone Troopers emboscan al grupo junto a la fosa de ácido; Benrey y el Fast Talk. |
+| · *II. El desfiladero de los leales* | Ep. 110 | [00:19:50 - 00:27:30] | `[MESA-DIALOGO]` | Marcellus y los Bone Troopers emboscan al grupo junto a la fosa de ácido; Benrey y el Fast Talk. |
 | · *III. El vals sobre el pozo de ácido* | Ep. 110 | [00:27:30 - 01:12:00] | `[MESA-ACTO]` | Polimorfia de Marloc; martillo de Gerty; Triel colgada sobre el ácido a 40 pies; francotirador de A.Xel. |
 | · *IV. La liquidación de cuentas* | Ep. 110 | [01:12:00 - 01:17:40] | `[MESA-ACTO]` / `[MESA-DIALOGO]` | Ritual del arroz y vinagre sobre Marcellus; extracción de coordenadas de Nejeor y la «Carta de Despido». |
 | · *V. Salto hacia el vacío* | Ep. 110 | [01:17:40 - 01:19:26] | `[LIT-AMBIENTE]` / `[CANON-CTX]` | Regreso a Orphys; despegue de la *Estrella Errante* y salto a la Deriva rumbo al gigante gaseoso Nejeor VI. |

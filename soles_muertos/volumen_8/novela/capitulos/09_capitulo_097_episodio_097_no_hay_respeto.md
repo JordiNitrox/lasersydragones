@@ -72,7 +72,7 @@ Benrey alzó su sombrero con insolencia imperial y rugió hacia la lente con una
 
 ***
 
-### III. El contrabando en la pierna cibernética y el mensaje del padre
+### III. El contrabando en la pierna cibernética y el mensaje de Marcellus
 
 El vestuario de acceso a los niveles inferiores bullía de tensión marcial. Decenas de gladiadores novatos y veteranos de la arena se equipaban entre taquillas metálicas, enfundándose monos numerados de colores chillones que parecían extraídos de un macabro juego infantil.
 
@@ -118,9 +118,9 @@ En medio de la penumbra del descenso, el comunicador de Benrey emitió un doble 
 
 Sin embargo, el rostro que emergió en el holograma no pertenecía al gladiador.
 
-Era un rostro de rasgos roedores maduros, severos y surcados por cicatrices de combate. La mirada fría y calculadora era inconfundible para Benrey: su propio padre, Marcellus Galway.
+Era un rostro severo, aristocrático y gélido, proyectado desde la penumbra corporativa de las altas torres de Absalón. La mirada fría y calculadora era inconfundible para Benrey: su antiguo promotor y mecenas, Marcellus.
 
-—*«Hola, Benrey»* —articuló la voz profunda y desprovista de afecto paternal—. *«Me alegra constatar que has tenido la sensatez de descender a las fosas por tu propio pie. En la Estación Absalón nadie sospechará de un concursante amateur que perece en los juegos de telerrealidad de Zo!. No habrá preguntas incómodas para Inversiones Estelares ni investigaciones molestas de la Armada sobre nuestras operaciones conjuntas con la Flota Cadáver. Adiós, hijo. Fue un error no haberte eliminado en la Diáspora.»*
+—*«Hola, Benrey»* —articuló la voz profunda y gélida—. *«Me alegra constatar que has tenido la sensatez de descender a las fosas por tu propio pie. En la Estación Absalón nadie sospechará de un concursante amateur que perece en los juegos de telerrealidad de Zo!. No habrá preguntas incómodas para Inversiones Estelares ni investigaciones molestas de la Armada sobre nuestras operaciones conjuntas con la Flota Cadáver. Adiós, Benrey. Fue un error no haberte eliminado en la Diáspora.»*
 
 La proyección se extinguió.
 
@@ -132,7 +132,7 @@ Marloc puso una mano firme sobre el hombro del roedor:
 
 —¿Cuál? —preguntó el ysoki con voz sorda.
 
-—Subestimó a su tripulación —respondió Triel, cargando su rifle con un chasquido definitivo—. Vamos a reventar los juegos de Zo!, vamos a destrozar a Gallito Peligro y luego iremos a por tu padre.
+—Subestimó a su tripulación —respondió Triel, cargando su rifle con un chasquido definitivo—. Vamos a reventar los juegos de Zo!, vamos a destrozar a Gallito Peligro y luego iremos a por Marcellus.
 
 ***
 

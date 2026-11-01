@@ -109,7 +109,7 @@ TOC_ITEMS = [
         "id": "prologo",
         "search_key": "Prólogo: El Eco de los Doce Soles",
         "title": "Prólogo: El Eco de los Doce Soles",
-        "sub": "El imperio de Zo!, los páramos de Eox y el enigma de Sambert Klamburg"
+        "sub": "El imperio de Zo!, los páramos de Eox y el enigma de Clamor Sambor"
     },
     {
         "id": "cap_1",
@@ -157,7 +157,7 @@ TOC_ITEMS = [
         "id": "cap_8",
         "search_key": "Capítulo 8: Una Segunda Oportunidad",
         "title": "Capítulo 8: Una Segunda Oportunidad",
-        "sub": "Basado en el Episodio 106 · La confesión de Brody Malone y el gran anagrama: Sambert Klamburg es Marloc"
+        "sub": "Basado en el Episodio 106 · La confesión de Brody Malone y el gran anagrama: Clamor Sambor es Marloc"
     },
     {
         "id": "cap_9",
@@ -181,7 +181,7 @@ TOC_ITEMS = [
         "id": "cap_12",
         "search_key": "Capítulo 12: Carta de Despido",
         "title": "Capítulo 12: Carta de Despido",
-        "sub": "Basado en el Episodio 110 · Bombardeo orbital, duelo contra Marcellus Galway en el pozo de ácido y salto a Nejeor"
+        "sub": "Basado en el Episodio 110 · Bombardeo orbital, duelo contra Marcellus en el pozo de ácido y salto a Nejeor"
     },
     {
         "id": "glosario",
@@ -492,7 +492,7 @@ def generate_html(page_numbers=None):
     Adaptación literaria integral de los episodios 99 al 110 del podcast <strong>Lasers y Dragones</strong>.<br>
     <em>El asedio gladiatorio de Zo!, el dilema moral de Gallito Peligro,<br>
     la persecución en la autopista radiactiva, el despertar del titán Ellicoth<br>
-    y el descubrimiento del gran enigma temporal de Sambert Klamburg.</em>
+    y el descubrimiento del gran enigma temporal de Clamor Sambor.</em>
   </p>
   
   <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 40px auto 20px auto;">
@@ -523,15 +523,17 @@ def generate_html(page_numbers=None):
     La historia adapta con fidelidad absoluta y pulso literario la dirección narrativa del Game Master <strong>Roberto</strong>, junto al elenco original de jugadores:
   </p>
   
-  <!-- CUADRO DE JUGADORES Y CRÉDITOS DE LA MESA -->
-  <div style="background-color: #f7fafc; border: 1px solid #e2e8f0; border-left: 3px solid #b8860b; padding: 6px 12px; margin-bottom: 10px;">
-    <p style="text-align: center; font-size: 9.5pt; font-weight: bold; color: #1a365d; margin: 0 0 4px 0; text-indent: 0; text-transform: uppercase; letter-spacing: 1px;">
-      ✦ Mesa de Juego Original ✦
+  <!-- MESA DE JUEGO ORIGINAL -->
+  <div style="margin: 8px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 8.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 6px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
     </p>
-    <p style="text-align: center; font-size: 8.5pt; color: #2d3748; line-height: 1.35; margin: 0; text-indent: 0;">
-      <strong>Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>)<br>
-      <strong>Miguel:</strong> Benrey Galway <em>(Emisario Ysoki)</em> &nbsp;|&nbsp; <strong>Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em><br>
-      <strong>Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante Humano)</em> &nbsp;|&nbsp; <strong>Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benrey Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante Humano)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
     </p>
     <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
   </div>

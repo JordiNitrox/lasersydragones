@@ -56,7 +56,7 @@ Waneda Trux, la burócrata ghoul del gobierno eoxiano, examinó las acreditacion
 
 Marloc y A.Xel se acercaron al mostrador. El tecnomante apoyó las palmas sobre la madera sintética, yendo directo al grano:
 
-—Brody Malone nos ha confirmado la identidad de nuestro enemigo. Marcellus Galway no es un simple productor; es un agente durmiente de la Flota de Cadáveres de naturaleza Jiangshi. Un vampiro oriental reanimado mediante sellos osteománticos.
+—Brody Malone nos ha confirmado la identidad de nuestro enemigo. Marcellus no es un simple productor; es un agente durmiente de la Flota de Cadáveres de naturaleza Jiangshi. Un vampiro oriental reanimado mediante sellos osteománticos.
 
 La comisionada enarcó una ceja marchita:
 

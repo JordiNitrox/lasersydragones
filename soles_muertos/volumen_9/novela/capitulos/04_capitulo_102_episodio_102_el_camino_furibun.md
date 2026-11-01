@@ -50,7 +50,7 @@ Benrey permaneció inmóvil. Las palabras del showman resonaban en su pecho con 
 
 —Y cuando llegaste a la arena de Zo!... —continuó Gallito en un murmullo derrotado—, me di cuenta de la trampa. Mi equipo no murió por errores del juego. Nos soltaron drones de asalto no autorizados, esferas asesinas que reventaron los cráneos de mis compañeros... Alguien manipuló todo el evento desde las sombras para asegurarse de que nadie saliera vivo de este sector.
 
-—Marcellus —sentenció Marloc desde su rincón, con la mirada perdida en los filamentos rúnicos de su brazo cibernético—. Marcellus Galway organizó la emboscada para liquidar a Benrey y a nuestra tripulación, y utilizó el resentimiento de Gallito como el cebo perfecto para justificar nuestra presencia en la arena ante la opinión pública.
+—Marcellus —sentenció Marloc desde su rincón, con la mirada perdida en los filamentos rúnicos de su brazo cibernético—. Marcellus organizó la emboscada para liquidar a Benrey y a nuestra tripulación, y utilizó el resentimiento de Gallito como el cebo perfecto para justificar nuestra presencia en la arena ante la opinión pública.
 
 ***
 

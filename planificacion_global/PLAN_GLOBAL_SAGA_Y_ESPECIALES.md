@@ -139,7 +139,7 @@ graph TD
 #### ☠️ VOLUMEN 9: *Mundos Fragmentados III: La Necrogarganta de Eox* (Episodios 99 al 110)
 * **Episodios:** 99 al 110 (12 episodios / ~12 capítulos).
 * **Mapeo:** *Starfinder: Dead Suns - Libro 3: Splintered Worlds (Parte 3: The Necrogorge)*.
-* **Giro Maestro (Episodio 106 - «Una Segunda Oportunidad»):** Revelación del anagrama de **Sambert Klamburg = Marloc Boosmar**. Triel descubre que la megacorporación que los contrató (Inversiones Estelares S.C.) fue fundada por un Marloc de una línea temporal futura para darles una segunda oportunidad y evitar la destrucción del cosmos.
+* **Giro Maestro (Episodio 106 - «Una Segunda Oportunidad»):** Revelación del anagrama de **Clamor Sambor = Marloc Bosmar**. Triel descubre que la megacorporación que los contrató (Inversiones Estelares S.C.) fue fundada por un Marloc de una línea temporal futura para darles una segunda oportunidad y evitar la destrucción del cosmos.
 * **Sinopsis:** Con el favor de la audiencia no-muerta, los Atómicos marchan por los páramos marchitos de Eox hacia la profunda Necrogarganta. Tras pactar con el Dragonkin y abatir al titánico y monstruoso Ellicoth («Ellicujo»), asaltan el complejo fortificado, derrotan a la sabio óseo Xerantha Zatus y escapan al filo del bombardeo orbital con los secretos de la Flota de los Cuerpos (Cierre del Libro 3 de Paizo).
 
 #### 🕸️ VOLUMEN 10: *Lazos de Sangre: La Sombra de Apostae* (Episodios 111 al 122)
@@ -240,12 +240,12 @@ La grandeza de esta campaña radica en la genialidad creativa compartida entre e
 * **Contexto:** Keiden no estaba secuestrado pasivamente por la Casa Istrav en Apostae; era el audaz capitán que robó el motor de Besmara y quedó atrapado en el limbo temporal del Maelstrom. La Piedra Corazón actúa como faro de retorno.
 * **Ejecución Literaria:** El surrealismo de la física del Maelstrom (cambio temporal de cuerpos en el Ep. 202) contrasta con la intensidad emocional del reencuentro paternofilial y el juicio del Inevitable.
 
-### 🏢 GIRO 5: El Enigma de Inversiones Estelares S.C. y el Anagrama de Sambert Klamburg (Volumen 9, Ep. 106)
+### 🏢 GIRO 5: El Enigma de Inversiones Estelares S.C. y el Anagrama de Clamor Sambor (Volumen 9, Ep. 106)
 * **Naturaleza del Giro:** Paradoja temporal de causa y efecto / Conspiración corporativa de auxilio propio.
-* **Contexto:** Desde su fundación en la Estación Ábsalon, la tripulación opera bajo contrato de la megacorporación **Inversiones Estelares S.C.** (*IESC*), cuyo presidente invisible es el magnate **Sambert Klamburg**.
+* **Contexto:** Desde su fundación en la Estación Ábsalon, la tripulación opera bajo contrato de la megacorporación **Inversiones Estelares S.C.** (*IESC*), cuyo presidente invisible es el magnate **Clamor Sambor**.
 * **El Descubrimiento en Eox (Episodio 106: *«Una Segunda Oportunidad»*):**
   Triel analiza la correspondencia y los registros corporativos, reordenando las letras del nombre de su enigmático jefe en una brillante revelación analítica:
-  $$\text{SAMBERT KLAMBURG} \longleftrightarrow \text{MARLOC BOOSMAR}$$
+  $$\text{CLAMOR SAMBOR} \longleftrightarrow \text{MARLOC BOSMAR}$$
 * **La Revelación:** Inversiones Estelares S.C. fue fundada por un **Marloc Boosmar de una línea temporal futura o dimensión alterna** (donde los héroes fracasaron ante el Devastador Estelar y presenciaron el fin del universo).
 * **Ejecución Literaria:** Este Marloc del futuro creó la corporación, financió la nave *Estrella Errante*, contrató a los cuatro protagonistas en Ábsalon, envió los mensajes de advertencia a través de Marlín y manipuló sutilmente los acontecimientos (salvando a Olivia y guiando el rescate de Ángela) para brindarle a su contraparte del presente **«una segunda oportunidad»** con la que enmendar sus errores y salvar la galaxia.
 

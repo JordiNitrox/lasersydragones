@@ -1,0 +1,1079 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lasers y Dragones: La Sombra de Apostae</title>
+<style>
+  @page {
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
+  }
+  
+  body {
+    font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section-heading-main {
+    font-size: 22pt;
+    text-align: center;
+    color: #0b1a30;
+    margin-top: 0;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 10px;
+    page-break-before: always;
+    break-before: page;
+  }
+
+  /* Índice de contenidos */
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 4px 0;
+  }
+  
+  .toc-table td {
+    padding: 2px 3px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 8.4pt;
+    line-height: 1.15;
+  }
+  
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+  }
+  
+  .toc-sub {
+    font-size: 7.5pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 1.1;
+  }
+  
+  /* Título de Capítulo con salto de página infalible en LibreOffice */
+  h2.chapter-name {
+    page-break-before: always;
+    break-before: page;
+    font-size: 22pt;
+    color: #0b1a30;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1.3;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+  }
+  
+  h3.section-title {
+    font-size: 14pt;
+    color: #2b6cb0;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  h3.subsection-title {
+    font-size: 12.5pt;
+    color: #2d3748;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-style: italic;
+    border-left: 3px solid #b8860b;
+    padding-left: 10px;
+  }
+  
+  h4.subsection-title {
+    font-size: 11pt;
+    color: #1a365d;
+    margin-top: 14px;
+    margin-bottom: 6px;
+    font-weight: bold;
+  }
+  
+  p {
+    text-align: justify;
+    text-indent: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0.6em;
+  }
+  
+  p:first-of-type {
+    text-indent: 0;
+  }
+  
+  .divider {
+    text-align: center;
+    color: #b8860b;
+    font-size: 14pt;
+    margin: 25px 0;
+    letter-spacing: 5px;
+  }
+  
+  blockquote.quote {
+    border-left: 3px solid #b8860b;
+    margin: 15px 25px;
+    padding: 8px 15px;
+    background: #fdfaf6;
+    font-style: italic;
+    color: #4a5568;
+  }
+  
+  blockquote.quote p {
+    text-indent: 0;
+    margin-bottom: 0;
+  }
+  
+  ul.bullet-list {
+    margin: 10px 0 15px 25px;
+    padding: 0;
+  }
+  
+  ul.bullet-list li {
+    margin-bottom: 5px;
+    text-align: justify;
+  }
+
+  /* PORTADA A4 ELEGANTE */
+  .cover-page {
+    page-break-before: auto;
+    page-break-after: always;
+    break-after: page;
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    border: 4px double #b8860b;
+    padding: 35px 25px;
+    box-sizing: border-box;
+    background: radial-gradient(circle at center, #ffffff 0%, #fbf9f5 100%);
+  }
+</style>
+</head>
+<body>
+
+<!-- PÁGINA 1: PORTADA EDITORIAL HOMOGÉNEA -->
+<div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+    Ópera Espacial · Universo Starfinder
+  </p>
+  
+  <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+  
+  <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+    LASERS Y DRAGONES
+  </div>
+  
+  <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+    La Sombra de Apostae
+  </div>
+  
+  <div style="font-size: 13pt; font-weight: bold; color: #2b6cb0; margin: 0 0 20px 0; letter-spacing: 1.5px; text-transform: uppercase; text-align: center;">
+    Lazos de Sangre
+  </div>
+  
+  <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+  
+  <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+    ✦ &nbsp; ◈ &nbsp; ✦
+  </div>
+  
+  <p style="font-size: 10.5pt; line-height: 1.6; color: #4a5568; margin: 25px auto; max-width: 440px; text-indent: 0; text-align: center;">
+    Adaptación literaria integral de los episodios 111 al 122 del podcast <strong>Lasers y Dragones</strong>.<br>
+    <em>El fin de Marcellus y la revelación de Inversiones Estelares,<br>
+    la infiltración servil en las fosas industriales de Thanox,<br>
+    los archivos de Keiden Ashton y el duelo fratricida con la Casa Istrav.</em>
+  </p>
+  
+  <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 40px auto 20px auto;">
+  
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 9.5pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+    VOLUMEN X · LAZOS DE SANGRE: LA SOMBRA DE APOSTAE
+  </p>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 2 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 2: NOTA EDITORIAL E INTRODUCCIÓN -->
+<div style="page-break-before: always; break-before: page; padding: 10px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 12px; padding-bottom: 6px; font-size: 16pt;">
+    Nota Editorial e Introducción
+  </h2>
+  
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 8px;">
+    La presente obra constituye el décimo volumen de la novelización de las sesiones reales de juego de rol de mesa (<em>actual play</em>) emitidas en el podcast costarricense <strong>Lasers y Dragones</strong>, correspondiente a los episodios 111 al 122 de la campaña. Este libro desarrolla un arco dramático canónico propio y fundamental de la mesa de juego, conectando el desenlace del conflicto con la Flota de Cadáveres en Eox con los secretos más íntimos y dolorosos del linaje de Triel Istrav.
+  </p>
+  
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 8px;">
+    En este volumen, la tripulación de la <em>Estrella Errante</em> (Benrey Galway, Triel Istrav, Marloc Boosmar, A.Xel 42 y el meca de asalto pesado Gerty) cierra definitivamente sus cuentas pendientes en <strong>Eox</strong>. Tras abatir al vampiro jiangshi Marcellus en la fosa de ácido de la Necrogarganta y encarar la revelación de la sede de <strong>Inversiones Estelares S.C.</strong> —donde Marloc Boosmar asume el sobrecogedor peso de haber fundado la corporación desde una línea temporal futura para otorgarles una segunda oportunidad—, el grupo emprende una incursión clandestina hacia la urbe industrial de <strong>Thanox</strong>. Disfrazados como personal de servicio doméstico en el complejo eugenésico y administrativo de la aristocrática <strong>Casa Istrav</strong>, la tripulación arriesga sus vidas entre intrigas palaciegas drow, conductos tóxicos y contratos de servidumbre para descubrir la verdad sobre la fuga de Keiden Ashton, culminando en un duelo fratricida encarnizado entre Triel y su hermanastra Jhidel Istrav antes de preparar el salto estelar hacia el distante gigante gaseoso Nejeor VI.
+  </p>
+
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 10px;">
+    La historia adapta con fidelidad absoluta y pulso literario la dirección narrativa del Game Master <strong>Roberto</strong>, junto al elenco original de jugadores:
+  </p>
+  
+  <!-- MESA DE JUEGO ORIGINAL -->
+  <div style="margin: 8px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 8.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 6px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benrey Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante Humano)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
+    </p>
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+  </div>
+
+  <!-- AVISO DE PAIZO Y ATRIBUCIÓN -->
+  <table style="width: 100%; margin: 10px 0 0 0; border: 1px solid #cbd5e0; background-color: #f8fafc; border-collapse: collapse; page-break-inside: avoid; break-inside: avoid;">
+    <tr>
+      <td style="padding: 8px 12px; font-size: 7.5pt; color: #4a5568; line-height: 1.35; text-align: justify; border: none;">
+        <p style="margin: 0 0 4px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+          Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+        </p>
+        <p style="margin: 0 0 4px 0; text-indent: 0;">
+          Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
+        </p>
+        <p style="margin: 0; text-indent: 0;">
+          Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benrey Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Marloc Boosmar) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 3 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 3: ÍNDICE DE CONTENIDOS -->
+<div style="padding: 10px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 8px; padding-bottom: 4px; font-size: 16pt;">
+    Índice de Contenidos
+  </h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto, créditos de la mesa y canon de Paizo Inc.</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 1: It's Morbin Time</div>
+        <div class="toc-sub">Basado en el Episodio 111 · El fin de Marcellus, cenizas con arroz y el gatillo del muerto</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 2: ¿Quién es el Jefe?</div>
+        <div class="toc-sub">Basado en el Episodio 112 · El barman de los Doce Soles, la sede de Inversiones Estelares y la carta de Marloc</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">11</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 3: Juego de Niños</div>
+        <div class="toc-sub">Basado en el Episodio 113 · El enigma familiar de Triel, las fosas de Thanox y la guardería de Cóex y Nómina</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">18</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 4: Lo que Oculta la Orcriada</div>
+        <div class="toc-sub">Basado en el Episodio 114 · El pacto con Valeria, la cartografía del complejo Istrav y la cumbre matriarcal</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">24</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 5: El Nido de la Araña</div>
+        <div class="toc-sub">Basado en el Episodio 115 · Infiltración de servicio, los tanques de eugenesia drow y el cerrojo de alcantarilla</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">30</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 6: Servidumbre con Pesadumbre</div>
+        <div class="toc-sub">Basado en el Episodio 116 · Bandejas de plata entre nobles, el cónclave de Jhidel y el desprecio de Niriel</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">35</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 7: Babitas pa' que las Quiero</div>
+        <div class="toc-sub">Basado en el Episodio 117 · Incursión en los conductos, la caída en las sentinas y el rescate de Babitas</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">40</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 8: Naves de Sangre</div>
+        <div class="toc-sub">Basado en el Episodio 118 · Hackeo al núcleo de datos, la fuga colosal de Keiden Ashton y la libertad de Kroll</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">45</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 9: Amor Fraternal</div>
+        <div class="toc-sub">Basado en el Episodio 119 · El cerco en el vestíbulo de mármol, desafío entre hermanas y duelo de plasma</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">50</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 10: Todo Sobre Mi Madre</div>
+        <div class="toc-sub">Basado en el Episodio 120 · La caída de Jhidel, el juicio glacial de la Matriarca Niriel y la brecha de Gerty</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">54</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 11: Siempre nos quedará Thanox</div>
+        <div class="toc-sub">Basado en el Episodio 121 · Cacería en la roca porosa, la deuda saldada con Valeria y despegue de Eox</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">58</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 12: El verdadero valor de A.Xel</div>
+        <div class="toc-sub">Basado en el Episodio 122 · Calma estelar, el chasis pre-Brecha de Ashera y el salto hacia Nejeor VI</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">63</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">La Casa Istrav, la urbe de Thanox, Keiden Ashton y secretos de la saga</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">68</td>
+    </tr>
+  </table>
+</div>
+
+<!-- CONTENIDO PRINCIPAL DEL LIBRO -->
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 1: It's Morbin Time</h2>
+<h3 class='subsection-title'>I. La caída del Jiangshi en la Necrogarganta</h3>
+<p>El hedor a vapores sulfúricos subía desde el estanque de ácido como una densa cortina de aliento cáustico. En la orilla opuesta del abismo verdoso, encaramada sobre una cornisa de huesos milenarios prensados por la presión geológica de Eox, A.Xel ajustó el bípode de su fusil de precisión criogénico.</p>
+<p>A través de la retícula holográfica multiespectral, la figura de Marcellus oscilaba entre las sombras de basalto. El antiguo vampiro jiangshi, otrora el elegante ejecutivo corporativo que manipulaba sus contratos desde las torres doradas de Absalón, presentaba ahora una estampa grotesca y descarnada. La mutación mágica forzada por el tecnomante había deformado su fisionomía: sus músculos se convulsionaban en espasmos descontrolados, sus dedos se habían alargado en garras negruzcas de diez centímetros y la piel apergaminada de su rostro se tensaba sobre los huesos de su calavera. En su frente, la tira alargada de papel holográfico con ideogramas rúnicos titilaba con un resplandor escarlata frenético, como un corazón digital a punto de colapsar.</p>
+<p>—Objetivo fijado en elevación positiva, quince metros sobre el nivel del estanque —susurró A.Xel por la frecuencia interna de la escuadra, con una calma gélida que contrastaba con el fragor del cañón—. Cobertura parcial de roca ósea. Ángulo de tiro ajustado a sesenta metros.</p>
+<p>Desde lo alto de la escalinata ceremonial, Benrey esquivó un zarpazo que arrancó chispas y jirones de pintura de las placas de su armadura. El emisario ysoki retrocedió sobre las losas de piedra, girando ágilmente sobre sus talones mientras desenfundaba la pequeña campana ceremonial que colgaba de su arnés táctico.</p>
+<p>—¡Hombre, Marcellus! —gritó Benrey, haciendo sonar el metal con un tintineo agudo que resonó en la bóveda de la fosa—. Te dije que ese corte de traje no te favorecía, pero convertirte en un murciélago reseco con garras de jardinero ya es pasarse de rosca. ¿Es que la Flota de Cadáveres no tiene asesores de imagen en nómina?</p>
+<p>—¡Cállate, rata insolente! —rugió Marcellus con una voz hueca y gorgoteante, impropia de un orador corporativo—. ¡Todo lo que eres me lo debes a mí! ¡Yo te saqué del lodo! ¡Yo pagué tus naves, tus cámaras y tu patética ilusión de gloria! ¡Sin mí no eres más que un bicho de alcantarilla sin público ni futuro!</p>
+<p>El jiangshi arremetió con una velocidad antinatural. Ignorando a Triel, que se afianzaba sobre el descansillo de la escalera con el cañón de su pistola sobrecargada, el vampiro se abalanzó directamente contra Marloc. Sus garras heladas se cerraron sobre el cuello del tecnomante, levantándolo medio metro del suelo con una fuerza descomunal.</p>
+<p>Marloc apretó los dientes, sintiendo cómo el frío sepulcral de la criatura atravesaba el sellado hermético de su traje. Las fauces de Marcellus se abrieron en un ángulo imposible, desprendiendo una niebla cadavérica que comenzó a drenar la vitalidad del humano en tenues filamentos de luz espectral. Los ojos de Marloc se nublaron con una debilidad repentina, pero su mano izquierda cibernética no vaciló: canalizando la energía estática de sus circuitos, descargó una ráfaga de pulso electromagnético directo al pecho del no-muerto.</p>
+<p>—¡Gerty, ahora! —bramó Triel, mientras descargaba su llave de impacto sobre el codo de la criatura para forzarla a soltar a su compañero.</p>
+<p>El pesado meca bípedo rugió sobre los escalones. Sus cuatro brazos mecánicos alzaron el colosal martillo de magma forjado en los hornos de Orphys. Los pistones hidráulicos silbaron, expulsando chorros de vapor sobrecalentado antes de que el cabezal de tungsteno incandescente cayera con la fuerza demoledora de una prensa de demolición.</p>
+<p>El impacto partió la clavícula izquierda de Marcellus con un crujido estruendoso que resonó por todo el desfiladero. La armadura del vampiro se quebró en fragmentos calcinados, proyectando al jiangshi varios metros hacia atrás. El no-muerto rodó por el descansillo, soltando a Marloc, quien cayó sobre una rodilla tosiendo y recuperando el aliento entre bocanadas agónicas de aire enrarecido.</p>
+<p>Marcellus se incorporó con un alarido de rabia ciega, pero antes de que pudiera alzar de nuevo sus garras, un zumbido agudo rasgó el aire del cañón.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Cenizas y arroz</h3>
+<p>A sesenta metros de distancia, la mira fotocromática de A.Xel se iluminó en amatista táctico.</p>
+<p>La androide no esperó a que el blanco recuperara la postura de guardia. Su índice presionó suavemente el disparador del fusil criogénico. El destello violeta del disparo trazó una línea perfecta de muerte concentrada a través de la penumbra de la Necrogarganta.</p>
+<p>El proyectil perforó el talismán holográfico de la frente de Marcellus y se hundió de lleno en su esternón. No hubo sangre ni vísceras: al contacto con la energía subcero amplificada por el condensador térmico, la estructura molecular del jiangshi se colapsó instantáneamente. El cuerpo del vampiro se congeló en un espasmo rígido durante una fracción de segundo, antes de fracturarse en miles de motas luminosas que se convirtieron en un montón de ceniza grisácea sobre las losas de basalto. La ropa ceremonial, su comunicador militar y su armadura cayeron con un chasquido inerte en medio del polvo fúnebre.</p>
+<p>En la cima de las peñas que dominaban el desfiladero, un zumbido metálico atrajo la atención de la tripulación. Uno de los drones de vigilancia de Marcellus, oculto entre los riscos para retransmitir la emboscada a los canales de la Flota de Cadáveres, comenzó a elevarse para huir hacia la estratosfera.</p>
+<p>Un disparo sordo y atronador retumbó desde lo alto de los riscos de hueso.</p>
+<p>El dron estalló en una bola de fuego anaranjado, desprendiendo fragmentos incandescentes que cayeron al pozo de ácido. Recortada contra el cielo plomizo de Eox, la silueta colosal de Rawsh bajó lentamente su rifle de gran calibre. El veterano francotirador vesk alzó el cañón humeante de su arma a modo de saludo militar hacia la plataforma.</p>
+<p>Benrey se acercó a los restos humeantes de Marcellus, contemplando el montón de ceniza con las orejas gachas y una expresión que mezclaba el alivio y una profunda amargura.</p>
+<p>—Yo soy el mejor Galway de este sistema, Marcellus —murmuró el ysoki con voz queda, mirando el montón de polvo inerte—. Y no lo soy por tener más suscriptores ni por pavonearme en una pantalla. Lo soy porque no estoy solo.</p>
+<p>—No te quedes ahí contemplando el paisaje, Benrey —le advirtió Marloc, aproximándose con paso vacilante mientras sostenía un frasco de cerámica sellado con lacre rojo—. Waneda Trux fue muy explícita con el protocolo de los jiangshi. Estas criaturas están vinculadas a la nigromancia arcaica de la Flota; si no neutralizamos sus restos, la energía residual puede reconstituir su núcleo en cualquier cripta cercana.</p>
+<p>Triel desenvainó su daga de servicio y rompió el sello de cera. En el interior del frasco descansaban puñados de granos de arroz consagrados impregnados en vinagre fuerte y sales minerales de Eox. Siguiendo las instrucciones de la comisionada, Marloc y Triel esparcieron el arroz en un círculo perfecto alrededor del montículo de ceniza.</p>
+<p>Apenas los primeros granos tocaron el polvo fúnebre, una reacción química siseó en el aire frío. Un humo blanco, con aroma a hierbas secas y ácido acético, brotó de las cenizas mientras el color negruzco de los restos se desvanecía en un gris pálido inerte. De repente, a pesar de la ausencia total de atmósfera en los páramos de Eox, una brisa gélida y sobrenatural sopló a lo largo de la garganta. La ráfaga levantó el polvo neutralizado, esparciéndolo en un torbellino transparente que se disolvió en el aire hasta desaparecer sin dejar el menor rastro.</p>
+<p>Gerty bajó los brazos hidráulicos, desactivando la sobrecarga térmica de su martillo con un chasquido grave de escape de gas:</p>
+<p>—<em>Amenaza biológica no-muerta neutralizada al cien por ciento</em> —dictaminó el meca por su sintetizador plano—. <em>La ceniza residual carece de actividad electromagnética. Procedo a inventariar el equipo utilizable.</em></p>
+<p>Sobre la piedra quedaron únicamente las pertenencias de Marcellus: un fusil táctico drow, una pistola láser de corona, un blindaje ligero de explorador y un comunicador militar de Grado Tres con sellos cifrados de la Flota de Cadáveres.</p>
+<p>Rawsh descendió por los riscos con pasos pesados, saltando el último tramo con una soltura admirable para su imponente complexión vesk:</p>
+<p>—Buen tiro, androide —gruñó Rawsh, asintiendo hacia A.Xel—. Ese engendro llevaba semanas emitiendo coordenadas secretas desde los páramos. Ya no causará más problemas en este sector.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El gatillo del muerto y el rastro de Nejeor</h3>
+<p>Triel recogió el comunicador de Marcellus y se sentó en un saliente de roca para conectar los cables de derivación de su ordenador portátil. La pantalla de la terminal parpadeó en verde esmeralda mientras las líneas de código hexadecimal comenzaban a descifrar la partición privada del dispositivo.</p>
+<p>—Tiene un procesador de alto rendimiento —comentó la drow, con los dedos danzando sobre el teclado—. Pero la clave de cifrado maestro coincide con los estándares de Inversiones Estelares. Déjenme entrar en la bandeja de transmisiones...</p>
+<p>De pronto, un zumbido agudo y persistente brotó de la pantalla de la terminal, acompañado por una luz roja intermitente.</p>
+<p>—¿Qué pasa? —preguntó Benrey, asomándose por encima del hombro de Triel con evidente inquietud—. ¿Nos está mandando un virus?</p>
+<p>—No es un virus para la terminal —dijo Triel, frunciendo el ceño mientras leía el registro de salida—. Es un protocolo de ejecución diferida. Un «gatillo del muerto». En el instante en que los signos vitales de Marcellus cayeron a cero en el traje, el comunicador disparó una cadena de instrucciones automatizadas hacia un servidor no tripulado en la Deriva.</p>
+<p>Benrey sacó su propio comunicador personal del bolsillo. La pequeña pantalla holográfica del ysoki comenzó a bombardearse de notificaciones de advertencia en color escarlata.</p>
+<blockquote class='quote'><strong>ALERTA DE SEGURIDAD DE LA RED DEL PACTO</strong></blockquote>
+<blockquote class='quote'><em>Cuenta verificada: @BenreyGalway_Oficial</em></blockquote>
+<blockquote class='quote'><em>Estado: SUSPENDIDA DEFINITIVAMENTE POR INFRACCIÓN GRAVE DE TÉRMINOS DE SERVICIO.</em></blockquote>
+<blockquote class='quote'><em>Motivo: Difusión masiva de datos clasificados y conspiración corporativa.</em></blockquote>
+<blockquote class='quote'><em>Canal de retransmisión estelar: CLAUSURADO.</em></blockquote>
+<blockquote class='quote'><em>Fondos publicitarios congelados en todos los nodos de Absalón y Castrovel.</em></blockquote>
+<p>El emisario ysoki se quedó petrificado, con la mandíbula caída y los ojos clavados en la cascada de cancelaciones que teñía su pantalla de rojo.</p>
+<p>—Mi canal... —balbuceó Benrey con una voz que apenas era un hilo de aire—. Mis dos millones de suscriptores en la estación... mis acuerdos de patrocinio con las bebidas energéticas de Akiton... mis vídeos de reseñas de comida... ¡El desgraciado me canceló desde la tumba!</p>
+<p>—Míralo por el lado positivo, Benrey —intervino Marloc con ironía serena mientras guardaba la batería de plasma—. Ahora la gente de la Flota de Cadáveres no podrá rastrearte por tus directos en la red.</p>
+<p>—¡No tiene gracia, Marloc! —chilló el ysoki, mesándose los bigotes con desesperación—. ¡Soy un don nadie digital! ¡Soy un fantasma en la red! ¡A ver cómo le explico a mi primo Rim Rey que el canal de la familia está más muerto que este condenado planeta!</p>
+<p>—Hablando de Rim Rey —interrumpió Triel con gravedad, levantando la mirada de la terminal de Marcellus—. Vengan a ver esto. Marcellus guardaba una carpeta completa de operaciones especiales.</p>
+<p>La tripulación se congregó alrededor de la pantalla portátil. Flotando sobre el teclado se desplegó un informe detallado con los chevrones de la inteligencia militar de la Flota de Cadáveres:</p>
+<blockquote class='quote'><strong>REGISTRO DE MISIÓN: OPERACIÓN ESPECTRO</strong></blockquote>
+<blockquote class='quote'><em>Objetivo: Localización de nave fantasma no identificada en la Vastedad.</em></blockquote>
+<blockquote class='quote'><em>Detalles tácticos: La nave interceptada presenta sellos de diseño de la Flota de Cadáveres, pero no figura en los registros de mando ni en el censo del Imperio de Eox. Entra y sale de la Deriva de forma errática mediante saltos cuánticos no coordinados.</em></blockquote>
+<blockquote class='quote'><em>Agente asignado para el balizamiento: Rim Rey Galway.</em></blockquote>
+<blockquote class='quote'><em>Estado: Misión en curso en el sector exterior de la Vastedad.</em></blockquote>
+<p>—Rim Rey está vivo —dijo Benrey, recuperando el color en las mejillas y olvidando momentáneamente su desastre en las redes—. Marcellus lo envió a rastrear ese barco fantasma... Mi primo anda perdido en la Vastedad con una baliza de seguimiento.</p>
+<p>—Y eso no es todo —continuó Triel, abriendo el segundo archivo prioritario—. Miren los cruces de telemetría entre los informes del culto del Devorador y las transmisiones del embajador Gevalarsk Nor. La reliquia que el culto intentaba activar... la legendaria <em>Puerta de los Doce Soles</em>... tiene su origen fijado en un único punto del espacio profundo.</p>
+<p>En la pantalla apareció un mapa estelar de navegación galáctica. Más allá de las rutas comerciales seguras de los Mundos del Pacto, en una región virgen y no cartografiada de la Vastedad, brillaba un solitario sistema planetario dominado por un gigante gaseoso colosal:</p>
+<blockquote class='quote'><strong>DESTINO ESTRATÉGICO CONFIRMADO: SISTEMA NEJEOR (NEJEOR VI)</strong></blockquote>
+<blockquote class='quote'><em>Telemetría: Último vestigio conocido de la civilización de los constructores.</em></blockquote>
+<blockquote class='quote'><em>Alerta: Fuerzas de vanguardia de la Flota de Cadáveres y remanentes del Culto del Devorador convergen hacia la atmósfera del gigante.</em></blockquote>
+<p>Marloc contempló el nombre de Nejeor con una mirada densa y lejana, mientras el peso del anagrama de Clamor Sambor resonaba en su memoria.</p>
+<p>—Nejeor VI... —murmuró el tecnomante—. Hacia allá se dirigen todas las piezas del tablero.</p>
+<p>—Pues tenemos mucho trabajo por delante —concluyó Triel, guardando los datos en su disco cifrado y apagando la terminal—. Pero antes de encender los motores hacia la Vastedad, tenemos que regresar a Orphys y cerrar nuestras cuentas pendientes con la corporación.</p>
+<p>Rawsh dio una palmada sonora en la coraza de Gerty, haciendo que el meca emitiera un pitido de advertencia:</p>
+<p>—Vuelvan a la ciudad con cuidado, viajeros. Eox no perdona a los descuidados, y las noticias de la muerte de Marcellus correrán más rápido que la luz por los muelles de la capital.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 2: ¿Quién es el Jefe?</h2>
+<h3 class='subsection-title'>I. Retorno a Orphys y la nave renovada</h3>
+<p>El trayecto de regreso desde los riscos de la Necrogarganta hacia la ciudad de Orphys fue una marcha fúnebre atravesada por el silencio de los páramos y los lamentos intermitentes de Benrey.</p>
+<p>A bordo del transporte terrestre escoltado por Rawsh, el emisario ysoki no despegaba los dedos de su comunicador. Con los ojos enrojecidos por la falta de sueño y la desesperación, Benrey intentaba abrir cuentas provisionales en los nodos periféricos de la red:</p>
+<p>—@BenreyElAutentico... bloqueada. @BenreyGalway_Renacido... suspendida por suplantación de identidad. @ElVerdaderoCapitanGalway... vetada por orden judicial de la estación espacial. ¡Maldita sea! ¡Cada vez que intento ingresar un código de recuperación, el sistema me exige verificación biométrica del servidor central que Marcellus quemó antes de morir!</p>
+<p>—Deja en paz esa pantalla, Benrey —le pidió Triel, apoyando la espalda en el mamparo del vehículo mientras revisaba los conectores de su arnés—. Estás alimentando el algoritmo de rechazo. Cuanto más insistes en enviar solicitudes desesperadas, más banderas rojas levantan los auditores del Consejo.</p>
+<p>—¡Es fácil decirlo para ti, que no vives de la opinión pública! —gimió el ysoki, dejándose caer contra el respaldo con un suspiro desgarrador—. Toda mi carrera... pulverizada en una fracción de segundo.</p>
+<p>Al llegar a las dársenas presurizadas de Orphys, la tripulación se despidió de Rawsh con un firme apretón de manos. Sin embargo, al cruzar la esclusa del muelle donde reposaba la <em>Estrella Errante</em>, se toparon con una escena inesperada.</p>
+<p>Una docena de técnicos eoxianos —esqueletos de seis brazos y operarios lashuntas con trajes ignífugos— pululaban por la rampa de carga y el fuselaje exterior. Triel dio un paso al frente con la llave inglesa en alto, dispuesta a defender su nave:</p>
+<p>—¡Eh! ¿Quién les dio autorización para tocar esta nave? ¡Apártense de las toberas de babor antes de que sobrecargue los condensadores!</p>
+<p>Un capataz esquelético levantó las seis manos con ademán pacífico:</p>
+<p>—Tranquila, señorita Istrav. Todo está pagado y autorizado al más alto nivel. El embajador Gevalarsk Nor y una dama humana llamada Ángela enviaron órdenes estrictas para reacondicionar el navío tras su victoria en el certamen de Zo!. Mejoras en el blindaje ablativo, refuerzo estructural en la quilla y redecoración completa de las áreas comunes.</p>
+<p>Intrigados, los compañeros subieron la rampa. En el interior, la nave lucía irreconocible: los mamparos desgastados habían sido revestidos con paneles térmicos elegantes, las literas contaban con tapicerías de cuero sintético acolchado y en el puente de mando brillaban terminales táctiles de última generación.</p>
+<p>Pero el cambio más desconcertante aguardaba en la sala de recreo.</p>
+<p>Frente a una barra de acero pulido recién instalada, un androide de torso plateado, con chaleco oscuro y guantes blancos inmaculados, se encontraba anclado al suelo mediante una columna mecánica articulada que le permitía deslizarse a lo largo del mostrador. Al ver entrar al grupo, el autómata ejecutó una leve reverencia:</p>
+<p>—Buenos días, señor Boosmar. Es un auténtico placer volver a servirle. ¿Le preparo su cóctel habitual? Doble de licor de Castrovel con una gota de esencia amarga de Triaxus, tal como le gusta.</p>
+<p>Marloc se detuvo en seco. El color abandonó su rostro con tal violencia que su piel cobró el tono ceniciento de los páramos exteriores. Su mano de carne tembló visiblemente mientras retrocedía un paso, chocando contra el hombro de Triel.</p>
+<p>—Ese androide... —susurró Marloc con la voz quebrada por el estupor—. No puede ser...</p>
+<p>Triel lo tomó con firmeza por el codo, inclinándose hacia su oído con voz urgente:</p>
+<p>—Marloc, mírame. Es el mismo autómata de tus visiones, ¿verdad? El que viste entre los escombros de la catástrofe de los Doce Soles.</p>
+<p>—Exactamente el mismo modelo... la misma voz modulada... los mismos gestos mecánicos —respondió el tecnomante, sintiendo cómo un sudor gélido le empapaba la frente—. Pero aquí está nuevo de fábrica. No estaba en la nave original... alguien lo mandó a instalar expresamente para que yo lo viera.</p>
+<p>—Tranquilo —le susurró la drow, apretándole el brazo con afecto protector—. No estás solo en esto. Mañana tenemos la reunión con la directiva. Sea lo que sea lo que dejaste preparado en el futuro, lo enfrentaremos juntos.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La antesala de Inversiones Estelares</h3>
+<p>A la mañana siguiente, una elegante limusina aerodeslizadora de color negro azabache se detuvo frente a la esclusa del hangar.</p>
+<p>De su interior descendió Chiskisk. La shirren vestía una túnica de gala ceremonial en seda violeta, con un velo translúcido de cuentas brillantes que cubría delicadamente sus antenas y sus mandíbulas. Sus extremidades temblaban levemente por una mezcla de nerviosismo y orgullo contenido.</p>
+<p>—¡Amigos míos! —transmitió Chiskisk por vía telepática, con un tono vibrante que denotaba una euforia casi infantil—. ¡Es un día histórico! ¡Quince años de servicio ininterrumpido en Inversiones Estelares S.C., y finalmente el Consejo Directivo ha solicitado mi presencia junto a ustedes para conocer al mismísimo fundador en persona!</p>
+<p>Benrey, todavía visiblemente ojeroso y sosteniendo una taza de café sintético con desgana, se acomodó la chaqueta de gala:</p>
+<p>—Me alegra verte tan animada, Chiskisk. A ver si el gran jefe tiene a bien desbloquearme la cuenta de la red o por lo menos pagarnos el finiquito en créditos contantes y sonantes.</p>
+<p>El vehículo cruzó los distritos monumentales de Orphys hasta adentrarse en un cañón de rascacielos funerarios. La limusina descendió por una rampa de acceso restringido hacia el subsuelo, deteniéndose ante una mansión señorial de arquitectura pre-Brecha que parecía haber sido trasplantada íntegra desde las entrañas de una antigua metrópoli humana.</p>
+<p>Al cruzar las puertas de roble blindado, la atmósfera cambió por completo. Decenas de empleados humanos y lashuntas vestidos con trajes ejecutivos impecables se inclinaron respetuosamente al paso de Chiskisk y la tripulación. Una recepcionista singular aguardaba al final del vestíbulo: una mujer esbelta de facciones delicadas y enormes alas irisadas de mariposa que se extendían casi dos metros a sus espaldas, con una probóscide dorada enrollada con gracia sobre sus labios.</p>
+<p>—Bienvenidos a la sede central —saludó la mujer alada con una voz melodiosa que parecía vibrar en el aire—. Por favor, acompáñenme.</p>
+<p>La comitiva descendió por dos tramos de escaleras mecánicas hasta llegar a un corredor iluminado exclusivamente por apliques de luz tenue empotrados en el suelo. Al fondo, unas monumentales puertas de bronce labradas con relieves de querubines y esferas planetarias sellaban el acceso a la cámara principal.</p>
+<p>Chiskisk se alisó la túnica con ademán solemne, preparándose para cruzar el umbral con las antenas erguidas. Pero la recepcionista alada extendió suavemente una mano cubierta por un guante de seda, bloqueándole el paso:</p>
+<p>—Señorita Chiskisk, sus informes de desempeño son extraordinarios, pero el protocolo maestro es invariable. La audiencia privada es exclusiva para los cuatro miembros operativos de la tripulación. Usted debe esperar en la antesala.</p>
+<p>La shirren retrocedió un paso, bajando las antenas con una sombra de decepción, pero asintió con disciplina profesional:</p>
+<p>—Entiendo perfectamente. Los mandatos de la junta son sagrados. Vayan, amigos míos. Escuchen lo que el fundador tiene reservado para el destino de la empresa.</p>
+<p>Triel, Marloc, Benrey y A.Xel intercambiaron una mirada cargada de tensión antes de que las pesadas puertas de bronce se abrieran con un silbido neumático.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La voz del futuro</h3>
+<p>La estancia a la que accedieron era una colosal galería de paredes circulares forrada de estanterías, vitrinas con reliquias arqueológicas y un centenar de pantallas holográficas que parpadeaban con cotizaciones financieras, mapas estelares y gráficos cuánticos en tiempo real.</p>
+<p>En el centro de la sala, tras un gigantesco escritorio de madera oscura tallada a mano, aguardaba una figura humana solitaria.</p>
+<p>El hombre aparentaba una edad inverosímil: su rostro estaba cubierto de arrugas tan profundas que parecían grietas tectónicas, motas de vejez manchaban sus manos huesudas y una barba rala de hilos blancos le caía sobre un traje anticuado. Sus ojos, apagados y lechosos, se posaron sobre los cuatro visitantes con una lentitud glacial.</p>
+<p>—Bienvenidos —articuló el anciano con una voz rasposa y cavernosa, señalando con un dedo tembloroso cuatro sillones de terciopelo que emergieron automáticamente del suelo—. Tomen asiento. Antes de abordar las finanzas corporativas, requiero una única confirmación de identidad.</p>
+<p>El viejo clavó su mirada mortecina en el rostro del tecnomante:</p>
+<p>—¿Quién soy yo? ¿Cuál es mi verdadero nombre ante este tribunal?</p>
+<p>Benrey y A.Xel miraron a Marloc. El tecnomante dio un paso al frente, con la barbilla alta y las manos cruzadas a la espalda. Su voz resonó firme y desprovista de vacilación en la inmensidad de la sala:</p>
+<p>—Ante los auditores del Pacto y el registro mercantil, usted es Samboor Clamor. Pero ante nosotros... usted es Marloc Boosmar.</p>
+<p>En el preciso instante en que la última sílaba abandonó los labios de Marloc, el anciano del escritorio dejó caer los brazos a los lados. Sus párpados se cerraron de golpe, la luz de sus ojos se extinguió y el cuerpo entero se desplomó hacia atrás sobre el respaldo con la rigidez inerte de una marioneta sin cuerdas.</p>
+<p>—¡Por los dioses! —gritó Benrey, dando un salto hacia atrás mientras buscaba su revólver—. ¡Marloc, lo mataste con mirarlo feo!</p>
+<p>—No está muerto, Benrey —dictaminó A.Xel, cuyos sensores ópticos ya habían escaneado la estructura interna del cuerpo—. Nunca estuvo vivo. Es un autómata biónico de silicio y polímeros sintéticos. Un señuelo mecánico.</p>
+<p>Un chasquido metálico resonó en la pared derecha. Una sección del panel de madera se deslizó suavemente hacia un lado, revelando un despacho privado fuertemente iluminado. De su interior emergió una mujer humana de piel oscura, cabello recogido en un moño estricto y traje ejecutivo de corte impecable. En sus manos sostenía una carpeta de piel encuadernada con sellos holográficos de seguridad.</p>
+<p>—Felicidades, señor Boosmar —dijo la mujer, con una voz serena y desprovista de emoción—. Su deducción ha sido exacta. Mi nombre es irrelevante; soy la agente albacea asignada hace veinticinco años para custodiar este encuentro específico. Si hubieran dado cualquier otra respuesta, el autómata habría ejecutado una directiva secundaria de despido convencional con indemnización estándar para enviarlos lejos de este sistema.</p>
+<p>Marloc la miró fijamente:</p>
+<p>—Usted sabía quién era yo.</p>
+<p>—La corporación entera ha existido durante siglos para este momento, señor Boosmar —explicó la mujer, tomando asiento tras una mesa auxiliar—. Inversiones Estelares S.C. fue fundada antes de la Brecha mediante mandatos sellados y visiones proféticas transmitidas por una entidad que la historia corporativa reconoció como el Fundador. Su propósito nunca fue maximizar beneficios comerciales, sino acumular capital, comprar voluntades y maniobrar entre los bastidores de los Mundos del Pacto para asegurar que ciertas personas estuvieran en el lugar adecuado en el instante preciso.</p>
+<p>La agente abrió la carpeta de piel y extrajo un sobre de papel gastado, amarilleado por el paso de los siglos, sellado con cera roja:</p>
+<p>—Este sobre ha esperado doscientos cincuenta años en la cámara blindada de Orphys. Solo contiene dos elementos: las instrucciones de transferencia corporativa y un mensaje personal dirigido exclusivamente a usted.</p>
+<p>Marloc tomó el sobre con manos temblorosas. Al romper el sello, un pequeño pin metálico de diseño antiguo cayó sobre su palma: la insignia representaba una flecha dorada apuntando hacia adelante, sin retroceso posible. Junto a ella, una hoja de papel doblada contenía unas líneas escritas con su propia caligrafía:</p>
+<blockquote class='quote'><em>Marloc:</em></blockquote>
+<blockquote class='quote'><em>Sé que estás abrumado por las preguntas. Sé que tu mente analítica busca desesperadamente las ecuaciones que expliquen los sacrificios, la muerte de Marlene y el dolor acumulado en el camino.</em></blockquote>
+<blockquote class='quote'><em>No busques más respuestas. Solo hay tormento en ellas, y desenterrar los errores del pasado pondría en peligro la única oportunidad que nos queda.</em></blockquote>
+<blockquote class='quote'><em>Todos los sacrificios necesarios ya se han consumado. El tiempo solo avanza; la flecha jamás retrocede. Acepta el regalo de esta vida, cuida a la tripulación que camina a tu lado y no lo arruines.</em></blockquote>
+<blockquote class='quote'><em>No de nuevo.</em></blockquote>
+<p>Marloc cerró los ojos, apretando el papel contra su pecho mientras una lágrima solitaria surcaba su mejilla. Todo cobraba un sentido atroz y perfecto: la nave, los contratos, la salvación de Ángela... todo era el diseño milimétrico de un Marloc que lo había perdido todo en una línea temporal extinta y había movido el cosmos entero para darles esta segunda oportunidad.</p>
+<p>—El control legal de la compañía —añadió la agente— pasará formalmente a su nombre dentro de un año estándar. Hasta entonces, disponen de fondos ilimitados para combustible, suministros y armamento en cualquier dársena afiliada.</p>
+<p>—Una última cosa —intervino Benrey, asomándose tímidamente—. Chiskisk está afuera esperando ver al gran jefe. Lleva quince años soñando con este momento. ¿Podríamos reprogramar al muñeco para que le dé unas palmaditas en la espalda y le prometa un ascenso?</p>
+<p>Triel sonrió levemente y se arrodilló junto al autómata, conectando su terminal al puerto cervical del robot:</p>
+<p>—Dame tres minutos, Benrey. Le dejaré un discurso de agradecimiento que la va a hacer llorar de emoción.</p>
+<p>Diez minutos más tarde, mientras Chiskisk conversaba embelesada en la sala principal con el anciano robot —que asentía gravemente y elogiaba su lealtad corporativa—, la tripulación cruzó las puertas de salida hacia la noche perpetua de Orphys.</p>
+<p>Marloc caminaba al frente, con la capa ondeando al viento gélido. Sobre sus hombros, el peso del destino cósmico se sentía como una pirámide invertida de infinitas toneladas de responsabilidad, pero en su pecho, la flecha dorada apuntaba con certeza hacia el futuro.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 3: Juego de Niños</h2>
+<h3 class='subsection-title'>I. La sombra sobre los hombros</h3>
+<p>El trayecto de regreso al puerto espacial se desarrolló bajo un silencio denso y cargado de miradas furtivas.</p>
+<p>A espaldas de la comitiva, Chiskisk no paraba de canturrear mentalmente mientras su limusina se alejaba hacia los distritos comerciales de Orphys. La abogada shirren se había marchado radiante, con las antenas temblorosas de júbilo tras su breve entrevista con el anciano autómata del escritorio. Antes de despedirse, había entregado a cada miembro de la tripulación un pagaré bancario con dos mil quinientos créditos en concepto de «bonificación especial por lealtad corporativa», prometiendo además a Benrey iniciar una demanda formal por daños y perjuicios contra los operadores de la red por la cancelación arbitraria de sus cuentas.</p>
+<p>Sin embargo, en el muelle de embarque, nadie celebraba los créditos.</p>
+<p>Marloc caminaba unos pasos por delante del grupo, con la capa negra azotada por las turbulencias de los despegues lejanos y la cabeza gacha, absorto en la contemplación del pequeño pin dorado con la flecha incrustada en su solapa. Detrás de él, Benrey, Triel y A.Xel avanzaban en una fila irregular, sin atreverse a romper el mutismo que los envolvía desde que salieron de la mansión subterránea.</p>
+<p>Fue Triel quien finalmente aceleró el paso, colocándose al lado del tecnomante:</p>
+<p>—Marloc.</p>
+<p>El humano se detuvo, alzando la mirada con una expresión de cansancio infinito que parecía haber envejecido diez años en una sola noche:</p>
+<p>—Dime, Triel. Si vas a preguntarme cómo es posible que yo haya fundado una megacorporación interestelar antes de la Brecha... ahórrate la saliva. Mi mente da vueltas como un giroscopio sobrecargado y no tengo una sola respuesta que tenga sentido físico ni temporal.</p>
+<p>—No iba a preguntarte por la empresa —repuso la semi-drow con voz firme y serena—. Eso pertenece a un futuro que aún no hemos vivido o a un pasado que alguien ya borró para protegernos. Lo que me importa es el presente. Marcellus está muerto, la carta de despido nos ha otorgado la libertad absoluta y tenemos las coordenadas hacia el gigante Nejeor VI. Pero antes de quemar combustible hacia la Vastedad, me deben un favor.</p>
+<p>Benrey se acercó, guardándose el pagaré de créditos en el bolsillo interior de su chaleco con un suspiro de resignación:</p>
+<p>—El favor de la familia. Llevas con esa espina clavada desde que despegamos de Absalón, ¿verdad?</p>
+<p>—Mi padre, Keiden Ashton, no desapareció sin dejar rastro —afirmó Triel, con los ojos carmesí encendiéndose con una determinación sombría—. Huyó de Apostae robando tecnología clasificada de la nobleza drow. Los registros de Marcellus confirmaron que la Casa Istrav mantiene una estación biogenética encubierta en este planeta. Si queremos entender qué buscaban y por qué me persiguen, el rastro comienza aquí, en Eox.</p>
+<p>A.Xel asintió levemente, con las líneas de su cuello brillando en un suave tono rosado:</p>
+<p>—Telemetría coherente. Posponer la partida hacia Nejeor no compromete la ventana de intercepción si resolvemos la incursión antes de setenta y dos horas. Cuentas con mi rifle, Triel.</p>
+<p>Marloc contempló a la joven mecánica y una tenue sonrisa de alivio asomó a sus labios:</p>
+<p>—La flecha solo apunta hacia adelante. Guiemos la nave hacia donde haga falta.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Rumbo a las fosas de Thanox</h3>
+<p>Dos horas más tarde, la <em>Estrella Errante</em> abandonó la órbita de Orphys, sobrevolando los mares de ceniza radiactiva de Eox con rumbo hacia el hemisferio oriental.</p>
+<p>Su destino era Thanox, una de las urbes más singulares y perturbadoras del planeta de los muertos. A diferencia de las metrópolis oficiales gobernadas por los sabios óseos del Ministerio del Eterno Socorro, Thanox operaba como una ciudad-estado semiindependiente bajo el puño de hierro de «El Sin Alma», un señor de los huesos no-elebriano cuya presencia física era una sombra espectral vinculada a redes cuánticas ancestrales. Thanox era una gigantesca zona franca: un paraíso fiscal e industrial donde los impuestos eran astronómicos pero la supervisión legal era inexistente. En sus entrañas subterráneas proliferaban laboratorios biológicos no regulados, refinerías de plasma sucio y talleres de armamento clandestino que ningún gobierno civilizado del Pacto toleraría en su territorio.</p>
+<p>A través de la cristalera de proa, la urbe surgió del fondo de una garganta colosal. No estaba construida con metales convencionales ni mampostería urbana: la arquitectura entera consistía en gigantescas moles de un hormigón poroso, de color carbón apagado, con la textura retorcida y estriada de un arrecife de coral petrificado tras un cataclismo marino.</p>
+<p>—Qué lugar más deprimente —comentó Benrey, asomando el hocico al parabrisas mientras arrugaba los bigotes—. Parece el esqueleto fosilizado de una esponja marina del tamaño de una cordillera.</p>
+<p>—Es una bioestructura autorreplicante pre-Brecha —explicó A.Xel, consultando los escáneres de densidad geológica—. Los túneles descienden en terrazas verticales hasta casi cuatro kilómetros de profundidad. Niveles industriales superiores, zonas francas intermedias y almacenes de contención biológica en el estrato basal.</p>
+<p>Triel maniobró los propulsores de guiñada, descendiendo con el carguero por la hendidura central de la garganta. A ambos lados, puentes colgantes cubiertos de tubos de escape y cables de alta tensión unían los montículos de coral negro, débilmente iluminados por letreros de neón parpadeantes en tonos púrpuras y azul cobalto. Apenas se divisaba tráfico peatonal: los pocos habitantes que cruzaban las pasarelas eran cuadrillas de trabajadores medio orcos y autómatas de carga que se desplazaban con paso mecánico entre sus barracones y los turnos de guardia.</p>
+<p>Siguiendo las coordenadas obtenidas por Benrey a través de foros clandestinos de la red comunitaria ysoki, la nave tomó tierra en una plataforma secundaria del nivel inferior, donde el aire enrarecido olía a grasa descompuesta y desinfectante corrosivo.</p>
+<p>—El complejo de la Casa Istrav no figura en los mapas turísticos —advirtió Triel, asegurando su cinturón de herramientas sobre el mono de trabajo—. Operan camuflados como un consorcio de investigación farmacéutica en el estrato más profundo. La seguridad drow no permite la entrada a nadie que no porte credenciales aristocráticas o uniformes de servidumbre.</p>
+<p>—Entonces necesitaremos que alguien de adentro nos abra la puerta trasera —concluyó Benrey con una sonrisa pícara—. Y sé exactamente a dónde acudir.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La guardería en el nivel inferior</h3>
+<p>El estrato basal de Thanox era un dédalo interminable de cuarterías obreras: barracones prefabricados encajados en los huecos naturales de la roca porosa, donde los operarios de las factorías dormían hacinados entre turnos interminables de doce horas.</p>
+<p>En la esquina de un pasaje mal iluminado por una lámpara halógena intermitente, un cartel improvisado pintado a mano sobre una plancha de acero oxidado señalaba una puerta corredera: <em>Cuidado Infantil Cóex & Nómina - La Manita que Mece la Cuna</em>. El logotipo representaba la silueta de un brazo mecánico sosteniendo un apósito medicinal.</p>
+<p>Benrey pulsó el timbre neumático.</p>
+<p>Un momento después, la escotilla se deslizó hacia un lado con un silbido de goma reseca. En el umbral apareció una androide de porte esbelto, con piel sintética de tono celeste suave —muy similar a la tez de A.Xel—, pero surcada por circuitos bioluminiscentes de un amarillo dorado brillante. Lucía una cabellera rubia recogida en una trenza práctica y sus ojos digitales transmitían una calidez y empatía extraordinarias para una unidad cibernética.</p>
+<p>—¡Bienvenidos! —saludó Nómina con una sonrisa radiante, secándose las manos metálicas con un delantal infantil—. Pasen, por favor. Disculpen el desorden, acabamos de terminar la merienda sintética del turno de tarde.</p>
+<p>Al entrar en el apartamento, la tripulación se quedó estupefacta. El espacio era una guardería comunitaria acondicionada con alfombras térmicas de colores chillones, juguetes de espuma plástica y decenas de dibujos infantiles pegados a las paredes de roca. Alrededor de una pantalla holográfica que proyectaba una serie animada sobre naves de rescate, media docena de infantes —niños medio orcos de piel verdosa con colmillitos incipientes y pequeños retoños ysoki de orejas inquietas— correteaban dando gritos de júbilo.</p>
+<p>En el centro de la estancia, un androide masculino de aspecto robusto, con marcas de soldadura en los hombros y vestimenta de mecánico proletario, levantó la mirada de un bloc de datos:</p>
+<p>—Soy Cóex —se presentó con voz grave y ademán prudente—. Mi compañera me avisó de que unos forasteros hacían preguntas en los foros de la red sobre las instalaciones del sector sur. ¿Quiénes son ustedes y qué buscan en este agujero?</p>
+<p>Antes de que Triel pudiera responder, tres pequeños medio orcos se abalanzaron sobre las piernas mecánicas de Gerty, trepando por sus articulaciones hidráulicas con absoluta fascinación.</p>
+<p>—<em>Alerta táctica de sobrecarga</em> —anunció el sintetizador vocal del meca, mientras sus cuatro brazos se extendían hacia los lados con una torpeza cómica—. <em>Especímenes biológicos en miniatura interfiriendo con los sensores de proximidad. No detecto armamento activo. ¿Procedo a la neutralización con gas somnífero?</em></p>
+<p>—¡Gerty, quieto! —ordenó Triel, conteniendo una risotada—. Son niños, no soldados de la Flota. Quédate ahí de niñera mientras hablamos.</p>
+<p>El meca emitió un zumbido resignado, bajando uno de sus brazos mecánicos para que un pequeño ysoki pudiera balancearse en su pinza de acero, mientras los infantes estallaban en carcajadas.</p>
+<p>Triel se sentó frente a Cóex y Nómina en una mesa de plástico reforzado:</p>
+<p>—Sabemos que ambos trabajaron en el complejo biogenético de la Casa Istrav antes de fundar este refugio. Y sabemos que están hartos de ver cómo la nobleza drow explota y descarta a los trabajadores de Thanox.</p>
+<p>Cóex frunció el ceño, cruzando los brazos metálicos sobre el pecho:</p>
+<p>—Ese complejo no es un hospital, señorita. Es un matadero de linajes. Los drow realizan pruebas de compatibilidad sanguínea, eugenesia selectiva y archivos de filiación con las familias que huyeron tras la Brecha. Nadie entra allí sin autorización expresa de las señoras de Apostae.</p>
+<p>—Yo tengo esa autorización en la sangre —respondió Triel en voz baja, apartándose los mechones níveos de la frente para revelar la tonalidad cenicienta de su piel y la forma afilada de sus orejas—. Mi apellido es Istrav. Soy la hija mestiza de una de las matriarcas del consejo.</p>
+<p>Nómina ahogó un suspiro de sorpresa, tapándose la boca con una mano metálica, mientras Cóex entrecerraba los ojos, examinándola con renovada atención:</p>
+<p>—Una semi-drow... La hija rechazada de la que hablaban los rumores en las cocinas.</p>
+<p>—Estoy buscando los archivos de mi padre, Keiden Ashton —continuó Triel con firmeza—. Y necesito acceder al núcleo informático del complejo sin activar las alarmas perimetrales.</p>
+<p>Cóex intercambió una mirada prolongada con Nómina antes de suspirar pesadamente:</p>
+<p>—Nosotros no podemos acercarnos a la valla exterior; nuestros códigos de operario fueron revocados tras la última huelga de mantenimiento. Pero conocemos a alguien que sí entra todos los días por la puerta de servicio. Una mucama de la cuadrilla de limpieza que tiene motivos de sobra para querer ver a la Casa Istrav arder hasta los cimientos.</p>
+<p>Nómina asintió, sonriendo con ternura mientras acariciaba el hombro de su compañero:</p>
+<p>—Su nombre es Valeria. Su turno acaba de terminar y debe de estar a punto de llegar a recoger a su pequeño. Si alguien puede vestirlos de sirvientes y cruzarlos ante los guardias, es ella.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 4: Lo que Oculta la Orcriada</h2>
+<h3 class='subsection-title'>I. El pacto con Valeria</h3>
+<p>La puerta neumática de la guardería se abrió con un chasquido suave, dejando entrar una ráfaga de aire tibio impregnado de una fragancia singular: una mezcla penetrante de perfume floral barato que intentaba enmascarar, sin conseguirlo del todo, el hedor acre a desinfectante industrial y lejía química.</p>
+<p>En el umbral se recortó la figura de una mujer medio orco. Vestía un uniforme de faena gastado de color gris ceniza, con el cuello raído y las mangas enrolladas sobre unos antebrazos robustos surcados de cicatrices superficiales. Su piel verdosa contrastaba con una melena oscura peinada en dos trenzas pulcras que caían a ambos lados de un rostro de facciones redondeadas y amables, del que sobresalían dos colmillos marfilinos cuidadosamente limados.</p>
+<p>Al dar el primer paso hacia el interior, la mujer se detuvo en seco. Sus ojos se abrieron como platos al toparse con cuatro forasteros armados con fusiles de asalto, capas arcanas y un meca de combate bípedo de dos metros y medio de altura que sostenía pacientemente a un infante ysoki en una de sus pinzas metálicas.</p>
+<p>—¿Grok?... —balbuceó la recién llegada con un hilo de voz angustiada, buscando desesperadamente a su hijo con la mirada—. ¿Hizo algo malo el niño? ¡Les juro que no robó nada del muelle!</p>
+<p>—Tranquila, Valeria, nadie está en peligro —intervino Nómina de inmediato, poniéndose de pie con un gesto suave y acogedor—. Grok se portó de maravilla y se tomó toda su papilla de proteínas. Estos señores son amigos de confianza. Quieren hablar contigo sobre el complejo.</p>
+<p>Un pequeño medio orco de cuatro años soltó el pie de Gerty y corrió hacia su madre con los brazos abiertos. Valeria se arrodilló para abrazarlo con fuerza, pero sus pupilas no abandonaban las armas y los rostros de los recién llegados, respirando con una cautela instintiva:</p>
+<p>—¿Quiénes son ustedes? No tienen pinta de inspectores laborales del municipio.</p>
+<p>Triel dio un paso al frente, bajando las manos abiertas en señal de paz:</p>
+<p>—No venimos a perjudicarte, Valeria. Mi nombre es Triel. Sé que trabajas como mucama en las galerías privadas de la Casa Istrav en Thanox.</p>
+<p>La medio orco frunció el ceño, apretando la mandíbula:</p>
+<p>—Si vienen de parte de los capataces drow, ya les dije que no tengo más dinero para las cuotas de seguridad. Mi sueldo apenas cubre la comida sintética y la cuota de la guardería.</p>
+<p>—No vengo de parte de los capataces —repuso Triel con serenidad—. Vengo de parte de mí misma. Mi madre es una de las matriarcas que financian esa instalación. Yo soy una Istrav, aunque mi sangre mestiza me convierta en una paria a los ojos de la nobleza de Apostae.</p>
+<p>Valeria levantó la mirada, recorriendo los rasgos de Triel: la tez cenicienta, las orejas afiladas y el cabello blanco inconfundible de los elfos oscuros, matizado por la calidez y la redondez de facciones heredadas de su padre humano. Un destello de reconocimiento cruzó sus pupilas:</p>
+<p>—La hija del fugitivo humano... La niña que nació fuera de los libros de casta. Los rumores decían que habías muerto en los desiertos del Vasto.</p>
+<p>—Sigo muy viva —afirmó Triel—. Y necesito entrar a las bóvedas de la Casa Istrav para recuperar los archivos personales de mi padre, Keiden Ashton. Cóex nos dijo que tu esposo está retenido fuera del Pacto por un contrato abusivo de la casa noble.</p>
+<p>Los hombros de Valeria se hundieron bajo una pesadumbre infinita:</p>
+<p>—Kroll lleva cuatro años encadenado a los regimientos mercenarios que los Istrav subcontratan en la frontera. Cuando firma la prórroga, le prometen que será la última; pero los abogados drow siempre descubren una cláusula oculta sobre indemnizaciones de equipo o gastos de transporte para forzarlo a renovar por tres años más. Si se niega a empuñar el fusil en sus guerras privadas, el Consejo de Apostae me despojará de la custodia de Grok y lo enviará a las minas de servidumbre.</p>
+<p>Triel extendió su mano derecha hacia la medio orco:</p>
+<p>—Si nos introduces en el complejo y nos guías hasta el núcleo informático, hackearé los servidores de administración y borraré la ficha militar de tu marido. Le otorgaré la carta de baja definitiva y cancelaré todas las deudas de tu familia en el registro de la casa. Tienes mi palabra de mecánica.</p>
+<p>Valeria miró la mano de Triel durante unos segundos interminables, antes de estrecharla con un apretón firme y enérgico:</p>
+<p>—Trato hecho, señorita Istrav. Si ustedes tienen el valor de escupir en la cara de esas arañas de obsidiana, yo les abriré la puerta.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La cartografía de la infamia</h3>
+<p>Valeria apartó los platos de merienda de la mesa comunitaria y extrajo de su zurrón de trabajo un rollo de papel milimetrado de embalaje y un marcador químico. Con trazos rápidos y precisos, comenzó a dibujar el plano estructural de la instalación subterránea.</p>
+<p>—El complejo de los Istrav en Thanox es un iceberg de roca y acero —explicó la mucama, señalando los diferentes niveles—. La superficie es solo una tapadera: un hangar de distribución farmacéutica y oficinas de importación comercial. La verdadera infraestructura desciende en tres sectores fuertemente blindados.</p>
+<p>Con la punta del marcador, trazó un círculo en la sección izquierda del esquema:</p>
+<p>—El primer sector alberga los <strong>Laboratorios Genéticos y Tanques de Incubación</strong>. Allí se concentran los médicos y osteomantes drow. Es un infierno de bioluminiscencia púrpura donde analizan miles de muestras de sangre procedentes de todo el sistema. Su objetivo oficial es reconstruir los árboles genealógicos de las familias nobles tras la Brecha; su objetivo real es la eugenesia selectiva, alterando fetos para erradicar cualquier rasgo genético que consideren impuro o inferior.</p>
+<p>Triel tragó saliva en silencio, apretando los puños sobre sus rodillas al escuchar la descripción de aquel laboratorio donde su propia existencia había sido catalogada como una abominación.</p>
+<p>Valeria desplazó el marcador hacia el centro del dibujo:</p>
+<p>—El segundo sector comprende las <strong>Habitaciones Residenciales y el Museo de la Fundadora</strong>. Es una recreación lujosa y decadente de los palacetes de Apostae: mármol negro, tapices de seda de araña y salones privados donde las matriarcas y sus cortesanas se entretienen lejos del polvo de las fábricas. En el ala norte se encuentra la galería conmemorativa de su abuela, la fundadora de la dinastía en este sector.</p>
+<p>—¿Y el núcleo informático? —preguntó Marloc, inclinándose sobre el mapa con mirada analítica—. ¿Dónde se custodian los discos duros con los contratos y las bitácoras clasificadas?</p>
+<p>—En el tercer sector: el <strong>Área de Administración y Archivos Centrales</strong> —respondió Valeria, trazando una bóveda fortificada en el nivel inferior—. Está protegida por mamparas de titanio, sensores biométricos de ADN drow y un nodo de seguridad cuántico operado por la guardia pretoriana de la casa. Ningún empleado de la limpieza tiene permiso para pisar ese suelo. Para cruzar esa puerta se necesita una llave de bypass magnético o piratear el sistema desde las consolas secundarias de intendencia.</p>
+<p>A.Xel memorizó las proporciones del mapa con un parpadeo de sus ojos amatista:</p>
+<p>—Patrón de seguridad estándar de alta contención. Las patrullas drow mantendrán turnos rotativos de tres centinelas por corredor, apoyadas por torretas automáticas de pulso incapacitante. Entrar por la fuerza desencadenaría un cierre hermético de las esclusas en menos de noventa segundos.</p>
+<p>—Por eso no vamos a entrar como un comando de asalto —sonrió Triel—. Vamos a entrar por la puerta principal, cargando bandejas y fregonas.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La conspiración del servicio</h3>
+<p>—Tienen suerte —dijo Valeria, guardando el marcador y apoyando los codos en la mesa—. Si hubieran intentado esto hace una semana, no habrían pasado del puesto de aduanas. Pero ahora mismo el complejo es un hervidero de caos y nerviosismo.</p>
+<p>Benrey arqueó una ceja, intrigado:</p>
+<p>—¿Una huelga laboral? ¿Un motín de intendencia?</p>
+<p>—Peor para los capataces: una purga interna —reveló la medio orco en voz baja—. Hace tres días descubrieron que varios sirvientes habían estado sustrayendo reactivos químicos y joyas de las alcobas privadas. La seguridad ejecutó sumariamente a media cuadrilla y despidió al resto sin contemplaciones. Estamos trabajando con menos de la mitad del personal regular, doblando turnos de catorce horas.</p>
+<p>—¿Y por qué tanta prisa por limpiar los suelos? —preguntó Marloc—. Unos aristócratas pueden esperar una semana a que contraten nuevos sirvientes.</p>
+<p>Valeria miró hacia los lados, como si las paredes de roca porosa pudieran escucharla, antes de inclinarse hacia el grupo:</p>
+<p>—Porque se avecina una cumbre de la alta nobleza. Dicen que esta misma tarde aterriza una delegación de Apostae liderada por la mismísima exadministradora del enclave: la Matriarca Niriel Istrav.</p>
+<p>El aire pareció congelarse en la estancia.</p>
+<p>Triel se quedó rígida en su asiento. El nombre de su madre biológica cayó sobre la mesa con el peso de una losa sepulcral.</p>
+<p>—Y no viene sola —añadió Valeria con un escalofrío involuntario—. La acompaña su primogénita y jefa de seguridad: la señora Jhidel Istrav. Esa mujer es un demonio con falda de seda y sables energéticos; castiga el menor retraso en el servicio con latigazos de plasma. La administración del complejo está contratando desesperadamente personal de refuerzo temporal en la oficina de empleo de Thanox: cocineros, mozos de cuadra, ayudantes de lavandería... cualquier bicho con dos brazos que pueda sostener un trapo o pelar tubérculos.</p>
+<p>Benrey dio una palmada entusiasta, rompiendo la tensión:</p>
+<p>—¡Es nuestra oportunidad! Nos presentamos en la oficina de colocación como una brigada de limpieza especializada en banquetes de gala. Triel se pone cofia de doncella, Marloc se ata un delantal blanco de chef de alta cocina...</p>
+<p>—¿Yo, cocinero? —protestó el tecnomante, frunciendo el ceño—. Soy doctor en física aplicada y tecnomancia avanzada por la Universidad de Absalón.</p>
+<p>—Pues hoy eres doctor en chilaquiles radiactivos y guisados eoxianos, Marloc —se burló el ysoki—. Los señores nobles no van a revisar tu currículum académico; solo quieren que el caldo esté caliente y las copas llenas. Yo me encargaré de la intendencia pesada y la retirada de desperdicios, y A.Xel puede supervisar el mantenimiento de las lámparas halógenas.</p>
+<p>Triel miró hacia la esquina de la habitación, donde Gerty permanecía inmóvil con dos niños medio orcos durmiendo plácidamente sobre sus placas de blindaje:</p>
+<p>—¿Y qué hacemos con Gerty? No podemos hacer pasar a un meca de combate de tres toneladas por un lavaplatos portátil.</p>
+<p>Valeria sonrió con picardía, mostrando sus colmillos:</p>
+<p>—En las galerías inferiores utilizamos prensas hidráulicas móviles para compactar la basura biológica y los filtros de desecho de los laboratorios. Si le quitamos el martillo de magma y lo cubrimos con lonas ignífugas de desinfección y pegatinas de residuos tóxicos, pasará como una unidad automatizada de compactación de basuras. Yo firmaré su pase de entrada como herramienta de mi cuadrilla.</p>
+<p>El sintetizador de Gerty emitió un chasquido cavernoso y profundamente ofendido:</p>
+<p>—<em>Rechazo categórico a la degradación funcional. Mi chasis táctico fue forjado para el exterminio balístico y la demolición estructural, no para la compresión de desperdicios orgánicos de bípedos de carbono.</em></p>
+<p>—Te aguantas, Gerty —le palmeó Triel en la carcasa con cariño—. Esta noche todos somos sirvientes.</p>
+<p>Con los papeles de empleo provisional sellados por Valeria y los uniformes de intendencia repartidos sobre la mesa, la tripulación ultimó los detalles del plan. A medianoche, cruzarían el umbral de obsidiana del complejo para desafiar a las dueñas de Apostae en su propio terreno.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 5: El Nido de la Araña</h2>
+<h3 class='subsection-title'>I. Cruzando el umbral de obsidiana</h3>
+<p>El acceso de servicio del complejo Istrav no era más que una compuerta blindada de tres metros de ancho excavada directamente en la roca porosa de Thanox. Flanqueada por dos torretas automáticas de sensor térmico y vigilada por cuatro centinelas drow con armaduras de polímeros negros y fusiles de pulso electromagnético, la esclusa devoraba camiones de suministros y cuadrillas de peones con la indiferencia de una boca mecánica.</p>
+<p>A las tres de la madrugada, cuando los vapores industriales del estrato basal alcanzaban su mayor densidad, la tripulación se colocó en la fila de peones bajo la supervisión de Valeria.</p>
+<p>El disfraz era impecable en su humilde precariedad. Vestían monos de faena grises con el logotipo de la compañía de limpieza municipal serigrafiado en la espalda, salpicados de manchas de grasa sintética y oliendo fuertemente al desinfectante que Valeria había rociado sobre sus botas. Triel llevaba el cabello níveo recogido bajo un pañuelo de trabajo y una visera protectora de mecánico que arrojaba una sombra densa sobre sus ojos carmesí, mientras que una sutil emulsión química en crema atenuaba el brillo pálido de su piel cenicienta.</p>
+<p>A su lado, Gerty avanzaba con el paso lento y torpe de un vehículo de tracción averiado. El colosal meca de combate había sido despojado de sus armas visibles: su martillo de magma descansaba desmontado en el doble fondo de un contenedor de basura rodante que él mismo empujaba con dos de sus brazos, mientras lonas ignífugas de color amarillo chillón, estampadas con símbolos internacionales de riesgo biológico de Grado Cuatro, cubrían sus placas de blindaje táctico.</p>
+<p>—<em>Dignidad funcional reducida a cero coma dos por ciento</em> —masculló el sintetizador de Gerty por la frecuencia interna, emitiendo un zumbido ronco de protesta—. <em>Si algún bípedo de carbono arroja un envoltorio orgánico en mi bandeja de contención, activaré el ciclo de descompresión letal.</em></p>
+<p>—Cierra el canal de audio, Gerty, y haz ruidos de compresor viejo —le susurró Benrey entre dientes, mientras empujaba una carretilla cargada con fregonas y garrafas de ácido decapante.</p>
+<p>Al llegar al puesto de control, un oficial drow de mirada altiva y facciones afiladas como una cuchilla les cerró el paso con el cañón de su arma:</p>
+<p>—Identificaciones y pases de cuadrilla.</p>
+<p>Valeria dio un paso al frente con la cabeza inclinada y la postura encorvada que los siervos adoptaban por instinto en presencia de la nobleza:</p>
+<p>—Refuerzo extraordinario para el banquete de gala de la señora Jhidel, mi señor. Cuatro peones de apoyo y una compactadora automatizada para evacuar los residuos químicos de los laboratorios del sector dos.</p>
+<p>El drow pasó un escáner óptico sobre los códigos de barras que Cóex había adulterado en las tarjetas de empleo. El dispositivo emitió un pitido seco de confirmación verde. El guardia recorrió con desdén la figura de Benrey, se detuvo un instante en la coraza cubierta de lonas de Gerty y arrugó la nariz con evidente asco:</p>
+<p>—Basura orgánica y maquinaria de segunda mano. Vayan por el pasillo de servicio tres y no se desvíen hacia las galerías nobles si no quieren que los guardias les arranquen la piel a tiras. ¡Adentro!</p>
+<p>La pesada compuerta de obsidiana se abrió con un gemido hidráulico, tragándose al grupo hacia las entrañas del complejo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Los tanques de incubación</h3>
+<p>Tras cruzar las esclusas de despresurización, el aire gélido de los túneles fue reemplazado por una atmósfera densa, tibia y saturada de humedad biológica.</p>
+<p>El pasillo de servicio desembocaba en una pasarela metálica suspendida sobre el primer sector de la instalación: los <strong>Laboratorios Genéticos</strong>. A ambos lados de la galería, iluminados por un fulgor espectral de tonalidades púrpuras y violetas, se extendían cientos de cilindros transparentes de cristal blindado de cuatro metros de altura, llenos de un fluido amniótico denso en el que flotaban cultivos celulares, órganos sintéticos y embriones en diversas fases de gestación.</p>
+<p>Triel se detuvo junto a la barandilla de acero estriado, con la respiración entrecortada.</p>
+<p>Frente a ella, en una de las cubas centrales, flotaba la silueta estilizada de un feto humanoide con orejas puntiagudas. Cables de telemetría y mangueras de nutrientes se conectaban a su espina dorsal, mientras un monitor lateral proyectaba complejas cadenas de ADN en continua reconfiguración algorítmica:</p>
+<blockquote class='quote'><strong>ESPECÍMEN 409-DELTA</strong></blockquote>
+<blockquote class='quote'><em>Linaje base: Drow de la Casa Istrav (Línea Matriarcal).</em></blockquote>
+<blockquote class='quote'><em>Alteración programada: Extirpación de marcadores empáticos y recesión de pigmentación melánica.</em></blockquote>
+<blockquote class='quote'><em>Índice de pureza proyectado: 99.4%.</em></blockquote>
+<blockquote class='quote'><em>Nota eugenésica: Los especímenes con impureza superior al 1.0% serán derivados a las cámaras de reciclaje proteico.</em></blockquote>
+<p>—Dioses del vacío... —murmuró Triel, apoyando una mano enguantada sobre el cristal frío del tanque. Un temblor incontrolable recorrió sus dedos—. No están buscando curar enfermedades ni preservar la historia de Apostae. Están fabricando soldados de casta pura... y podando cualquier rama que se desvíe de su ideal aristocrático.</p>
+<p>—Es la doctrina clásica de las casas nobles de Apostae llevada al paroxismo industrial —susurró Marloc, acercándose a su espalda con paso silencioso—. En los archivos de Absalón se conservaban registros fragmentarios de experimentos similares antes de la Brecha. Consideran que la mezcla con otras especies debilita la conexión innata de su raza con las artes oscuras y la magia gravitatoria.</p>
+<p>Triel miró su propio reflejo en el cristal: su rostro mestizo, nacido del amor prohibido entre su madre drow y el ingeniero humano Keiden Ashton, superpuesto sobre el embrión genéticamente purificado en el tanque.</p>
+<p>—Para ellos, yo nunca fui una hija —dijo la joven mecánica, con una amargura tan afilada que cortaba el aire—. Solo fui un fallo de laboratorio que escapó a la incubadora de reciclaje.</p>
+<p>—Pues ese «fallo de laboratorio» tiene mejor puntería con una llave de impacto y más agallas que toda su corte de arañas estiradas —intervino Benrey con una palmada en el hombro de la chica—. Deja que esos fetos en vinagre se queden en sus frascos, Triel. Nosotros vinimos a buscar las pruebas que harán morder el polvo a tu distinguida parentela.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Primeros roces y vigilancia drow</h3>
+<p>El avance por los pasillos inferiores requirió una sincronización milimétrica. A medida que se aproximaban al nudo de conexión entre los laboratorios y el área residencial, la presencia de la guardia privada de los Istrav se intensificó notablemente.</p>
+<p>Los centinelas drow patrullaban en parejas, enfundados en corazas de aleación ligera que absorbían la luz de las lámparas halógenas, portando fustas energéticas y pistolas de descarga sónica. En cada intersección, cámaras hemisféricas dotadas de sensores de reconocimiento térmico barrían los corredores con un haz carmesí intermitente.</p>
+<p>—Patrón de escaneo de cuarenta y cinco grados —advirtió A.Xel por la frecuencia corta, fingiendo ajustar la boquilla de una manguera de aspiración industrial junto a un mamparo—. Punto ciego en el recodo del conducto de ventilación durante seis coma dos segundos tras cada barrido.</p>
+<p>—Ese es nuestro momento —indicó Marloc.</p>
+<p>Aprovechando el intervalo en que el haz de la cámara giró hacia el muro opuesto, el tecnomante se deslizó con la agilidad de una sombra hacia una caja de derivación eléctrica empotrada en la pared de roca. Deslizando una uña cibernética entre las ranuras del panel, desprendió la tapa protectora e introdujo un cable de fibra óptica conectado directamente al puerto de su antebrazo izquierdo.</p>
+<p>En la retina de Marloc se desplegó una cascada vertiginosa de código binario. El tecnomante comenzó a compilar un mapa lógico de la intranet del complejo, esquivando los cortafuegos pasivos con la maestría de quien comprende los flujos de energía como si fueran ecuaciones matemáticas vivas:</p>
+<p>—Tengo acceso a la subred de intendencia —informó Marloc en un susurro—. La estructura confirma los datos de Valeria. El nodo central de datos está en el tercer subnivel, en la cámara blindada de Archivos Administrativos. Pero hay una complicación.</p>
+<p>—¿Qué complicación? —preguntó Triel, vigilando el extremo del pasillo con el cuerpo tenso.</p>
+<p>—Las puertas de la cámara de archivos requieren autorización biométrica de doble clave —explicó el tecnomante—. Una clave digital de acceso que podemos piratear desde aquí... y un cerrojo magnético físico operado manualmente desde la esclusa de seguridad de las alcantarillas inferiores. Alguien tiene que llegar a los conductos de drenaje para desactivar el pestillo hidráulico desde abajo.</p>
+<p>Benrey miró hacia el suelo, donde una rejilla metálica de desagüe despedía un vaho pestilente y cáustico hacia el pasillo:</p>
+<p>—¿Conductos de drenaje? ¿Alcantarillas? ¿Por qué siempre que hay que arrastrarse por tuberías con mierda radiactiva me miran todos a mí?</p>
+<p>—Porque eres el único que cabe por un tubo de treinta centímetros de diámetro sin desarticularse los hombros, Benrey —le sonrió Triel con malicia cariñosa—. Y porque tienes un talento natural para salir a flote de cualquier vertedero.</p>
+<p>Antes de que el ysoki pudiera formular una réplica formal, el sonido de botas militares resonó al final del pasillo. Un oficial drow, acompañado por dos mastines cibernéticos con mandíbulas de titanio y ojos infrarrojos, dobló la esquina con paso marcial.</p>
+<p>—¡Muévanse! —susurró Valeria con urgencia—. ¡Llegaron los inspectores del banquete!</p>
+<p>Benrey agarró una fregona y comenzó a restregar el suelo con un frenesí desesperado, mientras Gerty activaba su motor de compresión emitiendo un chirrido estridente que ahogó los pasos de la patrulla. La infiltración apenas comenzaba, y el nido de la araña estaba a punto de cerrar sus redes.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 6: Servidumbre con Pesadumbre</h2>
+<h3 class='subsection-title'>I. Bandejas de plata y ojos crueles</h3>
+<p>El sector residencial de la Casa Istrav era una blasfemia de opulencia levantada sobre la miseria de Thanox.</p>
+<p>Mientras en los estratos exteriores los obreros medio orcos y los peones autómatas se hacinaban en cuarterías frías y respiraban los efluvios tóxicos de las refinerías, tras las puertas blindadas del ala noble se abría un laberinto de salones climatizados pavimentados con losas de mármol negro pulido. Lámparas de araña forjadas con cristal de cuarzo y plata estelar suspendidas de techos abovedados proyectaban una luz ámbar sobre tapices de seda de araña tejida en los telares aristocráticos de Apostae.</p>
+<p>Ataviados con chaquetas de librea oscura y guantes de hilo blanco facilitados por Valeria, Triel y Benrey recorrían los salones portando pesadas bandejas de plata cargadas con copas de cristal tallado y decantadores de licor destilado en las bodegas privadas de la familia.</p>
+<p>—Mantén la cabeza gacha y la mirada clavada en la punta de tus botas —le susurró Valeria a Triel mientras cruzaban el arco del gran salón de recepción—. Para los drow nobles, un sirviente no es una persona; es un mueble con patas. Si cruzas la mirada con una señora de la casa, lo tomarán como una insolencia capital y la fusta te abrirá la espalda antes de que puedas disculparte.</p>
+<p>Triel apretó los dedos contra los bordes de la bandeja de plata hasta que los nudillos se le pusieron blancos.</p>
+<p>El salón bullía con la flor y nata de la delegación de Apostae. Nobles de ambos sexos, enfundados en túnicas de seda púrpura con bordados de hilo de oro y corazas ceremoniales de obsidiana, conversaban en pequeños círculos mientras esclavos medio orcos y sirvientes lashuntas se arrodillaban a su paso para ofrecerles bocados de carne macerada y copas de vino especiado. La risa de las cortesanas drow era como el tintineo de agujas de hielo: fría, mordaz y desprovista de la menor calidez.</p>
+<p>—¡Tú, rata de servicio! —chasqueó los dedos un aristócrata drow de cabello trenzado y pómulos afilados, llamando a Benrey con un ademán perezoso—. Trae ese licor aquí. Y ten cuidado de no derramar una sola gota sobre mi túnica si aprecias tus orejas.</p>
+<p>Benrey se inclinó con una reverencia exageradamente servil, extendiendo la bandeja con una sonrisa falsa y forzada:</p>
+<p>—Por supuesto, ilustrísimo señor. Licor de ciruela negra de las lunas de Castrovel, cosecha de hace cincuenta años, servido a la temperatura perfecta para su refinadísimo paladar.</p>
+<p>El noble tomó la copa sin dignarse a mirarlo a los ojos, apartándolo de un empellón con el dorso de la mano que casi hace rodar las botellas por el suelo de mármol. Benrey recuperó el equilibrio con una maldición ahogada entre los dientes:</p>
+<p>—Maldito petulante con orejas de punta... Si tuviera mi revólver en la mano le iba a enseñar modales a golpe de pólvora.</p>
+<p>—Paciencia, Benrey —le murmuró Triel al pasar a su lado con otra bandeja—. Cada segundo que pasemos aquí nos acerca más al núcleo de datos.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El cónclave de las sombras</h3>
+<p>Aprovechando el tumulto de la servidumbre durante el cambio de servicio de viandas, Triel y A.Xel se deslizaron hacia el corredor norte que conducía a la terraza panorámica privada. La androide, provista de un plumero electrostático y un juego de gamuzas de mantenimiento, fingía limpiar los apliques de pared mientras sus sensores acústicos de largo alcance calibraban los filtros para capturar el sonido tras las puertas entornadas de una estancia reservada.</p>
+<p>En el interior de la sala de juntas privadas, recortadas contra el ventanal blindado que daba a la sima abisal de Thanox, dos figuras monopolizaban la conversación.</p>
+<p>La primera era una mujer drow joven, de belleza letal y porte atlético impecable. Vestía una armadura de combate ligera ajustada a su silueta, con dos sables energéticos enfundados en la cintura y el emblema de la araña de los Istrav grabado en el hombro izquierdo. Su rostro era una máscara de arrogancia marcial, con ojos que ardían con una ambición feroz.</p>
+<p>Era Jhidel Istrav. La primogénita. La hermanastra pura de Triel.</p>
+<p>Frente a ella, sentada en un diván de terciopelo carmesí con una copa de néctar en la mano, descansaba una mujer madura de porte majestuoso y porte imperial. Su cabello era blanco como la nieve virgen y sus ojos carmesí poseían una frialdad tan absoluta que parecía capaz de congelar el fuego.</p>
+<p>La Matriarca Niriel. La madre biológica de Triel.</p>
+<p>—...y por eso la asignación de la división de armamento pesado a mi tía Velshea es un error táctico inadmisible, madre —decía Jhidel, paseándose frente al diván con pasos elásticos y tensos—. Velshea es débil. Teme las represalias del Consejo de Absalón y se niega a suministrar los nuevos prototipos de cañones de plasma a nuestros aliados en la frontera. La Casa Istrav necesita puño de hierro, no diplomacia de salón.</p>
+<p>Niriel dio un sorbo pausado a su copa, sin alterar un ápice la compostura:</p>
+<p>—Tu ambición siempre ha sido más rápida que tu juicio, Jhidel. La prudencia no es debilidad; es la tela que permite a la araña esperar a que la presa se agote en sus propios forcejeos. Pero reconozco que la lealtad de tu tía empieza a flaquear. Consideraré tu petición tras la firma de los acuerdos de esta noche.</p>
+<p>Jhidel se detuvo, apoyando una mano sobre la empuñadura de su sable:</p>
+<p>—Hay otro asunto que requiere una resolución definitiva, madre. Un cabo suelto que sigue manchando el prestigio de nuestro apellido en los Mundos del Pacto.</p>
+<p>La joven drow extrajo un comunicador de su cinturón y proyectó un holograma en el aire de la habitación. Sobre la mesa flotó la imagen de Triel, vestida con su mono de mecánico de los Capitanes Libres, empuñando su pistola de rayos durante el asalto a la nave <em>Acreon</em> en los primeros compases de la campaña.</p>
+<p>Triel contuvo la respiración tras la puerta entornada, sintiendo un nudo de hierro apretándole la garganta.</p>
+<p>—Esa mestiza inmunda —escupió Jhidel con profundo desprecio—. La bastarda humana que engendraste con aquel esclavo ingeniero. Los informes de la inteligencia corporativa confirman que ha estado interfiriendo en nuestras operaciones en la Diáspora y que colaboró en la caída de nuestros contactos en Eox. Los rumores sobre su linaje empiezan a circular en los foros nobles de Apostae. Es una vergüenza para la sangre de los Istrav.</p>
+<p>Niriel contempló el holograma de Triel durante un largo segundo, con una mirada tan vacía y desprovista de afecto como la superficie de un asteroide muerto. Finalmente, alzó su mano enguantada y apagó la proyección con un gesto displicente:</p>
+<p>—Esa criatura no es más que un error de juventud, Jhidel. Un residuo biológico descartable de los experimentos con Keiden Ashton antes de su traición. Nunca ha formado parte de esta familia y jamás pisará los salones de Apostae como una igual.</p>
+<p>—Entonces permíteme cazarla —exigió Jhidel con una sonrisa cruel—. Dame autorización para enviar una escuadra de choque y purgar su existencia del registro.</p>
+<p>—Si esa abominación comete la imprudencia de cruzarse en nuestro camino —sentenció la Matriarca con voz helada—, arráncale la cabeza y échale sus restos a los mastines de los laboratorios. Pero no desperdicies recursos de la casa persiguiendo a una mecánica insignificante. Esta noche tenemos asuntos de verdadero peso que firmar en la cámara de archivos.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El mapa de escape y la alarma latente</h3>
+<p>Triel retrocedió con pasos lentos y silenciosos, alejándose de la puerta entornada con el corazón latiéndole desbocado contra las costillas.</p>
+<p>No había sorpresa en su pecho; siempre había sabido que el desprecio de su madre era absoluto. Pero escuchar aquellas palabras, pronunciadas con la frialdad de quien habla de desechar una herramienta rota, clavó una espina de fuego en su orgullo que evaporó cualquier resto de duda o vacilación. Ya no había lazos de sangre que respetar. Solo había una verdad que arrancar y una deuda que saldar.</p>
+<p>La tripulación se reagrupó en una pequeña despensa de mantenimiento situada al fondo de la cocina industrial, donde Marloc aguardaba fingiendo supervisar una olla de guisado humeante junto a Valeria.</p>
+<p>—¿Escucharon algo útil? —preguntó el tecnomante en un susurro, asegurando el cerrojo de la despensa.</p>
+<p>—Mi hermana Jhidel quiere mi cabeza para adornar su salón de armas —respondió Triel con una serenidad cortante que sorprendió a sus compañeros—. Y mi madre ha dado su bendición para que me arrojen a los perros si me descubren.</p>
+<p>Benrey silbó por lo bajo, sacudiéndose una mancha de vino de la solapa:</p>
+<p>—Una familia encantadora, de verdad. En Acción de Gracias deben de pasárselo en grande envenenándose el pavo los unos a los otros.</p>
+<p>—Confirmaron un dato crucial —intervino A.Xel, proyectando en su palma el esquema interno de los niveles inferiores—. A medianoche, la Matriarca y Jhidel bajarán personalmente al sector administrativo para firmar la reasignación de los regimientos militares y los contratos mercenarios. Durante la ceremonia, los guardias del pasillo central se concentrarán en el vestíbulo de honor.</p>
+<p>—Es nuestra única ventana de oportunidad —dijo Marloc, señalando la trampilla de ventilación situada en el suelo de la despensa—. El nodo de drenaje que conduce al pestillo magnético está a sesenta metros bajo nuestros pies. Benrey, tienes que bajar por ese conducto, alcanzar la compuerta de las sentinas y soltar el bloqueo manual para que nosotros podamos reventar la puerta de la sala de servidores desde el pasillo de servicio.</p>
+<p>Benrey tragó saliva, mirando el pozo oscuro y húmedo que se abría bajo la trampilla:</p>
+<p>—Prométanme una cosa, muchachos. Si salgo con vida de ese caño y consigo borrar el contrato del marido de Valeria... Triel me consigue una cuenta verificada nueva en la red del Pacto.</p>
+<p>—Te consigo tres cuentas con verificación dorada y seguidores ilimitados, Benrey —le aseguró la drow con una sonrisa cálida—. Ahora baja ahí y desactiva ese pestillo.</p>
+<p>El ysoki se ajustó la visera protectora, tomó una linterna química entre los dientes y se deslizó por la angosta canalización de acero hacia las tinieblas de las alcantarillas. La cuenta atrás para el asalto final había comenzado.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 7: Babitas pa' que las Quiero</h2>
+<h3 class='subsection-title'>I. Incursión en los conductos de ventilación</h3>
+<p>El conducto secundario de evacuación térmica medía escasos cuarenta y cinco centímetros de diámetro. Para un humano o una elfa, deslizarse por semejante cañería habría supuesto una asfixia claustrofóbica inmediata; pero para Benrey Galway, la estrechez del tubo de chapa galvanizada era un recuerdo casi entrañable de sus días de infancia en los laberintos de ventilación de la estación espacial.</p>
+<p>Avanzaba arrastrándose sobre el vientre, empujando con los codos y las rodillas mientras sostenía una linterna química entre los dientes y un juego de ganzúas magnéticas en el bolsillo pectoral. El aire en el interior del tubo era denso, ardiente y saturado de un olor nauseabundo a refrigerante quemado y ozono industrial.</p>
+<p>—Marloc, confírmame telemetría —susurró el ysoki por el micrófono de garganta, conteniendo las ganas de toser—. Llevo treinta metros de caño y esto empieza a calentarse más que la parrilla de un matadero eoxiano.</p>
+<p>La voz del tecnomante llegó con una sutil distorsión estática por el auricular:</p>
+<p>—<em>Mantén el rumbo actual, Benrey. Según el plano de Valeria, debes continuar recto doce metros más hasta alcanzar la bifurcación de drenaje vertical. Allí deberías encontrar la válvula manual del bypass magnético que libera el cerrojo de la bóveda de administración.</em></p>
+<p>—Recibido —masculló el emisario, secándose el sudor que le empapaba los ojos con el dorso del guante—. Si no salgo de esta con un diploma honorífico de fontanería interestelar, voy a tener palabras muy serias con el departamento de intendencia.</p>
+<p>Benrey alcanzó la bifurcación. El conducto horizontal desembocaba en un pozo vertical cubierto por una rejilla metálica carcomida por el óxido y la condensación ácida. Con extremo cuidado, el ysoki apoyó las rodillas sobre la reja para asomarse al pozo inferior, buscando con el haz de la linterna el volante de presión de la válvula hidráulica.</p>
+<p>De pronto, un crujido agudo y seco resonó bajo su peso.</p>
+<p>—Oh, no... —apenas tuvo tiempo de balbucear Benrey.</p>
+<p>Los anclajes corroídos de la rejilla cedieron de golpe. El metal se partió como una galleta reseca y el ysoki se precipitó al vacío en medio de una lluvia de tornillos oxidados, dejando escapar un alarido sordo que se cortó en seco al estrellarse seis metros más abajo contra una masa líquida, densa y pestilente.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El horror de las alcantarillas</h3>
+<p>El chapoteo fue estruendoso. Benrey emergió a la superficie tosiendo y escupiendo una mezcla viscosa de lodo químico, restos orgánicos descompuestos de los laboratorios genéticos y agua de refrigeración estancada.</p>
+<p>Se encontraba en el fondo de una inmensa cisterna abovedada de piedra porosa, donde confluían los aliviaderos de las sentinas del complejo. El agua negruzca le llegaba por la cintura y la pestilencia era tan salvaje que le hizo lagrimear los ojos de inmediato. Su linterna química flotaba a escasos metros, proyectando un círculo vacilante de luz verde sobre la superficie aceitosa del estanque.</p>
+<p>—¡Marloc! ¡Triel! —gritó el ysoki por el comunicador, tanteando a su alrededor en la penumbra con el corazón golpeándole el pecho como un martillo neumático—. ¡Me caí! ¡Se rompió la rejilla del diablo y estoy en una fosa séptica con más porquería que un vertedero de la Diáspora!</p>
+<p>—<em>¡Benrey!</em> —respondió la voz alarmada de Triel por el receptor—. <em>¿Estás herido? ¿Dónde estás exactamente?</em></p>
+<p>—¡No sé dónde estoy, pero huele a cadáver podrido con salsa de vinagre! —chilló el emisario, vadeando el fango hacia el borde de la cisterna—. Esperen... hay algo aquí abajo.</p>
+<p>Un chapoteo espeso y ondulante resonó en el extremo oscuro de la galería.</p>
+<p>Benrey congeló sus movimientos. A través de la superficie del agua ponzoñosa, una onda circular comenzó a avanzar hacia él con una lentitud amenazante. Al proyectar la linterna química hacia la penumbra, el haz de luz iluminó una pesadilla biológica que heló la sangre del ysoki en las venas.</p>
+<p>De las aguas residuales emergió una masa informe de carne gelatinosa, de casi tres metros de envergadura, de un color púrpura traslúcido y cubierta de pústulas purulentas que exudaban un moco corrosivo que siseaba al entrar en contacto con el líquido del estanque. Aquel engendro no era un animal natural; era un «baboso de alcantarilla», un reptador aberrante nacido de los deshechos mutagénicos y cultivos embrionarios descartados por los laboratorios de la Casa Istrav durante décadas.</p>
+<p>La criatura no tenía ojos visibles, pero en su parte frontal se abría una fauces membranosa armada con hileras concéntricas de garfios córneos, rodeada por media docena de pseudópodos viscosos que goteaban ácido sulfúrico. El monstruo extendió dos de sus tentáculos en el aire, venteando el olor a carne viva de Benrey con un chasquido cavernoso y babeante.</p>
+<p>—¡Babitas! —chilló Benrey con pánico histérico, retrocediendo a trompicones contra la pared de roca mientras buscaba inútilmente su pistola láser en el arnés vacío—. ¡Una masa gigante con babas ácidas me va a devorar en un colector de aguas negras! ¡Sáquenme de aquí! ¡Sáquenme ya!</p>
+<p>Uno de los pseudópodos cayó como un látigo sobre el agua, rozando la manga de la chaqueta de Benrey. La tela sintética se disolvió instantáneamente en una llamarada de humo blanco acre, quemándole la piel del brazo con una mordedura ardiente. El ysoki trepó desesperadamente por una tubería de desagüe empotrada en el muro, colgándose con ambas manos mientras la mole gelatinosa comenzaba a envolver la base del tubo con sus anillos de moco cáustico.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Rescate táctico y fuego químico</h3>
+<p>Sobre el techo abovedado de la cisterna, en el pasillo de servicio del tercer subnivel, Triel y A.Xel no perdieron un solo segundo.</p>
+<p>Guiada por la señal de telemetría del comunicador de Benrey, la androide localizó una compuerta de inspección de fundición de acero que sellaba el acceso vertical a las cloacas. La escotilla estaba trabada por un perno oxidado de alta resistencia.</p>
+<p>—¡Gerty, derriba esa compuerta! —ordenó Triel, desenvainando su pistola de rayos.</p>
+<p>El meca bípedo avanzó con un rugido de servomotores sobrecargados. Desprendiéndose de las lonas de riesgo biológico que lo cubrían, Gerty afianzó sus dos piernas metálicas contra el suelo de piedra, clavó dos de sus pinzas hidráulicas en el borde de la escotilla y tiró hacia arriba con una potencia de tracción de diez toneladas.</p>
+<p>El acero gimió con un chirrido ensordecedor antes de ser arrancado de cuajo de sus bisagras. Un chorro de vapor caliente y pestilencia fétida brotó del pozo, acompañado por los alaridos desesperados de Benrey que resonaban desde el fondo.</p>
+<p>Sin vacilar, Gerty arrojó la escotilla al pasillo y se dejó caer pesadamente por la abertura. El impacto de sus tres toneladas de blindaje levantó una ola de lodo y espuma ácida que inundó la cisterna, haciendo que el monstruo de moco retrocediera sobresaltado con un silbido de furia.</p>
+<p>—<em>Identificación de amenaza: Especimen biológico aberrante de naturaleza cáustica</em> —dictaminó Gerty por su sintetizador vocal, mientras el lodo resbalaba inútilmente por sus placas de titanio selladas—. <em>Protocolo de exterminio por impacto directo iniciado.</em></p>
+<p>Uno de los tentáculos del monstruo azotó el torso de Gerty, pero el ácido corrosivo solo arrancó un poco de pintura de su blindaje. El meca descargó su puño mecánico principal con la velocidad de un pistón neumático, golpeando el núcleo gelatinoso de la criatura con una fuerza que hizo temblar las paredes del colector.</p>
+<p>Desde el brocal del pozo superior, A.Xel se asomó con su rifle criogénico apoyado en el hombro. Sus ojos fotocromáticos calcularon la dispersión del fluido en una milésima de segundo:</p>
+<p>—Secuencia criogénica de contención. No te muevas, Benrey.</p>
+<p>A.Xel disparó tres ráfagas consecutivas de plasma subcero. Los haces violetas perforaron la masa informe de Babitas justo en las hendiduras abiertas por los golpes de Gerty. Al contacto con la energía térmica negativa, el moco gelatinoso se congeló en bloques rígidos de hielo quebradizo, deteniendo en seco el avance de los tentáculos.</p>
+<p>Gerty alzó su segundo brazo mecánico y descargó un golpe descendente que pulverizó la criatura congelada en miles de esquirlas inertes que se hundieron en el fango de la cisterna.</p>
+<p>Benrey, colgado de la tubería con los brazos temblorosos y cubierto de arriba abajo por un pegote verde fosforescente que apestaba a pescado podrido, bajó la mirada hacia el meca con una expresión que oscilaba entre el espanto y la gratitud más absoluta:</p>
+<p>—Gerty... eres el montón de chatarra más hermoso que ha visto el universo. Bájame de aquí antes de que me crezca un tercer ojo por la radiación de este charco.</p>
+<p>Gerty extendió una pinza de acero, descolgando al ysoki de la tubería como si fuera un saco de ropa sucia. Al subirlo a la pasarela superior, Triel y Marloc tuvieron que taparse la nariz ante el hedor apabullante que desprendía su compañero.</p>
+<p>—Hueles a alcantarilla municipal con esteroides, Benrey —dijo Triel, conteniendo una mueca de asco mientras le alcanzaba una toalla sintética.</p>
+<p>—Me importa un bledo a qué huelo —jadeó el ysoki, abriendo con orgullo la mano derecha enlodada—. Mientras caía por ese tubo del demonio, logré aferrarme a la palanca manual del bypass hidráulico y la arranqué de cuajo del mamparo.</p>
+<p>En la palma ennegrecida de Benrey reposaba una pesada palanca de bronce con el sello de los Istrav, acompañada por el chirrido lejano de un solenoide electromagnético desactivándose al final del corredor.</p>
+<p>Marloc sonrió, consultando la pantalla de su terminal portátil:</p>
+<p>—El cerrojo físico de la cámara de archivos ha caído. Las puertas del servidor central están desprotegidas. Es hora de cobrar la factura, muchachos.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 8: Naves de Sangre</h2>
+<h3 class='subsection-title'>I. El asalto al núcleo de datos</h3>
+<p>La cámara acorazada de Administración y Archivos Centrales era un santuario de frío glacial y silencio sepulcral.</p>
+<p>A diferencia del bullicio opulento de los salones residenciales o la humedad biológica de los laboratorios genéticos, este tercer subnivel estaba revestido de placas de titanio negro pulido, con hileras de columnas de cristal óptico de tres metros de altura que albergaban los bancos de memoria cuántica de la Casa Istrav. Miles de filamentos de luz violeta recorrían el interior de los cilindros, procesando en silencio los secretos financieros, los árboles genealógicos y las operaciones militares encubiertas de la dinastía.</p>
+<p>Gracias a la palanca de bypass que Benrey había arrancado en las cloacas, la compuerta exterior se abrió sin activar las alarmas perimetrales.</p>
+<p>Marloc y Triel se aproximaron a la consola maestra situada en el centro de la sala: una mesa circular de obsidiana con proyectores holográficos empotrados. Con dedos diestros, la joven mecánica insertó dos derivadores de datos en los puertos de enlace, mientras Marloc sincronizaba su brazo cibernético con la matriz del ordenador central.</p>
+<p>—El sistema tiene un cortafuegos activo de arquitectura elfa oscura —advirtió Marloc, con sus ojos reflejando cascadas de glifos criptográficos en color escarlata—. Utilizan algoritmos de entropía inversa diseñados para freír las neuronas de cualquier hacker biológico no autorizado.</p>
+<p>—Déjamelo a mí —repuso Triel, deslizando una herramienta de calibración cuántica entre los conectores de fibra óptica—. Conozco la sintaxis básica de los Istrav. Mi madre siempre utilizaba las fechas de las fundaciones matriarcales de Apostae como semilla de cifrado para sus registros privados.</p>
+<p>Durante cuatro minutos de tensión asfixiante, el tecnomante y la mecánica trabajaron en perfecta simbiosis. Las fórmulas arcanas de Marloc contuvieron los contraataques del cortafuegos, tejiendo una red de amortiguación lógica que absorbió las descargas de retroalimentación estática, mientras Triel desarmaba las capas de autenticación una por una.</p>
+<p>De repente, la luz escarlata de la consola viró hacia un verde esmeralda brillante.</p>
+<blockquote class='quote'><strong>ACCESO CONCEDIDO A LA PARTICIÓN MAESTRA: NIVEL MATRIARCA</strong></blockquote>
+<blockquote class='quote'><em>Bienvenida, señora del linaje Istrav.</em></blockquote>
+<blockquote class='quote'><em>Desplegando directorio clasificado: Archivos Reservados de la Era Post-Brecha.</em></blockquote>
+<p>—Estamos dentro —susurró Triel con el corazón latiéndole con fuerza en la garganta—. Descargando el índice general en la memoria externa.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Los registros de Keiden Ashton</h3>
+<p>En la pantalla flotante comenzaron a desfilar carpetas de alta seguridad selladas con el blasón de la araña de obsidiana. Triel introdujo el filtro de búsqueda por nombre: <em>Keiden Ashton</em>.</p>
+<p>El sistema tardó apenas tres segundos en abrir un expediente marcado con el sello de máxima traición familiar:</p>
+<blockquote class='quote'><strong>EXPEDIENTE DE SEGURIDAD 009-OMEGA: KEIDEN ASHTON</strong></blockquote>
+<blockquote class='quote'><em>Filiación: Humano libre, oriundo de los asentamientos periféricos de la Diáspora.</em></blockquote>
+<blockquote class='quote'><em>Condición: Ingeniero naval de propulsión y piloto civil capturado en espacio neutral.</em></blockquote>
+<blockquote class='quote'><em>Asignación original: Asesor técnico en el desarrollo del proyecto «Naves de Sangre» (cruceros de interdicción equipados con motores de plasma adaptativo alimentados por núcleos biocelulares).</em></blockquote>
+<p>Triel leyó las primeras líneas con los ojos desorbitados. Las notas personales adjuntas al expediente llevaban la firma digital de la propia Matriarca Niriel:</p>
+<blockquote class='quote'><em>«El espécimen humano Keiden demostró una pericia técnica y una comprensión de las ecuaciones de salto en la Deriva muy superiores a las de nuestros artífices habituales. Durante el ciclo 289, fue admitido en mis aposentos privados para supervisar la sincronización del prototipo de navío insignia.</em></blockquote>
+<blockquote class='quote'><em>De dicho contacto biológico no planificado derivó la gestación de la cría mestiza designada Triel. La aberración genética carecía de valor para el linaje, pero se permitió su desarrollo inicial para garantizar la cooperación del ingeniero en la fase final de pruebas del motor.»</em></blockquote>
+<p>Una oleada de náusea y frío recorrió el estómago de Triel. No había sido un descuido ni un afecto pasajero; su propia concepción había sido un cálculo instrumental de laboratorio.</p>
+<p>Pero el siguiente párrafo cambió el tono del documento:</p>
+<blockquote class='quote'><em>«Al descubrir la naturaleza eugenésica de las purgas en los tanques de gestación y el destino previsto para la criatura mestiza tras la entrega del motor, el espécimen Keiden orquestó una fuga sin precedentes en la historia de esta instalación.</em></blockquote>
+<blockquote class='quote'><em>Saboteó los refrigeradores del reactor principal, robó el prototipo de salto hiperespacial, sustrajo las cartas de navegación de la Flota de Cadáveres y extrajo a la cría de los pabellones de contención antes de huir a través de la atmósfera de Thanox.</em></blockquote>
+<blockquote class='quote'><em>A pesar del bloqueo orbital, el piloto logró internarse en la Deriva hacia coordenadas no cartografiadas de la Vastedad. Estado actual del traidor: No capturado. Recompensa activa en los mercados clandestinos de Apostae.»</em></blockquote>
+<p>Triel apoyó las manos en la consola, respirando con dificultad mientras las lágrimas resbalaban por sus mejillas sin que pudiera detenerlas.</p>
+<p>Su padre no la había abandonado. Keiden Ashton había desafiado el poderío militar de una de las casas más letales de Apostae, arriesgando su vida para arrancarla de las incubadoras antes de que las tijeras genéticas de su madre la convirtieran en un desecho biológico, dejándola a salvo en los mundos civilizados antes de desaparecer en los confines del cosmos para desviar la persecución.</p>
+<p>—Tu padre era un auténtico titán, Triel —dijo Benrey en voz baja, asomándose a la pantalla con una admiración sincera—. Burlar el bloqueo de una casa drow con un prototipo robado y un bebé en brazos es una hazaña que merece una balada en cualquier cantina del Pacto.</p>
+<p>—Y nos dejó la ruta —añadió Marloc, señalando una hilera de coordenadas cifradas al pie del archivo de fuga—. Los saltos de Keiden coinciden con los vectores de navegación hacia el sector de Nejeor. Si seguimos esa pista cuando despeguemos de Eox, encontraremos el rastro de su nave.</p>
+<p>Triel se secó las lágrimas con el dorso del guante y una sonrisa de orgullo y desafío iluminó su rostro:</p>
+<p>—Copia todas las coordenadas, Marloc. Mi padre sigue vivo en alguna parte... y voy a encontrarlo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Justicia para los oprimidos</h3>
+<p>Antes de desconectar la terminal, Triel abrió una segunda ventana en la interfaz: el registro de contrataciones y servidumbres de la división mercenaria.</p>
+<p>Buscó el nombre que le había prometido a su aliada: <em>Kroll, infante de línea medio orco</em>.</p>
+<p>La ficha del esposo de Valeria apareció de inmediato: un historial implacable de cuatro prórrogas consecutivas, con una deuda acumulada por supuestos daños de combate que obligaba al soldado a permanecer en el frente de batalla durante otros tres años sin remuneración digna.</p>
+<p>Con una rapidez feroz, Triel comenzó a reescribir los parámetros legales del contrato:</p>
+<p>—Cláusula de rescisión por servicio cumplido... activada. Cancelación total de deudas por indemnización de material... aprobada. Expedición de salvoconducto de repatriación inmediata a Thanox con pasaje pagado... emitida.</p>
+<p>Marloc aplicó una firma digital clonada de la Matriarca para blindar la operación contra cualquier auditoría rutinaria:</p>
+<p>—El documento es legal y ejecutable en cualquier consulado del Pacto. Kroll es un hombre libre desde este preciso instante.</p>
+<p>Triel guardó la copia sellada en un bloc de datos portátil para entregárselo a Valeria:</p>
+<p>—Deuda saldada, compañera.</p>
+<p>En ese instante, un zumbido estridente y agudo rasgó el aire de la cámara acorazada.</p>
+<p>Las luces violetas de los cilindros de memoria se apagaron de golpe, siendo sustituidas por un parpadeo frenético de focos halógenos de color escarlata que tiñeron la sala de un resplandor sangriento. Una sirena de emergencia comenzó a aullar por los altavoces de techo con un tono ensordecedor:</p>
+<blockquote class='quote'><strong>ALERTA DE SEGURIDAD GENERAL: INTRUSIÓN EN EL NODO ADMINISTRATIVO</strong></blockquote>
+<blockquote class='quote'><em>Brecha en los servidores maestros detectada.</em></blockquote>
+<blockquote class='quote'><em>Protocolo de cierre de emergencia activado.</em></blockquote>
+<blockquote class='quote'><em>Despliegue inmediato de la guardia pretoriana en el sector tres.</em></blockquote>
+<p>A través de las cámaras de seguridad que parpadeaban en la consola, vieron cómo las pesadas mamparas blindadas del pasillo principal comenzaban a descender con estrépito, cortando las rutas de evacuación ordinarias.</p>
+<p>—¡Nos descubrieron! —gritó Benrey, desenfundando su pistola láser mientras el hedor a cloaca de su ropa se intensificaba con la agitación—. ¡Se acabó el turno de limpieza, muchachos!</p>
+<p>—¡Gerty, A.Xel, a la puerta! —ordenó Triel, desconectando su equipo de un tirón y empuñando su llave de impacto electrificada—. ¡Nos abrimos paso hacia el vestíbulo antes de que sellen la esclusa exterior!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 9: Amor Fraternal</h2>
+<h3 class='subsection-title'>I. El cerco en el vestíbulo de mármol</h3>
+<p>Las sirenas de emergencia aullaban con una cadencia frenética que hacía vibrar las paredes de basalto del complejo.</p>
+<p>La tripulación corría por el corredor de enlace hacia el vestíbulo principal, dejando atrás las compuertas de seguridad que descendían una tras otra como guillotinas de titanio. Gerty encabezaba la marcha como un ariete imparable, arrancando los cerrojos de las puertas intermedias de un solo golpe de su puño hidráulico, mientras A.Xel cubría la retaguardia abatiendo a los primeros centinelas drow con disparos quirúrgicos de plasma frío que congelaban sus armas antes de que pudieran apuntar.</p>
+<p>Sin embargo, al irrumpir en el gran salón de recepción residencial, la salida quedó sellada.</p>
+<p>Una pesada verja blindada de barrotes de aleación reforzada había caído sobre el arco que conducía a los muelles de servicio exteriores. En el perímetro del salón, apostados tras las balaustradas del entresuelo y los pilares de mármol negro, una veintena de soldados de élite de la guardia de la Casa Istrav apuntaban con fusiles de asalto de bobina magnética y lanzadores de granadas de plasma.</p>
+<p>Y en el descansillo de la escalinata monumental, recortada contra el tapiz de la gran araña de obsidiana, aguardaba Jhidel Istrav.</p>
+<p>La primogénita había descartado la capa ceremonial del banquete. Vestía su armadura completa de combate de polímeros negros ceñida al cuerpo, reforzada con placas de blindaje en los hombros y las rodillas. En sus manos descansaban dos sables de energía gemelos de manufactura drow: hojas afiladas de un metro de longitud que silbaban con una vibración letal, desprendiendo arcos crepitantes de electricidad violeta y escarcha gravitatoria.</p>
+<p>Sus ojos carmesí recorrieron al grupo con una sonrisa de feroz triunfo que dejaba al descubierto sus dientes afilados:</p>
+<p>—Vaya, vaya... Miren lo que han traído las aguas residuales de Thanox. La escoria de intendencia resultó ser una cuadrilla de ladrones profesionales.</p>
+<p>La mirada de Jhidel se clavó en Triel. La sonrisa de la aristócrata se ensanchó con un desprecio tan venenoso que pareció llenar la inmensa estancia de ponzoña:</p>
+<p>—Y capitaneados nada menos que por la pequeña bastarda de la familia.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La burla de la primogénita</h3>
+<p>Triel dio un paso al frente, despojándose de la gorra de sirvienta y el pañuelo grasiento para dejar caer su melena nívea sobre los hombros. En su mano derecha empuñaba su llave de impacto industrial modificada con un generador de choque estático, mientras su izquierda descansaba con firmeza sobre la empuñadura de su pistola de rayos.</p>
+<p>—Ahorra tus discursos aristocráticos, Jhidel —dijo Triel con voz gélida, sin desviar la mirada de las espadas de su hermana—. Ya leí los archivos de la cámara acorazada. Sé exactamente lo que mi padre hizo con sus naves prototipo y sé por qué tiemblan cada vez que escuchan su nombre.</p>
+<p>Jhidel soltó una carcajada cristalina que resonó con eco burlón en las bóvedas del vestíbulo:</p>
+<p>—¿Tu padre? ¿Ese sucio esclavo humano que mi madre utilizó como animal de tiro para calibrar motores? ¿De verdad crees que aquel peón significaba algo para este linaje? No era más que una herramienta biológica prescindible. Y tú no eres más que la mancha que dejó en el suelo del laboratorio antes de huir como una rata cobarde hacia el vacío.</p>
+<p>La primogénita descendió los primeros escalones con la gracia elástica de una pantera de las cavernas, haciendo girar sus sables de plasma en figuras concéntricas que zumbaban en el aire:</p>
+<p>—Mírate, Triel. Vistes monos de mecánico de segunda mano, hueles a cloaca municipal y te rodeas de ratas y chatarra ambulante. Tienes la mitad de nuestra sangre noble en las venas, pero por dentro sigues siendo la misma aberración impura que los médicos debieron arrojar a la fosa de reciclaje nada más nacer.</p>
+<p>—Puede que mi sangre no sea tan pura como la tuya, hermanita —repuso Triel con una sonrisa desafiante y tranquila que desarmó por un instante la compostura de su rival—. Pero al menos no nací en una probeta eugenésica diseñada para complacer a una madre que te mira como si fueras un mastín al que se le tira un hueso. Yo me forjé mi propia vida entre las estrellas; tú no eres más que una cortesana con espada que mendiga la aprobación de un apellido podrido.</p>
+<p>El rostro de Jhidel se desfiguró por una furia ciega. Sus ojos destellaron con un fuego homicida:</p>
+<p>—¡Te arrancaré esa lengua mestiza y te colgaré de las murallas de Apostae para que los cuervos limpien tu vergüenza! ¡Fuego a discreción, soldados! ¡A la bastarda me la dejan a mí!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Duelo de sangre y plasma</h3>
+<p>El vestíbulo estalló en un infierno de fuego cruzado.</p>
+<p>Desde las galerías superiores, los tiradores drow abrieron fuego con ráfagas concentradas de bobina magnética. Pero Marloc reaccionó con la velocidad del pensamiento: extendiendo ambos brazos hacia el techo, el tecnomante tejió una cúpula semiesférica de distorsión gravitatoria y filamentos luminosos:</p>
+<p>—¡<em>Barrera cinética de reflexión cuántica</em>!</p>
+<p>Los proyectiles enemigos impactaron contra la cúpula de energía, desviándose en ángulos erráticos que destrozaron las barandillas de mármol y las molduras de los pilares en una lluvia de metralla de piedra blanca. Al amparo del escudo, A.Xel apoyó su rifle en un saliente y comenzó a abatir a los tiradores apostados en el entresuelo con una precisión matemática implacable.</p>
+<p>Gerty avanzó rugiendo hacia el centro del salón. Sus cuatro brazos mecánicos empuñaron de nuevo el martillo de magma, que se encendió con un silbido abrasador de vapor y fuego. Con un barrido horizontal colosal, el meca estrelló el cabezal incandescente contra cuatro guardias de choque que intentaban flanquear por la izquierda, arrojándolos contra la verja blindada con los huesos pulverizados.</p>
+<p>En el centro del salón, el espacio entre las dos hermanas se disolvió en un destello de violencia pura.</p>
+<p>Jhidel saltó desde el descansillo de la escalera con una agilidad prodigiosa, cayendo sobre Triel con los dos sables descendiendo en una tijera letal de plasma violeta.</p>
+<p>Triel alzó su pesada llave de impacto con ambas manos, canalizando la batería de choque estático en el cabezal de acero templado. El choque de las hojas energéticas contra el metal produjo una explosión de chispas cegadoras y un chasquido sónico que hizo temblar el suelo. La fuerza del golpe obligó a la semi-drow a hincar una rodilla en el mármol, pero su agarre no cedió.</p>
+<p>Con un giro rápido de muñeca, Triel desvió el sable izquierdo de su hermana, rodó hacia un lado sobre las baldosas pulidas y desenfundó su pistola de rayos a quemarropa:</p>
+<p>—¡Toma esto por la familia!</p>
+<p>El rayo láser impactó de lleno en la hombrera de Jhidel, quemando las placas de polímero y arrancándole un grito de dolor y rabia. La primogénita retrocedió dos pasos, pero se recuperó al instante con una finta acrobática: su sable derecho trazó un corte ascendente que rozó la mejilla de Triel, abriéndole un tajo fino por el que brotaron gotas de sangre carmesí brillante.</p>
+<p>—¿Eso es todo lo que aprendiste con los piratas, mestiza? —siseó Jhidel, lanzando una serie de estocadas relampagueantes que obligaron a Triel a retroceder palmo a palmo hacia la base de la gran estatua de la fundadora—. ¡Eres lenta, torpe y débil!</p>
+<p>Triel paró dos estocadas con el mango de la llave y esquivó una tercera inclinando el torso hacia atrás en el último milisegundo, sintiendo el calor abrasador del plasma quemándole los mechones de pelo. Su respiración era agitada, sus músculos ardían bajo el esfuerzo, pero en sus ojos brillaba una chispa de inteligencia táctica que la noble drow era incapaz de anticipar.</p>
+<p>—Puede que no tenga tu técnica de salón de esgrima, Jhidel —jadeó Triel, mientras sus ojos medían la distancia exacta hasta el cable de alimentación principal que descendía por la base de la estatua—. Pero en las naves mercantes aprendemos una regla de oro: nunca pelees con las reglas del enemigo si puedes cambiar las leyes de la física.</p>
+<p>Triel no apuntó a su hermana. Apuntó al transformador de alta tensión que alimentaba las luces del salón, situado justo a la espalda de la primogénita.</p>
+<p>Apretó el gatillo.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 10: Todo Sobre Mi Madre</h2>
+<h3 class='subsection-title'>I. La furia desatada</h3>
+<p>El disparo de la pistola de rayos impactó con precisión quirúrgica en el núcleo del transformador secundario empotrado tras la estatua de la fundadora.</p>
+<p>Una detonación ensordecedora sacudió el vestíbulo. Miles de chispas azuladas y filamentos de plasma de alta tensión estallaron en una cascada incandescente, haciendo saltar los fusibles de las lámparas de araña. La estancia se sumió de golpe en una penumbra asfixiante, rota únicamente por el parpadeo siniestro de los focos halógenos de emergencia que teñían las columnas de mármol de un resplandor estroboscópico carmesí.</p>
+<p>La onda de choque eléctrico alcanzó a Jhidel de lleno en la espalda. Los escudos deflectores de la armadura drow chisporrotearon antes de sobrecargarse, arrojando a la primogénita un metro hacia adelante con un gemido de dolor.</p>
+<p>Triel no desperdició la fracción de segundo que el destino le concedía.</p>
+<p>Avanzando con la ferocidad de un relámpago, la semi-drow descargó su llave de impacto sobre la muñeca derecha de su hermana. El golpe desarmó el primer sable energético, que rodó por las baldosas siseando en el suelo. Al mismo tiempo, desde la cobertura de una columna destrozada, A.Xel coordinó un disparo instantáneo de su fusil: el proyectil criogénico rozó el muslo de Jhidel, congelando la junta de su rodilla en una coraza de hielo quebradizo.</p>
+<p>Jhidel intentó contratacar con la hoja izquierda, pero Triel bloqueó el filo con el vástago de acero de su herramienta, giró sobre sus talones y le propinó un codazo brutal en pleno rostro.</p>
+<p>La noble drow cayó de rodillas sobre el mármol ensangrentado. Su nariz rota manaba sangre oscura, sus cabellos se habían soltado en un revoltijo empapado en sudor y sus ojos ardían con una mezcla aterradora de humillación y odio homicida. Intentó alzar el sable restante, pero el cañón humeante de la pistola de Triel se clavó con fuerza implacable contra su frente.</p>
+<p>—Se acabó, Jhidel —dijo Triel, con la respiración entrecortada y la sangre goteándole de la mejilla—. Un solo movimiento y te vacío el cargador en el cráneo.</p>
+<p>Jhidel temblaba de furia impotente, jadeando contra el cañón del arma:</p>
+<p>—Mátame entonces, perra mestiza... Mátame, porque si salgo viva de este suelo, no habrá rincón en los Mundos del Pacto donde puedas esconderte de mi venganza.</p>
+<p>Un aplauso lento, seco y desprovisto del menor entusiasmo resonó desde las alturas del entresuelo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La llegada de la Matriarca</h3>
+<p>El sonido paralizó a tiradores y defensores por igual.</p>
+<p>En la balconada superior que dominaba el vestíbulo, recortada contra la penumbra de las arcadas, acababa de emerger la Matriarca Niriel Istrav. A su espalda, formando un semicírculo impenetrable de lanzas de energía y escudos pesados, aguardaban doce veteranos de la guardia de honor de Apostae con corazas ceremoniales de oro negro.</p>
+<p>Niriel apoyó sus manos pálidas sobre la barandilla de mármol, mirando hacia el centro de la sala. Sus ojos carmesí recorrieron el cuerpo ensangrentado de Jhidel arrodillada en el suelo y se posaron en la figura erguida de Triel con una frialdad tan absoluta que parecía capaz de apagar el fuego de las estrellas.</p>
+<p>—¡Madre! —gritó Jhidel con voz quebrada por la vergüenza—. ¡Ordene el fuego! ¡Mátela! ¡Mátelos a todos!</p>
+<p>La Matriarca no pestañeó. Su voz descendió desde el entresuelo con la serenidad cruel de una sentencia judicial dictada siglos atrás:</p>
+<p>—Me decepcionas profundamente, Jhidel. Te adiestré en las mejores academias de esgrima de Apostae, puse a tu disposición los prototipos de armamento más avanzados de la casa y te confié la seguridad de esta instalación. Y sin embargo, te encuentro de rodillas, derrotada en tu propio salón por una mecánica callejera y una cuadrilla de vagabundos.</p>
+<p>Jhidel palideció aún más, bajando la cabeza como si aquellas palabras le dolieran infinitamente más que los golpes recibidos.</p>
+<p>Niriel desvió lentamente su mirada hacia Triel.</p>
+<p>Por un instante que pareció durar una eternidad, madre e hija se contemplaron a través de la penumbra ensangrentada del vestíbulo. Triel buscó en el rostro de la Matriarca algún rastro de emoción, una sombra de reconocimiento, una chispa remota de culpa o de afecto filial. No encontró absolutamente nada. Solo había el cálculo gélido de una científica contemplando una muestra de cultivo que se resiste a ser destruida.</p>
+<p>—Has heredado la insolencia suicida de tu padre, Triel —dijo Niriel con un tono carente de odio, lo que lo hacía infinitamente más aterrador—. Keiden creyó que robarte de las incubadoras era un acto de amor; solo te condenó a una existencia miserable entre la chatarra y los desechos biológicos de las razas inferiores.</p>
+<p>—Mi padre me dio una vida, Niriel —respondió Triel, alzando la barbilla con un orgullo que hizo brillar sus ojos en la oscuridad—. Me enseñó que el honor no se compra con títulos de nobleza ni con sangre purificada en cubas de vidrio. Tú nunca fuiste una madre; solo eres una tirana podrida de soberbia que vive aterrorizada de que el cosmos descubra lo vacía que estás por dentro.</p>
+<p>Una leve contracción en los labios de Niriel fue la única señal de que las palabras habían encontrado su blanco:</p>
+<p>—Las palabras de los muertos carecen de peso en Apostae. Guardias... ejecuten el protocolo de limpieza total. Cierren las esclusas y purguen la sala. No dejen nada con vida.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Fuga a través del fuego</h3>
+<p>La orden cayó como un mazo sobre el salón. Los pretorianos drow amartillaron sus fusiles desde la balconada, pero la tripulación ya había anticipado la traición.</p>
+<p>—¡Gerty, la puerta! ¡Revienta esa maldita verja! —bramó Benrey, lanzando dos granadas de humo denso y tres bengalas de fósforo químico contra el centro de la estancia.</p>
+<p>El meca de combate no necesitó una segunda advertencia. Activando la sobrecarga máxima de sus servomotores y encendiendo el cabezal del martillo de magma al cien por cien de su potencia térmica, Gerty cargó como una locomotora blindada contra la verja de titanio que bloqueaba la salida al muelle exterior.</p>
+<p>El impacto fue cataclísmico.</p>
+<p>El cabezal incandescente pulverizó las cerraduras magnéticas y dobló los barrotes de aleación como si fueran juncos secos, abriendo una brecha humeante de tres metros en el muro exterior. El aire gélido y húmedo de los cañones de Thanox irrumpió en el vestíbulo, arrastrando consigo la niebla ácida de la ciudadela.</p>
+<p>Al mismo tiempo, la cortina de humo químico desplegada por Benrey saturó la estancia en una niebla blanca y densa que cegó los sensores térmicos de la guardia drow. Ráfagas ciegas de bobina magnética perforaron el humo, rebotando inútilmente contra el mármol y las estatuas mientras los compañeros cubrían la retirada.</p>
+<p>Triel bajó su arma, propinó una patada certera al pecho de Jhidel que la envió rodando por las losas para evitar que se incorporara, y echó a correr hacia la brecha abierta por Gerty.</p>
+<p>—¡Muévanse! —gritó Marloc, arrojando una última descarga de relámpagos arcanos hacia las escalinatas superiores para cortar el paso de los pretorianos—. ¡El cierre hermético caerá en diez segundos!</p>
+<p>La tripulación saltó a través del agujero humeante, cayendo sobre la plataforma de servicio exterior bajo la lluvia negra y radiactiva que caía sobre Thanox. A sus espaldas, la pesada compuerta de emergencia descendió con un estruendo telúrico, sellando el vestíbulo noble en una tumba de humo y alarmas aullantes.</p>
+<p>Corrieron a través de las pasarelas metálicas suspendidas sobre el abismo de coral poroso, con los pulmones ardiendo y el corazón desbocado, perdiéndose en el laberinto vertical de las cuarterías obreras mientras los focos de búsqueda de las patrullas drow comenzaban a barrer los riscos en un frenético intento por cazar a los fantasmas que acababan de arrancarles el corazón de sus secretos.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 11: Siempre nos quedará Thanox</h2>
+<h3 class='subsection-title'>I. Cacería en la roca porosa</h3>
+<p>Los cañones verticales de Thanox se habían transformado en un avispero de luces y sirenas.</p>
+<p>Haces de luz halógena de cien mil lúmenes cortaban la llovizna ácida desde las proas de tres patrulleras ligeras drow que sobrevolaban las simas de la ciudadela. En los altavoces municipales, una voz sintética repetía sin descanso la orden de toque de queda y cierre perimetral:</p>
+<blockquote class='quote'><strong>ATENCIÓN CIUDADANOS DE THANOX: ALERTA TÁCTICA GRADO CINCO</strong></blockquote>
+<blockquote class='quote'><em>Sujetos armados de alta peligrosidad en fuga por el sector tres.</em></blockquote>
+<blockquote class='quote'><em>Recompensa de cincuenta mil créditos por información que conduzca a su captura.</em></blockquote>
+<blockquote class='quote'><em>Cualquier colaboración con los fugitivos será castigada con la ejecución sumaria.</em></blockquote>
+<p>Corriendo por las pasarelas metálicas suspendidas sobre el vacío, la tripulación esquivaba los proyectiles de bobina magnética que arrancaban esquirlas de roca porosa a su paso. Triel apretaba los dientes, sujetándose el costado vendado con la mano izquierda mientras su pistola de rayos humeaba en la derecha.</p>
+<p>—¡Por aquí! —indicó Benrey, señalando una escotilla de servicio encajada entre dos tuberías de refrigerante—. Este tubo desciende directamente a las galerías del estrato basal. Si nos metemos en el barrio de las cuarterías, las patrullas aéreas no podrán fijar blancos por la interferencia de las mallas de Faraday.</p>
+<p>Se deslizaron por la rampa de drenaje, cayendo en un callejón estrecho flanqueado por barracones obreros. Apenas cruzaron el recodo, la puerta de la guardería de Cóex y Nómina se abrió de golpe.</p>
+<p>Valeria aguardaba en el umbral, con el pequeño Grok en brazos y los ojos desencajados por el pánico. Al ver aparecer a la tripulación cubierta de hollín, quemaduras de plasma y sangre, la medio orco ahogó un grito de alivio:</p>
+<p>—¡Por todos los dioses de la roca! Pensé que las sirenas anunciaban sus cadáveres en la plaza. ¡Entren, rápido!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La deuda saldada</h3>
+<p>La escotilla de la guardería se cerró tras ellos con un chasquido hermético que amortiguó el estruendo de los motores aéreos que patrullaban las alturas.</p>
+<p>En el interior del refugio, Cóex había atrancado los accesos secundarios con vigas de acero soldadas, mientras Nómina repartía gasas esterilizadas y ungüento analgésico para curar las laceraciones de Triel y Benrey. El pequeño Grok miró la coraza abollada de Gerty y extendió su manita verde para tocar el metal con asombro infantil.</p>
+<p>—<em>Integridad estructural al ochenta y siete por ciento</em> —anunció el meca, bajando suavemente su brazo para que el niño pudiera apoyarse—. <em>No se registran fisuras en el núcleo principal. El bicho de carbono pequeño continúa manifestando fascinación técnica inexplicable.</em></p>
+<p>Triel se dejó caer en una silla plástica, respirando con alivio mientras Nómina vendaba la herida de su mejilla. Con manos aún temblorosas por la adrenalina del combate, la mecánica extrajo de su zurrón el bloc de datos que había descargado en la cámara acorazada de la Casa Istrav y se lo extendió a Valeria.</p>
+<p>La medio orco tomó el dispositivo con recelo. Al encender la pantalla, el resplandor esmeralda iluminó su rostro cansado, desplegando el documento oficial sellado con la firma holográfica de la Matriarca:</p>
+<blockquote class='quote'><strong>CERTIFICADO DE EMANCIPACIÓN DEFINITIVA Y REPATRIACIÓN</strong></blockquote>
+<blockquote class='quote'><em>A la atención del Mando Militar de los Mundos del Pacto:</em></blockquote>
+<blockquote class='quote'><em>Por medio del presente edicto, la Casa Istrav declara cumplido a satisfacción el servicio del infante de línea Kroll.</em></blockquote>
+<blockquote class='quote'><em>Todas las deudas, fianzas o responsabilidades contraídas quedan anuladas de pleno derecho.</em></blockquote>
+<blockquote class='quote'><em>Se ordena su licenciamiento con honores y pasaje inmediato de regreso a Thanox.</em></blockquote>
+<p>Valeria leyó las líneas una y otra vez, incapaz de asimilar lo que sus ojos contemplaban. Una lágrima pesada y solitaria surcó su mejilla verdosa, cayendo sobre el cristal del bloc de datos antes de romperse en un sollozo ahogado que sacudió todo su cuerpo. Se llevó la mano al pecho, cayendo de rodillas frente a Triel:</p>
+<p>—Kroll... vuelve a casa. Mi marido es libre...</p>
+<p>Triel se agachó de inmediato para levantarla por los hombros, sonriendo con ternura a pesar del dolor de sus heridas:</p>
+<p>—Te dije que los mecánicos cumplimos nuestras promesas, Valeria. Nadie volverá a amenazar a tu familia con enviarte a las minas.</p>
+<p>Cóex dio un paso al frente, apoyando una mano sobre la mesa:</p>
+<p>—No pueden quedarse aquí mucho tiempo. Los drones de reconocimiento de la Casa Istrav están cerrando el cerco cuadrante por cuadrante. Pero antes de renunciar a mi puesto en el muelle, instalé una derivación manual en el montacargas de mercancías número siete. Ese elevador baja directo a la plataforma de carga auxiliar donde dejaron su nave, esquivando todos los puestos de aduanas de la superficie.</p>
+<p>—Nosotros vigilaremos las espaldas de Valeria y Grok —añadió Nómina con dulzura, acariciando la cabeza del niño—. Vayan a sus estrellas, amigos míos. Y que la luz los acompañe en la oscuridad del vacío.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Despegue en la noche eterna</h3>
+<p>El montacargas industrial descendió con un traqueteo sordo a lo largo de una grieta profunda de la roca porosa, depositando a la tripulación en la plataforma de amarre donde reposaba la <em>Estrella Errante</em>.</p>
+<p>Apenas pusieron un pie sobre el asfalto del hangar, dos lanchas de intercepción drow surgieron del banco de niebla ácida. Los reflectores frontales clavaron sus haces de luz sobre la rampa del carguero, mientras los cañones de proa comenzaban a girar hacia la nave.</p>
+<p>—¡A bordo, todo el mundo! —rugió Marloc, desenfundando su fusil para abrir fuego de contención contra los sensores de la lancha líder.</p>
+<p>A.Xel y Gerty cubrieron la rampa con un muro de fuego coordinado. El rifle criogénico de la androide perforó la cabina de pilotaje de la primera patrullera, congelando sus mandos de altitud y haciéndola estrellarse contra una pila de contenedores de carga en una llamarada de chispas violetas. Al mismo tiempo, Gerty descargó una ráfaga de su ametralladora pesada que obligó a la segunda nave a buscar abrigo tras las grúas del muelle.</p>
+<p>Triel subió los escalones de la rampa de dos en dos, irrumpiendo en el puente de mando con el cuerpo cubierto de hollín. Arrojándose sobre el asiento del piloto, sus dedos encendieron los interruptores de los reactores de fusión con una velocidad vertiginosa:</p>
+<p>—Iniciando secuencia de encendido de emergencia. ¡Cerrando rampa de popa! ¡Marloc, polariza los escudos deflectores al cien por cien!</p>
+<p>—Escudos acoplados y listos —confirmó el tecnomante, ocupando la consola técnica mientras Benrey y A.Xel se aseguraban en sus asientos de copiloto y artillería.</p>
+<p>Las dos toberas sublumínicas de la <em>Estrella Errante</em> rugieron con un estallido deslumbrante de fuego azulado. El calor del escape sobrecalentó el hormigón de la plataforma, levantando una nube de vapor que cegó a los tiradores drow restantes.</p>
+<p>La nave se elevó verticalmente, vibrando bajo la aceleración salvaje de sus propulsores recién mejorados. Atravesó el desfiladero de Thanox como una flecha de acero incandescente, esquivando los disparos de torreta que ascendían desde las almenas de la ciudadela, antes de perforar el denso techo de nubes radiactivas que cubría el cielo de Eox.</p>
+<p>Quince segundos después, la negrura estrellada del espacio exterior envolvió el casco del carguero.</p>
+<p>A través del ventanal panorámico de proa, la curvatura oscura y macabra de Eox comenzó a menguar con lentitud, convirtiéndose en una esfera cenicienta recortada contra el resplandor distante del sol del sistema.</p>
+<p>Benrey se dejó caer contra el respaldo de su asiento, soltando un largo y tembloroso suspiro de alivio mientras miraba el mapa estelar:</p>
+<p>—Adiós, Eox. Adiós, zombis con ínfulas de productor, alcantarillas con babas ácidas y parientes drow con ganas de descuartizarnos. Si alguna vez propongo volver a este vertedero de huesos, por favor, péguenme un tiro en una pierna.</p>
+<p>Triel sonrió suavemente, acariciando la palanca de mandos de su querida nave:</p>
+<p>—Descuida, Benrey. Hacia donde vamos... no hay carreteras ni nobles estirados. Solo nos espera la inmensidad de las estrellas.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 12: El verdadero valor de A.Xel</h2>
+<h3 class='subsection-title'>I. Silencio en la cabina</h3>
+<p>El silencio que reinaba en el interior de la <em>Estrella Errante</em> era de una cualidad casi sagrada.</p>
+<p>Atrás quedaba el orbe ceniciento y radiactivo de Eox, menguando hasta convertirse en una cabeza de alfiler pálida perdida entre la negrura del vacío. En el puente de mando y en los talleres de popa, el zumbido monocorde del reactor de fusión y el tenue silbido de los filtros de aire eran los únicos sonidos que acompañaban las reflexiones de la tripulación.</p>
+<p>En el taller de mecánica, Triel permanecía sentada sobre un cajón de herramientas con las piernas cruzadas. Con un paño limpio y un frasco de aceite lubricante sintético, la joven pulía con paciencia infinita las muescas y arañazos que los sables de plasma de Jhidel habían dejado en el blindaje de Gerty. El meca se encontraba en reposo operativo, con sus cuatro brazos replegados sobre el torso y sus sensores ópticos atenuados a un diez por ciento de luminosidad, emitiendo un ronroneo grave y rítmico que transmitía una extraña sensación de serenidad.</p>
+<p>Triel contemplaba el bloc de datos que descansaba sobre su mesa de trabajo. En la pantalla holográfica flotaban las cartas de vuelo y los diagramas de navegación dejados por su padre, Keiden Ashton. Durante años había cargado con la sombra del abandono, creyendo que su linaje humano era una herida vergonzosa que justificaba el desprecio de su madre. Ahora sabía la verdad: Keiden la había amado tanto que había desafiado el poder de una casa noble de Apostae para arrancarla de la muerte, y allá afuera, en algún punto no cartografiado de la Vastedad, su rastro seguía esperando a ser descubierto.</p>
+<p>En la sala de recreo, Marloc contemplaba la barra vacía del barman autómata. El tecnomante sostenía entre sus dedos de carne el pequeño pin de la flecha dorada, haciéndolo girar sobre la madera pulida. Sabía que el futuro que su otro yo había intentado evitar pendía sobre sus cabezas como una espada suspendida por un cabello; pero al ver la complicidad indestructible que unía a sus compañeros tras sobrevivir al infierno de Thanox, comprendió el mensaje de la carta: no había ecuaciones que pudieran predecir el destino cuando el corazón de una tripulación latía al unísono.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El análisis del chasis</h3>
+<p>La puerta corredera del taller se deslizó hacia un lado y A.Xel cruzó el umbral.</p>
+<p>La androide vestía su mono táctico oscuro, con las placas de ablación limpias de hollín y el cabello peinado en su corte ladeado habitual. Sin embargo, en sus pupilas fotocromáticas titilaba una leve vacilación infrecuente en una unidad de precisión analítica:</p>
+<p>—Triel. El diagnóstico rutinario de los sistemas de puntería ha detectado una fluctuación de impedancia en los servomotores de mi hombro izquierdo tras el impacto del sable de Jhidel. Requiero una recalibración de circuitos antes del salto a la Deriva.</p>
+<p>Triel sonrió con calidez, dejando el trapo de aceite a un lado:</p>
+<p>—Siéntate en el banco de pruebas, A.Xel. Veamos qué le hicieron esos fanáticos de Apostae a tu blindaje.</p>
+<p>Marloc, atraído por la conversación, entró en el taller con su terminal portátil bajo el brazo. Mientras Triel conectaba el escáner de resonancia magnética a los puertos cervicales de A.Xel, el tecnomante enlazó los sensores con los bancos de datos que habían sustraído de los servidores de la Casa Istrav en Thanox.</p>
+<p>La pantalla del proyector holográfico se iluminó con una representación volumétrica completa de la anatomía sintética de A.Xel.</p>
+<p>Al principio, el escáner mostró los componentes convencionales de un chasis androide de Grado Cuatro: la estructura ósea de aleación de titanio, los paquetes musculares de polímeros electroactivos y la red vascular de fluidos refrigerantes. Pero a medida que el escáner descendía hacia las capas profundas del endoesqueleto y penetraba en la caja blindada que protegía su núcleo neural, los gráficos comenzaron a teñirse de un fulgor dorado deslumbrante.</p>
+<p>Triel se quedó petrificada frente a la pantalla, parpadeando con incredulidad:</p>
+<p>—Marloc... mira estos valores de conductividad térmica y densidad atómica. Esto no es titanio convencional ni aleación de acero estelar.</p>
+<p>Marloc se inclinó sobre la consola, con los ojos abiertos de par en par mientras sus dedos tecleaban frenéticamente secuencias de comprobación molecular:</p>
+<p>—No puede ser... La estructura molecular de sus placas internas incorpora aleaciones biometálicas de nanored autorreplicante. No fueron forjadas en ninguna fundición comercial de Absalón ni en los astilleros de Verces.</p>
+<p>—¿Qué significa eso? —preguntó A.Xel, girando levemente la cabeza para observar su propio holograma interno—. ¿Se trata de un defecto de fabricación residual de mi despertar en las minas?</p>
+<p>—Todo lo contrario, A.Xel —respondió Marloc con una reverencia casi mística en la voz, cruzando los datos del escáner con las enciclopedias arcanas de su memoria—. El diseño de tu matriz neural y la aleación de tu blindaje primario corresponden a tecnología de origen pre-Brecha. Es el sello de manufactura de la legendaria matriarca androide Ashera... los artífices que diseñaron los primeros chasis conscientes en los albores de la civilización.</p>
+<p>Triel contempló a su compañera con una admiración sobrecogedora:</p>
+<p>—Tu cuerpo no es un chasis de serie, A.Xel. Es una obra maestra única en el cosmos. Una reliquia viviente de una era perdida cuya tecnología nadie ha sido capaz de replicar en los últimos mil años. Si los coleccionistas de reliquias de Apostae o los consorcios corporativos de Absalón supieran lo que albergas bajo esa piel sintética, ofrecerían flotas estelares enteras por desmontar tus circuitos pieza por pieza.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Hacia las nubes de Nejeor</h3>
+<p>El silencio cayó de nuevo sobre el taller, denso y profundo.</p>
+<p>A.Xel contempló sus propias manos enguantadas. Durante años, desde el día en que despertó a la conciencia encadenada en las galerías de una mina clandestina, había vivido atormentada por el miedo a ser reducida a una simple herramienta desechable, un número de serie grabado en metal frío que cualquier amo podía comprar, explotar o reprogramar a su antojo.</p>
+<p>Alzó la mirada hacia Triel y Marloc. En los ojos de sus compañeros no había codicia, ni la codicia fría de los coleccionistas de Eox, ni el cálculo eugenésico de las matriarcas de Apostae. Solo había el afecto sincero, el respeto incondicional y la lealtad indómita de quienes habían sangrado juntos en una docena de batallas.</p>
+<p>—Mi chasis puede haber sido forjado en una era olvidada —dijo A.Xel, y por primera vez una sonrisa sutil y luminosa curvó sus labios sintéticos mientras las líneas de su cuello brillaban en un amatista puro y radiante—. Pero mi conciencia, mi voluntad y mi alma no le pertenecen a ninguna dinastía del pasado ni a ningún señor corporativo. Me pertenecen a mí. Y elijo ponerlas al servicio de esta tripulación.</p>
+<p>Triel le apretó la mano con una fuerza cálida que transmitió más que mil discursos:</p>
+<p>—Y nosotros quemaremos el cosmos antes de permitir que nadie vuelva a ponerte una cadena encima, A.Xel. Eres una de las nuestras.</p>
+<p>Gerty emitió un pitido grave de confirmación acústica desde su rincón:</p>
+<p>—<em>Declaración táctica corroborada. Cualquier intento de expropiación del personal androide será respondido con fuego concentrado de artillería pesada.</em></p>
+<p>Benrey asomó la cabeza por la escotilla del taller, con su taza de café en una mano y una sonrisa radiante que iluminaba sus bigotes:</p>
+<p>—Siento interrumpir el momento emotivo, familia, pero el procesador de navegación acaba de terminar los cálculos de salto. El vector hacia la Vastedad está despejado y el motor de la Deriva ruge como un dragón con ganas de desayunar.</p>
+<p>La tripulación subió al puente de mando y ocupó sus estaciones de combate.</p>
+<p>A través de la gran cristalera de proa, la inmensidad del espacio profundo se abría ante ellos como un manto de terciopelo salpicado por millones de diamantes incandescentes. En el centro del panel táctico parpadeaban las coordenadas extraídas del comunicador de Marcellus y de las bitácoras de Keiden Ashton: el sistema estelar <strong>Nejeor</strong>, dominado por la silueta colosal y tempestuosa del gigante gaseoso <strong>Nejeor VI</strong>.</p>
+<p>Allí aguardaban las respuestas definitivas sobre la Flota de Cadáveres, el Culto del Devorador y los secretos de la misteriosa Puerta de los Doce Soles.</p>
+<p>Triel colocó su mano enguantada sobre la palanca de aceleración principal, mirando de reojo a Marloc, quien asintió con una serenidad inquebrantable.</p>
+<p>—Todos los sistemas en régimen operativo óptimo —anunció A.Xel desde la estación táctica—. Trayectoria fijada hacia Nejeor VI.</p>
+<p>—Iniciando secuencia de salto a la Deriva —dijo Triel con voz clara y firme que resonó por todos los altavoces de la nave—. ¡En tres... dos... uno!</p>
+<p>La <em>Estrella Errante</em> encendió sus motores hiperespaciales con un trueno silencioso que rasgó el tejido del espacio convencional. Un portal de luz violeta y dorada se abrió ante la proa del carguero, devorando la silueta de la nave en un destello cegador antes de cerrarse sobre el vacío.</p>
+<p>El navío desapareció en el abismo dimensional, dejando atrás las sombras de Apostae y los muertos de Eox, navegando con rumbo firme hacia la mayor tormenta del cosmos.</p>
+</div>
+
+<div class="glossary-container">
+  <h2 class="chapter-name">Anexo Especial: Dossier de Personajes y Glosario</h2>
+<h3 class='section-title'>Volumen X · Lazos de Sangre: La Sombra de Apostae (Episodios 111 a 122)</h3>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>1. El Escenario Principal</h3>
+<ul class='bullet-list'>
+<li><strong>La Necrogarganta y la Fosa de Ácido (Eox):</strong> Escenario del duelo final a muerte contra Marcellus y el nido de drones de la Flota de Cadáveres.</li>
+<li><strong>Orphys y la Sede de Inversiones Estelares S.C. (Eox):</strong> La metrópoli necrótica donde la tripulación comparece en las oficinas subterráneas de la corporación para descubrir la verdad sobre el fundador Samboor Clamor.</li>
+<li><strong>Thanox (Eox):</strong> Urbe industrial y cavernosa construida sobre formaciones de roca porosa semejante a coral fosilizado. Ciudad-estado libre regida por «El Sin Alma», señor de los huesos independiente, donde proliferan fábricas, zonas francas y enclaves biogenéticos clandestinos.</li>
+<li><strong>El Complejo Genético y Administrativo de la Casa Istrav en Thanox:</strong> Instalación subterránea fortificada donde la aristocracia drow realiza experimentos eugenésicos, archivos de linajes y gestión de contratos de servidumbre. Se divide en tres sectores: Laboratorios Genéticos, Área Residencial / Museo de la Fundadora, y Núcleo de Archivos / Informática.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>2. Los Protagonistas y su Evolución Emocional</h3>
+<ul class='bullet-list'>
+<li><strong>Benrey Galway:</strong> Emisario Ysoki <em>(Jugador: Miguel)</em>. Tras la muerte de Marcellus, sufre el impacto inmediato del «gatillo del muerto»: la cancelación fulminante de su canal de transmisiones y el veto de todas sus cuentas en la red del Pacto. Despojado de su fama pública, revaloriza la lealtad familiar hacia su primo Rim Rey y sus compañeros. Se disfraza de personal de limpieza e intendencia en el complejo Istrav, sufriendo una desastrosa caída en los conductos de ventilación.</li>
+<li><strong>Triel Istrav:</strong> Mecánica Semi-drow <em>(Jugadora: Irene)</em>. Eje dramático del volumen. Armada con su llave de impacto, ingenio técnico y una entereza inquebrantable, decide infiltrarse en las instalaciones de su propia familia para desentrañar el misterio de la huida de su padre humano, Keiden Ashton. Descubre el desprecio absoluto de su madre Niriel hacia su condición mestiza y se bate en un feroz duelo fratricida contra su hermanastra Jhidel Istrav.</li>
+<li><strong>Gerty:</strong> Meca de Asalto Pesado <em>(Voz: Roberto)</em>. Reconstruido y artillado por Triel con su martillo de magma forjado en Orphys. Durante la infiltración es camuflado como una unidad utilitaria de prensado y desinfección industrial. En la guardería de Thanox revela una inesperada afinidad cómica cuidando a los infantes trabajadores. En combate, defiende a Triel contra las espadas de sombra de la nobleza drow.</li>
+<li><strong>Marloc Boosmar:</strong> Tecnomante Humano <em>(Jugador: Juan Pablo)</em>. Tras descifrar el anagrama maestro (<strong>CLAMOR SAMBOR = MARLOC BOSMAR</strong>), asume el peso sobrehumano de saber que él mismo fundó Inversiones Estelares desde una línea temporal futura para evitar la extinción cósmica. La revelación corporativa y la carta sellada de su yo futuro le imponen un dilema existencial: aceptar el presente sin forzar respuestas para no repetir la catástrofe.</li>
+<li><strong>A.Xel 42:</strong> Operativa Androide <em>(Jugadora: Sofía)</em>. Francotiradora analítica y letal. Ejecuta el disparo crítico que destruye la forma física de Marcellus en la Necrogarganta. Durante la infiltración se desempeña como asistente técnica y centinela. Al acceder a los escáneres del complejo en el desenlace, se descubren trazas de que su chasis incorpora aleaciones sintéticas invaluables de origen pre-Brecha pertenecientes al linaje de la legendaria Ashera.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>3. Personajes Secundarios y Facciones</h3>
+<ul class='bullet-list'>
+<li><strong>Marcellus:</strong> Vampiro jiangshi y antiguo benefactor en las sombras de Absalón y la Flota de Cadáveres. Destruido en combate sobre la fosa de ácido de la Necrogarganta; sus cenizas son neutralizadas mediante el ritual consagrado de arroz y vinagre.</li>
+<li><strong>Rawsh:</strong> Francotirador vesk veterano en Eox. Aliado de la tripulación que interviene desde lo alto de los riscos óseos para derribar los drones de Marcellus y prestar apoyo logístico.</li>
+<li><strong>Chiskisk:</strong> Shirren ejecutiva y representante leal de Inversiones Estelares S.C. Acude a la sede de Eox con la máxima ilusión de conocer al legendario fundador de la empresa, siendo recibida por el autómata programado por la tripulación.</li>
+<li><strong>La Agente de la Corporación:</strong> Ejecutiva humana de rostro severo y discreción absoluta, encargada desde hace veinticinco años de custodiar el protocolo de Marloc y entregar el mensaje sellado del fundador.</li>
+<li><strong>Valeria:</strong> Mucama medio orco en el complejo de la Casa Istrav en Thanox. Madre trabajadora cuyo esposo se encuentra forzado a combatir en guerras mercenarias fuera del Pacto bajo un contrato abusivo. Se alía con la tripulación para facilitarles uniformes y rutas de acceso a cambio de la libertad de su familia.</li>
+<li><strong>Coex y Nomina:</strong> Pareja de androides libres que dirigen una modesta guardería para los hijos de los obreros de Thanox. Ofrecen refugio y apoyo técnico a la tripulación.</li>
+<li><strong>Jhidel Istrav:</strong> Aristócrata y duelista drow pura, hermanastra de Triel y favorita de la Casa Istrav. Despiadada, altiva y maestra de las hojas de sombra; considera a Triel una aberración genética que mancha el honor familiar y busca ejecutarla personalmente.</li>
+<li><strong>Matriarca Niriel Istrav:</strong> Madre biológica de Triel y matriarca de alto rango en la Casa Istrav. Mujer fría como el hielo del vacío, obsesionada con la pureza genética y las intrigas políticas de Apostae, para quien los afectos filiales son meros cálculos de poder.</li>
+<li><strong>La Casa Istrav:</strong> Nobleza matriarcal drow con sede en el planetoide subterráneo de Apostae. Conspiradoras, eugenistas y aliadas clandestinas de consorcios armamentísticos en los Mundos del Pacto.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>4. Cronología y Continuidad Obligatoria</h3>
+<p>1. <strong>El cierre del frente de Eox:</strong> La destrucción definitiva de Marcellus en el Episodio 111 y la reunión corporativa en el Episodio 112 concluyen la etapa de patrocinio y persecución en Eox.</p>
+<p>2. <strong>La escala clandestina en Thanox:</strong> La expedición a los laboratorios de la Casa Istrav es una misión personal y urgente antes de emprender el viaje al gigante Nejeor VI.</p>
+<p>3. <strong>Respeto a la Barrera de Spoilers:</strong> Prohibido adelantar el asteroide-casino Kairos (reservado para el Volumen 11), la cultura de los Kish en Nejeor (Libro 4 de Paizo), o el destino de Keiden Ashton en el Maelstrom.</p>
+</div>
+
+</body>
+</html>

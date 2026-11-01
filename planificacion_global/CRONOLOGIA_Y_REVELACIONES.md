@@ -128,7 +128,7 @@ Para cada volumen novelado se definen tres esferas de información:
 * 🚫 **ZONA PROHIBIDA para el Volumen 7:**
   * **TERMINANTEMENTE PROHIBIDO:** Desvelar la ubicación de la Puerta de los Doce Soles o la tecnología de los Constructores de la Puerta (Kish).
   * **PROHIBIDO:** Desvelar la conspiración de Waneda Trux, los Salones de los Vivos, el Café Calavera o el reality show de Zo! antes de arribar a Eox en el Volumen 8.
-  * **PROHIBIDO:** Anticipar el desahucio público de Benrey por parte de su padre Marcellus Galway o el desafío de Gallito Peligro.
+  * **PROHIBIDO:** Anticipar la traición pública y el abandono de Benrey por parte de Marcellus o el desafío de Gallito Peligro.
 
 ---
 
@@ -146,12 +146,64 @@ Para cada volumen novelado se definen tres esferas de información:
   * **El Rastro de Harpingdex y el Marrowblight:** Hallazgo de la espina ósea del *Marrowblight* en la fábrica; la boutique de Jacqueline la Hacedora de Huesos; el rescate de la veterana elebria Greatel Rampinder en el apartamento 5236 frente a matones ghouls; el diario en piel (*vellum*) de Harpingdex; la caja fuerte con clave `0212`; y el frasco de bálsamo facial "CC" que apunta a los Salones de los Vivos.
   * **Emboscada Nihili en la Calle Clavícula:** Combate a muerte contra los Nihili (no-muertos nacidos de la descompresión cósmica); la mirada descompresiva que hiere críticamente a Marloc; el heroico sacrificio de Benrey como señuelo; y el uso del *Inferno Knife* de A.Xel y la espada electrificada de Gerty.
   * **El Café Calavera y la Alta Sociedad:** Salón de observación de vivos; el barman Loblob Amador; la pareja de vampiros nobles Mircala y Dio y su reverencia al linaje biotecnológico de Listara Istrav; la conversación existencial de A.Xel con el monje lacunar Coin; y el contacto con el hacker dragonkin áptero Brody Malone.
-  * **La Ruptura Familiar de Benrey:** El chantaje mediático y show de Gallito Peligro; Benrey saltando sobre la barra y prendiendo fuego al licor para aceptar el reto ante las cámaras; el mensaje gélido de Marcellus Galway desahuciando a Benrey de la dinastía familiar para que muera en televisión.
+  * **La Ruptura con Marcellus:** El chantaje mediático y show de Gallito Peligro; Benrey saltando sobre la barra y prendiendo fuego al licor para aceptar el reto ante las cámaras; el mensaje gélido de Marcellus abandonando a Benrey y retirándole el patrocinio para que muera en televisión.
   * **La Gran Cacería de Zo! (Sector 27):** El contrabando del *Custom Rig* en la pierna cibernética de A.Xel; descenso al plató subterráneo que recrea Akiton destruida; la granada Mk 3 de Benrey provocando una reacción en cadena destructiva de ciber-zombis; las repeticiones en diferido de Zo! («Triple Kill», gráficos de «43 kg»); la presentación de «La Bestia» (Golem de Neutrones de la Casa Brevak de Apostae, invisible e inmune a láser/electricidad por carecer de electrones libres, pero vulnerable a oscuridad pura o al hechizo *Recharge*); las trampas de repulsores gravitatorios en el callejón y la barricada de torretas automáticas; el apagón de la arena; y la emboscada aérea de la nave furtiva negra que arroja un coloso biomecánico sobre el tejado.
 * 🚫 **ZONA PROHIBIDA para el Volumen 8:**
   * **TERMINANTEMENTE PROHIBIDO:** Revelar la resolución del concurso de Zo! o el acceso a la Necrogarganta y a la fortaleza de Xerantha Zatus antes del Volumen 9.
   * **PROHIBIDO:** Anticipar las coordenadas de la Puerta de los Doce Soles en el espacio profundo o la cultura de los Kish en Celedor.
   * **PROHIBIDO:** Desvelar el paradero exacto de la base de Keno-X y los planos de la Devoradora de Soles antes de las sesiones del Volumen 9.
+  * **PROHIBIDO:** Revelar el gran anagrama de Clamor Sambor o la identidad del fundador de Inversiones Estelares antes del Episodio 106.
+
+---
+
+### Volumen 9: *Mundos Fragmentados III: La Necrogarganta de Eox* (Episodios 99 al 110)
+* **Arco:** Resolución de la Gran Cacería de Zo! en el Sector 27; pacto y redención de Gallito Peligro; combate motorizado en la autopista radiactiva hacia el matadero frigorífico; la traición de Yev y el salto al pulsador de victoria; confesión de Brody Malone; revelación del gran anagrama maestro **CLAMOR SAMBOR = MARLOC BOSMAR**; colapso neuropsíquico de Marloc y visión mística de Ambrose y Chiskisk; rituales de arroz y vinagre con la comisionada Waneda Trux; forja del Martillo de Magma para Gerty; descenso a la Necrogarganta tras cruzar la Línea de la Vida; muerte del titán Ellicoth («Ellicujo») y caída de Xerantha Zatus; bombardeo orbital del *Tenebris*; emboscada de Marcellus (Jiangshi) junto al estanque de ácido; recepción de la legendaria «Carta de Despido» de Inversiones Estelares S.C. y salto a la Deriva hacia Nejeor VI.
+* **Conocimiento Inicial de la Tripulación:**
+  * En plena arena del Sector 27 de Zo!, resistiendo el asalto masivo de ciber-zombis y la Bestia de Brevak (Gólem de Neutrones).
+  * Benrey ha aceptado públicamente el reto de Gallito Peligro, pero mantiene el firme propósito moral de no matarlo y honrar la palabra dada al corsario Radavox en Ceres X.
+  * Saben que la investigadora renegada Xerantha Zatus opera en los yermos prohibidos de la Necrogarganta al servicio de la Flota de Cadáveres.
+  * Creen que Marcellus sigue en Absalón o en la Diáspora e ignoran que comanda la célula de Eox y organizó su asesinato televisado.
+* **Revelaciones Permitidas en este Volumen:**
+  * **Pacto y Redención de Gallito Peligro (Ep. 99-104):** Benrey perdona a Gallito; destrucción del archivo de extorsión de Zo! que mantenía amenazada a su familia de violinistas en Akiton; Gallito se retira en paz y regala a A.Xel su rifle criogénico táctico.
+  * **El Matadero Frigorífico y la Victoria de Zo! (Ep. 104-105):** Laberinto de miles de cerdos cibernéticos congelados; traición del estrímer Yev sobornado por Marcellus; alegato moral de Benrey y salto coordinado con A.Xel para aplastar el pulsador rojo de victoria ante millones de espectadores no-muertos.
+  * **Confesión de Brody Malone (Ep. 106):** El hacker Dragonkin Borai confiesa que Marcellus opera en Eox y coordinó toda la trampa mediática para conducirlos a la muerte.
+  * **El Gran Anagrama Maestro de Clamor Sambor (Ep. 106):**
+    Triel procesa los registros de contratación y las transferencias de Inversiones Estelares S.C., reordenando matemáticamente el nombre del magnate ausente:
+    $$\text{CLAMOR SAMBOR} \longleftrightarrow \text{MARLOC BOSMAR}$$
+    Descubren que la megacorporación fue fundada por un Marloc Bosmar de una línea temporal futura para brindarles una segunda oportunidad y evitar la destrucción del cosmos ante los Doce Soles.
+  * **Fractura Neuropsíquica de Marloc (Ep. 106-107):** Marloc sufre hemorragia nasal y visiones psíquicas de los Doce Soles devorando Absalón, acompañadas de la visión mística de Chiskisk vestida de luto por su padre Ambrose Boosmar; Triel sella un pacto de silencio fraternal para protegerlo.
+  * **Asesoramiento de Waneda Trux y Armamento Especial (Ep. 107):** Waneda revela la naturaleza Jiangshi de Marcellus y sus debilidades sagradas (arroz consagrado y vinagre); forja del Martillo de Magma (*Magma Sledgehammer*) para Gerty y blindaje D-Suit II para Benrey.
+  * **Infiltración en la Necrogarganta (Ep. 108-109):** Cruce del cordón militar de la Línea de la Vida; descenso a la fisura ciclópea; hallazgo del pabellón fúnebre de Xerantha Zatus; e irrupción del colosal Ellicoth prehistórico («Ellicujo») de cincuenta pies y treinta toneladas.
+  * **Caída de Xerantha y Muerte de Ellicujo (Ep. 109):** Impacto criogénico crítico que elimina fulgurantemente a Xerantha; Gerty destroza las articulaciones del titán con el Martillo de Magma; y disparo balístico prodigioso de A.Xel a través de la cuenca ocular del monstruo.
+  * **Emboscada en el Pozo de Ácido y Caída de Marcellus (Ep. 110):** Huida por el cañón de fósiles bajo el bombardeo orbital del *Tenebris*; emboscada de Marcellus (jiangshi ejecutivo con bufanda holográfica y rifle francotirador) y sus Bone Troopers (incluida Jardin del *Acreon*); réplicas cómicas de Benrey (*Fast Talk*) distrayendo a Marcellus sobre la mala iluminación; polimorfia forzada de Marloc; reflejos acrobáticos milagrosos de Triel colgada de los dedos sobre el ácido a 40 pies; disparo certero de A.Xel y neutralización del vampiro con arroz y vinagre.
+  * **Coordenadas a Nejeor VI y la «Carta de Despido» (Ep. 110):** Datapad con las coordenadas hacia el gigante gaseoso Nejeor VI (planeta Kairos / Istamak / Puerta del Sistema); y decodificación del mensaje holográfico oficial de Inversiones Estelares S.C. firmado por *«C.S. (M.B.)»*, rescindiendo formalmente su contrato para otorgarles plena libertad operativa y fondos ilimitados en su viaje hacia la Deriva.
+* 🚫 **ZONA PROHIBIDA para el Volumen 9:**
+  * **TERMINANTEMENTE PROHIBIDO:** Revelar las intrigas aristocráticas drow de la Casa Istrav en el subsuelo de Apostae, la servidumbre doméstica o el duelo entre hermanas con Jhidel (reservado para el Volumen 10).
+  * **PROHIBIDO:** Anticipar la cultura de los Kish y la ciudadela flotante de Istamak en el gigante gaseoso Nejeor VI antes del Libro 4 de Paizo (*Las Nubes de Nejeor*).
+  * **PROHIBIDO:** Desvelar los secretos de la Forja Viviente y el chasis original de Ashera en A.Xel (reservado para los volúmenes 18 y 19).
+  * **PROHIBIDO:** Anticipar el enfrentamiento con el Almirante Vorces y el Superacorazado *Imperator* de la Flota de Cadáveres antes del asedio a la Puerta del Sistema.
+
+---
+
+### Volumen 10: *Lazos de Sangre: La Sombra de Apostae* (Episodios 111 al 122)
+* **Arco:** Encuentro cara a cara con la delegación de Inversiones Estelares S.C. (Ep. 111-112); infiltración clandestina en el planetoide cavernoso de Apostae bajo disfraces de sirvientes domésticos en la fortaleza de la Casa Istrav; espionaje de los archivos sobre la fuga de Keiden Ashton y el desprecio de la matriarca drow hacia Triel; peripecias de Benrey en los conductos; duelo fratricida a muerte entre Triel y su hermanastra Jhidel Istrav; huida al límite hacia la estación de Thanox; y la revelación del inmenso valor pre-Brecha del chasis de A.Xel (Ep. 122).
+* **Conocimiento Inicial de la Tripulación:**
+  * Proceden de Eox tras vencer a Marcellus en la Necrogarganta y recibir la «Carta de Despido» de Inversiones Estelares S.C.
+  * Conocen el anagrama maestro: **CLAMOR SAMBOR = MARLOC BOSMAR** (Inversiones Estelares fue fundada por un Marloc del futuro para darles una segunda oportunidad).
+  * Custodian las coordenadas hacia el gigante gaseoso Nejeor VI.
+  * Triel sabe que su linaje drow procede de la nobleza matriarcal de la Casa Istrav en Apostae y que su padre Keiden Ashton huyó de allí robando tecnología prohibida.
+* **Revelaciones Permitidas en este Volumen:**
+  * **La Reunión Secreta de Inversiones Estelares (Ep. 111-112):** La comparecencia ante el androide/robot y la ejecutiva corporativa en los niveles inferiores; confirmación de las directivas fundacionales pre-Brecha dejadas por el fundador.
+  * **Infiltración en Apostae:** La sociedad matriarcal drow, despiadada y esclavista; el estatus degradado de mestizos y orcos como sirvientes domésticos («servidumbre con pesadumbre»).
+  * **Los Archivos de Keiden Ashton y la Verdad Familiar:** La madre drow de Triel y su absoluto desprecio por su condición mestiza; la fuga audaz de su padre humano Keiden robando tecnología y la Piedra Corazón.
+  * **Duelo Fratricida con Jhidel Istrav (Ep. 119-120):** Enfrentamiento encarnizado a muerte entre Triel y su hermanastra drow pura por el orgullo y la supervivencia.
+  * **Fuga a Thanox (Ep. 121):** Escape in extremis de los dominios subterráneos de la Casa Istrav hacia el enclave corsario de Thanox.
+  * **El Verdadero Valor de A.Xel (Ep. 122):** Eruditos y traficantes reconocen en el chasis de A.Xel 42 aleaciones biotecnológicas invaluables de origen pre-Brecha pertenecientes a la legendaria Ashera.
+* 🚫 **ZONA PROHIBIDA para el Volumen 10:**
+  * **TERMINANTEMENTE PROHIBIDO:** Anticipar las carreras interplanetarias y el asteroide-casino de la entidad Kairos antes del Volumen 11 (Episodio 123 en adelante).
+  * **PROHIBIDO:** Revelar los detalles de la ciudadela flotante de Istamak y la raza kish antes del Libro 4 (*Las Nubes de Nejeor*).
+  * **PROHIBIDO:** Desvelar el paradero exacto de Keiden Ashton en el limbo temporal del Maelstrom antes del Volumen 17 (Episodio 202).
+  * **PROHIBIDO:** Desvelar la naturaleza completa de A.Xel como la Forja Viviente antes de los volúmenes 18 y 19.
 
 ---
 
@@ -161,4 +213,5 @@ Antes de redactar cualquier capítulo:
 1. Comprobar el rango de episodios del volumen en la tabla superior.
 2. Asegurarse de que ningún pensamiento, diálogo o broma aluda a eventos clasificados como **ZONA PROHIBIDA**.
 3. En caso de duda sobre si un dato familiar o secundario ya era conocido, contrastar con la marca temporal de [CANON_MAESTRO.md](./CANON_MAESTRO.md).
+
 

@@ -58,7 +58,7 @@ Medía cerca de tres metros y su piel escamosa tenía un tono ceniciento desvaí
 
 El guerrero draconiano no desenfundó. Soltó un suspiro áspero que sonó como carbón ardiendo en una chimenea vieja y se sentó en uno de los sillones de cuero, haciendo crujir la estructura:
 
-—Debí haberlos dejado morir en la arena —dijo Brody con una voz gutural y profunda—. Ese era el plan original de Marcellus Galway.
+—Debí haberlos dejado morir en la arena —dijo Brody con una voz gutural y profunda—. Ese era el plan original de Marcellus.
 
 Marloc Boosmar dio un paso al frente, con los sensores ópticos fijos en la fisonomía del guerrero:
 
@@ -84,7 +84,7 @@ Brody extrajo de su gabardina una pequeña placa holográfica militar y se la la
 
 ***
 
-### III. El anagrama maestro: Sambert Klamburg
+### III. El anagrama maestro: Clamor Sambor
 
 Dos horas más tarde, en el taller de mantenimiento del subsuelo del Café Calavera, el olor a soldadura de estaño y ozono impregnaba el ambiente.
 
@@ -110,21 +110,21 @@ Triel negó lentamente con la cabeza, girando la pantalla holográfica hacia él
 
 —No hablo de tu pasado, Marloc. Hablo de quién eres ahora mismo.
 
-En la pantalla brillaba el nombre del fundador y presidente invisible de la corporación para la que trabajaban; la figura en la sombra que había contratado a Chiskisk, que había ordenado la investigación del *Acreon* y que les había facilitado armas, créditos y naves desde el primer día:
+En la pantalla brillaba el nombre del fundador y presidente invisible de la corporación para la que trabajaban; la figura en la sombra que había contratado a Chiskisk, que había ordenado la investigación del *Acreon* y que les había facilitado armas, créditos y naves desde el primer día en Absalón:
 
-> **SAMBERT KLAMBURG**
+> **CLAMOR SAMBOR**
 
-—Es nuestro patrón —dijo Marloc, extrañado—. Un magnate corporativo que opera desde los niveles superiores de Absalón. ¿Qué tiene que ver conmigo?
+—Es nuestro patrón —dijo Marloc, extrañado—. El señor Clamor Sambor, el magnate ausente que opera a través de Chiskisk. ¿Qué tiene que ver conmigo?
 
 Triel tragó saliva con dificultad. Con un movimiento tembloroso de su índice, activó una rutina de análisis lingüístico en su consola:
 
 —Cuando Brody Malone estaba hablando de los recuerdos rotos y de la necesidad de volver a empezar... algo hizo clic en mi cabeza. He repasado cada cláusula de contratación de Inversiones Estelares, cada sello de seguridad y cada transferencia bancaria que nos asignaron. Mira esto, Marloc. Mira cómo se reordenan las letras de su nombre.
 
-En el holograma, las letras doradas de *SAMBERT KLAMBURG* comenzaron a flotar en el aire, separándose en caracteres individuales que giraron sobre sí mismos antes de reordenarse en una secuencia matemática perfecta:
+En el holograma, las letras doradas de *CLAMOR SAMBOR* comenzaron a flotar en el aire, separándose en caracteres individuales que giraron sobre sí mismos antes de reordenarse en una secuencia matemática perfecta:
 
-> **S - A - M - B - E - R - T &nbsp; K - L - A - M - B - U - R - G**  
+> **C - L - A - M - O - R &nbsp; S - A - M - B - O - R**  
 > ✦ &nbsp; ◈ &nbsp; ✦  
-> **M - A - R - L - O - C &nbsp; B - O - O - S - M - A - R**
+> **M - A - R - L - O - C &nbsp; B - O - S - M - A - R**
 
 Marloc Boosmar se quedó petrificado. El aire en la habitación pareció evaporarse de golpe, dejando un vacío asfixiante que le oprimió la garganta con la fuerza de un puño de hierro. Sus ojos leyeron el anagrama una, dos, diez veces consecutivas, mientras el color desaparecía por completo de su rostro, dejándolo pálido como la cera de un cirio funerario.
 

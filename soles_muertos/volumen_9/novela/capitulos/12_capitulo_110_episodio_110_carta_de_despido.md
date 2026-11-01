@@ -62,7 +62,7 @@ Viste un traje ejecutivo negro de corte impecable, confeccionado con un tejido s
 
 Su piel era de una palidez apergaminada, reseca y pegada a los huesos del rostro como la de una momia milenaria desecada al sol, pero sus pupilas resplandecían con un fuego carmesí implacable.
 
-Marcellus Galway, el auténtico promotor en las sombras de Absalón, el vampiro jiangshi que había manejado los hilos del destino de la tripulación desde el día en que desembarcaron en la estación, descendió un único escalón con un andar grácil y letal.
+Marcellus, el auténtico promotor en las sombras de Absalón, el vampiro jiangshi que había manejado los hilos del destino de la tripulación desde el día en que desembarcaron en la estación, descendió un único escalón con un andar grácil y letal.
 
 —Finalmente, Benrey —dijo la voz de Marcellus, amplificada a través de los receptores de radio de sus cascos con una modulación suave, casi paternal, teñida de una profunda decepción profesional—. Estaba francamente cansado de delegar en subalternos incompetentes y agentes mediocres. Si quieres que un despido se ejecute con elegancia, tienes que presentarte en persona en la oficina del cliente.
 
@@ -208,17 +208,17 @@ Triel activó el proyector holográfico de su comunicador. Sobre la plataforma d
 > *Cumplieron la primera etapa del camino. Sobrevivieron a Absalón, arrancaron los secretos de la Diáspora y desenmascararon a los traidores en el corazón de Eox. Pero la batalla que se avecina en el gigante Nejeor no puede librarse bajo la bandera de una empresa comercial ni con las ataduras de un contrato de oficina.*  
 > *Pongan rumbo a las coordenadas adjuntas. Busquen lo que duerme en las brumas del gigante gaseoso. Y hagan que esta segunda oportunidad merezca la pena.*  
 > *Buen viaje, amigos míos.*  
-> —*S.K. (M.B.)»*
+> —*C.S. (M.B.)»*
 
 El silencio volvió a adueñarse del grupo.
 
 Benrey contempló las letras doradas del holograma con la boca entreabierta, antes de soltar un silbido largo y sonoro:
 
-—Nos han despedido. Después de recorrer medio cosmos, de que me dispararan en el hombro, de pelear contra un perro gigante de cincuenta pies y de tragar más polvo radiactivo que una aspiradora de desguace... ¡mi propio padre me manda una carta de despido por correo cuántico!
+—Nos han despedido. Después de recorrer medio cosmos, de que me dispararan en el hombro, de pelear contra un perro gigante de cincuenta pies y de tragar más polvo radiactivo que una aspiradora de desguace... ¡nuestro propio mecenas me manda una carta de despido por correo cuántico!
 
 —No seas obtuso, Benrey —le recriminó Triel con una sonrisa cálida que iluminó su rostro cansado—. No nos ha despedido para abandonarnos. Nos ha dado la carta de libertad. Nos deja la nave, nos liquida las cuentas con fondos ilimitados y nos quita de encima a los auditores del Consejo de Absalón para que podamos perseguir a la Flota de Cadáveres sin tener que rendir cuentas a ningún burócrata.
 
-Marloc no dijo nada. El tecnomante contemplaba las iniciales grabadas al pie del mensaje: *S.K. (M.B.)*. Su mano de carne tembló ligeramente al tocar el emblema de su pecho. El anagrama que Triel había descubierto en los archivos de Zo! cobraba ahora su significado más pleno y desgarrador: *Sambert Klamburg* era el eco de un futuro en el que él mismo había intentado enmendar los errores del pasado, guiando a sus compañeros a través de la niebla del tiempo para darles la oportunidad de triunfar allí donde la historia previa solo había dejado ruina y olvido.
+Marloc no dijo nada. El tecnomante contemplaba las iniciales grabadas al pie del mensaje: *C.S. (M.B.)*. Su mano de carne tembló ligeramente al tocar el emblema de su pecho. El anagrama que Triel había descubierto en los archivos de Zo! cobraba ahora su significado más pleno y desgarrador: *Clamor Sambor* era el eco de un futuro en el que él mismo había intentado enmendar los errores del pasado, guiando a sus compañeros a través de la niebla del tiempo para darles la oportunidad de triunfar allí donde la historia previa solo había dejado ruina y olvido.
 
 —No estamos solos en esto —murmuró Marloc, con una voz serena que transmitía una paz largamente aplazada—. Nunca lo estuvimos.
 
