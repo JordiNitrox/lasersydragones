@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,766
+  - Total párrafos: 371
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [17:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y a matarla." Y entonces Axel, Axel, tenemos que encon..."
+  [17:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tarla." Y entonces Axel, Axel, tenemos que encontrarla..."
+  [18:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Eh, bueno, eh, creo que Axel tiene un punto correcto ..."
+  [19:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Gracias, Axel. Sí, no, no, no, no pode..."
+  [19:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o la mano en el hombro a Axel y es como ya déjelo ahí ..."
+  [19:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Triel se pone a a cuando Axel se pone a hablar así al ..."
+  [20:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... enfrentar. Igual usted, Axel, prepare,..."
+  [24:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ay, ocho. Axel 10. Henry 21. 21. Marl 2..."
+  [38:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iva. Aquí no puede. Pero Axel, le voy a preguntar dónd..."
+  [38:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la mente y el corazón de Axel. O sea,..."
+  [38:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...preguntado hace un año a Axel, tal vez hubiera sido di..."
+  [39:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te es la primera vez que Axel tiene como un sentimient..."
+  [41:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s personas. Ah, okay. La Axel..."
+  [49:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iel, chan, chan, chan. Y Axel piensa,..."
+  [50:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ndo por fin vemos a Nul, Axel es como, "Nul, espera, t..."

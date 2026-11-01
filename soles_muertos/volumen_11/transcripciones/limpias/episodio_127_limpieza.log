@@ -1,0 +1,79 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,145
+  - Total párrafos: 318
+  - Correcciones automáticas Nivel 1 (Seguras): 33
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [04:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eh No sé Axel me gusta mucho pero no s..."
+  [04:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cho pero no sé si saki o Axel para mí ambos están ahí ..."
+  [04:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hac de Axel y me agrada también como..."
+  [04:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o es que desarrollando a Axel uno descubre como Oh va ..."
+  [04:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... mucho entonces ver como Axel reacciona a esos espacio..."
+  [04:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rte favorita lo que hace Axel el desempate..."
+  [17:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no pueste dinero Okay Ay Axel..."
+  [19:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...podido con mi amiga Axel y yo Ah que no son tan b..."
+  [19:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...toy estoy seguro Ah y Ah Axel se sentó a hablar con us..."
+  [31:27] [NIVEL_1_SEGURO] 'ring Rey' -> 'Rim Rey'
+      Contexto: "...teléfono alguno conoce a ring Rey ninguno se quedan se vue..."
+  [38:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... es un 10 Mientras tanto Axel y mar Oh churros hay Moc..."
+  [38:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ho eh Ahora sí marlock y Axel marlock y Axel continúan..."
+  [38:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...marlock y Axel marlock y Axel continúan caminando por ..."
+  [43:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e alto nivel al respecto Axel usted reconoce por la ro..."
+  [48:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...entendí Axel Cállese no diga esas cos..."
+  [52:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ro Disculpe mi compañera Axel yo soy marlock Y tenemos..."
+  [59:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ros como bien lo Parkour Axel Parkour vre usted como q..."
+  [01:04:57] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "...vean les cuento rin Rey es un gran piloto de mot..."
+  [01:08:09] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "...laramente Bueno Este por rin Rey tenemos que ganar me lo ..."
+  [01:08:09] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "...ipo Todos aquí conocen a rin Rey fue un gran momento nos ..."
+  [01:10:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...go Perdón todavía LL que Axel..."
+  [01:11:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...aso regular pero enojado Axel usted me haba contado qu..."
+  [01:11:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no dos tres convencer al Axel no el banco a buscar pis..."
+  [01:12:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...orque eso va a ser fácil Axel eso es invasión a propie..."
+  [01:12:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os a ver si no dice algo Axel no tiene AX Axel..."
+  [01:12:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ce algo Axel no tiene AX Axel..."
+  [01:12:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ueno me parece diplomacy Axel no er clavas dijo que tr..."
+  [01:13:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... d d eso fue lo que dijo Axel eh okay 18 es Sí sí 18 E..."
+  [01:15:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...b que tengo una lev idea Axel de quién pudo haber roba..."
+  [01:18:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es la lista de amigos de Axel de mandarle un mensajito..."
+  [01:19:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sarias Es que así sea eh Axel creo..."
+  [01:28:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel 20 en el solo en el dado..."
+  [01:30:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s usted se está listando Axel usted está tratando de c..."

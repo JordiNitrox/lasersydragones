@@ -1,0 +1,33 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,114
+  - Total párrafos: 284
+  - Correcciones automáticas Nivel 1 (Seguras): 10
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... así punto de desarmarse axel detiene el automóvil cla..."
+  [25:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ra carne los intendentes axel esto no ha visto los..."
+  [29:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...contra y pasan y yo axel piensan nunca volver nun..."
+  [49:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...un 24 ojo ojo 24 y el 12 axel 24 le gana amarlo más de..."
+  [53:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e están moviendo we left axel para usted que hace..."
+  [56:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...itad de esto no sea sólo axel no axila hágase seis pun..."
+  [01:00:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...veinte berlín pasado axel 9no 21 pasado iger de 20..."
+  [01:07:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... que dejarlo viejo atrás axel como te gustan los chori..."
+  [01:10:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... la capa me da poderes y axel se ve la banda las cuchi..."
+  [01:15:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel ahí con acrobatics es co..."

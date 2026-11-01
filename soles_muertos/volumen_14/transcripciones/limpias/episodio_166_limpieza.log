@@ -1,0 +1,67 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,796
+  - Total párrafos: 274
+  - Correcciones automáticas Nivel 1 (Seguras): 27
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rente es como quées aquí Axel también Está golpeada..."
+  [22:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... eh yo un poquito pero y Axel Ah pero Axel puede aguan..."
+  [22:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uito pero y Axel Ah pero Axel puede aguantar es un And..."
+  [22:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...No aquí corazoncito Axel yo me acerco con el Cómo..."
+  [23:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...é un montón yo levanto a Axel con una gata hidráulica ..."
+  [25:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y seguro que tal vez más Axel usted qué piensa de todo..."
+  [28:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...preguntar en la hora que Axel está trabajando y usted ..."
+  [36:45] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...tonces el lenguaje de la piedra del drift lenge es que no hay nada..."
+  [36:59] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...ue sí son como los de la piedra del drift de hecho los que están e..."
+  [37:14] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...la piedra del drift Ajá lo del arco es algo ..."
+  [37:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...onces sí no sabe este eh Axel Yo creo que usted tiene ..."
+  [39:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r venenoso para nosotros Axel no coma cosas de las de ..."
+  [40:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...gioso para ellos tal vez Axel usted podría ver el arco..."
+  [40:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tal vez usted y mientras Axel ve el arco yo voy a revi..."
+  [44:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ué tenemos que hacer Ajá Axel estoy a revisar el arco ..."
+  [44:35] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "... de la época o sea de la piedra del drift dice iamaca isamac eso e..."
+  [46:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uy bien 29o ustedes 25 y Axel 20 natural Okay..."
+  [47:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sabe Ah Oh pero benrey y Axel sí saben ustedes han vis..."
+  [48:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...este símbolo antes Axel Tú sí sabes Este símbolo..."
+  [52:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lográndolo le disparan a Axel no fue que me peguen Sí ..."
+  [52:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sted tres puntos de daño Axel usemos nuestras armas y ..."
+  [55:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...digo Axel Cuál es la palabra para ..."
+  [55:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eso sí Yo voy a ayudar a Axel para tratar de de de def..."
+  [55:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es un diploma s entonces Axel yo..."
+  [55:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ba a ha cultura para que Axel diera la palab diplomas ..."
+  [55:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...b diplomas Cómo para que Axel hiciera diplomas Porque ..."
+  [01:11:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...toca a triel a y a Axel y a y señala guti él no ..."

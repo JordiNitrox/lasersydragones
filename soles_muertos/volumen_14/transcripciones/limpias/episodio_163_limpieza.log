@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,284
+  - Total párrafos: 269
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mbién estuve yo y estuvo Axel e incluso de cierta form..."
+  [17:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a usted estaba yo estaba Axel estaba jig también otra ..."
+  [18:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...misión Y mi otra Axel eh tuvieron que dejarla ..."
+  [18:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tuvieron que dejarla qué Axel quedó atrapada detrás de..."
+  [18:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...donde nosotros dejamos a Axel detrás de esa puerta y n..."
+  [23:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tas estos comentarios de Axel pero creo que puede ver ..."
+  [29:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...riel y su y la enfermera Axel que ya es..."
+  [29:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... es como Voy a revisarlo Axel Póngase esto es como tom..."
+  [30:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ayuda de Axel un 30 usted determina qu..."
+  [31:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eterminar qué edad tenía Axel y usted en ese video AX ..."
+  [46:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... vez hablando de Capitán Axel me pueden..."
+  [01:05:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...roide mencionó el nombre Axel me dijo que había sido u..."
+  [01:05:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ese momento ciertamente Axel tiene ser un poco bocona..."
+  [01:15:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iempo No vuelo solamente Axel hace esto no se preocupe..."
+  [01:15:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o ahora podemos despedir Axel no me esperaba voy a hac..."

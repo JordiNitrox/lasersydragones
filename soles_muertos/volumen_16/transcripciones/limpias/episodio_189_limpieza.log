@@ -1,0 +1,39 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 8,537
+  - Total párrafos: 199
+  - Correcciones automáticas Nivel 1 (Seguras): 13
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a estado trabajando aquí Axel a usted..."
+  [23:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... hay que terminar rápido Axel Okay con el H podía hace..."
+  [24:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...20 no es el ac bajado Uh Axel se le pega y ni siquiera..."
+  [27:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...encima de todos y yo a é Axel usted también todos todo..."
+  [31:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...triel Sí pero Axel va usted acuerdense que ..."
+  [34:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...voy a dejar a Axel votada y voy a oír Así q..."
+  [35:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ara atrás pegamos contra Axel a ver voy voy a hacer Pr..."
+  [43:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...na vaya a ver vaya a ver Axel vaya vaya usted nos dice..."
+  [44:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ntro se vuelven creo que Axel puede puede camuflarse n..."
+  [50:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l portal le dice a usted Axel quién cree que me necesi..."
+  [54:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...instante se vuelve hacia Axel y la abraza Ah ah me tom..."
+  [54:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omo la decisión fue dura Axel no sé si fue la correcta..."
+  [59:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rucción además otra cosa Axel se le acerca y le dice e..."

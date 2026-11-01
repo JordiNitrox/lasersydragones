@@ -1,0 +1,53 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,900
+  - Total párrafos: 480
+  - Correcciones automáticas Nivel 1 (Seguras): 20
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...yo pensé que iba a decir Axel, ¿no?..."
+  [19:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...El programa de cocina de Axel, el el programa de de me..."
+  [24:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿qué le digo? Coquetele, Axel. Creo que eso me encuent..."
+  [24:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... todo caso es como, mmm, Axel, no sé, distráigalo con ..."
+  [25:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...toque y se ríe como, ay, Axel, sí, inténtelo, inténtel..."
+  [25:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...éntelo, inténtelo. Puede Axel, eh bueno, no me parece ..."
+  [25:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., se ve se ve muy bonita Axel...."
+  [36:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ablemente a través de de Axel, tal vez Benry puede hac..."
+  [37:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nciden con los de los de Axel. Habla casata también...."
+  [54:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sí también Axel tal vez ya podría identi..."
+  [56:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...h, no salió mal. 26. 26. Axel, yo acompaño a Benrey al..."
+  [58:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, ¿cuánto sacó? 32 en cul..."
+  [59:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... cuando usted coteja con Axel, usted descubre que el h..."
+  [01:00:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oceso. Okay. Supongo que Axel podría entrar a..."
+  [01:01:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... la apariencia del arma. Axel. Usted tiene que meterse..."
+  [01:01:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o. Pero, pero, peroados, Axel, Axelad, necesito un sie..."
+  [01:02:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...No, nueve. Axel la invisible. Okay, ST. ..."
+  [01:02:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Esto es para el stealth, Axel. Lo primero que tiene qu..."
+  [01:07:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ¿Por qué mató? Mientras Axel está haciendo eso es com..."
+  [01:12:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, vamos a la habitación d..."

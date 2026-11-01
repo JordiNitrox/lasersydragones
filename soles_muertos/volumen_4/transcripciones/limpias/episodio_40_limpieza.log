@@ -1,0 +1,39 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,949
+  - Total párrafos: 291
+  - Correcciones automáticas Nivel 1 (Seguras): 13
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [30:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...iera puede llamarme como axel perfecto en cualquier ca..."
+  [30:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...señorita y la señorita a axel tiene un punto tiene un ..."
+  [35:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... punto útil aquí ha sido axel que opina que tal vez es..."
+  [39:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a a ser ella yo creo que axel tiene razón si a usted n..."
+  [40:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...das porque por cierto ya axel ayudó porque ella dijo j..."
+  [40:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ndo nos sobre la idea de axel que parece que es la que..."
+  [53:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... rey muchas gracias y el axel y el profesor que no les..."
+  [53:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ad como quiera está bien axel tiene pocas habilidades ..."
+  [54:28] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...su tiempo axel una cosa nada más se ace..."
+  [01:01:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel acceder aquí también yo ..."
+  [01:01:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...respondo que se preguntó axel los draw y los elfos son..."
+  [01:11:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y cortamos a la señorita axel que..."
+  [01:20:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n éxitos te lo digo bien axel como ahí hay algún hay s..."

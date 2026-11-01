@@ -1,0 +1,71 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,753
+  - Total párrafos: 452
+  - Correcciones automáticas Nivel 1 (Seguras): 29
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...metidos en ese bosque. Axel, usted está siendo perse..."
+  [19:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os en el dado santísimo. Axel..."
+  [20:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mente un 27 y yo [risas] Axel, usted corre a toda velo..."
+  [20:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...arraron. Llega y alcanza Axel. Es que no salimos tan a..."
+  [20:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue no salimos tan altos. Axel, te dije que no corriera..."
+  [20:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tan confiados de que Axel no iba a ser loco que es..."
+  [20:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... como no pudo haber sido Axel Axel esta criatura, este..."
+  [20:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... no pudo haber sido Axel Axel esta criatura, este cult..."
+  [22:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...suyo y usted puede ver a Axel donde va corriendo y uno..."
+  [23:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar una acción que cuando Axel se mueva yo lanzo la gra..."
+  [23:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Oh, sí, voy yo. Me inte..."
+  [24:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... estaba pensando eso yo. Axel no quiere dispararle...."
+  [25:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted. Sí, más yo. Okay. Axel se separó, entonces pued..."
+  [33:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r es moverme a la par de Axel..."
+  [36:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o. Estaba persiguiendo a Axel...."
+  [37:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Continúa persiguiendo Axel. Se va atrás de ella. Co..."
+  [37:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Buenas estas arrimadas ..."
+  [39:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Usted lanza esa granada. Axel, va. Usted tiene uno de ..."
+  [41:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dos. Conecta Axel. 19 puntos de daño. Uy, ..."
+  [44:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...le disparó a Axel recibió buena cantidad d..."
+  [48:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l. Ah, no, ahí le tapo a Axel. [risas] No, ahí estoy b..."
+  [49:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ba tratando de agarrar a Axel, Axel se esconde en la m..."
+  [49:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tando de agarrar a Axel, Axel se esconde en la maleza ..."
+  [53:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os. Este, eso fue Benrey Axel. Ah, mira, yo pensé que ..."
+  [53:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n en el terreno difícil. Axel se mueve entre la maleza..."
+  [55:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...as] y muere. Ah, gracias Axel, gracias. Esa fue Axel. ..."
+  [55:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s Axel, gracias. Esa fue Axel. Se adelanta la androide..."
+  [01:04:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y que tomar riesgos. Sí, Axel. Okay, voy a moverme par..."
+  [01:09:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Vamos. Mm. Axel, estos eran los únicos q..."

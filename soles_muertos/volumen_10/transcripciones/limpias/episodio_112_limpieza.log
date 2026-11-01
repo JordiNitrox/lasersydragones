@@ -1,0 +1,29 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,250
+  - Total párrafos: 305
+  - Correcciones automáticas Nivel 1 (Seguras): 8
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [42:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s claramente es un éxito axel y yo podemos escuchar es..."
+  [44:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la limosina pero en 1325 axel y ven reino tanque chees..."
+  [55:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...es había otra otra usted axel y otra otra triada se ac..."
+  [01:13:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ó marco que inicialmente axel y a mí al menos no tengo..."
+  [01:14:50] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...piedra del drift nada estuviera ocurrido ..."
+  [01:15:24] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...unca había encontrado la piedra del drift sin la piedra no..."
+  [01:16:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o destruido asumo yo que axel y yo estamos muertas..."
+  [01:20:45] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...nte dónde iba a estar la piedra del drift y quedaron quienes..."

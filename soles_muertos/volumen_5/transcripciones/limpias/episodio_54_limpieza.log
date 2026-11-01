@@ -1,0 +1,57 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,450
+  - Total párrafos: 272
+  - Correcciones automáticas Nivel 1 (Seguras): 22
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...recuperar esta mina axel lo hice muy bien se da v..."
+  [15:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... atención aquí al ladito axel le dispararon otra vez s..."
+  [16:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...te no pero voy a revisar axel de hecho este 3 se levan..."
+  [17:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...alizando voy a revisar a axel me dicen vamos a ver aqu..."
+  [17:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...regalaría ello axel está enfermo otra es la ..."
+  [18:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...no se enfermaban casi axel usted tiene algún defect..."
+  [18:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...é si son pero en vega de axel bueno no se quiere tomar..."
+  [19:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel me sorprende que éste oc..."
+  [26:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o albergues si ven rey y axel que durante muchas de su..."
+  [29:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... a marc lo que tal vez a axel ustedes han oído de esto..."
+  [36:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...bueno 29 o que ven rey y axel buscan en el cuarto y es..."
+  [36:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ría intentar hacerlo que axel dijo y mandarle un mensa..."
+  [39:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... listado de todo llama a axel para que le..."
+  [44:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel había logrado el cheque ..."
+  [01:03:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que axel diría como si no lo cues..."
+  [01:13:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...es una pregunta como que axel se hace ella..."
+  [01:16:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ja alcanzar de las notas axel tiene 34 a la mañana sig..."
+  [01:20:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...survival de 18 a mí axel usted subiendo por las m..."
+  [01:23:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ve hay un vídeo que dice axel y yo no fue el peor peor..."
+  [01:24:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel survival tiene el bono d..."
+  [01:24:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... y vamos a hacer vamos a axel 28 axel ustedes escalan ..."
+  [01:24:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... a hacer vamos a axel 28 axel ustedes escalan mediodía..."

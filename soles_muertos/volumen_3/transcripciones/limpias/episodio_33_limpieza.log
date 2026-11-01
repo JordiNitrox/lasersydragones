@@ -1,0 +1,47 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,532
+  - Total párrafos: 279
+  - Correcciones automáticas Nivel 1 (Seguras): 17
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [13:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de aquí tan tan tan éste axel recibió una llamada bast..."
+  [25:47] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...profesión lista mecánico axel 42 un mercenario si está bi..."
+  [31:26] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...venía ese material de la piedra del drift y es que consideraría pa..."
+  [45:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...correcto axel tiene mucha razón más qu..."
+  [47:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a cantidad de vómito que axel expulsó es incontables i..."
+  [01:05:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o que me decía sofía que axel ya estaba sobre la que y..."
+  [01:05:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ró una ballena ven ven y axel les voy a contar un poco..."
+  [01:06:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sicamente me vuelve como axel que puedo respirar en el..."
+  [01:07:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...trabajar sobre ustedes a axel y ave en rey lo lleva a ..."
+  [01:09:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ciéndolo más rápido para axel cuando ya le toca a axel..."
+  [01:09:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel cuando ya le toca a axel llaman a un androide es ..."
+  [01:12:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ofía cuénteme que compró axel y compre o le puse un fi..."
+  [01:14:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ue ser de calidad es que axel quiere cambiar de ropa t..."
+  [01:17:28] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ueno yo compré igual que axel el habilite cristal atrá..."
+  [01:20:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...es axel y even ready se siente u..."
+  [01:20:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...l día estamos como tel y axel haciendo chapín de chica..."
+  [01:21:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pre el toque especial de axel pero algún día lo compra..."

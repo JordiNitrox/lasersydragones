@@ -1,0 +1,73 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,620
+  - Total párrafos: 408
+  - Correcciones automáticas Nivel 1 (Seguras): 30
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nen de no verse Sí, como Axel diría. Eso fue raro, ¿no..."
+  [24:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uién revisa? Yo revisé a Axel 37...."
+  [24:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, hace una pregunta. ¿Ust..."
+  [25:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí. Okay. Usted revisa Axel y en efecto usted nota a..."
+  [26:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ien. Estoy paso lejos de Axel. Ahora se pega. Nadie re..."
+  [30:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de Besmar ahí de pronto. Axel, la inquisidora Axel. Na..."
+  [30:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...to. Axel, la inquisidora Axel. Nadie se la esperaba. S..."
+  [33:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... veces que encontramos a Axel como en el pasado y a mí..."
+  [46:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿Cómo llegaron aquí? Axel, usted se concentra, per..."
+  [47:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... rayos, ahora perdimos a Axel. Axel, ¿dónde está? No, ..."
+  [47:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., ahora perdimos a Axel. Axel, ¿dónde está? No, Axel d..."
+  [47:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: ".... Axel, ¿dónde está? No, Axel debe estar donde la deja..."
+  [49:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...emos volver a donde está Axel. Hacia adelante entonces..."
+  [51:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e está jalando nada más. Axel, si usted quiere avanzar..."
+  [01:00:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿Está Axel con ustedes? No, me aleg..."
+  [01:06:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nsamente concentrarse en Axel y sea como Axel, la nece..."
+  [01:06:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rarse en Axel y sea como Axel, la necesitamos aquí. Ax..."
+  [01:06:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el, la necesitamos aquí. Axel, Axel, Axel, Axel, Axel,..."
+  [01:06:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... necesitamos aquí. Axel, Axel, Axel, Axel, Axel, Axel...."
+  [01:06:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...itamos aquí. Axel, Axel, Axel, Axel, Axel, Axel...."
+  [01:06:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... aquí. Axel, Axel, Axel, Axel, Axel, Axel...."
+  [01:06:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Axel, Axel, Axel, Axel, Axel, Axel...."
+  [01:06:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Axel, Axel, Axel, Axel, Axel...."
+  [01:07:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cuando siempre le digo a Axel como bien hecho y..."
+  [01:07:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...me concentro en llamar a Axel o traerla si llego a tir..."
+  [01:07:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Está sin puntos. Rayos. Axel, usted empieza a caminar..."
+  [01:07:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sea, lo que tiene seguro Axel es como..."
+  [01:11:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s ustedes. Esperaría que Axel estuviera aquí nada..."
+  [01:12:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...stedes. Al mismo tiempo, Axel, usted a la lejanía..."
+  [01:13:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Puede ser un dos o tres..."

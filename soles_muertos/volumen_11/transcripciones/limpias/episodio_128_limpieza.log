@@ -1,0 +1,57 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,248
+  - Total párrafos: 245
+  - Correcciones automáticas Nivel 1 (Seguras): 22
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [11:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ué pasa puedo yo como eh Axel escoger trascender eh mo..."
+  [15:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... harían Y entonces triel Axel benry marlock y esposa y..."
+  [16:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...contra un bz vamos a ver Axel está interesada en..."
+  [33:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...egro tiene el pelo negro Axel Le encantan los cambios ..."
+  [34:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se se me ve bien Axel sí se le ve muy bien Ah ..."
+  [35:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...voquen y vuelvo vo a ver Axel primeramente como son se..."
+  [36:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel y benrey notan que marlo..."
+  [41:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...atrás como retaguardia y Axel y yo flanqueando ahí a t..."
+  [41:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...escalerita y va Tri el Axel benry Mark Señorita stra..."
+  [46:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...son como una pesera unel Axel se queda atrás de como..."
+  [47:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sted conoce más de cerca Axel también tiene cultura Po..."
+  [55:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lotaje más increíble que Axel ha hecho Axel ha hecho p..."
+  [55:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...reíble que Axel ha hecho Axel ha hecho paras bastante ..."
+  [55:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ve Entonces le muestro a Axel piloteando la nave así d..."
+  [56:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e y le pongo la mano a a Axel en el hombro por cierto ..."
+  [57:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue es una gran piloto Ah Axel es un excelente piloto Y..."
+  [58:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a arreglar claro le diré Axel tampoco jamás ha perdido..."
+  [58:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... dé 10.000 créditos para Axel qué tal 40 ella levanta ..."
+  [01:01:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mpitamos pero decir okay Axel tiene que Cedar de prime..."
+  [01:02:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tido sería hacer eso con Axel porque ella es..."
+  [01:05:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e el equipo que contenga Axel gane no me importa como ..."
+  [01:09:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es como un parqu le diré Axel tampoco jamás ha perdido..."

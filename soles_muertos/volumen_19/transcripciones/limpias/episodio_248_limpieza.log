@@ -1,0 +1,53 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,485
+  - Total párrafos: 431
+  - Correcciones automáticas Nivel 1 (Seguras): 20
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [23:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cho, no hemos declarado. Axel, ¿usted qué le hace cuan..."
+  [23:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mo bastante detrasito de Axel. Y voy a hacerle a travé..."
+  [25:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...entretenido con Marlock. Axel, ¿está bien? Sí, sí, est..."
+  [26:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Voy a buscar la referida Axel a ver qué tiene cuando l..."
+  [26:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cer eso de cocinar que a Axel le gusta. Solo hay que c..."
+  [34:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que le di en el Marlock Axel en el episodio [música] ..."
+  [37:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, Charlotte, Benry en las..."
+  [37:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Es como modo Axel, eh, me encanta que este..."
+  [50:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...alma. [risas] Antagonice Axel para que vea y Axel. Sí...."
+  [50:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nice Axel para que vea y Axel. Sí...."
+  [50:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s, como dicen en Akiton. Axel Perception 19 + 18 es 30..."
+  [51:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... recibe el ataque igual. Axel, atrápelo con las palmas..."
+  [52:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a sido la mejor amiga de Axel durante toda esta explor..."
+  [56:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o es lo que ustedes ven. Axel, usted ve que elred hace..."
+  [57:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ttack. A Trick Attack. A Axel. Axel. Usted ve que él v..."
+  [57:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... A Trick Attack. A Axel. Axel. Usted ve que él vuelve ..."
+  [58:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...C. Sí. Ya. Ah, Axel, veo que ha dominado el ..."
+  [01:01:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...[risas] Axel así nada más con un hach..."
+  [01:05:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do que luchar con usted, Axel, pero supongo que tambié..."
+  [01:09:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a pin pin pin. Recuerda, Axel..."

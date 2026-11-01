@@ -1,0 +1,27 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,337
+  - Total párrafos: 282
+  - Correcciones automáticas Nivel 1 (Seguras): 7
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [10:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que construyó axel bueno estamos así estamo..."
+  [25:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...hago empresario 21 26 26 axel se queda viendo y nota q..."
+  [29:28] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...les las las dos armas de axel y mías..."
+  [46:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o y le damos las cosas a axel y es como para que se la..."
+  [51:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...onces el conocimiento de axel que sacó muy alto de esa..."
+  [01:06:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nferencia que hace bueno axel estar al hoyo en realida..."
+  [01:06:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...uiente tal vez como dijo axel el pse bueno como dijo s..."

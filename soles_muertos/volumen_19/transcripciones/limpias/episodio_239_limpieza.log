@@ -1,0 +1,41 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,010
+  - Total párrafos: 389
+  - Correcciones automáticas Nivel 1 (Seguras): 14
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y el segundo disparo va Axel. Mm. Falla también con u..."
+  [20:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...icho que sí. Y nada más. Axel, 10. Me saqué uno en el ..."
+  [22:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...attack. Ay, le dispara a Axel y a Cairos...."
+  [23:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel 20 natural. Empezamos. H..."
+  [23:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...falla contra Cairos. Axel, a usted le pega un rayo..."
+  [24:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a lo más pronto posible. Axel, eh, hay que moverse...."
+  [35:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... me dijo, ¿verdad? Pobre Axel, porque yo sí puedo. Tri..."
+  [35:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do un slow, no sabían. E Axel camina y camina sobre la..."
+  [35:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en diagonal está Triel y Axel. Eh, ella está más cerca..."
+  [38:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a ahí en en la cómoda de Axel. No creo que la ocupe y ..."
+  [39:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... como y cuando ya llegué Axel f. Ay, no, aquí estaba. ..."
+  [55:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel va usted. Mm. Okay. Vien..."
+  [59:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mbra se acerca detrás de Axel. Yo te he visto igual...."
+  [01:01:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de ranco. Usted también, Axel. Si no le pegaría usted ..."

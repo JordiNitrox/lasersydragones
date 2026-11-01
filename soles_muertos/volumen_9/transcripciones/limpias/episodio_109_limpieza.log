@@ -1,0 +1,37 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,368
+  - Total párrafos: 244
+  - Correcciones automáticas Nivel 1 (Seguras): 12
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [30:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que axel le pegue para que le baj..."
+  [31:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... a través de hecho la de axel 7 18 y..."
+  [34:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a sobrecargar el arma de axel entonces se en el centro..."
+  [35:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... está empezando a romper axel usted puede utilizarse s..."
+  [38:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...anquilidad y tenemos más axel nos sorprendería si algú..."
+  [41:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o está a sólo 10 pies de axel no es buena cosa es que ..."
+  [42:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...notable y lo que axel e hizo no lo dejó futuro..."
+  [50:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...121 fallas por the post axel ya provocó me muevo comi..."
+  [53:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...escribimos con 2 axel fallo todos los tracks h..."
+  [55:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel ya está empujando al web..."
+  [56:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s el mar barceló y 28 28 axel usted encuentra un montó..."
+  [01:05:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel encontró tres baterías l..."

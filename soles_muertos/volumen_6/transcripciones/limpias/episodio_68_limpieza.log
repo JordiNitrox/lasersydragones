@@ -1,0 +1,35 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,388
+  - Total párrafos: 309
+  - Correcciones automáticas Nivel 1 (Seguras): 11
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tipo de físico que tiene axel tal vez que es como como..."
+  [23:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mico mucho gusto este es axel axel es una androide pue..."
+  [23:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mucho gusto este es axel axel es una androide puedo ve..."
+  [24:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... mano vuelve a ver a axl axel verdad y mi prima ha par..."
+  [39:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nte veo que su compañera axel tiene un buen sentido pa..."
+  [54:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tido con traje abogado y axel le falta su abogado huma..."
+  [58:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tás corriendo maquillaje axel está cambiando de color ..."
+  [59:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...legan hasta 50 como dijo axel nos puede tratar de hack..."
+  [01:00:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... si él la vuelve a usted axel de meses ni pero hoy cua..."
+  [01:02:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... de cuerdas y todos como axel usted saca sus relojes d..."
+  [01:23:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...5 falla porque no existe axel va usted ok saco mi arma..."

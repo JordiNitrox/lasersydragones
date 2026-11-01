@@ -1,0 +1,63 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,816
+  - Total párrafos: 272
+  - Correcciones automáticas Nivel 1 (Seguras): 25
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [22:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l futuro tengo otra idea Axel dice que eso nunca ha oc..."
+  [26:10] [NIVEL_1_SEGURO] 'rin rey' -> 'Rim Rey'
+      Contexto: "...Okay el plan es ir donde rin rey y después ir a la secció..."
+  [26:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ro por si acaso lo ocupa Axel pellizca como solo para ..."
+  [27:38] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "...ta que llegan al área de rin Rey Se bajan y se vuelve mor..."
+  [29:58] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "... yo le digo está enfermo rin Rey los ghuls pegan una enfe..."
+  [44:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ted lo abre yce un video Axel no lo ve así se tapa ve ..."
+  [47:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o de cachete arme cierto Axel aquí hay aquí hay algo..."
+  [53:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tres Yo pensé que que y Axel habí tirado cosas distin..."
+  [54:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en de adentro del cuerpo Axel Usted se queda..."
+  [59:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ay benrey Bueno no sé si Axel sabe ya que parece saber..."
+  [59:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo que ella dijo tal vez Axel sabe que ya que sa un 20..."
+  [01:00:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...deshacer Okay Axel se me olvidó mencionar a..."
+  [01:07:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que deberíamos hacer eso Axel dice no y se tapa los oj..."
+  [01:08:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o Y de pronto la cara de Axel aparece frente a usted c..."
+  [01:08:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e algo tiene que ver con Axel algo tiene que ver con A..."
+  [01:08:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l algo tiene que ver con Axel no esta..."
+  [01:09:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel Ajá la otra pel rosado P..."
+  [01:09:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...amaban la bestia que era Axel esa con quebada muñeca..."
+  [01:10:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...esto tenga que ver con Axel es Axel estaba aquí es c..."
+  [01:10:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...enga que ver con Axel es Axel estaba aquí es cierto Sí..."
+  [01:13:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rada y golpeando y suena Axel Axel Axel y empieza está..."
+  [01:13:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y golpeando y suena Axel Axel Axel y empieza está golp..."
+  [01:13:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...peando y suena Axel Axel Axel y empieza está golpeando..."
+  [01:13:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue dejarla no y empiez a Axel y el otro lado la puerta..."
+  [01:14:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... es una opción abandonar Axel Ya lo hemos..."

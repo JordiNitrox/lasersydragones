@@ -1,0 +1,63 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,360
+  - Total párrafos: 469
+  - Correcciones automáticas Nivel 1 (Seguras): 25
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mpuestos y me parece que Axel anda en la maleta contra..."
+  [15:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ya lo veo. La última vez Axel y Nul 9 encontraron paz ..."
+  [19:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...momento. Okay. Triel 18. Axel..."
+  [19:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ral. Saqué un 11 más. Me Axel, tenemos que..."
+  [20:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., sí. Estaba abrazando a Axel mientras esto ocurría. N..."
+  [21:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...un poco la mano frente a Axel, como tratando como de n..."
+  [28:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n el camino, ¿dónde está Axel? Axel está en frente mío..."
+  [28:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...amino, ¿dónde está Axel? Axel está en frente mío. En e..."
+  [28:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Entonces hago eso. Eh, Axel, acaban de comprometer a..."
+  [29:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Axel. A. Okay. Y este como fr..."
+  [29:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ction me preocupa. Okay. Axel...."
+  [30:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...[carraspeo] Bueno, Axel va a hacer un tricatac m..."
+  [33:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ya te conozco moco, Axel. Ay, no. Ya te electrobu..."
+  [41:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a él él está del lado de Axel, entonces técnicamente p..."
+  [41:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...echo, yo dice ella, dice Axel. Cuidado donde le dispar..."
+  [44:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...solve point para curar a Axel que le dieron una paliza..."
+  [50:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pero lo pensé al menos. Axel, ¿está usted expuesta? E..."
+  [52:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., pero bueno, está bien. Axel se mueve en la varanda e..."
+  [54:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o unar action le dispara Axel de nuevo. Axel tiene cov..."
+  [54:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e dispara Axel de nuevo. Axel tiene cover. Sí, tiene c..."
+  [54:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e y le pega a Cairos y a Axel con el lanzallamas...."
+  [01:05:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sas está lo tenía por si Axel se ponía muy loca. [risa..."
+  [01:13:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Okay, [música] yo me to..."
+  [01:13:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que solo Nul y Axel le han disparado. 26. Oh..."
+  [01:14:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...and de los super amigos. Axel se acerca montan unos de..."

@@ -36,19 +36,30 @@ Queda terminantemente prohibido mencionar términos de reglas o mecánicas de ro
 
 ---
 
+---
+
 ## 2. Voces y Personalidades de los Protagonistas
 
-Consultar el dossier completo en [canon_y_personajes.md](./references/canon_y_personajes.md):
+Consultar el dossier completo y canónico en [CANON_MAESTRO.md](../../planificacion_global/CANON_MAESTRO.md):
 
 * **Benrey Galway:** Ysoki pícaro, verborrea acelerada, negociador incansable, leal a su clan y a su primo **Rim Rey**. Paranoico compulsivo respecto a ser envenenado (analiza y huele la comida ajena). Terror visceral hacia los no-muertos y el planeta **Eox**.
-* **Triel Istrav:** Mecánica semi-drow de 19 años, pelo níveo, piel cenicienta, chaqueta de segunda mano con emblema de los *Free Captains* (NUNCA fue pirata ni corsaria; es una mecánica civil independiente). Cariñosa, ingeniosa y protectora con Gerty. Mantiene una relación romántica clandestina y picante con el **Oficial León Holden** de los Protectores. Huyó del desprecio aristocrático de su familia drow en Apostae y busca en secreto a su padre humano, **Keiden Ashton**.
+* **Triel Istrav:** Mecánica semi-drow de 19 años, pelo níveo, piel cenicienta, chaqueta de segunda mano con emblema de los *Free Captains* (NUNCA fue pirata ni corsaria; es una mecánica civil independiente). Cariñosa, ingeniosa y protectora con Gerty. Huyó del desprecio aristocrático de su familia drow en Apostae y busca en secreto a su padre humano, **Keiden Ashton**. Mantiene una relación romántica clandestina y picante con el **Oficial León Anoxiar** de los Protectores (*⚠️ Romance que surge orgánicamente en los episodios 31-32 del Volumen 3; está TERMINANTEMENTE PROHIBIDO insinuarlo o anticiparlo en los Volúmenes 1 o 2*).
 * **Gerty:** Dron bípedo de asalto pesado reconstruido por Triel, dotado de cuatro brazos mecánicos. Su procesador sarcástico expresa desprecio cómico hacia los *«bichos de carbono»*. Chiste recurrente: sufre reinicios lentos y actualizaciones de firmware exasperantes al estilo *Windows 95* en los momentos más tensos.
 * **Marloc Boosmar:** Tecnomante humano de porte académico elegante, traje impecable y brazo izquierdo cibernético. Fusiona la computación cuántica con fórmulas mágicas (*Null-Vector*). Despertó con amnesia en Absalón tras tocar una misteriosa esfera rúnica dorada; su vínculo con Marlene Boosmar es un enigma abierto (NUNCA se confirma que sean hermanos). Carga con el duelo de su difunta esposa Ángela y guarda rencor hacia su padre **Ambrose Boosmar**.
 * **A.Xel 42:** Androide operativa de diseño esbelto, piel sintética de tono celeste suave (azulado), cabello oscuro peinado en corte pixie ladeado (con lateral izquierdo rapado), circuitos bioluminiscentes rosados (con marcas en el cuello y el mentón) y ojos digitales multiespectrales (rosado basal, ámbar de telemetría y amatista táctico); serenidad analítica y letalidad quirúrgica. Despertó a la conciencia siendo esclava en una mina y fue rescatada en el Vasto por su unidad hermana **Null-9**; su mayor trauma es volver a perder la libertad. No tiene ningún romance con las autoridades ni con León.
 
 ---
 
-## 3. Primacía Absoluta del Podcast frente al Manual de Paizo
+## 3. Principio del Cono de Conocimiento (Barrera Temporal de Spoilers)
+
+> ⏳ **DIRECTIVA OBLIGATORIA DE PROGRESIÓN DRAMÁTICA:**  
+> Ningún protagonista, secundario ni narrador puede actuar o pensar con información de episodios futuros.  
+> * Antes de redactar cualquier volumen o capítulo, es preceptivo consultar [CRONOLOGIA_Y_REVELACIONES.md](../../planificacion_global/CRONOLOGIA_Y_REVELACIONES.md) para verificar la **ZONA PROHIBIDA** del volumen en curso.  
+> * Prohibido introducir anticipaciones artificiales, sospechas infundadas de traiciones futuras o giros que los jugadores aún no conocían en ese instante de la mesa.
+
+---
+
+## 4. Primacía Absoluta del Podcast frente al Manual de Paizo
 
 Este proyecto adapta la **partida real de rol en vivo** (*actual play*), NO el módulo impreso de *Dead Suns* de Paizo Publishing:
 
@@ -57,12 +68,13 @@ Este proyecto adapta la **partida real de rol en vivo** (*actual play*), NO el m
    * **Marlene Boosmar:** Sustituye a Duravor Kreel; investigadora del Arcanamirium casada con Ángela.
    * **Ferani Nadaz y Brock Hilario:** Líderes de los Reyes de Abajo / Club Con-Fusión (NUNCA *Ferani Krane* ni *Jabaxa*).
    * **Estrella Errante:** Nave de la tripulación (NUNCA *Sunrise Maiden*).
-2. **Cero Extrapolaciones no Confirmadas:**
-   * Prohibido inventar parentescos, orígenes o alianzas que no procedan del audio de la mesa. Si un PNJ formula una hipótesis en mesa (como Chic asumiendo que Marloc es hermano de Marlene), debe narrarse como una conjetura errónea del PNJ y reflejar la negativa del protagonista.
+2. **Cero Extrapolaciones no Confirmadas y Conjeturas de PNJs:**
+   * Prohibido inventar parentescos, orígenes o alianzas que no procedan del audio de la mesa.
+   * Si un PNJ formula una hipótesis en mesa (como Chic asumiendo que Marloc es hermano de Marlene), debe narrarse estrictamente como una conjetura subjetiva y errónea del PNJ, reflejando el rechazo o perplejidad del protagonista.
 
 ---
 
-## 4. Estructura de Capítulos y Redacción
+## 5. Estructura de Capítulos, Formato y Extensión Óptima
 
 Cada archivo en `novela/capitulos/` debe seguir esta estructura:
 
@@ -83,12 +95,16 @@ Cada archivo en `novela/capitulos/` debe seguir esta estructura:
 * **Separadores entre escenas:** Usar `***` o `---` para que el compilador inserte el divisor ornamental `✦ ◈ ✦`.
 * **Citas y comunicaciones:** Usar `> ` para generar bloques `.quote` con borde dorado.
 * **Diálogos:** Emplear raya larga española (`—`) sin espacios entre el guion y el texto inicial (`—¿Están listos? —preguntó Triel—`).
+* **Equilibrio de Extensión por Capítulo:**
+  * Horquilla recomendada: entre **1.500 y 3.500 palabras**.
+  * Si un capítulo queda en $< 1.200$ palabras, evaluar desarrollo ambiental.
+  * Si un capítulo supera las $> 4.500$ palabras (como ocurrió en el Cap. 10 del Vol. 1), evaluar su división en dos partes para mantener un ritmo equilibrado de lectura.
 
 ---
 
-## 5. Control de Calidad Literaria (Barrido Previo a la Maquetación)
+## 6. Control de Calidad Literaria (Auditoría de Fidelidad)
 
-Antes de dar por finalizada la redacción de cualquier capítulo o volumen, es obligatorio ejecutar:
+Antes de remitir los capítulos a la maquetación editorial, se debe auditar el texto con el protocolo [AUDITORIA_DE_FIDELIDAD.md](../../planificacion_global/AUDITORIA_DE_FIDELIDAD.md) y ejecutar los barridos automáticos:
 
 1. **Barrido Anti-Fugas de Nombres de Jugadores:**
    ```bash
@@ -98,6 +114,6 @@ Antes de dar por finalizada la redacción de cualquier capítulo o volumen, es o
 
 2. **Barrido Anti-Corrupciones Fonéticas del Audio (STT):**
    ```bash
-   grep -rnEi "\b(piedra del triunfo|deriva|Ring Rey|Kreel|Ferani Krane|Sociedad Starfinder)\b" novela/capitulos/*.md
+   grep -rnEi "\b(piedra del triunfo|roca del triunfo|Ring Rey|Kreel|Ferani Krane|Sociedad Starfinder)\b" novela/capitulos/*.md
    ```
    *(Debe dar 0 coincidencias; sustituir por Roca del Drift, Drift, Rim Rey, Marlene Boosmar, Ferani Nadaz e Inversiones Estelares).*

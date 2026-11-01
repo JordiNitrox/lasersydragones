@@ -1,0 +1,75 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,448
+  - Total párrafos: 221
+  - Correcciones automáticas Nivel 1 (Seguras): 31
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [21:30] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "...as cosas ayuda por favor rin Rey dice sí..."
+  [21:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...me pueda ayudar creo que Axel tiene yo un poquito sí p..."
+  [22:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e a quitarle la armadura Axel venga venga así por favo..."
+  [23:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... este juego más dos okay Axel sacó un 21 21 Okay Tri t..."
+  [25:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ero que algui tiro No sí Axel me ayuda a tratar el poi..."
+  [25:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a situación bajo control Axel triel los demás salgan d..."
+  [25:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dministran la antitoxina Axel ayuda s ayudó creo 20 o ..."
+  [28:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n los guantes tenía aquí Axel la enfermera la padre Ax..."
+  [28:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el la enfermera la padre Axel tuvo tiempo de ir a camb..."
+  [28:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... enfermera claramente no Axel tiene esa vara que cambi..."
+  [28:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ro valió la pena la pena Axel cuán sexy es el traje de..."
+  [30:58] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "... la mayor parte de la de rin Rey La Misión fue un éxito p..."
+  [32:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...alguien dice algo Axel eh en su traje enfermera..."
+  [32:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...riana esty o sea digamos Axel tiene mucho está ha pens..."
+  [32:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do lo que pasó ahí o sea Axel no hemos tenido tiempo t..."
+  [35:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar se acerca a triel y a Axel y vuelve dar Axel y esta..."
+  [35:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el y a Axel y vuelve dar Axel y estamos todas llenos..."
+  [35:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pero se pudo bien hecho Axel gra..."
+  [40:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...guiente día yo s digamos Axel luego de lo de gasit va ..."
+  [41:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... esto no lo suele sentir Axel porque su cuerpo no es t..."
+  [41:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te Donde usted se sienta Axel usted nota un corazón qu..."
+  [44:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es ese momento igual que Axel que llega ahí como a su ..."
+  [48:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ias le tocan la puerta a Axel igual está m dura un rat..."
+  [48:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o en atender yo creo que Axel o sea solo..."
+  [51:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...medicine Por cierto solo Axel al final no sé si rin Re..."
+  [51:49] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "... A.Xel al final no sé si rin Rey tiene que como..."
+  [52:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vez tiene igual que yo y Axel al parecer aún no sabe e..."
+  [56:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sma para empezar momento Axel Oh por..."
+  [57:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ando podamos desembarcar Axel Axel un sabes que me har..."
+  [57:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...podamos desembarcar Axel Axel un sabes que me haría se..."
+  [59:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nas Sí tres semanas dice Axel con TR semanas Sí cómo e..."

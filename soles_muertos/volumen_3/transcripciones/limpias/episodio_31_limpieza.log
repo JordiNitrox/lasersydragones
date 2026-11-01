@@ -1,0 +1,67 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,747
+  - Total párrafos: 236
+  - Correcciones automáticas Nivel 1 (Seguras): 27
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [11:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...chura de jocs finalmente axel decide que..."
+  [12:06] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...la nave explota cerca la piedra del drift justo en ese..."
+  [23:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... pudran esos protectores axel puerto 94 también capta ..."
+  [24:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...uando ustedes se acercan axel este empieza a recibir a..."
+  [29:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...yo lo veo yo es perfecto axel agarre la pichi se lo qu..."
+  [34:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...señorita axel 40 y todo verdad sí uste..."
+  [35:47] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...e había comentado a axel axel 42 ella sonríe como como tr..."
+  [35:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...omo le había comentado a axel A.Xel 42 ella sonríe com..."
+  [38:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cirles a ellos hola dice axel preocupada le pone la ma..."
+  [38:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... si quieres saber más de axel solo..."
+  [39:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...esperen las camisetas de axel que vamos a tener vamos ..."
+  [41:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...genes sobre todo mucho a axel y a él se le acercan con..."
+  [42:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...alo terrible yo creo que axel se lee con mucha gente..."
+  [42:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mo cómo se siente así 29 axel gusto y logra escaparse ..."
+  [43:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...educe se le desaparece a axel pero todo lo demás puede..."
+  [43:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pasa debajo de alguien y axel se mete como..."
+  [43:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...l póster de ella que que axel se vaya yo sé que no se ..."
+  [45:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...uito y voy a acompañar a axel un toquecito porque este..."
+  [48:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...entras tanto marc lock y axel están ahí un callejón vi..."
+  [52:40] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "...ítense muchachos y los y ring rey les grita a ustedes que ..."
+  [53:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tema de piratas marlon y axel ustedes van con ellos sí..."
+  [53:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...minutos firme como axel habrá comida gratis pode..."
+  [54:17] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "...está ring rey están ustedes cuatro los..."
+  [54:17] [NIVEL_1_SEGURO] 'ángel tus a él' -> 'Keltus'
+      Contexto: "...entado también cualquier ángel tus a él el del embajador gracias..."
+  [59:55] [NIVEL_1_SEGURO] 'rin rey' -> 'Rim Rey'
+      Contexto: "... un montón de gente está rin rey pero casi no hay hiso ke..."
+  [01:02:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel no tiene vómito dice el ..."
+  [01:04:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... que usted no quería que axel y les vieran nacer atenc..."

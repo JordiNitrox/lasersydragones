@@ -1,0 +1,37 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,313
+  - Total párrafos: 300
+  - Correcciones automáticas Nivel 1 (Seguras): 12
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [05:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de cualquier levanto con axel también más o menos pues..."
+  [05:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...también más o menos pues axel es como muy ecuánime com..."
+  [06:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...osa mala paz y en cambio axel es como dices eso es est..."
+  [17:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cerradura axel a un palo ting para acer..."
+  [27:30] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...q 4 dice ella es axel 42 él massa con la foto par..."
+  [46:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a y apunta con el dedo a axel como no es como lo mismo..."
+  [01:12:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rearmar la llave maya de axel bueno de bolita de queso..."
+  [01:12:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel todavía me falta tengo q..."
+  [01:14:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...te de hecho esto lo dice axel es curioso que es justo ..."
+  [01:19:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ica science 6 causaremos axel también tiene y tiró un ..."
+  [01:21:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e que es seguro aterricé axel ok..."
+  [01:22:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel llevemos suavemente un 2..."

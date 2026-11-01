@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,499
+  - Total párrafos: 260
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [18:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cuando axel se levanta puede ver que..."
+  [19:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ntengan la calma marlowe axel ustedes pueden oír perfe..."
+  [23:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mi primer tour no perdió axel usted está en esa agua s..."
+  [26:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nían eso gracias gracias axel dónde están dónde dónde ..."
+  [26:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lar ok gracias gracias a axel vamos por las cosas del ..."
+  [27:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a granada hágalo la gana axel axgil pasa encima de esa..."
+  [30:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ó al suelo ok digo voy a axel mary que todo mundo..."
+  [32:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ecoge el arma que le dio axel y poder moverme no no fu..."
+  [32:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o que lo que le lo quiso axel le..."
+  [33:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ial con mis dos acciones axel game bueno estando aquí ..."
+  [39:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...por ejemplo ok excelente axel que hace usted para cons..."
+  [47:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... hacer de todo y moverse axel yo hago delay a luego de..."
+  [57:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... par de pararlo muy bien axel y en él es el tiro 28 28..."
+  [58:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ago de daño y 36 decente axel ustedes para el puño se ..."
+  [01:03:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y axel yo voy a hacer un ingeni..."
+  [01:10:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...abierta de nuevo a axel de ahí yo persigo hasta ..."
+  [01:12:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...salir perdón ver rey 520 axel dólares mi sobrino tiene..."
+  [01:13:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ancera se queda viendo a axel bueno al menos esta sola..."
+  [01:14:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...quedó enfrente axel axel a usted la mujer va..."
+  [01:14:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...quedó enfrente axel axel a usted la mujer va corr..."
+  [01:18:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...18 de años se ve mal axel y se mal porque prefiero..."

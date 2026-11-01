@@ -1,0 +1,39 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,449
+  - Total párrafos: 249
+  - Correcciones automáticas Nivel 1 (Seguras): 13
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [17:01] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "... llamadas que ocurren en ring rey llamada ben rey..."
+  [18:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que quiera el cuchillo a axel cómo tratar de buscar la..."
+  [18:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...chaval o del cuchillo de axel si se le que una que una..."
+  [20:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...va hacia adelante axel a ustedes llega un mensa..."
+  [22:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ue dónde va pasando está axel haciendo eso con las arm..."
+  [25:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel escucha si se ve como un..."
+  [47:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...su pequeña investigación axel usted descubre otro deta..."
+  [58:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...equeño toque en la oreja axel como grupo y la empujó y..."
+  [59:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cuándo malo y axel que está pasando fortitu..."
+  [01:03:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...eso estoy de acuerdo con axel su madre murió en upton ..."
+  [01:07:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...zan le tocan el hombro a axel usted vuelve ver y es el..."
+  [01:11:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ntro muy alegre de verla axel estoy regocijado de pode..."
+  [01:12:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... eso o al menos no ahora axel quiero que pasemos..."

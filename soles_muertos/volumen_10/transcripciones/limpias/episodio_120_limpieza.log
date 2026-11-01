@@ -1,0 +1,59 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,975
+  - Total párrafos: 247
+  - Correcciones automáticas Nivel 1 (Seguras): 23
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de eso para recordar vox axel se había puesto un clon ..."
+  [15:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pronto creo que de hecho axel leche piel y ella ahora ..."
+  [15:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ella ahora está pegada a axel en las..."
+  [17:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... acaba de actuar y sigue axel y na pan y vino no quier..."
+  [21:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a sobrecargar el arma de axel pero..."
+  [22:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a el arma frente a usted axel dos veces la mueve a dio..."
+  [23:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...simbologías axel y háganse 75 puntos de b..."
+  [23:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...son 8 de 8 más 24 así es axel 75 wow no pensé que pudi..."
+  [26:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rá este el fin puede ser axel zombi cuando es que te t..."
+  [27:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... le pega con la espada y axel cae al piso frente a ell..."
+  [28:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s soldados y el hotel de axel caer es como triste pued..."
+  [31:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e esté bueno debe caer a axel y por momento teme haber..."
+  [34:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...el estándar es igual que axel tiene..."
+  [36:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a lentamente trata matar axel hacia el arma donde es e..."
+  [36:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel está usted tirada y esto..."
+  [36:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rse el culo usted debe a axel en el verde donde está..."
+  [38:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel sigue en el piso podría ..."
+  [44:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... y mates a rapa roverssi axel puede usted con él y ten..."
+  [45:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...camino escoger qué bueno axel hay un problema pequeño ..."
+  [46:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e las tira amar lo que a axel en respuesta réflex en h..."
+  [53:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... el balazo usted furiosa axel que saco mi gil um para ..."
+  [59:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... mina no con mucha adiós axel en frica ataca el soldad..."
+  [01:08:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mientras nos llaman axel intenta agarrar cuando s..."

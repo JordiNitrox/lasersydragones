@@ -1,0 +1,141 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,809
+  - Total párrafos: 470
+  - Correcciones automáticas Nivel 1 (Seguras): 64
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [01:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do oscuridad y como Fast Axel en algún..."
+  [04:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cir el nombre. Timote de Axel, o sea, Timote haciendo ..."
+  [04:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sea, Timote haciendo de Axel. Creo que lo puede..."
+  [04:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel tiene una energía más qu..."
+  [05:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...qué chido. Y juguetes de Axel que habrían las armas. A..."
+  [05:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sto. O sea, es eso sería Axel, digamos. Yo vendería..."
+  [06:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ho. Es como el sniper de Axel con ese botón el polclop..."
+  [06:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de Axel son muy nerfeables. Buen..."
+  [06:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eas, como sopa nisín con Axel y..."
+  [06:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel ahí como esta es mi sopa..."
+  [06:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sí. Yo no sé por qué veo Axel en una lonchera...."
+  [06:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... unas barras de yogur de Axel. Sí. Ah, sí. Bien bien g..."
+  [08:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... muchos outfits también. Axel podría tener una..."
+  [11:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en Axel que en que en Triel. Sí,..."
+  [11:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí, sí puede ser Axel. No, Roberto, esa madre ..."
+  [15:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Y veremos qué es lo que Axel ha estado esperando toda..."
+  [18:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ados. No esperaba menos. Axel estrellante está ahí tod..."
+  [18:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...electromagnetismo. Okay, Axel, cualquier cosa, confío ..."
+  [24:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Race en la pantaloneta. Axel se pone bloqueador en la..."
+  [25:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de ojitos más bloqueado. Axel va poniendo lo que le va..."
+  [26:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o vuelve, vuelve a ver a Axel. Vamos...."
+  [28:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ugar no es seco. Tal vez Axel ha visto un lugar..."
+  [28:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Charlotte va a la par de Axel. Su galvatros. Tiene que..."
+  [31:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...viendo a Axel y le dice, "Ahera, pensé..."
+  [31:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... soy Shera, mi nombre es Axel. Shera es la que habitab..."
+  [31:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o. Asente con la cabeza. Axel, ¿viene usted por su lib..."
+  [33:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ndolos y vuelven a ver a Axel y es como están como tod..."
+  [33:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...emás. En la estatua está Axel...."
+  [35:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Okay. Mar vuelve a ver a Axel cuando le dice eso, como..."
+  [35:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mo ah la guarda, ve ve a Axel. Es como no, yo creo que..."
+  [37:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...fue solo la instancia de Axel que fundó este lugar. H,..."
+  [37:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel tiene al menos unos 600 ..."
+  [38:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...42, tal vez, pero no sé. Axel es un hermoso nombre. Es..."
+  [38:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...starot. Qué buen nombre, Axel. Ese está mejor que el s..."
+  [39:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r respuesta sobre usted, Axel. Eso mismo. Bueno, puedo..."
+  [43:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...qué quiere decir que que Axel es mamá de todos ellos? ..."
+  [43:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...to 500. Yo he revisado a Axel..."
+  [44:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eden nacer. El cuerpo de Axel ha existido por 600 años..."
+  [47:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a de la misma versión de Axel...."
+  [48:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... reconstruyen o eso solo Axel. No, solo Axel. O sea, u..."
+  [48:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... eso solo Axel. No, solo Axel. O sea, ustedes son como..."
+  [55:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ea que creó el cuerpo de Axel tenía alguna razón, pero..."
+  [56:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nanits nuestros o los de Axel para que cree nuevas cop..."
+  [01:00:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rgo, sin embargo, aunque Axel técnicamente puede repro..."
+  [01:03:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dado que yo digo, bueno, Axel, o sea, hay una cantidad..."
+  [01:04:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., porque no son hijos de Axel en realidad, pero son hi..."
+  [01:04:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n estado en el cuerpo de Axel,..."
+  [01:06:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s instancias de quién es Axel. Y los demás a veces se ..."
+  [01:08:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ni sabe que el cuerpo de Axel puede reproducir. ¿Qué e..."
+  [01:10:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Triel aprendió a curar a Axel con engineering, yo digo..."
+  [01:10:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...he aprendido a a curar a Axel, inclusive con mis herra..."
+  [01:11:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ¿Ustedes recuerdan a la Axel araña que estaba en el e..."
+  [01:11:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s eran como los hijos de Axel. Sí, eran los hijos de A..."
+  [01:11:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l. Sí, eran los hijos de Axel. Sí, eran porque el proc..."
+  [01:12:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ese es el Lo hizo. Ni a Axel, temendo que llegara...."
+  [01:13:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...injusta. y sentía que Axel tenía derecho a saber, p..."
+  [01:13:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ería mucho a Shera, pero Axel no, pero..."
+  [01:13:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ueno, ¿y usted qué cree, Axel?..."
+  [01:16:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a a tratar de obligarla, Axel. Creo que ella va a trat..."
+  [01:17:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sabilidad está en usted, Axel. ¿Qué hacer ella con la ..."
+  [01:18:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...i llegara el momento que Axel pudiera elegirlo, lo har..."
+  [01:19:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...d quiere contarle a Nul, Axel, yo la apoyo y si ella n..."
+  [01:21:05] [NIVEL_1_SEGURO] 'Axel 42' -> 'A.Xel 42'
+      Contexto: "...Axel 42, usted al final de todo ..."
+  [01:23:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...episodio. Axel tiene cosas entre manos ..."

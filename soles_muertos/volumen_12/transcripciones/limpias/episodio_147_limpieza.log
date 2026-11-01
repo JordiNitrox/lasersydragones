@@ -1,0 +1,111 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,339
+  - Total párrafos: 296
+  - Correcciones automáticas Nivel 1 (Seguras): 49
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Pero vieron cuando quedó Axel atrapada ajá No fue una ..."
+  [16:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...por qué y Axel había sabido creo que co..."
+  [17:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ven una escena en la que Axel quedó detrás de una pare..."
+  [19:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...por fin triel 11 no pasa Axel claramente 14 no..."
+  [20:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uar en el round sorpresa Axel y triel no surprise V us..."
+  [21:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y aquí es donde está la Axel crepy no la hemos visto ..."
+  [21:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Dios Okay 14 24 Oh Axel también 24 salgan de la ..."
+  [21:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 20 dos 20 Okay entonces Axel que 20 más..."
+  [22:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...le de la esquina triel y Axel están flat Fed Axel flat..."
+  [22:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el y Axel están flat Fed Axel flat F usted recibe un a..."
+  [25:23] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...es que vimos en el en la piedra del drift el mae con el traje espa..."
+  [25:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...na hacia donde está este Axel y benry lado izquierdo e..."
+  [27:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...go este todos atentos Ah Axel triel a ver Despierten a..."
+  [28:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... romántica necro extraña Axel y triel ustedes no lo ve..."
+  [30:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... empezó el que le pegó a Axel esa cosa que queda como ..."
+  [31:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...confundido Axel usted capta finalmente q..."
+  [32:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...When Axel usted está en tangle en ..."
+  [34:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...odo lo que puede hacer y Axel dice sabes qué me voy a ..."
+  [35:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s a benry confundido y a Axel envestido..."
+  [36:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y como move eh voy a eh Axel necesita que la cubra po..."
+  [36:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...me pongo al frente a a a Axel haciendo como un murito ..."
+  [37:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el que está más cerca de Axel digamos sobrecarga el..."
+  [44:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...izado será el corazón de Axel Oh no será el de bueno n..."
+  [44:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de metal diría que es de Axel tal vez pero Axel no es ..."
+  [44:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... es de Axel tal vez pero Axel no es de metal no per..."
+  [45:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Pablo que si al rato de Axel se hizo un razer doll y ..."
+  [46:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nuevo dele y concéntrate Axel concéntrate tristemente ..."
+  [46:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ido eh es 42 exactamente Axel..."
+  [47:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o estrellitas espaciales Axel standar action se..."
+  [50:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...argues cargar el arma de Axel con mi move action mm en..."
+  [50:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... move action mm entonces Axel pegaría un dado se extra..."
+  [53:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...suyo Axel muévase a todos yo yo so..."
+  [55:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ngrando s lo distrae uno Axel usted escucha voces en s..."
+  [57:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo logra no hay problema Axel Oh muy bien dos puntos d..."
+  [01:03:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...atura más cercana que es Axel que Axel esté viva enton..."
+  [01:03:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... cercana que es Axel que Axel esté viva entonces ataco..."
+  [01:07:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os corazones corre hacia Axel por la espalda mete a cu..."
+  [01:09:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...i con otro critical bajo Axel ot turn ya en la corren ..."
+  [01:13:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...on vestido ahí está el D Axel con vestido pero la arma..."
+  [01:13:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ustedes escogen de hecho Axel me daño Solo por existir..."
+  [01:16:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... emocional los clones de Axel un montón..."
+  [01:16:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de Axel abrazando estás haciendo..."
+  [01:17:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a visto que se hace pero Axel la mordió Axel la mordió..."
+  [01:17:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hace pero Axel la mordió Axel la mordió sí es cierto e..."
+  [01:21:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a me queda solo un round Axel hag hace dos puntos más ..."
+  [01:21:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dos puntos más de años y Axel estaba born también buen..."
+  [01:22:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... aprovechar para curar a Axel si es que no la no la ha..."
+  [01:22:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sa araña y voy a curar a Axel son 18 puntos de esta mi..."
+  [01:22:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...puntos de esta mina para Axel Ah bueno disparar entonc..."

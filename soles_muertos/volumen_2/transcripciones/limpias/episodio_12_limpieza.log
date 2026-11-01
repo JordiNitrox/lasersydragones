@@ -1,0 +1,31 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 8,906
+  - Total párrafos: 223
+  - Correcciones automáticas Nivel 1 (Seguras): 9
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [07:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... dibujito de demarchi de axel y deben rey entonces por..."
+  [09:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...iados skills yo creo que axel va a ser muy buena siend..."
+  [11:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ace en todo el año ahora axel si pasa no se hace nada ..."
+  [16:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s hologramas puede hacer axel ahora y bueno para los q..."
+  [32:28] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n droides si se acerca a axel al tenis game el oficial..."
+  [43:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ratito él se le acerca a axel noto que..."
+  [43:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...le dice axel antes de irnos ella la a..."
+  [58:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... cantando a la pura para axel o quiere ir a ver quién ..."
+  [01:09:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... prendas colores es como axel dígale algo malo que ust..."

@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 8,687
+  - Total párrafos: 330
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [02:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tos tiene? Tengo yo. No, Axel...."
+  [02:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Ah, okay. No tiene boti..."
+  [02:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... diría que el clásico de Axel sería como unos botines ..."
+  [13:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel está barriendo las naves..."
+  [30:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y Axel, que están afuera, vuelv..."
+  [32:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, ¿qué está pasando? Creo..."
+  [32:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se. Eh, creo que tal vez Axel dijo que estaba en la na..."
+  [34:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pas Axel, la afectó la algo está ..."
+  [38:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vamos, Axel. Sí, parece que la sigui..."
+  [40:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, le llegga un mensaje. E..."
+  [42:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s como cierro la bar yo. Axel Shirca, llévenos a la na..."
+  [47:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tura sigue siguiéndolos. Axel, usted está como distraí..."
+  [47:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Y ustedes avanzan. Axel, usted ve un punto como ..."
+  [49:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel tiene que evadir todo es..."
+  [49:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se ocupe para ayudarle a Axel a a maniobrar...."
+  [50:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omo como puedo alentar a Axel, también voy a alentar a..."
+  [50:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Eh, 35. Tercer éxito, Axel. El DC suyo está bastant..."
+  [50:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o extrañaba, pero vamos, Axel suda...."
+  [54:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tinta, pero flota como y Axel, usted se levanta y uste..."
+  [55:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uena una voz en general. Axel, creo que esto es una si..."
+  [57:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l, o sea, eh los piratas Axel. La afectó la algo...."

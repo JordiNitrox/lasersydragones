@@ -1,0 +1,63 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,437
+  - Total párrafos: 278
+  - Correcciones automáticas Nivel 1 (Seguras): 25
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [24:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mpecemos alfabéticamente axel tiene me fortitude tiene..."
+  [24:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... el moma yo estoy muerto axel usted se empieza a senti..."
+  [25:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e más dos esto es porque axel eso nada ha obligado a t..."
+  [25:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... que es una enfermedad y axel al ser un android tiene ..."
+  [25:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...os ha ido como huyendo y axel es prácticamente biológi..."
+  [27:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a ido pero pero marlon y axel se sienten enfermos yo e..."
+  [28:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ero pero una extraña que axel también sienta cosas par..."
+  [29:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...se da cuenta que axel y marc lo que están enfe..."
+  [41:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... lo mismo que quemarlo y axel pero se veían mucho más ..."
+  [47:20] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...uy honorable de su parte axel 42 podría usted participar ..."
+  [56:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... gert y yo le pregunto a axel cómo axl pueden revisar ..."
+  [01:04:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o si les goles por favor axel no diga esas cosas vamos..."
+  [01:06:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y a tirar un dado y para axel imparte mayor marc ok ma..."
+  [01:09:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...no puede serlo pues axel si puede hacer algo por ..."
+  [01:09:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tratamos de curar a axel sin embargo el señor mar..."
+  [01:10:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ya hemos gastado todas y axel está peor no podemos baj..."
+  [01:10:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... místico para que cure a axel y requirió bastante disc..."
+  [01:12:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...favor presentamos a axel por dios no sabía que un..."
+  [01:13:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...te tiende la mano toca a axel y axel se siente de pron..."
+  [01:13:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de la mano toca a axel y axel se siente de pronto súpe..."
+  [01:15:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o nos fuimos en esa nave axel me alegra que se sienta ..."
+  [01:17:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cual dirigiremos al ala axel que tenemos en vez de es..."
+  [01:23:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y obviamente sin embargo axel usted..."
+  [01:26:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...se acercan a esa entrada axel dispara y ustedes ven do..."
+  [01:27:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...stro muy bien y fue duro axel si puedo hacer algo por ..."

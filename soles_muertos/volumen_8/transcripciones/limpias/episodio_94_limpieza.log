@@ -1,0 +1,85 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,969
+  - Total párrafos: 271
+  - Correcciones automáticas Nivel 1 (Seguras): 36
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... kim y algo así avn reía axel es como miren estas cosa..."
+  [22:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ros claro claro muy bien axel ok cuál es el bueno diga..."
+  [23:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tá cerrada un el proceso axel y tech magic para ver si..."
+  [23:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ayúdeme axel usted que tiene mejor pe..."
+  [23:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nes saque malísimo 32 ok axel usted revisa la caja fue..."
+  [38:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cepción en 20 lateral de axel y hey que les voy a cont..."
+  [39:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...te parece que detrás mío axel y los otros dos chicos v..."
+  [40:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nos callejones ven rey y axel escuchan..."
+  [42:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tiva 10 10 para three el axel y me deis a 16 mar..."
+  [44:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ace en el round sorpresa axel esto solo es un no puede..."
+  [45:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...falla axel no quiere tirar un nolet..."
+  [46:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rente si le dio el toque axel es siempre que alguien s..."
+  [46:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...elocidad hacia ven rey a axel morirá..."
+  [50:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o un escudo y rodeando a axel..."
+  [54:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...iere hacer que los que y axel no se movió por cierto n..."
+  [55:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...puso axel porque le pone algún efe..."
+  [57:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n sólo acercarse a usted axel también está en el área ..."
+  [01:00:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... volvió a ver con odio a axel se lanza hacia ella cruz..."
+  [01:01:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...as le pegan en el cuello axel..."
+  [01:01:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... yo hoy después de usted axel qué tal si si usted quie..."
+  [01:02:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... gusta me gusta entonces axel espera un momento y uste..."
+  [01:02:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tenía los primeros 20 de axel entonces..."
+  [01:02:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rtunidad a flanquear con axel y va a atacar recto y ya..."
+  [01:03:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...edras como de gravedad y axel está ahí en frente enton..."
+  [01:08:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...hace la duda entonces yo axel tiene pulmones pero pued..."
+  [01:09:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...té lo no tiene un lado a axel le digo como axel siempr..."
+  [01:09:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lado a axel le digo como axel siempre supe..."
+  [01:12:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel y gert y da un paso haci..."
+  [01:12:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e año la criatura agarra axel lo trata de agarrarla po..."
+  [01:19:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ura que está a la par de axel da otro pasito da un pas..."
+  [01:20:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...interés y 32 un cartucho axel hágase 14 puntos de daño..."
+  [01:20:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel axel esperaron critican ..."
+  [01:20:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel axel esperaron critican tambi..."
+  [01:21:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...los está flanqueando con axel otra vez pero fuente nat..."
+  [01:22:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...vamos 30 con el cuchillo axel de escribas como martín ..."
+  [01:23:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ca la vuelve a ver usted axel como un odio vuelve vera..."

@@ -1,0 +1,65 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,469
+  - Total párrafos: 256
+  - Correcciones automáticas Nivel 1 (Seguras): 26
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... frente con el residente Axel tiene a sus pies Ah De h..."
+  [16:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iel en el piso pero no a Axel Axel se puede ir y llega..."
+  [16:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n el piso pero no a Axel Axel se puede ir y llega exac..."
+  [16:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rla también sí Ah muerde Axel trabajo en equipo eh 18..."
+  [16:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... no pasó nada Solo falló Axel mastero estoy luchando c..."
+  [17:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ayuda Ah bueno Axel hágase dos puntos de dañ..."
+  [17:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...daño y creo que acaba el Axel apoya triel yo me encarg..."
+  [21:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pegar 1 dos 3 le pega a Axel puede ser un 2 3 cu está..."
+  [25:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en serio sí como 20 años Axel sí Okay voy a hacer tric..."
+  [27:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ñ al chiquititos eso fue Axel c tien es a está encima ..."
+  [33:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ran grupo de alquimistas Axel Oh ataco a esa Araña que..."
+  [35:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a sobrecargar el arma de Axel dele y bueno diti a ver ..."
+  [36:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l zombi del ya entre que Axel tiene que poder matar es..."
+  [36:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y flanqueando Eso sí con Axel Ah sí 18 18 pega porque ..."
+  [36:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o justamente por eso con Axel Sí ya cómo está en la mi..."
+  [38:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te el tiempo básicamente Axel Ok ataco con de nuevo si..."
+  [41:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la cabeza en este cuarto Axel no sé si sea una gran id..."
+  [45:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pasó una vez Ah bueno Sí Axel Usted es la mejor piloto..."
+  [45:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...on ellos pero siento que Axel está ahí con su cortada ..."
+  [46:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...compañan perist Sí claro Axel se pone a jugar con la p..."
+  [47:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mportant mon un montón a Axel le quité estam mina pero..."
+  [58:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la Vega no sé si lo notó Axel es del mismo Dios que us..."
+  [01:01:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...gico sí puedo hablar con Axel puede hablar con Axel o ..."
+  [01:01:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...on Axel puede hablar con Axel o con gerty o con..."
+  [01:01:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...yo podría decirle algo a Axel Ajá Sí para actuar sabem..."
+  [01:06:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...acial Sofía esta pequeña Axel se la entrega la leo yo ..."

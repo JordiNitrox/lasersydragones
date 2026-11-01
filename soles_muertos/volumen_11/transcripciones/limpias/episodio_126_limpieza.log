@@ -1,0 +1,35 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,978
+  - Total párrafos: 315
+  - Correcciones automáticas Nivel 1 (Seguras): 11
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [25:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...engo una idea cortamos a Axel a la..."
+  [27:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...onstitución técnicamente Axel es muy buena tomando Sí ..."
+  [27:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... como que sería algo que Axel mal interpretaría al ini..."
+  [27:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...enemos que tener cuidado Axel..."
+  [28:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cep tomas 15 20a natural Axel usted dónde está convers..."
+  [32:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eza m seis Okay entonces Axel decidió por algún motivo..."
+  [47:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y Por cierto a todo esto Axel usted sigue en la puerta..."
+  [59:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... me acerco ligeramente a Axel y le digo tiene el unifo..."
+  [01:08:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s extrañas del casino eh Axel se infiltró con un traje..."
+  [01:09:59] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...como escuchó usted de la piedra del drift que llegó a a absalon..."
+  [01:10:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e de esmara El origen de Axel y restaurar mi canal sal..."

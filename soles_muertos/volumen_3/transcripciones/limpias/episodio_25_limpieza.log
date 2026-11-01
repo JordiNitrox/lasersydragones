@@ -1,0 +1,33 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 8,755
+  - Total párrafos: 208
+  - Correcciones automáticas Nivel 1 (Seguras): 10
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nosotros esos 30 minutos axel usted como esta vida ust..."
+  [20:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nto a que lo que tiró de axel es física 16 física en d..."
+  [20:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...abe que también hay este axel y ariel saben que existe..."
+  [30:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o lo tenemos entonces es axel cuando usted da vuelta c..."
+  [32:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ena así si ya tenemos 88 axel emocionante 11 31 más em..."
+  [36:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e 4 + 25 muy bien y ya y axel qué tal si hay algo más ..."
+  [44:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ujetar me estoy flotando axel obligatoriamente se muev..."
+  [50:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel se mueve 15 pies queda c..."
+  [57:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...x 2 y finalmente axil 18 axel y 3 pero especialmente 3..."
+  [01:05:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...se dinero sin simple era axel a los ojos porque ustede..."

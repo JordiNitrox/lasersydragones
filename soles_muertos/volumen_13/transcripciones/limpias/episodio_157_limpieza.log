@@ -1,0 +1,31 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,713
+  - Total párrafos: 227
+  - Correcciones automáticas Nivel 1 (Seguras): 9
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [20:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...una pasa la par de Axel y usted ve como un rostr..."
+  [26:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...también Axel cuánto sac con Stealth Y..."
+  [35:06] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...los que estuvieron en la piedra del drift la espiral está hecha de..."
+  [35:06] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...stedes encontraron en la piedra del drift en la misma arquitectura..."
+  [35:36] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...reo se parece mucho a la piedra del drift que si recuerdan se acue..."
+  [35:36] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...e la descubrieron que la piedra del drift tenía Como algunos corre..."
+  [49:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la Axel eh activo mis clones est..."
+  [50:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ctivar los clones eso es Axel coc este vamos primero q..."
+  [57:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uevo Oh no igual lo Fall Axel 20 algo o sea..."

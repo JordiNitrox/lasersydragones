@@ -1,0 +1,67 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,340
+  - Total párrafos: 226
+  - Correcciones automáticas Nivel 1 (Seguras): 27
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [13:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel porque está en el mismo ..."
+  [15:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dio de como en frente de Axel va en retaguardia entran..."
+  [16:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...todo detrás donde está Axel para atrás es terreno su..."
+  [20:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...esen r Axel y mueva su miniatura eh ..."
+  [21:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lgún otro lado o similar Axel está en frente de la pue..."
+  [24:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...riba al mismo tiempo que Axel siente algo como en su e..."
+  [24:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... usted vuelve a ver ve a Axel y ve como una sombra enc..."
+  [24:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omo una sombra encima de Axel inmediatamente vuelve a ..."
+  [25:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...25 Axel 20 natural por un total ..."
+  [26:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...les y se abalanzan sobre Axel y benrey y tienen una ac..."
+  [27:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mos porque no las vieron Axel creo que usted no pede e..."
+  [28:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s vgas 21 puntos de daño Axel 38 también sacó 19 seado..."
+  [28:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...m color piel sin ojos en Axel está usted agarrada está..."
+  [29:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r ataques de oportunidad Axel..."
+  [33:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ente que estaba frente a Axel se escurre hacia ella Oh..."
+  [38:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te que está peleando con Axel es como Dime un momento ..."
+  [38:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...escaparme con acrobatics Axel sacó un 32 y se escapó..."
+  [46:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...riesgarme voy a atacar a Axel de nuevo sería un 30 sí ..."
+  [54:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...piente se abalanza hacia Axel sin moverse se estira co..."
+  [55:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iene por mí Ah no agarró Axel se alejó un poquito buen..."
+  [57:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de pegar y voy a curar a Axel con estamina a Axel hici..."
+  [57:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar a Axel con estamina a Axel hicieron daño es último ..."
+  [57:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo otra vez le digo como Axel Muy bien hecho muchas gr..."
+  [01:00:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a moverme a estorbarle a Axel..."
+  [01:02:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...guantan estos serpientes Axel empezó..."
+  [01:03:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...roper disparando eso fue Axel hago Tri att Don desde a..."
+  [01:03:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue apenas es el turno de Axel pero como está la parte ..."

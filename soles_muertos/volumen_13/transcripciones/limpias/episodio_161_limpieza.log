@@ -1,0 +1,105 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,716
+  - Total párrafos: 327
+  - Correcciones automáticas Nivel 1 (Seguras): 46
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [07:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...qué aprendió Axel ahora Bueno yo agarr tri..."
+  [12:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nces si yo se lo pusiera Axel ya tendría un más dos al..."
+  [14:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el que si es para m dice Axel si este no es el momento..."
+  [14:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ntonces cuándo excelente Axel creo que usted debería t..."
+  [15:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel por algún motivo ese día..."
+  [15:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...día que salió el mensaje Axel Axel es Axel no usa su p..."
+  [15:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue salió el mensaje Axel Axel es Axel no usa su produc..."
+  [15:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... el mensaje Axel Axel es Axel no usa su producto Axel ..."
+  [15:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Axel no usa su producto Axel quiere vender esa cocaín..."
+  [15:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... vender esa cocaína pero Axel está en contra de las dr..."
+  [15:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el gico aquí entrego una Axel cita de Estrellita porqu..."
+  [15:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ita de Estrellita porque Axel es una Estrellita Yo ten..."
+  [16:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a nave en el momento que Axel..."
+  [16:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...idadamente estamos inten Axel sin sin ningún tapujo le..."
+  [20:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ien fue una confusión de Axel Usted sabe que Axel es u..."
+  [20:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n de Axel Usted sabe que Axel es un poco errática errá..."
+  [21:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Yo le digo como Dígale a Axel que no necesita pilotear..."
+  [21:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cesita pilotear como que Axel no V hacir nada castea s..."
+  [21:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ventualmente vo a ver si Axel está bien dice se va Yo ..."
+  [21:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel cuando llego de hecho es..."
+  [21:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ensa estoy un poco tensa Axel otra vez le casteo el be..."
+  [22:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...para mencionar el nombre Axel Axel les dice Está bien ..."
+  [22:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mencionar el nombre Axel Axel les dice Está bien pero..."
+  [22:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... estoy hablando solo con Axel Axel..."
+  [22:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y hablando solo con Axel Axel..."
+  [32:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ene un ocho en fortitude Axel o sea seis eh 24 24 es o..."
+  [39:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...misticismo sin embargo Axel lo se puede tirar mistic..."
+  [39:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ban ahí incluyendo el de Axel se liberaron Okay todos ..."
+  [41:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel ahí Pero supongo que ha ..."
+  [42:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted y a mí Axel y él se borró la memoria..."
+  [44:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...capaz de abandonarla así Axel y aunque se haya borrado..."
+  [47:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sualmente en la calle sí Axel y yo parece que tenemos ..."
+  [52:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...si Axel si este corazón que tene..."
+  [52:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ono 14 en la despensa eh Axel usted va Voy por el cora..."
+  [52:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... su cuarto suena una voz Axel dice la..."
+  [53:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el momento más apropiado Axel me tienen..."
+  [57:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ta específicamente sobre Axel sobre cómo fue hecha o a..."
+  [58:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tivamente yo pensé bueno Axel y yo quedamos que íbamos..."
+  [01:12:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tes y las estructuras de Axel es hecha de materiales p..."
+  [01:13:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nos de los materiales de Axel han decaído de un estado..."
+  [01:14:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...odría confirmar que esta Axel viene de otra dimensión ..."
+  [01:15:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ctamente los patrones de Axel o sea para ser tan disti..."
+  [01:16:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pecialmente a ver porque Axel sí tiene sí tiene físic ..."
+  [01:16:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eno Permítame explicarle Axel está disfrazada de cient..."
+  [01:22:22] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...todos no hubiéramos a la piedra del drift no hubiéramos descubiert..."
+  [01:28:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...existió esa Axel ya ese mundo no existe e..."

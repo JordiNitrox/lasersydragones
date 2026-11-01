@@ -1,0 +1,137 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,669
+  - Total párrafos: 314
+  - Correcciones automáticas Nivel 1 (Seguras): 62
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [02:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...relevantes de axel cuales esos momentos fav..."
+  [03:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aire cual en el que está axel volviendo a las bolsas l..."
+  [03:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...escena es de axel y otra fue cuando comenz..."
+  [04:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... tan inesperado pero tan axel que yo dije si éste es u..."
+  [04:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...quedaron fríos y axel nada más así la sobrecog..."
+  [05:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...los chistes que axel hace me ha gustado el de..."
+  [05:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... personaje que ha tenido axel porque me gustó que pasó..."
+  [06:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...no hablamos de esto pero axel fue como porque como muy..."
+  [06:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... irene dijo que bien que axel hizo lo que hizo porque ..."
+  [06:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ido pie para hablar pero axel se lo dio pero de verdad..."
+  [07:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...digamos axel tiene intervenciones gra..."
+  [07:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e tratar de hacer algo y axel dijo bueno hablar con es..."
+  [08:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lvieron por donde vino y axel fue que no debí haber pl..."
+  [08:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e es que no todo esto en axel y es esto lo cual me hiz..."
+  [09:04] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "... vengo a hacer amigos de axel 42 siempre me echo en asia ..."
+  [09:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... moment es un momento de axel que aún no ha ocurrido p..."
+  [09:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...momento que axel y sofía y roberto están ..."
+  [09:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... y entonces cada vez que axel llega y es que no no no ..."
+  [09:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ido escalando más en que axel aún no quiere aceptar qu..."
+  [10:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la relación entre noel y axel a mí me ha gustado porqu..."
+  [10:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...hay axel por eso está como martín..."
+  [11:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...na gente habló de esas y axel de sus momentos de esas ..."
+  [13:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ara sofía como jugador a axel siempre siguen con un pe..."
+  [14:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e usted ahora siento que axel tiene más una voz que an..."
+  [14:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ra que hemos recordado a axel y todo lo que ella fue y..."
+  [18:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nque tengo la pistola de axel no que derrite gente yo..."
+  [18:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...léticos aquí yo tengo 18 axel cree yo tengo tengo un 1..."
+  [19:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... brazo ok suena ok usted axel ve el cuerpo de bertie y..."
+  [20:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sparó con esa pistola ok axel tire su atletics 25 25 3..."
+  [20:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y entre los dos álamos y axel arranca el brazo..."
+  [20:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...da con la espada la mano axel..."
+  [21:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o mis últimas palabras a axel todavía no guerty bastan..."
+  [23:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a el sniper y se lo da a axel final de ella ok vaya ar..."
+  [27:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o bien no me preocupa ni axel ni humo ni trial porque ..."
+  [27:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... con tu título usted cae axel y usted empieza a observ..."
+  [29:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... a que linda me agarra a axel del hombro y la vuelve a..."
+  [29:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... sé qué tan alto pero de axel sin saber que cuánto hab..."
+  [30:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...el establo es correcto y axel y bomba va a empezar a e..."
+  [35:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...an mientras tanto umac y axel disparan a cámaras tiene..."
+  [39:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ubicar acercándose axel puma que siguen en su co..."
+  [39:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ando otra cámara 22.15 a axel sacando puntos falla la ..."
+  [43:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o de apartamento pumas y axel últimos dos disparos que..."
+  [50:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...an llegar a la mano como axel le toma un tiempo como p..."
+  [58:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... y lo reproduce al revés axel escuchando algo diferent..."
+  [58:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...scuchando algo diferente axel axel no es no es una una..."
+  [58:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ando algo diferente axel axel no es no es una una espí..."
+  [59:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel como el peor detective d..."
+  [01:01:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ción que está poniendo a axel otra vez déjenme escucha..."
+  [01:13:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ndo atrás por la ventana axel se acerca el marco de la..."
+  [01:15:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...claro axel usted ve para arriba y p..."
+  [01:16:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...si sería más lento bueno axel haría acrobatics sí sí i..."
+  [01:18:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...bajo y dos arriba cuando axel axel y ven rey llega al ..."
+  [01:18:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y dos arriba cuando axel axel y ven rey llega al tope ..."
+  [01:20:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ito 1 de la noche acz 20 axel axel estaba viendo que e..."
+  [01:20:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... de la noche acz 20 axel axel estaba viendo que estaba..."
+  [01:21:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... edificio reflex 20 pero axel usted puede ayudarle o p..."
+  [01:22:28] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...suyo axel usted ve que ven rey se ..."
+  [01:23:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...morir ustedes logran ver axel y ven rey que él..."
+  [01:25:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel usted que hace él logró ..."
+  [01:28:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...te dónde estaba en rey y axel común acrobatics con ben..."
+  [01:29:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...deben rey mientras que axel está observando donde lo..."
+  [01:32:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...marco maravilloso 6 axel e un hacha vendré y uste..."

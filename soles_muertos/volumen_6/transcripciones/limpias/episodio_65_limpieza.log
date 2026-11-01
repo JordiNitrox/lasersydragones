@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,099
+  - Total párrafos: 302
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [20:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ar cuando ustedes llegan axel hasta les..."
+  [22:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e esté asumiendo mal que axel se llevó la foto que est..."
+  [26:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...te aparentemente la otra axel del pasado era más fotog..."
+  [27:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... haber sido antes de que axel asumiera este cuerpo per..."
+  [27:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que conociera en un 9 ya axel de 9 y es que leer se co..."
+  [28:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... y ahora había una nueva axel entonces tal vez cuando ..."
+  [28:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nueva axel es como ok no me esperab..."
+  [31:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ed conoció a la madre de axel que se puso súper incómo..."
+  [36:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...escondidos de la vida de axel y no nueve que pueden sa..."
+  [36:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...interesante perdón axel no quiero ser insensible..."
+  [37:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...amos a absalón y que soy axel se va a bañar y no duerm..."
+  [37:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a dormir va a hablarle a axel cuando está sola y ella ..."
+  [37:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...está sola y ella le dice axel puedo preguntarle algo e..."
+  [40:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... volver y yo no entiendo axel porque porque no importa..."
+  [42:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... camarote fui a verlo de axel que nos llamó yo ahora y..."
+  [47:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel sin embargo si nota algo..."
+  [55:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...eves que ustedes duermen axel recuerda momentos de su ..."
+  [57:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...provechado antes pero ok axel tiene pelucas siento que..."
+  [01:15:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...venimos a comprar drogas axel que [&nbsp;__&nbsp;] ha ..."
+  [01:23:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s difíciles de controlar axel este se da cuenta que es..."
+  [01:26:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...as nuestros asientos que axel comería de lado porque e..."

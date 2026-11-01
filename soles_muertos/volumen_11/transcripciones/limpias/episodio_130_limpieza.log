@@ -1,0 +1,89 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 14,780
+  - Total párrafos: 360
+  - Correcciones automáticas Nivel 1 (Seguras): 38
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...grupo que es un grupo es Axel y benrey que van en en o..."
+  [16:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...voca y pone Ben benrey y Axel y le pone un circulito a..."
+  [17:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...buchean Oh no es lo tuyo Axel es tu..."
+  [38:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ugando gol tan divertido Axel tiene un piloting y desp..."
+  [38:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oting y después benrey y Axel tiran un reflex nos cayó..."
+  [39:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Sí sí eh piloting okay Axel ahora en este momento te..."
+  [41:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el vehículo da un Plus 3 Axel..."
+  [42:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a segunda vuelta como Ay Axel Axel les..."
+  [42:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...unda vuelta como Ay Axel Axel les..."
+  [42:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...parece Axel 24 Okay entonces les cue..."
+  [43:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s piratas van de octavos Axel va de novena Oh por Dios..."
+  [48:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar Aquí hay muchos vamos Axel 4 avanza dos muy bien Ax..."
+  [48:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el 4 avanza dos muy bien Axel despacio y..."
+  [49:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ercenarios van de quinto Axel va de sexto ahora..."
+  [52:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...2 cae dos puestos dos Ju Axel Okay 12 + 21 Okay 33 en ..."
+  [57:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...onces sí 23 casi pero no Axel es momento de empezar a ..."
+  [58:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...triel en cuarto lugar va Axel bien muy bien después el..."
+  [01:02:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel 29 Todo en orden Entonce..."
+  [01:03:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... de no perder Los checks Axel En tercer lugar constant..."
+  [01:07:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os que van a la mitad va Axel el asbar y el medio elfo..."
+  [01:08:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...normal o sea la tira Axel no yo la tira Axel no us..."
+  [01:08:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... tira Axel no yo la tira Axel no ust también tiene ini..."
+  [01:08:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iran iniciativa triel 17 Axel 22 benry 26 caballeros 1..."
+  [01:08:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...18 El Mago por debajo de Axel bueno El Mago ya saben q..."
+  [01:12:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...estén detrás o sea Axel Incluyendo a sus enemigo..."
+  [01:13:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pasa a la sección tres Axel Qué acción hace usted Yo..."
+  [01:18:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...afecta el gerem del solo Axel o a todos los aliados a ..."
+  [01:19:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Pero él él no hace nada Axel yo aprovecho ese para di..."
+  [01:26:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que como ellos Gonzalo y Axel son tan buenos que..."
+  [01:27:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te los demás sí sí y que Axel llegue primera real a ga..."
+  [01:28:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e por el techo junto con Axel Uh Oh ese va a pasar no ..."
+  [01:28:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... mercenarios van a ser y Axel Qué raro..."
+  [01:29:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o estamos triel y guerty Axel y..."
+  [01:31:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...le dispara para variar a Axel y a..."
+  [01:31:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vehículo Oh No tranquila Axel nada más marl tiene que ..."
+  [01:34:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e está fuera del combate Axel yo tiene el de Hay que a..."
+  [01:36:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Por cierto yo le digo a Axel y a benry que como yo vi..."
+  [01:40:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a al vehículo de ustedes Axel y una pistola de mano es..."

@@ -1,0 +1,89 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,216
+  - Total párrafos: 318
+  - Correcciones automáticas Nivel 1 (Seguras): 38
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [03:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ocurre en nivel nu para Axel Bueno mi la cantidad de ..."
+  [13:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... voy a hacerle nada malo Axel pero podría ser podría s..."
+  [14:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... un Will Cuál es su Will Axel o Y eso Si alguna vez me..."
+  [14:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...í sí bastante bien o sea Axel ocupa un un 12 para pasa..."
+  [14:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rlo digamos alguien como Axel y si saca un dos queda c..."
+  [15:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...como la de Axel small Arm no es un rifle..."
+  [15:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ola nueva que me imagino Axel va a agarrar Entonces ta..."
+  [15:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...negociación ahí s o Axel va a seguir acumulando p..."
+  [16:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que benrey tiene el arco Axel obviamente va a querer l..."
+  [20:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y hubo muchas veces que Axel no usó tricat cuando sí ..."
+  [24:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el culto del devorador y Axel le pidió a Charlotte Cha..."
+  [28:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pero Axel no sabe eso Sofía piensa..."
+  [28:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sí yo creo que más bien Axel sería Ah Es triel me ha ..."
+  [28:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... no le haría nada malo a Axel o sea yo ya no confío en..."
+  [35:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sted otro él es amigo de Axel recuerda ese es el probl..."
+  [36:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hao un problema dado que Axel es amiga de null no está..."
+  [40:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...como un hermano menor de Axel ahora algo así tal vez é..."
+  [42:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omputer Entonces digamos Axel está ahí..."
+  [47:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pués aunque recuerde que Axel tiene un Jetpack que pue..."
+  [47:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ay pero Axel Axel es es la la mejor p..."
+  [47:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ay pero Axel Axel es es la la mejor para e..."
+  [47:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eso es sería convencer a Axel de hacerlo una forma No ..."
+  [47:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... este estos checks usted Axel tiene una ventaja Axel h..."
+  [47:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...d Axel tiene una ventaja Axel habla..."
+  [47:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... rato pidiéndole ayuda a Axel al respecto y charlot no..."
+  [01:01:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel y yo desciframos entre l..."
+  [01:05:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a de cruzar ojos con con Axel pero..."
+  [01:05:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...claramente Axel está en otra y como Okay..."
+  [01:05:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mismo que yo y similar y Axel está viendo una mariposa..."
+  [01:06:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n que busca la mirada de Axel y donde no la encuentra ..."
+  [01:07:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vuel ver a Axel tal vez no por no por es..."
+  [01:08:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...za no es una palabra que Axel conozca demasiado Axel a..."
+  [01:08:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e Axel conozca demasiado Axel ahí haciendo el sandwich..."
+  [01:11:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel Disfruta mucho de la com..."
+  [01:11:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...trato de rebatar El smor Axel De qué habla ya..."
+  [01:15:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Jetpack si no quiere ir Axel vaya alguien más pero po..."
+  [01:16:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a le incluso no para que Axel lo lea y no sega el guo ..."
+  [01:25:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... posición original y Tri Axel revisan los daños costar..."

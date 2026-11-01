@@ -1,0 +1,63 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,116
+  - Total párrafos: 262
+  - Correcciones automáticas Nivel 1 (Seguras): 25
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pero fue Mientras tanto Axel y triel van al área..."
+  [19:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...as triel 21 Roberto está Axel 12 exprimiendo los espac..."
+  [30:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la llegó la que pasó fue Axel así lo fallé varias vece..."
+  [34:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Abre comunicaciones con Axel quién es usted qué está..."
+  [35:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... un poly po hmart so soy Axel vine una tarjeta se llam..."
+  [35:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... dejar holm mi nombre es Axel como todo el..."
+  [39:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... est se está manteniendo Axel usted ve la..."
+  [43:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nfantiles frente a usted Axel pega un..."
+  [43:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...t Tri Attack se acerca a Axel una de esas criaturas do..."
+  [43:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a horriblemente y golpea Axel haciéndole 11 puntos de ..."
+  [43:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hijo de [&nbsp;__&nbsp;] Axel est bien de vida 56 ael ..."
+  [51:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...isoria a unos 10 pies de Axel está subido encima de la..."
+  [54:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ños este niño se le peca Axel no y se le lanza y es co..."
+  [54:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...talidad policiaca y tome Axel todo muy temático de lar..."
+  [55:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... arma era muy buena para Axel yo..."
+  [57:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...reflex Ah excelente Okay Axel vamos vamos esta pelea e..."
+  [57:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lea está así apenas para Axel oh oh no 16 tengo que de..."
+  [57:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ras se le acerca a usted Axel y 24 contra su cas sí le..."
+  [01:05:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que tiene frente a usted Axel Ah muy bien muy bien sie..."
+  [01:05:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...anda un golpe pero falla Axel mueve la cadera donde ti..."
+  [01:06:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ha corregido yo creo que Axel debería decir seguir dic..."
+  [01:06:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel va Ah ya e como tachó al..."
+  [01:07:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iatura que está frente a Axel ataca dos veces Ay Dios ..."
+  [01:07:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ía sabe que se llama joh Axel le dice J la otra..."
+  [01:08:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que está frente a usted Axel la ataca también lo pero..."

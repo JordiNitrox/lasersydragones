@@ -1,0 +1,57 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 14,258
+  - Total párrafos: 556
+  - Correcciones automáticas Nivel 1 (Seguras): 22
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Es un planeta que es to..."
+  [14:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s un planeta que es todo Axel. Es como un linterna ver..."
+  [24:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ación, justo a la par de Axel que está pilotando la na..."
+  [25:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o que nuestra nave entre Axel y yo podríamos sacarnos ..."
+  [33:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... nave? Bueno, vamos. Sí, Axel, sígalos. Okay. Ustedes ..."
+  [46:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ve a ver por la ventana, Axel, donde Charlotte está en..."
+  [47:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... todo triste. Imagínese, Axel. Todo. Sí,..."
+  [47:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... está pasando? Dios mío. Axel. Y ustedes usarían un pu..."
+  [54:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...salmado que perdí. Axel. Axel hace lo mismo que ..."
+  [54:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...salmado que perdí. Axel. Axel hace lo mismo que Triel...."
+  [55:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...izquierda y Axel y yo estamos a la derech..."
+  [01:04:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Mm. Okay. Eh, tengo el ..."
+  [01:04:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de un Axel se subió. Me subí dentro..."
+  [01:10:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Pum, cae, vuelve a ver a Axel y le dispara. Bueno, ¿co..."
+  [01:10:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...elve como el cañón hacia Axel. Es como el depredador...."
+  [01:12:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el zero pistol que tenía Axel que me..."
+  [01:13:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hace Axel, ¿eh? Okay, está ahí, la..."
+  [01:18:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cturas. Ahí llego, veo a Axel y yo, ¿de dónde salió Ax..."
+  [01:18:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el y yo, ¿de dónde salió Axel? Está ahí. Y voy a dispa..."
+  [01:18:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...prove Getem con cover de Axel...."
+  [01:18:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Excelente. Axel es soft. Ah, de corazón ..."
+  [01:24:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ty. Okay. 25 pega porque Axel le bajó la C. Sí, funcio..."

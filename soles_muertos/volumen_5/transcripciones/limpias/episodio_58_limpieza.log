@@ -1,0 +1,33 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,190
+  - Total párrafos: 291
+  - Correcciones automáticas Nivel 1 (Seguras): 10
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [23:43] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "... se dio cuenta de que la piedra del drift había aparecido se dio c..."
+  [40:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... poner esto es excelente axel y yo estamos incluidos y..."
+  [48:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...los dos estatuas después axel marlon y tri el riel est..."
+  [51:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ver si distraigo ok axel va a avanzar a entrar en..."
+  [59:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...par de axel y disparó con el frostbi..."
+  [01:04:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...así axel va usted está la criatur..."
+  [01:06:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...r la pena soy incierto 7 axel usted lo conecta por det..."
+  [01:07:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...atua cada partida en dos axel eso estuvo súper cool to..."
+  [01:09:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n embargo inmediatamente axel revisa y..."
+  [01:20:43] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...descubrimos en la piedra del drift esto es un descubrimient..."

@@ -1,0 +1,45 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,014
+  - Total párrafos: 433
+  - Correcciones automáticas Nivel 1 (Seguras): 16
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [28:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...terminada, piensa Benry. Axel sigue con la pistola apu..."
+  [31:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Hace así y a Axel le tira la el arma. Agar..."
+  [35:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te si es mejor que la de Axel. O sea, es como, "Okay, ..."
+  [35:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...le la mejor armadura a a Axel, porque ahorita anda com..."
+  [39:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e de poder blanco mal. Y Axel se deja la..."
+  [41:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o mucho y usted también, Axel. Bien hecho. Y le tira e..."
+  [49:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, ¿puede venir un momento..."
+  [49:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...d y hace sonríe un poco, Axel, es una criatura fascina..."
+  [51:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s. Ay, levanto la mano a Axel..."
+  [53:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r, pero es como, pero ya Axel no no tanto. Yo quiero y..."
+  [54:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...denlas." Y se despide de Axel. Gracias por el yogur. Y..."
+  [55:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Él es un ghost igual que Axel. Hace steelt y llegará. ..."
+  [57:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...go. Todos sí, pedestres. Axel, ¿qué quiere decir pedes..."
+  [01:09:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Vamos, vamos. Axel. Okay. No sé si vi sufic..."
+  [01:09:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o es como inmediatamente Axel pasa a tener un vestido ..."
+  [01:16:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...interesante. Axel lo intenta encendiendo d..."

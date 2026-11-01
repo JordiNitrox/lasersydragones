@@ -1,0 +1,117 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 14,501
+  - Total párrafos: 506
+  - Correcciones automáticas Nivel 1 (Seguras): 52
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [02:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e yo no sé si siento que Axel estaba más cerca de la m..."
+  [04:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hing? Ajá. Cosa que solo Axel y Bendy tienen fuego,..."
+  [08:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...con Axel. Algo así. Es como Sí, s..."
+  [12:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...enclocharse en Muy bien, Axel usted ve a Triel que est..."
+  [13:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel sálvame, Axel sálvame. A..."
+  [13:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel sálvame, Axel sálvame. Ay Dios mío. Me..."
+  [13:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...il, así máximo daño. Eso Axel, eso, tengo tengo posibi..."
+  [21:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... segunda acción, le va a Axel lanzar el lazo directame..."
+  [21:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sin embargo, Axel Ajá. todavía tiene una i..."
+  [22:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l holographic clon de de Axel tiene tiene forma de nin..."
+  [22:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e solo con uno me falla. Axel, usted está en tangle. ¿..."
+  [25:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do ahí como gritándole a Axel, "Axel, Axel, ya lo mata..."
+  [25:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...como gritándole a Axel, "Axel, Axel, ya lo matamos." S..."
+  [25:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ritándole a Axel, "Axel, Axel, ya lo matamos." Sí...."
+  [25:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...un poco falso, pero pero Axel lo dice así, desde..."
+  [33:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os de terreno difícil Si Axel va usted Okay me veo la ..."
+  [34:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... demás. No lo puedo ver. Axel, si usted decide,..."
+  [35:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e daña también. Que daña Axel es como ah. Okay, con lo..."
+  [39:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ré a usted y he curado a Axel en este combate. Okay. E..."
+  [41:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...acer de su movida. ¿Qué? Axel. Eh, creo que me da el..."
+  [47:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... de la criatura, así que Axel, usted no está flat foot..."
+  [48:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... no, el copia como el de Axel...."
+  [48:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ante y quedé enfrente de Axel, diagonal a Triel y no m..."
+  [49:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...as que van hacia arriba. Axel. Eh, aquí donde voy a se..."
+  [52:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Quedó justo a la par de Axel y me va a tirar al suelo..."
+  [55:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, ¿usted se había tirado ..."
+  [55:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se escondió. Sí, cierto. Axel, usted nada más escucha...."
+  [55:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a, oh Dios mío, será que Axel llega a la..."
+  [55:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l Espíritu Santo, me Eh, Axel, sí va a llegar. Axel, u..."
+  [55:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...h, Axel, sí va a llegar. Axel, usted no..."
+  [01:04:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...perdón, perdón, perdón, Axel va usted. Okay, solo par..."
+  [01:04:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... usted. Okay, solo para, Axel está lejísimos, es como ..."
+  [01:04:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...camas y me tiro al piso. Axel, cuando usted entra tamb..."
+  [01:05:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel me ganó la idea, entonce..."
+  [01:05:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o, me ocultaré, ahí está Axel. Usted puede ocupar el m..."
+  [01:10:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ies mío al mismo tiempo. Axel, usted se queda viendo e..."
+  [01:14:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ndo, igual que ya cuando Axel mencionó eso ya no lo pu..."
+  [01:16:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, pa usted. Al principio ..."
+  [01:17:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Qué bien, Axel está Está inspirada aquí..."
+  [01:17:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Ocho. Axel, ¿cómo lo ma..."
+  [01:17:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Ocho. Axel, ¿cómo lo mata? Uh. Oh, ..."
+  [01:20:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Okay, Axel. Ay, tan rápido. Okay, v..."
+  [01:20:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de estar en esa esquina. Axel, usted corre a través de..."
+  [01:21:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...colocarse a la par de Axel, aunque queda un poco a ..."
+  [01:22:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que flat footed también. Axel está off target y Marlo ..."
+  [01:22:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...jor que puedo hacer? Va, Axel después de mí, después M..."
+  [01:23:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es decirle a Axel, es como, "Okay, Axel, y..."
+  [01:23:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... a Axel, es como, "Okay, Axel, yo le digo cuándo, prep..."
+  [01:23:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...darle otro move action a Axel para que pueda posiciona..."
+  [01:23:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o provoca a Gerti. Okay, Axel. Mmm, okay. Si yo fuera ..."
+  [01:26:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...disparo. 22. So Axel. 22 conecta. que estás s..."
+  [01:30:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...í. Y toma un paso a como Axel, va usted...."

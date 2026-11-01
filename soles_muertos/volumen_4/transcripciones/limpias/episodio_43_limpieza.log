@@ -1,0 +1,33 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,522
+  - Total párrafos: 256
+  - Correcciones automáticas Nivel 1 (Seguras): 10
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [13:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ntro del vehículo cuando axel le pasa encima la deja c..."
+  [17:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... un 9 total 9 total asco axel muy bueno ha de sacar má..."
+  [19:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...unos tragos y les pone a axel y adriel los tragos enfr..."
+  [22:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tri él mis amigos aquí a axel mar lo que vendrá buenas..."
+  [51:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... pasa a los community de axel y d qué les pasa a las c..."
+  [57:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cto en la la grosería de axel mes a catriel un toque c..."
+  [01:05:59] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...ma que encontramos en la piedra del drift y ocupe de la profesora..."
+  [01:09:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o a mi situación ven rey axel no le comenten esto a na..."
+  [01:12:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rmadura y armas cosa que axel no mencionó dijo nadie..."
+  [01:12:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ctivaron la xunta a ésta axel con el traje si yo de ex..."

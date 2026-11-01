@@ -1,0 +1,69 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,407
+  - Total párrafos: 222
+  - Correcciones automáticas Nivel 1 (Seguras): 28
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el día así que paciencia Axel usted acababa..."
+  [15:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... es importante porque es Axel saco un se en el dado Pe..."
+  [19:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...an tienen mejor contacto Axel tal vez usted Qué es Axe..."
+  [19:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...xel tal vez usted Qué es Axel Ah mi mente está bien yo..."
+  [19:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a otra poción que le dio Axel y se la toma se abre el ..."
+  [22:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do el corazón un momento Axel y lo y la trata de tocar..."
+  [23:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel pobre Axel los explosivo..."
+  [23:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel pobre Axel los explosivos sí sí sí ..."
+  [23:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... los explosivos sí sí sí Axel va usted usted ve que el..."
+  [27:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y este es el corazón de Axel pensé que tal vez podía ..."
+  [28:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o como retorciéndose ahí Axel..."
+  [29:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nar esto para esta pobre Axel y siento que hay que lle..."
+  [29:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e puede hacerlo es usted Axel pero es su elección está..."
+  [29:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... interno grit es lección Axel Okay están listo para de..."
+  [30:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n en la par de ael que a Axel se le pone los ojos blan..."
+  [30:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omo que lo absorben como Axel usted tiene una visión a..."
+  [31:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en que está Axel sosteniendo el corazón c..."
+  [32:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted yo yo soy Axel quién es usted qué Este ..."
+  [34:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...erpo Pobrecito pero está Axel tiene se ve como esta se..."
+  [35:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ellos Entonces esta otra Axel los encontró encontró do..."
+  [35:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...trás de los n No es otra Axel es aera Sí pero para mí ..."
+  [37:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hablar con con esta otra Axel nuestros pasados son muy..."
+  [48:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...us me hago un punto años Axel usted avanza junto con y..."
+  [51:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en la dirección correcta Axel ymar van..."
+  [52:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...zarlos Okay okay Stealth Axel puedo tomar 10 quiere to..."
+  [53:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ya no pueden ayudar a a Axel y a yolmar porque aunque..."
+  [59:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Okay entonces ayudemos a Axel queene má recuer concént..."
+  [01:00:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... misticismo y benry aj y Axel hizo Survival entonces 2..."

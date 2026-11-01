@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,948
+  - Total párrafos: 298
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [18:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...osas tan contrastante de axel también le gusta mucho l..."
+  [19:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ueno vamos a ver la ropa axel vamos a ver la ropa y la..."
+  [19:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a ver la ropa y la garra axel de la mano y..."
+  [27:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...quí hay un poderoso 4 ok axel y vendré y puede observa..."
+  [33:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ujar la ropa y oxidan de axel es axel en su fase de ar..."
+  [33:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ropa y oxidan de axel es axel en su fase de arqueta se..."
+  [41:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...abría para el suelo 9 ok axel ustedes..."
+  [41:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n todo que usted calcula axel que es el precio normal ..."
+  [56:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n rey 22 mar loco con 14 axel..."
+  [57:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...vocar por cierto ustedes axel ustedes..."
+  [01:11:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... misticismo tal vez para axel también puede 6 26 26 en..."
+  [01:15:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a sobrecargar el arma de axel sí que está a la par mía..."
+  [01:18:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...16 en rey y axel ambos consideran que sí ..."
+  [01:24:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a ver se volvió adelante axel tiene usted el escenario..."
+  [01:24:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sentarlos literalmente a axel se le olvidan los..."

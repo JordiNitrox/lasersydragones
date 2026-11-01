@@ -1,0 +1,125 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,824
+  - Total párrafos: 514
+  - Correcciones automáticas Nivel 1 (Seguras): 56
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [24:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mbién. Sí. Oh. Oh. Digo, Axel, por ejemplo, tiene ahor..."
+  [28:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... de entrar. Mientras que Axel, Benry y Marlock ven esa..."
+  [30:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ado. Marlock siete tres. Axel,..."
+  [30:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue muy bien, eh. 27. 27, Axel. Y Benry 27 también. Oh,..."
+  [36:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...qué hacer. Axel. Marlock responde. Ajá. ..."
+  [37:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...able, pero no imposible. Axel..."
+  [39:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Si Axel le pegó sin cover, tambi..."
+  [39:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pegó sin cover, también Axel no tiene cover contra us..."
+  [48:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...somos. Yo soy el capitán Axel, su mejor amiga. ¿Y dónd..."
+  [50:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no hago. Beny, ya jugué. Axel...."
+  [53:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Triel. Aquí solo veo a Axel en realidad, ¿verdad? Y ..."
+  [54:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mío aquí en en frente de Axel, digamos...."
+  [55:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo sabía, menos mal. Ay, Axel, dos, los dos que creó s..."
+  [55:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os que creó se acercan a Axel. Y yo no sabía por qué n..."
+  [56:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...kay. Eh, y el otro ataca Axel también. Finalmente nos ..."
+  [56:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... eh, de veo un toque que Axel está ahí. Benry, está bi..."
+  [57:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ebajo del suelo viendo a Axel y los robots. Ajá. Y com..."
+  [57:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el que está al frente de Axel, pasa el cheque. Okay. S..."
+  [58:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: ".... Entonces, por lo menos Axel, salga de ahí...."
+  [59:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...atrás porque ocupo ver a Axel también. Ahí las veo a l..."
+  [59:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eh, estamina points a Axel, eh. Yo cre yo creo que ..."
+  [59:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., eh. Yo cre yo creo que Axel es es una persona muy ca..."
+  [59:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Entonces como Axel, salga de ahí, la necesi..."
+  [01:00:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e 30 mejor en vez de 22. Axel, va usted llamarlo gastó..."
+  [01:00:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... llamarlo gastó la cura. Axel gasta la cura. Mm, quier..."
+  [01:01:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ahí veo a Benry y veo a Axel. Sí, pero realmente teng..."
+  [01:01:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mente tengo cover contra Axel...."
+  [01:01:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Un poquito. Contra Axel, sí. Contra Benry, ¿no? ..."
+  [01:02:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...puedo hacer lo mismo que Axel, entonces y mezclar mis ..."
+  [01:02:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es que Axel y su trick attack no, no..."
+  [01:02:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oder, pero bueno, es que Axel está arriba, entonces Ax..."
+  [01:02:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el está arriba, entonces Axel está volando igual que y..."
+  [01:03:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iempre quedo super donde Axel...."
+  [01:03:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...O sea, el otro boss es Axel, por lo que veo. Sí, es ..."
+  [01:03:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r lo que veo. Sí, es que Axel es la que hace daño. Que..."
+  [01:03:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es la que hace daño. Que Axel no fue la que falló esta..."
+  [01:04:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...manera que se le esconda Axel, pero solo alrededor de ..."
+  [01:08:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ismo daño la vez pasada. Axel le va a robar mi dado de..."
+  [01:08:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...qué dos o. Oh, muy bien, Axel...."
+  [01:09:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, pero también está trast..."
+  [01:11:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y los cristales vibran. Axel es el aquat del espacio,..."
+  [01:11:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...bes cuál es Roberto? Ahí Axel y Benry están como full ..."
+  [01:12:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e no le voy a disparar a Axel una o dos veces...."
+  [01:12:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...olo una persona. Sí, sí. Axel es la a la que menos le ..."
+  [01:12:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Fijo Fortitud Axel. Ah, fortitud. Aquí vamo..."
+  [01:13:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... razón. Y vuelve a ver a Axel y la señala y pum, pum...."
+  [01:15:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e hacer. Está hiriendo a Axel...."
+  [01:15:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Recuerde quién es Axel. Recuerde todo lo que ha..."
+  [01:17:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Malditos daños, Axel. Y ahora sí, Axel. Ahora..."
+  [01:17:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...daños, Axel. Y ahora sí, Axel. Ahora sí, porque no me ..."
+  [01:17:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de 30, ¿no? Sí. Axel no ha fallado. Un solo t..."
+  [01:22:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a los sentimientos sobre Axel no funcionó, quiere deci..."
+  [01:22:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... realidad tomo personal. Axel podría podría podría viv..."
+  [01:24:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tos de daño. Y ahora sí, Axel. Axel, Axel, haz lo tuyo..."
+  [01:24:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... daño. Y ahora sí, Axel. Axel, Axel, haz lo tuyo. Vamo..."
+  [01:24:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Y ahora sí, Axel. Axel, Axel, haz lo tuyo. Vamos, con..."

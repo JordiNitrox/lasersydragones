@@ -1,0 +1,37 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,160
+  - Total párrafos: 282
+  - Correcciones automáticas Nivel 1 (Seguras): 12
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [20:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...un 15 Z Z un 15 triel 21 Axel 12 12 12 excelente Ben 2..."
+  [34:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...No no tengo Axel Okay yo activo lo de los..."
+  [36:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a nada caritas suéltense Axel piensa yo le dije que se..."
+  [48:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sar este deadly a si por Axel de todos modos Ah bueno ..."
+  [49:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ay sabandija escurridiza Axel la otra sabandija..."
+  [52:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te a no me quejo Esa fue Axel..."
+  [01:13:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... creo que es importa que Axel Axel empieza a jugar bus..."
+  [01:13:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que es importa que Axel Axel empieza a jugar buscamin..."
+  [01:13:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a bloquea y regresa y yo Axel Qué está haciendo Axel l..."
+  [01:13:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o Axel Qué está haciendo Axel llegó a conectarse es co..."
+  [01:15:40] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "...grabación donde está rin Rey hablando con ellos Okay ..."
+  [01:17:48] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "... esta nave para nosotros rin Rey siempre puede y una vez ..."

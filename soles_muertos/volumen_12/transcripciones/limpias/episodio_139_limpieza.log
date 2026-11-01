@@ -1,0 +1,75 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,011
+  - Total párrafos: 308
+  - Correcciones automáticas Nivel 1 (Seguras): 31
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [21:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... cosas sin sentido y una Axel también ahí y una Axel A..."
+  [21:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Axel también ahí y una Axel Axel zombie yo agarro un..."
+  [21:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l también ahí y una Axel Axel zombie yo agarro una tir..."
+  [24:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ando salgamos de aquí eh Axel aún funcionan los comand..."
+  [24:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...or sí sola e piloting sí Axel está un poco nerviosa co..."
+  [25:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue al final ahí hay otra Axel que Axel no sabe qué [&n..."
+  [25:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...al ahí hay otra Axel que Axel no sabe qué [&nbsp;__&nb..."
+  [27:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s baterías recargadas sí Axel le encargo la desacoplar..."
+  [28:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel atrás la escotilla que c..."
+  [31:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mi voz no es tan difícil Axel hágame un acrobático Don..."
+  [32:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 26 s Tom dos eh benry Y Axel notan que en las paredes..."
+  [42:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ovieron no sé qué opinan Axel camino o tren no sé creo..."
+  [44:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o skill Sí porque además Axel tiene ambus computers..."
+  [44:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e ent siuna quiere tirar Axel y sigo que hacerle su al..."
+  [45:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uces quién sacó más alto Axel entre los dos lo logran ..."
+  [47:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... emboscada eventualmente Axel y triel se quedan viendo..."
+  [48:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...si alguien los observara Axel y triel se apagan las lu..."
+  [56:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...él 17 17 c 23 Ah diablos Axel eh qué era 18..."
+  [01:00:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...como quieran eh Qué hace Axel Yo también quería activa..."
+  [01:01:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...d sí se es como ve se ve Axel como como la m go on the..."
+  [01:01:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... santo tiene traumas tan Axel se queda quedita..."
+  [01:03:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r bien muy bien entonces Axel corremos a las tres haci..."
+  [01:05:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...parpadear por más tiempo Axel este cuánto avanzaba yo ..."
+  [01:06:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nces y me quedo cerca de Axel y gerty se queda a la pa..."
+  [01:06:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rty se queda a la par de Axel s porcentaje vamos vamos..."
+  [01:07:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e no va a atacar a nadie Axel Pero va a quedarse ahí E..."
+  [01:08:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ve en todas direcciones Axel sigo yo me movería a la ..."
+  [01:09:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cano que en este caso es Axel o guti guti 1 dos guti g..."
+  [01:11:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... conecta quiebra una luz Axel yo disparo y me muevo Ok..."
+  [01:15:49] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...que vimos en el en el La piedra del drift cuando vimos a a morash ..."
+  [01:21:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 20 ust Oye 31 usted Oye Axel escucha vaso que guard e..."

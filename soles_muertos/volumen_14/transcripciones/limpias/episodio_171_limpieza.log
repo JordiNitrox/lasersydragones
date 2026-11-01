@@ -1,0 +1,49 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,556
+  - Total párrafos: 327
+  - Correcciones automáticas Nivel 1 (Seguras): 18
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [01:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...odas las veces ahí bueno Axel corre a 40 pies en 6 seg..."
+  [01:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... el récord mundial menos Axel corre 80 pies en 6 segun..."
+  [13:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...to quedó la velocidad de Axel a Ah esper s cierto lo e..."
+  [27:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... el corredor sal el área Axel a usted le parece que el..."
+  [27:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel si si ofende personalmen..."
+  [35:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dows entonces a ver pero Axel tiene un montón de Axel ..."
+  [35:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Axel tiene un montón de Axel usted habla tome Okay di..."
+  [38:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... entonces en la terminal Axel usted determina que este..."
+  [52:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te interpretaciones Okay Axel usted que..."
+  [52:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... en destruir el destruir Axel se siente triste de como..."
+  [55:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no no no parece creo que Axel mencionó la posibilidad ..."
+  [59:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y se dan cuenta triel y Axel al..."
+  [59:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ta que se abre Wow bueno Axel lo vio primero porque sa..."
+  [01:07:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hecks de ingeniería sven Axel por favor 21..."
+  [01:09:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ajá Ahora yo creo que Axel puede instalarlo porque ..."
+  [01:11:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...amente con la energía de Axel y ya es como un esos rel..."
+  [01:14:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... c está ahí con armadura Axel está muy alerta y está..."
+  [01:18:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Gracias 27 de y triel y Axel ven un lugar que parece ..."

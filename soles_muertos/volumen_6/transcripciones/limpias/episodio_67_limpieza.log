@@ -1,0 +1,79 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,788
+  - Total párrafos: 314
+  - Correcciones automáticas Nivel 1 (Seguras): 33
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...encias de la ausencia de axel y de la muerte de declar..."
+  [16:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a acompañaran de una vez axel empieza con sas como otr..."
+  [18:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...gente aquí que aviento a axel ya avn rea tri el..."
+  [19:31] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...tiros por favor siéntese axel 42 déjenme revisar sus dato..."
+  [20:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...demostrar demasiado pero axel usted ve las sutiles det..."
+  [21:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sted nave en donde entra axel caminando lugar y hoy ax..."
+  [21:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...el caminando lugar y hoy axel como yo así es mi percep..."
+  [22:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la del comportamiento de axel me parece bien si porque..."
+  [24:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... es como ok como dándose axel usted que conoce bien us..."
+  [24:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... usted ve que se ve como axel pero usted logra notar q..."
+  [26:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sto mal lo que opta y el axel alguno tiene idea de cóm..."
+  [30:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...laire y bueno debido fue axel la que le dé el chip sí ..."
+  [32:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nía el chip se refería a axel y anula como sus tías co..."
+  [36:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... hasta que no viniera ya axel no escogería uno cuando ..."
+  [39:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ero ustedes si ven dónde axel entra el cuarto y se que..."
+  [40:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... 23 22 ven rey junto con axel s se pueden revisar ven ..."
+  [41:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ar un niño lo siento por axel pero cuando venga no le ..."
+  [41:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pero yo le digo axel pero esto es más grave i..."
+  [46:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... nada como muy relevante axel usted como una..."
+  [47:13] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...a infantil pero dice tía axel 42 día no..."
+  [47:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...eso sin embargo usted ve axel ve un montón de dibujos ..."
+  [48:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... mi identidad anterior a axel que o sea estoy demasiad..."
+  [49:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...as dos piezas y luego yo axel tengo malas noticias par..."
+  [53:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... venir desde di como que axel estas de moviendo los oj..."
+  [53:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nsmitido entonces nos es axel intenta comunicarse con ..."
+  [55:09] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...tisa se acerca a ustedes axel 42 quiero disculparme por n..."
+  [55:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...da cada acordarme cuando axel les responde el mensaje ..."
+  [58:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ahí estaba seguramente axel va sabiendo ya poner una..."
+  [58:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel ésta está tranquila sufi..."
+  [01:10:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... una teoría conversé con axel mientras..."
+  [01:15:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... en lugar del mar lo que axel se ubican como debajo do..."
+  [01:17:48] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "...mero que todo dónde está ring rey trabajando yo puedo nota..."
+  [01:29:57] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "...de buscar por pistas del ring rey en muchos lugares deberí..."

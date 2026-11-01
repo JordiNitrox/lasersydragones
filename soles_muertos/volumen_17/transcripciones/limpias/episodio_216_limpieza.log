@@ -1,0 +1,57 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,738
+  - Total párrafos: 334
+  - Correcciones automáticas Nivel 1 (Seguras): 22
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o, se me Perdón, perdón. Axel, usted está al mismo niv..."
+  [13:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sigue en efecto Axel. Axel está en la esquina..."
+  [13:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sigue en efecto Axel. Axel está en la esquina volan..."
+  [21:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vuelve a ver a Axel. Si cambió, no lo podrem..."
+  [22:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...decir? Hicimos daño. Axel, no, yo no clonesaron to..."
+  [24:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ir como, o sea, creo que Axel piensa sus adentes. Ay, ..."
+  [25:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iene sentido. La cara de Axel dice todo esto. Ay, como..."
+  [25:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...salvar el universo, pero Axel no es un Pero sí le sí v..."
+  [28:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...minando, te espaldas a a Axel y Axel viene como hablan..."
+  [28:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., te espaldas a a Axel y Axel viene como hablando como..."
+  [28:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...emasiada ira y es como y Axel se ca Oh, no...."
+  [28:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uiero que nada les pase, Axel, pero ya no sé qué pensa..."
+  [35:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...siento que si yo hiciera Axel, ocupo hablar con usted ..."
+  [35:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...d y le pego un pichazo y Axel me pega a mí de vuelta..."
+  [35:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que funcione ese ángulo. Axel no me va a dar tiempo de..."
+  [37:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Eris. Okay, esto es de Axel dedicado a mi amigo Fer...."
+  [38:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Yo creo que sí había un Axel, pero..."
+  [39:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...está muy bueno. Gracias, Axel...."
+  [41:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l equipo se se refuerza, Axel piensa..."
+  [42:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iso. pero pero tentó a a Axel. Es como un tanque en lu..."
+  [57:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Benry, Axel y Marlock ven que ella a..."
+  [01:00:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Muy bien, muy bien. Axel debería golpearme a mí m..."

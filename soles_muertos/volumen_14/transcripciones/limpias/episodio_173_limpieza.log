@@ -1,0 +1,53 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,013
+  - Total párrafos: 264
+  - Correcciones automáticas Nivel 1 (Seguras): 20
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o no yo saqué un cinco y Axel decidió no tirar porque ..."
+  [19:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...1 triel 19 Axel 24 Miguel no no me que m..."
+  [21:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a que hasta ver qué pasa Axel e no se ve..."
+  [22:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dimos el Trick Attack de Axel es es su enemigo natural..."
+  [29:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a estos pequeños sujetos Axel tiene cover contra ambos..."
+  [30:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e Z muy bien Creo que si Axel se mueve..."
+  [31:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel me muevo para hacer flan..."
+  [31:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...parece 17 puntos de daño Axel Es que yo siento que est..."
+  [34:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...migo porque ya le pegó a Axel Ah sí que ya pegó ya peg..."
+  [36:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omo que está la parte de Axel el que está en la parte ..."
+  [36:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que está en la parte de Axel y de coc ataca a Axel de..."
+  [36:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de Axel y de coc ataca a Axel de hecho se enardece y a..."
+  [36:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ago el mínimo de daño 21 Axel no 22 falla también No..."
+  [37:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ado cualquier lugar pegó Axel con la acción que me que..."
+  [39:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...más un poco más muy bien Axel sigue triel digo yo no q..."
+  [42:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... con el no p bien perene Axel con Elo digamos puedo es..."
+  [48:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Entonces si le haces s a Axel get también triple Attac..."
+  [01:10:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... no puedo tener creo que Axel tiene un mk2 de destreza..."
+  [01:10:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no me equivoco ver eh Sí Axel tiene un mk2 de destreza..."
+  [01:12:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel 10 también verdad 10 10 ..."

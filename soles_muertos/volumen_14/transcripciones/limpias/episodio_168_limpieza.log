@@ -1,0 +1,47 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,216
+  - Total párrafos: 266
+  - Correcciones automáticas Nivel 1 (Seguras): 17
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [23:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...reparando este planeta Axel en realidad es como un L..."
+  [26:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... conil sobre todo porque Axel anda buscando alguien na..."
+  [30:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ueno eso lo nota también Axel que son referencias a la..."
+  [51:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...síquico pero lo que dice Axel pues tendría cierto sent..."
+  [58:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...bre de nul m se lo doy a Axel vea nul estuvo aquí sí e..."
+  [59:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... una esquina usted usted Axel da vuelta como a esa l y..."
+  [59:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted ve un retrato suyo Axel completo un retrato..."
+  [01:00:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ahí yo entro ahí cuando Axel después de que yo que en..."
+  [01:00:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...porque no le puso nombre Axel debería..."
+  [01:01:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... al nivel de los ojos de Axel y le pongo las manos en ..."
+  [01:01:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel Okay me quedo viéndola e..."
+  [01:01:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te se queda así nos dejó Axel espero que sea usted esp..."
+  [01:03:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...era sí no le exija tanto Axel él es como un niño No él..."
+  [01:04:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...parte porque n Lo siento Axel pero está en nuestra con..."
+  [01:05:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... dejan encima Pero bueno Axel pero todos llevamos el b..."
+  [01:07:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que no se puede liberar Axel hay partes que no se lib..."
+  [01:14:00] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "... idioma que estaba en la piedra del drift está semid estruidas cos..."

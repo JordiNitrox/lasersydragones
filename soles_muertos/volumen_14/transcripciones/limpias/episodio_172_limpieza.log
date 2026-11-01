@@ -1,0 +1,37 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,851
+  - Total párrafos: 285
+  - Correcciones automáticas Nivel 1 (Seguras): 12
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...treza so Slow bro eh a22 Axel..."
+  [24:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ne 20 de AC ni que fuera Axel Ah Es..."
+  [34:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pega directamente 23 Axel eh falta guerty gerty ge..."
+  [35:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...7 puntos de daño le hace Axel desde donde yo estoy el ..."
+  [38:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r est tagger corre hacia Axel y es todo lo que hace es..."
+  [38:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... como que se arrastra de Axel Ed ve que va saca el la ..."
+  [38:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tratando de pegarle a Axel pero el movimiento es ta..."
+  [43:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... la mano ahí Tal vez sea Axel Pero..."
+  [43:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...entonces entonces falla Axel bueno piensa cuando ve a..."
+  [55:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pego uno no lo dije bien Axel tien que decirlo desde..."
+  [01:00:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ara mí De hecho es pobre Axel tan predecible siempre u..."
+  [01:16:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os hace siglos la par de Axel por ahí protegido me par..."

@@ -1,0 +1,67 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,249
+  - Total párrafos: 230
+  - Correcciones automáticas Nivel 1 (Seguras): 27
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sto porque pueden llenar Axel también Axel no es una c..."
+  [14:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eden llenar Axel también Axel no es una computadora Yo..."
+  [21:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...para Axel pero yo no sé si puedo s..."
+  [21:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de hablar hablando o sea Axel Axel tiene varas para pa..."
+  [21:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...blar hablando o sea Axel Axel tiene varas para pasar i..."
+  [22:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar en el aid Es que solo Axel tiene misticismo mistici..."
+  [22:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a ayudar a hacer eso con Axel pero el asunto es que es..."
+  [27:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nces Okay este tal bueno Axel es Podría ayudarme Aunqu..."
+  [31:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...forma es como que ese es Axel es es triel Y ustedes av..."
+  [35:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...arriba Axel abajo Yo me vuelvo por s..."
+  [37:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a ir sola más bien sería Axel que es la que tiene todo..."
+  [38:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oco lo ve y le hace como Axel mejor mejor venga conmig..."
+  [39:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o como aquí ya murió una Axel yo no quiero que muera o..."
+  [39:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no quiero que muera otra Axel aquí cierto y v tiene la..."
+  [39:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ismo quiero que vaya con Axel para que esté aún más pr..."
+  [39:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... menos posibilidades que Axel y y y aún así se..."
+  [41:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que él no permitiría que Axel se fuera sola a menos de..."
+  [46:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tos con ciencias físicas Axel 19 29 usted También uste..."
+  [47:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es muy posible Sí porque Axel le di chance es..."
+  [51:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tos bloqueándolo triel y Axel siguen bajando llegan a ..."
+  [56:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a le pegan tanto triel y Axel ustedes quitan las manos..."
+  [56:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...én aceite Usted qué dice Axel tengo una..."
+  [57:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o intente sola y después Axel lo intente sola o sea qu..."
+  [57:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pasamos las dos y si no Axel intenta sola okay Como p..."
+  [01:00:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e atrás cuatro secciones Axel usted finalmente llega c..."
+  [01:04:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es como se ve la colilla Axel Ben Rey ustedes corren A..."
+  [01:04:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l Ben Rey ustedes corren Axel Usted llega como un área..."

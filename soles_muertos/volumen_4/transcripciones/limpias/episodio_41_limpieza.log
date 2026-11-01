@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,634
+  - Total párrafos: 254
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...z podamos encontrar algo axel toma el volante sí..."
+  [25:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...té el paper de escoba el axel nunca nunca nota ese tip..."
+  [25:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...legan después de un rato axel usted con su excelente p..."
+  [33:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...para axel usted la ve y usted nota..."
+  [38:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...esperando las órdenes axel la experta más agua nues..."
+  [39:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...endría que hacer supongo axel que es la mejor para eso..."
+  [40:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...r el lugar sin menos que axel vaya sí voy a ir al baño..."
+  [41:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s zeidi viéndolos como y axel usted va al baño ajá y l..."
+  [41:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nco minutos vayan por mí axel usted camina hacia el ba..."
+  [42:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e hay que hacer planes y axel yo también..."
+  [45:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...arle un mensaje de texto axel para decirle a la androi..."
+  [53:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a la mesa en el campo de axel está sentado un la xunta..."
+  [53:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...maldito quicksilver axel usted está en el baño yo..."
+  [53:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aunque mientras tanto en axel ok ok en el baño ok tiro..."
+  [54:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...iere hacer yo no sé si a axel quien hacer eso yo voy a..."
+  [01:07:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ella qué hacen ustedes y axel iphone le mando un mensa..."
+  [01:08:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel 14 mar loc 3,3 13,3 2017..."
+  [01:11:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... no puede hacer eso solo axel para hacer eso donde él ..."
+  [01:11:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ara y le pega en un lado axel percepción 15 tiene que ..."
+  [01:11:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ón 15 tiene que sacar 17 axel desde abajo usted escuch..."
+  [01:13:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...otras cuatro imágenes de axel a su alrededor marc lópe..."

@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,378
+  - Total párrafos: 277
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [01:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel tenga un apartamentito e..."
+  [08:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...verdad dado que está ahí axel dejemos el cuarto del ca..."
+  [08:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...los de marlowe y barry y axel que hace usted como su c..."
+  [09:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... sin crédito en canal de axel es desordenado y la ropa..."
+  [10:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...hí yo me imagino que que axel tiene como no se hacían ..."
+  [14:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... aire podemos encerrar a axel adentro cuando alguien t..."
+  [14:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...el resto de la cuarto de axel es del closet y este es ..."
+  [15:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... a donde estábamos antes axel utiliza el motor para vi..."
+  [18:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...no se acostumbre por hoy axel tiene la percepción 15 m..."
+  [26:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la sonrisa él controla a axel y le digo como parece qu..."
+  [27:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...os hablando eso sí sí sí axel es una bendición para mí..."
+  [28:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...des se fueron a buscar a axel el fantasma de ángel a v..."
+  [40:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...os para su aparato usted axel se dispone ir a sagua ba..."
+  [42:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...dó el gerente y el rey y axel ustedes nunca habían vis..."
+  [44:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...caron percepción con son axel 26 un 26 reputa sal 23 2..."
+  [44:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...6 reputa sal 23 20 rey y axel reconocen varias naves..."
+  [48:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ios y él sería mejor que axel a aparque tan tan lejos ..."
+  [49:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...no 21 12 axel y thriller ustedes sient..."
+  [50:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n se le queda viendo a a axel le dice terminemos..."
+  [51:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lavados en el asiento de axel detrás como muy bien ust..."
+  [01:21:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mente vamos a traicionar axel me gusta como piensa ust..."

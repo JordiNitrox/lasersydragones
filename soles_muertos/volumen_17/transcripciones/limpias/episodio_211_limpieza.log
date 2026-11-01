@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,767
+  - Total párrafos: 458
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [18:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a nueva Triel, una nueva Axel, un nuevo Todos, de hech..."
+  [29:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Eh, 22. Y si Axel me ayuda con yo le ayudo..."
+  [33:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... vez Trel vuelve a ver a Axel con una cara como de, "W..."
+  [33:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dado cuenta." Yo, "Axel, qué buena es usted para..."
+  [42:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uedo ayudar. Ah, no, no. Axel, también del..."
+  [45:31] [NIVEL_1_SEGURO] 'Axel 42' -> 'A.Xel 42'
+      Contexto: "...Axel 42 es la respuesta. La resp..."
+  [48:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do y lo tiró o algo. Eh, Axel, yo lo hubiera agarrado ..."
+  [50:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... chivo expiatorio. Sí. Y Axel, su plan de plantarle el..."
+  [52:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...25 25 22 menos que Marl. Axel, usted está ahí observan..."
+  [55:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ieron a Ciden y no sé si Axel quiere ir..."
+  [56:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 21, 10, eh, 15. 15, 18. Axel, usted el cairos falso l..."
+  [57:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue cierro la puerta. Ya. Axel. Usted ve esa puerta que..."
+  [01:01:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a mujer con la armadura. Axel prende la armadura. Digo..."
+  [01:05:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...una trae porque Axel no, o sea, no se lo pasé..."
+  [01:15:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o tiempo conviviendo con Axel y es como, ah, no, o sea..."

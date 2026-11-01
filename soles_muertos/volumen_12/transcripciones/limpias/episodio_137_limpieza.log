@@ -1,0 +1,121 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,633
+  - Total párrafos: 298
+  - Correcciones automáticas Nivel 1 (Seguras): 54
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [06:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ás específicamente bueno Axel es la única que en reali..."
+  [12:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... nos dejó abandonados ve Axel la partieron en cinco pe..."
+  [12:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... como o no como se comió Axel un un dedo y usted no es..."
+  [17:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... un poco de de esta nave Axel metió la cosa con los an..."
+  [18:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de cok el mejor amigo de Axel el mejor amigo de si no ..."
+  [19:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o ver esa figura que era Axel enhance enhance Y ahí qu..."
+  [19:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a de edición Todos Menos Axel hasta usted viejo todos ..."
+  [20:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...legan qui Bueno entonces Axel..."
+  [20:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ted sí dijo de lo que no Axel Sí yo sí dije eso Okay q..."
+  [20:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o sí dije eso Okay qué y Axel va hacer caso Sí yo me q..."
+  [20:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...van entrando yo Axel como dando es como ya en..."
+  [20:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omo ya entre eh De hecho Axel y yo estábamos juntas no..."
+  [21:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lla ahí como y pongo una Axel toda monstruosa en full ..."
+  [23:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ce que la forja que hizo Axel no la hizo tan única por..."
+  [23:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... definitivamente es otra Axel ahora nosotros no sabemo..."
+  [23:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sabemos cómo se veía esa Axel pero si estamos sí sabem..."
+  [25:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... viene marlock estábamos Axel y yo puede que esa sea s..."
+  [25:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... yo puede que esa sea sí Axel de la dimensión de marl ..."
+  [25:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...or qué no puede ser otra Axel porque estamos interpret..."
+  [25:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...stedes de otra Como otra Axel como que es hayan hecho ..."
+  [26:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que está pasando y está Axel ahí entonces..."
+  [27:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...er qué qué es Qué es esa Axel si es un zomb o..."
+  [27:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...í es un tipo de undet Oh Axel Serás un..."
+  [30:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...brá tratado de revivir a Axel tal vez no debería pregu..."
+  [32:04] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...hace y usted recuerda La piedra del drift y usted Recuerda la base..."
+  [32:19] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...Ah yo la piedra del drift muchachos vean es es Es ..."
+  [32:19] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...como lo es parecida a la piedra del drift a ver Oh qué qué diablos..."
+  [32:37] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...ecer porque si es con la piedra del drift y es con esos Hero grfic..."
+  [33:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...antalla y Solo sé que es Axel dice que es una muñeca a..."
+  [33:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...entido pero la que vio a Axel fue la Sí..."
+  [35:08] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...omo del parecido al a la piedra del drift como..."
+  [35:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que sí Axel zombie adentro con video..."
+  [36:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar esa vara Yo le digo a Axel como Axel yo creo que de..."
+  [36:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Yo le digo a Axel como Axel yo creo que deberíamos c..."
+  [36:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e cuento Sí yo le digo a Axel y a menos que Axel decid..."
+  [36:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...igo a Axel y a menos que Axel decida que no me parece ..."
+  [36:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...le cuento si le contamos Axel y yo..."
+  [44:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Ángela digo Perdón malí Axel lo agrega el chat de tod..."
+  [45:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pregun no no yo solo ag Axel ha agregado de por si lo..."
+  [47:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...computers 31 28 Axel Cuánto tiene usted de ph..."
+  [47:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...receta y habla mucho con Axel yo creo mucha atención e..."
+  [48:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...z sacó más alto usted 34 Axel cuánto Ah espere 11 + 16..."
+  [48:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mis dardos Yo me imagino Axel o sea..."
+  [51:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... parece un poco alterado Axel e quería que se asegurar..."
+  [52:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e estar esperando además Axel está las luces se ponen ..."
+  [54:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...parecido a lo que hizo s Axel con él ella le agarró la..."
+  [56:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...le dije dije qué le dijo Axel que no dejar que se fuer..."
+  [56:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... qué quieren que le diga Axel cree que la voy a dejar ..."
+  [57:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pasado nada malo cierto Axel cierto pero..."
+  [01:00:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e sentido Pero como otra Axel a Ben pero Ben Digamos c..."
+  [01:01:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ben que no es Ben piloto Axel temo decirle que no enti..."
+  [01:03:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eta mi Rango no como esa Axel que cree que la voy a de..."
+  [01:05:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar en el asunto este que Axel Nada más hace como y se ..."
+  [01:07:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 25 cultura bien benry y Axel han tenido la oportunida..."

@@ -1,0 +1,65 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,206
+  - Total párrafos: 439
+  - Correcciones automáticas Nivel 1 (Seguras): 26
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [06:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uando todos vamos cuando Axel va a ser..."
+  [11:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... episodio de la forja de Axel Axel me gustó mucho porq..."
+  [11:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...odio de la forja de Axel Axel me gustó mucho porque yo..."
+  [13:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tes tras de todo, porque Axel también andaba ahí infil..."
+  [14:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... cosa pasando. Entonces, Axel se estaba infiltrando ah..."
+  [14:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a para distraer para que Axel pudiera entrar...."
+  [14:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...episodio ese de Axel, este, y ya que es el ep..."
+  [14:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e entiendes? como porque Axel tal vez hubiera sentido ..."
+  [15:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nformación fue como como Axel, usted no está realmente..."
+  [15:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pero no recae como sobre Axel directamente, ¿me entien..."
+  [15:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel puede ni sobrefía como j..."
+  [28:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., pero Benry no lo dirá. Axel quiere ver la caja. No, ..."
+  [29:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... escamas. Me imagino que Axel sabe un poco. Yo sé sobr..."
+  [30:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...harlotte, está la par de Axel. No fue tan difícil. No ..."
+  [31:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o. Gracias. Yo le digo a Axel como si si no es problem..."
+  [31:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mo si si no es problema, Axel, podría podría volar yo ..."
+  [35:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Charlotte vuelve a ver a Axel. ¿Cree que debimos haber..."
+  [35:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... haber saludado también? Axel. ¿Saludado a quién?..."
+  [40:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... no mejor no con ruedas. Axel le compra una de esas..."
+  [42:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Y Axel también le regala un lab..."
+  [48:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Vamos. Está Axel se pone a pensar, si tuv..."
+  [49:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...as gracias y pasa par de Axel. No le compré nada...."
+  [01:02:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... está y está trciéndole. Axel, ¿usted cree que de verd..."
+  [01:10:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mos que que había dejado Axel en la nave y todo eso, e..."
+  [01:10:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se fue con él, dejaron a Axel y que fue de ella, ¿verd..."
+  [01:14:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do una pantalla. Vemos a Axel revisando la nave, a Pen..."

@@ -1,0 +1,51 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,044
+  - Total párrafos: 243
+  - Correcciones automáticas Nivel 1 (Seguras): 19
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [03:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...icio de la aventura para axel eso era juego un trabajo..."
+  [03:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...én cómo lanzar como croc axel es como solitaria y como..."
+  [06:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...endo a cada uno entonces axel de al principio era muy ..."
+  [06:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ahora la imagen deben de axel es cómo o qué es esta má..."
+  [09:39] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...de repente estamos en la piedra del drift y hay un montón de cosas..."
+  [11:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... la última frase que que axel escuchó en su mente hace..."
+  [11:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sea no sé si a axel le comentó a ese grupo e..."
+  [13:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ecisar al ver ese rostro axel de nuevo asteroides extr..."
+  [22:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...acn si yo ok 22 axel donde usted se empieza a..."
+  [26:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...no axel no tiene espacio para mo..."
+  [26:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...valente a lo que tiene a axel como un willys como para..."
+  [43:34] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...ojos donde como decir la piedra del drift y todo el lugar donde us..."
+  [56:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sted ve para todos lados axel y no el usted revisa y l..."
+  [01:05:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... loco 7.03 por su puerta axel 24 preparadísima de sent..."
+  [01:05:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... usted donde vea el beso axel..."
+  [01:06:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s en medio la observan y axel reacciona primero que ha..."
+  [01:12:15] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...sa un error es espantoso axel 42 vale lo mismo que está u..."
+  [01:12:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ubicándome entre axel y piel está a la izquier..."
+  [01:18:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...amos a steele se pase lo axel tengo miedo fortitude y ..."

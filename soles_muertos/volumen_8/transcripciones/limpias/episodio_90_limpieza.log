@@ -1,0 +1,49 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,066
+  - Total párrafos: 245
+  - Correcciones automáticas Nivel 1 (Seguras): 18
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [06:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ramente para eso tenemos axel que podría haber hecho y..."
+  [15:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...déjelo ahí axel sí bueno sabe cuando ust..."
+  [16:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... no lo sé sólo de verdad axel tiene razón hay que llor..."
+  [16:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...razón hay que llorar con axel no axel no tiene razón q..."
+  [16:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y que llorar con axel no axel no tiene razón que..."
+  [25:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... ben rey para trial para axel este..."
+  [26:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...uen al salón persie taxi axel tienen su ropa formal de..."
+  [28:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... antes hace mucho tiempo axel axel y él se acerca y ha..."
+  [28:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s hace mucho tiempo axel axel y él se acerca y hace co..."
+  [29:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...no era sido por un 9 por axel hemos sido parte del fre..."
+  [31:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pues axel y yo estábamos en un esc..."
+  [31:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...un escuadrón de volver a axel de nuevo como no saben c..."
+  [31:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...así peores axel y yo estuvimos en un esc..."
+  [37:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...to sólo muchas gracias a axel y también usted que ha c..."
+  [43:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aro mar lo que el tri el axel sí sí lo recuerdo sabe y..."
+  [01:02:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ue action 215 pero quién axel nunca no todo en que ese..."
+  [01:03:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...recido yo hoy por cierto axel venga esto esto le va a ..."
+  [01:09:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... y los eventos ocurridos axel 23 y un mensaje froyo qu..."

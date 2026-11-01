@@ -1,0 +1,37 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 8,176
+  - Total párrafos: 196
+  - Correcciones automáticas Nivel 1 (Seguras): 12
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pegó a axel pega una de 10 pregunta ..."
+  [16:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... clasificación sólo sólo axel es suficiente me lo pone..."
+  [17:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...po de precisión qué bien axel se sacó la lotería aquí ..."
+  [32:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...le contaré axel y tree él cuando ustedes..."
+  [34:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...le pegaron no parece que axel efe chica no no como dig..."
+  [44:00] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "... corta como acción libre axel 42..."
+  [49:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ara atrás y va a dar que axel enfrente usted se lanza ..."
+  [49:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...l espacio el bus está en axel para curarle siete hits ..."
+  [49:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n cantada which will que axel usted le digo critica al..."
+  [52:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lo logra axel usted se siente protegid..."
+  [53:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y después se lanza hacia axel cinco días y pega contra..."
+  [01:01:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...r música graciosa cuando axel da vueltas éste es bueno..."

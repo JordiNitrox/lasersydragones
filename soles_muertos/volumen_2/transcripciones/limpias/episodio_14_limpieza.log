@@ -1,0 +1,35 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 8,306
+  - Total párrafos: 210
+  - Correcciones automáticas Nivel 1 (Seguras): 11
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [07:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que conocí a la señorita axel y claire le comenta buen..."
+  [07:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... semana kim yun ji ji ji axel habla con claire sinclai..."
+  [08:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e historia del pasado de axel estar en algunas cosas s..."
+  [09:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...er androide y el alma de axel tuvo la mala suerte lo c..."
+  [09:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...des nacen siendo adultos axel en qué momento llegó a s..."
+  [09:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...r y le está informando a axel que ya..."
+  [27:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... la que dice embajadas y axel creo que es como alguien..."
+  [42:56] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...jano parentesco señorita axel 42 verdad gran empatía sien..."
+  [58:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lama flamantes después a axel el placer el señor guzmá..."
+  [01:03:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel axel tiene un punto ahí ..."
+  [01:03:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel axel tiene un punto ahí qué o..."

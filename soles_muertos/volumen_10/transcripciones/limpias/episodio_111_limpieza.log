@@ -1,0 +1,27 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,403
+  - Total párrafos: 262
+  - Correcciones automáticas Nivel 1 (Seguras): 7
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [18:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...on ese es muy chiquitito axel y yo estaba viendo desde..."
+  [33:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... drones casale detrás de axel baja cubo se mueve hasta..."
+  [37:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ambiar de armas entonces axel va a hacer el fui action..."
+  [54:29] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "...s las personas engaño al ring rey estoy seguro que engañad..."
+  [56:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ma acción la tomó en rey axel en hasta el momento eso ..."
+  [01:04:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...2 para nosotros no es un axel estaba esa la onu antes ..."
+  [01:04:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...omo el que usted tiene a axel tiene así..."

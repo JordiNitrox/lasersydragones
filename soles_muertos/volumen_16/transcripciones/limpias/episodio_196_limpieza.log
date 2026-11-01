@@ -1,0 +1,41 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,753
+  - Total párrafos: 419
+  - Correcciones automáticas Nivel 1 (Seguras): 14
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [22:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l resto del grupo Sibok, Axel y Benrey...."
+  [25:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...todo Axel era que tenía la informa..."
+  [32:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s por eso estaba así. Si Axel tiene ese plan, usted pu..."
+  [32:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ontinuar con ese plan de Axel. No, pero habíamos..."
+  [35:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te de eso, yo siento que Axel personalmente, yo sí, mi..."
+  [35:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...parte eso, yo siento que Axel tiene precedente de que ..."
+  [40:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...aro conmigo? El otro día Axel me No, el otro día no, A..."
+  [40:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l me No, el otro día no, Axel también me dijo algo de ..."
+  [54:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n 14, eh, 32. 32. Pucha, Axel...."
+  [01:01:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel las preocupaciones que l..."
+  [01:01:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...reocupaciones que le que Axel le dijo el otro día y en..."
+  [01:03:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Yo tengo 3800, digamos. Axel. Ah, yo estoy ahí...."
+  [01:04:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...como hablando mucho con Axel. Mm. como y al final cua..."
+  [01:07:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...é meiche? ¿Qué es usted? Axel le dice, yo dije, voy a ..."

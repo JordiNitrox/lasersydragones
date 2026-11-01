@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,935
+  - Total párrafos: 233
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...da Ya con 19 estaba bien Axel muy bien con ulta estos ..."
+  [25:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ravés de cbo a través de Axel Axel hacia la derecha ha..."
+  [25:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... de cbo a través de Axel Axel hacia la derecha hacia d..."
+  [30:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...me fortitude fortitude y Axel es un spell light no muy..."
+  [36:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oy a moverme a la par de Axel provoca provoca ataque S..."
+  [40:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...h y lo fallaron este c y Axel eres menos carismática u..."
+  [41:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pre me quito c Así que y Axel quítense tres puntos de ..."
+  [41:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en Un menos TR si es que Axel tiene ocho de carisma no..."
+  [49:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...horritos de sangre sigue Axel vamos Axel dele Será muy..."
+  [49:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sangre sigue Axel vamos Axel dele Será muy cruel lo q..."
+  [59:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o lo que hace arco sigue Axel muy bien desde ahí puedo..."
+  [01:00:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ver qué pasa la posee Axel Por qué estás 22 Axel qu..."
+  [01:00:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ee Axel Por qué estás 22 Axel quiere información de la..."
+  [01:03:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o muy lentamente Esa fue Axel creo que no voy a hacer ..."
+  [01:07:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel que más me preocupa es a..."

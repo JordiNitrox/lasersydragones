@@ -1,0 +1,29 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,772
+  - Total párrafos: 294
+  - Correcciones automáticas Nivel 1 (Seguras): 8
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [18:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...comentó a axel acerca de su conexión co..."
+  [29:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ideas y pedaleó de venga axel ya rayó un mapa sobre es..."
+  [01:08:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rca tenía nombre el sela axel pero cela ahora conocida..."
+  [01:09:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aman familias diferentes axel átela tiene tiene una..."
+  [01:14:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ok axel a usted le lleva otras c..."
+  [01:15:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...usted axel usted puede volver a int..."
+  [01:19:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel usted se pone revisar ha..."
+  [01:23:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...do que baja la cabeza ok axel en secreto los disguise ..."

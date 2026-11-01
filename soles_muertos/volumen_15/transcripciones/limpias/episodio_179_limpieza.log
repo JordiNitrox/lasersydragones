@@ -1,0 +1,49 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,939
+  - Total párrafos: 280
+  - Correcciones automáticas Nivel 1 (Seguras): 18
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [29:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...robablemente tiene razón Axel sí ser como la refri de ..."
+  [39:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...or Sofía usted diría que Axel estaba ahí involucrada e..."
+  [43:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mo esos 10 minutitos ahí Axel intenta no puede o sea t..."
+  [52:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Entonces eh vry 40 por Axel entonces Axel pone la co..."
+  [52:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vry 40 por Axel entonces Axel pone la comida que tiene..."
+  [54:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y no lo logra pero donde Axel le ayuda con un empujón ..."
+  [56:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cuánto sacó Axel yo persevero eh Henry 23..."
+  [58:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... hacer esto en r es como Axel revisa el otro servidor ..."
+  [58:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel lo reviso muy poquito co..."
+  [01:02:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nfosfera relevante el de Axel el del el del puro Sur e..."
+  [01:05:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ne un más cu de parte de Axel Ajá este sigo que usted ..."
+  [01:05:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... a fuerza que o benrey o Axel estén a la par suya porq..."
+  [01:05:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... decir que tiene que ser Axel porque Aparentemente hry..."
+  [01:06:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sarla eso que era un dos Axel Podría ayudarme con comp..."
+  [01:07:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ién su otro fit entonces Axel si usted me ayuda Bueno ..."
+  [01:08:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...va a salir bien a ver eh Axel puede ayudarme ahora sí ..."
+  [01:10:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... le estaba ayudando solo Axel estaba ahí y yo estoy tr..."
+  [01:11:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...segunda electr o sea Axel nunca hubiera tocado una..."

@@ -1,0 +1,39 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,404
+  - Total párrafos: 268
+  - Correcciones automáticas Nivel 1 (Seguras): 13
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [27:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... una discusión de porque Axel los agregó a todos al ch..."
+  [38:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ás tenemos en común vaya Axel estornuda estamos así oc..."
+  [38:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... de la puerta escuchando Axel Axel con un vaso vasito ..."
+  [38:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a puerta escuchando Axel Axel con un vaso vasito Sí sí..."
+  [40:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...versa con su buena amiga Axel acerca de de cuénteme má..."
+  [40:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o Bueno yo en es momento Axel está un poco resentida c..."
+  [46:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...buena idea preguntarle a Axel justamente porque Axel n..."
+  [46:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Axel justamente porque Axel no tiene filtro..."
+  [47:02] [NIVEL_1_SEGURO] 'Rin rey' -> 'Rim Rey'
+      Contexto: "...s 15 días benry pasa con Rin rey como como ese momento cu..."
+  [50:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...an la bola ahí es cuando Axel..."
+  [01:02:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...plat Axel también está hecha de pu..."
+  [01:02:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n cambio podría vender a Axel y no perdería nada pero ..."
+  [01:11:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar de vez en cuando eres Axel Yo sigo siendo triel ent..."

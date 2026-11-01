@@ -1,0 +1,35 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 7,294
+  - Total párrafos: 185
+  - Correcciones automáticas Nivel 1 (Seguras): 11
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [00:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sí que esta aventura con axel en..."
+  [14:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cheque file spinning con axel oponiéndose ok..."
+  [15:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel tiene el cheque para lo ..."
+  [20:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ivel v y consiste en que axel va a..."
+  [33:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... esto es por dinero pero axel está aquí en la cabeza c..."
+  [37:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...as ha sido así bailes de axel desde adelante que detrá..."
+  [38:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... voy a pasar la pantalla axel porque no creo que esté..."
+  [43:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...voy a hacerle en craig a axel y le voy a decir por axe..."
+  [43:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...xel y le voy a decir por axel en la nave enemiga está ..."
+  [54:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... al piloto en dos amigos axel que axel si es que ella ..."
+  [54:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o en dos amigos axel que axel si es que ella siempre s..."

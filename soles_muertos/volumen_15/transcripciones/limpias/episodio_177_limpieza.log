@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,981
+  - Total párrafos: 239
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o más terrible de todo y Axel tiene mucho que ocultar ..."
+  [12:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue ocultar la última vez Axel había enviado..."
+  [12:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la última interacción de Axel es merecedora de una Est..."
+  [21:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...icio tengo el Jetpack si Axel puede pasar volando lite..."
+  [23:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ría un Salto sin embargo Axel usted puede volar volar ..."
+  [25:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...et Man Ed Yo diría que a Axel le serviría bajo dado qu..."
+  [26:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel puede recoger la línea A..."
+  [26:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l puede recoger la línea Axel Suelta la línea y y pasa..."
+  [27:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e Sofía 21 14 en tu cara Axel 20 33 Okay 33..."
+  [29:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...adura y y K sube también Axel usted recoge la cuerda d..."
+  [36:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ras iniciativa 21 Tri 24 Axel..."
+  [36:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...21 tien para desempatar Axel 209 27 jes muy bien uste..."
+  [50:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de cboc del otro lado de Axel estoy al borde pero todo..."
+  [54:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ale muy bien muy buen eh Axel muy bien yo hago un Tric..."
+  [55:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o lo que le pega a usted Axel y sigue benrey Beny se v..."

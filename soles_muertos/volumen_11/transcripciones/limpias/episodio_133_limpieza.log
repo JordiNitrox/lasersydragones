@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,724
+  - Total párrafos: 310
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [08:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ecnical como yo sí sufre Axel Sufre y Ben Rey yo gané ..."
+  [13:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ra concluye primer lugar Axel y Compañía todos en el p..."
+  [14:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ález le agarra la mano a Axel y se la levanta como nue..."
+  [21:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a benrey se los apostó a Axel le dijo a hann que apost..."
+  [23:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a con sus tres esposos a Axel y a usted triel Ah cumpl..."
+  [24:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... de una drog quién diría Axel a usted se le..."
+  [27:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Victoria especialmente Axel y Axel está ahí sentada ..."
+  [27:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ria especialmente Axel y Axel está ahí sentada toda to..."
+  [27:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ia tomando tal vez no sé Axel está eufórica con la vic..."
+  [28:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s pero yo digo eso y veo Axel así y vuelvo a ver a mar..."
+  [28:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a el premio que le dan a Axel es de 16000 créditos 150..."
+  [44:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...llegamos al mismo tiempo Axel a usted también otra gen..."
+  [44:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oncursos de Costa Rica a Axel también en premio que qu..."
+  [44:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... primeros tres puestos a Axel a triel se lo invita tam..."
+  [48:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e apunta está así seguro Axel como comiéndose..."
+  [48:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... mucho que Miguel maneja Axel continuamente yo toda es..."
+  [48:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ctitud des preocupada de Axel que es como Ah voy a com..."
+  [50:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s tienen solo V yo y a y Axel irónicamente sí kiran es..."
+  [01:01:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vamos vamos por Axel se que está un poco yo s..."
+  [01:19:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... una gran carrera sé que Axel ganó y pues se lo merece..."
+  [01:26:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...26 26 sobre todo triel y Axel notan que es un problema..."

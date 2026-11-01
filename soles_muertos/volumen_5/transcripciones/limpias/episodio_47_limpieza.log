@@ -1,0 +1,71 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,961
+  - Total párrafos: 282
+  - Correcciones automáticas Nivel 1 (Seguras): 29
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [01:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...gicos y cuando le dijo a axel que se fuera y..."
+  [04:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...parece más a un roedor y axel es la pequeña los dedica..."
+  [27:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ed hace eso yo le digo a axel como axel porque no..."
+  [27:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o yo le digo a axel como axel porque no..."
+  [32:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ahora aparece el vídeo y axel se pone a pistola en la ..."
+  [32:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... le pega en la espalda a axel como bueno y no hay nada..."
+  [38:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...amarlos 19.03 de 19 a 23 axel 26 para el 27 por haber ..."
+  [40:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...as ustedes se preparan y axel reacciona primero que to..."
+  [42:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... nada se conoce daisy ok axel entonces no hace nada en..."
+  [42:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... es mover me enfrente de axel y quedar totalmente detr..."
+  [50:37] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...l monito baja por la sal axel 42 algún take attack con ac..."
+  [53:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...boles se lanza uno hacia axel como todo como le manda ..."
+  [53:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...omo le manda un codazo a axel y falla el corazón el co..."
+  [54:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...dra sale corriendo atrás axel de nuevo 5 10 15 20 25 8..."
+  [55:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... del árbol y se acerca a axel también hijo de guau no ..."
+  [57:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... todos están a la par de axel pero estamos del camino ..."
+  [57:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...estamos del camino es de axel ea cobra todos ok si alg..."
+  [58:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ice para aquí a la parte axel y ataca a suave contra e..."
+  [58:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e mueve guerty detrás de axel y a través de ella manda..."
+  [58:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y lo conecta a través de axel y yo estoy muy cerca de ..."
+  [59:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel está usted rodeada por l..."
+  [01:10:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...segundo falla el tercero axel para entender digamos en..."
+  [01:13:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel con con el bono que tien..."
+  [01:16:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel entonces le va a dispara..."
+  [01:19:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...se salvó con un groso axel o me siento mal por el m..."
+  [01:20:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a 6 en total usted corre axel..."
+  [01:26:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...si usted accede se saltó axel de hecho así porten de é..."
+  [01:27:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cupante esa última parte axel usted se acerca y ve eso..."
+  [01:28:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e a donde usted está ahí axel usted se queda viendo es..."

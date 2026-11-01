@@ -1,0 +1,101 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,295
+  - Total párrafos: 459
+  - Correcciones automáticas Nivel 1 (Seguras): 44
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [03:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ro eh Pero es el alma de Axel en el cuerpo de Claire...."
+  [13:05] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...ro cables que amarran La piedra del drift Osea que la nave de uste..."
+  [13:22] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...Creon y La piedra del drift, que la piedra del drift..."
+  [13:22] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...piedra del drift, que la piedra del drift está como a un casi un k..."
+  [18:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ste este alegato lo hace Axel en personaje La había pe..."
+  [18:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a ver Axel que pensaría, tal vez ta..."
+  [18:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... en realidad no, pero si Axel eh lo dijera lo marcaría..."
+  [28:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os y bueno, yo sería yo. Axel, Axel y yo nos vemos y h..."
+  [28:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ueno, yo sería yo. Axel, Axel y yo nos vemos y hacemos..."
+  [32:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Eh, Axel. 22 con 90 natural. Okay..."
+  [34:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...overcharge en el arma de Axel Mhm. y voy a preparar ac..."
+  [35:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ada más. Okay. Entonces. Axel. Bueno, entonces te teng..."
+  [36:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lado. Ehm, trick attack. Axel, usted se mete a ese osc..."
+  [38:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...El acata se acerca a Axel y la muerde. Ay, no. No ..."
+  [41:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel usted ahí. No puedo hace..."
+  [42:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e el otro. Ah, tiene 12. Axel. Axel dijo que no tenía ..."
+  [42:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tro. Ah, tiene 12. Axel. Axel dijo que no tenía la..."
+  [44:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cuadra enfrente de Axel y la muerde de nuevo y f..."
+  [44:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oco ahí de bono a la sea Axel, que es un standard acti..."
+  [45:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...osicionarse más cerca de Axel para ayudarle, 5, 10, 15..."
+  [45:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... como al lado opuesto de Axel y le dispara con el rifl..."
+  [47:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... dados tan malos. Falla. Axel. Uy, sí, sí, usted tiene..."
+  [47:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rango de eso. Axel, va usted. Este este bic..."
+  [49:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se para del otro lado de Axel y trata de morderla de n..."
+  [49:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la cata la agarró contra Axel, va a regresar a la al p..."
+  [50:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...trás de Trial, ahí veo a Axel...."
+  [50:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de la cata va a morder a Axel, yo le digo como "Para a..."
+  [50:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e digo como "Para atrás, Axel, para atrás, para atrás...."
+  [50:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...criatura con el cover de Axel. Mhm. Pregunta. Sí, eso ..."
+  [51:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...estoy. Siete, siete. Y a Axel se la comió una cata por..."
+  [51:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o dispararle o le pego a Axel. Eh las estas estas arma..."
+  [52:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sos bichos. Azul. Sí, eh Axel queda toda pringada de s..."
+  [53:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el cadáver a Axel, se lo pone en la mano, ..."
+  [54:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nto, pero la apuesta fue Axel, ella dijo que está de a..."
+  [54:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel le robó la apuesta. Sí. ..."
+  [54:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... le robó la apuesta. Sí. Axel es una es una apostadora..."
+  [54:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... como "Apuesto tal vale, Axel, lléguele."..."
+  [55:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., es como Por eso es que Axel nunca tiene plata, digo...."
+  [01:08:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...á bien, está bien. Okay. Axel, revisa lo último que co..."
+  [01:09:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te importante el cereal. Axel, este No puede probar el..."
+  [01:11:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...visar la puerta mientras Axel se come el cereal viejo...."
+  [01:18:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... goblins. Okay, entonces Axel 23, Triel. Uno...."
+  [01:19:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s goblins, tres, 15. 11. Axel, usted ve que hay unos g..."
+  [01:20:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ick attack. Vamos, pegue Axel, no ha pegado ni un solo..."

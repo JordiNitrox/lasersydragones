@@ -1,0 +1,79 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,494
+  - Total párrafos: 491
+  - Correcciones automáticas Nivel 1 (Seguras): 33
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [21:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e a ver y vuelve a ver a Axel. Ah, Axel...."
+  [21:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vuelve a ver a Axel. Ah, Axel...."
+  [25:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...diariamente. Axel de ahí. Hábleme por chat..."
+  [26:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Si si si si Axel puede usar computers. Aj..."
+  [26:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... usar computers. Ajá. Si Axel quiere, puedo, pero es m..."
+  [29:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ndo a ver si eh más dos. Axel vaya por el critical...."
+  [41:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...odo esto? Vuelve a ver a Axel de nuevo...."
+  [41:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Axel vuelve a ver los l..."
+  [41:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Axel vuelve a ver los lados. ..."
+  [46:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...esperanzas. Se refiere a Axel, ¿verdad? Sí...."
+  [46:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s otras cosas. Yo no sé, Axel, es decisión suya en rea..."
+  [49:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...frente a Axel, pero no le es una andro..."
+  [51:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Y a usted, Axel, principio y fin. La que..."
+  [52:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no sabe que técnicamente Axel es en efecto su madre y ..."
+  [52:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ell para comunicarme con Axel este mentalmente. Yo si ..."
+  [53:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...así especialmente hacia Axel como tan, ¿por qué no ex..."
+  [53:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...todos? por Axel. Axel nunca estaba dispu..."
+  [53:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...todos? por Axel. Axel nunca estaba dispuesta a..."
+  [54:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r forma. Eso es algo que Axel dice mucho. Axel, tener ..."
+  [54:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lgo que Axel dice mucho. Axel, tener contacto con este..."
+  [58:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Nunca. Vuelve a ver a Axel. La soledad siempre esta..."
+  [01:08:39] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "... trato que la llevó a la piedra del drift. Sí, pero eso fue mor co..."
+  [01:09:12] [NIVEL_1_SEGURO] 'piedra del Drift' -> 'Roca del Drift'
+      Contexto: "...códigos que vimos en esa piedra del Drift,..."
+  [01:09:35] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...La piedra del drift estaba ahí a la par de A..."
+  [01:11:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...llegó aquí, digamos, sin Axel...."
+  [01:11:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r qué dice que llegó sin Axel? Es que yo tengo un enre..."
+  [01:11:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ve porque nosotros vimos Axel morir ahí...."
+  [01:11:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ahí estaba la otra Axel. el tal vez yo no entien..."
+  [01:11:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a época, habían Sí, pero Axel se murió ahí en la nave ..."
+  [01:15:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: ".... ¿Quién hizo quién hizo Axel como la hizo creó esa si..."
+  [01:16:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... los hijos del cuerpo de Axel puede reproducirse, solo..."
+  [01:19:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os y por lo que sabemos, Axel ni siquiera envejecen lo..."
+  [01:25:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o, que usted lo ve, ve a Axel y de nuevo siente ese fr..."

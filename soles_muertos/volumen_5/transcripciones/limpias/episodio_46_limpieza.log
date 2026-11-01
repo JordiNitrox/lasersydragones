@@ -1,0 +1,77 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,934
+  - Total párrafos: 289
+  - Correcciones automáticas Nivel 1 (Seguras): 32
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [09:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel por conseguir comida irá..."
+  [13:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... ver que por un instante axel se queda como estática v..."
+  [13:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o usted están hablando y axel está completamente..."
+  [14:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...id a axel en su mente corren imáge..."
+  [15:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ed qué hacen dónde venga axel ahí como space in out me..."
+  [15:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...in out me acerco a ellos axel axel está también..."
+  [15:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...t me acerco a ellos axel axel está también..."
+  [16:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel brinca el vehículo que n..."
+  [18:16] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...e nuestra guía confiable axel 42 nuestro todopoderoso y l..."
+  [18:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... antro lo mató con ayuda axel axel estoy perdido el ta..."
+  [18:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o lo mató con ayuda axel axel estoy perdido el taxi..."
+  [23:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ed como representante de axel en survival tirme sur va..."
+  [26:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...raciones ustedes ven que axel saca unas raciones que h..."
+  [26:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...saben feo pero la comida axel hasta que es como..."
+  [27:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pío pío es un gran éxito axel los raros..."
+  [29:28] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...vanzan otro día completo axel sigue como la montaña si..."
+  [32:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... su con su finada esposa axel se recuerda las veces qu..."
+  [47:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...estrés gerty es 4 y axel es 5 g pero ahora viene ..."
+  [53:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...fico bueno entonces culé axel va a salir corriendo así..."
+  [54:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...contra con axel en total ok 18 18 3 x po..."
+  [58:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...en rey y hace otro éxito axel yo a pesar de que voy a ..."
+  [01:03:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...con 10 axel pasado va muy bien y tod..."
+  [01:03:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n contra axilas así como axel station que niega el dañ..."
+  [01:08:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nalización vamos vamos a axel tú puedes 26..."
+  [01:08:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel usted corre un y donde v..."
+  [01:13:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... mismo los dos pero si y axel..."
+  [01:24:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...árbol porque salva axel bueno ya habíamos sacado..."
+  [01:24:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ival 15 la vida de leche axel ha pasado algunos se ha ..."
+  [01:25:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... 116 pasado verdú pasado axel fallado por lo que una..."
+  [01:26:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ocurre al chile en serio axel hágase nada el ibex hága..."
+  [01:32:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...es entonces todos half - axel que es full lo malo que ..."
+  [01:34:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...marlo trial con guerty y axel ahí van corriendo pasan ..."

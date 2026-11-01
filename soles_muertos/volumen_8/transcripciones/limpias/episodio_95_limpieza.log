@@ -1,0 +1,41 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,739
+  - Total párrafos: 292
+  - Correcciones automáticas Nivel 1 (Seguras): 14
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...atura creo que aporté el axel trial cacabelos y les do..."
+  [32:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...key lastimosamente no es axel para que usted la cure c..."
+  [33:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...i llega más alto así que axel de usted ayuda y dice qu..."
+  [33:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e el primero el medicine axel..."
+  [33:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...2 axel usted no ayuda así y bue..."
+  [45:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sé que planean ser bueno axel tenía un hall de crédito..."
+  [46:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e lo donde de la calle y axel pero hubiera sido más di..."
+  [46:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...bajar en él el objeto ok axel eso lo deja usted como u..."
+  [59:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ito no sólo comía y bien axel es comparto la informaci..."
+  [01:01:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...coche axel dígame cómo vestirme +4 ..."
+  [01:01:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... dígame cómo vestirme +4 axel trasera atrás desierto 2..."
+  [01:04:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... tiene que ser súper así axel salado para fallar eso y..."
+  [01:18:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...2020 y sala me ven rey y axel muy bien usted sabe que ..."
+  [01:20:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o es más como el área de axel y devendrá y cuando uste..."

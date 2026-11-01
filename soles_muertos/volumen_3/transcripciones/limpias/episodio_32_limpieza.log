@@ -1,0 +1,61 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,567
+  - Total párrafos: 278
+  - Correcciones automáticas Nivel 1 (Seguras): 23
+  - Correcciones validadas Nivel 2 (Contextuales): 1
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...as de esta grabación y a axel le llegó un mensaje mole..."
+  [13:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ha esa revelación afuera axel no sé por qué no voy a d..."
+  [15:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s zombies en otras se ve axel con cuchillo y pistola c..."
+  [17:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...donde está dando vueltas axel con el rifle sniper en p..."
+  [18:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...do usted ve usted ve que axel está toda solita en el l..."
+  [20:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...le del cuarto donde está axel usted le llega una llama..."
+  [20:48] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "... fue bien con su trabajo axel 42 sobrevivido por lo menos..."
+  [22:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...somos menos axel cada vez hay menos de no..."
+  [23:29] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...axel 42 quisiera escuchar más so..."
+  [24:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...continuaremos la lucha axel pero espero que sepa uti..."
+  [31:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...decía es llegan y sale a axel también del baño el esta..."
+  [39:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...todos somos colegas aquí axel le agarra las manitas a ..."
+  [40:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e las lápidas la bendiga axel y veo que no la llamó a ..."
+  [47:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ganas pues con niveles y axel que hace axel se ve que ..."
+  [47:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... niveles y axel que hace axel se ve que traen nueva co..."
+  [51:33] [NIVEL_1_SEGURO] 'que le vasco norma' -> 'Gevalarsk Nor'
+      Contexto: "...jes uno es del embajador que le vasco norma que le está que elevarse..."
+  [51:33] [NIVEL_2_CONTEXTUAL_OK] 'que elevarse' -> 'Gevalarsk Nor'
+      Contexto: "...dor Gevalarsk Nor que le está que elevarse y..."
+  [53:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...si estoy de acuerdo dice axel como con comida en su te..."
+  [54:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...vamos por cierto axel está con una ropa ella l..."
+  [56:58] [NIVEL_1_SEGURO] 'que el tús' -> 'Keltus'
+      Contexto: "...o rara sonrisa y le dice que el tús puede dejarnos solos gra..."
+  [57:35] [NIVEL_1_SEGURO] 'que el tús' -> 'Keltus'
+      Contexto: "... somos los pitcheos aquí que el tús le dejó un rico café par..."
+  [01:11:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ilización completa no no axel lo que quiero decir es q..."
+  [01:17:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...suerte axel y pueda utilizar todos s..."
+  [01:21:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...osos para ser arrestados axel no..."

@@ -1,0 +1,49 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 14,347
+  - Total párrafos: 498
+  - Correcciones automáticas Nivel 1 (Seguras): 18
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [23:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ntes de hecho, ¿qué hace Axel y Marlock? Yo estoy vien..."
+  [31:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que deberíamos decirle a Axel? Vuelve a ver a Axel y e..."
+  [31:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e a Axel? Vuelve a ver a Axel y está la par de..."
+  [33:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... me vio la cara rara fue Axel, de hecho. Sí, pero buen..."
+  [45:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...or aquí. Qué barbaridad. Axel, echándose a los bolsill..."
+  [01:07:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ry. Es un trato. Triel y Axel. Le doy un beso a Marl...."
+  [01:13:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...25. Uh, Axel, cuatro. ¿Tiene estrelli..."
+  [01:14:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e dice, "No se preocupe, Axel, a Anul fue muy muy difí..."
+  [01:20:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sea que está ocurriendo, Axel está escolada...."
+  [01:21:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel tuvo que entender eso en..."
+  [01:21:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ahí sí hace gracia. Dice Axel con resentimiento y envi..."
+  [01:24:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a era ir a ver qué hacía Axel al final...."
+  [01:24:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...entiría mejor si usted y Axel están juntos...."
+  [01:24:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí, perdón, Axel. Solo pensé en lo mismo ..."
+  [01:26:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mos de cargar las cosas, Axel, cuando despeguemos...."
+  [01:27:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...grosa. Y la nave Benry y Axel en el puente. Axel, tomé..."
+  [01:27:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nry y Axel en el puente. Axel, tomé asiento. Esta char..."
+  [01:31:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...caracterizado muy bien a Axel en..."

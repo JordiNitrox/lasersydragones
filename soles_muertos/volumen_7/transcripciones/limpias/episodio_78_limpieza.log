@@ -1,0 +1,33 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,836
+  - Total párrafos: 264
+  - Correcciones automáticas Nivel 1 (Seguras): 10
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [32:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...hecho axel vaya despacio en el trip..."
+  [43:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sta ya está analizándose axel está preparada para pilo..."
+  [44:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel 3 se le acerca como y le..."
+  [44:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...muy bajito mejor que con axel porque si ella se enoja ..."
+  [46:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel le lleva a llevar cuatro..."
+  [48:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel ayuda ok eso sería un pl..."
+  [49:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...fuerzo que tiene que ser axel para hacer eso le está r..."
+  [49:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... para crear un intro y y axel ahí también es como pose..."
+  [50:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... trial o de my luck o de axel que creo que también..."
+  [01:02:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...bueno con lo que le dijo axel se puso un poco como en ..."

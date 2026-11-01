@@ -1,0 +1,41 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,980
+  - Total párrafos: 299
+  - Correcciones automáticas Nivel 1 (Seguras): 14
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s llevaría atriel no sea Axel voy a decir yo este ella..."
+  [22:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ontera que se le ocurrió Axel iba a salir..."
+  [26:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os paños pero yo le digo Axel como Axel probablemente ..."
+  [26:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ero yo le digo Axel como Axel probablemente aquí debe ..."
+  [26:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... vez mi vida es como que Axel pueda como hacer como qu..."
+  [28:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...paramos que yo le digo a Axel que fue la que escondió ..."
+  [28:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... escondió las cosas como Axel recuerde buscar alguna a..."
+  [29:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... los paños y yo Ah claro Axel Bueno digo..."
+  [44:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... encontrar así que vamos Axel venga vamos..."
+  [51:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ncillo ya le iba a decir Axel es como Alexa nos quedam..."
+  [52:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o que eso está así Ahora Axel me da por limpia aquí ti..."
+  [55:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n ustedes tres aquí este Axel y benry y la señora en r..."
+  [59:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...igo telepáticamente como Axel encontró la entrada para..."
+  [01:25:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rar y podría haber ido a Axel no sé a verme a recoger ..."

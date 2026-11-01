@@ -1,0 +1,59 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,324
+  - Total párrafos: 336
+  - Correcciones automáticas Nivel 1 (Seguras): 23
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [05:29] [NIVEL_1_SEGURO] 'que el tus' -> 'Keltus'
+      Contexto: "...público más afamados fue que el tus..."
+  [06:22] [NIVEL_1_SEGURO] 'que el tús' -> 'Keltus'
+      Contexto: "...s bastante altos pero sí que el tús fue increíblemente popul..."
+  [13:16] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "...este alguien mencionó al ring rey así cuando porque ya me ..."
+  [40:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... 5 minutos para terminar axel como tiene resistencia v..."
+  [44:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...bien axel dispara bastante y éste ..."
+  [49:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nteresante 60 comiendo a axel en river en el plato que..."
+  [59:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mar esa decisión yo sola axel no los conectaría con la..."
+  [01:03:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ro depende de trial y de axel alguien más que está aqu..."
+  [01:10:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...movimiento axel va a tener que pilotear ..."
+  [01:12:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s exactamente eso en ree axel que pienso que dice ella..."
+  [01:14:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o está es una nave donde axel la pilotea y los demás..."
+  [01:15:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rdo con nosotros siempre axel dígame como lo conoce a ..."
+  [01:19:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...no no no axel axel no estado dentro nu..."
+  [01:19:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...no no no axel axel no estado dentro nunca f..."
+  [01:21:07] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...madrugada axel lo que está paranoica y ..."
+  [01:21:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...llegó es todo lo que sea axel la voz de texto de que..."
+  [01:32:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...;__&nbsp;] hay que estar axel sigue axel observen a qu..."
+  [01:32:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...hay que estar axel sigue axel observen a que le toca..."
+  [01:33:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...acer y que será qué será axel usted será 9 la clase 9 ..."
+  [01:39:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... asunto ya verán por qué axel axel que siempre sido an..."
+  [01:39:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...to ya verán por qué axel axel que siempre sido android..."
+  [01:40:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s graciosos que va a ser axel..."
+  [01:42:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...le construidas a pique y axel..."

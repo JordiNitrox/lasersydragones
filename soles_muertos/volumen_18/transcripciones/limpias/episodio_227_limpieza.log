@@ -1,0 +1,73 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,874
+  - Total párrafos: 371
+  - Correcciones automáticas Nivel 1 (Seguras): 30
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [20:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de unas piedras. Marloc, Axel, está toda llena de gras..."
+  [23:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sted lo escucha en Draw, Axel, usted lo escucha en en ..."
+  [27:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a es la respuesta corre. Axel 27,..."
+  [28:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s frases una y otra vez. Axel, usted inicia y usted ve..."
+  [31:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a. Resulta el ateísmo de Axel está saliendo..."
+  [31:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ía no. Bueno, al menos a Axel no la ha visto, pero tal..."
+  [32:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a entre Marlock, Benry y Axel se empiezan a levantar t..."
+  [32:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...17 Marlock. Axel 27. ¿Quiénes sacaron 22 ..."
+  [32:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Marlock no lo pasa. Eh, Axel, usted toma cero daño, s..."
+  [33:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel les pasa eso. Pero tal v..."
+  [33:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hasta quedar enfrente de Axel, Benry y Marlock y se el..."
+  [34:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... árbol donde mordieron a Axel y..."
+  [37:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a tratar de de proteger. Axel, eh,..."
+  [43:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Yo le digo y no. Okay. Axel queda permanentemente [&..."
+  [43:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... a terminar la aventura. Axel. Oh, no...."
+  [44:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y." Usted ve eso y usted Axel siente donde sus coyuntu..."
+  [44:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...[grito] Benry, Axel, no. ¿Qué pasó? [risas] ..."
+  [45:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de los episodios pasados Axel estaba como filosofando ..."
+  [45:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...daño Axel no se lo puedo curar. A ..."
+  [45:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿Qué? ¿Qué está pasando, Axel? Está actuando raro, per..."
+  [47:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dos del Gem. Entonces, y Axel le bajó la C. Okay. 24 c..."
+  [48:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te mío como a un ladito. Axel, tire...."
+  [48:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ajo no puede hacer nada. Axel, Axel, tú puedes. O tal ..."
+  [48:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... puede hacer nada. Axel, Axel, tú puedes. O tal vez no..."
+  [54:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eso. Triel, ¿dónde quedó Axel?..."
+  [55:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ah, ya la vi. Axel tiene que hacer del [&nb..."
+  [56:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iel va a En este momento Axel tiene un 25% de lograr a..."
+  [59:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... a 50. Exacto. Muy bien, Axel. Era un critical de un a..."
+  [59:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Sí, no es lo peor, pero Axel tiada porcentaje. Eso qu..."
+  [01:03:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...k la vuelve a ver usted, Axel. Tengo una gema para su ..."

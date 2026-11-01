@@ -1,0 +1,71 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,720
+  - Total párrafos: 266
+  - Correcciones automáticas Nivel 1 (Seguras): 29
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ermina el round sorpresa axel esta alerta que hace ust..."
+  [19:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ta alerta que hace usted axel y sacó mi rifle..."
+  [20:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...á a lo que yo le diría a axel que podría..."
+  [22:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...te como usted le dispara axel la criatura está le devu..."
+  [25:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tandard acción le digo a axel axel está demasiado lejo..."
+  [25:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rd acción le digo a axel axel está demasiado lejos más..."
+  [27:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...isible muy bien muy bien axel guste que esta apresurad..."
+  [29:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...gracias pues axel avanza y de ahí disparo ..."
+  [29:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...es como amateur axel llega a disparar y despu..."
+  [31:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...fue el rey usted ve como axel corre y bota a la basura..."
+  [31:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mos escuchar el grito de axel del no incluso en el vac..."
+  [37:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...también un tono muy bien axel que recargue y ahora sí ..."
+  [49:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... un poquito que continúa axel bueno la amiga está bast..."
+  [49:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...va a mover a la parte axel sí que a usted le parece..."
+  [56:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o granadas fragmentos de axel excepto..."
+  [01:01:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la cabeza pero éste sacó axel un 16 y vendrá un 12..."
+  [01:04:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tener misticismo tal vez axel vamos a ver en el asunto..."
+  [01:06:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ue intermedio quedamos y axel tenemos sniper sí ok con..."
+  [01:10:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...acaso de hecho le digo a axel como este paso se ve est..."
+  [01:10:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...este paso se ve estrecho axel creo que podría guardar ..."
+  [01:11:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ndo un poquito que tiene axel estuvo en la de as por u..."
+  [01:14:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y sobre todo me interesa axel que tire physical scienc..."
+  [01:14:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel usted escuchó que este l..."
+  [01:18:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cumplir con cuidado como axel conmigo vigilen las pare..."
+  [01:21:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...or lo tanto este primero axel sin embargo usted y sólo..."
+  [01:22:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...salta todos massa axel debajo del polvo usted p..."
+  [01:22:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...omo exactamente de hecho axel usted no está dos cosas ..."
+  [01:23:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel para atrás despacio desp..."
+  [01:23:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cia usted mientras usted axel enfrente puede ver que c..."

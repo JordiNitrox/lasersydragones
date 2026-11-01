@@ -1,0 +1,39 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,375
+  - Total párrafos: 285
+  - Correcciones automáticas Nivel 1 (Seguras): 13
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel detrás de ella apuntándo..."
+  [14:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a la rejilla que le dijo axel de la rejilla chorrea sa..."
+  [21:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a hacer una reflexión de axel claro y decir que le abo..."
+  [45:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s es que conoce a null y axel podríamos adjuntar la fo..."
+  [45:25] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...ue esa viste de de nul y axel 42 o hallará que..."
+  [45:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...os somos 23 tal y yo soy axel tenemos esta conexión en..."
+  [47:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sted en un 9 que sabe de axel y que sabe de hallar que..."
+  [52:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ués de quemar lo que que axel puso su colección de sal..."
+  [53:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...arlo de la llave maya de axel y dice voy a tomarme est..."
+  [53:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ansó generales ahí sí sí axel se duerma esta tarde y..."
+  [01:12:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel reyero axel no quiere qu..."
+  [01:12:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel reyero axel no quiere que vayan se d..."
+  [01:21:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n vuelve verás el frente axel no me suena..."

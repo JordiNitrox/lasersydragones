@@ -1,0 +1,53 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,108
+  - Total párrafos: 430
+  - Correcciones automáticas Nivel 1 (Seguras): 20
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [00:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...gones. [risas] Tata hizo Axel cuando pegó la cabeza en..."
+  [19:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e movió la nave frente a Axel. Y una de las sombras se..."
+  [21:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ve no vuelve, no sé. Eh, Axel se ve un poco bastante g..."
+  [23:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., al hombre tintineante. Axel, usted vaya a la otra na..."
+  [31:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...quité [risas] la piel. Y Axel piensa en cómo hackeó y ..."
+  [32:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pasando. Yo voy a pasar. Axel, ven un momentito. [risa..."
+  [32:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...erme un upgrade. [risas] Axel inocentemente piensa com..."
+  [34:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ás dos de parte mía. 25. Axel ve va a cometer un graví..."
+  [34:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l último momento y donde Axel interviene le más dos y ..."
+  [35:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, que la que entró a ese ..."
+  [38:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, espero no haberle falla..."
+  [42:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿Cuánto eras? Sí, Axel creo que necesita una ar..."
+  [44:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Okay, hay dos. Entonces, Axel, porque creo que bueno, ..."
+  [44:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... razón sencilla. También Axel tiende a hacer un millón..."
+  [45:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r este. Bueno, si quiere Axel, tiremos. Yo yo me pondr..."
+  [45:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...construir una armadura a Axel y yo le voy a construir ..."
+  [47:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Es una mala idea." Okay, Axel, ¿se acuerda que hab un ..."
+  [01:01:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Qué barbaridad. Axel, usted se queda pensando..."
+  [01:08:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...h, miren, barro. [risas] Axel, usted antes que nadie, ..."
+  [01:10:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí, Axel jetpack. Si hay un árbol..."

@@ -1,0 +1,37 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,501
+  - Total párrafos: 244
+  - Correcciones automáticas Nivel 1 (Seguras): 12
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [29:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... esperando Yo no le digo Axel venga ayúdeme a a a revi..."
+  [30:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rillas más relevante aún Axel habla el idioma usted no..."
+  [35:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a fijarse si puede entre Axel y triel cuál tiene Life ..."
+  [36:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...unta tiro el engineering Axel me va a ayudar Axel le a..."
+  [36:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ring Axel me va a ayudar Axel le ayuda ultura estoy ay..."
+  [42:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tá segura porque es como Axel yo sé de lo que estoy ha..."
+  [48:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ablemente no es como que Axel no estaba enferma en otr..."
+  [50:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...computers me imagino que Axel que es la que tiene to n..."
+  [52:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...un check de computers eh Axel..."
+  [54:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...computers Axel vamos natural natural us..."
+  [55:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eguridad Okay bien hecho Axel Excelente muy bien có no..."
+  [01:02:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ra cosa tapando justo es Axel está jugando con el pocl..."

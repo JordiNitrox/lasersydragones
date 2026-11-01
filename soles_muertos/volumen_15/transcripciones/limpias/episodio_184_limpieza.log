@@ -1,0 +1,65 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,981
+  - Total párrafos: 278
+  - Correcciones automáticas Nivel 1 (Seguras): 26
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [20:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sí gerti 27 27 y+ 4 Okay Axel yo con mi Jetpack podría..."
+  [26:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dos cuadros y acrobatics Axel y triel s voy a acrobati..."
+  [28:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...menos menos Axel y no y y triel y Ah Tri ..."
+  [28:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ción c siguiente triel y Axel están a un cuadro de la ..."
+  [41:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...como listo para disparar Axel Eh me muevo para ponerme..."
+  [43:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue estoy atrás esperando Axel 23 limpieza Sí pero paso..."
+  [43:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ce delay a Oh vaya bueno Axel usted es un..."
+  [46:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...á doctor hesco el asunto Axel su primera acción fue es..."
+  [49:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...yo le pego a Axel eh la criatura sale peda..."
+  [49:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n embargo pegada a usted Axel bueno primero s sac un u..."
+  [49:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o y le vuela la cabeza a Axel la criatura levanta un p..."
+  [55:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue ver si no ataca tanto Axel y está flanqueando AX es..."
+  [55:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...á en una casita metálica Axel eh Como estoy pegad ah e..."
+  [59:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os rifles y le dispara a Axel yoc y eso es e me imagin..."
+  [01:00:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ó daño este turno porque Axel huyó Axel y y Ah les aca..."
+  [01:00:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e turno porque Axel huyó Axel y y Ah les acaban de..."
+  [01:00:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...piring combo voy curar a Axel 22 de estamina y le digo..."
+  [01:01:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...como bien hecho Axel excelente ide Jetpack y ..."
+  [01:03:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s estoy dando cover pero Axel s yo yo puedo con el Jet..."
+  [01:05:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e Attack pero digamos eh Axel no sabía esto y hasta ah..."
+  [01:06:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o algo como esto eso fue Axel cbok este te está cu ahí..."
+  [01:09:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel nada que sea más alto qu..."
+  [01:11:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os de vida sigue c Ah no Axel Axel est si puedo Ya apr..."
+  [01:11:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... vida sigue c Ah no Axel Axel est si puedo Ya aprendí ..."
+  [01:12:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o A Cuerpo entonces este Axel está volando si un..."
+  [01:14:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sera es ué miedo es como Axel Al fin te va a derretir ..."

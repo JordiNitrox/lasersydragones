@@ -1,0 +1,61 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,221
+  - Total párrafos: 258
+  - Correcciones automáticas Nivel 1 (Seguras): 24
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [17:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...marlon 16 y el 19 axel 28 web web 20 y 21 yo as..."
+  [18:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...charía mejor estas cosas axel..."
+  [22:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...scar cover igual que que axel y con mi próxima como..."
+  [25:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...olumna quedando frente a axel y vende a brasil viendo ..."
+  [29:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e ella y por un instante axel y marlon en que ella toc..."
+  [31:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... observando la situación axel desde donde estoy hay do..."
+  [34:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y a decir como buen tiro axel sigan sobre ese acá velo..."
+  [38:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...stedes saben por números axel sacó un 29 por tanto ell..."
+  [42:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...19 punto del año axel como el meme así como fr..."
+  [42:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...humano así con un asco y axel está cojo eres va a hace..."
+  [43:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...timide entonces lo logra axel voy a poner los ojos los..."
+  [46:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e tienen hace bajado por axel ok pues que con lo que p..."
+  [54:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...3 puntos de daño ok este axel y aquí va a aprovechar p..."
+  [54:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s veces que ha aparecido axel y siempre estamos tan le..."
+  [01:04:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...er a mi hermana de cerca axel y axel avanza y si inten..."
+  [01:04:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... hermana de cerca axel y axel avanza y si intentas est..."
+  [01:08:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...adas para estar cerca de axel a ver si la próxima vez ..."
+  [01:11:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel con mitri cátac me muevo..."
+  [01:13:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a sobrecargar el arma de axel que estará..."
+  [01:14:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...asijas salto a la par de axel que no afecta porque no ..."
+  [01:15:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...caigo detrás de axel y le tocó el arma y supe..."
+  [01:15:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pegó a nivel se acerca a axel ayer a mí no me ha dicho..."
+  [01:20:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sobre cargo el arma de axel otra vez y les palo apro..."
+  [01:22:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e sea un crítica 30 y 19 axel háganse 28 puntos de dañ..."

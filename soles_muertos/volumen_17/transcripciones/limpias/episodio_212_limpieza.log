@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,829
+  - Total párrafos: 429
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [27:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...onado. ¿Qué habría hecho Axel? Muy bien. Eh, dos imáge..."
+  [39:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...municador. Yo, Ben, rey, Axel...."
+  [39:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ede comunicar. Ven, rey, Axel. Me copian, me escuchan...."
+  [39:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...copian, me escuchan. Ben Axel, Axel se estaba viendo l..."
+  [39:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., me escuchan. Ben Axel, Axel se estaba viendo la ropa..."
+  [40:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...algo eh inesperado aquí, Axel. Y y Benry nos escucha t..."
+  [41:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... un detective. Okay. Eh, Axel, reunámonos en el vestíb..."
+  [45:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es. Yo voy de camino con Axel. Axel, si esto se empiez..."
+  [45:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... voy de camino con Axel. Axel, si esto se empieza a po..."
+  [57:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...yudar, ¿verdad? ¿Cómo es Axel? Por favor. Y eso como q..."
+  [01:05:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... hizo. Tal vez ya no sé. Axel, ustedes ven que..."
+  [01:06:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Shara antes. Esta es Axel y este es Marlock. Ahora..."
+  [01:06:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o voy a recriminarle a a Axel las cosas que su yo ante..."
+  [01:07:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Como ¿Qué tal si Axel recuperara las memorias ..."
+  [01:07:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a no tendría la mente de Axel...."

@@ -1,0 +1,37 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,465
+  - Total párrafos: 306
+  - Correcciones automáticas Nivel 1 (Seguras): 12
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... ha sido un gran momento axel él se hace visible está ..."
+  [27:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... mal o claramente porque axel usted quiero hacer un ti..."
+  [28:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... balance donde le pega a axel de vuelta y está tratand..."
+  [37:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... yo lo dejo nada más ahí axel que tenía el arma arriba..."
+  [39:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o y tener una minicrisis axel ya como de que ya se baj..."
+  [41:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...el chaval después de eso axel actualiza la wikipedia d..."
+  [41:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...le de la muerte del hijo axel está bien..."
+  [41:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lizado tenemos tanto que axel de verdad ese tipo de co..."
+  [46:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... si cierto en rey e irak axel hablan un montón de idio..."
+  [46:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... aquí el de la nota tomé axel que dice aquí..."
+  [58:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...or cierto para notar que axel recuerde que usted ahora..."
+  [01:02:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...vez por supuesto y bueno axel entra y pide comida..."

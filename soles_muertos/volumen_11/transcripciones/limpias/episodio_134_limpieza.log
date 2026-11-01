@@ -1,0 +1,49 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,045
+  - Total párrafos: 306
+  - Correcciones automáticas Nivel 1 (Seguras): 18
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [17:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... esto está borracho pasa Axel 27 Qué bien Ya estoy en ..."
+  [23:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ano me parece bien sigue Axel yo uso un move action pa..."
+  [26:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hasta quedar a la par de Axel y triel el dosco es como..."
+  [32:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ete hit points excelente Axel y muere sí entonces hago..."
+  [34:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 3 de 24 puedes lograrlo Axel me imagino como Sofía se..."
+  [34:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sía esa caja Espero que Axel lo haga más elegante hac..."
+  [35:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ace más daño por eso fue Axel qué bajito eso el hombre..."
+  [43:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...roide pero no matarla no Axel saben que usted vale muc..."
+  [43:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... digan cómo supieron que Axel valía muchísimo dinero q..."
+  [45:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sido un buen round sí e Axel pero parece que le van a..."
+  [49:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o verdad qué Qué le hizo Axel le bajó la c o le bajó l..."
+  [59:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y antagonize antagonize Axel yo me mantengo en Ah bue..."
+  [01:09:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ga una cola muy larga sí Axel Okay yo le recomiendo su..."
+  [01:17:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tonces por qué quieren a Axel eso son..."
+  [01:18:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a yo empiezo a ver dónde Axel en la caja Sí allá arrib..."
+  [01:19:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de el verdadero valor de Axel escuchó ese..."
+  [01:20:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... llegar es como más dros Axel hasz de creer que voy a ..."
+  [01:21:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ya no me acuerdo bien de Axel 40 o0 Sí yo siento que d..."

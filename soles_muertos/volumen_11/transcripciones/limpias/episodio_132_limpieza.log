@@ -1,0 +1,71 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 15,153
+  - Total párrafos: 370
+  - Correcciones automáticas Nivel 1 (Seguras): 29
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ado dos acciones Así que Axel no tiene accion Así que ..."
+  [25:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Y como está muy literal Axel está pegada no mal Coman..."
+  [25:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...malo control Z control Z Axel Usted no tiene acciones ..."
+  [35:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...agarrarlos a golpes sí s Axel muy bien igual eh digamo..."
+  [43:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mano okay Y por si acaso Axel es la que quiere dispara..."
+  [43:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dispararle Entonces como Axel la..."
+  [52:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uy bien De hecho eso fue Axel no tiene AC verdad..."
+  [58:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí él tiene sus acciones Axel digamos tengo una consul..."
+  [59:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... no no Qué éxito eso fue Axel sí estamos frente a fren..."
+  [01:05:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... parar en los hombros de Axel en la manivela de la mot..."
+  [01:10:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...zalo Bueno eso fue triel Axel está pegado con Gonzalo ..."
+  [01:12:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...volver al el vehículo de Axel es alto o no O se queda ..."
+  [01:13:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...espacial para que cuando Axel va a..."
+  [01:15:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...erto tiene sc espacio de Axel que no me tape los ojos ..."
+  [01:15:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel con las manos cruzadas v..."
+  [01:16:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e yo estoy de espaldas a Axel de frente al est casi na..."
+  [01:17:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...acerca Axel y pone las manos en los ..."
+  [01:19:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s a Gonzalo a benrey y a Axel y a la par el medio elfo..."
+  [01:23:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ces me le voy adelante a Axel sería pegarse con el..."
+  [01:24:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ierto yo me encargo aquí Axel acelere me pego al medio..."
+  [01:24:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...re me pego al medio elfo Axel tiene un más do y un men..."
+  [01:32:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...fea triel Axel yo hice doble maneuver E..."
+  [01:34:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... desde los techos un dos Axel y todo el gentio que est..."
+  [01:38:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eed up que tanto ocupaba Axel solo ocupa no fallar tec..."
+  [01:44:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o es sí es dece 20 salte Axel salte apas nuestras vida..."
+  [01:44:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...todo log apas Axel se pone así como en form..."
+  [01:46:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...des llegan al área final Axel Honestamente el resto de..."
+  [01:48:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es en primer lugar llega Axel Gonzalo y y detrás pasa ..."
+  [01:48:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sea y con eso finala y Axel y su equipo entero que v..."

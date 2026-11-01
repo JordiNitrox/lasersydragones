@@ -1,0 +1,47 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 15,865
+  - Total párrafos: 592
+  - Correcciones automáticas Nivel 1 (Seguras): 17
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [27:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s competencia. Sí, ya es Axel nunca me dio barritas a ..."
+  [28:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el hermanito adoptivo de Axel. Aparte sería muy feo Tr..."
+  [28:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ó con nosotras, ¿verdad, Axel? Axel para donde yo vea,..."
+  [28:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nosotras, ¿verdad, Axel? Axel para donde yo vea, vea, ..."
+  [29:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ersona. Y vuelvo a ver a Axel, ¿verdad? Así como perso..."
+  [29:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...isas] no de que se vaya, Axel. No de que se vaya. Tamp..."
+  [30:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...egundo el pensamiento de Axel, pues piense piensal vez..."
+  [37:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Oh, Axel, que es reliquias son ún..."
+  [46:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uy bien, Sofía. Y bueno, Axel. Y 35...."
+  [53:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n ver. ¿Dónde estoy? Eh, Axel, ábrala lentamente...."
+  [53:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...[risas] Axel, ábrela. Igual confío en..."
+  [58:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿cuánto computers tiene, Axel? Ocho. ¿Cuánto tiene ust..."
+  [01:00:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... O sea, si era mejor que Axel lo intentara. No, no. Ah..."
+  [01:03:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...llos. Además de que solo Axel habla Kishlae, no creo q..."
+  [01:04:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que dos de los hijos de Axel están aquí, que son no s..."
+  [01:04:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que son no son hijos de Axel, pero sí los gemelos. Es..."
+  [01:29:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n un doctorado junto con Axel aquí sobre el sobre los ..."

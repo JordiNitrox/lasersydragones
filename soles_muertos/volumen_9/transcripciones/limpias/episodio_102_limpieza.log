@@ -1,0 +1,47 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,184
+  - Total párrafos: 283
+  - Correcciones automáticas Nivel 1 (Seguras): 17
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [13:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel maneja el viento en el r..."
+  [25:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel en el retrovisor con los..."
+  [38:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...el 20 natural para un 25 axel 18 estamos todos altos..."
+  [51:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel no dirección es usted dr..."
+  [52:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...to disparado a través de axel pero me lo voy a jugar a..."
+  [56:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...porta se mueve a un poco axel saco mi arma todos están..."
+  [57:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mo volvemos al principio axel que acs con el vehículo ..."
+  [01:01:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...entonces éste va a axel impar le pegan axel en 1..."
+  [01:01:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...va a axel impar le pegan axel en 19 en el dado para un..."
+  [01:01:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... cuatro puntos de daño a axel 20 natural al carro si e..."
+  [01:04:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y a poner en el campo de axel ok para no estorbar la t..."
+  [01:07:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... así yo soy el cuadro de axel si hay un..."
+  [01:11:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...or la verdad por aquello axel direcciones..."
+  [01:14:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...á en el mismo puesto que axel y el drone le dispara cr..."
+  [01:16:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...po para ellos finalmente axel logra lo que siempre hab..."
+  [01:21:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y para ayudarle un toque axel dos direcciones no me qu..."
+  [01:23:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... es un galón troles para axel pero una vez fue alguno ..."

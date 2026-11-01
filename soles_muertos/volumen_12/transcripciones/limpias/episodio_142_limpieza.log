@@ -1,0 +1,47 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,688
+  - Total párrafos: 229
+  - Correcciones automáticas Nivel 1 (Seguras): 17
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en parte yo pienso bueno Axel ha vivido ha tenido una ..."
+  [23:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a mees No lo sé No lo sé Axel pero son cosas muy extra..."
+  [30:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o 32 Wow Yo 28 pero cb y Axel revisan el piso y en..."
+  [30:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... tiene tiene buenos ojos Axel Sí concuerdo con usted p..."
+  [35:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sacuden la cabeza benrey Axel..."
+  [37:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l lugar se envuelve llam Axel Will oh oh Uh ese dado c..."
+  [39:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ltos en llam los pájaros Axel ust se queda viendo eso ..."
+  [48:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...alificaría como una idea Axel eso Fue un mal reflejo s..."
+  [49:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o Es el asunto igual que Axel Axel es como usted..."
+  [49:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el asunto igual que Axel Axel es como usted..."
+  [53:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pa check Ed se cuela ahí Axel ahí evidente inmediatame..."
+  [55:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...birme entonces solo está Axel solo está Axel pero no s..."
+  [55:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...solo está Axel solo está Axel pero no sé es un gran má..."
+  [58:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iempre le agarra la pata Axel las criaturas empiezan a..."
+  [01:03:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...están partiendo en dos Axel si usted lo piensa él ti..."
+  [01:03:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sale de un hueco ajá ajá Axel Axel tiene un Jetpack En..."
+  [01:03:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de un hueco ajá ajá Axel Axel tiene un Jetpack Entonce..."

@@ -1,0 +1,39 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,756
+  - Total párrafos: 336
+  - Correcciones automáticas Nivel 1 (Seguras): 13
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [17:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...quí me contaba sofía que axel tiene algunas compras qu..."
+  [19:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o no sé esto es algo que axel el personaje día pero y ..."
+  [20:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ger sin embargo recuerde axel no olvide que usted tien..."
+  [20:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... a este lugar se van con axel a hacer compras y..."
+  [34:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel sabría más también puede..."
+  [34:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o 20 natural sofía 18 ok axel le voy a contar un poco ..."
+  [01:20:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o que al frente barlow y axel al frente y axel sólo vo..."
+  [01:20:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...arlow y axel al frente y axel sólo voy hacia los 100 m..."
+  [01:20:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y axel y quita la cadena y se p..."
+  [01:22:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... cultura ok no es lo mío axel la limpia en la capa de..."
+  [01:25:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... pero tengo una pregunta axel no respira podría escoge..."
+  [01:27:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...c 17 23 sachs y vendré y axel ambos les parece lo sigu..."
+  [01:35:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...orpulentos y muy fuertes axel saca su arma no creo que..."

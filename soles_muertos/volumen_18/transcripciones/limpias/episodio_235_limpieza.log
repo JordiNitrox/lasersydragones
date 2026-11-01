@@ -1,0 +1,57 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,363
+  - Total párrafos: 411
+  - Correcciones automáticas Nivel 1 (Seguras): 22
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [17:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en hecho, Henry. [risas] Axel, usted está subida en la..."
+  [23:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...odió, evitó que matara a Axel. Ay, bueno, ya. [risas] ..."
+  [25:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...atacar a Axel. Entonces, lo que voy a ..."
+  [29:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ng. Y yo, ¿cómo? [risas] Axel Will...."
+  [30:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ni a Axel. Está esperando por por ..."
+  [35:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar ratos agarrándose con Axel...."
+  [37:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a este punto. Bueno, sí, Axel,..."
+  [38:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... triste. Voy a decir que Axel se ve como como en esos ..."
+  [44:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...get them a la sombra que Axel le disparó. Okay, dele...."
+  [45:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a que está más cercana a Axel...."
+  [46:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 25. Lo mismo, lo mismo. Axel, cuidado...."
+  [46:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que se le ocurre. Eso es Axel. Axel se levanta. Me est..."
+  [46:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... le ocurre. Eso es Axel. Axel se levanta. Me está movi..."
+  [47:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... las sombras flanquean a Axel, se acerca y la ataca en..."
+  [50:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...é juzgada me siento hoy. Axel, ¿está usted en el piso ..."
+  [53:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Donde está Marlock y Axel explota al mismo tiempo ..."
+  [53:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... dos reflex de Marlock y Axel. Marl tiene menos dos me..."
+  [55:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Eh, podría curar a Axel, pero o sea, o sea, ¿cuá..."
+  [55:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...? No, sí, si voy a curar Axel. Voy a hacer..."
+  [55:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ng combo y voy a curar a Axel 22 de esta mina y le hag..."
+  [56:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...colaborando. Y curamos a Axel. Y ya todos listos,..."
+  [01:00:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... lo ataca, lo atraviesa. Axel dispara y Marlock contin..."

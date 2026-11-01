@@ -1,0 +1,127 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 14,756
+  - Total párrafos: 525
+  - Correcciones automáticas Nivel 1 (Seguras): 57
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [24:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la par. Axel, Axel puede estar dando ..."
+  [24:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la par. Axel, Axel puede estar dando sus úl..."
+  [24:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...riendo y se queda viendo Axel y vuelve a ver a Benry y..."
+  [24:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Benry y vuelve a ver a Axel otra vez y y corre..."
+  [24:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ella. Axel, ¿está bien? Me siento u..."
+  [25:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... vuelve a ver otra vez a Axel. Venga,..."
+  [25:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. ¿Cuántos hit points men..."
+  [28:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...bre. [risas] Qué pecado. Axel, cúrese. 13 hit points. ..."
+  [28:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...to. Sí, pero no respira. Axel. M, [carraspeo] [risas] ..."
+  [30:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: ".... 24. Okay. Con la ayuda Axel la la indica y es un com..."
+  [37:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: ".... [risas] ¿Qué empujan a Axel al frente...."
+  [38:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e. [risas] Qué bueno que Axel no quiera ir porque le f..."
+  [38:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ueco en la pared detrás. Axel, abre la puerta. Antes d..."
+  [42:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel entró y estaba viendo y ..."
+  [42:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...un dado. Se queda viendo Axel y es como eres una criat..."
+  [43:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ne sentido porque entróñ Axel, Axel, ¿puede venir un m..."
+  [43:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tido porque entróñ Axel, Axel, ¿puede venir un momento..."
+  [44:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os. Se queda viendo así. Axel se va va saliendo usted...."
+  [44:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el momento que se cierra Axel reflex, este es el fin d..."
+  [44:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eflex, este es el fin de Axel por reflex. Y ahora Axel..."
+  [44:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel por reflex. Y ahora Axel va a jugar a Oh,..."
+  [45:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pienso que qué cool que Axel se quitó esa vara con El..."
+  [45:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Tiene algún dispositivo? Axel, está bien...."
+  [45:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: ".... No, así no funciona. Y Axel responde 15. [risas] 15...."
+  [47:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ver. Soy Axel 43. [risas] 55. Axeluso ..."
+  [48:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...importante para que Axel no se muera. Así que voy..."
+  [49:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o creo que pueda curar a Axel solo por coms. ¿Cómo es ..."
+  [49:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Y yo, Axel, resista. Usted es la me..."
+  [50:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...diablos Axel, usted está dentro elect..."
+  [51:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Vamos, Axel. Mm. Seis enado. 17 + 6 ..."
+  [51:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do Marlock dejó votada a Axel de la otra dimensión...."
+  [51:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ir detrás de puertas. Es Axel, Axel, no, no. Y yo, no,..."
+  [51:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rás de puertas. Es Axel, Axel, no, no. Y yo, no, no va..."
+  [51:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...engineering para sacar a Axel. Okay, vamos a ver. E29 ..."
+  [52:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o se llena electricidad. Axel R. Ajá. Cairos juega en ..."
+  [52:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... en el último instante a Axel y la habitación se llena..."
+  [52:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...[resoplido] Axel, yo hasta que respiro po..."
+  [52:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l abrazo cuando sale yo, Axel, está bien,..."
+  [55:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...funcione la vara. O sea, Axel tiene que ayudarla a ust..."
+  [55:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ne que ayudarla a usted. Axel y Marl tienen que ayudar..."
+  [57:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Y hoy es donde Axel y le pone una mano ahí c..."
+  [57:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... hombro es como descanse Axel. Lo hizo muy bien, pero ..."
+  [58:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os entrar. Sí, porque ya Axel entra al cuarto. No, [ri..."
+  [01:06:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ay. A mí me extrañamente Axel controla con destreza el..."
+  [01:13:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o que estamos revisando, Axel se cura. Ajá. Ajá. Ya pa..."
+  [01:13:54] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "... no, la creónedra del la piedra del drift...."
+  [01:14:03] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...La piedra del drift. La piedra del drift. La..."
+  [01:14:03] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...La piedra del drift. La piedra del drift. La piedra del drift, po..."
+  [01:14:03] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "... La piedra del drift. La piedra del drift, por lo que se teorizaba..."
+  [01:14:30] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...cionado probablemente la piedra del drift es un pedazo del degener..."
+  [01:21:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n sutil qué raro pero 31 Axel usted nota que Triel se ..."
+  [01:21:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Está bien. Vamos, vamos, Axel. Okay. Sigamos. Yo obvia..."
+  [01:21:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o [risas] Mira como mira Axel. Okay. ¿A cuál? ¿A la de..."
+  [01:22:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... para entrar? Con miedo. Axel, abre usted la puerta ot..."
+  [01:24:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n va a estar a la par de Axel. Yo diría, yo diría que ..."
+  [01:24:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... en el mismo espacio que Axel, entonces para y hago lo..."
+  [01:24:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... arquillo para disparar. Axel, usted abre la puerta. ¿..."

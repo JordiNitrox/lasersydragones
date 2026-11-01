@@ -1,0 +1,37 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,332
+  - Total párrafos: 228
+  - Correcciones automáticas Nivel 1 (Seguras): 12
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [13:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... y hermanos críptico i y axel piensa que el lugar más ..."
+  [13:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...go más terrible entonces axel..."
+  [15:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...alguien y usted señorita axel sé que usted es que él v..."
+  [27:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... salvo a gallito así que axel usted llega sin que nadi..."
+  [33:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...riguar mucho sobre usted axel yo estoy descubriendo so..."
+  [34:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...dimensión explotar axel no sólo le apuntamos con..."
+  [37:50] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "...ring rey cómo es que puedo como e..."
+  [46:22] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...tanto como el de mí pero axel 42 tiene usted un punto y e..."
+  [56:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... dramático podría ser de axel y ya empieza a sospechar..."
+  [58:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que no siempre lo logren axel pero qué pasa si usted h..."
+  [01:05:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ro pareciera que usted a axel y a mí nos estaba buscan..."
+  [01:07:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aquí axel mimosa de baja..."

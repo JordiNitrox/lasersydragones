@@ -1,0 +1,135 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,400
+  - Total párrafos: 394
+  - Correcciones automáticas Nivel 1 (Seguras): 61
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [18:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s años Ecli ha conocido. Axel, usted conoce algunos, a..."
+  [18:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l 9 como que iniciaron a Axel en el mundo después de r..."
+  [19:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ste momento. Pero ahora, Axel, usted está frente de Cl..."
+  [19:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...des que son amigos de de Axel. Ahora que me voy, Axel ..."
+  [19:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Axel. Ahora que me voy, Axel deberá escoger gente que..."
+  [20:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que los amigos de Axel no sean androides tambié..."
+  [20:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... entre los dos amigos de Axel. Aquí..."
+  [21:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel es una persona de contra..."
+  [21:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...al. Eh, pero supongo que Axel lo que haría es que es e..."
+  [21:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o interprételo como como Axel, o sea, usted está siend..."
+  [21:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...on la forma de pensar de Axel, pero ¿cómo reacciona Ax..."
+  [21:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el, pero ¿cómo reacciona Axel a todo..."
+  [23:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rca, él le dice al oído, Axel, de verdad respeta mi de..."
+  [23:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... un momento para callar, Axel. Oh, Dios mío, no estoy..."
+  [24:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se preocupe por hacerlo. Axel. Amigos de Axel. Son sus..."
+  [24:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hacerlo. Axel. Amigos de Axel. Son sus amigos, diría..."
+  [26:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os ve ustedes. Cuiden de Axel y ella cuidará de ustede..."
+  [26:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ro tal vez no sea lo que Axel quiere escuchar, pero si..."
+  [27:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ha sido fácil escuchar a Axel y verla triste lo hace d..."
+  [28:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... entristece ver triste a Axel. Bueno, creo que todos e..."
+  [28:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ierto punto, yo no veo a Axel muy contenta. Le sí le d..."
+  [29:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, ahora lo puede comprend..."
+  [30:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...emos. Está bien, gracias Axel. Pero al final del día t..."
+  [31:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Sí. Ah, usted conoció a Axel cuando ella vino, o sea,..."
+  [31:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ed conoció a la madre de Axel. Él no dice nada y baja ..."
+  [32:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... siente como que, o sea, Axel, la impresión que usted ..."
+  [32:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... nada a la a la amiga de Axel por decir algo fuera de ..."
+  [34:00] [NIVEL_1_SEGURO] 'Axel 42' -> 'A.Xel 42'
+      Contexto: "...¿Quién nombró a Axel 42?" Le digo como sonriendo..."
+  [34:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e caso lo que yo le di a Axel es una especie de carta ..."
+  [34:42] [NIVEL_1_SEGURO] 'Axel 42' -> 'A.Xel 42'
+      Contexto: "... digo, "¿Por qué escogió Axel 42?" Yo sí. Eh, bueno, el m..."
+  [34:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tensa. Y vuelvo a ver a Axel, le digo, "¿Por qué esco..."
+  [35:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... esa es la respuesta más axel que puedo imaginar...."
+  [35:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿Usted le dice algo más, Axel? No, creo que como que c..."
+  [41:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...asunto. Okay, ya Axel actuó, Triel actuó. Benr..."
+  [42:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted corre mientras que Axel está así colgada del arm..."
+  [44:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel e 16. Okay. Mayora a 15...."
+  [45:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oso para nosotros o para Axel en un futuro. Está segur..."
+  [46:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a ha visto llorar antes, Axel? Nunca. Nunca la he vist..."
+  [47:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... nada más vuelve a ver a Axel y le hace como como la v..."
+  [47:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e toma un rato porque es Axel, pero pero Ah, y entonce..."
+  [49:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...risioneros de todo esto, Axel. Somos prisioneros de se..."
+  [50:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... cuerpo. Es una prisión. Axel, nos hicieron así. Nos h..."
+  [50:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uiere. Esto es estúpido, Axel...."
+  [51:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se levanta. Nos veremos, Axel. reciba al inquilino nue..."
+  [51:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uertos de las naves. Eh, Axel, no sé, se siente como c..."
+  [54:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dotes lo rodean. Le dice Axel que se acerque. Y otra g..."
+  [54:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...siempre le he querido, Axel, sepa que no me voy porq..."
+  [55:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo como que se desploma. Axel quita la mirada como de ..."
+  [58:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Se ve perdido. Axel, usted le entrega lo que..."
+  [59:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te la mirada se va hacia Axel...."
+  [59:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí, Axel. Ah, Axel, ¿hay algo par..."
+  [59:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí, Axel. Ah, Axel, ¿hay algo para usted? A..."
+  [01:01:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no sin ofender Marlock y Axel, pero estoy un poco agot..."
+  [01:01:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Me parece. Vámonos, Axel. Espero que esté bien. S..."
+  [01:05:29] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...l acreón y su misteriosa piedra del drift...."
+  [01:07:38] [NIVEL_1_SEGURO] 'piedra del Drift' -> 'Roca del Drift'
+      Contexto: "...ciones posteriores de la piedra del Drift, grupos de..."
+  [01:14:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...todo sospechoso. Le dijo Axel Nul 9 le dice que tiene ..."
+  [01:15:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Es como, perdón, nadie ..."
+  [01:21:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...van a ir hacia Castroel. Axel pone todos los controles..."
+  [01:21:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de la estación espacial. Axel toca botones, mueve pala..."
+  [01:21:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...as en todas direcciones. Axel mueve los controles y de..."

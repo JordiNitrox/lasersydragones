@@ -1,0 +1,67 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,801
+  - Total párrafos: 269
+  - Correcciones automáticas Nivel 1 (Seguras): 27
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [00:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ción no era sido entre a axel y no se animará lo que o..."
+  [00:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e tiene sin comerlo pero axel y marlo que irene pero q..."
+  [10:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...i no es si lo escuchamos axel y trial eran diferentes ..."
+  [10:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aja ya lo pensé como con axel es axel claramente tuvo ..."
+  [10:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o pensé como con axel es axel claramente tuvo una vida..."
+  [10:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...d que vivía un cuerpo de axel antes..."
+  [11:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...alo del futuro conoció a axel seo a mí ya no tuvo que ..."
+  [11:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... mí ya no tuvo que ser a axel o sea tiene que haber si..."
+  [11:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sea tiene que haber sido axel porque este es el malo d..."
+  [11:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o hacer que sea como que axel en en sí mismo y eso les..."
+  [11:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aría porque sigue siendo axel me parece a mí me parece..."
+  [12:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...dos igual como el link y axel en parte de su personali..."
+  [14:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... él diferente la nueva a axel el ver que no estuvo ant..."
+  [18:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nos ocupa realmente yo a axel así como súper sr gracia..."
+  [25:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...están aquí axel generosa para knox ok ca..."
+  [34:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sionar porque es el jefe axel ideados buscar donde est..."
+  [43:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ste similar a la piel de axel solo que las líneas que..."
+  [47:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de hehco alargue tiene axel para guardar el arma per..."
+  [53:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n después se desarrollan axel tiene una percepción en ..."
+  [53:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...29 25 20 axel y thriller aunque a que ..."
+  [55:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...io y es cierto es cierto axel dice nómina algunas vece..."
+  [56:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ás importantes como como axel estaría súper..."
+  [57:28] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de axel y ha estado en las reuni..."
+  [57:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...versión ya estás te digo axel ni yo voy a las reunione..."
+  [01:15:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s como ok malvín llegó a axel que es la infiltrado aho..."
+  [01:15:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...etcétera etcétera rivero axel siendo una mac que se..."
+  [01:16:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o haces como es tan raro axel siempre me ha parecido q..."

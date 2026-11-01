@@ -1,0 +1,53 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,918
+  - Total párrafos: 410
+  - Correcciones automáticas Nivel 1 (Seguras): 20
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [22:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, eso lo vimos la vez pas..."
+  [22:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ero que no se me olvide, Axel recibió la semana pasada..."
+  [23:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... asaltado la el refri de Axel, así que..."
+  [23:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...evidencia. Eso le pasa a Axel por tener el refri con u..."
+  [23:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o nunca he escuchado que Axel diga que toma Coca-Cola...."
+  [24:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...queña la par. Sí, porque Axel la usa de vez en cuando...."
+  [44:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ts de seguridad, perdón, Axel...."
+  [44:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, contamos contigo. Axel ..."
+  [44:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, contamos contigo. Axel es una criatura biotecno..."
+  [47:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...M, déjame preguntarle a Axel, no estaba poniendo aten..."
+  [48:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s, esto me da recuerdos. Axel, yo..."
+  [53:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...í, Benry quería hacerlo. Axel está impactada...."
+  [53:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... revisando lo del brazo, Axel fue intentar aprender el..."
+  [56:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... caso, cuando yo veo que Axel está como enojada de que..."
+  [56:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do la nave, yo le digo, "Axel, tranquila, si andar por..."
+  [59:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no a usted en el hombro. Axel, ¿ha pensado qué le vas ..."
+  [01:04:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ueda mirando fijamente a Axel y se toca con el báculo ..."
+  [01:05:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es, a la isla, le digo, "Axel, ¿todavía está usted con..."
+  [01:07:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...beríamos intentarlo. Sí, Axel la conoce lo suficiente ..."
+  [01:09:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Que todo salga bien, Axel. Que todo salga bien con..."

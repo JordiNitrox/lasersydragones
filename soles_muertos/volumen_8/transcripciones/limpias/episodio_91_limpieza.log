@@ -1,0 +1,53 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,293
+  - Total párrafos: 330
+  - Correcciones automáticas Nivel 1 (Seguras): 20
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [10:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...dmiran pocas quien llama axel y por otro lado no sé cu..."
+  [14:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...alguna forma axel habló con alguien que ha..."
+  [23:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel piensa que todo fue tal ..."
+  [24:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e digo también le digo a axel como si tal vez había ha..."
+  [25:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...io ya ni siquiera existe axel esto es increíblemente..."
+  [35:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mar lo peor 17 el equipo axel usted conoce los tres mo..."
+  [42:38] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...e adelante siga se queda axel 42 androides pasa adelante ..."
+  [43:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que a axel a tratan neutralmente no..."
+  [43:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nimales como yc de hecho axel cuando éste cruza usted ..."
+  [51:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... no le robó la cocaína a axel tal vez acelerado en el ..."
+  [52:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...én saqué bastante fiel y axel ven reino por la penaliz..."
+  [01:06:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel tiene disguise sólo osea..."
+  [01:10:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... porque tiene un dado 20 axel thriller y..."
+  [01:15:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o nada fuera de lo obvio axel axel número 1 y empieza ..."
+  [01:15:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a fuera de lo obvio axel axel número 1 y empieza la ba..."
+  [01:15:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ión o 21-21 excelente ok axel usted empieza a..."
+  [01:27:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...para acá hágame un sitio axel está piloteando y un pil..."
+  [01:28:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...us vehículos delimitados axel con mucho cuidado maneja..."
+  [01:28:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ejando ese vehículo pero axel se pasa haciendo la zorr..."
+  [01:31:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...l gran talento que tiene axel de nuevo se mueven de ma..."

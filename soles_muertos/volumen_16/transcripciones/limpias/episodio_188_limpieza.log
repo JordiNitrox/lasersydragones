@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,084
+  - Total párrafos: 264
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...desde arriba y pen rey y Axel de cultura o si alguien ..."
+  [21:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...al yo le digo a vre Axel no nos están atacando Qu..."
+  [35:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de ellos se vuelve hacia Axel y le dispara falla miser..."
+  [35:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r era no están motivados Axel vo no estoy preguntándol..."
+  [35:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mo se llama su personaje Axel no puede con el s de Rob..."
+  [37:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...digamos entonces ahora Axel está en la parte derecha..."
+  [40:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ntonces salta con estilo Axel está dispuesta a quedar ..."
+  [41:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dad también pero dejaría Axel sola no entonces voy..."
+  [41:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cha mío para acercarme a Axel digamos Okay Ajá ajá voy..."
+  [42:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Al que está a la par de Axel Axel le pó enemigos a es..."
+  [42:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue está a la par de Axel Axel le pó enemigos a este sí..."
+  [45:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tono como y le dispara a Axel que está flotando intent..."
+  [45:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s y le dispara también a Axel que está volando y dispu..."
+  [49:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s está fuera de comb com Axel voy yo bueno uso tricaco..."
+  [59:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...solarian sea Axel voy yo la embaraz me da ..."
+  [01:03:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y va a caer a la par de Axel Ese es el move que me di..."
+  [01:04:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a sobrecargar el arma de Axel par con mi mo action nor..."
+  [01:10:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pasó aparte de mí nadie Axel Sun integration incluye ..."
+  [01:11:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rrir eso fue sabra sigue Axel Oh y una vez se resuelve..."
+  [01:12:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do bien puese s muy bien Axel..."
+  [01:13:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...brecargada que le puso a Axel ya se quitó porque no la..."

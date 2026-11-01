@@ -1,0 +1,47 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,775
+  - Total párrafos: 407
+  - Correcciones automáticas Nivel 1 (Seguras): 17
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [17:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a yo apoyo la segunda. Y Axel es humana. Esto no cuent..."
+  [17:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...En un ambiente futurista Axel no tiene opinión. Esto a..."
+  [27:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ies de cairos. Perfecto, Axel. Okay. Yo estaba pensand..."
+  [30:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os podré quedar. Eso fue Axel. Y para cerrar Marlock. ..."
+  [35:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo estabas cambiando. El Axel también hay gente muerta..."
+  [35:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nen rifles de dos manos. Axel, ¿me permite su arma?..."
+  [36:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ayuda a Axel, digo a Trel persona pro..."
+  [36:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o. Ayuda a Trel. Ayuda a Axel. Yo soy Axel...."
+  [36:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el. Ayuda a Axel. Yo soy Axel...."
+  [38:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., ocupo que ocupamos que Axel le baje la C. Tal vez co..."
+  [39:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e y completamente seria. Axel, le disparo al otro...."
+  [45:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel está tratando de hacer l..."
+  [50:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pega. Excelente. Veo a Axel viendo todas sus habilid..."
+  [51:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os. Quedó entre familia. Axel guarda el rifle y se sie..."
+  [52:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... se enoja más con usted. Axel. Sí...."
+  [01:05:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Eh, se fue Triel, Axel. Muy bien, la veo fijame..."
+  [01:06:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l. No, no tapándole ni a Axel ni a Tier, me..."

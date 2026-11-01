@@ -1,0 +1,103 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,642
+  - Total párrafos: 530
+  - Correcciones automáticas Nivel 1 (Seguras): 45
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [17:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Vuelvo a ver Axel. Lo intenté. Sigue los c..."
+  [20:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...alió un comando que dice Axel no le gusta esto. Sí, sí..."
+  [20:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tras estaba estudiando a Axel y sí y a Charlotte de ot..."
+  [21:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...fico loco. Ahora le toca Axel. Axel usa los clones cua..."
+  [21:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oco. Ahora le toca Axel. Axel usa los clones cuando be..."
+  [26:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... hacia el frente y ataca Axel y conecta. Hágase seis p..."
+  [26:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...va usted, Axel. Mm, tiene una sombra al..."
+  [30:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Voy a curar a Axel. La curo 22 de esta mina..."
+  [30:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ta mina. Yo. Bien hecho, Axel. Ya..."
+  [30:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ué mal tiro. 19 está por Axel. Ah, no, no está por..."
+  [32:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e mago atrás y apunta. A Axel, pero dijeron al mago. E..."
+  [32:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o no pero nada más, ¿eh? Axel queda flat fed por todo ..."
+  [32:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Yo creo que Axel no puede estar flat. No ..."
+  [38:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...El cultista corre hasta Axel y la ataca con su espada..."
+  [38:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...u líder le bajó el ase a Axel...."
+  [38:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a 28. 19 puntos de daño, Axel. Barato le salió. 19. Sí..."
+  [40:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ra a la que le ha pegado Axel dos veces es la que es m..."
+  [40:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... come las los ataques de Axel enteros. Debería...."
+  [42:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tá que estaba atacando a Axel. La que estaba atacando ..."
+  [42:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la. El que está frente a Axel. Salve...."
+  [42:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Will, la que está contra Axel...."
+  [43:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...w es siempre bienvenido. Axel, si yo disparo eh eh pro..."
+  [44:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Me imaginé a Axel abrazando el cloncillo c..."
+  [45:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...le ha pegado a Axel todas las veces el hombr..."
+  [55:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue había estado atacando Axel, supongo. Sí. y le hace ..."
+  [55:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s. Él se pega de nuevo a Axel y le manda un espadazo. ..."
+  [56:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ¿Por qué me haces esto, Axel?..."
+  [58:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...roids aquí. Vuelvo a ver Axel que está a la par mía co..."
+  [58:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... me gustaría que hiciera Axel? Triel mueve así viendo ..."
+  [01:03:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Falla Axel. Es lo que esperamos. Be..."
+  [01:04:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... si podía pegar le falló Axel por el por el clon y le ..."
+  [01:11:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s qué va a hacer pegarle Axel. Ah, no. La criatura pie..."
+  [01:12:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ja. Le pego a Axel. Él está. Por cierto, yo..."
+  [01:12:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... acuerdo. Sí. Okay. Pega Axel. Seguro. Eh,..."
+  [01:12:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Se lo está pegando Axel. Ah, sí, no me ayudan. 1..."
+  [01:13:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...31 puntos de daño, Axel. Ay, le tocó los hiton. ..."
+  [01:15:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... la que está a la par de Axel ataca Axel 25 EAC. Sí,..."
+  [01:15:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...á a la par de Axel ataca Axel 25 EAC. Sí,..."
+  [01:15:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, siete puntos de daño. Q..."
+  [01:15:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... daño. Los hit points de Axel...."
+  [01:15:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Santísima Axel. Pero, ¿qué pasa? La pri..."
+  [01:15:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... vida que le han pegado. Axel, ¿va usted? Axel, usted ..."
+  [01:15:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pegado. Axel, ¿va usted? Axel, usted está igual que el..."
+  [01:23:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sigue cultista frente a Axel...."
+  [01:25:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Y el autista se cae. 18. Axel, ¿cuánto está con el ref..."

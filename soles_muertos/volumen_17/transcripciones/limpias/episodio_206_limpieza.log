@@ -1,0 +1,51 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,845
+  - Total párrafos: 490
+  - Correcciones automáticas Nivel 1 (Seguras): 19
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [24:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, usted está viendo esa e..."
+  [26:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel y a las dos chiquitas po..."
+  [26:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Usted nota que Axel está embarazada, o sea, ..."
+  [26:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... la otra Ah. Ah. Ah. No, Axel, no, perdón. La que era ..."
+  [27:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Si es como, "Qué loco es Axel gordita." Eh, 34 mistici..."
+  [27:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... el Marlo? Curiosamente, Axel tiene la idea correcta. ..."
+  [30:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Está bien que Axel no se acuerde. Sí, yo cr..."
+  [33:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...24. Saque uno. 28. 28. Axel ha sabido de eso, pero T..."
+  [35:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... bajó por Sí. Excelente. Axel quiere saltar por la ven..."
+  [53:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que era y vuelve a ver a Axel y pum, le pegó un puñeta..."
+  [01:01:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que le fue peor fue a Axel en daño. Entonces, sí, s..."
+  [01:01:28] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rarle el los la estamina axel y voy a hacer el improve..."
+  [01:01:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ro, claro. Entonces, eh, Axel cce 22 de esta mina y yo..."
+  [01:03:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ah. Graas, Axel. Ah, no, uno de los robo..."
+  [01:05:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do hacer nada. Entonces, Axel, intento destruir esa cr..."
+  [01:06:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no me está usted segura, Axel. No provocó...."
+  [01:08:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ahí y levantando peces. Axel, full round, triel...."
+  [01:15:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a cinco pies de Marlock. Axel, bueno, pues intento hac..."
+  [01:16:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Muy bien, Axel. Triel. Triel va a sacar..."

@@ -1,0 +1,33 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,688
+  - Total párrafos: 265
+  - Correcciones automáticas Nivel 1 (Seguras): 10
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [11:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Aunque Axel sedienta de sangre la pr..."
+  [16:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... decir porque escucharía Axel yo creo que voy a oíría ..."
+  [19:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... arriba es cierto pienso Axel hace Parker con un árbol..."
+  [21:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r todo lado sobre todo a Axel este tipo de estructura ..."
+  [23:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... York es Manhattan 26 26 Axel saca 31 31 no tengo un B..."
+  [28:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dos además 12 supere eso Axel 28 20..."
+  [28:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel creo que con uno no pued..."
+  [30:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...yo de hecho le digo como Axel búsquenos un puerto apar..."
+  [35:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...atención a Axel usted encuentra un lugar..."
+  [01:00:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... gerty no es yo más como Axel..."

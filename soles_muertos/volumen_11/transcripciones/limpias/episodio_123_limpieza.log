@@ -1,0 +1,91 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,646
+  - Total párrafos: 308
+  - Correcciones automáticas Nivel 1 (Seguras): 39
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... analizando la sangre de Axel todo eso este reviso a g..."
+  [14:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...puede muy bien y Axel que hizo durante esos 11..."
+  [14:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...izo durante esos 11 días Axel tiene mucho en que pensa..."
+  [14:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o en que pensar entonces Axel se acaba los postres que..."
+  [15:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...útil en los recuerdos de Axel entonces después de ver ..."
+  [25:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue sí ha escuchado de mí Axel inicia el combate..."
+  [26:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...silo en su nave pilotaje Axel somos 19..."
+  [26:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel ustedes tienen el primer..."
+  [26:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pero es relevante porque Axel usted..."
+  [28:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sé por qué usted no sabe Axel lo sabe 17 17 en el dado..."
+  [28:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ponden al fuego fallando Axel casi quitándolo los cont..."
+  [29:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...computadoras pero Axel se puso atrás de la nave..."
+  [31:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ablo como directamente a Axel le digo como Axel usted ..."
+  [31:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ente a Axel le digo como Axel usted la nave se está mo..."
+  [33:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... apenas conocemos pero a Axel le gusta la idea de algo..."
+  [37:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel le doy a usted la potest..."
+  [37:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... preparan en ese espacio Axel mueve con toda su habili..."
+  [37:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r el movimiento que hace Axel los deja a ustedes..."
+  [38:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...onces se habla ascotilla Axel es la que llega de últim..."
+  [41:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...bueno empecemos entonces Axel usted viene corriendo do..."
+  [41:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o tiene botas 20 natural Axel se lanza un agarray y se..."
+  [43:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o lo planeé Qué es usted Axel gracias..."
+  [45:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... vez mejor usted y yo en Axel y cruzamos así anotado y..."
+  [59:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ativa marroc 19 triel 23 Axel 17 muy bien Henry ustede..."
+  [01:02:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ara que sepan a trabajar Axel..."
+  [01:04:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ecir Ven a todos menos a Axel Pero los que están prepa..."
+  [01:06:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... estaba preparado verdad Axel Okay voy a hacer el ataq..."
+  [01:08:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uemos pegadísimo eso fue Axel sigue el siguiente solda..."
+  [01:09:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lado de Axel y es todo lo que hace ve..."
+  [01:11:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...arle a cuál le bajó la c Axel al otro que provocaría a..."
+  [01:14:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...esto es un full rodaje y Axel voy a hacerte nuevo por ..."
+  [01:15:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r acrobáticamente contra Axel..."
+  [01:15:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo logra s Axel sus trucos no lo recuerd..."
+  [01:23:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o Pon la capa y me largo Axel Pues yo ahí donde estoy ..."
+  [01:29:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... lo logra otro check más Axel Perdón Cuál de los dos s..."
+  [01:33:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e borrar su memoria pero Axel sabe que un disparo a la..."
+  [01:33:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...son nuestras opciones no Axel le estoy diciendo que es..."
+  [01:34:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel les Comenta esto que vot..."
+  [01:35:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os son los que sean pero Axel está sugiriendo que mate..."

@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,378
+  - Total párrafos: 490
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cuerpo de Axel es como, "Oh, esta gente..."
+  [14:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... me había olvidado eso y Axel saca el Oh, cierto, cier..."
+  [14:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue quedó ahí. Y entonces Axel Triel empieza a ir..."
+  [20:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ada ignorándola a usted, Axel, Triel. Al rato usted ve..."
+  [32:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rra los senos. Este, sí, Axel se se toca los..."
+  [33:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...antes, estar en el suyo, Axel...."
+  [38:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uito. Le abre los ojos a Axel. Ah, está siendo muy ser..."
+  [44:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ivos gracias a él, hasta Axel. Es correcto. Así que gr..."
+  [49:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rás porque yo pellizco a Axel ligeramente. Yo sí, cier..."
+  [51:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿Ustedes creen que Axel no hubiera metido ropa a..."
+  [52:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omprado la misma cosa de Axel para meter ropa dentro d..."
+  [54:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tificado. Pero, ¿por qué Axel la apuñaló?..."
+  [01:08:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Triel un to que es como Axel, ven ahí y me ayuda. Sí,..."
+  [01:13:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ella le dice, "Axel, tranquila, vea." Y y lo..."
+  [01:21:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e podemos meter que crea Axel cada vez que llega a alg..."

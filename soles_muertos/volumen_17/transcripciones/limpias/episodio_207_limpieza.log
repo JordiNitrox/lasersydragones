@@ -1,0 +1,79 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,037
+  - Total párrafos: 462
+  - Correcciones automáticas Nivel 1 (Seguras): 33
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [08:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí, como sabrán, Axel es la recepción de mucho..."
+  [18:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ia de prueba. Bueno, que Axel monje miró. Bueno, eh vo..."
+  [32:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...on bien conocidos. Mira, Axel. Okay. ¿Qué hacen ustede..."
+  [33:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...í es posible lo que dice Axel, que el espacio y la dis..."
+  [42:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...prácticamente invisible. Axel podría ir y desatarlo, z..."
+  [43:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oblema. Así que de hecho Axel es la mejor opción para ..."
+  [43:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pero no sé, no pensé en Axel. Malo, malo. Qué bueno q..."
+  [44:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... a alguien. Entonces, si Axel sale, aunque..."
+  [44:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e buscar algo. Entonces, Axel, sería mejor que entrar ..."
+  [44:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n el nivel de bajo, pero Axel puede abrirla con stealt..."
+  [44:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hacer. Ustedes dicen que Axel trate de liberar a Wac a..."
+  [45:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que, o sea, o sea, el o Axel le puede hablar a y deci..."
+  [46:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...bajamos por los ductos y Axel trata de salir sin..."
+  [47:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tonces el plan sería que Axel vaya primero a desamarra..."
+  [47:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue yo tendría que ir con Axel porque son 9 minutos, o ..."
+  [49:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sí, se lo pongo a Axel, entonces para que pueda..."
+  [50:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... después de la misión de Axel, cuando ya vayan a bajar..."
+  [50:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pecemos con la misión de Axel...."
+  [50:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Pero primero Axel, hágame un stealth o sur..."
+  [52:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...todos los preparativos y Axel, ¿qué está lista? Me ali..."
+  [53:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...idad. Ustedes preparan a Axel y Axel empieza a bajar p..."
+  [53:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...stedes preparan a Axel y Axel empieza a bajar primero ..."
+  [01:00:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue ser. Le puede decir a Axel que se apure porque el t..."
+  [01:00:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Pasan los 9 minutos. Axel, vaya, vaya. Saf, suélte..."
+  [01:01:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nos está diciendo lo que Axel está viendo. Digo, dígal..."
+  [01:03:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ella como que algo notó. Axel está nervioso y con las ..."
+  [01:11:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., okay, okay. Y yo, dice Axel que ya lo logró liberar...."
+  [01:12:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...bajó Axel y la otra que está en el..."
+  [01:14:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e tampoco quiero dejar a Axel sola junto a Jidel, diga..."
+  [01:14:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os. Claro. Entonces este Axel puede no está en el cent..."
+  [01:17:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted, Axel? Ahí a 10 pies están los..."
+  [01:18:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que iba a salir Cairos. Axel, usted ve la tensión. Su..."
+  [01:20:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mos en un juego de rol y Axel no puede llegar invisibl..."

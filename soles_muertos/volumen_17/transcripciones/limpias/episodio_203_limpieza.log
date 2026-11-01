@@ -1,0 +1,85 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,998
+  - Total párrafos: 489
+  - Correcciones automáticas Nivel 1 (Seguras): 36
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... puntotes de iniciativa. Axel, como siempre tuvo una p..."
+  [15:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...[risas] Okay. Axel siempre tiene mala inici..."
+  [15:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mo Marlock 13. Le ganó a Axel. Sí, Axel sacó uno. Buen..."
+  [15:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 13. Le ganó a Axel. Sí, Axel sacó uno. Bueno, [risas]..."
+  [15:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...quién la quién la opere, Axel..."
+  [17:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿Y a cuál de los dos? Es Axel hablando a través de a q..."
+  [24:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Uh, le ganó Axel. Listo. Y eso es un stan..."
+  [24:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...on. Listo. Y por último, Axel. Aquí tengo..."
+  [27:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se mueve en dirección de Axel, Marlock y Benrey. Como ..."
+  [28:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Okay. Axel, rayo de de anomalicia. ..."
+  [31:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...está cerca mío Marlock y Axel. Y como tengo preferenci..."
+  [31:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vamos Axel. Eh, con el cuerpo de Ax..."
+  [31:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el. Eh, con el cuerpo de Axel todo es posible. Con mi ..."
+  [31:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Ya tenía bastante daño, Axel. Pues es que se nos habí..."
+  [32:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel como, "Ah, sí, voy a enc..."
+  [32:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o, que bueno, sí, porque Axel le pegaron los dos. [ris..."
+  [33:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y debe estar viendo como Axel maneja el cuerpo de..."
+  [36:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...h, somos nu. Es que aquí Axel todavía..."
+  [39:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí. Axel. Okay. Eh, el que tiene ..."
+  [45:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ciendo muy bien, le dice Axel. Desde allá le pone así ..."
+  [45:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue es stagger. Uh, hacia Axel se desliza. Benrey. Okay..."
+  [48:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...fuera el episodio cuando Axel moría. La criatura se de..."
+  [48:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Gerty y dejando a Axel entre una criatura y [mú..."
+  [48:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s son cuáles números son Axel. 1 2 3 cu Puede hacer cu..."
+  [49:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y una de las imágenes de Axel se parte en pedazos como..."
+  [49:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... No me gusta estar aquí, Axel. No me..."
+  [49:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ién sigue después de mí? Axel. Eh, usted tiene, por ci..."
+  [49:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... hacer delay a que a que Axel se mueva. Axel, ya voy y..."
+  [49:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que a que Axel se mueva. Axel, ya voy yo. Diablos...."
+  [49:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...A ver, yo Axel, salga de ahí, eh. Tengo..."
+  [56:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iaturas se desliza hacia Axel de nuevo y le le manda u..."
+  [57:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a que le hace ese daño a Axel Benry. Mm. Yo quería sub..."
+  [58:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...to. Ah, gracias, querida Axel. Ay,..."
+  [59:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ver. Axel. Okay. Eh, mismo asunto...."
+  [01:01:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...to Triel en el cuerpo de Axel da una voltereta toda ág..."
+  [01:01:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...w, esto es genial." Hey, Axel, ser usted es genial. ¿Q..."

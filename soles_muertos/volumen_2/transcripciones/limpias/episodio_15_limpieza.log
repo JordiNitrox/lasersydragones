@@ -1,0 +1,31 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 8,415
+  - Total párrafos: 211
+  - Correcciones automáticas Nivel 1 (Seguras): 9
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [24:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...se queda viendo a axel como fijamente y aprieta..."
+  [45:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...abajo ya rato ya salud a axel es el humo es difícil lo..."
+  [46:59] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "...sto señoritas de alambre ring rey hola río ido mucho de us..."
+  [01:03:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lar agarra la mano desde axel ok 1 no para nada pero e..."
+  [01:05:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a el robot y le dice con axel el ritmo es súper torpe ..."
+  [01:06:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... de un talento que usted axel no puede comprender muy ..."
+  [01:06:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n pero es un talento que axel no comprende que no pose..."
+  [01:08:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel no tiene mapa piensen ni..."
+  [01:08:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tiene ser tan triste por axel porque no tiene mamá el ..."

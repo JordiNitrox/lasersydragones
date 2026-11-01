@@ -1,0 +1,31 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 8,777
+  - Total párrafos: 223
+  - Correcciones automáticas Nivel 1 (Seguras): 9
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [21:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel 16 y qué les voy a decir..."
+  [22:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a estrella el platito es axel porque sofía hizo trampa..."
+  [25:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...isparó entonces estoy en axel y yo creo que me moriría..."
+  [27:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...na puerta de madera dijo axel sí porque si está cerrad..."
+  [35:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e mar lo creo sí sí esto axel y yo corro con todo lo q..."
+  [44:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... más como una araña como axel sentido este ilave y ya ..."
+  [50:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e está ahí eso fue trial axel que a mí me gustaría que..."
+  [59:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de fuego es pega 11 full axel came y yo voy a hacer un..."
+  [01:05:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s improbable el martillo axel ok tenemos 4 cover y ust..."

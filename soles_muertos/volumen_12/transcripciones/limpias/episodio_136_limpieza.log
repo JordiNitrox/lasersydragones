@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,688
+  - Total párrafos: 268
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:15] [NIVEL_1_SEGURO] 'ring Rey' -> 'Rim Rey'
+      Contexto: "...sobre el primo de benrey ring Rey galway es una cosa de es..."
+  [18:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sé cuál de los dos gana Axel dice muy bajito Hasta lu..."
+  [36:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... exactamente Entonces no Axel porque Axel no cuenta co..."
+  [36:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Entonces no Axel porque Axel no cuenta como uno de el..."
+  [41:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a tomado un cafecito con Axel en estos días anda como ..."
+  [42:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o demasiados enanos pero Axel sí la mayoría de nanos n..."
+  [42:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...población de enanos para Axel por ejemplo es muy común..."
+  [54:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ha dicho como lo mínimo Axel Cuánto falta ajá No no h..."
+  [59:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...arece tal vez deberíamos Axel y yo estudiarlos un poco..."
+  [01:00:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ás le mando un mensaje a Axel explicándole todo esto y..."
+  [01:00:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y le mando los videos a Axel para que ella también lo..."
+  [01:00:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...entonces y Axel pregunta de nuo como No ..."
+  [01:00:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... verlo juntos solo están Axel y triel con palomitas ah..."
+  [01:01:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eo que si lo hablan TR y Axel tal vez deciden verlo..."
+  [01:01:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ence primero entonces 24 Axel 25 25 okay voy a contar ..."
+  [01:02:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ueda viendo esas tomas y Axel..."
+  [01:04:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...é tal si la nave y se le Axel se para el pelo así como..."
+  [01:05:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...misticismo creo que solo Axel tiene un poquito de..."
+  [01:10:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... por un momento y esa es Axel Ay qué Axel y nos vemos ..."
+  [01:10:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nto y esa es Axel Ay qué Axel y nos vemos la próxima s..."
+  [01:10:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... la próxima semana Lance Axel al espacio inmi estuvo f..."

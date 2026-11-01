@@ -1,0 +1,61 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,205
+  - Total párrafos: 267
+  - Correcciones automáticas Nivel 1 (Seguras): 24
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [07:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a historia de él y o sea Axel era una esclava qué tant..."
+  [19:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...horror quiero decir que Axel tiene ropa la trailera y..."
+  [20:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...chopping Axel sale hace brinquitos mie..."
+  [20:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e las cosas favoritas de Axel podemos poner girl Just ..."
+  [22:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os muy bien 590 créditos Axel gaste plata sí es la opo..."
+  [22:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ntrol como años 20 ahora Axel usted se da cuenta que e..."
+  [23:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Entonces todos de 10 y y Axel de 600 sí 590 590 benry ..."
+  [24:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en controlarme si dibuja Axel la dibuja con un vestido..."
+  [27:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...una es una niña entonces Axel..."
+  [31:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel benrey Hola Hola Mucho g..."
+  [31:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...le da la mano a benrey a Axel y a triel y después acer..."
+  [33:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es Qué hacen o sea triel Axel benry la mujer sigue al ..."
+  [34:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... bueno ella como Android Axel no interpretaría Ah esa ..."
+  [34:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cierto si usted se queda Axel podemos incluirla en est..."
+  [41:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que vamos a jugar bueno Axel me quedé en la barra así..."
+  [41:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no bueno el grupo benrey Axel tiran uno digo benrey tr..."
+  [42:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ay cómo han estado y Axel como bien un viaje largo..."
+  [42:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 14 marlock 19 marlock y Axel escuchan la situación es..."
+  [44:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e acá cuál era su nombre Axel Axel es la mejor amiga d..."
+  [44:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... cuál era su nombre Axel Axel es la mejor amiga de de ..."
+  [45:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel en en en su interior Oka..."
+  [45:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...raro o sea digamos Ángel Axel es lenta pero pero no lo..."
+  [50:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r con usted vuelve a ver Axel Axel Gracias por acompañ..."
+  [50:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... usted vuelve a ver Axel Axel Gracias por acompañarnos..."

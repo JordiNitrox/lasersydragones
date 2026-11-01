@@ -1,0 +1,21 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,826
+  - Total párrafos: 261
+  - Correcciones automáticas Nivel 1 (Seguras): 4
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omo lo es esa y señala a Axel y venía acompañada de ot..."
+  [20:11] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...es el mismo idioma de la piedra del drift pero es una versión como..."
+  [01:13:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pequeña representación y Axel usted que tiene Life s t..."
+  [01:13:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... como que mal había sido Axel la que le..."

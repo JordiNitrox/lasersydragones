@@ -1,0 +1,39 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,755
+  - Total párrafos: 472
+  - Correcciones automáticas Nivel 1 (Seguras): 13
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [35:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...so fue es alta traición. Axel hasta ahora se da cuenta..."
+  [44:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uestra nave también. Sí, Axel, esta es la nave de Smar..."
+  [47:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cha paz. Muchas gracias, Axel. Que dicha que Felicidad..."
+  [49:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...problemas. Y este es Axel. No, no. Esta Hola. Sí, ..."
+  [49:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: ".... Esta Hola. Sí, ella es Axel y..."
+  [49:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o mucho que agradecerle, Axel. No he tenido el momento..."
+  [01:08:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o y entonces conocimos a Axel, le cuento como de nuest..."
+  [01:11:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Pero hay uno todo mal e..."
+  [01:12:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... se llamaba? Acaba decir Axel,..."
+  [01:15:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Uno de ellos es Axel, porque digamos tener ac..."
+  [01:21:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Me vale moviéndole. Sí, Axel, ¿dónde salió? Pues vi q..."
+  [01:30:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sido un placer, señorita Axel. Don Ashton se queda com..."
+  [01:31:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...viendo desde los ojos de Axel y después de los ojos..."

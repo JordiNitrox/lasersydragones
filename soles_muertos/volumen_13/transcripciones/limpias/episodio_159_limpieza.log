@@ -1,0 +1,71 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,414
+  - Total párrafos: 306
+  - Correcciones automáticas Nivel 1 (Seguras): 29
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [08:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... cómo decirlo me inspira Axel le gusta la comida y ell..."
+  [08:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e O sea que tiene la Noa Axel no cocina twinkies y cos..."
+  [16:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n anime de este ambiente Axel triel y los otros y los ..."
+  [19:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se sienten como drenados Axel yo no lo comenté pero us..."
+  [20:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...aba de fallar y continúa Axel la viejita Esto es lo qu..."
+  [27:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... está de armadura eso es Axel triel triel Pues voy a d..."
+  [30:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e acerca a diferencia de Axel el general benry la vuel..."
+  [30:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...posee Ah entró a la nave Axel de hecho pasó trés de Ax..."
+  [30:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el de hecho pasó trés de Axel trav suyo se frío en el ..."
+  [32:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...escucha aullar a Axel donde le pasa el fantasm..."
+  [35:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es todo lo que hace lana Axel..."
+  [52:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... código es 225 4 10 a 27 Axel apunte eso Axel qué..."
+  [52:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 10 a 27 Axel apunte eso Axel qué..."
+  [53:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel usted que está frente a ..."
+  [53:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sta el final entonces eh Axel todos fuera de la nave g..."
+  [54:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... más como Okay ha pasado Axel yo vuelvo ver ael otra v..."
+  [55:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ido super bien alana eh Axel bien yo okay pongo lo de..."
+  [55:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... todos los numeritos que Axel muy buen recordando Axel..."
+  [55:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel muy buen recordando Axel recuerdas los números mu..."
+  [58:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... yo les digo Déjenme ver Axel listo 15 segundos salgan..."
+  [01:00:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rty no está y obviamente Axel..."
+  [01:03:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es lo que pasó con alana Axel bueno triel está la par ..."
+  [01:04:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cutará Y eso es su turno Axel es un full Run action es..."
+  [01:08:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s esto esto salga de ahí Axel Axel salga salga la nave..."
+  [01:08:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o esto salga de ahí Axel Axel salga salga la nave desp..."
+  [01:11:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel eh salgo verdad que solo..."
+  [01:17:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hí eh yolmar vaya vuelve Axel no sin usted usted se de..."
+  [01:21:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tonces yo creo que super Axel tiro si yo es igual que ..."
+  [01:23:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ave y Poco después llega Axel con benrey y con gerty s..."

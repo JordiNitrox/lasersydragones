@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,953
+  - Total párrafos: 255
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [20:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ita siento que hasta con Axel lo hemos usado como ante..."
+  [24:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... estén equivocadas sigue Axel yo Axel se fue a esconde..."
+  [24:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...quivocadas sigue Axel yo Axel se fue a esconder a la p..."
+  [24:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...par de Ben había quedado Axel de vida 17 estamina Eh m..."
+  [31:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...riel la observa pero fue Axel quien mató a su perrito ..."
+  [31:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ro ro porro se acerca a Axel y le lanza un hachazo Ay..."
+  [32:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel Kun ella corre le mand u..."
+  [39:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cerca sin quea pegado si Axel hubiera tomado..."
+  [41:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...claramente no tiene nada Axel ve una engrapadora se en..."
+  [44:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oints Ah Es hora de melé Axel va usted vivirá por siem..."
+  [47:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...persiguiendo se topa con Axel de..."
+  [51:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...este se ven terribles sí Axel esos son grapas había qu..."
+  [55:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel ocupa recuperar estamina..."
+  [59:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... más tiene los hit Ah no Axel tiene los hit tocados a ..."
+  [01:09:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...con ustedes un serv vivo Axel o no cierto gerty al fin..."

@@ -1,0 +1,45 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,087
+  - Total párrafos: 283
+  - Correcciones automáticas Nivel 1 (Seguras): 16
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [06:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel y como una chiquilla est..."
+  [15:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... 15 20 pies de la puerta axel está 25-30 en este caso ..."
+  [15:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...excepto axel gray 11 marlon consejo e..."
+  [15:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...gencia carisma y winston axel a usted no pasa nada por..."
+  [39:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...uro final créditos sigue axel que hace usted más tramp..."
+  [40:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ne tiene lógica que hace axel si usted considera eso p..."
+  [43:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...en línea contra él y con axel 33 más bien se va a acer..."
+  [01:01:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...oy a contar algo que vea axel axel usted entra a una h..."
+  [01:01:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...contar algo que vea axel axel usted entra a una habita..."
+  [01:02:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel quite y yo creo que eso ..."
+  [01:02:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sentido porque tiene sac axel no se va a quitar porque..."
+  [01:09:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la puerta estas acciones axel ok bueno implante axil i..."
+  [01:14:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o vaya también vaya esto axel..."
+  [01:19:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...dar cercano a vender y a axel y me queda un estándar v..."
+  [01:29:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...r a la es el estándar de axel es siempre andar el cuch..."
+  [01:29:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... manera que blanquee con axel y conecta..."

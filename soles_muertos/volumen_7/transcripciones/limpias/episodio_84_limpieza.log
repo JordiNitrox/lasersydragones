@@ -1,0 +1,39 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,064
+  - Total párrafos: 267
+  - Correcciones automáticas Nivel 1 (Seguras): 13
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...todos a menos de también axel usted nota que en una pa..."
+  [22:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...anza a combinar y cuando axel todos esos autos que ha ..."
+  [22:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... planetas es posible que axel haya visto esta armadura..."
+  [27:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... el desorden el regla de axel yo ahora consigue la de ..."
+  [55:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... con lo que sean ustedes axel usted se queda en el otr..."
+  [01:03:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...evise lo dice cualquiera axel boxer ok yo yo digo oh d..."
+  [01:07:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y axel we will ok a 2012 no se ..."
+  [01:07:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...d usted por un momento a axel usted vuelve a ver los l..."
+  [01:11:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...icitó fue planeado claro axel will técnicamente nosotr..."
+  [01:15:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...visibility axel ok a 10 puede retirar qu..."
+  [01:24:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tinuamos en el combate a axel axel will ok will 2 tien..."
+  [01:24:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...mos en el combate a axel axel will ok will 2 tiene 28 ..."
+  [01:24:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...todos tenemos la energía axel 17 contra ellas y si peg..."

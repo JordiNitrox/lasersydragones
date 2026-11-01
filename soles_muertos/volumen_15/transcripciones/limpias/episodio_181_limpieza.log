@@ -1,0 +1,51 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,143
+  - Total párrafos: 267
+  - Correcciones automáticas Nivel 1 (Seguras): 19
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [17:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tipo Uh la super ágil de Axel eso estuvo cerca Okay ro..."
+  [21:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...acción queda Axel ya todos fueron ahí ya t..."
+  [23:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de seguridad noces te ve Axel como bailando en frente ..."
+  [23:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... techo reflex todo menos Axel Ay Dios a ver a 19 y ger..."
+  [25:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iene eso le pasan por va Axel como un Swift apago el J..."
+  [27:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y sigue por donde se va Axel el único camino posible ..."
+  [27:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y le disparo esa ventana Axel está ahí pegándole la ve..."
+  [29:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...así Okay perfecto eso es Axel turnos nuevos Okay..."
+  [31:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...igo no mi mejor amigo no Axel Dile a alguien que lo ex..."
+  [31:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Cuál es el apellido de c Axel se le queda viendo con o..."
+  [39:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... semana continúe jugando Axel dice..."
+  [40:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o CR como para palanca y Axel agarra su termo donde es..."
+  [43:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cine ahorita es de 16 no Axel los enanos tienen el cor..."
+  [50:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s más difícil cuán sacos Axel 29 los dos pueden Gar co..."
+  [52:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...incómoda y lo saludo Axel será buena idea que llev..."
+  [01:02:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mo casi al siguiente día Axel y cbok se sienten sicken..."
+  [01:02:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... le ve pálido Ed también Axel están bien usted..."
+  [01:02:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ve que Axel en una de las líneas la ..."
+  [01:10:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de cambios e Sí sigo que Axel se están..."

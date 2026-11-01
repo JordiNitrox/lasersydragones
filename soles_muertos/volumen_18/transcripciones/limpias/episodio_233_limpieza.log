@@ -1,0 +1,99 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,717
+  - Total párrafos: 496
+  - Correcciones automáticas Nivel 1 (Seguras): 43
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [18:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ada, una de las hijas de Axel se encuentra aquí frente..."
+  [18:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...edes. Pero no es hija de Axel, eh, lo que sea. Hasta A..."
+  [18:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l, eh, lo que sea. Hasta Axel lo acepta,..."
+  [18:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... señora. Pasó el hijo de Axel, que quede claro la hija..."
+  [19:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... quien no ve del todo es Axel que sacó un 41 en Steff ..."
+  [20:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a cualquiera porque está Axel, porque no la pueden ver..."
+  [20:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., pero está ahí. No, no, Axel no está enfente mío. Che..."
+  [22:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ah, un ocho. Axel, e iniciativa y 24. Benr..."
+  [22:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ada, yo le preguntaría a Axel. Axel, la la atacamos..."
+  [22:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o le preguntaría a Axel. Axel, la la atacamos..."
+  [24:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cho full attack por eso. Axel. Ay, ay, ay. Puchis, qué..."
+  [27:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Igual llega enfrente de Axel y le manda un mazazo. Ax..."
+  [27:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el y le manda un mazazo. Axel ahora tiene como 70 de A..."
+  [32:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... anticuado, pero sí, sí. Axel creo que va a tener que ..."
+  [40:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sí, sí. Bueno, continúe, Axel, mamá, sí voy yo. Sí. ¿Q..."
+  [41:15] [NIVEL_1_SEGURO] 'Axel 42' -> 'A.Xel 42'
+      Contexto: "...¿no? Mi nombre es Axel 42. Es la primera vez que n..."
+  [51:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...caminar hacia donde está Axel...."
+  [52:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., todo. Estoy invisible. Axel, le hago tricatac a ese ..."
+  [55:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eso, tengo entendido que Axel también es medio mala. A..."
+  [56:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...quiero oír algo de Axel. Creo que estamos perdid..."
+  [56:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...No sé, Axel. Eh, son extraños, pero ..."
+  [56:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: ".... Eh, son extraños, pero Axel no es la mamá. Yo sé que..."
+  [58:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...bol. Este, 31. Muy bien, Axel. Cairus, ¿qué hace?..."
+  [01:01:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Usted está diciéndole a Axel que tome control del arm..."
+  [01:01:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rol del arma. ¿Y por qué Axel no es la dueña del arma?..."
+  [01:01:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s y no tiene por qué ser Axel la..."
+  [01:02:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...scogimos hacer algo. Uy, Axel, puedo matarla. Yo la tr..."
+  [01:02:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uviéramos nosotros aquí. Axel. ¿Y por qué usted no pon..."
+  [01:04:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es digo, quiero que mamá Axel diga si ella quiere de v..."
+  [01:05:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ás. Quiero solucionarlo. Axel. Bueno, en fin. Ya Triel..."
+  [01:05:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nto. Ella vuelve a ver a Axel y dice, "Axel, todos han..."
+  [01:05:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ve a ver a Axel y dice, "Axel, todos han puesto siempr..."
+  [01:06:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pocas expectativas, pero Axel, cuando venga el momento..."
+  [01:08:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a y le dice bajito, mamá Axel, no quiero pelear, no qu..."
+  [01:08:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... eso. Lo he visto pasar. Axel, no le estoy pidiendo qu..."
+  [01:12:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel ya es el gato del otro l..."
+  [01:12:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... dice, "Paren a ese gato Axel." Ajá. Ella quiere saber..."
+  [01:13:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Yo no. Si no arriesgamo..."
+  [01:13:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ruirla. Pero supongo que Axel no quiere matar esta moc..."
+  [01:14:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no, está bien, pero mamá Axel. y..."
+  [01:14:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vamos progresando. Si si Axel va a tener la oportunida..."
+  [01:15:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sicología en línea. Mamá Axel, tenga cuidado. Siempre ..."
+  [01:20:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mic Axel se toca donde le huele l..."

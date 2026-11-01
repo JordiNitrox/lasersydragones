@@ -1,0 +1,59 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,986
+  - Total párrafos: 272
+  - Correcciones automáticas Nivel 1 (Seguras): 23
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [02:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...der así como amarlo y el axel y ven llegarán lejos en ..."
+  [07:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s si usted suma la mitad axel out porque las armas hoy..."
+  [13:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que activaría una alarma axel y yo los vemos y le digo..."
+  [49:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel parece que no está no ti..."
+  [55:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...por cierto yo le digo a axel no del todo fuera de car..."
+  [58:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ra 247 es usted amiga de axel también me gustaría hace..."
+  [01:00:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...do la invita con el hijo axel acz si usted sabe cómo s..."
+  [01:02:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... un gusto volverla a ver axel pensé que no nos volverí..."
+  [01:02:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s he decidido trascender axel a ceder pero pero usted ..."
+  [01:03:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ilyn creo que el momento axel cuántos años ha vivido e..."
+  [01:05:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e otra idea y no usted y axel tienen mucha historia ju..."
+  [01:05:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ivió una mala vida antes axel y yo fuimos esclavos en ..."
+  [01:05:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...compañía minera en serio axel desde que tiene memoria..."
+  [01:06:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que evitará el chasis de axel decidiera hacer eso para..."
+  [01:06:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...on otros nos liberaron a axel ya mí yo ya había hablad..."
+  [01:06:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...viejos amigos axel y cuánto tiempo fue escl..."
+  [01:07:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...detalles en el chasis de axel acerca de..."
+  [01:08:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cho también en todo caso axel quería decirle que me gu..."
+  [01:10:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ás privada entre usted y axel yo me retiraré y los dej..."
+  [01:12:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...gracias por estar aquí y axel los dos hemos pasado cos..."
+  [01:13:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o así que cuidado por mí axel mi transición no le hará..."
+  [01:13:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la braza va a estar bien axel no tendremos que..."
+  [01:15:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... sí creo que sea bueno a axel un artículo también sus ..."

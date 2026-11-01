@@ -35,16 +35,21 @@ Cada volumen debe concebirse como una **novela autoconclusiva en su arco inmedia
 soles_muertos/volumen_X/
 ├── README.md                      # Ficha técnica, episodios asignados y estado
 ├── metadatos/
-│   └── episodios_volumen_X.json  # URLs de Libsyn/YouTube, títulos y sinopsis
+│   ├── episodios.json             # URLs de Libsyn/YouTube, títulos y sinopsis
+│   └── TRAZABILIDAD_ESCENAS.md    # Matriz escena-mesa con marcas de tiempo y tipologías
 ├── transcripciones/
 │   ├── raw/                       # Subtítulos .es.vtt originales de YouTube
-│   └── limpias/                   # Transcripciones depuradas en texto continuo
+│   └── limpias/                   # Transcripciones limpias con marcas de tiempo [HH:MM:SS] y log
 └── novela/
     ├── capitulos/                 # Borradores en Markdown (00_prologo.md, 01_capitulo...md)
     ├── GLOSARIO_Y_PERSONAJES.md   # Dossier del volumen con secundarios y facciones
     ├── generar_libro_pdf.py       # Script compilador HTML/CSS a PDF en 2 pases (sincroniza a libros_pdf/)
     └── Lasers_y_Dragones_Volumen_X_Titulo.pdf
 ```
+
+> 🏛️ **GOBERNANZA GLOBAL DEL CANON Y CONTINUIDAD:**  
+> * **Fuente Única de Verdad:** Todas las consultas de personajes y facciones deben remitirse a [CANON_MAESTRO.md](../../planificacion_global/CANON_MAESTRO.md). Queda prohibido crear copias locales del canon.  
+> * **Barrera de Spoilers:** Consultar [CRONOLOGIA_Y_REVELACIONES.md](../../planificacion_global/CRONOLOGIA_Y_REVELACIONES.md) para verificar qué revelaciones están estrictamente autorizadas para el volumen en curso.
 
 ---
 
@@ -60,7 +65,8 @@ El ciclo de vida de un volumen se divide en cuatro fases modulares, cada una res
 ├─────────────────────────────────────────────────────────────┤
 │ 3. MAQUETACIÓN Y PDF   ──► Skill: lasers-maquetacion-pdf
 ├─────────────────────────────────────────────────────────────┤
-│ 4. AUDITORÍA Y CIERRE  ──► Checklist Maestro de 10 Puntos
+│ 4. DOBLE AUDITORÍA     ──► 4A: Fidelidad Narrativa (7 Puntos)
+│                            4B: Editorial y PDF (Checklist Maestro)
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -68,16 +74,17 @@ El ciclo de vida de un volumen se divide en cuatro fases modulares, cada una res
 * **Skill activo:** `lasers-ingesta-transcripciones`
 * **Acciones:**
   1. Descarga de subtítulos con `yt-dlp` en `transcripciones/raw/`.
-  2. Limpieza fonética y de repeticiones con `limpiar_transcripcion.py`.
-  3. **Minería obligatoria de los 4 ejes:** Extraer secretos familiares, parentescos reales, dinámicas de la tripulación y traumas antes de escribir.
+  2. Limpieza fonética y temporal con `.agents/skills/lasers-ingesta-transcripciones/scripts/limpiar_transcripcion.py` (genera texto con marcas `[HH:MM:SS]` y reporte `.log`).
+  3. **Minería acotada al volumen:** Extraer secretos familiares, parentescos reales, dinámicas de la tripulación y traumas correspondientes al rango de episodios asignado.
 
-### Fase 2: Redacción Literaria y Continuidad
+### Fase 2: Redacción Literaria, Trazabilidad y Continuidad
 * **Skill activo:** `lasers-narrativa-y-canon`
 * **Acciones:**
   1. Transformar las tiradas y combates en prosa fluida de ópera espacial (cero jerga de mesa).
-  2. Aplicar la **inmersión diegética absoluta**: PROHIBIDO usar nombres de jugadores en el texto narrativo; Gerty habla mediante su sintetizador vocal.
-  3. Preservar las personalidades de Benrey, Triel, Marloc y A.Xel, así como la primacía de la partida real sobre Paizo.
-  4. Actualizar el `GLOSARIO_Y_PERSONAJES.md` del volumen.
+  2. Aplicar la **inmersión diegética absoluta**: PROHIBIDO usar nombres de jugadores en el texto narrativo; Gerty habla mediante su sintetizador vocal cavernoso.
+  3. Respetar la **barrera temporal de revelaciones** ([CRONOLOGIA_Y_REVELACIONES.md](../../planificacion_global/CRONOLOGIA_Y_REVELACIONES.md)).
+  4. Redactar en paralelo la matriz `TRAZABILIDAD_ESCENAS.md` asociando cada escena a su episodio y tiempo.
+  5. Actualizar el `GLOSARIO_Y_PERSONAJES.md` del volumen.
 
 ### Fase 3: Maquetación Editorial y Compilación del PDF
 * **Skill activo:** `lasers-maquetacion-pdf`
@@ -89,30 +96,38 @@ El ciclo de vida de un volumen se divide en cuatro fases modulares, cada una res
 
 ---
 
-## 4. Fase 4: Checklist Maestro de Calidad y Cierre (10 Puntos)
+## 4. Fase 4: Doble Auditoría de Calidad y Cierre
 
-Antes de dar por cerrado cualquier volumen, es preceptivo verificar los 10 puntos de control:
+Antes de dar por cerrado cualquier volumen, es obligatorio superar dos auditorías consecutivas:
 
+### 4A. Auditoría de Fidelidad Narrativa (ver [AUDITORIA_DE_FIDELIDAD.md](../../planificacion_global/AUDITORIA_DE_FIDELIDAD.md))
+1. **Fidelidad Fáctica:** Cero invenciones de tramas principales o muertes ajenas al audio de la partida.
+2. **Agencia de Jugadores:** Respeto íntegro a las ocurrencias, planes y tiradas de los jugadores.
+3. **Barrera de Revelaciones:** Cero filtraciones de secretos, alianzas o romances de volúmenes futuros.
+4. **Conjeturas de PNJs:** Las hipótesis erróneas de PNJs se narran como conjeturas subjetivas, nunca hechos.
+5. **Consistencia de Voces:** Preservación de la psicología canónica de Benrey, Triel, Gerty, Marloc y A.Xel.
+6. **Equilibrio de Extensión:** Capítulos balanceados entre 1.500 y 3.500 palabras (evaluar si un capítulo > 4.500 requiere dividirse).
+7. **Inmersión Diegética:** Cero nombres de jugadores en prosa y cero alucinaciones STT.
+
+### 4B. Auditoría Editorial y Maquetación PDF (Checklist Maestro de 10 Puntos)
 1. **Marcadores PDF:** Todos los capítulos y preliminares deben figurar en el Nivel 1 en el panel de marcadores de LibreOffice (usar `<h2 class="chapter-name">`, nunca `<h1>`).
 2. **Concordancia de Páginas:** La página física del PDF donde empieza cada capítulo debe coincidir con el número impreso en el Índice de Contenidos.
 3. **Índice en 1 sola página:** La tabla del índice no debe desbordarse hacia la página 4.
-4. **Inmersión Diegética (Barrido Anti-Fugas de Nombres de Jugadores):**
+4. **Barrido Anti-Fugas de Nombres de Jugadores:**
    ```bash
    grep -rnEi "\b(Roberto|Juan Pablo|Juanpa|Sofía|Sofia|Irene|Miguel)\b" novela/capitulos/*.md --exclude="00_nota_editorial.md"
    ```
    *(Cero coincidencias en la narrativa de los capítulos).*
 5. **Barrido Anti-Alucinaciones Fonéticas del STT:**
    ```bash
-   grep -rnEi "\b(piedra del triunfo|deriva|Ring Rey|Kreel|Ferani Krane|Sociedad Starfinder)\b" novela/capitulos/*.md
+   grep -rnEi "\b(piedra del triunfo|roca del triunfo|Ring Rey|Ferani Krane|Sociedad Starfinder|Duravor Kreel)\b" novela/capitulos/*.md
    ```
    *(Cero coincidencias).*
-6. **Fidelidad Canónica a la Mesa:** Cero extrapolaciones no confirmadas (ej. no llamar a Marlene «hermana de Marloc», no llamar a Triel «corsaria»).
+6. **Fidelidad Canónica a la Mesa:** Cero extrapolaciones no confirmadas (ej. Marlene no es hermana de Marloc; Triel nunca fue corsaria).
 7. **Integración de Giros y Vidas Personales:** Todos los datos familiares y emocionales descubiertos en la minería deben estar reflejados en los capítulos y en el glosario.
 8. **Inclusión de Descargos Legales:** Presencia obligatoria del Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución en la Nota Editorial.
 9. **Sincronización del Compendio Maestro:** Resumir el volumen en `Contexto completo/CONTEXTO_COMPLETO_SAGA.md` y actualizar las etiquetas de aparición de personajes y facciones.
 10. **Recompilación de Contexto Completo:** Ejecutar `python3 "Contexto completo/generar_contexto_pdf.py"` para mantener al día el libro maestro de la saga.
-
----
 
 ## 5. Política Estricta de Control de Versiones (Git)
 

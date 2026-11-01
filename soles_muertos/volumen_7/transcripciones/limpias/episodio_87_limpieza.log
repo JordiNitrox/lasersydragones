@@ -1,0 +1,73 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,379
+  - Total párrafos: 293
+  - Correcciones automáticas Nivel 1 (Seguras): 30
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [07:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...justo nada más y si ve a axel es una imagen que tiene ..."
+  [07:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nces espera tener cierto axel tiene mucho sentido de l..."
+  [07:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rticular ha sido por eso axel puede que no pero quien ..."
+  [07:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... gente que ha compartido axel axel comparte con minero..."
+  [07:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e que ha compartido axel axel comparte con mineros y c..."
+  [09:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cuenta que el sobrino de axel una forma de decirlo est..."
+  [09:25] [NIVEL_1_SEGURO] 'que el tus' -> 'Keltus'
+      Contexto: "... de ella y la hermana de que el tus recuerdo el nombre de qu..."
+  [13:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... que tirar mi iniciativa axel bailó team 2015 tiene..."
+  [14:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...des fueron tan rápidos y axel tan tan buena piloteando..."
+  [16:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...energía o capital axel lleve no es tan cerca co..."
+  [16:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ése fue mi mi orden para axel entonces a ok..."
+  [17:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e correcto este creo que axel así le pone tanto poder ..."
+  [27:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...más hago eso y le digo a axel como axel lleva nos..."
+  [27:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...so y le digo a axel como axel lleva nos..."
+  [28:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a bien yo afirmativo que axel casa y entonces voy a av..."
+  [33:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ahí eso es perfecto y el axel es el momento de usar la..."
+  [33:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...momento de usar la garra axel pongamos en una mejor po..."
+  [35:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...uy muy muy humanamente 1 axel x basura usted para el s..."
+  [35:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ue yo tengo una pregunta axel podría atacar ya que est..."
+  [36:28] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s podría pilotear porque axel tiene más tirada creo ok..."
+  [36:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...hacia la parte piloto ok axel va a atacar ataque ok no..."
+  [38:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aró de nuevo 23 bueno ya axel trato de pegar con la e ..."
+  [40:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... hey dispares se dispare axel quiere intentar con la g..."
+  [40:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ilo buenos apuntando a y axel lista entonces chicas só..."
+  [46:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...r round por por nadie ok axel vamos a hacerles en 20 n..."
+  [48:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la básico muy bien hecho axel excelente con la espada ..."
+  [54:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...loteando en este momento axel weber yo quedé piloto po..."
+  [59:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y entonces para qué axel siga la persecución pero..."
+  [01:00:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...asta aquí ok éste avanza axel que sigue el inmueble ya..."
+  [01:21:35] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...n cuando estábamos en la piedra del drift estoy segura que usted s..."

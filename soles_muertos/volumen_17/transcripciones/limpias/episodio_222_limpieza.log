@@ -1,0 +1,27 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 8,811
+  - Total párrafos: 329
+  - Correcciones automáticas Nivel 1 (Seguras): 7
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... casa." No me acuerdo si Axel lo vio como solo ella en..."
+  [17:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, profesor. Gracias por t..."
+  [18:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...go. Sí, está la parte de Axel. Se queda viéndolo usted..."
+  [28:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...saber Axel se tapa los oídos e con ..."
+  [30:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tá a la par de ustedes y Axel, este es el lugar correc..."
+  [48:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Perfecto. Axel y Cairos, ustedes van a ..."
+  [59:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...án? Eso de preparándose. Axel, usted está casi invisib..."

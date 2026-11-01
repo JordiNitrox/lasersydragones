@@ -1,0 +1,37 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,876
+  - Total párrafos: 268
+  - Correcciones automáticas Nivel 1 (Seguras): 12
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o se está esperando hola axel saluda también lo he vis..."
+  [24:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ente se acercó este hola axel gente que los aludes com..."
+  [24:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cho usted está ahí usted axel se siente como un poco e..."
+  [29:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... épocas claro no es como axel tengo entendido que uste..."
+  [52:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o que le dieron al nuevo axel dice que hemos ya dado..."
+  [01:02:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel yo venga y conozca los c..."
+  [01:07:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...acia utensilio de cocina axel usted toma los mandos y ..."
+  [01:10:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ings pelotín tiene usted axel 2..."
+  [01:11:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tedes van en dirección y axel usted puede ver todos lo..."
+  [01:13:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...quiera y él le dice ok axel necesito que haga tarde ..."
+  [01:16:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... piloto supongo que será axel o ya mencionamos y el pi..."
+  [01:23:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...esca ok yo puedo decirle axel quiere quiere darnos una..."

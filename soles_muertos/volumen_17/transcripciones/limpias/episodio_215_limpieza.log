@@ -1,0 +1,95 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,892
+  - Total párrafos: 523
+  - Correcciones automáticas Nivel 1 (Seguras): 41
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [18:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...espada. Axel, usted viene corriendo h..."
+  [20:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ágenes que han salido de Axel y de Marlock salieron mu..."
+  [21:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Triel y Axel desempaten. No es por de..."
+  [21:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...por destreza. Por un 14. Axel. 24 y Benrey 17. Lo que ..."
+  [22:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted todavía la veía. Y Axel, usted corre a toda velo..."
+  [22:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tá un poco detrás suyo y Axel es..."
+  [24:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a y fuera de cámaras que Axel corre porque supose que ..."
+  [24:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... corre porque supose que Axel no iba a ser influenciad..."
+  [29:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Primer turno de verdad. Axel..."
+  [37:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...después iría Axel. Benry. Sigue Axel. Sí, ..."
+  [37:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... iría Axel. Benry. Sigue Axel. Sí, creo que sí. Me cam..."
+  [38:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...í, sí, es inmediatamente Axel, usted sigue corriendo..."
+  [38:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... a ver de qué lado llega Axel...."
+  [38:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, usted sale corriendo y ..."
+  [38:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a pura par. Sin embargo, Axel, usted sale en el piso c..."
+  [39:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted vea donde sale Axel a la par suya, pero Axel..."
+  [39:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel a la par suya, pero Axel de cabeza para usted. Ok..."
+  [39:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Sibok ahí veo a Sibok. Axel no sabe nada...."
+  [40:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Por favor, Axel, no se interponga. Marlo..."
+  [40:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Él está tratando de mat..."
+  [50:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... como el payaso que soy. Axel, va usted ahora sí. No, ..."
+  [51:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...z debe tener cuidado con Axel. Si..."
+  [51:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...to, sería conveniente. Y Axel se le rompe el corazonci..."
+  [52:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ese fue ese fue Axel, ¿verdad? Sí, Triel. Oka..."
+  [54:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...one Custin que me regaló Axel...."
+  [56:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo hiciera. Camina hasta Axel. Ah, tengo evidencia de ..."
+  [57:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, ¿le puedo responder ya ..."
+  [01:00:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Está Axel ahí. Es como critic logr..."
+  [01:02:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Se fue Marlock. Sigue Axel. Marlock sabe qué podría..."
+  [01:02:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...er tirar misticismo para Axel. Muévase de ahí si puede..."
+  [01:02:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y que tal vez sepas como Axel, usted que también..."
+  [01:08:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...situación y camina hacia Axel. Oh, no...."
+  [01:08:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ah, donde camina hacia Axel hace se concentra y uste..."
+  [01:16:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que se hacen preguntas. Axel, a menos que ustedes tra..."
+  [01:16:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel, usted está en colgando ..."
+  [01:16:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Es esa es la reacción de Axel. activó los jetpacks. ¿Q..."
+  [01:18:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no tiene sentido. Mmm. M Axel, Axel no..."
+  [01:18:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ne sentido. Mmm. M Axel, Axel no..."
+  [01:21:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Usted Axel tiene otra visión, no vo..."
+  [01:21:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... a incriminarlo hablando Axel tiene otra visión del as..."
+  [01:21:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...las piernas y después de Axel. Ajá. Triel. la triel...."

@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,765
+  - Total párrafos: 253
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [24:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cantado como yo creo que Axel sabría que intuir que si..."
+  [36:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Yo quiero decir que es Axel siempre lo..."
+  [38:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... yo Oh qué incómodo pero Axel no tiene Axel no tiene C..."
+  [38:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ómodo pero Axel no tiene Axel no tiene Cómo..."
+  [39:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...t trap del Norte eh bl y Axel con una mirada odio máxi..."
+  [39:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pero Axel no sabe leer caras Sí sí..."
+  [39:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sé de qué está hablando Axel está está desvariando ya..."
+  [42:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...as por esas cosas es que Axel es la favorita del públi..."
+  [43:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...momento después hablamos Axel le ayudará con su vengan..."
+  [50:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...arlock y triel dejaron a Axel las puertas están semiab..."
+  [53:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vez que ya no era Axel puede ser como su última..."
+  [54:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l rato tengamos suerte y Axel digo esa esa criatura no..."
+  [56:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... yo que me imagino o sea Axel esa Axel tiene que haber..."
+  [56:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e imagino o sea Axel esa Axel tiene que haber muerto a..."
+  [59:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nanites de Axel que yo había que eran to..."
+  [01:00:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...odo esto Son ns creo que Axel se extendió en su tiempo..."
+  [01:02:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... los bebés revisamos hio Axel no le digan Axel a eso y..."
+  [01:02:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mos hio Axel no le digan Axel a eso yo soy Axel eso es..."
+  [01:02:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... digan Axel a eso yo soy Axel eso es una..."
+  [01:02:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... tien razón esa ya no es Axel okay asumo que que ahí e..."
+  [01:10:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...como Axel las manos terminan como ..."

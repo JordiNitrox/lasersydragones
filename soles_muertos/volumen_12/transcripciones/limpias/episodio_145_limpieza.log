@@ -1,0 +1,45 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,003
+  - Total párrafos: 263
+  - Correcciones automáticas Nivel 1 (Seguras): 16
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [07:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...junio es el cumpleños de Axel no no..."
+  [08:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uánto tiempo ha existido Axel Okay vamos a la hoja sio..."
+  [08:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ños pero y digo mal digo Axel verdad pero me refiero a..."
+  [08:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a ha vivido 23 años como Axel per..."
+  [08:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es está claro 23 Ajá que Axel sepa o sea como digamos ..."
+  [08:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...as aún de la historia de Axel como por qué manos..."
+  [10:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... cómo se llama a m misma Axel eh yo aún tengo el más c..."
+  [11:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tedes termina el combate Axel..."
+  [14:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Pablo su personaje y Axel pueden ver a ellos tres ..."
+  [17:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Bueno este Okay Axel está con Ben git está co..."
+  [25:03] [NIVEL_1_SEGURO] 'Axel 42' -> 'A.Xel 42'
+      Contexto: "...Y al parecer los de Axel Axel 42 ya nos habemos presentad..."
+  [25:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rdos Y al parecer los de Axel A.Xel 42 ya nos habemos ..."
+  [45:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ido marcelus si usted si Axel quiere la caja negra Yo ..."
+  [45:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nde está la la creepy la Axel creepy está en los motor..."
+  [01:06:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...meza como pum pum pum eh Axel Okay yo tengo..."
+  [01:09:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eco es y el otro disparo Axel..."

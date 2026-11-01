@@ -1,0 +1,49 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,091
+  - Total párrafos: 241
+  - Correcciones automáticas Nivel 1 (Seguras): 18
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [18:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rdemos separados triel y Axel y benrey sibok van arrib..."
+  [18:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n benrey y sibok y abajo Axel y triel buscando abajo a..."
+  [19:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rlo pero por suerte para Axel y olmar es reflex que es..."
+  [19:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...i nada tengo que pasarlo Axel solo hizo y se esó Ajá l..."
+  [27:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ada vez que utilice este Axel yo hago un Tri al señor ..."
+  [32:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...arma como preparándose m Axel ve todo eso pero como no..."
+  [35:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tura que está amenazando Axel lo logra que hab una pos..."
+  [37:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ustedes ve a yolmar y a Axel Y quién decide atacar de..."
+  [37:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel ver una criatura que es ..."
+  [37:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o las pesadillas ataco a Axel Ah porque Honestamente y..."
+  [37:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s es ella es cierto Okay Axel primer ataque 21 22 c sí..."
+  [42:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a a queda aún en pie qué Axel el Kill Okay sí voy a at..."
+  [43:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...primero a yolmar falla a Axel falla también este queo ..."
+  [44:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...reflex Axel 18 pasado también 14 fal..."
+  [56:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e vernos Andro la voz de Axel ahí en el..."
+  [57:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...una medio drow y ella es Axel somos amigos de rrey no ..."
+  [01:04:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel a la distancia podríamos..."
+  [01:05:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el no está en Rango sí Axel ael Respóndeme resp al A..."

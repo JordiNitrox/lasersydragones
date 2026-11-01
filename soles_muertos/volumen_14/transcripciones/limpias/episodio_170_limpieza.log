@@ -1,0 +1,51 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,315
+  - Total párrafos: 302
+  - Correcciones automáticas Nivel 1 (Seguras): 19
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [02:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dele bueno Axel siendo Androide el La id..."
+  [02:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uedo verlo porque además Axel le gusta vestirse raro a..."
+  [02:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... calzara en esa escena a Axel también en vez de lilu S..."
+  [02:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...umor y hay que hacerle a Axel el traje de..."
+  [10:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...gustaría ver a Axel dibujada en el estilo de..."
+  [12:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o las cosas de Carbón 26 Axel usted se pone a revisar ..."
+  [28:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l único además aparte de Axel que habla más o menos el..."
+  [31:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os es como no sé por qué Axel conmemoraba con un docto..."
+  [40:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo pasó también entonces Axel hágase 4 5 6 7 17 puntos..."
+  [41:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...asa la grúa por encima y Axel que está viendo le hace ..."
+  [43:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... iniciativa cok triel 14 Axel 15 maxel está volando us..."
+  [48:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ontra incorpor creatures Axel Okay el solo para aclara..."
+  [58:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ra Science cultura 22 29 Axel la información es prácti..."
+  [01:09:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... engineering para lo que Axel preguntó usted se da cue..."
+  [01:14:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el holograma se acerca a Axel y Levanta la mano y la m..."
+  [01:14:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...un edificio alrededor de Axel como una torre y tiene q..."
+  [01:16:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel dos podemos jugar al jue..."
+  [01:25:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...peza a glitchear un poco Axel celo Axel hago Trick Att..."
+  [01:25:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tchear un poco Axel celo Axel hago Trick Attack no has..."

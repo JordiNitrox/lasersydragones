@@ -1,0 +1,55 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,294
+  - Total párrafos: 268
+  - Correcciones automáticas Nivel 1 (Seguras): 21
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [09:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... en realidad es raro que axel haya sido la única que s..."
+  [17:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ensión se daba diferente axel usted no sabe específica..."
+  [29:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o maycas de vos que hace axel axel va a salir o se va ..."
+  [29:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cas de vos que hace axel axel va a salir o se va a que..."
+  [30:10] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...si no vio el vídeo de la piedra del drift entonces no sabe quiénes..."
+  [38:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...an verde sabe el rey eso axel una acción muy fashion o..."
+  [40:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a voz que suena robótica axel mar loco un estándar que..."
+  [42:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... el mundo está despierto axel va a usted hago un fuel ..."
+  [48:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...va a matar a axel que engullir point no po..."
+  [52:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel va usted idea y un tec a..."
+  [53:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aladas pegará en beta de axel usted sale corriendo you..."
+  [54:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...uando termine la batalla axel sí que ha impactado como..."
+  [01:02:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...roides le dijeron algo a axel le hicieron como usted u..."
+  [01:03:12] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ntonces nomás una teoría axel si lo nota o sea si es q..."
+  [01:04:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...hora lo que dice tal vez axel está en el culto loco ci..."
+  [01:05:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... el 5 - para mí por aquí axel el comentario de vendred..."
+  [01:07:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...so pero eso sólo lo sabe axel porque eso lo hablaron e..."
+  [01:10:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...está muy chica como para axel eso y el daño de ácido e..."
+  [01:20:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e ahora usted puede usar axel puede usar la armadura q..."
+  [01:22:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...entonces que se lo deja axel si si no tiene ninguna o..."
+  [01:22:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...si no tiene ninguna otra axel como el hermano menor se..."

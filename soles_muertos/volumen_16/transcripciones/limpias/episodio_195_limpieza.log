@@ -1,0 +1,47 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 14,512
+  - Total párrafos: 334
+  - Correcciones automáticas Nivel 1 (Seguras): 17
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [22:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n sillazo por la espalda Axel usted nada más siente un..."
+  [26:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...amos sería 17 falla Okay Axel yo improviso una arma ag..."
+  [32:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...to circuito en una parte Axel Okay ahora sí va a a dar..."
+  [40:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue entonces y crítica 19 Axel Bueno yo igual que triel..."
+  [43:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que son los protectores Axel usted hace Wow y la..."
+  [44:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... bien esa combinación Ah Axel est super cool ustedes v..."
+  [49:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... solo mirando el fuego a Axel había hecho eh lo último..."
+  [55:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e hemos hecho mucho daño Axel deberíamos hacer otra ve..."
+  [57:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...biertos con un ha arriba Axel eh yo o sea voy a hacer ..."
+  [01:02:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...al par de Axel alguien se está apagando..."
+  [01:03:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eso triel más bien Irene Axel Estrellita espacial de Q..."
+  [01:19:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...qué madre 36 Entonces no Axel 23 nadie escucha ni siqu..."
+  [01:22:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s increíbles sin embargo Axel nota algo curioso bueno ..."
+  [01:24:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...torias maravillosas pero Axel tal vez usted con un pen..."
+  [01:24:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o pucha eso es una y que Axel piensa más frío también ..."
+  [01:30:18] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eso y después ha como Ay Axel no..."
+  [01:31:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s caminando este es como Axel yo comparto..."

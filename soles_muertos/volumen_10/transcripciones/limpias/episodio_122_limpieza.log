@@ -1,0 +1,77 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,106
+  - Total párrafos: 281
+  - Correcciones automáticas Nivel 1 (Seguras): 32
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a ahí si lo Escucha esto Axel le molesta cierra los oj..."
+  [15:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ora en adelante señorita Axel no estoy aquí para..."
+  [18:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tirarle la mascota bueno Axel le dice un gusto Ángela ..."
+  [18:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...recer algo de tomar como Axel sabe que está embarazada..."
+  [20:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o y este es el cuarto de Axel nadie entra ahí noto que..."
+  [21:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no bueno Axel también tengo entendido ..."
+  [32:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... comunicaciones se hacen Axel berro y ocupo que vengan..."
+  [32:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la entretenimiento ya tú Axel están en su..."
+  [36:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e demasiado pesado no sé Axel Henry que opinan yo yo t..."
+  [40:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es ni acompañar a marlok Axel o a usted o a mí esto es..."
+  [43:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...mbién los llamaba porque Axel saqué un poco más de la ..."
+  [44:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel traga saliva así bueno n..."
+  [44:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...espués lo vemos como sea Axel tragas el IVA y se alist..."
+  [46:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ustedes pueden ver a Axel acostada Está bien y est..."
+  [50:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...al y el vídeo se acaba y Axel Está sorprendida no sabe..."
+  [56:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r que su chasis es único Axel Qué interesante me gusta..."
+  [58:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ejemplo la apariencia de Axel no está definida por por..."
+  [01:01:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... en cosas de medicina en Axel Sí entonces este si si A..."
+  [01:01:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l Sí entonces este si si Axel me deja hacer algunas al..."
+  [01:03:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eral de esta historia de Axel Ok entonces y él empieza..."
+  [01:05:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os Ayer trascendió llegó Axel y por algún..."
+  [01:05:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...quedaron en no decirle a Axel que se conocían desde an..."
+  [01:05:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rato de hacerse cargo de Axel y no decirle nunca..."
+  [01:11:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...to antes de eso que dijo Axel yo no tengo que morir Yo..."
+  [01:12:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue le hace a ti no no no Axel pero o sea no O sea no e..."
+  [01:16:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ver los dos recuerdos de Axel a ver si puedo sacar alg..."
+  [01:17:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de Axel engineving home 19 en el..."
+  [01:17:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os nanobots que están en Axel si son diferentes casi t..."
+  [01:18:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ay yo este me siento con Axel y le digo yo vea estos m..."
+  [01:19:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... es cierto El cadáver de Axel debe valer un montón de ..."
+  [01:21:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te la función de algo de Axel es puro como como elegan..."
+  [01:21:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... es lo que es lo que sea Axel no vaya por ahí vendiend..."

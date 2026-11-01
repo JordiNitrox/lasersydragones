@@ -1,0 +1,57 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,040
+  - Total párrafos: 378
+  - Correcciones automáticas Nivel 1 (Seguras): 22
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [04:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ible, digamos. Entonces, Axel tiene eso mismo también...."
+  [05:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...gustaría que Axel pudiera ser solo invisib..."
+  [25:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l, ustedes están en eso. Axel, Benry,..."
+  [26:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ustedes ocúpense de él. Axel, conmigo...."
+  [30:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Alero Juana es decirle a Axel como como Axel Aler está..."
+  [30:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...decirle a Axel como como Axel Aler está ahí atrás como..."
+  [30:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sea, queda hacia abajo. Axel tiene medicine, ¿verdad?..."
+  [30:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí. Axel podría ayudarme a mí y C..."
+  [31:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Bueno, Axel hace pasitos para atrás ..."
+  [32:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...irada y voy a utilizar y Axel, medicina. medicina las ..."
+  [35:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y con la ayuda de Axel, de enfermera, e voy a u..."
+  [36:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...odas las cosas médicas y Axel me quita el sudor del fr..."
+  [48:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hizo alera. Sin embargo, Axel, su mirada se cruza con ..."
+  [48:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... que ser menos sutil con Axel. Llega un mensaje como s..."
+  [49:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Y y Axel le hace esa mirada sutil..."
+  [49:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... hace esa mirada sutil y Axel es como, ¿qué es la vara..."
+  [57:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...completamente aquí. Axel, llega usted frente a Si..."
+  [57:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... frente a Sibo. Señorita Axel, veo que lograron su obj..."
+  [01:00:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Okay. Y Axel no sabe. Es como Okay. E..."
+  [01:00:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o que si Sofía lo pensó, Axel también lo pensará. Y pe..."
+  [01:01:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ve a ver la la mirada de Axel. Yo la de ella. Discúlpe..."
+  [01:08:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ed ve y ve a Siibook y a Axel que están ahí con Yo tam..."

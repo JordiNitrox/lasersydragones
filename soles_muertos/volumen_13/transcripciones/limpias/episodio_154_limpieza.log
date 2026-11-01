@@ -1,0 +1,97 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,915
+  - Total párrafos: 263
+  - Correcciones automáticas Nivel 1 (Seguras): 42
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [02:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de Pathfinder 1 en serio Axel el pichas pichas punto n..."
+  [05:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lar Irene que está cerca Axel yo digo que el centro em..."
+  [07:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...on contactados al inicio Axel Ah..."
+  [08:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel eran las 36 Ajá que quie..."
+  [16:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ntando a la oscuridad de Axel doll o razor 42 O cuál e..."
+  [16:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rentando a la versión de Axel que está aquí que tiene ..."
+  [16:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vos justo después de que Axel la ataca Y esa criatura ..."
+  [25:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... cachete no estuvo cerca Axel hago lo..."
+  [25:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Ah okay Sí son son son Axel entonces muy bien pero s..."
+  [25:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...unos ataques rarísimos y Axel se..."
+  [32:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o se preocupe por eso la Axel doll sigue enfrentando a..."
+  [32:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...doll sigue enfrentando a Axel usted ve que la ve intri..."
+  [33:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Dios vivirá por siempre Axel va usted al D le hago un..."
+  [35:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ento está enfocada en en Axel Okay okay en esa cosa un..."
+  [36:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel el segundo recargo el ar..."
+  [37:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...realmente es espíritu de Axel es el corazón el..."
+  [44:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o y vuelve a ver a penry Axel creo que voy a irme para..."
+  [46:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... la criatura que es como Axel el Axel doll se va vuelv..."
+  [46:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tura que es como Axel el Axel doll se va vuelve a ver ..."
+  [47:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...donde ve Axel le manda un ataque de ca..."
+  [47:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ca falla tiempo prestado Axel usemos a nuestro favor A..."
+  [47:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l usemos a nuestro favor Axel voy yo que sepr voy a pr..."
+  [49:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ás al frente sobrepaso a Axel y estoy cerca de una de ..."
+  [52:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...amos es posible entonces Axel dice como vamos vamos to..."
+  [52:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...contra ese ese Baby Baby Axel que está ahí tapando en ..."
+  [55:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... la cabeza es Rubio como Axel o..."
+  [55:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o va Ese fue triel va la Axel dog ella empieza a dar v..."
+  [56:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... así por la mínima igual Axel Este es un bebé el que e..."
+  [59:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de de tener clim como si Axel es acrobática este más e..."
+  [59:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nos divide es como Axel se deja llevar por los v..."
+  [59:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...icos guapos Ahí es donde Axel es como Axel deja de ver..."
+  [59:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hí es donde Axel es como Axel deja de ver el fashion e..."
+  [01:01:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e bajó nueva se acerca a Axel y la trata de atacar Oh ..."
+  [01:03:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...amente ya no lo hice más Axel doll Ah se lanza violent..."
+  [01:06:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tar que está enfrentando Axel y falla..."
+  [01:10:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de moverse en este turno Axel Yo sí mm es que a veces ..."
+  [01:10:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...m es que a veces dice la Axel y se llamas Axel doll o ..."
+  [01:10:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dice la Axel y se llamas Axel doll o razor 42..."
+  [01:12:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ndió verdad tenía Miguel Axel hágase 15 puntos de daño..."
+  [01:13:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...go hasta ahí a la par de Axel cómo estamos la razer do..."
+  [01:15:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...esde que lo prendí va el Axel no por te caste ahí lleg..."
+  [01:17:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...angra tan sensualmente y Axel no desde aquí puedo disp..."

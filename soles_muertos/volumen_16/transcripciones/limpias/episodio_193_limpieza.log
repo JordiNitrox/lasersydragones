@@ -1,0 +1,19 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,186
+  - Total párrafos: 257
+  - Correcciones automáticas Nivel 1 (Seguras): 3
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sea como a la hermana de Axel sí s no pero digo yo que..."
+  [35:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...algo No gracias yo sí Ah Axel mejor no Okay el momento..."
+  [55:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...también vuelvo a ver Axel como inquisitivamente co..."

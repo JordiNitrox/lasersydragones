@@ -1,0 +1,59 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,269
+  - Total párrafos: 280
+  - Correcciones automáticas Nivel 1 (Seguras): 22
+  - Correcciones validadas Nivel 2 (Contextuales): 1
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y nosotros que le pasa a axel porque no se quiere baña..."
+  [17:59] [NIVEL_2_CONTEXTUAL_OK] 'que elevarse' -> 'Gevalarsk Nor'
+      Contexto: "...s a ver al embajador el señor que elevarse honor así qué cuando goethe l..."
+  [19:21] [NIVEL_1_SEGURO] 'que el tus' -> 'Keltus'
+      Contexto: "...hacia el enorme segura y que el tus lo recibe como siempre h..."
+  [19:45] [NIVEL_1_SEGURO] 'que el tus' -> 'Keltus'
+      Contexto: "...no en la que el tus tanto tiempo o la le hab..."
+  [34:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel pone especial atención a..."
+  [37:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la vuelve a ver señorita axel su comentario es más que..."
+  [37:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ene usted razón señorita axel su preocupación es ciert..."
+  [39:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel probablemente en un mome..."
+  [39:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ó por nosotros y por ahí axel pus y él junto a las man..."
+  [40:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...el mal no está matando a axel no está no todo está bie..."
+  [42:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...fecto para un culto loco axel usted sabe que el lugar ..."
+  [43:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel es que en esa sección cu..."
+  [49:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s ustedes se le acerca a axel solo si siento lo..."
+  [50:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...elve a ver hachís que no axel todo está en orden con u..."
+  [01:20:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a estado este mar lo que axel comiendo ramen y compiti..."
+  [01:20:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... a la campeona de verdad axel me impresiona siete tazo..."
+  [01:20:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y crisis hay una foto de axel en los programas nunca h..."
+  [01:21:43] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...en no no no es tranquila axel yo sé que usted quiere q..."
+  [01:22:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ar stickers así animados axel piense guau qué pegas es..."
+  [01:24:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n entre ellos usted sabe axel porque usted ha visto ot..."
+  [01:24:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... a la iglesia esta lista axel vamos que entonces voy a..."
+  [01:26:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sted le dice usted no es axel quien es usted..."
+  [01:26:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...yo sí soy axel y eso es lo que creo que..."

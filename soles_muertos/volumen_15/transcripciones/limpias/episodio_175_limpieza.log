@@ -1,0 +1,29 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,617
+  - Total párrafos: 298
+  - Correcciones automáticas Nivel 1 (Seguras): 8
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [21:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...argas Entonces si quiere Axel ocupa no no usted usted ..."
+  [23:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te el día le preguntan a Axel que me tire un check de..."
+  [24:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... pero llega 20 usted Oye Axel Oye guerrera..."
+  [38:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ira cómo se lee Cuéntame Axel explíquele Quiero saber ..."
+  [49:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...gente sí es muy probable Axel pero que es tribulación ..."
+  [01:01:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s importante que digamos Axel tiene cultura benry tien..."
+  [01:20:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... siga eh 19 no sabe nada Axel no va a..."
+  [01:21:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o va el asunto al nombre Axel como a zumbao a..."

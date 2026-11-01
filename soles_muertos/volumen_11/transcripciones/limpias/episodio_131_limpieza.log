@@ -1,0 +1,71 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 14,109
+  - Total párrafos: 340
+  - Correcciones automáticas Nivel 1 (Seguras): 29
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [13:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s después de él continúa Axel Axel qué va a hacer Tien..."
+  [13:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pués de él continúa Axel Axel qué va a hacer Tiene un ..."
+  [14:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Cage eso hace Axel Hola tiene humo no sé po..."
+  [22:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o pegado con triel y con Axel y benry en la segunda zo..."
+  [24:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...asa y golpea a Gonzalo a Axel y a triel o sea Ahora ma..."
+  [27:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted se hace para atrás Axel se vuelve a meter de gol..."
+  [27:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rmin quedé así rodad ima Axel estamos demasiado atrás ..."
+  [30:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... hace nada por el estilo Axel está ahí atrás No yo tom..."
+  [44:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Rango o sea y no Ah no y Axel estos son los Caballeros..."
+  [48:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ejaré que usted explique Axel por allá por allá trampa..."
+  [50:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... nada más que depende de Axel adelante Entonces sí yo ..."
+  [50:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...se agarra los hombros de Axel le dice como ahora sí he..."
+  [52:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel vamos Axel s20 Speed up ..."
+  [52:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel vamos Axel s20 Speed up Tom no se i..."
+  [57:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel tengo que hac un Speed u..."
+  [58:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...triel se junta junto con Axel y benrey y van por un ca..."
+  [58:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rra un portón y frente a Axel benrey y triel se cierra..."
+  [01:00:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pueden pegar a triel o a Axel y benry Okay o a ger o s..."
+  [01:00:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...triel 1 gerty 2 Axel 3 benry 4 dos gerty guti..."
+  [01:05:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te el medio no hace nada Axel usted puede con un pilot..."
+  [01:05:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...itos aquí que después de Axel o después de digo despés..."
+  [01:06:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...como Axel lo estoy escuchando por ..."
+  [01:09:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iablos casi ahora voy yo Axel Ahora yo digamos tengo e..."
+  [01:15:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo y luego de atel Ah sí Axel a Okay Eh Yo igual voy a..."
+  [01:17:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... lo que hace sí perfecto Axel Gonzalo Gonzalo tratará ..."
+  [01:30:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ustedes imaginen Axel posiblemente imagina No ..."
+  [01:34:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...go más dos 18 en el dado Axel y les digo..."
+  [01:35:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...monos le hacen engage a Axel yy fallan miserablemente..."
+  [01:39:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...arlock es el el Oh no de Axel..."

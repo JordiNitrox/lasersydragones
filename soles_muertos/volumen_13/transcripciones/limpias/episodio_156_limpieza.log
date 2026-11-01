@@ -1,0 +1,73 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,413
+  - Total párrafos: 294
+  - Correcciones automáticas Nivel 1 (Seguras): 30
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [12:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... de esto tuvo que fuerte Axel regresar con él y correr..."
+  [13:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel está bien Sí creo que sí..."
+  [27:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...curioso Sí y Axel ha estado con ustedes si..."
+  [27:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r mis experiencias no de Axel no de Axel digo yo sí Ax..."
+  [27:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iencias no de Axel no de Axel digo yo sí Axel..."
+  [27:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el no de Axel digo yo sí Axel..."
+  [28:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel es un poco extraña con e..."
+  [28:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...salvarlos no y pues bien Axel está estaba haciendo Jus..."
+  [28:03] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "...te para salvarlos porque rin Rey quería salvarlos no y pu..."
+  [28:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...iba como y le sonríe y y Axel se le queda bien un rato..."
+  [29:11] [NIVEL_1_SEGURO] 'rin rey' -> 'Rim Rey'
+      Contexto: "...esan al agujero de git y rin rey y mm cómo está..."
+  [32:14] [NIVEL_1_SEGURO] 'rin rey' -> 'Rim Rey'
+      Contexto: "...m Wow Yo yo abrazo ahí a rin rey y r le dice perdieron a ..."
+  [42:17] [NIVEL_1_SEGURO] 'rin rey' -> 'Rim Rey'
+      Contexto: "...s ven que el grupo de de rin rey..."
+  [42:35] [NIVEL_1_SEGURO] 'rin rey' -> 'Rim Rey'
+      Contexto: "...o ver puede ver que está rin rey como todo serio concentr..."
+  [46:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e ser más mítico para mí Axel sacó uno en el dado ese ..."
+  [46:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... classes empiezan 10 más Axel Me parece muy temático P..."
+  [46:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rta la mitad o sea a Ajá Axel usted duerme y en su sue..."
+  [47:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... par suya y está sentada Axel la otra la otra Axel per..."
+  [47:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ada Axel la otra la otra Axel pero usted ve que hay un..."
+  [48:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo y a la par de la otra Axel está sentada n y ecler y..."
+  [48:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sentada n y ecler y otra Axel y un montón de Axel que ..."
+  [48:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...otra Axel y un montón de Axel que se pierden hacia el ..."
+  [48:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...acia el infinito la otra Axel le dice había olvidado e..."
+  [49:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel hace tanto tiempo veo el..."
+  [50:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...debe saberlo y todas las Axel..."
+  [59:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e lo que vio con la otra Axel la sensación de los Nan ..."
+  [01:01:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n más s ahí pues usted y Axel se ve igual que siempre ..."
+  [01:01:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ando en silencio como yo Axel me dio comida tan mal es..."
+  [01:13:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cu y morogrim a Axel le da lo logra más cuatr..."
+  [01:19:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s ingenioso ymar Gracias Axel se ocupan algo yo tratar..."

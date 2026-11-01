@@ -1,0 +1,77 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 15,732
+  - Total párrafos: 385
+  - Correcciones automáticas Nivel 1 (Seguras): 32
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel a otra puerta no s salió..."
+  [24:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sedes en cuando win win axel ok yo todo esto me parec..."
+  [26:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ntonces sofía en eso que axel se quedó viendo con cuid..."
+  [29:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... un 24 montse para venir axel un 19 muy bien mar lo qu..."
+  [29:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n 19 muy bien mar lo que axel y el..."
+  [30:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...puerta de alguna forma axel usted puede puede entrar..."
+  [34:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel ok yo mi objetivo desblo..."
+  [36:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...arse como swat como dijo axel puede hacerlo percepción..."
+  [39:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nas cosas inmediatamente axel usted escucha la puerta ..."
+  [39:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... pero la puerta no se dé axel ríase común con standard..."
+  [39:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...con unos buenos segundos axel activo micro kingpin eso..."
+  [43:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rta al lado contrario de axel para que si alguien entr..."
+  [45:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aluminio muy bueno axel ok yo me va a mover para..."
+  [51:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sona en la iniciativa es axel entonces si axl éste pre..."
+  [52:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...disparó axel lo que saber 26 tomen co..."
+  [54:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... y le dispara a marlo ya axel..."
+  [56:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...si está muerto está en 4 axel bueno si axl se da cuent..."
+  [01:04:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...esactivará girl y dile a axel que está equivocada en g..."
+  [01:05:24] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lando pedazos del sillón axel ok puede ser un tic atta..."
+  [01:17:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ubriéndose las orejas de axel se mueven así cuando oye..."
+  [01:22:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...í está muy bien muy bien axel y ok yo de ser un tri ca..."
+  [01:31:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e tiene separa la par de axel y la ataca con el puño d..."
+  [01:31:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sin embargo axel usted no se haga nada de..."
+  [01:32:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tá haciendo trick apac a axel usa survival 26 si 26 lo..."
+  [01:37:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y se levanta axel ok vamos a ver yo no pue..."
+  [01:37:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ecente entonces hago eso axel hacer que es un poco ven..."
+  [01:41:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...flex de 17 eso empañaría axel por eso le dije que se m..."
+  [01:44:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e pensar que puedo hacer axel está ahí a la par de ell..."
+  [01:45:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...super mercenario y veo a axel ahí un poco enredado axe..."
+  [01:45:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...xel ahí un poco enredado axel salga de ahí ya casi los..."
+  [01:45:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ió boom ha salido así ok axel va a ser primero bueno p..."
+  [01:49:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...enga otro máximo gracias axel ayuda en que te digo alg..."

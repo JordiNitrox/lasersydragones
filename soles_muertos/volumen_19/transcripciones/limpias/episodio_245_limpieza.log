@@ -1,0 +1,87 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,868
+  - Total párrafos: 427
+  - Correcciones automáticas Nivel 1 (Seguras): 37
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ra de pie. Benry vuela y Axel está en el techo y ahora..."
+  [16:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...d hablaba. Sí, solo solo Axel. Ah, no,..."
+  [16:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el que no sabía. Sif era Axel la que la que no tiene S..."
+  [17:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...le. Sí. Okay. Me acerco. Axel Perception y Computers p..."
+  [18:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...odo eso está en manos de Axel..."
+  [18:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ien y para mal. Lo sé. Y Axel sintió sí la presión. Sí..."
+  [20:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...go yo. Ah, buen trabajo, Axel. Veo que bloqueó la puer..."
+  [25:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...i, o sea, lo que digo es Axel, ¿qué le parece si usted..."
+  [25:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Okay. Sí, sí. Eh, vamos, Axel. Yo yo la acompaño...."
+  [26:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo guardo. Axel, ve usted tal vez algún ..."
+  [27:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Ingeniería será. Axel, usted está presente. ¿Q..."
+  [28:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Con encontró ventilas. Axel, yo creo que yo tengo un..."
+  [32:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te entonces no hay nada, Axel...."
+  [32:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...té nada. Y hay algo ahí, Axel. Okay. Estaba como no ha..."
+  [41:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Wizard. Okay. Volvemos a Axel. Muy bien. Voy a escanea..."
+  [43:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...trar al cuarto en el que Axel dice que no hay nadie. E..."
+  [44:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...escucha. Okay. De Bueno, Axel dice que es en la armerí..."
+  [46:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...era de Axel. Ah, no diré más. Es una..."
+  [49:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...esto porque saqué un 24. Axel, le ayudo a ella. Era in..."
+  [49:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Triel y Axel ven y dice, "Ah, mae, es..."
+  [49:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eproducir los androides. Axel, párrese. Dios,..."
+  [50:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... clona. Uy, si uno clona Axel, el clon de Axel, ajá, s..."
+  [50:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o clona Axel, el clon de Axel, ajá, se podrá..."
+  [55:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e hay algo más, ¿verdad? Axel, ¿a usted le parece que ..."
+  [56:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...24. 33 para Axel. 33 también. Okay. 23. O..."
+  [56:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e un dado de cuatro. Uh. Axel, tíreme un dado de seis...."
+  [57:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...¿Qué sacó Axel? Dos. Ahorita vamos con ..."
+  [58:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es una hora. Entonces, y Axel, usted tiró cuánto en el..."
+  [01:01:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar porque ciertamente sí Axel dice que hubo algo pesad..."
+  [01:04:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Y es el combate. No, no, Axel, es el momento. Nul. va ..."
+  [01:04:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Se peina primero. Bueno, Axel, la idea era entonces pa..."
+  [01:06:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... la puerta. Vamos a ver. Axel, usted va a llevar el as..."
+  [01:07:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...40? Sí, ¿por qué no? No, Axel, nosotros no. El intento..."
+  [01:09:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Sí, yo estaría detrás de Axel...."
+  [01:09:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Si Axel está como como en cover ..."
+  [01:11:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a sonrisa. Pero después, Axel, usted reconoce una voz ..."
+  [01:11:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a punto de disparar hace Axel, ¿qué está haciendo aquí..."

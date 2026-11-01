@@ -1,0 +1,53 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,723
+  - Total párrafos: 348
+  - Correcciones automáticas Nivel 1 (Seguras): 20
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [10:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel. Mire, Roberto. 22 sin s..."
+  [15:32] [NIVEL_1_SEGURO] 'Axel 42' -> 'A.Xel 42'
+      Contexto: "...ataque. Okay, excelente. Axel 42. Que por cierto, a los q..."
+  [23:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lock. Oh, no. Eh 15 para Axel. Siento que eso está ahí..."
+  [23:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Muy bien. My God. Hasta Axel. ¿Hasta Axel? Con ese ri..."
+  [23:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... God. Hasta Axel. ¿Hasta Axel? Con ese riguroso 15 lo ..."
+  [26:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... tengo que decidir entre Axel y Wilk. Par, Axel. Wilk...."
+  [26:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... entre Axel y Wilk. Par, Axel. Wilk...."
+  [26:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... No, Wilk, no. Ahora sí, Axel iba a decir, pero yo no ..."
+  [26:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel cambia entre si es una p..."
+  [30:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cualquier cosa, ¿verdad, Axel? No creo. Uno o algo así..."
+  [30:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...videmos mi último turno. Axel. Mi plan era, pues sí, d..."
+  [31:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Mátelo, Axel. Vamos, vamos, vamos. De..."
+  [34:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... de daño. Casi igual que Axel. Mhm. Casi...."
+  [39:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...capa así, ¡ju! Le tapa a Axel otra vez. Le tira, le ti..."
+  [40:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uien. Eh no no no no no. Axel...."
+  [41:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...egado dos 10, uno contra Axel y uno contra uno de los ..."
+  [43:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...fondo del pasillo como, "Axel, Triel, ¿todo bien por a..."
+  [47:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ré Soul Points entonces. Axel, a usted no le tocaron l..."
+  [55:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...entonces al cuerpo. Axel, ¿usted se queda fuera? ..."
+  [59:32] [NIVEL_1_SEGURO] 'piedra del Drift' -> 'Roca del Drift'
+      Contexto: "...la piedra del Drift estuvo en el Drift, ese ..."

@@ -1,0 +1,47 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 7,949
+  - Total párrafos: 199
+  - Correcciones automáticas Nivel 1 (Seguras): 17
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [14:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sus compañeros ven re y Axel morirán aquí y usted que..."
+  [15:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... tal vez por su descuido Axel una vida como esclava en..."
+  [18:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a de verdad va a matar a Axel y a..."
+  [19:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... a ver si cabe busca así Axel usa sus habilidades de e..."
+  [20:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nuevo plan está ahí como Axel Alicia al inicio Busca c..."
+  [20:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...desgastar a uno entonces Axel que vive todo el rato qu..."
+  [21:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...escenarios se lamenta de Axel terminan en no tenemos a..."
+  [32:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Barrera Axel sale de la situación Yo ..."
+  [33:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rriendo en esa dirección Axel trata de oír si viene al..."
+  [34:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ver en la oscuridad pero Axel y Ben Rey si logran verl..."
+  [40:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...í están mi lockers el el Axel computers tengo mal pres..."
+  [41:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cambiar las computadoras Axel en las computadoras uste..."
+  [42:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sí como usted recordarán Axel había encontrado una sal..."
+  [42:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uters creo que aquí solo Axel y creo que yo no así que..."
+  [51:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o A qué es este 27 sí 27 Axel Usted sabe que ustedes t..."
+  [56:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...haya canasta nos vemos a Axel y Adriel la mejilla espe..."
+  [59:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uede ayudarlo desde aquí Axel usted piensa en sus amig..."

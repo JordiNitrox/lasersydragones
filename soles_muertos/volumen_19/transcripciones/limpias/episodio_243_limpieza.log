@@ -1,0 +1,107 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,715
+  - Total párrafos: 426
+  - Correcciones automáticas Nivel 1 (Seguras): 47
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lea. El último sostuvo a Axel, le le arrebató..."
+  [16:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ssette con un 26. Es que Axel no tiene arma en la mano..."
+  [18:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Piu. Axel. Yo. Ay, Axel. Eh, ¿tien..."
+  [18:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Piu. Axel. Yo. Ay, Axel. Eh, ¿tiene ataques de o..."
+  [23:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a volar hasta donde está Axel Y va a ponerle, este, su..."
+  [24:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...al arma de Axel Axel, necesitamos un tir..."
+  [24:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...al arma de Axel Axel, necesitamos un tiro cer..."
+  [24:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel Mmm. [grito ahogado] Oka..."
+  [27:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s que están aquí Eso fue Axel Sigue él Tiene agarrado ..."
+  [31:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... antes de irme, pero no. Axel. Voy yo. Y digo, "Oh, es..."
+  [32:30] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... y sube hacia donde está Axel...."
+  [33:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ueno, ahí tengo cover de Axel. Yo estoy arriba. Ah, es..."
+  [34:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., usted tenía ya ya bajó Axel, entonces. No, Axel no b..."
+  [34:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...bajó Axel, entonces. No, Axel no bajó, [música] porque..."
+  [36:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Okay. [risas] Axel. Voy yo. Puede ser tic t..."
+  [36:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...vamos Axel. No es Sofía, es Axel. [..."
+  [36:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os Axel. No es Sofía, es Axel. [risas] Puede ser por e..."
+  [36:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s son responsabilidad de Axel, no mía...."
+  [37:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "..., 28, 29. Okay, por fin. Axel usa punta de abajo y dis..."
+  [37:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ué asco de lugar, piensa Axel. Ya, don, no exploremos ..."
+  [38:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ible. Ah, sí, parece que Axel y Sam están golpeados...."
+  [41:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a como un arma de las de Axel? Es small, sí...."
+  [43:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...treza. ¿Es igual a la de Axel o es mejor la de..."
+  [43:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel? Es es mejor que la de A..."
+  [43:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l? Es es mejor que la de Axel. La de Axel es más más 1..."
+  [43:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...or que la de Axel. La de Axel es más más 12, más 13. S..."
+  [43:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...2, más 13, igual a la de Axel. Ah, sí, ustedes, ustede..."
+  [43:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue le había construido a Axel esa o no sé. Ajá. Este T..."
+  [44:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...á este está muy muy mili Axel tiene mucho hacer con lo..."
+  [45:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ual si yo tengo la misma Axel entonces creo que estamo..."
+  [47:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...as en la vida. [risas] Y Axel quedó con un supercuchil..."
+  [49:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...GM tiene que targetear a Axel, que es el que mata a lo..."
+  [49:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a Triel suelen pegarle a Axel, a Marlock o a Kairos, e..."
+  [50:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pobrecito lo apuñalaron. Axel..."
+  [50:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... el meme de de de Milei? Axel es clave. [risas] ¿Cuánt..."
+  [50:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...isas] ¿Cuánto ha perdido Axel? ¿Qué era?..."
+  [56:20] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...si no fuera por ustedes. Axel no..."
+  [57:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o acá cerca no se mueve. Axel tiene mucho stealth...."
+  [57:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r y le dice. [risas] Yo, Axel...."
+  [57:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Por supuesto, Axel. Sí, sí. Además, eh yo e..."
+  [57:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Mhm, mhm, mhm. Y cuando Axel se va le digo, yo sí es ..."
+  [58:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... llega al baño de nuevo. Axel, usted recupera su polyc..."
+  [58:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a tirar para ver. Porque Axel está obsesionado. Quiero..."
+  [58:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...creo que Axel está obsesionado, creo q..."
+  [58:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s caca, le digo. [risas] Axel en alcohol, alcohol en g..."
+  [59:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... [risas] Vean el futuro. Axel va a estar haciendo uste..."
+  [01:04:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uí, así que entro. Quita Axel, quita. [risas] Permiso...."

@@ -1,0 +1,69 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,244
+  - Total párrafos: 248
+  - Correcciones automáticas Nivel 1 (Seguras): 28
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [01:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rá de cumpleaños sofía a axel le voy a devolver el sof..."
+  [06:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que vayas al escándalo y axel fin axel lee le da miedo..."
+  [06:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... al escándalo y axel fin axel lee le da miedo cómo vol..."
+  [06:33] [NIVEL_1_SEGURO] 'ring rey' -> 'Rim Rey'
+      Contexto: "... eso estoy preparando un ring rey va a traer a alguien par..."
+  [12:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...des como como como donde axel falló un montón de veces..."
+  [15:32] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...lo quiere que serían a axel ya andrei que usualmente..."
+  [15:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de ser útil más adelante axel 123 axel es muy buena no..."
+  [15:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...il más adelante axel 123 axel es muy buena no muestra ..."
+  [16:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... más de lo que la perdió axel durante el juego ella no..."
+  [26:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... la ley de que no ataque axel action no la debe atacar..."
+  [26:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...action no la debe atacar axel pero me ha atacado mi in..."
+  [29:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...importa 3 y axel ustedes como se acercan ..."
+  [36:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tiene razón mar lo que y axel puede haber un maldito d..."
+  [59:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...estoy viendo o sea 4 4 6 axel usted pasa entre los gob..."
+  [01:01:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... los reparos como los de axel ha sido una mini sonrisa..."
+  [01:01:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...os se acerca a vendré ya axel 12 vendré a 34 axel éxit..."
+  [01:01:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...é ya axel 12 vendré a 34 axel éxito me gusta..."
+  [01:02:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sar en medio deben rey y axel buscando hacia..."
+  [01:05:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ue hacer con ella podría axel usted tiene el arma eléc..."
+  [01:06:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...arta dándole govern para axel a los 7 el kata no provo..."
+  [01:10:14] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ente que está atacando a axel y 16 un juego hago dos p..."
+  [01:14:13] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a una vez me pegó tres y axel y week 13 de pegarlo ent..."
+  [01:15:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... la capa decide atacar a axel se mete entre axel y tre..."
+  [01:15:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...car a axel se mete entre axel y tree el joao y lanza u..."
+  [01:15:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...l y él no provoca porque axel tiene un cuchillo no por..."
+  [01:17:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nicies de verdes y llena axel des de sangre a cada 10 ..."
+  [01:22:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel destruida no ahí está no..."
+  [01:22:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...está no me volverá usted axel y no dice nada se queda ..."

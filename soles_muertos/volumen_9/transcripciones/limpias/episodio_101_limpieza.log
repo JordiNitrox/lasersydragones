@@ -1,0 +1,85 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,428
+  - Total párrafos: 272
+  - Correcciones automáticas Nivel 1 (Seguras): 36
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a se vuelve visible pero axel algo en la distancia axe..."
+  [15:48] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...xel algo en la distancia axel con la capacidad de uno ..."
+  [16:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... ustedes hayan quedado y axel fuera de su rango de vis..."
+  [19:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o integrado le dispara a axel en el pecho..."
+  [19:38] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...la yo creo que ahora que axel si está ahí arriba debe ..."
+  [38:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel y usted puede ver desde ..."
+  [47:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de gert y axel debemos protegerlos prot..."
+  [47:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...os protegerme después de axel sigue mar loco ok con la..."
+  [51:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...vanzan hacia el frente a axel la mano se llena como en..."
+  [51:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...omo energía y disparan a axel y le pegan con dos magic..."
+  [55:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... está la pura para su ya axel 10 niños si no está muer..."
+  [01:01:04] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e el otro se lo lanzan a axel y le hacen seis puntos d..."
+  [01:03:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y me meto al carro con axel weber es el copiloto sí ..."
+  [01:03:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ro industrial aparte del axel y como le vamos a ayudar..."
+  [01:04:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel accede usted puede trata..."
+  [01:05:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... época es tierra y pérez axel de los sistemas del carr..."
+  [01:10:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a meterme en los pies de axel y bajo el acelerador no ..."
+  [01:11:00] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...puedo sentar encima de axel y manejarlo y se vale ma..."
+  [01:12:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...l carro del otro lado va axel y..."
+  [01:14:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ente está ven ri y max y axel el golem trata de pegarl..."
+  [01:14:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...l golem trata de pegarle axel a través del parabrisas ..."
+  [01:14:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s vidrio fácil conecta a axel..."
+  [01:14:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel reciba en el puro hociqu..."
+  [01:14:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ujar todos los que están axel se quiebra el parabrisas..."
+  [01:17:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tá a la par suya ataca a axel de lado 20 en contra de ..."
+  [01:18:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel siete puntos de daño ok ..."
+  [01:20:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... a mover de ahí para que axel pueda pilotear ella y cu..."
+  [01:21:17] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...olpe y 13 puntos del año axel y mantiene más 11 aldany..."
+  [01:21:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...edimos access bank que a axel va usted por el amor de ..."
+  [01:22:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... el club alcázar ataca a axel falla atacada 20 y el ot..."
+  [01:25:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...or el otro modo acción a axel que no le sirve o puede ..."
+  [01:25:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... le le le doy el poder y axel y estuvo encendido axel ..."
+  [01:25:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... axel y estuvo encendido axel está listo y el cierre e..."
+  [01:25:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ll ataque hubo haber una axel vamos la verdad que deja..."
+  [01:27:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...está siendo nada aquí yo axel bailo team de nuevo..."
+  [01:28:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...carro está aprendiendo a axel..."

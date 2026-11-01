@@ -1,0 +1,59 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,354
+  - Total párrafos: 254
+  - Correcciones automáticas Nivel 1 (Seguras): 23
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [02:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ha tirado abajo de mesas axel ni siquiera sabe qué est..."
+  [14:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...odo se han molestado con axel que fue muy muy insensib..."
+  [14:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...es que en cualquier caso axel sevilla metido a la coci..."
+  [20:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...os y es todo lo que hace axel yo estoy así entonces co..."
+  [20:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... poco del trust el 22 ok axel cuando usted cruza la pu..."
+  [20:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...almente ser la situación axel usted ve la situación y ..."
+  [30:40] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...quieren tirar en el piso axel y mar lo que ustedes..."
+  [42:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...l tiempo apremia y usted axel ve a sophie ring y movie..."
+  [43:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...es los que dan los bebés axel usted ve esa situación d..."
+  [47:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s yo sé que lo mismo que axel desempate primero lo que..."
+  [47:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... primero lo que entonces axel cuando ese..."
+  [51:03] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n esperando les vendrá y axel ven como como como un lí..."
+  [57:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...12 falla el ataque ahora axel firme un palo ting buení..."
+  [58:29] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... ok van ustedes de nuevo axel a usted primero ya tendr..."
+  [01:00:05] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... como a no parara cuando axel pase por una intersecció..."
+  [01:03:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a sobrecargar el arma de axel que tuvo nacen trata tam..."
+  [01:04:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ah agarra a axel y cree que la pintura es..."
+  [01:06:37] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... más del carro una bocha axel para usted ustedes van a..."
+  [01:06:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...nos que tengan otro plan axel y yo ni siquiera conozco..."
+  [01:12:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...go por charles alarma de axel porque..."
+  [01:13:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...puertos y axel usted ve donde un camión..."
+  [01:16:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...siendo dragones axel frente a usted el camión..."
+  [01:22:26] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tos y tú ahora le hace a axel aquí aquí a la derecha p..."

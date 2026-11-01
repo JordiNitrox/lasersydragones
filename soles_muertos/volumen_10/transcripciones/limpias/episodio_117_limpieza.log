@@ -1,0 +1,35 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,607
+  - Total párrafos: 299
+  - Correcciones automáticas Nivel 1 (Seguras): 11
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [06:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel y persignó pero igual va..."
+  [25:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ispararle con el arma de axel con el arma de hielo con..."
+  [26:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...las demás y se haga daño axel co entonces su arma 26 m..."
+  [33:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sí y al mismo tiempo axel tiene una percepción sei..."
+  [38:25] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o marlon le dio buen rey axel termo y percepción que a..."
+  [46:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ve a morder por lo menos axel usted sigue sostenido el..."
+  [50:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... la extienda la mano con axel y creo que está como un ..."
+  [51:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tuvo bastante cerca dice axel mientras..."
+  [01:05:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... que vendrá y estuvo ahí axel también y marduk yo me d..."
+  [01:08:58] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...geólogo y axel usted sigue asistiendo y..."
+  [01:19:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pués buena buena idea de axel podría hackear desde la ..."

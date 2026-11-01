@@ -1,0 +1,61 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 14,468
+  - Total párrafos: 348
+  - Correcciones automáticas Nivel 1 (Seguras): 24
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rminar nada malito curse Axel yo puedo observar el hum..."
+  [23:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel Trick Attack puedo corre..."
+  [28:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...qué con esta y sa acudo Axel Sí qué conmigo Oiga uste..."
+  [31:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ase he de decir Androide Axel verdad Axel sí tiene raz..."
+  [31:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cir Androide Axel verdad Axel sí tiene razón eso sería..."
+  [33:09] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ersona que quiere muerta Axel no ael Bueno digo que qu..."
+  [33:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel y matarnos a nosotros no..."
+  [34:47] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... unos meses después pues Axel depende de usted..."
+  [35:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... matarnos y a llevarse a Axel Bueno sí le recomiendo n..."
+  [36:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...arlos set Sí yo atrás de Axel como pong nueve dedos Sí..."
+  [36:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a captado la posibilidad Axel Axel no se da cuenta de ..."
+  [36:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tado la posibilidad Axel Axel no se da cuenta de nada ..."
+  [39:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...objeto Por cierto Axel quiere que la Cure con m..."
+  [49:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Okay todo en perfil bajo Axel va a usar una peluca par..."
+  [49:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel durante el resto del día..."
+  [49:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a todo el mundo saluda a Axel porque que ganó la laer ..."
+  [49:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... efecto llega a hablarle Axel es..."
+  [57:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...queda afuera okay Axel Lo siento Ahorita volvem..."
+  [01:01:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...neamente pero se sientan Axel ve tienen wafles empieza..."
+  [01:17:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... matar y quiera raptar a Axel tíreme ese bl es un seri..."
+  [01:18:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...no sabía que queda claro Axel sabe Axel tiene una sosp..."
+  [01:18:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue queda claro Axel sabe Axel tiene una sospecha es de..."
+  [01:33:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel yo le escribí a e has vi..."
+  [01:33:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ar perdón triel y perdón Axel Pero a dónde van No pued..."

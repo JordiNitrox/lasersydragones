@@ -1,0 +1,67 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,092
+  - Total párrafos: 461
+  - Correcciones automáticas Nivel 1 (Seguras): 27
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [01:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...que tuviera trágicamente Axel que sostener a Charlotte..."
+  [10:44] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... controlar mentalmente a Axel y..."
+  [17:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rle cosas. Y por último, Axel. ¿Qué gana Axel? Bueno, ..."
+  [17:26] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... último, Axel. ¿Qué gana Axel? Bueno, quiero decirles ..."
+  [19:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...icen Sofía que es lo más Axel, ¿qué hace en el baño? d..."
+  [25:35] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n el nul. Vuelve a ver a Axel. Usted ve que después de..."
+  [27:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lotte se acerca a usted, Axel. Bien hecho...."
+  [46:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ada. se acerca a veces a Axel y la y por rato la ve, p..."
+  [47:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ayuda a Axel y a cada rato pasa con T..."
+  [47:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...stado hablando la gente. Axel también está toda conten..."
+  [51:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... si no lo quiere más que Axel. Ahora ya. Ay, militar. ..."
+  [51:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Gracias por cuidar a Axel todo este tiempo. No ha ..."
+  [52:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... bien, Shirka. Realmente Axel logró convencerla y hay..."
+  [52:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cuarto de Axel. Sí. entre bajo su propi..."
+  [53:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... me tocará el de arriba. Axel es Axel es de de camarot..."
+  [53:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rá el de arriba. Axel es Axel es de de camarote de arr..."
+  [54:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...oy a entrar al cuarto de Axel. Cierro la puerta. Ya. M..."
+  [54:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...z en cuando yo le digo a Axel lo que pasó y que no sé,..."
+  [59:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o disgustado y le digo a Axel así muy cerca a limpiar ..."
+  [01:00:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ubí de nivel y lo escoba Axel...."
+  [01:10:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...leta. Todo fue gracias a Axel. Sí, la verdad todo fue ..."
+  [01:10:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o fue un gran trabajo de Axel. Gracias...."
+  [01:10:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... lo que lo que averigué. Axel es Axel es en realidad l..."
+  [01:10:24] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lo que averigué. Axel es Axel es en realidad la respue..."
+  [01:14:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Es difícil de procesar, Axel. Bueno, pero tiene que d..."
+  [01:18:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o, n le agarra la mano a Axel. Están viendo eso y de p..."
+  [01:20:11] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a reconoce, pero Benry y Axel que están viendo y esta ..."

@@ -1,0 +1,81 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,262
+  - Total párrafos: 245
+  - Correcciones automáticas Nivel 1 (Seguras): 34
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [04:03] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...otro el mejor enemigo Oh Axel razer doll benry El fant..."
+  [04:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...y la razer though y Y sí Axel benrey y y vequi esos se..."
+  [05:17] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ción este por creepiness Axel así fuerte Me encantó la..."
+  [05:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...eo que nadie le llega la Axel razer Sofía Axel razer t..."
+  [05:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lega la Axel razer Sofía Axel razer tengo unas ahí Axe..."
+  [05:32] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...xel razer tengo unas ahí Axel raz tamb Yo también núme..."
+  [05:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... el premio con la voz de Axel r bien el cielo Hola Gra..."
+  [06:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel Okay s cre que Roberto n..."
+  [09:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en esa parte físicamente Axel se enfrenta a s misma cu..."
+  [09:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Escoge a Axel y Axel lo nombra como Ch..."
+  [09:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Escoge a Axel y Axel lo nombra como Charlotte..."
+  [10:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... son Sofía por Sofía por Axel ha agregado a al chat Ax..."
+  [10:43] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el ha agregado a al chat Axel ha eliminado a marlock d..."
+  [12:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel con acento en Miami toda..."
+  [12:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ero yo creo que la la de Axel ha metido sig que el cha..."
+  [12:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a la del chat número uno Axel agregado s que al chat s..."
+  [19:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...do Dónde está usted este Axel todas sus e suscripcione..."
+  [27:28] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "... la puerta abajo está ry rin Rey Ah Sí cierto mi primo y ..."
+  [28:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ot está viendo la par de Axel y le vuelve usted le son..."
+  [32:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nando hacia el cuarto de Axel Sí yo yo yo me fui detrá..."
+  [32:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o le digo no la abra que Axel se enoja Tengo un proble..."
+  [32:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usieron un candado es de Axel suelte eso y le pegó un ..."
+  [33:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rdad no ya yo le robé un Axel un día de estos venga va..."
+  [40:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...on un pinazo de gente 28 Axel 17 más 17 es Es más de 3..."
+  [40:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s de 30 34 34 Qué bonito Axel y solo Axel nota que hay..."
+  [40:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...4 Qué bonito Axel y solo Axel nota que hay alguna gent..."
+  [43:21] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r adelante Pase vuelve a Axel me desea aquí o ocupan h..."
+  [50:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...smar y y la situación de Axel es algo con la forja lo ..."
+  [51:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lotte quiere mostrarle a Axel puede dar a entender cos..."
+  [53:22] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l vez es la costumbre de Axel de hablar de usted sin q..."
+  [53:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel Sí hay un un lugar que y..."
+  [53:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...voy a ir a ver a alguien Axel que no conocemos voy a i..."
+  [59:07] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... sea que quiere llevar a Axel bueno si es que quieren ..."
+  [01:05:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...special y usted y señala Axel bueno el contrato con us..."

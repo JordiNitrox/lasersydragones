@@ -1,0 +1,71 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 11,896
+  - Total párrafos: 281
+  - Correcciones automáticas Nivel 1 (Seguras): 29
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... furunculo Okay furuncle Axel usted está escondida por..."
+  [18:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...te guardo todo sus dados Axel le digo de todo porque e..."
+  [22:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...obo aerostático entonces Axel le disparó Al que está a..."
+  [22:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... creo que ya que veo que Axel rompió aquí el el la var..."
+  [24:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...reo que tengan mucho así Axel no supone ninguna debili..."
+  [26:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... a poner como diagonal a Axel Ajá ahí y va a..."
+  [28:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nadie ha pegado aquí nio Axel le pegó y también y yo A..."
+  [28:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Team de los de los cpen Axel Okay cuando ustedes lo b..."
+  [30:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sted lo tachó después de Axel va usted okay es una pre..."
+  [33:02] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uscado en y le dispara a Axel por la espalda porque be..."
+  [34:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...huérfanos bené Axel siempre está pensando en..."
+  [35:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...poco primitiva eh suriel Axel Okay quiero usar el Tric..."
+  [39:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ta los nuestros cuénteme Axel cómo es usualmente ese p..."
+  [43:01] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...illa Ese fue triel sigue Axel señorita veo la otra mi ..."
+  [49:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...os que tengan un poquito Axel usted talz que sabe de c..."
+  [51:36] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r el techo encima ya que Axel mencionó esa situación y..."
+  [52:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e como rápidamente hacia Axel y tiene los anteojos pue..."
+  [52:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...nteojos puestos otra vez Axel eh Busca las lentes así ..."
+  [52:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s grandes estas abiertas Axel Axel vea Qué interesante..."
+  [52:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ndes estas abiertas Axel Axel vea Qué interesante sus ..."
+  [57:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lap Ya se la llevó tri y Axel al mismo tiempo en reali..."
+  [01:06:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a me parece Yo diría que Axel es tan buena en esto que..."
+  [01:07:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...éndola así que y ahorita Axel es básicamente inmortal ..."
+  [01:09:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...es mejor para Okay 23 23 Axel usted determina que es u..."
+  [01:12:05] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... las dos 23 no l nada 14 Axel 29 29 no no confi en sus..."
+  [01:12:40] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...rta no le meto rank y ya Axel usted encuentra en el pi..."
+  [01:13:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ces Esto no es de lentes Axel esto es mágico cierto la..."
+  [01:16:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a pasar bueno eh te dice Axel si quiere póngaselo a us..."
+  [01:16:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ñito mi mano apúntese lo Axel Tengo tengo una pregunta..."

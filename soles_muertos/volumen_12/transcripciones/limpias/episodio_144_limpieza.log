@@ -1,0 +1,89 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,706
+  - Total párrafos: 254
+  - Correcciones automáticas Nivel 1 (Seguras): 38
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:51] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ialmente los de benrey y Axel después de un largo viaj..."
+  [16:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...traje negro completo que Axel Recuerda que era como se..."
+  [18:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en con la situación pero Axel Axel esas partículas com..."
+  [18:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n la situación pero Axel Axel esas partículas como que..."
+  [20:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s s específicamente anti Axel estuvo eso tenía que ser..."
+  [20:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...estuvo eso tenía que ser Axel que se con uno todos ust..."
+  [20:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...or ahora no ha pasado sí Axel usted se siente como len..."
+  [21:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... notar donde los ojos de Axel se..."
+  [21:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...omo ver para todo lado y Axel sigue usted en efecto Oh..."
+  [36:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ste momento debe ser así Axel me iba a mover es lugar ..."
+  [44:23] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...usted ve el rostro de Axel En serio sí yo también l..."
+  [45:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... puedo ver la cara de de Axel es como no es ella no es..."
+  [46:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel levanta los pulgares bie..."
+  [46:10] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... el casco y se ve que es Axel a gerty le brillan los o..."
+  [46:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ese [&nbsp;__&nbsp;] es Axel 33 de Sonico Uh sigue de..."
+  [46:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Uh sigue de pie qué qué Axel cier es Axel usted ve qu..."
+  [46:55] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...pie qué qué Axel cier es Axel usted ve que se le le pe..."
+  [47:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...cara y la cara de Axel se quiebra y se ve un es..."
+  [47:52] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... dos por la habilidad de Axel bueno bu intentemos inte..."
+  [48:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Dios Axel y Axel el momento que es..."
+  [48:12] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Dios Axel y Axel el momento que estaba es..."
+  [48:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... la cabeza a los pies de Axel como yo cierro los ojos ..."
+  [50:42] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la que le está afectando Axel va usted..."
+  [51:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... para ranquear Ajá bueno Axel se está así hiperventila..."
+  [53:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...unga no de parar piensas Axel pude ver bueno no ahí es..."
+  [55:54] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o usualmente le robo una Axel Entonces no compr Ah mir..."
+  [59:14] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... ayudarle a él yo vi que Axel se tomó la antitoxina en..."
+  [59:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el arma está a la par de Axel no me moví Ah sí es cier..."
+  [59:59] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...el arma está a la par de Axel entonces solté mi arma C..."
+  [01:00:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...r deadly a Ah c No falla Axel Axel puedo usar el tecat..."
+  [01:00:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...dly a Ah c No falla Axel Axel puedo usar el tecat en e..."
+  [01:05:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...la la que aguantamos era Axel sí era Axel después de t..."
+  [01:05:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...uantamos era Axel sí era Axel después de todo copió a ..."
+  [01:07:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... oportunidad y pegarle a Axel solo una idea Ajá ataca ..."
+  [01:12:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...okay 28 Confío en Miguel Axel usted se acerca y vuelve..."
+  [01:13:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...róxima semana dramáticos Axel cae de rodillas No 34 cu..."
+  [01:13:45] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...de rodillas No 34 cuando Axel le dispara para..."
+  [01:14:06] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...caer en de rodillas como Axel ah..."

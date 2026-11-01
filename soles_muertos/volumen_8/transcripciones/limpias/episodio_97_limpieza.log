@@ -1,0 +1,45 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,864
+  - Total párrafos: 275
+  - Correcciones automáticas Nivel 1 (Seguras): 16
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [24:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ue no veo un 20 24 21 21 axel usted escucha que la muj..."
+  [28:16] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s ustedes 2 mark block y axel donde ustedes se ponen c..."
+  [36:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ue ustedes van para allá axel se cambia la ropa y las ..."
+  [40:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tel para que guarde melo axel es cuando responde lo em..."
+  [41:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... bueno el slate o fan de axel y qué tan tonto es meter..."
+  [41:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...yo creo que el ldl ok ok axel usted saca su arma jim b..."
+  [44:20] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...iga adelante y le dice a axel..."
+  [01:00:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... dar virgen con 14 29 18 axel usted puede notar eso si..."
+  [01:01:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ez colchón pregunta 1919 axel y 28 o axel se llama la ..."
+  [01:01:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...regunta 1919 axel y 28 o axel se llama la cacería a la..."
+  [01:01:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a la vez que la bestia i axel es interesante entonces ..."
+  [01:05:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...en que tiene sentido que axel tenga el sniper afuera y..."
+  [01:12:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...erner un terreno elevado axel y yo ese usar mi holográ..."
+  [01:13:44] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...representando axel puntos sacó una mugre su..."
+  [01:18:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...el otro 16 hace no falla axel..."
+  [01:22:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... que ya había golpeado a axel se corre hacia atrás per..."

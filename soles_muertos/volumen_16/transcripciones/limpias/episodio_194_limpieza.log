@@ -1,0 +1,27 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 10,031
+  - Total párrafos: 237
+  - Correcciones automáticas Nivel 1 (Seguras): 7
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [02:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...o la habilidad que tiene Axel de escalar por las pared..."
+  [04:48] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel cuando nació Yo me imagi..."
+  [17:22] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...creón La piedra del drift Ah sí sí sí claro por su..."
+  [28:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... usted la señorita triel Axel ven reí y se queda viend..."
+  [40:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...innuendo habrá hasta que Axel se de cuenta tener que e..."
+  [51:39] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...bartender con la sarian Axel es hora de hacer amigos ..."
+  [01:01:27] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...lve a ver vuelve a ver a Axel que le Estaba preparando..."

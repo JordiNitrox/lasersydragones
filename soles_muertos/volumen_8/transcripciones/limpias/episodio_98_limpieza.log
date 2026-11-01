@@ -1,0 +1,39 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,998
+  - Total párrafos: 256
+  - Correcciones automáticas Nivel 1 (Seguras): 13
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [16:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...quinas también por dicha axel tiene como..."
+  [22:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ón de hecho me equivoqué axel va usted primero yo decí..."
+  [26:51] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...memo ya está a la par de axel y agger tilos como en fr..."
+  [32:30] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o eliminado por completo axel hago un trata con mi dri..."
+  [34:55] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...e ahí tengo cover contra axel a mí le dispara gert y n..."
+  [36:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...oy a moverme a la par de axel y voy a dispararle a la ..."
+  [40:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... ver volveré tun tun tun axel de este modo cover no ti..."
+  [42:47] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... siguiente el que golpeó axel empieza avanzar a través..."
+  [43:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a sobrecargar el arma de axel no estaría mal que larva..."
+  [46:02] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel sólo queda un objetivo t..."
+  [01:10:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cuidado axel para ver por la calle yo..."
+  [01:11:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...cuántos jóvenes 27 27 axel usted asoma la cabeza co..."
+  [01:15:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...rse invisible también en axel se podría poner cloud in..."

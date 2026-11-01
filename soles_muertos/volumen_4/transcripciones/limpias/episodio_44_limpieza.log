@@ -1,0 +1,61 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,426
+  - Total párrafos: 304
+  - Correcciones automáticas Nivel 1 (Seguras): 24
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [08:01] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...uy dentro del corazón de axel hay como música de villo..."
+  [08:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...si le imaginé imaginar a axel como caminando por por l..."
+  [10:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...versidad la música pinto axel a tengo asociado solamen..."
+  [50:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...arlowe real yo le digo a axel que qué..."
+  [51:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que axel tiene como se llama surv..."
+  [53:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... la ven entonces estamos axel y yo con los brazos cruz..."
+  [54:52] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...difícil robarlo aparecen axel y si ven detrás de ella ..."
+  [55:31] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...bla muy bien persiste de axel es como la única que pue..."
+  [57:57] [NIVEL_1_SEGURO] 'axel 42' -> 'A.Xel 42'
+      Contexto: "...xel así como porque yo y axel 42 y yo no sé si es buena i..."
+  [57:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...obo de un rey y agarro a axel así como porque yo y A.X..."
+  [58:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...edición hace magia lista axel y una vez le doy play co..."
+  [59:08] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y grabar pero como lista axel grabar y le pongo la cám..."
+  [01:04:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ndo un despiste para que axel tan fácil ya que no pude..."
+  [01:08:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...arrando entonces 17 éste axel 17 usted levanta la puer..."
+  [01:10:22] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... el buscándolo extensión axel usted se mete a través d..."
+  [01:16:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...por donde más va a pasar axel usted se sigue adentrand..."
+  [01:25:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...pensar no toque nada más axel usted oye esa conversaci..."
+  [01:28:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...so y el muerto los dedos axel cuál es el plan quedarse..."
+  [01:28:23] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...r como queramos entonces axel tiene un survival para v..."
+  [01:28:46] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...a de la ventilación pero axel usted se arrastra y por ..."
+  [01:29:21] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...etamente comprensibles y axel no es tan grande también..."
+  [01:33:53] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y ágilmente axel baja por ahí mantenemos ..."
+  [01:34:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...iezas de metal con runas axel pero que más que no dirí..."
+  [01:35:24] [NIVEL_1_SEGURO] 'piedra del triunfo' -> 'Roca del Drift'
+      Contexto: "...uinaria que estaba en la piedra del triunfo..."

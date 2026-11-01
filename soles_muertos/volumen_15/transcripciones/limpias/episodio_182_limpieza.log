@@ -1,0 +1,49 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 9,939
+  - Total párrafos: 237
+  - Correcciones automáticas Nivel 1 (Seguras): 18
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n a mis compañeros triel Axel y gerty gerty Levanta la..."
+  [24:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s Es hora de una estrell Axel en forma de de Estrellit..."
+  [27:49] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...a mí le hago entrega una Axel a Miguel y de..."
+  [28:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...quién viene esta Axel este viene de Coto para ..."
+  [29:04] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tienen que decir Axel y cbok sin embargo no se..."
+  [29:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ue hacerle mantenimiento Axel sail se acerca a ustedes..."
+  [31:00] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... Ay ya no me gustó tanto Axel leería..."
+  [31:50] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...l Attack es la acción de Axel de del el Trick Attack T..."
+  [44:16] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e ponerme a mí y poner a Axel ael tambi ya ya está pue..."
+  [44:31] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...na otra forma de curar a Axel solo con medicine solo c..."
+  [48:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...n esa noche Aunque nuevo Axel y C se sienten un poco m..."
+  [49:13] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... da un Bono Okay con con Axel..."
+  [49:46] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...sickness soy un enfermo Axel 34 lo supera por tanto l..."
+  [50:58] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... 31 más cu también ahora Axel la verdad a la mañana si..."
+  [51:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...altitud qué bajo eso que Axel tiene como todos los núm..."
+  [01:02:34] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel Podría tener razón sobre..."
+  [01:04:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... en el taller soldando y Axel nada más así como con co..."
+  [01:04:56] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...endo cosas importantes y Axel nada..."

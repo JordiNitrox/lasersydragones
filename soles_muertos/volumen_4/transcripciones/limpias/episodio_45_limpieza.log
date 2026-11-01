@@ -1,0 +1,49 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,291
+  - Total párrafos: 293
+  - Correcciones automáticas Nivel 1 (Seguras): 18
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [19:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel entrar por la ventila ro..."
+  [19:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...n abortando no get it es axel o si es axel pertenece b..."
+  [19:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o get it es axel o si es axel pertenece bien salido le..."
+  [26:10] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y bueno luego cantora ya axel está ahora está en el fo..."
+  [26:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...s ítems nuevos que trajo axel o eso no se podía hacer ..."
+  [31:39] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...or del trip y ahí está a axel como acelerando la mala ..."
+  [36:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ltura y pensando en esto axel es que se dice que por e..."
+  [37:56] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... estás escuchando lo que axel dice poniendo la atenció..."
+  [40:41] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...dolo desde lo que expone axel es un..."
+  [46:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...sí sigamos con axel mejor yo también compré ..."
+  [46:49] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...de éxito y también axel resultó ser una freak de..."
+  [49:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...tra plantas que compró a axel que es..."
+  [51:34] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... de abastos en cortes de axel haciéndole unas trenzas ..."
+  [01:17:42] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...axel da dos días de protecció..."
+  [01:23:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...o quiero conocerlo ya no axel y yo nos volvemos a ver ..."
+  [01:26:57] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...centramos en los ojos de axel donde..."
+  [01:27:15] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...usted axel se baja y de esta jungla..."
+  [01:27:50] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...óxima escuadrón entonces axel era como master chief ll..."

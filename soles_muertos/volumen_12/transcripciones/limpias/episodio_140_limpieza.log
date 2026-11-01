@@ -1,0 +1,41 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 12,306
+  - Total párrafos: 296
+  - Correcciones automáticas Nivel 1 (Seguras): 14
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [15:25] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...21 pasado benry muy bien Axel pero no tamban bien como..."
+  [23:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... estrellita espacial una Axel espacial como vieron ust..."
+  [23:19] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...hizel que no es espacial Axel siempre es espacial pero..."
+  [29:38] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...Axel se acuerda comimos carni..."
+  [31:08] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...fallad simo fallado Axel 22 pasado benry 29 pasad..."
+  [39:15] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "... gerti 18 e igual 20 así Axel la vez pasada no le hice..."
+  [46:29] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...25 él se queda así Axel le había dado también 27..."
+  [48:37] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...tresado agarra su comida Axel un poquito para mí y un ..."
+  [54:41] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...ienen criaturas sí triel Axel cboc ayuda Qué qué es es..."
+  [01:03:28] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...decidan Axel opiniones motor primero ..."
+  [01:04:53] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...s saben no sé que tienen Axel usted va sola los motore..."
+  [01:05:13] [NIVEL_1_SEGURO] 'rin Rey' -> 'Rim Rey'
+      Contexto: "... entre capitanes capitán rin Rey sí creo que es mejor ir ..."
+  [01:09:33] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...en yo no sé quién es esa Axel y este esta nave tiene e..."
+  [01:12:57] [NIVEL_1_SEGURO] 'Axel' -> 'A.Xel'
+      Contexto: "...e ya estaing una vez que Axel salió ahí yo estaba habl..."

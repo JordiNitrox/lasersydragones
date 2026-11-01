@@ -1,0 +1,43 @@
+======================================================================
+INFORME DE AUDITORÍA Y LIMPIEZA DE TRANSCRIPCIÓN (STT)
+======================================================================
+
+Métricas Globales:
+  - Total palabras: 13,415
+  - Total párrafos: 322
+  - Correcciones automáticas Nivel 1 (Seguras): 15
+  - Correcciones validadas Nivel 2 (Contextuales): 0
+  - Alertas dudosas (Conservado original para revisión): 0
+
+Detalle de Sustituciones Realizadas:
+----------------------------------------------------------------------
+  [20:06] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y atención en el aire ya axel solo mira los mira a los..."
+  [21:27] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...aquí en este bosque bien axel ayúdeme a preparar café ..."
+  [23:35] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...etender que está pasando axel hagan una broma y golpea..."
+  [32:09] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ndré y algo y el capitán axel matlock y tiene les lo d..."
+  [34:11] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...muy bien detrás suyo axel usted ve a este androide..."
+  [43:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...dichos organismos así es axel entran..."
+  [46:59] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...l brazo la al fin porque axel no disimula digamos ella..."
+  [59:45] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...ombre confiable y afable axel quería..."
+  [01:02:36] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...que la calavera pirata axel usted es un androide pue..."
+  [01:03:19] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "... siento que no porque ya axel ya tiene varias cosas en..."
+  [01:03:33] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...entonces axel y tiene como ciertas lín..."
+  [01:03:54] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...y en su gusto interpreta axel que le está tratando de ..."
+  [01:11:18] [NIVEL_1_SEGURO] 'axel' -> 'A.Xel'
+      Contexto: "...salga mejor necesito que axel no interactuar más con c..."
+  [01:23:18] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...ación un arma gigante la piedra del drift viene de ahí y esta esfe..."
+  [01:25:09] [NIVEL_1_SEGURO] 'piedra del drift' -> 'Roca del Drift'
+      Contexto: "...piedra del drift y los 12 soles vamos a s..."
