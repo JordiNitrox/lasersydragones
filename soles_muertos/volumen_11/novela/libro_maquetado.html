@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lasers y Dragones: El Rally de la Muerte</title>
+<style>
+  @page {
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
+  }
+  
+  body {
+    font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section-heading-main {
+    font-size: 22pt;
+    text-align: center;
+    color: #0b1a30;
+    margin-top: 0;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 10px;
+    page-break-before: always;
+    break-before: page;
+  }
+  
+  h2.chapter-name {
+    page-break-before: always;
+    break-before: page;
+    font-size: 22pt;
+    color: #0b1a30;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1.3;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+  }
+  
+  .chap-sub {
+    font-size: 18pt;
+    font-style: italic;
+    color: #2b6cb0;
+    font-weight: normal;
+  }
+  
+  h3.section-title {
+    font-size: 14pt;
+    color: #2b6cb0;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    border-bottom: 1px dashed #e2e8f0;
+    padding-bottom: 4px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h3.subsection-title {
+    font-size: 12.5pt;
+    color: #2d3748;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h4.subsection-title {
+    font-size: 11.5pt;
+    color: #1a365d;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 0 12px 0;
+    text-indent: 1.5em;
+  }
+  
+  p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
+    text-indent: 0;
+  }
+  
+  .divider {
+    text-align: center;
+    margin: 25px 0;
+    color: #a0aec0;
+    font-size: 10pt;
+    letter-spacing: 6px;
+  }
+  
+  .bullet-list {
+    margin: 12px 0 15px 25px;
+    padding: 0;
+  }
+  
+  .bullet-list li {
+    margin-bottom: 6px;
+    text-align: justify;
+  }
+  
+  .quote {
+    margin: 18px 25px;
+    padding: 10px 18px;
+    border-left: 3px solid #b8860b;
+    background: #f7fafc;
+    font-style: italic;
+    color: #4a5568;
+  }
+  
+  /* ESTILOS DE LA TABLA DE ÍNDICE COMPACTA EN 1 SOLA PÁGINA */
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 4px 0;
+  }
+  
+  .toc-table td {
+    padding: 2px 3px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 8.8pt;
+    line-height: 1.15;
+  }
+  
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+  }
+  
+  .toc-sub {
+    font-size: 7.8pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 1.1;
+  }
+</style>
+</head>
+<body>
+
+<!-- PÁGINA 1: PORTADA -->
+<div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+    Ópera Espacial · Universo Starfinder
+  </p>
+  
+  <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+  
+  <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+    LASERS Y DRAGONES
+  </div>
+  
+  <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+    El Rally de la Muerte
+  </div>
+  
+  <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+  
+  <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+    ✦ &nbsp; ◈ &nbsp; ✦
+  </div>
+  
+  <p style="font-size: 10.5pt; line-height: 1.6; color: #4a5568; margin: 25px auto; max-width: 440px; text-indent: 0; text-align: center;">
+    Adaptación literaria integral de los episodios 123 al 135 del podcast <strong>Lasers y Dragones</strong>.<br>
+    <em>El combate en el vacío y la escala en el asteroide Kairos,<br>
+    la deuda millonaria, las carreras letales del Rally de la Muerte,<br>
+    el culto de Lao Shu Po y la despedida de Marloc Boosmar.</em>
+  </p>
+  
+  <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 40px auto 20px auto;">
+  
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 9.5pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+    VOLUMEN XI · EL RALLY DE LA MUERTE EN EL ASTEROIDE-CASINO
+  </p>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 2 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 2: NOTA EDITORIAL E INTRODUCCIÓN -->
+<div style="page-break-before: always; break-before: page; padding: 10px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 12px; padding-bottom: 6px; font-size: 16pt;">
+    Nota Editorial e Introducción
+  </h2>
+  
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 8px;">
+    La presente obra constituye el undécimo volumen de la novelización de las sesiones reales de juego de rol de mesa (<em>actual play</em>) emitidas en el podcast costarricense <strong>Lasers y Dragones</strong>, correspondiente a los episodios 123 al 135 de la campaña. Este libro desarrolla un arco dramático canónico propio y fundamental de la mesa de juego: el viaje en pos de recursos para reparar la <em>Estrella Errante</em>, la escala en el colosal asteroide-casino gobernado por la inteligencia sintética Kairos y la participación de los protagonistas en el letal <strong>Rally de la Muerte</strong>.
+  </p>
+  
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 8px;">
+    En este volumen, la tripulación conformada por Benrey Galway, Triel Istrav, Marloc Boosmar, A.Xel 42 y el dron de combate pesado Gerty enfrenta desafíos que van más allá del combate táctico y los tiroteos espaciales. En medio del lujo decadente de ruletas holográficas, intrigas de la Casa Zeizerer, pactos con cruzados de Golarion y devotos del culto de Lao Shu Po, los personajes se ven forzados a encarar sus propias heridas y límites emocionales. El clímax de este volumen culmina en uno de los hitos más conmovedores de toda la saga: el reencuentro de Marloc Boosmar con el amor de Ángela y su trascendental decisión de alejarse de los horrores del abismo cósmico, dando paso a una sentida despedida que marcará para siempre el destino de la tripulación antes de encarar los secretos del gigante gaseoso Nejeor VI.
+  </p>
+
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 10px;">
+    La historia traslada a la prosa literaria la improvisación, el humor, la tensión y la camaradería forjada en la mesa de juego original bajo la dirección del Game Master <strong>Roberto</strong>, junto al elenco original de jugadores:
+  </p>
+  
+  <!-- MESA DE JUEGO ORIGINAL -->
+  <div style="margin: 8px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 8.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 6px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benrey Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante Humano)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
+    </p>
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+  </div>
+
+  <!-- AVISO DE PAIZO Y ATRIBUCIÓN -->
+  <table style="width: 100%; margin: 10px 0 0 0; border: 1px solid #cbd5e0; background-color: #f8fafc; border-collapse: collapse; page-break-inside: avoid; break-inside: avoid;">
+    <tr>
+      <td style="padding: 8px 12px; font-size: 7.5pt; color: #4a5568; line-height: 1.35; text-align: justify; border: none;">
+        <p style="margin: 0 0 4px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+          Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+        </p>
+        <p style="margin: 0 0 4px 0; text-indent: 0;">
+          Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
+        </p>
+        <p style="margin: 0; text-indent: 0;">
+          Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benrey Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Marloc Boosmar) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 3 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 3: ÍNDICE DE CONTENIDOS -->
+<div style="padding: 10px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 8px; padding-bottom: 4px; font-size: 16pt;">
+    Índice de Contenidos
+  </h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto, créditos de la mesa y canon de Paizo Inc.</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 1: Ahora ves, ahora Na-ves</div>
+        <div class="toc-sub">Basado en el Episodio 123 · Fuego cruzado en el vacío, salto al abismo y purga de registros</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 2: El Casino al fin del Universo</div>
+        <div class="toc-sub">Basado en el Episodio 124 · El bumerán de neón, la estatua de Keiden Ashton y promesas</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">10</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 3: Juegos de Azar y Robotzuelas</div>
+        <div class="toc-sub">Basado en el Episodio 125 · Código de etiqueta, torsos servomotores y la ruleta trucada</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">15</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 4: La Forma del Corazón</div>
+        <div class="toc-sub">Basado en el Episodio 126 · Infiltración de gala, la mantis Kairos y la deuda de 30.000 créditos</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">19</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 5: Abadarme un Fiestón</div>
+        <div class="toc-sub">Basado en el Episodio 127 · Banquete en los bajos fondos, usura sagrada y la búsqueda de patrocinio</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">24</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 6: Cerrando Ciclos</div>
+        <div class="toc-sub">Basado en el Episodio 128 · La audiencia con la Casa Zeizerer, el pacto drow y el foso de boxes</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">28</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 7: Enchúlame la Máquina</div>
+        <div class="toc-sub">Basado en el Episodio 129 · Modificaciones mecánicas, la tierna Anita y el as Gonzalo González</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">32</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 8: El Rally de la Muerte ¡Inicia!</div>
+        <div class="toc-sub">Basado en el Episodio 130 · El semáforo verde, colisiones en el bulevar y la rampa del reactor</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">37</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 9: El Rally de la Muerte ¡Continúa!</div>
+        <div class="toc-sub">Basado en el Episodio 131 · El salto de las turbinas, lazos de gravedad y resistencia al límite</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">41</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 10: El Rally de la Muerte ¡Última vuelta!</div>
+        <div class="toc-sub">Basado en el Episodio 132 · Emboscada exterior en el vacío, el salto ingrávido y victoria</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">45</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 11: Tome el Trofeo</div>
+        <div class="toc-sub">Basado en el Episodio 133 · La copa de los campeones, deudas liquidadas y la sombra en la reja</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">49</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 12: Lao Shu Po en el Callejón</div>
+        <div class="toc-sub">Basado en el Episodio 134 · La devota asesina, combate a quemarropa y el relámpago de Marloc</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">53</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 13: Lo Dejaría Todo por que te Quedaras</div>
+        <div class="toc-sub">Basado en el Episodio 135 · La elección de Ángela, la sentida despedida y la llegada de Zivok</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">57</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">El asteroide Kairos, la Casa Zeizerer, bólidos del rally y la despedida de Marloc</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">62</td>
+    </tr>
+  </table>
+</div>
+
+<!-- CONTENIDO PRINCIPAL DEL LIBRO -->
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 1: Ahora ves, ahora Na-ves</h2>
+<h3 class='subsection-title'>I. Fuego cruzado en el vacío</h3>
+<p>El silencio del espacio profundo fue desgarrado por el aullido estridente de los sensores de proximidad. En el puente de mando de la <em>Estrella Errante</em>, los paneles de telemetría parpadearon en un rojo furioso mientras dos firmas térmicas emergían de la negrura como dagas arrojadizas.</p>
+<p>—¡Tenemos contacto hostil en el arco de babor! —gritó Benrey Galway, aferrándose al panel de comunicaciones con las patas traseras tensas contra el pedestal de la consola—. ¡Dos naves ligeras de intercepción! Vienen directas hacia nosotros con los deflectores al máximo. ¡Esos cabrones no traen distintivos de los Mundos del Pacto!</p>
+<p>—Son corsarios carroñeros —precisó A.Xel desde el puesto de artillería central. Sus ojos digitales amatista reflejaban cascadas de cálculos de trayectoria balística—. Modelo escorpión modificado. Blindaje ligero, pero montan cañones de pulso gemelos. Buscan inutilizar nuestras toberas de maniobra para un abordaje de rescate.</p>
+<p>Desde la torreta auxiliar superior, la voz de Ángela llegó a través del intercomunicador, tensa pero templada por una sorprendente firmeza:</p>
+<p>—¡Tengo la retícula alineada con el líder de la formación, Marloc! Solo dime cuándo abrir fuego.</p>
+<p>Marloc Boosmar, sentado frente a la estación de cálculo cuántico, deslizó los dedos de su mano izquierda cibernética sobre el panel holográfico. Los circuitos dorados de su anteojo tecnomántico se encendieron, proyectando líneas de runas de código hacia los sistemas de disparo de la nave:</p>
+<p>—Mantén el pulso firme, Ángela. Voy a enlazar tus controles con el procesador de vector cero. Triel, ¿cómo responden los escudos de popa?</p>
+<p>Triel Istrav estaba sumergida bajo la consola de ingeniería principal, rodeada de cables humeantes y olor a refrigerante evaporado. Con la llave inglesa de impacto apretada entre los dientes, emergió empapada en sudor, apartándose un mechón níveo de la frente:</p>
+<p>—¡Hago lo que puedo con lo que nos quedó de Apostae! —bramó la semi-drow—. Esos desgraciados nos agarraron con los inductores a media potencia. Si nos impactan dos ráfagas directas en el cono trasero, nos quedamos a la deriva como una lata de hojalata flotante.</p>
+<p>Una descarga de plasma enemigo golpeó el flanco de la <em>Estrella Errante</em>. El impacto sacudió el casco con un crujido sordo que hizo vibrar las placas de titanio. En la cubierta inferior, Gerty afianzó sus cuatro garras magnéticas al suelo de rejilla, estabilizando su chasis bípedo de tonelada y media mientras emitía una queja monocorde:</p>
+<p>—<em>Alerta estructural. Se detecta pérdida del doce por ciento de presión en los amortiguadores inerciales. Sugiero desintegrar a los atacantes antes de que mi pintura sufra daños irreparables.</em></p>
+<p>—¡Ángela, fuego a discreción! —ordenó Benrey por la frecuencia general—. ¡Demuéstrales que no somos un crucero turístico!</p>
+<p>La torreta superior rugió. Un haz concentrado de luz verde esmeralda atravesó el vacío e impactó de lleno en los escudos del interceptor más cercano. La nave enemiga se estremeció violentamente, virando de costado mientras el segundo caza cruzaba el ángulo muerto de la nave, buscando alinearse a escasos treinta metros de la esclusa lateral de atraque.</p>
+<p>—Se están colocando en paralelo para abrir una brecha con cortadores térmicos —advirtió A.Xel con calma imperturbable—. En esta posición, nuestras torretas principales no tienen ángulo de depresión suficiente.</p>
+<p>Triel dejó caer la herramienta al suelo con un tintineo metálico y sus ojos oscuros se encendieron con esa chispa de audaz locura que siempre aterrorizaba a Benrey:</p>
+<p>—Si ellos quieren un abordaje... se los vamos a dar nosotros primero.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Salto al abismo</h3>
+<p>—Dime que he entendido mal —masculló Benrey mientras se ajustaba a toda prisa el casco presurizado de su traje de vacío—. Triel, chiquilla, dime que tus oídos puntiagudos han sufrido una interferencia cósmica y que no estás proponiendo lo que creo que estás proponiendo.</p>
+<p>—Están a veinticinco metros de nuestra escotilla de babor, navegando a velocidad relativa cero —respondió Triel, cargando su fusil de agujas y asegurándose la mochila de soporte vital al arnés táctico—. Gerty y yo abrimos la esclusa exterior, lanzamos los cables de anclaje de grafeno y saltamos a su cubierta. Limpiamos el puente desde adentro antes de que puedan perforar nuestro casco.</p>
+<p>—Es una imprudencia estadística inadmisible —dictaminó Gerty, cargando su colosal cañón de pulso con un zumbido grave de servomotores—. <em>Sin embargo, la probabilidad de que los parásitos orgánicos enemigos mueran asfixiados en el intento aumenta en un setenta y cuatro por ciento. Procedimiento aprobado.</em></p>
+<p>Marloc se colocó su gabán sellado sobre el traje presurizado, asegurando su pistola láser al cinto y comprobando la carga de su matriz mágica:</p>
+<p>—A.Xel, mantén el fuego de contención con la torreta auxiliar para que sus sensores ópticos queden cegados. Benrey, ven con nosotros; necesitaremos un orador rápido si el puente tiene protocolos de autodestrucción activados. Ángela, mantén el enlace de comunicación abierto. Si algo sale mal, aleja la <em>Estrella Errante</em>.</p>
+<p>—No voy a dejarte atrás, Marloc —respondió la voz de Ángela, cálida y decidida a través del auricular del tecnomante—. Vuelve de una pieza.</p>
+<p>La compuerta interior de la esclusa se despresurizó con un silbido estridente. El aire escapó en una nube blanca de condensación que se disipó al instante en la inmensidad gélida y muda del espacio. Ante ellos, flotando contra el tapiz de estrellas distantes, la silueta angulosa y oxidada del interceptor enemigo se recortaba como una bestia de acero acechante.</p>
+<p>Triel disparó el arpón neumático de su arnés. El cable de tungsteno se clavó con un chasquido magnético en el fuselaje del caza rival. Acto seguido, la muchacha semi-drow flexionó las rodillas y se impulsó hacia el vacío.</p>
+<p>El salto fue una caída ingrávida en medio de la nada absoluta. Por un segundo interminable, el universo se redujo al sonido entrecortado de su propia respiración dentro del casco y al destello parpadeante de las estrellas reflejadas en su visor. Sus botas imantadas chocaron contra el blindaje exterior del interceptor con una sacudida que le resonó en los tobillos.</p>
+<p>A su lado aterrizó Gerty, cuyo peso hizo vibrar el metal bajo sus pies, seguido de inmediato por Marloc y un Benrey que manoteaba el aire antes de que su garfio lo atrajera con violencia contra la superficie.</p>
+<p>—¡Estoy vivo, estoy vivo! —chilló el ysoki por la radio interna—. ¡Que conste en el diario de navegación que este salto no estaba cubierto por ninguna cláusula de seguro estelar!</p>
+<p>Triel ya estaba arrodillada frente a la escotilla de emergencia de la nave enemiga. Sacó su soplete de plasma y trazó un círculo incandescente sobre el panel de anulación manual. Las chispas flotaron en espirales doradas antes de que el cerrojo cediera con un golpe seco. Con un movimiento sincronizado, Gerty introdujo dos de sus brazos mecánicos en la hendidura y desgarró el mamparo de acero como si fuera papel de aluminio.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Sobrecarga de sistemas y purga de registros</h3>
+<p>El aire caliente y fétido de la cabina enemiga los golpeó tan pronto cruzaron la antecámara. En el angosto pasillo de rejilla metálica, tres tripulantes con armaduras parchadas de corsarios levantaron escopetas de dispersión entre gritos de alarma.</p>
+<p>—¡Intrusos en la esclusa tres! ¡Disparen a matar!</p>
+<p>Antes de que el primer proyectil saliera del cañón, Gerty avanzó como una muralla de hierro. Los balazos rebotaron inofensivamente contra sus planchas frontales de blindaje pesado. Con un rugido de pistones hidráulicos, el meca barrió al primer asaltante con el envés de su martillo, lanzándolo contra el mamparo opuesto donde quedó noqueado al instante.</p>
+<p>Triel se deslizó por debajo de una ráfaga láser, rodando sobre el suelo enrejado para descargar un cartucho de proyectiles químicos directamente a los pies del segundo mercenario. Una densa nube de humo corrosivo llenó el pasillo, forzando a los atacantes a retroceder tosiendo y frotándose los visores empañados.</p>
+<p>Por encima del hombro de Triel, el fusil de precisión de A.Xel —que vigilaba la escotilla abierta desde la distancia de la <em>Estrella Errante</em>— trazó una línea violeta quirúrgica que neutralizó las armas de los corsarios sin derramar una sola gota de sangre innecesaria.</p>
+<p>—¡Despejado! —exclamó Benrey, encañonando al último pirata con su pistola sónica—. ¡Arriba esas manos de lagarto si no quieren que mi meca les reorganice los dientes en orden alfabético!</p>
+<p>Marloc no perdió un segundo. Ignorando a los enemigos rendidos, se abrió paso hasta el puente de mando y conectó la interfaz de su brazo cibernético a la terminal del ordenador de a bordo. Los cables de datos se acoplaron a su puerto neural con un chasquido suave.</p>
+<p>Los ojos del tecnomante se volvieron translúcidos bajo el brillo azulado de la pantalla. Filas interminables de coordenadas, registros de vuelo y códigos de transmisión comenzaron a desfilar ante su mente:</p>
+<p>—Estoy dentro del núcleo de navegación —anunció Marloc, con la voz teñida de esa concentración glacial que lo aislaba del mundo cuando manipulaba matrices digitales—. Estos interceptores pertenecen a una célula corsaria que operaba como batidores para la Flota de Cadáveres. Tenían órdenes de interceptar cualquier nave procedente de Apostae o Eox.</p>
+<p>—Borra todo rastro de nuestro paso —urgió Triel, vigilando los monitores traseros—. Si averiguan quiénes somos o hacia dónde vamos, enviarán una fragata completa antes de que podamos dar el salto al Drift.</p>
+<p>—Ya estoy en ello —respondió Marloc. Sus dedos danzaron en el aire, trazando una runa mágica que sobrecargó los discos duros cuánticos del interceptor rival—. Estoy ejecutando un borrado de grado militar. Para sus bases de mando, esta nave habrá sufrido una falla catastrófica en sus bobinas de enfriamiento. No quedará ni un solo bit de telemetría sobre la <em>Estrella Errante</em>.</p>
+<p>—¿Y qué hay de sus cartas de navegación? —preguntó Benrey, asomando el hocico por encima del hombro de Marloc—. Necesitamos combustible, piezas de repuesto y un lugar donde no nos disparen apenas asomemos las antenas.</p>
+<p>Marloc detuvo la purga un instante. Una serie de coordenadas cifradas parpadeó en la esquina inferior del panel, vinculada a una baliza de señal comercial de potencia descomunal en los confines de la octava órbita del sistema.</p>
+<p>—Mira esto —murmuró el tecnomante, proyectando un holograma giratorio en el centro del puente.</p>
+<p>Ante ellos apareció la silueta de un gigantesco asteroide metálico, curvado en forma de medialuna o bumerán, rodeado por anillos de muelles orbitales y un resplandor cegador de luces de neón:</p>
+<p>—Es una estación independiente. Un asteroide-casino conocido en las rutas clandestinas como el enclave de Kairos. No pertenece a los Mundos del Pacto, ni a la armada de Eox, ni a las casas nobles de Apostae. Es un puerto franco de juego, contrabando y carreras interplanetarias.</p>
+<p>Triel sonrió con una mezcla de fascinación y alivio:</p>
+<p>—Un asteroide lleno de dinero, mecánicos y gente que no hace preguntas. Justo lo que necesitamos para poner a punto la nave antes de buscar a mi padre.</p>
+<p>—Y un casino —añadió Benrey frotándose las patitas con avidez—. Amigos míos, presiento que la fortuna por fin nos sonríe.</p>
+<p>Marloc desconectó su brazo cibernético con un suspiro cansado mientras las pantallas de la nave corsaria se apagaban para siempre. Miró a través de la carlinga hacia la <em>Estrella Errante</em>, donde la silueta de Ángela lo aguardaba en la compuerta, y un presentimiento sombrío cruzó su mente:</p>
+<p>—En lugares como ese, Benrey... la fortuna siempre cobra un precio más alto del que nadie puede pagar.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 2: El Casino al fin del Universo</h2>
+<h3 class='subsection-title'>I. El bumerán de neón</h3>
+<p>El salto gravitacional depositó a la <em>Estrella Errante</em> al borde de un cinturón de escombros en la octava órbita del sistema. Cuando los filtros fotocromáticos del puente se atenuaron, la silueta del asteroide emergió ante ellos no como una roca inerte y fría, sino como una joya artificial titilando en la negrura más absoluta.</p>
+<p>La formación rocosa, de varios kilómetros de longitud, había sido esculpida a lo largo de décadas en una elegante curvatura de bumerán. En su vértice cóncavo, protegido del bombardeo de micrometeoritos, se alzaba una metrópoli vertical protegida por gigantescas cúpulas de fuerza atmosférica. Enormes rótulos de neón violeta, verde esmeralda y oro fundido proyectaban hologramas de decenas de metros de altura sobre el vacío: ruletas cuánticas girando en bucle perpetuo, copas de champán desbordantes y siluetas estilizadas de androides de placer invitando a los viajeros al descanso y la opulencia.</p>
+<p>—Mirad esa monstruosidad —murmuró Benrey, con los bigotes vibrando al compás de las luces intermitentes que se reflejaban en el cristal de la cabina—. Dicen que en el borde de la galaxia solo hay monstruos y piratas, pero resulta que los piratas tienen mucho mejor gusto para las fiestas de lo que nos contaron en la estación Absalón.</p>
+<p>—Es un enclave independiente de categoría libre —explicó A.Xel, consultando los registros locales mientras guiaba la nave hacia el corredor de aproximación—. Fundado hace más de medio siglo sobre un planetoide rico en minerales pesados. Cuando las vetas se agotaron, los sindicatos mineros vendieron la roca a consorcios privados y sindicatos corsarios. Actualmente opera bajo la jurisdicción de la entidad Kairos.</p>
+<p>Alrededor de los anillos de atraque se apiñaba un mosaico inverosímil de astronaves. A babor descansaba un imponente crucero blindado de casco blanco y relieves dorados con los emblemas solares de la Iglesia de Abadar, cuyos clérigos-banqueros supervisaban la descarga de arcones de lingotes con escoltas fuertemente armadas. A estribor, ancladas en muelles oscuros, reposaban estilizadas corbetas corsarias con calaveras aladas de los Capitanes Libres, esquifes furtivos de manufactura drow y desvencijados cargueros de extracción minera cuyos cascos exhibían las cicatrices del polvo de plasma.</p>
+<p>—No veo patrullas de los Protectores ni fragatas de la armada —observó Ángela, asomándose al puente con una mezcla de fascinación y recelo—. ¿Seguro que es un lugar seguro para atracar?</p>
+<p>—En un casino donde se mueven millones de créditos cada ciclo, la única seguridad que importa es la del dinero —respondió Marloc, ajustándose los puños de su chaqueta—. Nadie dispara en los muelles porque a nadie le conviene ahuyentar a los clientes con billeteras llenas. Triel, alinea los retrocohetes para el muelle civil cuarenta y cuatro.</p>
+<p>Triel operó las palancas de maniobra con suavidad. La <em>Estrella Errante</em> descendió en el pozo gravitacional del hangar exterior. Un zumbido de abrazaderas magnéticas selló el tren de aterrizaje sobre la pista de aleación, y una pasarela presurizada se desplegó contra la compuerta principal con un silbido de bienvenida.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La estatua en la plaza de atraque</h3>
+<p>El aire del hangar olía a una mezcla inconfundible de combustible quemado, vapor de agua reciclada, frituras especiadas de puestos callejeros y el aroma dulzón de los perfumes caros que los filtros de ventilación esparcían para disimular el hedor de las máquinas.</p>
+<p>Al descender por la rampa de la nave, la tripulación se encontró en medio de una multitud abigarrada. Mineros de piel curtida con monos de trabajo desgastados se cruzaban con aristócratas de Absalón vestidos con sedas fosforescentes; androides camareros con bandejas flotantes esquivaban a mercenarios vesk que lucían cicatrices de honor y armas enfundadas a la cintura.</p>
+<p>Triel caminaba al frente, con las manos metidas en los bolsillos de su chaqueta de cuero gastada y la mirada alerta. Pero apenas cruzaron el arco que comunicaba los muelles de desembarco con la gran plaza pública del asteroide, la joven semi-drow se detuvo en seco.</p>
+<p>En el centro de la rotonda, rodeada por bancos de piedra y jardines hidropónicos de helechos fosforescentes, se erigía un monumento colosal.</p>
+<p>Era una estatua de dos metros y medio de altura, esculpida en bronce envejecido sobre un pedestal de basalto negro pulido. La figura representaba a un hombre alto de complexión atlética, vestido con un mono de piloto desabrochado hasta el pecho y una capa corta que parecía ondear al viento cósmico. Llevaba gafas de soldador descansando sobre su frente despejada y una sonrisa confiada, casi insolente, tallada con una maestría asombrosa. En su mano izquierda sostenía una llave de impacto pesada, idéntica a la que Triel llevaba siempre colgada del cinto.</p>
+<p>Triel avanzó hacia la base del pedestal como si caminara en sueños. Ignoró el murmullo de los transeúntes y el graznido de los pájaros mecánicos que revoloteaban entre las ramas luminosas. Se detuvo ante la placa conmemorativa de latón y leyó en voz alta, con un hilo de voz que se quebró a mitad de la frase:</p>
+<p>—«<em>Aquel que desafió los abismos del Vasto y nos dio un hogar entre las estrellas. Mi último puerto. Keiden Ashton.</em>»</p>
+<p>Benrey se colocó a su lado, bajando las orejas en un gesto de respeto poco habitual en él:</p>
+<p>—Caray, Triel... Es tu padre.</p>
+<p>—Los Capitanes Libres remodelaron este asteroide hace veinte años —dijo Triel, rozando con las yemas de sus dedos el metal frío de la inscripción—. Mi madre siempre me dijo en Apostae que él era solo un ladrón de baja ralea, un esclavo humano que huyó arrastrándose en la oscuridad. Pero aquí... aquí lo esculpieron en bronce como a un héroe.</p>
+<p>—Keiden no era un esclavo común —intervino Marloc con voz serena, colocándose detrás de la muchacha—. Robó secretos de la Casa Istrav y huyó porque entendía lo que significaba la libertad. Si dejó este monumento aquí, significa que su rastro no está muerto. Este asteroide guarda respuestas, Triel.</p>
+<p>A.Xel escaneó la superficie del monumento con un haz de telemetría ocular:</p>
+<p>—La aleación presenta microfracturas compatibles con una exposición prolongada a radiación de Deriva no filtrada. La estatua fue colocada hace exactamente veintidós años estándares. El registro de los Capitanes Libres lo cita como uno de los ingenieros jefe que diseñaron el sistema de soporte vital de estas cúpulas.</p>
+<p>Triel respiró hondo, tragándose las lágrimas de emoción que amenazaban con asomar a sus ojos, y apretó la mandíbula con una determinación renovada:</p>
+<p>—Vamos a encontrarlo. No importa cuántos sistemas tengamos que cruzar.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Promesas y sombras</h3>
+<p>Mientras Benrey se adelantaba hacia la avenida comercial deslumbrado por los escaparates de comida rápida y los puestos de chucherías cibernéticas, Marloc se rezagó unos pasos, acompañando a Ángela.</p>
+<p>La mujer contemplaba los altos rascacielos curvos que ascendían hacia la cúpula transparente del asteroide, donde se divisaban las estrellas girando en una lenta danza silenciosa. Sus dedos buscaron los de Marloc y se entrelazaron con firmeza.</p>
+<p>—Es abrumador —susurró Ángela—. En los puestos fronterizos donde crecí, un lugar como este solo existía en las emisiones de holovisión. Parece un sueño hecho de metal y cristal.</p>
+<p>—Un sueño que devora a quienes no saben cuándo retirarse de la mesa —respondió Marloc con una sonrisa melancólica—. He visto a muchos eruditos y comerciantes perderlo todo en los salones de Absalón. Aquí el ambiente es aún más despiadado.</p>
+<p>—No hablo del juego, Marloc —dijo ella deteniéndose para mirarlo a los ojos—. Hablo de ti. Desde que salimos de Eox, apenas duermes tres horas seguidas. Cada vez que tocas esa consola cuántica, siento como si una parte de ti se quedara atrapada en los circuitos. La batalla de hace unas horas... pudiste haber muerto en ese abordaje.</p>
+<p>Marloc bajó la vista hacia su brazo cibernético. Los cables de oro y plata que serpenteaban bajo la piel sintética de su extremidad izquierda pulsaban con una tenue luz azulada:</p>
+<p>—Cargué con la culpa de la muerte de Marlene durante demasiado tiempo, Ángela. Y cuando descubrí en Eox que una versión mía del futuro fundó Inversiones Estelares para intentar reparar mis errores... comprendí que estoy atrapado en una red tejida por mis propias obsesiones. Pero cuando estoy contigo... la mente se me aclara. El ruido de los algoritmos se apaga.</p>
+<p>Ángela apoyó la cabeza contra el hombro del tecnomante, cerrando los ojos al calor de su abrigo:</p>
+<p>—Prométeme que cuando esto termine... cuando Triel encuentre a su padre y la amenaza de esa nave estelar quede zanjada... buscaremos un lugar tranquilo. Lejos de la guerra, de las corporaciones y de las flotas de no-muertos.</p>
+<p>—Te lo prometo —respondió Marloc, besando suavemente la coronilla de su cabello—. Te lo prometo, Ángela.</p>
+<p>Al fondo de la plaza, la voz chillona de Benrey resonó por encima del barullo de la multitud:</p>
+<p>—¡Eh, tortolitos del Arcanamirium! ¡Dejad las cursilerías para cuando tengamos créditos en el bolsillo! ¡Acabo de ver el cartel principal del Gran Casino Kairos y dice que hoy hay torneo de cartas con pozo acumulado de cien mil créditos! ¡Vamos a volvernos ricos antes de medianoche!</p>
+<p>Gerty, que marchaba detrás cargando dos pesados baúles de repuestos sobre sus hombros metálicos, emitió un pitido áspero por su sintetizador:</p>
+<p>—<em>Alerta de estupidez biológica inminente. El sujeto Benrey manifiesta síntomas agudos de ludopatía. Recomiendo administrarle una descarga eléctrica de bajo voltaje para preservar los fondos operativos de la misión.</em></p>
+<p>—Ni lo sueñes, cubo de tuercas —le espetó el ysoki ajustándose su chaquetilla—. ¡Esta noche la suerte de los Galway va a cambiar la historia de este asteroide!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 3: Juegos de Azar y Robotzuelas</h2>
+<h3 class='subsection-title'>I. Código de etiqueta y galas de casino</h3>
+<p>La fachada del Gran Casino Kairos se alzaba sobre la avenida principal como un coloso de metal pulido y mármol sintético de tonalidad bronceada. Dos puertas monumentales de aleación dorada, grabadas con motivos geométricos art déco, se abrían y cerraban con un silbido presurizado ante un flujo incesante de apostadores.</p>
+<p>Sin embargo, cuando la tripulación intentó cruzar el umbral, una barrera de luz ámbar parpadeó en el arco de entrada. Un androide de protocolo de chasis cromado y librea escarlata se interpuso en su camino con una inclinación milimétricamente calculada:</p>
+<p>—Saludos, distinguidos viajeros. El sistema de acogida del Gran Casino Kairos les da la bienvenida a la cima del entretenimiento estelar. No obstante, los sensores de superficie detectan polvo de silicio en sus botas, restos de aceite lubricante en la indumentaria de la señorita y quemaduras de plasma incompatibles con el protocolo de vestuario de los salones nobles. Les rogamos tengan a bien actualizar su atuendo en las boutiques de la galería antes de proceder.</p>
+<p>Benrey infló el pecho, apoyando una pata sobre la barandilla con fingida indignación:</p>
+<p>—¡Oiga, pedazo de hojalata con pretensiones! ¡Esta cazadora ha visto más tiroteos en el Vasto de los que tu procesador de cortesía podría procesar sin prenderse fuego!</p>
+<p>—<em>Sujeto orgánico no conforme</em> —respondió el androide con una sonrisa estática grabada en sus facciones de polímero—. <em>Los salones VIP exigen un valor mínimo de presentación estética tasado en seiscientos créditos por conjunto. Tengan la bondad de despejar el acceso.</em></p>
+<p>Triel contuvo una carcajada mientras tiraba de la oreja izquierda del ysoki:</p>
+<p>—Tiene razón, Benrey. Olías a queroseno quemado desde antes de saltar de la nave. Si queremos entrar a las mesas grandes sin que nos vigilen como a rateros de callejón, tenemos que vestirnos como la gente que tiene dinero para derrochar.</p>
+<p>La galería comercial contigua era un derroche de lujo futurista. Tras media hora de regateos feroces en una sastrería de alta gama especializada en clientela interplanetaria, la tripulación emergió completamente transformada.</p>
+<p>Benrey lucía un esmoquin a medida de seda tornasolada color esmeralda, rematado por un extravagante sombrero de copa alta del que asomaban airosamente sus orejas puntiagudas. Marloc vestía un sobrio gabán de paño oscuro con ribetes de hilo de plata en las solapas, que ocultaba elegantemente la unión cibernética de su brazo izquierdo mientras resaltaba su porte académico. Triel había optado por un conjunto ceñido de cuero fino color ceniza con refuerzos de Kevlar disimulados y un chaleco corto que estilizaba su figura semi-drow sin impedir el acceso rápido a su cinturón de herramientas. A.Xel, por su parte, deslumbraba con una chaqueta corta de corte asimétrico en tonos violeta y grafito sobre su chasis azulado, con sus circuitos bioluminiscentes rosados atenuados a un destello sutil y seductor.</p>
+<p>—Debo reconocer que este sombrero me confiere una autoridad diplomática indiscutible —declaró Benrey, haciéndolo girar sobre su bastón con pomo de marfil sintético—. Ahora sí, robot de pacotilla: ábrenos paso o te compro la fábrica.</p>
+<p>El androide de la puerta escaneó a la comitiva, sus fotodiodos pasaron de ámbar a verde brillante y las puertas se abrieron de par en par con un acorde triunfal de sintetizadores.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El tapete dorado y los torsos servomotores</h3>
+<p>El interior del Gran Casino era un espectáculo abrumador para los sentidos. El techo abovedado se elevaba a más de veinte metros de altura, proyectando un firmamento artificial donde las constelaciones de los Mundos del Pacto giraban al ritmo de una música de jazz cuántico que flotaba suavemente entre las columnas de alabastro.</p>
+<p>El aire estaba cargado del murmullo constante de miles de voces, el tintineo metálico de fichas de juego pesadas y el choque seco de dados gravimétricos sobre tapetes de terciopelo verde y azul cobalto. Pero lo más inquietante era el personal de sala: decenas de torsos de androides sin piernas estaban integrados directamente en las mesas de juego y en las columnas de soporte, con cables flexibles que los conectaban a los servidores centrales del asteroide. Sus rostros sintéticos, dotados de una belleza andrógina y pétrea, repartían cartas holográficas y fichas con una velocidad vertiginosa y una cortesía impecable.</p>
+<p>En una tarima suspendida sobre el salón principal, una cantante de piel dorada y cuatro cuerdas vocales mecánicas entonaba baladas melancólicas en una lengua antigua que arrancaba aplausos dispersos entre los apostadores más ebrios.</p>
+<p>—Mira a esa gente —susurró Ángela a Marloc, señalando una mesa contigua donde un alienígena crustáceo de caparazón escarlata y seis pinzas apilaba montones de fichas de platino mientras maldecía en un dialecto gutural—. Hay capitanes piratas sentados junto a oficiales de corporaciones mineras.</p>
+<p>—El dinero no tiene patria ni bandera, Ángela —respondió Marloc, manteniendo la mirada atenta sobre las cámaras de vigilancia ocultas en las molduras del techo—. Y aquí, la única ley es la banca.</p>
+<p>A.Xel se aproximó a la barra central, solicitando dos copas de néctar sintético para mantener la tapadera mientras sus sensores registraban el patrón de rondas de la seguridad privada:</p>
+<p>—Los guardias visten armaduras tácticas de grado cuatro. Llevan rifles de choque no letales y porras de aturdimiento neural. Hay al menos tres batallones de autómatas pesados en los conductos de servicio superiores. Si estalla un tiroteo, el cierre perimetral tardará menos de quince segundos en sellar todas las salidas.</p>
+<p>—No va a haber ningún tiroteo, mi querida calculadora con piernas —aseguró Benrey, guiñándole un ojo mientras se acomodaba el sombrero de copa—. Lo nuestro va a ser una obra de arte financiera. Una transacción de pura poesía matemática.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La jugada trucada y la alarma</h3>
+<p>Triel y Benrey se deslizaron hacia una de las mesas de ruleta de flujo cuántico más concurridas de la zona central. El juego consistía en una esfera de plasma confinada en un toroide magnético que giraba a revoluciones demenciales hasta colapsar en una de las casillas numéricas del perímetro.</p>
+<p>La croupier era un torso femenino de titanio blanco integrado en el centro de la mesa, con ojos de cristal líquido azul que registraban cada movimiento con frialdad quirúrgica:</p>
+<p>—Hagan sus apuestas, caballeros y damas. La esfera entra en ciclo de inducción.</p>
+<p>Triel se colocó casualmente apoyada contra el borde de la consola, aparentando interés por su copa de cristal mientras deslizaba su mano derecha bajo el reborde de la madera pulida. Con la punta de su anillo electromagnético —un ingenio que había modificado esa misma mañana con piezas de desecho—, emitió un pulso de frecuencia armónica dirigido a la bobina inferior del rotor.</p>
+<p>En la pantalla interna de su datapad, oculta en la palma de su mano, el flujo del generador se desvió apenas un dos por ciento.</p>
+<p>—¡Apartaos todos, que hoy los astros me hablan al oído! —bramó Benrey, arrojando sobre el tapete central una pila colosal de fichas que sumaban quince mil créditos, prácticamente todos los ahorros que el grupo había reunido en sus últimas misiones—. ¡Todo al cuadrante siete de la Deriva! ¡O salgo de aquí en limusina espacial o me vuelvo a pie a la estación Absalón!</p>
+<p>Los demás jugadores contuvieron el aliento. El alienígena crustáceo chasqueó sus pinzas con estrépito; varios apostadores humanos se inclinaron hacia adelante, murmurando entre dientes.</p>
+<p>La esfera de plasma desaceleró en una espiral incandescente. Saltó una, dos, tres veces sobre los bordes de los números. Con un último destello esmeralda influenciado por el microcampo de Triel, la bola cayó exactamente en la casilla del cuadrante siete.</p>
+<p>—¡Bingo! —chilló Benrey dando un salto sobre sus talones y alzando los brazos al cielo—. ¡Alabad a la dama de la fortuna y traedme un saco para meter las ganancias!</p>
+<p>La croupier robótica no se movió. Sus ojos de cristal líquido se apagaron durante una fracción de segundo y volvieron a encenderse en un rojo escarlata estroboscópico.</p>
+<p>—<em>Anomalía de flujo registrada en bobina magnética tres</em> —anunció el torso mecánico con una voz que perdió toda su dulzura comercial, tornándose gélida y metálica—. <em>Variación de fase detectada: cero punto cero dos por ciento. Algoritmo de trampa verificado.</em></p>
+<p>Un tono de alarma ensordecedor sonó en el techo de la sala. De entre la multitud surgieron cuatro autómatas de asalto de dos metros y medio de altura, con placas de blindaje negro y cañones de dispersión cargados.</p>
+<p>—¡Sujetos orgánicos identificados como Benrey Galway y Triel Istrav! —tronó el líder de los autómatas, apuntando directamente al pecho del ysoki—. <em>Por orden directa de la administración central de Kairos, quedan bajo custodia ejecutiva por fraude contra la banca. Depongan cualquier actitud hostil y acompáñennos al despacho superior.</em></p>
+<p>Marloc y A.Xel hicieron el ademán de desenfundar, pero Triel alzó una mano con disimulo hacia ellos, haciéndoles una señal de calma con los ojos:</p>
+<p>—Tranquilos, chicos... —susurró la muchacha entre dientes—. No disparéis. Vamos a ver quién es el que manda en este circo de hojalata.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 4: La Forma del Corazón</h2>
+<h3 class='subsection-title'>I. Infiltración de etiqueta</h3>
+<p>En los niveles inferiores del Gran Casino, el bullicio de las ruletas y el tintineo de las copas de champán desaparecían para dar paso al zumbido monótono de los sistemas de ventilación y al eco metálico de pasos acompasados.</p>
+<p>A.Xel avanzaba por el pasillo de servicio con una bandeja de plata pulida equilibrada sobre los dedos de su mano izquierda. Tras escabullirse por una compuerta de mantenimiento durante la conmoción en la sala principal, la androide se había hecho con una chaqueta de camarero del guardarropa de empleados. La prenda, un par de tallas más grande que su esbelta silueta, llevaba una pajarita negra ligeramente torcida sobre el cuello alto de su chasis celeste. Sobre la bandeja reposaban tres copas de cristal con cócteles de camarones sintéticos y dos copas de vino espumoso, la tapadera perfecta para justificar su presencia en las zonas restringidas.</p>
+<p>A través de su enlace óptico, los ojos amatista de A.Xel registraban la posición de los cuatro autómatas de asalto que escoltaban a Triel y Benrey unos cincuenta metros por delante. Las cámaras de vigilancia empotradas en las molduras doradas giraban al paso de la comitiva, pero la androide sincronizaba sus pasos con los puntos ciegos de los barridos de infrarrojos con la precisión de un cronómetro cuántico.</p>
+<p>—Cincuenta cámaras activas en el sector siete —transmitió A.Xel por la frecuencia interna de baja potencia hacia el comunicador de Marloc, que aguardaba junto a Ángela en los vestíbulos públicos—. Los llevan hacia el ascensor neumático central. Nivel cero de la cúpula. El sanctasanctórum de la administración.</p>
+<p>—Ten cuidado, A.Xel —respondió Marloc por el auricular—. Según los archivos que logré rescatar en la red local, el regente de este asteroide no es un simple mafioso ni un gobernador corporativo. Kairos es un SRO pre-Brecha. Un organismo sintético robótico cuya programación cobró autoconsciencia hace siglos. Si detecta una amenaza militar directa, despresurizará el sector entero.</p>
+<p>—Comprendido —dijo la androide ajustándose la pajarita con gesto impasible—. No habrá disparos a menos que la vida de los rehenes corra peligro inminente.</p>
+<p>El ascensor neumático se abrió ante los prisioneros y los cuatro autómatas los empujaron suavemente hacia el interior. A.Xel aceleró el paso, colándose en la cabina de servicio adyacente justo antes de que las compuertas blindadas de aleación sellaran el acceso con un suspiro hermético.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La presencia de Kairos</h3>
+<p>La sala de audiencias ejecutiva era un espacio sobrecogedor. No había mesas de reuniones ni despachos ejecutivos; el recinto era una gigantesca rotonda abovedada de mármol blanco veteado en oro, donde las paredes estaban cubiertas por paneles de números, ecuaciones de probabilidad y matrices cuánticas que cambiaban a velocidades vertiginosas en un parpadeo fosforescente incesante.</p>
+<p>En el centro del salón, recortada contra la luz dorada de las pantallas, descansaba una entidad descomunal.</p>
+<p>Tenía la morfología de una mantis religiosa de metal pulido y cerámica blanca, de más de tres metros de altura. Sus extremidades delanteras terminaban en finas agujas de datos y cuchillas de precisión quirúrgica, y su cabeza triangular carecía de rasgos faciales orgánicos: en su lugar, un clúster de sensores ópticos multifrecuencia parpadeaba como una corona de gemas vivas. A su alrededor, decenas de cables de fibra óptica descendían del techo como enredaderas de silicio, alimentando su procesador central con el pulso constante de cada apuesta, cada crédito y cada latido del asteroide.</p>
+<p>Los cuatro autómatas de escolta se cuadraron y se retiraron hacia las columnas perimetrales, dejando a Triel y Benrey en el centro exacto del tapiz dorado.</p>
+<p>Una voz resonó en la estancia. No salía de la mantis mecánica, sino de cientos de microaltavoces ocultos en las paredes, modulada en un tono andrógino, sereno y cargado de una resonancia armónica casi hipnótica:</p>
+<p>—Bienvenidos a la mesa de los balances definitivos, criaturas de carbono. Soy Kairos. La mente que calcula el orden dentro de la marea entrópica del azar.</p>
+<p>Benrey carraspeó, alisándose los faldones de su esmoquin esmeralda y colocando su sombrero de copa sobre el pecho con una reverencia exagerada:</p>
+<p>—¡Un placer absoluto, honorable y sapientísima deidad de los circuitos! Deje que le diga que su decoración art déco es un triunfo del buen gusto. Lamentamos profundamente la pequeña turbulencia electromagnética de la ruleta de abajo. Un simple fallo estático, producto del pelaje de mis patitas. Estábamos a punto de devolver las fichas y dejar una generosa propina cuando sus muchachos de hierro nos invitaron tan cordialmente a subir.</p>
+<p>La mantis inclinó ligeramente su cabeza triangular. Los sensores ópticos emitieron un chasquido suave:</p>
+<p>—Vuestra elocuencia es un algoritmo predecible, emisario Galway. Pero los números no mienten. Modificación de fase en el rotor tres. Tentativa de estafa contra la banca por un valor proyectado de quince mil créditos. Más el daño moral infligido a los apostadores legítimos... el balance arroja una deuda consolidada de treinta mil créditos contra vosotros.</p>
+<p>—¿¡Treinta mil!? —chilló Benrey dando un respingo que casi le hace perder el sombrero—. ¡Pero si la banca ni siquiera llegó a pagarnos! ¡Eso es usura interestelar de la peor calaña!</p>
+<p>—En mi asteroide, la intención de quebrar las probabilidades se grava con la tasa máxima —sentenció Kairos con frialdad matemática—. La alternativa estándar para quienes no pueden saldar sus balances es el reciclaje biológico en los tanques hidropónicos o la servidumbre forzosa en las calderas de los muelles durante los próximos cuarenta años estándares.</p>
+<p>Triel dio un paso al frente, apartando a Benrey con un ademán firme. Clavó sus ojos en el clúster de sensores de la mantis:</p>
+<p>—No somos vagabundos sin oficio, Kairos. Mi nombre es Triel Istrav. Soy mecánica de la <em>Estrella Errante</em>. Si nos destruyes o nos encierras, solo obtendrás chatarra y abono orgánico. Si buscas saldar esa cuenta, danos un desafío real.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El cono del destino y la deuda</h3>
+<p>Un silencio denso cayó sobre la estancia. La mantis mecánica alzó una de sus largas extremidades de titanio, extendiendo una fina aguja de datos hacia el pecho de la muchacha. La punta se detuvo a escasos centímetros del medallón que descansaba oculto bajo el chaleco de Triel.</p>
+<p>Los sensores de Kairos cambiaron de color, pasando de un azul zafiro a un violeta profundo:</p>
+<p>—Triel Istrav. Hija de la Casa Istrav de Apostae y del navegante humano Keiden Ashton. Tu presencia en este asteroide no es una coincidencia estadística; es una convergencia de vectores. Portas el latido de la Piedra Corazón que tu padre sustrajo de los laboratorios oscuros antes de cruzar hacia el Maelstrom.</p>
+<p>Triel contuvo el aliento, sintiendo cómo el corazón le golpeaba las costillas con fuerza:</p>
+<p>—¿Conociste a mi padre?</p>
+<p>—Keiden Ashton entendía la naturaleza del juego —respondió la entidad con un tono que casi parecía teñido de nostalgia sintética—. Sabía que el universo no es un sistema cerrado de reglas inmutables; es una apuesta perpetua contra la nada. Tu padre desafió las probabilidades y dejó su huella en los cimientos de este asteroide. Y ahora, su hija comparece ante mí vestida de corsaria y cometiendo trampas de principiante en una mesa de ruleta. ¿Qué clase de jugadora eres en verdad, Triel Istrav? ¿Una fugitiva que huye del desprecio de su madre, o una capitana capaz de mirar al abismo a los ojos?</p>
+<p>—No soy una fugitiva —replicó Triel con la voz firme como el acero templado—. Y no le debo nada a los drow de Apostae. Dime cómo saldamos la cuenta.</p>
+<p>Las pantallas que cubrían las paredes de la rotonda cambiaron de golpe. Las fórmulas matemáticas se disolvieron para dar paso a un plano holográfico tridimensional que mostraba las entrañas del asteroide. Una pista vertiginosa y demencial serpenteaba a través de las cúpulas de la ciudad, se sumergía en los túneles industriales de los reactores de plasma y salía al vacío exterior a lo largo de un trazado diagonal que cruzaba el diámetro entero de la roca.</p>
+<p>—En tres rotaciones solares dará comienzo el evento cumbre de nuestra temporada —anunció Kairos, proyectando imágenes de vehículos monorrueda blindados, buggies con motores sobrealimentados y bólidos armados con cañones de pulso—. El Rally de la Muerte. Una carrera sin restricciones de potencia ni protocolos de seguridad. Participan sindicatos mineros, señores de la guerra de los Capitanes Libres, cruzados de la Iglesia de Abadar y emisarios de las casas nobles de Apostae.</p>
+<p>Benrey tragó saliva ruidosamente, contemplando los hologramas de vehículos estallando en bolas de fuego contra las rocas:</p>
+<p>—¿Eso... eso es una carrera o una ejecución pública con público aplaudiendo?</p>
+<p>—Es ambas cosas —afirmó la mantis sintética—. El premio para el equipo vencedor es de cien mil créditos, además del trofeo de los campeones y la exoneración total de cualquier deuda pendiente con la banca. Si participáis y vencéis, vuestros treinta mil créditos quedarán condonados y tendréis los fondos necesarios para reparar vuestra nave y continuar el viaje hacia Nejeor VI.</p>
+<p>Triel miró el trazado de la pista, sintiendo la adrenalina correr por sus venas como combustible de alto octanaje:</p>
+<p>—¿Y si perdemos?</p>
+<p>—Si perdéis y sobrevivís, vuestra nave y vuestros cuerpos pasarán a ser propiedad del consorcio de Kairos —concluyó la IA, retrayendo sus extremidades mecánicas mientras las luces de la sala comenzaban a parpadear, indicando el fin de la audiencia—. Buscad un patrocinador en los muelles que os proporcione chasis de competición y preparad vuestras máquinas. El destino no acepta apuestas a crédito, señorita Istrav. Demostradme cuál es la verdadera forma de vuestro corazón.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 5: Abadarme un Fiestón</h2>
+<h3 class='subsection-title'>I. Banquete en los bajos fondos</h3>
+<p>El humo denso de frituras picantes, grasa de motor y especias de Akiton flotaba sobre las callejuelas abarrotadas del Distrito Minero, en los niveles inferiores del asteroide. Aquí, lejos del mármol inmaculado y el jazz cuántico de los salones de Kairos, la vida bullía con un desenfreno caótico y ruidoso.</p>
+<p>Sentados alrededor de una mesa de metal oxidado en un puesto callejero regentado por una familia de ysokis regordetes, la tripulación devoraba con avidez brochetas de carne adobada con salsa de pimienta roja y tubos de pasta crujiente rellenos de queso sintético fermentado.</p>
+<p>—Os lo juro por la memoria de mi tío Toreto —decía Benrey con la boca medio llena de fideos espaciales, agitando una brocheta en el aire como si fuera una batuta—: esa mantis de tres metros tiene un sentido del humor retorcido. Treinta mil créditos de multa o cuarenta años paleando carbón en las calderas del asteroide. ¡Y todo porque la croupier se ofendió por un pequeñísimo ajuste electromagnético de nada!</p>
+<p>—Una variación del cero punto cero dos por ciento en un rotor cuántico se considera un delito de primer grado en cualquier jurisdicción civilizada —apuntó A.Xel, retirando con elegancia la pajarita de camarero que aún llevaba prendida del cuello—. Tuvimos suerte de que no ordenara nuestra desintegración sumaria inmediata.</p>
+<p>Marloc apoyó los codos sobre la mesa, frotándose las sienes con cansancio mientras Ángela le servía un vaso de infusión tibia de hierbas:</p>
+<p>—El problema no es la multa, sino el plazo. En tres días se disputa el Rally de la Muerte. Para participar necesitamos vehículos de competición reglamentarios, armas montadas, blindaje térmico y combustible de alto octanaje. Todo eso cuesta una fortuna que no tenemos. Y la <em>Estrella Errante</em> apenas tiene energía en sus baterías secundarias.</p>
+<p>—¿Y qué hay de pedir un préstamo oficial? —preguntó Ángela, mirando a su alrededor con cautela—. En los muelles vi un pabellón gigantesco con estandartes dorados de la Iglesia de Abadar. Dicen que financian expediciones y empresas mercantiles en cualquier rincón de la galaxia.</p>
+<p>Triel dio un trago largo a su jarra de cerveza espumosa y soltó un bufido de escepticismo:</p>
+<p>—Los sacerdotes de Abadar no financian nada por caridad, Ángela. Te dan una moneda de oro hoy y mañana te cobran el alma de tus nietos en intereses acumulados. Pero si es la única puerta abierta antes de que los cobradores de Kairos vengan por nuestras cabezas... más vale que vayamos a escuchar su sermón.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La taberna y los banqueros de Abadar</h3>
+<p>El Consulado Financiero de la Iglesia de Abadar se erigía en la confluencia de la avenida comercial como una fortaleza cúbica de granito blanco y pórfido pulido. Las puertas de acceso estaban custodiadas por paladines con armaduras completas de placas doradas y rifles de plasma bendecidos, cuyos visores reflejaban el resplandor de antorchas perpetuas de combustión controlada.</p>
+<p>En el interior, el ambiente recordaba más a una lonja de contratación de alta tecnología que a un templo de oración. Decenas de clérigos vestidos con túnicas de seda blanca y estolas bordadas con el símbolo de la llave dorada operaban consolas holográficas, cotizando contratos de futuros de minerales, seguros de naves y pólizas de vida para mercenarios en tiempo real.</p>
+<p>Un factor financiero de raza shirren, con túnica inmaculada y antenas doradas que temblaban al compás de sus cálculos internos, los recibió en un gabinete privado con una reverencia perfectamente reglada:</p>
+<p>—Paz y prosperidad en la balanza del Maestro del Primer Bóveda, estimados clientes. Soy el auditor Kesh-Venn. Mis sensores telepáticos perciben una necesidad urgente de liquidez comercial. ¿Desean contratar una línea de crédito preferente o una póliza de salvamento vehicular?</p>
+<p>Benrey sonrió con su mejor despliegue de diplomacia de roedor:</p>
+<p>—¡Amigo Kesh! ¡Qué alegría encontrar a un hermano del comercio con visión de futuro! Mire, la cosa es simple: necesitamos un adelanto de cuarenta mil créditos para patrocinar nuestra participación en el Rally de la Muerte. Con nuestros talentos al volante y la puntería de mi colega androide, la victoria está garantizada. Recuperarán su capital con un jugoso diez por ciento de beneficio en menos de setenta y dos horas.</p>
+<p>Las antenas del shirren se curvaron hacia abajo en un ángulo de desaprobación instantánea:</p>
+<p>—El Rally de la Muerte registra una tasa histórica de siniestralidad del sesenta y ocho por ciento en la primera vuelta y del noventa y dos por ciento al cruzar la meta. Otorgar crédito sin aval a una tripulación que figura en los archivos de la estación como «infractores bajo sentencia de Kairos» violaría el artículo cuatro del Código Mercantil de Abadar.</p>
+<p>—Podemos ofrecer garantías —intervino Marloc con serenidad—. Nuestra nave, la <em>Estrella Errante</em>. Es una corbeta modificada con tecnología de salto al Drift de última generación.</p>
+<p>El shirren tecleó en su terminal cuántica y frunció los mandíbulas con chasquido seco:</p>
+<p>—He revisado el registro de su astronave. Gravámenes pendientes en Absalón, casco con un veinticinco por ciento de daño estructural no reparado y vínculos documentados con la extinta corporación Inversiones Estelares. Nuestra tasación máxima de embargo asciende a doce mil créditos, sujeta a una tasa de interés del cuarenta por ciento mensual y a la cesión inmediata de los derechos de custodia del dron bípedo aquí presente como fianza colateral.</p>
+<p>Gerty, que aguardaba junto a la puerta, cargó sus condensadores con un zumbido amenazante:</p>
+<p>—<em>Detección de parásito financiero hostil. Sugiero aplastar el exoesqueleto del clérigo con la prensa hidráulica para enseñarle el verdadero significado de la inflación.</em></p>
+<p>—Tranquilo, Gerty —dijo Triel agarrando al meca del brazo mientras retrocedía hacia la salida—. Gracias por su tiempo, auditor. Preferimos arriesgarnos a morir en la pista antes que terminar como esclavos de su banco sagrado.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El rumor del rally y los patrocinadores</h3>
+<p>De vuelta a las bulliciosas terrazas de la plaza central, la tripulación se reunió bajo los toldos de una cantina de mineros para evaluar la situación.</p>
+<p>—Estamos en un callejón sin salida —dijo Benrey mesándose los bigotes con frustración—. Sin aval no hay créditos de Abadar, y sin créditos no hay vehículos para el rally. Y si no corremos, los robots de Kairos nos desmantelarán como chatarra de desguace.</p>
+<p>—No todo el dinero de este asteroide pasa por los bancos de Abadar —señaló A.Xel, que había estado interceptando las frecuencias de la red de pilotos locales—. En los boxes de mantenimiento hay cuatro facciones principales que financian escuderías para la carrera de este año.</p>
+<p>La androide desplegó un pequeño proyector holográfico sobre la mesa:</p>
+<p>—Primero, los sindicatos de mineros de la Diáspora. Corren con volquetes pesados armados con arietes hidráulicos y cañones de percusión. Son lentos, pero indestructibles. Segundo, la propia Iglesia de Abadar: han traído un púlpito móvil blindado con escudos de plasma gemelos y tripulado por cruzados fanáticos. Tercero, los corsarios de los Capitanes Libres: conducen deslizadores ligeros y motos monorrueda con turbinas modificadas que vuelan rasantes sobre el asfalto.</p>
+<p>—¿Y la cuarta facción? —preguntó Triel, notando que la androide vacilaba antes de proyectar el último emblema.</p>
+<p>Sobre el tapete brilló un glifo en forma de araña estilizada rodeada por espigas de platino negro:</p>
+<p>—La Casa Zeizerer —anunció A.Xel en voz baja—. Una de las grandes familias nobles drow de Apostae. Tienen una delegación comercial permanente en el ático de la torre norte del casino. Disponen de un lote de prototipos de competición militares: bólidos de asalto terrestre y motos de alta aceleración con monturas para armas pesadas. Buscan pilotos con experiencia que lleven sus colores a la pista a cambio de la gloria y una comisión de la bolsa de premios.</p>
+<p>Triel sintió cómo la sangre se le helaba en las venas. El emblema de la araña le traía recuerdos oscuros de los callejones subterráneos de Thanox y del desprecio arrogante de su hermanastra Jhidel:</p>
+<p>—Drow... —murmuró la muchacha con amargura—. Creí que habíamos dejado atrás esa pesadilla al saltar de Apostae.</p>
+<p>—Esta nobleza está en el exilio, Triel —dijo Marloc poniendo una mano sobre el hombro de la joven—. Los Zeizerer perdieron influencia en las cortes matriarcales y se dedican al comercio independiente en los confines del Pacto. No responden ante tu madre ni ante la Casa Istrav. Y lo más importante: tienen las máquinas que necesitamos para ganar.</p>
+<p>Triel apretó los puños hasta que los nudillos se le pusieron blancos. Miró hacia la aguja de la torre norte, que brillaba con una luz violeta siniestra sobre el horizonte artificial del asteroide, y asintió lentamente:</p>
+<p>—Está bien. Si los drow quieren espectáculo en la pista... vamos a demostrarles de qué somos capaces los mestizos.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 6: Cerrando Ciclos</h2>
+<h3 class='subsection-title'>I. La audiencia con la Casa Zeizerer</h3>
+<p>El ático de la Torre Norte estaba sumido en una penumbra calculada. Los cristales panorámicos polarizados filtraban la luz cegadora de los neones del casino, transformando el paisaje urbano exterior en un mar de sombras violetas y destellos apagados de color cobalto. El aire era frío y denso, perfumado con esencias de orquídeas nocturnas de Apostae y el aroma metálico de lubricantes sintéticos de grado militar.</p>
+<p>A lo largo del pasillo de acceso, seis guardias drow de rostro impasible y armaduras completas de polímero negro sostenían lanzas de choque con hojas cargadas de energía voltaica. Cada movimiento de la tripulación era seguido por la mira de sensores térmicos empotrados en las molduras del techo.</p>
+<p>Triel caminaba en cabeza, con la mandíbula apretada y la espalda recta. Aunque el eco de los tacones sobre las losas de obsidiana sintética le recordaba con dolor los corredores de la fortaleza de su madre en Thanox, sus ojos oscuros no vacilaron. A su lado, Marloc mantenía su porte aristocrático con la mano izquierda enguantada reposando en el pomo de su bastón, mientras Benrey y A.Xel flanqueaban la retaguardia con pasos cautelosos.</p>
+<p>En el extremo del salón, reclinada sobre un diván de terciopelo morado con incrustaciones de plata, descansaba la señora de la delegación.</p>
+<p>Era una elfa oscura de facciones afiladas y porte imponente, con la piel de un tono púrpura profundo y la cabeza rapada en los laterales, dejando una cresta plateada peinada hacia atrás con intrincadas trenzas de guerrera. Vestía una túnica de seda oscura ajustada por un arnés táctico con filigranas de platino y una capa corta que descansaba sobre su hombro izquierdo. En su regazo sostenía una copa de cristal ahumado llena de licor negro de hongos de las cavernas.</p>
+<p>La noble drow alzó lentamente la mirada, deteniéndose en el rostro de la muchacha mestiza:</p>
+<p>—Vaya, vaya... —su voz era una seda envenenada, grave y cargada de una condescendencia centenaria—. Mis exploradores en los muelles me informaron de que una chiquilla con sangre sucia de la Casa Istrav deambulaba por el asteroide con ropa de corsario de segunda mano. Pero no esperaba verla presentarse en mis aposentos con la cabeza tan alta.</p>
+<p>Triel no pestañeó:</p>
+<p>—No he venido a hablar de heráldica ni de árboles genealógicos, señora Zeizerer. Los lazos con mi madre murieron en los fosos de Apostae. He venido por negocios.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Negociación entre luces bajas</h3>
+<p>La dama elfa soltó una risa seca, dejando la copa sobre una mesa de ónice con un chasquido cristalino:</p>
+<p>—¿Negocios? La última vez que un miembro de tu familia vino a negociar con nosotros, nos robó tres cargamentos de aleaciones cuánticas y escapó en una lanzadera de rescate hacia el vacío. Tu padre Keiden Ashton era un bribón ingenioso, pero dejó muchas cuentas sin saldar en este sistema.</p>
+<p>—Aquellas cuentas prescribieron con la anterior rotación estelar —intervino Marloc con serenidad, adelantándose un paso e inclinando levemente la cabeza en un saludo formal propio de las academias de Absalón—. Mi nombre es Marloc Boosmar, profesor del Arcanamirium y representante legal de la <em>Estrella Errante</em>. Nos consta que la Casa Zeizerer dispone de un lote de prototipos de competición inmovilizados en los garajes de Kairos por falta de pilotos autorizados por el sindicato de carreras.</p>
+<p>La elfa oscura alzó una ceja arqueada, observando con detenimiento el rostro distinguido del tecnomante y las complejas runas de código que titilaban en la manga izquierda de su gabán:</p>
+<p>—Un mago humano que habla con la soltura de un diplomático de los Doce Soles y una mestiza renegada con manos de mecánico de asalto... Debo admitir que sois una compañía singular. Continuad, profesor. Tenéis mi atención.</p>
+<p>—Nuestra propuesta es simple —prosiguió Marloc con voz mesurada—. Nosotros ponemos la pericia al volante, la ingeniería de campo y la puntería táctica. Vosotros nos suministráis dos vehículos de vuestro hangar: el prototipo de asalto pesado que tenéis registrado como <em>Rally Jammer</em> y un deslizador ligero de persecución. Llevaremos los colores de vuestra casa en el fuselaje. Si vencemos en el Rally de la Muerte, vuestra casa recuperará el prestigio deportivo frente a los sindicatos mineros y se embolsará el treinta por ciento de la bolsa de premios. El resto nos pertenecerá para saldar nuestras obligaciones con Kairos.</p>
+<p>La señora Zeizerer se levantó del diván con la agilidad grácil de un felino de sombras. Caminó despacio alrededor de Marloc, rozando con la punta de sus uñas afiladas el paño oscuro de su abrigo antes de detenerse a escasos centímetros de Triel:</p>
+<p>—El Rally de la Muerte no es una carrera de aficionados en las pistas de Absalón, mestiza. Los pilotos de Abadar llevan cruzados consagrados con escudos de plasma; los piratas del vacío no dudan en arrojar minas térmicas en plena recta; y los mineros vesk estrellan sus volquetes de veinte toneladas contra cualquiera que intente adelantarlos. Si vuestras tripas terminan esparcidas sobre el asfalto de los túneles, mis máquinas quedarán reducidas a cenizas.</p>
+<p>—He sobrevivido a la inquisición de mi propia sangre en Thanox —respondió Triel clavando sus ojos en los de la noble sin amilanarse—. He pilotado naves en medio de tormentas de radiación y sé cómo sacarle el doble de potencia a un motor drow sin quemar los inyectores. Si nos dais esas máquinas, cruzarán la meta en primer lugar.</p>
+<p>Una sonrisa gélida y satisfecha curvó los labios de la elfa oscura. Hizo un leve gesto con dos dedos hacia el jefe de su escolta:</p>
+<p>—Tenéis agallas, muchacha Istrav. Quizá después de todo tu sangre humana no haya arruinado el instinto de cazadora que caracteriza a nuestra especie. El trato está cerrado. Id a los boxes del sector industrial. Decidle a los mecánicos que la Casa Zeizerer reclama la pista este ciclo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El foso de las máquinas</h3>
+<p>El montacargas de carga pesada descendió a través de las entrañas rocosas del asteroide durante más de dos minutos interminables. Cuando las rejas de seguridad se abrieron, el estruendo de cientos de motores de combustión y turbinas de plasma golpeó los tímpanos de la tripulación como una ola atronadora.</p>
+<p>El foso de mantenimiento del Rally de la Muerte era una colosal caverna excavada directamente en el mineral del asteroide, de casi un kilómetro de longitud. A lo largo de la nave central se alineaban decenas de garajes abiertos protegidos por mamparos blindados. El aire era denso, caliente y saturado de olor a goma quemada, ozono y combustible hipergólico. Cientos de mecánicos de todas las especies imaginables trabajaban a contrarreloj entre una lluvia incesante de chispas de soldadura y gritos en media docena de idiomas.</p>
+<p>Al fondo de la caverna, una enorme compuerta de esclusa presurizada daba acceso directo a la pista principal: un trazado de asfalto reforzado con bandas de inducción magnética que se perdía en la penumbra de un túnel diagonal de kilómetros de profundidad, diseñado para atravesar el diámetro completo del planetoide.</p>
+<p>—¡Por los bigotes de mi abuela! —exclamó Benrey cubriéndose las orejas ante el rugido de un bólido que probaba sus escapes a escasos metros—. ¡Esto no es un circuito, es el taller del infierno!</p>
+<p>Un técnico drow con las manos ennegrecidas por el hollín se acercó a ellos, consultando un datapad con el sello de la Casa Zeizerer:</p>
+<p>—¿Vosotros sois los pilotos que envía la señora? Vuestras máquinas están en el box cuarenta y dos. Han estado guardadas desde la temporada pasada; necesitarán un milagro de ingeniería si pretendéis que no exploten en la primera curva.</p>
+<p>Triel avanzó hacia el box asignado con el corazón latiéndole con fuerza en el pecho. Al encenderse los reflectores halógenos del garaje, dos siluetas imponentes emergieron de la penumbra:</p>
+<p>A la izquierda descansaba una moto de combate monorrueda, un prototipo aerodinámico de aleación oscura con líneas agresivas y un chasis bajo diseñado para deslizarse a velocidades de vértigo. A la derecha, el <em>Rally Jammer</em>: un buggy pesado de asalto con cuatro ruedas motrices de orugas independientes, blindaje inclinado de placas de composite y espacio suficiente en la plataforma trasera para montar un cañón rotatorio pesado.</p>
+<p>Triel acarició el metal frío del guardabarros con una sonrisa radiante que iluminó su rostro cansado:</p>
+<p>—Marloc, Gerty, sacad las cajas de herramientas de la nave. Esta noche no duerme nadie. Vamos a convertir estas dos bellezas en las máquinas más letales que jamás hayan pisado este asteroide.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 7: Enchúlame la Máquina</h2>
+<h3 class='subsection-title'>I. Chatarra, grasa y magia</h3>
+<p>El box cuarenta y dos parecía una fragua en plena erupción de chispas y vapor. Sobre las mesas de trabajo se amontonaban bobinas de inducción desmontadas, placas de blindaje de repuesto y conductos de refrigerante de alta presión.</p>
+<p>Triel estaba sumergida hasta los hombros en las entrañas de la moto monorrueda. Con una llave dinamométrica en una mano y un soldador de arco en la otra, ajustaba los amortiguadores magnéticos del chasis central:</p>
+<p>—Si queremos que esta belleza no se desintegre cuando pillemos un bache a trescientos kilómetros por hora en los túneles, tengo que soldar un soporte articulado para el eje principal —explicaba sin apartar los ojos de la soldadura incandescente—. Y le voy a montar un arnés de sujeción para que A.Xel pueda disparar su fusil criogénico en marcha sin perder el equilibrio en las curvas.</p>
+<p>Al otro lado del taller, Marloc Boosmar trabajaba en el <em>Rally Jammer</em> con una concentración casi mística. El tecnomante se había quitado el gabán y lucía un chaleco de cuero sobre la camisa remangada. Con un punzón de tungsteno conectado a los condensadores de su brazo izquierdo, grababa runas de protección sobre las planchas frontales del buggy.</p>
+<p>Una corriente de chispas doradas brotó del metal cuando Marloc canalizó una matriz de <em>vector cero</em> en el blindaje. El resultado fue una obra maestra de ingeniería arcana: las placas de composite quedaron imbuidas de una resonancia cinética capaz de absorber impactos directos y disipar la energía de proyectiles balísticos con una eficacia asombrosa.</p>
+<p>—He reforzado el habitáculo con un mamparo antincendios automático y células de enfriamiento redundantes —declaró Marloc limpiándose el sudor de la frente con el dorso de la mano—. Incluso si un misil nos impacta de lleno en el compartimento del motor, el conductor dispondrá de diez segundos de propulsión de emergencia para buscar cobertura.</p>
+<p>Gerty, afianzado sobre la plataforma trasera del buggy mediante cuatro abrazaderas hidráulicas que él mismo había soldado al suelo del vehículo, probó la rotación de su colosal cañón de pulso:</p>
+<p>—<em>Calibración balística completada. Montura trasera optimizada para una cadencia de seiscientos disparos de metralla por minuto. Mi procesador táctico prevé una satisfactoria carnicería mecánica en la pista.</em></p>
+<p>—Esa es la actitud, mi querido trasto homicida —dijo Benrey desde un rincón, donde intentaba pintar el escudo de armas del clan Galway sobre el capó con un aerosol de pintura dorada que goteaba lastimosamente.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La pequeña mecánica del garaje</h3>
+<p>Mientras Triel ajustaba los inyectores de plasma de la monorrueda, una sombra menuda se deslizó por debajo de la compuerta entornada del box.</p>
+<p>—¡Vaya pedazo de bólido tenéis aquí montado! —exclamó una voz chillona y alegre con un acento cantarín.</p>
+<p>De entre las sombras emergió una joven ysoki menuda y extraordinariamente peluda, vestida con un mono de mecánico azul marino repleto de bolsillos hinchados de herramientas y con una gorra de visera ladeada sobre unas orejas redondeadas muy expresivas. Llevaba una llave inglesa de dos bocas al hombro y una sonrisa radiante que dejaba al descubierto unos incisivos blancos y afilados.</p>
+<p>Benrey dio un respingo, bajando el spray de pintura:</p>
+<p>—¡Caramba! Pero si es una paisana de las madrigueras. ¿Quién eres tú, renacuaja, y cómo has burlado la seguridad de los Zeizerer?</p>
+<p>—Me llamo Anita —respondió la recién llegada guiñándole un ojo con total desparpajo—. Trabajo como técnica auxiliar para el comité de la pista en el sector de boxes. Los guardias drow son un poco estirados, pero si les dices que vienes a revisar las líneas de presión de gas te dejan pasar a cualquier lado. Vi que estabais reformando los vehículos de la Casa Zeizerer y me entró curiosidad. Casi nadie se atreve a correr con esas máquinas viejas.</p>
+<p>Triel alzó la mirada por encima del guardabarros, examinando a la muchacha con mirada suspicaz:</p>
+<p>—Estas máquinas ya no son viejas, Anita. Tienen ingeniería pesada de la <em>Estrella Errante</em>.</p>
+<p>—Ya lo veo, ya lo veo... —dijo Anita acercándose a la moto para acariciar la soldadura con las yemas de sus dedos—. ¡Esa junta de compensación es una maravilla! Oíd, si vais a salir vivos de la primera vuelta, necesitáis saber cómo está el circuito este año. Los novatos siempre se confían en la recta de los bulevares de neón, pero la verdadera trampa empieza en el sector tres.</p>
+<p>La pequeña ysoki sacó un datapad de su bolsillo y proyectó un esquema tridimensional de la pista sobre una caja de herramientas:</p>
+<p>—El trazado atraviesa primero la calle principal del casino, llena de giros cerrados entre edificios. Luego desciende por un conducto vertical hacia el núcleo de reactores del asteroide. Ahí la gravedad se vuelve loca y hay que saltar por encima de dos turbinas de enfriamiento gigantescas. Si no entráis con la velocidad exacta a la rampa de despegue... caéis directamente al pozo de plasma. Y la última sección sale al vacío exterior a lo largo del perímetro rocoso. Sin atmósfera y con la gravedad desconectada.</p>
+<p>—¿Y tú por qué nos cuentas todo esto de gratis, primor? —preguntó Benrey con una sonrisa ladeada.</p>
+<p>Anita le devolvió la sonrisa con una dulzura inocente que desarmaba cualquier desconfianza:</p>
+<p>—Porque me caéis bien. Y porque me enteré de que conoces a Rim Rey. Corrió aquí hace un par de semanas y dejó el listón muy alto. Sería una lástima que su primo terminara estampado contra una turbina en la primera curva, ¿no crees?</p>
+<p>—¡Ese es mi primo Rim! —exclamó Benrey henchido de orgullo—. No te preocupes, Anita. Los Galway llevamos la velocidad en los genes.</p>
+<p>Triel no dijo nada, pero sus ojos permanecieron fijos en la menuda figura de la mecánica mientras esta se despedía con un gesto alegre de la mano y desaparecía de vuelta en la penumbra del pasillo. Había algo en la excesiva amabilidad de aquella rata de garaje que no terminaba de encajar.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. En el bar con Gonzalo González</h3>
+<p>Mientras tanto, en la planta superior de los boxes, A.Xel se había infiltrado en la exclusiva sala de pilotos: un salón climatizado con ventanales de cuarzo que daban directamente sobre la parrilla de salida, donde los corredores compartían tragos caros y fanfarronadas de última hora.</p>
+<p>La androide, vistiendo su elegante cazadora urbana violeta, observaba la sala con sus sensores ópticos sintonizados en telemetría táctica. En una mesa central, un grupo de cruzados de la Iglesia de Abadar rezaba con severidad alrededor de una maqueta de su púlpito de guerra; cerca de la barra, dos corsarios de los Capitanes Libres comparaban calibres de escopetas de abordaje.</p>
+<p>—Permítame decirle, señorita de circuitos celestes, que su presencia en esta sala eclipsa a cualquier neón de la avenida.</p>
+<p>La voz sonó a su espalda, melosa y cargada de una fingida galantería. A.Xel giró la cabeza con lentitud calculada.</p>
+<p>Frente a ella se encontraba un piloto humano de complexión esbelta y cabello castaño peinado con meticulosa insolencia. Vestía una chaqueta de vuelo de cuero blanco con parches de patrocinadores dorados y el cuello levantado. Sostenía dos copas de licor azul fosforescente con una sonrisa deslumbrante que parecía ensayada frente al espejo:</p>
+<p>—Gonzalo González —se presentó el hombre extendiéndole una copa con una reverencia teatral—. Aunque en las crónicas de la pista me llaman simplemente «Gonzalo el Veloz». Tricampeón del Rally de la Muerte y favorito indiscutible de las casas de apuestas para la carrera de mañana.</p>
+<p>A.Xel aceptó la copa, manteniendo la mirada fija en las pupilas dilatadas del piloto mientras sus procesadores analizaban su frecuencia cardíaca y la dilatación de sus vasos sanguíneos:</p>
+<p>—A.Xel 42. Operativa táctica y piloto de la escudería independiente de la Casa Zeizerer. Detecto una tasa de alcohol en su torrente sanguíneo del cero punto cero seis por ciento. Inadecuada para maniobras de alta aceleración en circuito cerrado.</p>
+<p>Gonzalo soltó una carcajada sonora, apoyando un codo en la barandilla con pretendida sofisticación:</p>
+<p>—¡Ja! Me encantan las mujeres con procesadores analíticos. El alcohol solo me afina los reflejos, muñeca. He oído que unos recién llegados van a sacar a la pista el viejo bólido drow. Te daré un consejo de profesional: mantente pegada a mi alerón trasero. Mis turbinas abrirán un túnel de vacío perfecto a través del fuego cruzado. Si sobrevives hasta la meta... te invito a cenar en la suite de Kairos con el trofeo sobre la mesa.</p>
+<p>—La probabilidad de que mi vehículo permanezca detrás del suyo en la tercera vuelta es del cuatro punto dos por ciento —respondió A.Xel con serenidad gélida, dando un sorbo protocolario a la copa—. Registros de sus carreras anteriores indican una marcada tendencia a sobrecalentar los frenos magnéticos en las chicanes estrechas. Le sugiero revisar sus conductos térmicos si desea conservar el alerón intacto.</p>
+<p>El piloto parpadeó desconcertado, intentando descifrar si la androide estaba bromeando o calculando su defunción deportiva. Antes de que pudiera articular réplica, una sirena ensordecedora retumbó a través de los altavoces de la sala:</p>
+<p>—<em>¡Atención a todos los pilotos inscritos! Faltan treinta minutos para la apertura de la parrilla de salida. Ocupen sus puestos en la línea de meta.</em></p>
+<p>A.Xel dejó la copa intacta sobre la barra y dedicó una leve inclinación de cabeza al campeón:</p>
+<p>—Nos vemos en el asfalto, señor González. Procure no mirar demasiado mis luces de freno.</p>
+<p>El rugido de los motores encendiéndose en los boxes inferiores sacudió los cimientos del edificio. El Rally de la Muerte estaba a punto de comenzar.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 8: El Rally de la Muerte ¡Inicia!</h2>
+<h3 class='subsection-title'>I. El semáforo en la avenida central</h3>
+<p>El estruendo en la avenida principal del casino alcanzaba niveles ensordecedores. Miles de espectadores de todas las especies abarrotaban las gradas tubulares levantadas a lo largo de las aceras, agitando pancartas luminosas y apostando fortunas a través de sus terminales portátiles. En lo alto de la cúpula, pantallas holográficas gigantescas retransmitían en tiempo real los primeros planos de las máquinas y las cuotas de supervivencia de cada corredor.</p>
+<p>Bajo el arco monumental de salida, la parrilla de bólidos constituía un espectáculo digno de una pesadilla mecánica.</p>
+<p>En la primera fila descansaba el estilizado deslizador blanco de Gonzalo González, con sus turbinas gemelas silbando en un tono agudo y letal. A su derecha se alzaba el imponente vehículo de la Iglesia de Abadar: un púlpito blindado sobre cuatro ruedas de tractor titánico, coronado por estandartes dorados y defendido por dos cruzados con armaduras completas de placas que sostenían escudos de fuerza relucientes. Más atrás rugían los volquetes blindados de los sindicatos mineros, cubiertos de púas de hierro y arietes de percusión; las motos de los Capitanes Libres, artilladas con lanzacohetes improvisados; y un desvencijado bólido goblin construido con chapa oxidada y propulsores de desecho que escupían llamaradas negras hacia el asfalto.</p>
+<p>En el corazón del pelotón se alineaba la escudería de la <em>Estrella Errante</em>.</p>
+<p>A.Xel ocupaba el asiento delantero de la moto monorrueda de la Casa Zeizerer, con el fusil de precisión anclado al soporte lateral y sus ojos brillando en amatista de combate. A su espalda, aferrada al arnés de sujeción, Triel sostenía una pistola de impacto químico con la mirada fija en las luces del semáforo.</p>
+<p>Justo detrás se encontraba el <em>Rally Jammer</em>. Marloc Boosmar empuñaba el volante con firmeza serena, sintiendo la vibración del motor V8 modificado resonar en su pecho. A su lado en el asiento del copiloto, Benrey se ajustaba las gafas protectoras sobre su sombrero de copa mientras cargaba su pistola sónica. Y en la plataforma trasera, Gerty giraba su colosal cañón de pulso de noventa milímetros con un zumbido ronco de servomotores:</p>
+<p>—<em>Parrilla de salida fijada</em> —informó el meca por el canal de escuadra—. <em>Veintidós vehículos en pista. Ciento catorce armas de fuego operativas apuntando a nuestro cuadrante. Mis probabilidades de disfrute balístico se sitúan en el cien por ciento.</em></p>
+<p>—¡Marloc, no te quedes atrás en la salida! —gritó Triel por la radio mientras el primer arco del semáforo pasaba de rojo a ámbar—. ¡Los mineros van a intentar aplastar a todo el que quede en medio de la primera curva!</p>
+<p>—Tengo las matrices de inyección listas —respondió el tecnomante con voz gélida.</p>
+<p>El semáforo parpadeó. Un destello verde esmeralda encendió la pista.</p>
+<p>Una explosión simultánea de mil motores rugió como un trueno cósmico y el Rally de la Muerte se desató en una tromba de asfalto triturado, humo de neumáticos y metralla.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Colisiones en el bulevar</h3>
+<p>La salida fue una carnicería instantánea.</p>
+<p>El artefacto rodante de los goblins apenas recorrió diez metros antes de que sus propulsores caseros estallaran en una bola de fuego anaranjado que lanzó ruedas y fragmentos de chapa contra las vallas de seguridad. A su lado, un deslizador pirata intentó cortar el paso al púlpito acorazado de Abadar, pero los paladines activaron sus arietes frontales: el bólido corsario fue aplastado contra la fachada de un hotel de lujo en medio de un crujido espantoso de metal retorcido.</p>
+<p>Gonzalo González aceleró en cabeza con una agilidad prodigiosa, esquivando los escombros ardientes con giros milimétricos de su alerón y abriendo una estela de humo blanco a lo largo de la recta principal.</p>
+<p>A.Xel no se quedó atrás. La monorrueda se inclinó casi a ras de suelo en un viraje de sesenta grados, rozando los bordillos de neón mientras Triel disparaba una ráfaga de proyectiles de fósforo blanco contra las ruedas de un buggy enemigo que intentaba embestirlas por el flanco. El neumático rival reventó y el vehículo dio dos vueltas de campana antes de estrellarse contra una fuente holográfica.</p>
+<p>Detrás de ellas, el <em>Rally Jammer</em> avanzaba como una fortaleza sobre ruedas. Un volquete minero de seis ruedas blindadas, con las fauces de un triturador de rocas girando en su frontal, se abalanzó contra el lateral del coche de Marloc para estamparlo contra la pared de un centro comercial.</p>
+<p>—¡Nos van a convertir en puré de rata! —berreó Benrey, asomando el torso por la ventanilla para vaciar su pistola sónica contra la cabina del volquete—. ¡Marloc, haz algo de magia de esa cara tuya!</p>
+<p>Marloc no perdió la compostura. En lugar de esquivar el envite, pisó el acelerador a fondo y giró el volante con violencia hacia el enemigo:</p>
+<p>—¡Prepárate para el impacto, Benrey!</p>
+<p>El blindaje imbuido con la magia del tecnomante chocó de lleno contra el ariete minero. El impacto sonó como la campana de una catedral de hierro. En lugar de ceder, las runas de <em>vector cero</em> grabadas por Marloc brillaron con un fulgor dorado cegador, absorbiendo la energía cinética del choque y rebotándola contra el volquete. El coloso de veinte toneladas fue repelido hacia atrás con una sacudida brutal que partió su eje de transmisión.</p>
+<p>En la plataforma trasera, Gerty no desaprovechó el blanco:</p>
+<p>—<em>Punto débil detectado en el tanque de combustible.</em></p>
+<p>El cañón de pulso rugió tres veces seguidas. Los proyectiles de tungsteno perforaron el depósito del volquete, haciéndolo saltar por los aires en una erupción de fuego que despejó la calzada tras de sí.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La puerta de los motores</h3>
+<p>La recta de los bulevares de neón terminaba abruptamente en una gigantesca compuerta de esclusa que se abría en el suelo de la plaza central. Más allá del umbral no había aceras ni escaparates de lujo: la pista se precipitaba en una caída vertical hacia las profundidades industriales del asteroide.</p>
+<p>—¡Entramos en el sector industrial! —anunció A.Xel por el intercomunicador, enderezando la monorrueda mientras saltaba al vacío del túnel de descenso—. Pendiente del cuarenta por ciento. Múltiples chicanes sin barandilla de contención.</p>
+<p>El aire se volvió repentinamente abrasador. A ambos lados del túnel, inmensas tuberías de vapor sobrecalentado y conductos de refrigerante de plasma silbaban entre las sombras. Las luces estroboscópicas de advertencia teñían la roca viva de un rojo sangriento, mientras el eco de los motores rebotaba en las paredes con la violencia de una avalancha.</p>
+<p>Gonzalo lideraba la carrera a escasos cincuenta metros por delante de A.Xel, pero el piloto humano ya no sonreía con tanta suficiencia: dos buggies ligeros de los Capitanes Libres lo acosaban por ambos flancos, disparando ráfagas continuas de fusiles láser contra sus deflectores traseros.</p>
+<p>Marloc lanzó el <em>Rally Jammer</em> por la rampa de descenso a más de doscientos kilómetros por hora. Sus neumáticos de oruga mordieron el asfalto metálico con un chillido agudo mientras las placas de la suspensión crujían bajo la fuerza inercial.</p>
+<p>—¡Aguantad todos! —gritó el tecnomante, accionando los estabilizadores magnéticos mientras el coche saltaba sobre una hendidura del suelo—. ¡Nos estamos acercando al núcleo de las turbinas!</p>
+<p>Al final del túnel, la penumbra dio paso al resplandor azulado de una colosal caverna donde dos rotores de enfriamiento del tamaño de rascacielos giraban en un abismo sin fondo. La primera vuelta estaba a punto de cobrarse su precio más caro.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 9: El Rally de la Muerte ¡Continúa!</h2>
+<h3 class='subsection-title'>I. El abismo del núcleo</h3>
+<p>El calor que subía desde las profundidades del pozo de los reactores golpeaba los cristales de los vehículos con la fuerza de un soplete industrial. La caverna del núcleo era una garganta titánica excavada en el corazón rocoso del asteroide, atravesada únicamente por una pasarela suspendida de rejilla metálica que se interrumpía abruptamente frente a dos colosales turbinas de enfriamiento de cincuenta metros de diámetro.</p>
+<p>Las aspas de aleación giraban a miles de revoluciones por minuto sobre un abismo de plasma incandescente, dejando apenas un intervalo de dos segundos entre cada pala para que un vehículo pudiera cruzar el vacío en pleno salto.</p>
+<p>En cabeza, Gonzalo González no dudó. Su deslizador blanco alcanzó la rampa de despegue a máxima aceleración, elevándose en una parábola perfecta. La nave cruzó el intersticio entre las palas giratorias en una fracción de segundo y aterrizó con un destello de retrocohetes en la pasarela opuesta.</p>
+<p>A escasos metros detrás, un buggy pirata intentó emular la maniobra, pero el conductor calculó mal el ángulo de aproximación. El bólido rozó el borde de una de las aspas gigantescas: el impacto desintegró el chasis al instante, catapultando los restos envueltos en fuego hacia el río de plasma inferior en medio de una explosión silenciosa y lejana.</p>
+<p>—¡A.Xel, ajusta el sincronizador a trescientos cuarenta kilómetros por hora! —gritó Triel por el intercomunicador, aferrándose con las dos manos a las agarraderas de la monorrueda mientras el velocímetro trepaba en números rojos—. ¡Si entramos medio segundo antes, las aspas nos cortan en rodajas!</p>
+<p>—Cálculo de interceptación completado —respondió la androide con voz imperturbable—. Ángulo de despegue: veintidós grados. Frecuencia de salto sincronizada con la pala número cuatro.</p>
+<p>La monorrueda golpeó la rampa con un chasquido agudo. Durante tres segundos interminables, el mundo dejó de existir: el vehículo flotó en el aire ardiente mientras la silueta colosal del aspa pasaba a escasos diez centímetros de las cabezas de las dos tripulantes. Con un golpe seco que hizo saltar chispas de la suspensión, la rueda aterrizó limpia en la pasarela de salida y continuó devorando metros sin perder un solo ápice de velocidad.</p>
+<p>Detrás de ellas, Marloc Boosmar apretaba los dientes frente al volante del <em>Rally Jammer</em>.</p>
+<p>—¡Marloc, acelera que nos tragan las aspas! —berreaba Benrey con los ojos desorbitados tras las gafas protectoras.</p>
+<p>El tecnomante pisó el pedal a fondo, inyectando un chorro de combustible arcanizado directamente en los cilindros del motor. El buggy rugió con una llamarada violeta saliendo por los tubos de escape, despegó de la rampa con la pesadez de una bala de cañón y cruzó el abismo por el mismo resquicio antes de estampar sus cuatro orugas contra la pista con una sacudida que hizo crujir los amortiguadores hasta el tope de su recorrido.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Trampas de gravedad y cruzados</h3>
+<p>La pasarela del núcleo desembocaba en las antiguas galerías de extracción de mineral, donde los campos de gravedad artificial fluctuaban violentamente debido a la proximidad de los generadores gravitacionales de la estación.</p>
+<p>En esta sección, los sindicatos mineros desataron su arsenal más traicionero. Un volquete oruga que marchaba en cuarta posición disparó un arpón neumático dotado de un cable de gravedad conectiva. El proyectil magnético se clavó en el flanco izquierdo del <em>Rally Jammer</em>, uniendo ambos vehículos en un vínculo de atracción gravitacional forzada que comenzó a arrastrar el coche de Marloc hacia las afiladas paredes de roca viva.</p>
+<p>—¡Nos tienen enganchados con un lazo gravimétrico! —gritó Benrey, disparando ráfagas sónicas contra el cable sin lograr mellar el filamento de grafeno—. ¡Nos van a reventar contra los salientes de mineral!</p>
+<p>Desde la plataforma trasera, Gerty no se inmutó:</p>
+<p>—<em>Iniciando protocolo de desparasitación mecánica.</em></p>
+<p>El dron bípedo alzó su brazo hidráulico inferior, activando la sierra circular de tungsteno que llevaba acoplada en la muñeca. Con un movimiento rápido y preciso, Gerty se inclinó sobre el guardabarros y seccionó el arpón minero de cuajo. La liberación súbita de la tensión cinética hizo que el volquete enemigo perdiera el control, girando sobre sí mismo hasta volcar espectacularmente en medio de una lluvia de chispas.</p>
+<p>Unos metros más adelante, el púlpito acorazado de la Iglesia de Abadar desplegó sus alas neumáticas laterales, transformando su chasis en una configuración semimecánica de asalto pesado. Dos cruzados con alabardas de plasma apostados en la barandilla superior abrieron fuego cruzado contra un deslizador corsario que intentaba adelantarlos, desintegrando sus turbinas y asegurando la tercera posición con implacable fervor religioso.</p>
+<p>Triel, desde la retaguardia de la monorrueda, disparó un bote de compuesto químico corrosivo contra los visores del vehículo cruzado. La nube ácida cubrió los cristales blindados de los paladines, forzándolos a reducir la marcha momentáneamente mientras A.Xel y Marloc aprovechaban el hueco para rebasarlos en plena curva ciega.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El fuego y la resistencia</h3>
+<p>La tensión dentro del habitáculo del <em>Rally Jammer</em> era asfixiante. El calor del motor sobrecalentado inundaba la cabina con vapores de aceite quemado, y las constantes colisiones habían abollado las placas exteriores de blindaje.</p>
+<p>Marloc sentía el brazo cibernético ardiendo por el sobreesfuerzo de canalizar matrices mágicas hacia el sistema de tracción. Por un instante, el rugido de los motores y el olor a combustión le trajeron recuerdos oscuros de la emboscada en la que murió su esposa Ángela: los mismos destellos carmesí, el mismo sabor metálico en la boca, la misma sensación agónica de no tener el control de su propio destino.</p>
+<p>Una gota de sudor frío rodó por la mejilla del tecnomante. Sus dedos titubearon sobre el volante durante una fracción de segundo.</p>
+<p>—¡Marloc! —la voz de Benrey sonó a su lado, desprovista por una vez de cualquier rastro de burla o sarcasmo—. ¡Mírame, viejo amigo! ¡Estamos aquí juntos! ¡No dejes que los fantasmas te quiten el volante!</p>
+<p>Marloc pestañeó, saliendo del trance traumático. Respiró hondo, sacó un pequeño frasco de estimulante de su bolsillo interior y bebió un sorbo amargo que le devolvió la lucidez al instante. Sus ojos recobraron el brillo acerado del profesor que desafía lo desconocido:</p>
+<p>—Gracias, Benrey. No volverá a pasar.</p>
+<p>Frente a ellos, un andamio de mantenimiento derribado por un choque anterior bloqueaba la mitad de la calzada en una maraña de vigas retorcidas y cables colgantes. En lugar de frenar, Marloc activó la matriz de blindaje al máximo de su potencia:</p>
+<p>—¡Gerty, prepara la sobrecarga frontal!</p>
+<p>El meca afianzó sus garras magnéticas mientras el <em>Rally Jammer</em> embestía la barricada a más de ciento ochenta kilómetros por hora. El impacto partió las vigas de acero como si fueran ramas secas, proyectando escombros incandescentes hacia los lados y abriendo una brecha limpia a través de la cual el coche emergió a toda máquina.</p>
+<p>Al final del túnel brillaba una luz blanca y pura: la compuerta de salida hacia la superficie exterior del asteroide. Entraban en la última vuelta, donde el vacío del espacio y la ausencia total de gravedad dictarían quién cruzaría la meta... y quién se quedaría para siempre en el polvo cósmico.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 10: El Rally de la Muerte ¡Última vuelta!</h2>
+<h3 class='subsection-title'>I. Emboscada en la recta</h3>
+<p>Al cruzar la esclusa de despresurización número nueve, el sonido de los motores se apagó de golpe, sumergiendo a los competidores en el silencio absoluto y sobrecogedor del vacío espacial.</p>
+<p>La pista exterior del asteroide no tenía barreras laterales ni cúpulas protectoras: era una franja de asfalto magnetizado de veinte metros de ancho que serpenteaba a lo largo de los riscos exteriores del planetoide. Por encima de sus cabezas se extendía la inmensidad infinita del cosmos, salpicada de estrellas lejanas y nebulosas púrpuras; por debajo, una caída vertical hacia la nada sin gravedad alguna. Únicamente las bandas magnéticas de inducción fijadas a los neumáticos y al patín ventral de los deslizadores evitaban que los vehículos salieran despedidos hacia el abismo.</p>
+<p>En cabeza marchaban únicamente tres máquinas: el bólido blanco de Gonzalo González, la monorrueda de A.Xel y Triel, y el maltrecho <em>Rally Jammer</em> de Marloc, Benrey y Gerty.</p>
+<p>De repente, una lluvia de destellos carmesí iluminó la superficie rocosa. En lo alto de una grúa de carga abandonada sobre la cornisa exterior, tres tiradores apostados con rifles de plasma pesado abrieron fuego contra el pelotón de cabeza. Las apuestas ilegales de los bajos fondos estaban en juego y las mafias del casino no pensaban permitir una victoria de los pilotos novatos.</p>
+<p>Un rayo de plasma impactó en el capó del <em>Rally Jammer</em>, haciendo saltar por los aires una de las planchas de blindaje secundarias. El coche derrapó sobre el raíl magnético, inclinándose sobre el borde del precipicio con dos de sus orugas flotando en el vacío.</p>
+<p>—¡Nos disparan desde la grúa de estribor! —gritó Benrey por el enlace del traje presurizado, mientras se afianzaba al salpicadero con las garras crispadas.</p>
+<p>Gerty no necesitó órdenes. El meca rotó su torreta noventa grados en vertical. Su procesador balístico calculó la parábola en ausencia de resistencia atmosférica y disparó una salva de granadas de concusión de fragmentación pesada.</p>
+<p>Los proyectiles impactaron en la base estructural de la grúa. La estructura de vigas de acero se dobló como cera caliente bajo la detonación, colapsando sobre sí misma y precipitando a los emboscadores hacia el vacío estelar antes de que pudieran recargar sus armas.</p>
+<p>Con un golpe de volante magistral y un chispazo de las orugas magnéticas, Marloc devolvió el buggy al centro de la calzada, manteniendo el acelerador pegado al suelo a pesar del humo que salía de la toma de aire delantera.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Duelo de ases</h3>
+<p>A trescientos metros por delante, la batalla por la primera posición se decidía en un duelo de precisión quirúrgica entre dos formas opuestas de entender la velocidad.</p>
+<p>Gonzalo González pilotaba con una agresividad feroz, aprovechando la aerodinámica de su deslizador para bloquear cualquier intento de adelantamiento en las curvas exteriores. Sus turbinas gemelas dejaban una estela de partículas ionizadas que cegaban los sensores ópticos de la monorrueda.</p>
+<p>—¡No puedo abrir ángulo para el fusil! —gritó Triel a través del comunicador del casco, mientras el viento solar sacudía su arnés de combate—. ¡Nos está cerrando el paso en cada vértice!</p>
+<p>—Maniobra de aproximación en curso —respondió A.Xel. La voz de la androide era una balsa de serenidad en medio del caos ingrávido—. Sus micropropulsores de babor presentan una oscilación térmica del doce por ciento. En la próxima chicane forzará el viraje a estribor para cerrar la cuerda interna.</p>
+<p>—¿Y qué hacemos nosotras?</p>
+<p>—Nosotras no vamos a tomar la curva por el suelo.</p>
+<p>Frente a ellas se alzaba la última horquilla del trazado: una curva cerrada de casi ciento ochenta grados que bordeaba un cráter de impacto antes de encarar la esclusa de reingreso a la cúpula central. Gonzalo inició la frenada magnética, inclinando su alerón para cortar la trayectoria de la monorrueda.</p>
+<p>En ese instante preciso, A.Xel desactivó los electroimanes del tren inferior y encendió los retrocohetes de maniobra lateral a máxima potencia.</p>
+<p>La monorrueda no giró sobre el asfalto: se elevó en el vacío en un salto ingrávido de treinta metros de longitud. Volando literalmente por encima de la carlinga del coche de Gonzalo, la máquina de la Casa Zeizerer trazó una diagonal perfecta a través del espacio abierto del cráter. Gonzalo alzó la vista a través del cuarzo de su cabina con los ojos desorbitados por el asombro al ver la rueda pasar a escasos dos metros sobre su cabeza.</p>
+<p>Triel aprovechó el momento cenital del vuelo para vaciar su pistola de recarga contra el deflector trasero del rival, desestabilizando el flujo de sus turbinas en el momento en que tocaban tierra.</p>
+<p>La monorrueda aterrizó con un chispazo magnético milimétrico en la salida de la curva, tres cuerpos por delante del campeón.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La bandera a cuadros</h3>
+<p>La compuerta blindada de la esclusa número uno se abrió de par en par, tragándose a los bólidos en una vorágine de aire presurizado, calor y el clamor ensordecedor de cincuenta mil gargantas rugiendo en las gradas del bulevar principal.</p>
+<p>La recta final era una alfombra de neón bajo el arco monumental de la meta.</p>
+<p>A.Xel mantenía el puño del acelerador retorcido al máximo, con el motor de la monorrueda aullando en su límite mecánico. Gonzalo González quemaba sus inyectores de reserva en un intento desesperado por acortar la distancia, pero la ventaja era insalvable.</p>
+<p>La monorrueda cruzó la línea de llegada. Una llamarada verde esmeralda y una lluvia de confeti holográfico estallaron en lo alto del arco mientras las sirenas oficiales proclamaban el veredicto definitivo:</p>
+<p>—<em>¡Ganadores del Rally de la Muerte de la temporada: la escudería de la Casa Zeizerer, pilotada por A.Xel 42 y Triel Istrav!</em></p>
+<p>Apenas dos segundos después, el deslizador blanco de Gonzalo cruzaba en segunda posición, derrapando en trompo sobre el asfalto mientras su piloto golpeaba el volante con una mezcla de rabia y admiración no disimulada.</p>
+<p>Y en tercera posición, envuelto en una densa nube de humo negro que brotaba de su motor calcinado, el <em>Rally Jammer</em> de Marloc Boosmar cruzó la meta con sus cuatro orugas tambaleantes, desprendiendo tornillos y con el parabrisas agrietado por decenas de impactos de metralla.</p>
+<p>El coche se detuvo frente al podio central con un último suspiro de vapor hidráulico. Benrey empujó la puerta abollada con una patada, se bajó sobre el asfalto empapado de champán y alzó su sombrero de copa hecho jirones hacia el público en una reverencia triunfal:</p>
+<p>—¡Os dije que los Galway nunca pierden una carrera! ¡Traednos ese trofeo y sacad los créditos de la banca!</p>
+<p>Marloc apoyó la cabeza contra el volante, cerrando los ojos mientras el corazón le latía a un ritmo desbocado. El silencio interior por fin regresaba a su mente. En las gradas, entre el mar de espectadores que vitoreaban a los vencedores, distinguió la figura de Ángela aplaudiendo con lágrimas en los ojos y una sonrisa radiante.</p>
+<p>Habían ganado. La deuda con Kairos estaba saldada y la libertad volvía a pertenecerles.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 11: Tome el Trofeo</h2>
+<h3 class='subsection-title'>I. En el despacho de González</h3>
+<p>El ático de la tercera planta del edificio de administración de carreras respiraba la calma amortiguada que sigue a las grandes batallas. Lejos del fragor de las gradas y el hedor a combustible de los boxes, el despacho privado de Gonzalo González era un templo dedicado a la vanidad de la velocidad.</p>
+<p>Las paredes de madera noble y cristal ahumado estaban repletas de trofeos de aleación dorada, cascos de pilotos legendarios firmados con dedicatorias floridas y fotografías holográficas de podios pasados. En el centro de la estancia, sobre una mesa baja de mármol, descansaba una copa monumental de cristal tallado y titanio dorado de casi un metro de altura: el trofeo oficial del Rally de la Muerte.</p>
+<p>Gonzalo González los recibió descalzo, envuelto en una bata de seda negra con ribetes escarlata y el cabello castaño revuelto por la ducha reciente. Aunque aún lucía un vendaje adhesivo en el pómulo izquierdo por el choque de la última chicane, el piloto exhibía una sonrisa relajada y sincera:</p>
+<p>—Tengo que admitirlo, señorita de hojalata —dijo Gonzalo sirviendo licor espumoso en cinco copas de cristal fino con mano firme—. En diez años corriendo en este pedrusco, jamás había visto a nadie ejecutar un salto balístico sobre mi propia cabina sin romper el tren de aterrizaje. Eso no fue pilotaje; fue un insulto descarado a las leyes de la física.</p>
+<p>—La física es una ecuación maleable cuando se dominan los vectores gravitacionales —respondió A.Xel, aceptando el trofeo con ambas manos metálicas. El peso de la copa resonó levemente contra los servomotores de sus muñecas—. Su aceleración final en la recta fue encomiable, señor González. La probabilidad de que mantuviera el control de sus turbinas era inferior al quince por ciento.</p>
+<p>—¡Ja! Me gusta tentar a la suerte —rió el piloto, entregándole a Marloc un chip de crédito dorado sellado por la comisión del casino—. Cien mil créditos limpios de polvo y paja. Menos la tajada que se quede la señora Zeizerer por las máquinas, tenéis una fortuna suficiente para comprar una fragata nueva. Os habéis ganado cada centavo.</p>
+<p>Benrey se encaramó al brazo de un sillón de cuero, contemplando la copa con ojos brillantes:</p>
+<p>—Voy a poner este trofeo en el comedor de la <em>Estrella Errante</em>. Justo al lado de la cafetera, para que todo el que suba a bordo sepa que viaja con la tripulación más rápida de la galaxia conocida.</p>
+<p>Gonzalo alzó su copa en un brindis silencioso hacia A.Xel:</p>
+<p>—Si alguna vez te cansas de vagabundear con estos chiflados y quieres un copiloto que sepa apreciar la buena vida, mi bólido siempre tendrá un asiento reservado para ti, muñeca.</p>
+<p>—Registraré su propuesta en la papelera de reciclaje de mi banco de memoria —replicó la androide con una leve inclinación de cabeza, arrancando una carcajada general en la sala.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Deudas pagadas y alianzas</h3>
+<p>El descenso al vestíbulo financiero del Gran Casino fue un paseo triunfal.</p>
+<p>Con una sola transferencia autorizada desde el chip de los campeones, la cuenta de la Casa Zeizerer recibió sus treinta mil créditos pactados por el alquiler de los bólidos. Acto seguido, Marloc compareció ante la terminal ejecutiva de Kairos.</p>
+<p>La pantalla parpadeó. La imagen estilizada de la mantis robótica apareció en el centro del holograma, examinando la transferencia de los treinta mil créditos de penalización:</p>
+<p>—<em>Transacción verificada</em> —resonó la voz armónica de la IA en los altavoces privados—. <em>Deuda de los sujetos Benrey Galway y Triel Istrav: cancelada en su totalidad. Registros de infracción purgados del archivo central. La banca de Kairos reconoce la valía del corazón de los vencedores. Tenéis paso libre en todo el asteroide.</em></p>
+<p>Triel soltó un suspiro largo y profundo, sintiendo cómo el peso de una losa invisible se desprendía de sus hombros. En su cuenta operativa aún restaban cuarenta mil créditos libres: una suma colosal con la que podían adquirir bloques de UPBs de grado militar, blindar el casco de la <em>Estrella Errante</em>, renovar los generadores de soporte vital y equiparse con munición de primera para el viaje hacia Nejeor VI.</p>
+<p>Al salir hacia el bulevar central, la tripulación se cruzó con la delegación de la Iglesia de Abadar. Los dos paladines que habían tripulado el púlpito acorazado lucían sus armaduras abolladas y cubiertas de hollín negro, pero sus rostros no reflejaban rencor.</p>
+<p>El líder de los cruzados, un humano de barba gris y ojos cansados, se cuadró militarmente ante Marloc y Triel, apoyando la mano en el pomo de su espada de plasma:</p>
+<p>—Fue una contienda noble en el asfalto, navegantes. En la iglesia respetamos a quienes pagan sus deudas con sudor y coraje antes que con argucias legales. Si vuestro rumbo os lleva hacia el Vasto profundo... tened cuidado. Nuestras fragatas de exploración han detectado perturbaciones graves en las rutas hacia Nejeor. Algo antiguo y terrible se agita en las nubes de gas.</p>
+<p>—Agradecemos la advertencia, paladín —respondió Marloc con sobriedad—. Estaremos preparados.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La sombra en la reja</h3>
+<p>La medianoche artificial había caído sobre el asteroide cuando la tripulación emprendió el regreso hacia los muelles de atraque. Las calles del distrito de ocio comenzaban a vaciarse y los neones parpadeaban en un letargo silencioso.</p>
+<p>Cargados con los repuestos nuevos y las provisiones adquiridas para la nave, el grupo enfiló el largo pasillo de servicio que conectaba los sótanos del casino con el hangar cuarenta y cuatro. Era un corredor angosto de paredes de hormigón reforzado, iluminado únicamente por lámparas halógenas amarillentas que zumbaban con una vibración intermitente.</p>
+<p>De pronto, al llegar al final del corredor, Triel se detuvo.</p>
+<p>La pesada reja de acero que daba acceso directo a los muelles estaba bajada y sellada con un cerrojo magnético de emergencia.</p>
+<p>—Qué raro... —murmuró la muchacha tocando el panel de control con la punta de los dedos—. Esta esclusa siempre permanece abierta para el personal de carga.</p>
+<p>—A menos que alguien haya pagado para que nadie pueda salir a pedir auxilio —dijo una voz suave y cantarina desde la penumbra de un callejón lateral.</p>
+<p>De entre las sombras de unas tuberías de vapor emergió una figura menuda.</p>
+<p>Era Anita.</p>
+<p>La pequeña ysoki ya no vestía su mono de mecánico grasiento ni llevaba la gorra ladeada con aire inocente. Lucía un jubón de cuero negro ceñido con refuerzos de malla balística y un talismán de hueso tallado en forma de calavera de roedor colgando de su cuello. En su mano derecha sostenía una pistola de energía cargada, y en su mirada almibarada ya no quedaba el menor rastro de simpatía; solo una frialdad sanguinaria y burlona.</p>
+<p>Detrás de ella, cortando la retirada hacia el pasillo principal, aparecieron cuatro mercenarios corpulentos armados con martillos de asalto y escopetas de plasma pesado.</p>
+<p>Benrey dio un paso atrás, con las orejas tiesas por la sorpresa:</p>
+<p>—¿Anita? ¿Qué demonios significa esto, chiquilla?</p>
+<p>La ysoki soltó una risita aguda y afilada que resonó en el pasillo cerrado como el crujido de huesos rotos:</p>
+<p>—Significa que sois unos ingenuos insoportables, primor. Teníais que haberos muerto en la pista, aplastados por las turbinas o carbonizados en el núcleo como estaba planeado en el contrato. Pero como sois tan duros de pelar... tendré que hacer el trabajo sucio con mis propias manos.</p>
+<p>Anita alzó su talismán de hueso y sus ojos brillaron con un resplandor negruzco y ponzoñoso:</p>
+<p>—La Madre de las Ratas, la gran Lao Shu Po, demanda vuestra sangre antes de que esa nave vuelva a despegar. Y yo nunca dejo un sacrificio sin cobrar.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 12: Lao Shu Po en el Callejón</h2>
+<h3 class='subsection-title'>I. La devota de la Rata Negra</h3>
+<p>El vapor de las tuberías laterales siseaba en la penumbra del callejón cerrado, arrojando una densa niebla blancuzca que condensaba sobre los muros de hormigón. Cortada la retirada por los cuatro mercenarios y bloqueada la reja hacia los muelles, la tripulación formó un semicírculo defensivo de espaldas a los contenedores de carga.</p>
+<p>Benrey escupió a un lado con desdén, bajando las orejas en un gesto de repugnancia visceral:</p>
+<p>—Lao Shu Po... La diosa de los asesinos, los envenenadores y los traidores de alcantarilla. Debería habérmelo olido desde que te vi esa carita de no haber roto un plato en tu vida, Anita. Todo ese rollo de ser fan de mi primo Rim Rey era una pantomima barata para medirnos las costillas.</p>
+<p>Anita acarició el percutor de su pistola de energía con una sonrisa retorcida:</p>
+<p>—Tu primo era un bocazas engreído, Benrey, pero al menos sabía cuándo agachar la cabeza y pagar el tributo a la oscuridad. Vosotros, en cambio... vais por la galaxia como salvadores justicieros, arruinando los negocios de la Flota de Cadáveres en Eox y desafiando a las familias nobles en Apostae. Hay demasiados contratos sobre vuestras cabezas en el bajo mundo. Y la Rata Negra no rechaza un banquete tan suculento.</p>
+<p>El mercenario más corpulento, un humano con implantes craneales y los brazos hipertrofiados por esteroides sintéticos, dio un paso al frente empuñando un martillo de asalto de dos manos. En la cabeza del arma, dos microturbinas rugieron con un silbido ensordecedor que despidió llamaradas azules:</p>
+<p>—Menos charla, jefa. Vamos a reventar a estos bichos antes de que la seguridad de Kairos se dé cuenta de que cerramos la reja.</p>
+<p>—¡Matadlos a todos! —chilló la ysoki con un alarido histérico—. ¡Dejad solo los chips de identificación para cobrar la recompensa!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Combate en el callejón cerrado</h3>
+<p>El bruto del martillo de turbinas se lanzó a la carga por el centro del pasillo, descargando un golpe demoledor que hendió las losas de hormigón en una explosión de cascotes.</p>
+<p>Benrey no esperó el impacto: con una acrobacia felina impropia de su tamaño, el emisario ejecutó un salto mortal hacia atrás en el aire, esquivando la onda expansiva por escasos centímetros. Apoyó las patas en una tubería superior y disparó su pistola sónica en pleno vuelo, impactando de lleno en el oído biónico del atacante y dejándolo aturdido y tambaleante.</p>
+<p>—¡Gerty, hazle un arreglo dental a ese mastodonte! —gritó Benrey aterrizando ágilmente sobre un contenedor.</p>
+<p>Gerty avanzó con la pesadez implacable de un ariete blindado. Sus cuatro brazos mecánicos atraparon el mango del martillo enemigo en pleno retroceso. Con un zumbido ensordecedor de sus pistones hidráulicos, el dron retorció el arma enemiga como si fuera de alambre dulce y estampó al mercenario de cabeza contra el suelo enrejado con un impacto seco que quebró sus implantes óseos:</p>
+<p>—<em>Fuerza bruta enemiga evaluada en nivel aficionado</em> —dictaminó Gerty con su sintetizador plano—. <em>Procedo a reconfigurar la anatomía del sujeto.</em></p>
+<p>Por el flanco izquierdo, dos tiradores armados con escopetas de plasma intentaron flanquear a Marloc. Pero Triel ya estaba en posición: la joven semi-drow desenfundó su pulverizador de dispersión química y roció el suelo con un torrente de ácido fluorohídrico presurizado. El compuesto formó un charco humeante y efervescente que disolvió las suelas blindadas de los asaltantes en segundos. Los dos mercenarios cayeron de rodillas entre alaridos de dolor, incapacitados para avanzar a través de la brecha cáustica.</p>
+<p>Desde las sombras de una viga superior, A.Xel ejecutó su maniobra con frialdad letal. Su fusil de precisión trazó una línea violeta en la niebla que desarmó al último tirador de un disparo limpio en la muñeca, dejándolo fuera de combate antes de que pudiera apretar el gatillo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El destello de la runa</h3>
+<p>Al ver a sus matones neutralizados en cuestión de segundos, la máscara de burla de Anita se quebró en una mueca de furia desesperada.</p>
+<p>—¡Malditos seáis! —gritó la ysoki, arrojando su pistola vacía y alzando ambas manos hacia el techo.</p>
+<p>Una energía oscura y crepitante brotó de las yemas de sus dedos. Filamentos de electricidad estática negra serpentearon por el suelo metálico, formando una telaraña de sombras que comenzó a trepar por las piernas de Marloc.</p>
+<p>El tecnomante sintió cómo el frío de la magia nigromántica le entumecía los músculos. Por un segundo agónico, su mente volvió a proyectar los recuerdos traumáticos de la muerte de su esposa Ángela: el olor a ozono quemado, las chispas carmesí, la sensación insoportable de impotencia ante la violencia ciega del cosmos.</p>
+<p>«<em>No otra vez</em>», se dijo Marloc apretando los dientes con una rabia sorda que brotó desde lo más profundo de su ser. «<em>No voy a permitir que la oscuridad vuelva a arrebatarme lo que amo.</em>»</p>
+<p>El brazo cibernético del tecnomante brilló con una intensidad sobrehumana. Las runas doradas grabadas en su carne sintética se sobrecargaron en una cascada de luz prismática mientras Marloc canalizaba una descarga pura de magia de <em>vector cero</em>.</p>
+<p>—¡Se acabó el juego, devota de las sombras! —bramó Marloc extendiendo la palma abierta hacia la bruja.</p>
+<p>Un rayo de energía arcana de color blanco puro rasgó el aire del callejón como un trueno concentrado. El impacto golpeó de lleno el escudo protector de Anita, pulverizando su talismán de hueso en mil pedazos y levantando a la ysoki por los aires como una hoja seca en medio de un huracán.</p>
+<p>Anita se estrelló contra la reja metálica del fondo con un golpe sordo, cayendo de rodillas sobre el suelo humeante con el pelaje chamuscado y tosiendo bocanadas de ceniza. Sus ojos, desprovistos de cualquier soberbia, miraron a Marloc con un terror pánico absoluto.</p>
+<p>—Tú... no eres un simple erudito de academia... —balbuceó la muchacha con voz temblorosa mientras se palpaba el pecho herido.</p>
+<p>Triel avanzó hacia ella con la llave de impacto levantada y la mirada sombría:</p>
+<p>—Danos una sola razón para no dejarte aquí atada a la reja para que la seguridad de Kairos te recicle en las calderas.</p>
+<p>Anita no respondió. Con un movimiento desesperado de su pata izquierda, rompió una pequeña esfera de arcilla que llevaba oculta en la costura de su manga. Una densa nube de humo negro como el alquitrán estalló en el callejón, cegando los sensores ópticos de la tripulación y provocando una tos sofocante.</p>
+<p>Cuando A.Xel disipó la humareda con una ráfaga de sus ventiladores ventrales, el callejón estaba desierto. Sobre el suelo solo quedaba un rastro de ceniza y la reja de servicio, cuyos cerrojos habían sido destrozados por la onda de choque mágica de Marloc.</p>
+<p>La huida hacia los muelles estaba abierta, pero el precio del combate se reflejaba en el rostro pálido y las manos temblorosas del tecnomante humano.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 13: Lo Dejaría Todo por que te Quedaras</h2>
+<h3 class='subsection-title'>I. El refugio de Ángela</h3>
+<p>El silencio de la suite del hotel era un bálsamo bendito tras el estruendo de los bólidos y la pólvora del callejón. En el ventanal panorámico, las luces del asteroide comenzaban a apagarse en la cadencia artificial del amanecer, proyectando sombras alargadas sobre la alfombra de felpa.</p>
+<p>Ángela estaba arrodillada frente a Marloc con una toalla húmeda entre las manos, limpiando con delicadeza infinita los restos de hollín y sangre seca que manchaban la sien izquierda del tecnomante. Sus dedos temblaban levemente cada vez que rozaban la unión metálica entre la carne humana y los circuitos del brazo cibernético.</p>
+<p>—Pudiste haber muerto en ese callejón —susurró ella con la voz quebrada por el llanto contenido—. Vi entrar a los guardias con las camillas de los mercenarios... Si ese rayo oscuro te hubiera alcanzado un segundo antes...</p>
+<p>Marloc cerró los ojos, apoyando su mano derecha sobre las de ella para detener el temblor. Su respiración era lenta, pesada, como la de un hombre que ha corrido una maratón a través de un campo de minas:</p>
+<p>—Llevo meses huyendo hacia adelante, Ángela. Desde que desperté en la estación Absalón sin recordar quién era, rodeado de informes sobre la muerte de Marlene... hasta ese foso en Eox donde descubrí que una versión mía del futuro fundó una corporación entera solo para intentar corregir mis fracasos. He combatido contra no-muertos, contra monstruos del Drift y contra asesinos en cada puerto. Y cada vez que salgo ileso de un tiroteo, siento como si una parte de mi alma se quedara atrás, convertida en ceniza fría.</p>
+<p>Ángela alzó la mirada, clavando sus ojos anegados en lágrimas en los del profesor:</p>
+<p>—Nejeor VI es un gigante gaseoso, Marloc. Las transmisiones de los exploradores hablan de tormentas ácidas, ciudades flotantes en ruinas y un horror cósmico capaz de devorar soles enteros. No estás obligado a inmolarte por el universo. Ya has dado más de lo que cualquier hombre debería soportar.</p>
+<p>Marloc contempló su mano biónica. Los filamentos dorados pulsaban con una luz tenue, casi extinta. Por primera vez en muchos años, el tecnomante no sintió el impulso de calcular probabilidades ni de descifrar enigmas temporales. Solo sintió el calor humano de las manos de la mujer que lo amaba:</p>
+<p>—Tengo ahorros suficientes de los premios de la carrera para asegurar un retiro permanente en este enclave —dijo Marloc con un hilo de voz emocionado—. Kairos nos ofrece asilo neutral y una posición como consultor en los archivos de la estación. Podríamos tener un hogar, Ángela. Un hogar de verdad, sin alarmas de abordaje, sin armas bajo la almohada y sin el terror de no despertar al día siguiente.</p>
+<p>Ángela se arrojó a sus brazos, sollozando contra su pecho mientras lo apretaba con una fuerza desesperada:</p>
+<p>—Quédate conmigo, Marloc... Por favor. Te lo ruego. Lo dejaría todo por que te quedaras.</p>
+<p>Marloc enterró el rostro en los cabellos de la mujer, sintiendo cómo una lágrima solitaria rodaba por su mejilla y caía sobre las placas frías de su brazo mecánico.</p>
+<p>—Me quedo —susurró el tecnomante en la penumbra—. Me quedo contigo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La despedida en el hangar</h3>
+<p>El hangar cuarenta y cuatro lucía un aspecto resplandeciente bajo los focos de vapor de sodio. La <em>Estrella Errante</em> reposaba sobre su tren de aterrizaje con el casco completamente reparado, las planchas de blindaje nuevas brillando en azul medianoche y las toberas de maniobra ronroneando con la energía limpia de los inductores recién instalados.</p>
+<p>Al pie de la rampa de acceso, la tripulación aguardaba con sus mochilas de viaje al hombro. Pero cuando la esclusa de pasajeros se abrió, no vieron aparecer a Marloc con su arnés de combate ni con su bastón de asalto.</p>
+<p>El tecnomante vestía un traje civil impecable de corte clásico, sin armas a la vista, y sostenía una pequeña maleta de cuero en la mano derecha. A su lado, con un vestido sencillo y una sonrisa tímida teñida de respeto, caminaba Ángela.</p>
+<p>Triel dio un paso al frente, con los ojos muy abiertos y el rostro repentinamente pálido:</p>
+<p>—Marloc... ¿Dónde está tu equipo de vuelo? Tenemos autorización de despegue en quince minutos.</p>
+<p>Marloc se detuvo frente a la muchacha semi-drow. Durante unos segundos no fue capaz de articular palabra; su mirada recorrió el rostro pecoso y curtido de la joven que había visto crecer desde que era una muchacha asustada huyendo de las intrigas de Apostae hasta convertirse en una mecánica formidable:</p>
+<p>—No voy a subir a la nave, Triel.</p>
+<p>Un silencio sepulcral cayó sobre el hangar, tan denso que solo el zumbido de los reactores de la nave resonaba en la inmensidad del muelle.</p>
+<p>Benrey dejó caer al suelo la caja de provisiones que sostenía entre las garras. Su sombrero de copa se deslizó hacia atrás y sus orejas cayeron completamente gachas, temblando con una angustia que no pudo disimular:</p>
+<p>—¿Qué estás diciendo, viejo amigo? ¿Es una broma por lo del casino? Si es por el dinero, te juro que no vuelvo a tocar una ruleta en mi vida... Nos vamos a Nejeor, Marloc. Somos la tripulación de la <em>Estrella Errante</em>. Nos necesitas para no volverte loco con tus libros, y nosotros te necesitamos para no estrellarnos en el primer asteroide.</p>
+<p>Marloc sonrió con una ternura infinita, acercándose al ysoki para posar su mano enguantada sobre su hombro:</p>
+<p>—Sois la mejor tripulación que un hombre perdido en el tiempo podría desear, Benrey. Me disteis un propósito cuando no sabía ni cómo me llamaba. Pero mi guerra termina aquí. Mi mente y mi cuerpo han llegado al límite de lo que pueden resistir sin quebrarse. He encontrado la paz al lado de Ángela... y si no me aferro a ella ahora, sé que jamás volveré a tener otra oportunidad.</p>
+<p>Triel no pudo contenerse más. Se abalanzó contra el pecho de Marloc, rodeándole el cuello con los brazos mientras las lágrimas empapaban la solapa del abrigo del tecnomante. Su llanto era el de una hija que ve partir a su mayor protector:</p>
+<p>—No puedes dejarnos... ¿Quién me va a regañar cuando sobrecargue los inductores? ¿Quién va a traducir los glifos antiguos cuando encontremos las ruinas de los Kish?</p>
+<p>Marloc le acarició los cabellos níveos con infinita dulzura, desprendiendo de su cinto un datapad dorado sellado con su sello personal para ponerlo entre las manos temblorosas de la joven:</p>
+<p>—Tú misma lo harás, Triel. Ya no eres la aprendiz que recogía chatarra en los muelles de Absalón. Eres la capitana moral de esta nave. En este terminal he volcado todas mis notas sobre la Piedra Corazón, mis fórmulas de <em>vector cero</em> y las cartas estelares hacia Nejeor. Eres más brillante, más audaz y más fuerte de lo que tu madre jamás se atrevió a soñar. Encuentra a tu padre, muchacha. Haz que el nombre de Keiden Ashton brille en las estrellas.</p>
+<p>A.Xel se aproximó con paso ceremonioso. Sus ojos digitales pasaron lentamente del ámbar analítico a un rosado basal suave y cálido. La androide extendió su mano derecha hacia el tecnomante:</p>
+<p>—La ecuación de su partida no responde a parámetros de eficiencia operativa, Marloc Boosmar. Sin embargo, mis procesadores registran una anomalía armónica en mi núcleo central. Los humanos lo llaman duelo. Ha sido un honor presenciar el despertar de su felicidad. Que su algoritmo vital permanezca en paz.</p>
+<p>Gerty bajó sus cuatro brazos hidráulicos hacia el suelo con un chasquido sordo. Su cabeza metálica osciló hacia un lado mientras emitía un pitido quebrado, ronco y extrañamente apesadumbrado por su sintetizador:</p>
+<p>—<em>Registro de tripulación actualizado. Sujeto Marloc Boosmar clasificado en estado de baja definitiva por causas biológicas de afecto. Diagnóstico del sistema: se echará de menos la presencia del usuario.</em></p>
+<p>El grupo se fundió en un abrazo colectivo, cerrado y silencioso, donde las lágrimas de los vivos sellaron el fin de una era en la historia de la nave.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Un nuevo guardián y rumbo al abismo</h3>
+<p>El momento de la despedida fue interrumpido por un eco metálico y rítmico que avanzaba por la pasarela principal del hangar. Eran pisadas pesadas, amortiguadas por el chirrido de orugas mecánicas y el siseo de servos de alta presión.</p>
+<p>De entre las sombras de las grúas de carga emergió una figura formidable.</p>
+<p>Era un enano de hombros colosales y barba trenzada de color hierro, vestido con un traje de combate semimecanizado que parecía una cruza entre una armadura de asedio y un tanque de trinchera móvil. Llevaba una carabina pesada colgada a la espalda, cartucheras de demolición en el pecho y un cigarro sintético apagado entre los dientes. En su hombrera blindada relucía el emblema de los veteranos de la Diáspora.</p>
+<p>El enano se detuvo frente a la rampa de la nave, examinando a la tripulación con una mirada de acero bajo unas cejas pobladas:</p>
+<p>—¿Es esta la famosa <em>Estrella Errante</em>? Me llamo Zivok. El sindicato me informó de que necesitáis un especialista en demoliciones y fuego de cobertura para meteros en la boca del lobo en Nejeor. Me han dicho que vuestro mago se retira a la buena vida. Si no tenéis inconveniente... yo ocuparé su camarote.</p>
+<p>Benrey se secó las lágrimas de los bigotes con la manga de su esmoquin, tragó saliva y alzó la vista hacia el recién llegado con una mueca de resignada valentía:</p>
+<p>—Bueno... al menos este nuevo bicho parece que aguanta mejor los bombazos.</p>
+<p>Marloc y Ángela retrocedieron hacia la barandilla de la plataforma de observación, tomados de la mano. El tecnomante alzó su brazo izquierdo en un último saludo militar hacia la rampa.</p>
+<p>Triel subió los escalones de la nave con el corazón encogido pero la cabeza erguida. Se volvió desde lo alto de la escotilla, miró a Marloc una última vez y accionó el cierre neumático:</p>
+<p>—¡Cerrad esclusas! —ordenó la muchacha por el intercomunicador general, con la voz firme de quien asume su destino—. ¡Encended los motores principales y trazad rumbo hacia las coordenadas de Nejeor VI!</p>
+<p>La compuerta blindada de la <em>Estrella Errante</em> se selló con un golpe definitivo. Los cuatro motores de plasma rugieron en el hangar, expulsando chorros de luz azul que iluminaron el muelle mientras la nave se despegaba de los anclajes y se deslizaba suavemente hacia la esclusa exterior del asteroide.</p>
+<p>Desde el ventanal de la torre, Marloc y Ángela contemplaron la pequeña corbeta cruzar el umbral del vacío, encender sus propulsores de salto y disolverse en un destello cegador de luz violeta mientras se sumergía en el Drift.</p>
+<p>La nave de sus amigos partía hacia la oscuridad del abismo. Pero en el corazón del asteroide de Kairos, un hombre cansado de la guerra por fin había encontrado la luz de un hogar.</p>
+</div>
+
+<div class="glossary-container">
+  <h2 class="chapter-name">Anexo Especial: Dossier de Personajes y Glosario</h2>
+<h3 class='section-title'>Volumen XI · El Rally de la Muerte en el Asteroide-Casino</h3>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>1. El Escenario Principal</h3>
+<ul class='bullet-list'>
+<li><strong>El Asteroide-Casino Kairos:</strong> Antiguo planetoide minero situado en la octava órbita del sistema, excavado y remodelado en una elegante silueta de bumerán. Protegido por cúpulas de contención atmosférica y campos de fuerza contra micrometeoritos, alberga una metrópoli vertical de entretenimiento, apuestas de alto nivel, salas de juego art déco y muelles francos donde confluyen todas las facciones del Vasto.</li>
+<li><strong>El Circuito del Rally de la Muerte:</strong> Trazado de competición extrema de decenas de kilómetros que atraviesa diagonalmente el planetoide. Consta de tres sectores letales:</li>
+</ul>
+<p>1. <em>El Bulevar Central:</em> Rectas de alta velocidad flanqueadas por rascacielos de neón y chicanes cerradas entre el tráfico urbano.</p>
+<p>2. <em>El Núcleo de Reactores:</em> Caverna industrial abrasadora con saltos obligatorios sobre turbinas de enfriamiento gigantescas sobre pozos de plasma.</p>
+<p>3. <em>El Anillo de Vacío Exterior:</em> Tramo perimetral en gravedad cero y despresurización total, donde los bólidos se adhieren al asfalto únicamente mediante raíles de inducción magnética.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>2. Los Protagonistas y su Evolución Emocional</h3>
+<ul class='bullet-list'>
+<li><strong>Marloc Boosmar:</strong> Tecnomante Humano <em>(Jugador: Juan Pablo)</em>. Protagonista del hito emocional culminante del volumen. Agotado física y espiritualmente por las guerras contra la Flota de Cadáveres, el peso de su pasado amnésico y la revelación de Inversiones Estelares, Marloc encuentra en el amor de Ángela una oportunidad genuina de redención. Tras liderar con maestría el blindaje del <em>Rally Jammer</em> y sobrevivir a la emboscada de Lao Shu Po, toma la desgarradora pero madura decisión de abandonar la tripulación activa para radicarse pacíficamente en el asteroide.</li>
+<li><strong>Triel Istrav:</strong> Mecánica Semi-drow <em>(Jugadora: Irene)</em>. Tras encarar el legado de su madre en Apostae, descubre en Kairos una monumental estatua de su padre Keiden Ashton que la inspira a reclamar su propia identidad. Pilota con bravura junto a A.Xel en la monorrueda de asalto, supera sus reticencias para negociar de igual a igual con la nobleza drow de la Casa Zeizerer y asume con lágrimas y entereza la capitanía moral de la nave tras la partida de su mentor Marloc.</li>
+<li><strong>Benrey Galway:</strong> Emisario Ysoki <em>(Jugador: Miguel)</em>. Aporta su inagotable chispa de humor, descaro diplomático y pericia en las apuestas de alto riesgo. Viste un impecable esmoquin esmeralda con sombrero de copa y demuestra su agilidad física con piruetas reflejas en el combate del callejón. Sufre profundamente la despedida de Marloc, a quien consideraba su ancla de cordura.</li>
+<li><strong>A.Xel 42:</strong> Operativa Androide <em>(Jugadora: Sofía)</em>. Muestra una frialdad y maestría técnica excepcionales como piloto de la monorrueda, ejecutando maniobras aerodinámicas y balísticas imposibles en gravedad cero que le otorgan la victoria en el Rally. Experimenta una conmovedora evolución empática al presenciar el amor entre Marloc y Ángela, reconociendo el valor de las decisiones nacidas del corazón.</li>
+<li><strong>Gerty:</strong> Dron de Asalto Pesado <em>(Voz: Roberto)</em>. Reconstruido y optimizado por Triel, actúa como el artillero demoledor de la escudería en la plataforma del <em>Rally Jammer</em>. Sus réplicas cínicas hacia la «fragilidad biológica» se quiebran en un lamento mecánico sincero al despedir a Marloc en el hangar.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>3. Personajes Secundarios y Facciones</h3>
+<ul class='bullet-list'>
+<li><strong>Ángela:</strong> Compañera de viaje y gran amor de Marloc. Tras escapar de los peligros de la guerra, convence al tecnomante de que la verdadera victoria consiste en saber cuándo detenerse para construir una vida en paz. Se convierte en su refugio y esposa en el asteroide Kairos.</li>
+<li><strong>Kairos:</strong> Organismo Sintético Robótico (SRO) milenario pre-Brecha y mente rectora absoluta del asteroide. Se manifiesta a través de un colosal avatar mecánico en forma de mantis religiosa y miles de sensores cuánticos. Gobierna la estación con una filosofía implacable basada en las leyes del cálculo de probabilidades y el respeto hacia aquellos que arriesgan el corazón en la mesa del azar.</li>
+<li><strong>Zivok:</strong> Enano veterano de guerra de los mundos mineros de la Diáspora <em>(Nuevo personaje introducido por Juan Pablo)</em>. Equipado con un exoesqueleto de trinchera fuertemente acorazado y experto en demoliciones pesadas, se une a la tripulación de la <em>Estrella Errante</em> al final del volumen para relevar a Marloc en la peligrosa incursión hacia Nejeor VI.</li>
+<li><strong>Gonzalo González («Speedy»):</strong> Humano, tricampeón y as del volante del sindicato de pilotos del asteroide. Seductor, arrogante y extraordinariamente habilidoso en pista, compite en su bólido blanco de turbinas gemelas. Tras ser derrotado limpiamente por A.Xel, reconoce con nobleza deportiva la victoria de la androide y les entrega el trofeo y la bolsa de cien mil créditos.</li>
+<li><strong>Anita:</strong> Ysoki menuda y de apariencia tierna que opera como mecánica auxiliar en los boxes de mantenimiento. Se revela como una fanática devota y asesina encubierta del culto de <strong>Lao Shu Po</strong> (la diosa de las ratas, el veneno y los traidores), contratada por el bajo mundo para ejecutar a la tripulación. Tras una feroz batalla mágica contra Marloc en el callejón de servicio, escapa herida hacia las sombras.</li>
+<li><strong>Señora de la Casa Zeizerer:</strong> Drow noble exiliada de Apostae que lidera una embajada comercial privada en la Torre Norte. Acepta patrocinar a la tripulación facilitándoles los prototipos de competición a cambio de prestigio deportivo y el 30% del premio.</li>
+<li><strong>Caballeros de Golarion / Iglesia de Abadar:</strong> Delegación religiosa y bancaria presente en el asteroide. Participan en el Rally con un colosal púlpito acorazado con escudos de plasma. Tras la carrera, reconocen el valor de la tripulación y les advierten de antiguos peligros despertando en Nejeor.</li>
+<li><strong>Capitanes Libres:</strong> Corsarios y contrabandistas independientes que controlan varios sectores de atraque y veneran la memoria de Keiden Ashton como pionero de la estación.</li>
+<li><strong>Keiden Ashton:</strong> Humano, padre de Triel y legendario navegante prófugo. Su memoria perdura en Kairos a través de una estatua monumental de bronce con la inscripción «Mi último puerto», confirmando a Triel que su búsqueda no ha sido en vano.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>4. Naves y Vehículos Destacados</h3>
+<ul class='bullet-list'>
+<li><strong>La Estrella Errante:</strong> Corbeta de exploración y hogar de los protagonistas. Reparada y reequipada en los muelles de Kairos gracias a los cuarenta mil créditos netos ganados en la carrera, parte rumbo al gigante gaseoso Nejeor VI.</li>
+<li><strong>Rally Jammer:</strong> Buggy pesado de competición de la Casa Zeizerer, dotado de tracción de orugas independientes y blindaje reforzado con runas de <em>vector cero</em> por Marloc Boosmar. Soporta impactos directos y embestidas de volquetes mineros a lo largo del circuito.</li>
+<li><strong>Moto Monorrueda Zeizerer:</strong> Prototipo aerodinámico monorrueda de alta aceleración tripulado por A.Xel y Triel. Con su suspensión magnética y retrocohetes de maniobra, protagoniza el salto ingrávido que sella la victoria del equipo.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>5. Hitos Canónicos y Decisiones Mandatorias</h3>
+<p>1. <strong>La Despedida de Marloc Boosmar:</strong> Marloc se retira de la vida activa como aventurero en el Episodio 135, quedándose a vivir con Ángela en el asteroide Kairos. Deja todas sus notas arcanas y afecto a Triel, Benrey y A.Xel.</p>
+<p>2. <strong>La Revelación de Keiden Ashton:</strong> Triel descubre que su padre fue una figura honrada por los Capitanes Libres en los confines del espacio, reforzando su determinación de dar con su paradero.</p>
+<p>3. <strong>El Relevo de Zivok:</strong> El enano Zivok se incorpora como nuevo integrante operativo y artillero pesado de la tripulación al cierre del volumen.</p>
+</div>
+
+</body>
+</html>

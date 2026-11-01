@@ -4,38 +4,45 @@
 
 #### Triel Istrav
 * **Especie / Clase:** Semi-drow (*half-drow*) / Mecánica (*Mechanic*)  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11**  
 * **Voz y Actriz:** Irene  
 * **Rasgos físicos:** Diecinueve años, silueta esbelta, piel gris clara con destellos lila, cabellos blancos níveos y ojos carmesíes penetrantes. Viste armadura de segunda piel modificada y chaleco de herramientas con insignias corsarias.  
-* **Evolución y Estado:** En el Vol. 1 llega a Absalón como mecánica civil independiente huyendo de la opresión y xenofobia de su familia drow en Apostae; en el Vol. 2 dota a Gerty de 4 brazos y establece contacto por comunicador con el **Oficial León**, surgiendo entre ambos una química coqueta y cómplice; en el Vol. 3 domina la ingeniería alienígena de la Roca del Drift, rebate las tesis periciales de Kaerom en el juicio, intercambia miradas y un guiño furtivo con León en la judicatura, y confiesa en privado a Marloc que su mayor anhelo es hallar en el Vasto a su padre humano, el pirata de los Capitanes Libres **Keiden Ashton**. En el Vol. 4 mantiene un descarado intercambio de mensajes con León (quien le entrega una ficha cuántica cifrada) y revela formalmente a toda la tripulación su parentesco con Ashton mostrando la esfera ámbar; en el Vol. 5 sobrevive a ser izada por los tentáculos del Oshiga en Ukulam y desactiva el detonador de Avissa en el Templo de los Doce Soles; en el Vol. 6 coordina la recuperación del reactor de *La Furia*, diseña trampas químicas letales contra la Legión del Cielofuego, orquesta con su primo **Bumak Istrav** el asalto a la Torre Prisma, reconforta fraternalmente a A.Xel en su crisis de identidad e instala el procesador militar que despierta a la conciencia viva de la nave, alcanzando el **nivel 6 de maestría**.
+* **Evolución y Estado:** En el Vol. 1 llega a Absalón como mecánica civil independiente huyendo de la opresión y xenofobia de su familia drow en Apostae; en el Vol. 2 dota a Gerty de 4 brazos y establece contacto por comunicador con el **Oficial León**, surgiendo entre ambos una química coqueta y cómplice; en el Vol. 3 domina la ingeniería alienígena de la Roca del Drift, rebate las tesis periciales de Kaerom en el juicio, intercambia miradas y un guiño furtivo con León en la judicatura, y confiesa en privado a Marloc que su mayor anhelo es hallar en el Vasto a su padre humano, el pirata de los Capitanes Libres **Keiden Ashton**. En el Vol. 4 mantiene un descarado intercambio de mensajes con León (quien le entrega una ficha cuántica cifrada) y revela formalmente a toda la tripulación su parentesco con Ashton mostrando la esfera ámbar; en el Vol. 5 sobrevive a ser izada por los tentáculos del Oshiga en Ukulam y desactiva el detonador de Avissa en el Templo de los Doce Soles; en el Vol. 6 coordina la recuperación del reactor de *La Furia*, diseña trampas químicas letales contra la Legión del Cielofuego, orquesta con su primo **Bumak Istrav** el asalto a la Torre Prisma, reconforta fraternalmente a A.Xel en su crisis de identidad e instala el procesador militar que despierta a la conciencia viva de la nave, alcanzando el **nivel 6 de maestría**. En el **Volumen 11**, halla en los muelles de Kairos la estatua en bronce de su padre Keiden Ashton (*«Mi último puerto»*), pacta el patrocinio de los bólidos con la Casa Zeizerer, artilla la moto monorrueda con armas pesadas y salta sobre reactores de plasma en el Rally de la Muerte. Tras vencer y liquidar la deuda con Kairos, recibe en herencia los tomos arcanos de Marloc en su emotiva despedida, asume el timón táctico de la expedición e integra a Zivok como artillero de asedio para el salto hacia Nejeor VI.
 
 #### Gerty
 * **Modelo / Naturaleza:** Meca-dron bípedo pesado de combate y soporte  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11**  
 * **Voz y Actor:** Roberto (Game Master)  
 * **Rasgos físicos:** Dos metros de altura, blindaje reforzado gris marengo, cuatro brazos articulados y cañón láser de alta cadencia.  
-* **Voz y Personalidad:** Cínico, quejumbroso y despectivo hacia la fragilidad biológica («los seres de carne»). Sufre reinicios cómicos en los momentos de mayor tensión. En el Vol. 3 soporta el asalto directo del Garaggakal sin batería; en el Vol. 5 frena la caída de Triel tras el ataque del Oshiga; en el Vol. 6 combate en medio de los rápidos de Ukulam contra el Campin y en la Torre Prisma sostiene un feroz cuerpo a cuerpo contra el autómata de asalto corporativo, quejándose incansablemente de la arena en sus servos y la falta de lubricante premium.
+* **Voz y Personalidad:** Cínico, quejumbroso y despectivo hacia la fragilidad biológica («los seres de carne»). Sufre reinicios cómicos en los momentos de mayor tensión. En el Vol. 3 soporta el asalto directo del Garaggakal sin batería; en el Vol. 5 frena la caída de Triel tras el ataque del Oshiga; en el Vol. 6 combate en medio de los rápidos de Ukulam contra el Campin y en la Torre Prisma sostiene un feroz cuerpo a cuerpo contra el autómata de asalto corporativo. En el **Volumen 11**, salta al vacío en el abordaje del caza corsario, ejerce de copiloto y artillero del buggy *Rally Jammer* junto a Marloc cortando cables de gravedad, repele granadas en el vacío orbital y quiebra las garras de los asesinos de Lao Shu Po en la emboscada del callejón, protestando incansablemente por el polvo de asteroide y la estupidez de las carreras biológicas.
 
 #### Benrey Galway
 * **Especie / Clase:** Ysoki (hombre-rata) / Emisario (*Envoy*)  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11**  
 * **Voz y Actor:** Miguel  
 * **Rasgos físicos:** Menudo (1,35 m), pelaje blanco con antifaz negro natural en torno a los ojos, gabardina repleta de bolsillos con munición, aperitivos y datapads.  
-* **Voz y Personalidad:** Orador brillante, táctico instintivo y comediante involuntario. En el Vol. 3 convierte a la tripulación en ídolos mediáticos en el Muelle 94; en el Vol. 4 desata el motín del Domo Horizonte con su «mosh pit de la rata»; en el Vol. 5 abate a Tahomen con su maniobra de «un paso a la izquierda» en la Cámara de las Estrellas; en el Vol. 6 sufre alucinaciones residuales por las sanguijuelas del río pero salva al equipo negociando una tregua instantánea con el Capitán De Bonet («Ukulam Standoff»), desvía a la Legión del Cielofuego con transmisiones falsas, acorrala en Absalón al impostor Bordin y asume formalmente el liderazgo naval dando la bienvenida a la conciencia viva de la *Estrella Errante*.
+* **Voz y Personalidad:** Orador brillante, táctico instintivo y comediante involuntario. En el Vol. 3 convierte a la tripulación en ídolos mediáticos en el Muelle 94; en el Vol. 4 desata el motín del Domo Horizonte con su «mosh pit de la rata»; en el Vol. 5 abate a Tahomen con su maniobra de «un paso a la izquierda» en la Cámara de las Estrellas; en el Vol. 6 sufre alucinaciones residuales por las sanguijuelas del río pero salva al equipo negociando una tregua instantánea con el Capitán De Bonet («Ukulam Standoff»), desvía a la Legión del Cielofuego con transmisiones falsas, acorrala en Absalón al impostor Bordin y asume formalmente el liderazgo naval dando la bienvenida a la conciencia viva de la *Estrella Errante*. En el **Volumen 11**, deslumbra con esmoquin y chistera en el Gran Casino de Kairos, intenta amañar la ruleta electromagnética, negocia la sanción ante la IA soberana Kairos, coordina el balance financiero reteniendo 40.000 créditos netos para la nave y esquiva con piruetas los dardos envenenados de Anita en el combate del callejón.
 
 #### Marloc Boosmar
 * **Especie / Clase:** Humano / Tecnomante (*Technomancer*)  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11 (retiro canónico)**  
 * **Voz y Actor:** Juan Pablo  
 * **Rasgos físicos:** Treintañero elegante, porte académico, mostacho recortado, capa ceremonial rojo escarlata y brazo cibernético repleto de procesadores arcanos.  
-* **Voz y Personalidad:** Erudito, metódico y analítico. Tras asimilar el duelo por Marlene y confrontar la frialdad de su supuesto padre Ambrose, en el Vol. 5 descifra la tecnología astronómica del Templo de los Doce Soles; en el Vol. 6 despliega fórmulas arcanotécnicas de vanguardia (*Null-Vector Cryo*, *Grease Field Matrix* y *Ghost-Echo Mirage*) para congelar los rápidos de Ukulam salvando a Solstarni, deslizar reactores pesados sobre el lodo y generar ilusiones de escape en la Torre Prisma buscando justicia por Marlene, descifrando la naturaleza biológica del procesador cuántico de la nave.
+* **Voz y Personalidad:** Erudito, metódico y analítico. Tras asimilar el duelo por Marlene y confrontar la frialdad de su supuesto padre Ambrose, en el Vol. 5 descifra la tecnología astronómica del Templo de los Doce Soles; en el Vol. 6 despliega fórmulas arcanotécnicas de vanguardia (*Null-Vector Cryo*, *Grease Field Matrix* y *Ghost-Echo Mirage*) para congelar los rápidos de Ukulam salvando a Solstarni, deslizar reactores pesados sobre el lodo y generar ilusiones de escape en la Torre Prisma buscando justicia por Marlene, descifrando la naturaleza biológica del procesador cuántico de la nave. En el **Volumen 11**, pilota el buggy *Rally Jammer* logrando un blindaje rúnico milagroso de *vector cero* (20 natural) y sube al tercer puesto del podio. En el callejón de talleres, supera sus recuerdos traumáticos y salva al grupo desatando un rayo arcano devastador contra la asesina Anita. Emocionalmente exhausto por las guerras y reconciliado con el amor junto a Ángela, **se retira canónicamente de la tripulación en el Episodio 135**, estableciendo su residencia definitiva en el asteroide Kairos tras ceder sus cuadernos arcanos a Triel y dar su bendición a la nave.
 
 #### A.Xel 42
 * **Especie / Clase:** Androide (serie 42) / Operativa (*Operative*)  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11**  
 * **Voz y Actriz:** Sofía  
 * **Rasgos físicos:** Piel sintética de tono celeste suave (azulado), circuitos bioluminiscentes rosados y ojos digitales multiespectrales (rosado basal, ámbar analítico de telemetría y brillo amatista de alerta táctica). Cabello negro corto rapado en el lateral.  
-* **Voz y Personalidad:** Letal en sigilo, analítica, implacable con armas de fuego y profundamente unida por lazos fraternales a su unidad hermana **Null-9**. En el Vol. 3 abate a Clara-247 y propina el disparo mortal al Garaggakal; en el Vol. 5 afronta los recuerdos reprimidos de su servicio militar en la Unidad 42 y abate al francotirador Salas; en el Vol. 6 sufre una profunda crisis de identidad al descubrir en el Templo de Triuno y la Avenida 41 que su chasis albergó otra alma antes de su renovación espiritual. Apoyada por el afecto incondicional de sus compañeros, supera el trance, abate a la Señorita Joss de un disparo de iones en la Torre Prisma y pilota con maestría el salto al Drift hacia La Diáspora.
+* **Voz y Personalidad:** Letal en sigilo, analítica, implacable con armas de fuego y profundamente unida por lazos fraternales a su unidad hermana **Null-9**. En el Vol. 3 abate a Clara-247 y propina el disparo mortal al Garaggakal; en el Vol. 5 afronta los recuerdos reprimidos de su servicio militar en la Unidad 42 y abate al francotirador Salas; en el Vol. 6 sufre una profunda crisis de identidad al descubrir en el Templo de Triuno y la Avenida 41 que su chasis albergó otra alma antes de su renovación espiritual. Apoyada por el afecto incondicional de sus compañeros, supera el trance, abate a la Señorita Joss de un disparo de iones en la Torre Prisma y pilota con maestría el salto al Drift hacia La Diáspora. En el **Volumen 11**, realiza labores de reconocimiento en el bar de pilotos de Kairos, pilota con reflejos sobrehumanos la moto monorrueda en el Rally de la Muerte y ejecuta un salto acrobático ingrávido sobre la cabina de Gonzalo González en la última curva para cruzar la meta en **primer puesto**, coronándose campeona y asegurando la bolsa de cien mil créditos.
+
+#### Zivok
+* **Especie / Clase:** Enano (*Dwarf*) / Artillero de Asedio y Especialista en Demoliciones (Soldado pesado)  
+* **Aparición en volúmenes:** **Volumen 11 (incorporación canónica en Ep. 135)**  
+* **Voz y Actor:** Juan Pablo (asume el nuevo personaje tras el retiro de Marloc)  
+* **Rasgos físicos:** Enano corpulento de baja estatura pero anchura colosal, barba oscura trenzada con anillas de acero templado, rostro surcado de cicatrices de metralla y ojos de mirada pétrea. Viste una servoarmadura de trinchera móvil reforzada con planchas de blindaje balístico y correas para armamento pesado, morteros y lanzallamas de plasma.  
+* **Voz y Personalidad:** Pragmático, rudo, sobrio y de humor seco. Forjado en los frentes de combate más despiadados de los mundos mineros, valora la potencia de fuego bruta, el mantenimiento estricto de las armas y la lealtad inquebrantable a sus compañeros de pelotón. Se une formalmente a la tripulación de la *Estrella Errante* en las dársenas de Kairos al cierre del Volumen 11 para asumir el rol de artillero pesado en la peligrosa misión hacia el sistema Nejeor.
 
 ---
 
@@ -114,8 +121,8 @@
 #### Keiden Ashton (*El Capitán sin Puerto*)
 * **Especie:** Humano  
 * **Rol:** Corsario legendario de los Capitanes Libres y padre biológico de Triel Istrav  
-* **Aparición en volúmenes:** **Volumen 3 (revelación/lore), Volumen 4 (lore y confirmación de legado), Volumen 6 (referencias corsarias)**  
-* **Descripción:** Mítico capitán forajido desaparecido veintiún años atrás en una anomalía cósmica del Vasto. Su navío lucía el emblema del cuervo y la espada. Triel huyó de Apostae para buscarlo, portando como herencia paterna una esfera de ámbar pulsante vinculada a los secretos de los portales y las superarmas alienígenas.
+* **Aparición en volúmenes:** **Volumen 3 (revelación/lore), Volumen 4 (lore y confirmación de legado), Volumen 6 (referencias corsarias), Volumen 11**  
+* **Descripción:** Mítico capitán forajido desaparecido veintiún años atrás en una anomalía cósmica del Vasto. Su navío lucía el emblema del cuervo y la espada. Triel huyó de Apostae para buscarlo, portando como herencia paterna una esfera de ámbar pulsante vinculada a los secretos de los portales y las superarmas alienígenas. En el **Volumen 11**, se confirma su estatus de leyenda viva y protector de los puertos francos en el asteroide Kairos, donde una imponente estatua de bronce de dos metros y medio erigida en la dársena central lleva grabada su inscripción: *«Mi último puerto — Keiden Ashton»*.
 
 #### Chiskisk
 * **Especie:** Shirren (huésped)  
@@ -143,9 +150,9 @@
 
 #### Ángela Boosmar
 * **Especie:** Humana  
-* **Rol:** Científica, viuda de Marlene Boosmar  
-* **Aparición en volúmenes:** **Volumen 1 (revelación y colapso de Marloc), Volumen 4 (funeral en Absalón)**  
-* **Descripción:** Esposa viuda de Marlene. En el universo original de Marloc, Ángela era su propia esposa y murió en el vacío cuando la esclusa de los astilleros de Verces no abrió; en esta línea temporal sobrevivió y se casó con Marlene, convirtiéndose en el epicentro del trauma y dolor dimensional de Marloc al saber de su existencia en Absalón y reencontrarse con ella durante el funeral en el Jardín de Cenizas.
+* **Rol:** Científica, viuda de Marlene Boosmar y esposa de Marloc Boosmar  
+* **Aparición en volúmenes:** **Volumen 1 (revelación y colapso de Marloc), Volumen 4 (funeral en Absalón), Volumen 11 (retiro junto a Marloc)**  
+* **Descripción:** En el universo original de Marloc, Ángela era su propia esposa y murió en el vacío cuando la esclusa de los astilleros de Verces no abrió; en esta línea temporal sobrevivió y se casó con Marlene, convirtiéndose en el epicentro del trauma y dolor dimensional de Marloc al reencontrarse con ella durante el funeral en el Jardín de Cenizas. En el **Volumen 11**, viaja con la tripulación tras los acontecimientos de Apostae. En el asteroide Kairos consolida su amor correspondido con Marloc, sellando la promesa mutua de dejar atrás el horror de la guerra para iniciar una nueva vida juntos, retirándose permanentemente en el asteroide como pareja civil.
 
 #### Eclair
 * **Especie:** Androide  
@@ -207,6 +214,18 @@
 * **Aparición en volúmenes:** **Volumen 1 (pantallas de atraque), Volumen 2 (colapso público), Volumen 4 (concierto del Domo Horizonte), Volumen 7, Volumen 14**  
 * **Descripción:** Legendario y carismático vocalista de los Mundos del Pacto. Anunciado con llamaradas holográficas en los muelles de Absalón en el Volumen 1 (*Evento Horizonte*), su figura atormentada y sus letras poéticas ocultan un trasfondo de resonancia cósmica. Su multitudinario concierto en el Domo Horizonte (Volumen 4) desata un motín psíquico de masas, y su vínculo con Null-9 y la resistencia androide lo proyecta como un personaje recurrente clave en arcos avanzados de la saga.
 
+#### Kairos (La Entidad del Asteroide)
+* **Especie / Modelo:** SRO (*Sentient Robotic Organism*) milenario pre-Brecha / IA Soberana  
+* **Rol:** Señor y árbitro neutral supremo del Asteroide-Casino Kairos  
+* **Aparición en volúmenes:** **Volumen 11**  
+* **Descripción:** Colosal entidad cibernética con fisionomía de mantis robótica de seis extremidades doradas y placas de bronce pulido, gobernante absoluto del planetoide artificial independiente. Conectado a los procesadores cuánticos de la estación, Kairos mantiene una estricta política de neutralidad y beneficio mercantil. Tras detectar las trampas de Triel y Benrey en la ruleta electromagnética, percibe la resonancia de la Piedra Corazón de Triel y les ofrece conmutar su astronómica deuda de treinta mil créditos si participan y sobreviven en el mortal Rally de la Muerte.
+
+#### Gonzalo González
+* **Especie:** Humana  
+* **Rol:** Piloto profesional, multicampeón defensor del Rally de la Muerte  
+* **Aparición en volúmenes:** **Volumen 11**  
+* **Descripción:** Célebre conductor de carreras de porte atlético, sonrisa deslumbrante y carisma arrollador, ídolo de masas y favorito indiscutible de las apuestas del casino. Aunque cae derrotado en el último segundo por la audacia acrobática de A.Xel y Triel, demuestra ser un deportista de gran honor: invita a los vencedores a su ático de lujo, les hace entrega cordial del trofeo y de la bolsa de cien mil créditos, y brinda con ellos celebrando la mejor carrera de su vida.
+
 ---
 
 ### Antagonistas y Rivales
@@ -264,3 +283,9 @@
 * **Rol:** Capitana Mercenaria del Culto del Devorador  
 * **Aparición en volúmenes:** **Volumen 5**  
 * **Descripción:** Comandante acorazada con ametralladora rotatoria que defendió el atrio del templo e intentó volarlo con explosivos antes de ser neutralizada.
+
+#### Anita (La Sicaria de Lao Shu Po)
+* **Especie:** Ysoki  
+* **Rol:** Falsa mecánica de talleres en el Box 42 / Asesina fanática del Culto de Lao Shu Po  
+* **Aparición en volúmenes:** **Volumen 11**  
+* **Descripción:** Aparece inicialmente bajo la apariencia afable y servicial de una modesta mecánica ysoki con mono de trabajo manchado de lubricante en el Box 42 de Kairos, colaborando en las modificaciones de los vehículos. Tras la victoria en el Rally de la Muerte y el cobro de la recompensa, embosca al equipo en un callejón industrial desierto, revelando su verdadera lealtad a **Lao Shu Po** (la Rata Vieja, deidad patrona de los asesinos, el hampa y las sombras). Experta en combate furtivo y venenos paralizantes, es derrotada por el estallido arcano concentrado de Marloc Boosmar antes de huir gravemente herida hacia el laberinto de túneles del asteroide.

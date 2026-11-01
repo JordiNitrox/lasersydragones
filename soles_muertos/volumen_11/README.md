@@ -3,7 +3,7 @@
 > **Proyecto:** *Lasers y Dragones: La Novela* (Adaptación fan no oficial)  
 > **Fuente de Audio:** Podcast Oficial de Rol en Vivo *Lasers y Dragones*  
 > **Campaña Paizo:** Transición hacia Libro 4 / Aventura Canónica Propia en el Casino  
-> **Estado:** Recursos preparados y estructurados (listo para redacción y adaptación literaria)
+> **Estado:** Completo, maquetado y compilado a PDF editorial (66 páginas, A4)
 
 ---
 
@@ -12,13 +12,14 @@
 * **Título:** *Lasers y Dragones: El Rally de la Muerte*
 * **Subtítulo:** *Volumen XI · El Rally de la Muerte en el Asteroide-Casino*
 * **Episodios Asignados:** Episodios 123 al 135 (13 episodios).
-* **Escenario Principal:** Asteroide-casino en los confines del espacio, arenas de carreras y el vacío estelar.
+* **Escenario Principal:** Asteroide-casino Kairos en los confines del espacio, circuito del Rally de la Muerte y el vacío estelar.
+* **Extensión Final:** 13 Capítulos + Nota Editorial e Introducción + Glosario y Personajes (66 páginas A4, PDF generado en dos pases con LibreOffice).
 
 ---
 
 ## 🌌 Sinopsis del Volumen
 
-Necesitados de créditos y repuestos para reparar la Estrella Errante, los héroes atracan en un asteroide-casino gobernado por mafias y androides de placer. Para saldar cuentas, se inscriben en el letal «Rally de la Muerte»: una despiadada carrera vehicular a través de cinturones de asteroides y campos de plasma donde Marloc asume el mando como piloto estrella, antes de que tensiones personales lo lleven a tomar un receso temporal.
+Necesitados de créditos y repuestos urgentes para reparar la *Estrella Errante*, los héroes atracan en un colosal asteroide-casino gobernado por la milenaria inteligencia sintética Kairos. Tras contraer una deuda imprevista de treinta mil créditos por una partida truncada, la tripulación se inscribe en el letal «Rally de la Muerte»: una despiadada carrera vehicular que atraviesa bulevares de neón, el núcleo de reactores y el vacío exterior en gravedad cero. Patrocinados por la Casa Zeizerer de Apostae y compitiendo contra bólidos de Abadar, piratas y mineros, A.Xel y Triel se alzan con el trofeo mientras Marloc resiste al volante de su buggy blindado. Tras sobrevivir a la traición de la asesina Anita del culto de Lao Shu Po, Marloc toma la trascendental decisión de retirarse para construir una vida de paz y amor junto a Ángela, despidiéndose de sus camaradas antes de que la *Estrella Errante* reciba al enano Zivok y ponga rumbo hacia el gigante gaseoso Nejeor VI.
 
 ---
 
@@ -26,36 +27,39 @@ Necesitados de créditos y repuestos para reparar la Estrella Errante, los héro
 
 ```
 volumen_11/
-├── README.md                              # Ficha técnica y guía del volumen
+├── README.md                                                          # Ficha técnica y guía del volumen
 ├── metadatos/
-│   └── episodios_volumen_11.json     # URLs, enlaces YouTube y sinopsis oficiales
+│   ├── episodios_volumen_11.json                                     # URLs, enlaces YouTube y sinopsis oficiales
+│   └── TRAZABILIDAD_ESCENAS.md                                       # Matriz de correspondencia escena-mesa
 ├── transcripciones/
-│   ├── raw/                               # Archivos .es.vtt originales de YouTube
-│   └── limpias/                           # Transcripciones limpias en texto corrido
+│   ├── raw/                                                           # Archivos .es.vtt originales de YouTube
+│   └── limpias/                                                       # Transcripciones limpias con marcas de tiempo
 └── novela/
-    ├── capitulos/                         # Borradores y capítulos novelados
-    └── GLOSARIO_Y_PERSONAJES.md           # Guía de continuidad, facciones y personajes
+    ├── capitulos/                                                     # Capítulos novelados (00_nota_editorial.md a 13_capitulo...)
+    ├── GLOSARIO_Y_PERSONAJES.md                                       # Guía de continuidad, facciones y personajes
+    ├── generar_libro_pdf.py                                           # Script compilador HTML/CSS a PDF en 2 pases
+    └── Lasers_y_Dragones_Volumen_11_El_Rally_de_la_Muerte.pdf         # Libro final maquetado en A4 (66 páginas)
 ```
 
 ---
 
-## 📋 Lista de Capítulos a Desarrollar
+## 📋 Lista de Capítulos Desarrollados
 
 | Cap | Ep Podcast | Título Episodio | Arco Narrativo |
 | :-: | :---: | :--- | :--- |
-| 01 | 123 | Episodio 123 -  Ahora ves, ahora Na-ves | El Rally de la Muerte en el Asteroide-Casino |
-| 02 | 124 | Episodio 124 -  El Casino al fin del Universo | El Rally de la Muerte en el Asteroide-Casino |
-| 03 | 125 | Episodio 125 -  Juegos de Azar y Robotzuelas | El Rally de la Muerte en el Asteroide-Casino |
-| 04 | 126 | Episodio 126 - La Forma del Corazón | El Rally de la Muerte en el Asteroide-Casino |
-| 05 | 127 | Episodio 127 - Abadarme un Fiestón | El Rally de la Muerte en el Asteroide-Casino |
-| 06 | 128 | Episodio 128 - Cerrando Ciclos | El Rally de la Muerte en el Asteroide-Casino |
-| 07 | 129 | Episodio 129 - Enchúlame la Máquina | El Rally de la Muerte en el Asteroide-Casino |
-| 08 | 130 | Episodio 130 - El Rally de la Muerte ¡Inicia! | El Rally de la Muerte en el Asteroide-Casino |
-| 09 | 131 | Episodio 131 - El Rally de la Muerte ¡Continúa! | El Rally de la Muerte en el Asteroide-Casino |
-| 10 | 132 | Episodio 132 - El Rally de la Muerte ¡Última vuelta! | El Rally de la Muerte en el Asteroide-Casino |
-| 11 | 133 | Episodio 133 - Tome el Trofeo | El Rally de la Muerte en el Asteroide-Casino |
-| 12 | 134 | Episodio 134 - Lao Shu Po en el Callejón | El Rally de la Muerte en el Asteroide-Casino |
-| 13 | 135 | Episodio 135 - Lo Dejaría Todo por que te Quedaras | El Rally de la Muerte en el Asteroide-Casino |
+| 01 | 123 | Episodio 123 - Ahora ves, ahora Na-ves | Fuego cruzado, abordaje en el vacío y purga de registros |
+| 02 | 124 | Episodio 124 - El Casino al fin del Universo | El bumerán de neón, la estatua de Keiden Ashton y promesas |
+| 03 | 125 | Episodio 125 - Juegos de Azar y Robotzuelas | Código de etiqueta, torsos servomotores y la ruleta trucada |
+| 04 | 126 | Episodio 126 - La Forma del Corazón | Infiltración de gala, la mantis Kairos y la deuda de 30.000 créditos |
+| 05 | 127 | Episodio 127 - Abadarme un Fiestón | Banquete en los bajos fondos, usura sagrada y búsqueda de patrocinio |
+| 06 | 128 | Episodio 128 - Cerrando Ciclos | Audiencia con la Casa Zeizerer, pacto drow y el foso de boxes |
+| 07 | 129 | Episodio 129 - Enchúlame la Máquina | Modificaciones mecánicas, la tierna Anita y el as Gonzalo González |
+| 08 | 130 | Episodio 130 - El Rally de la Muerte ¡Inicia! | Semáforo verde, colisiones en el bulevar y la rampa del reactor |
+| 09 | 131 | Episodio 131 - El Rally de la Muerte ¡Continúa! | Salto sobre las turbinas, lazos de gravedad y resistencia al límite |
+| 10 | 132 | Episodio 132 - El Rally de la Muerte ¡Última vuelta! | Emboscada exterior en el vacío, salto ingrávido y victoria |
+| 11 | 133 | Episodio 133 - Tome el Trofeo | La copa de los campeones, deudas liquidadas y la sombra en la reja |
+| 12 | 134 | Episodio 134 - Lao Shu Po en el Callejón | La devota asesina, combate a quemarropa y el relámpago de Marloc |
+| 13 | 135 | Episodio 135 - Lo Dejaría Todo por que te Quedaras | La elección de Ángela, la sentida despedida y la llegada de Zivok |
 
 ---
 

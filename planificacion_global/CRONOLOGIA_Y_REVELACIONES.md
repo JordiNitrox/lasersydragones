@@ -207,6 +207,27 @@ Para cada volumen novelado se definen tres esferas de información:
 
 ---
 
+### Volumen 11: *El Rally de la Muerte en el Asteroide-Casino* (Episodios 123 al 135)
+* **Arco:** Combate en el vacío y abordaje corsario (Ep. 123); llegada al asteroide-casino Kairos y descubrimiento de la estatua de Keiden Ashton (Ep. 124); la ruleta cuántica amañada, sanción de treinta mil créditos y audiencia con el SRO soberano Kairos (Ep. 125-126); patrocinio drow de la Casa Zeizerer y preparación técnica de los bólidos en el Box 42 con la mecánica Anita (Ep. 127-129); el brutal Rally de la Muerte a través de bulevares, reactores y el vacío orbital en gravedad cero (Ep. 130-132); victoria acrobática de A.Xel y podio de Marloc; cobro de los cien mil créditos en el ático de Gonzalo González y cancelación de la deuda (Ep. 133); emboscada y traición de Anita como asesina fanática de Lao Shu Po derrotada por el estallido arcano de Marloc (Ep. 134); y la conmovedora despedida y retiro voluntario de Marloc Boosmar junto a Ángela, con la inmediata incorporación de Zivok como artillero de asedio (Ep. 135).
+* **Conocimiento Inicial de la Tripulación:**
+  * Proceden de Apostae y Thanox, necesitados de fondos y pertrechos para el gran salto a Nejeor VI.
+  * Conocen la verdad del origen mestizo de Triel y la fuga de su padre Keiden Ashton.
+  * Llevan a bordo a Ángela Boosmar como pasajera civil en busca de un destino seguro.
+* **Revelaciones Permitidas en este Volumen:**
+  * **La Estatua de Keiden Ashton en Kairos (Ep. 124):** Confirmación del estatus legendario de Keiden Ashton como prócer corsario en los muelles de Kairos (*«Mi último puerto»*).
+  * **La Resonancia de la Piedra Corazón ante Kairos (Ep. 126):** La IA milenaria percibe las líneas de probabilidad y el vínculo de la gema de Triel con la Brecha.
+  * **La Casa Zeizerer en el Exilio (Ep. 127):** Nobleza drow rival de la Casa Istrav operando como escudería y prestamistas en Kairos.
+  * **El Rally de la Muerte y la Victoria de A.Xel (Ep. 130-132):** Victoria absoluta de la androide en la moto monorrueda sobre el campeón Gonzalo González; proeza de blindaje rúnico de Marloc en el *Rally Jammer*.
+  * **El Culto de Lao Shu Po (Ep. 134):** Revelación de la red criminal de la diosa de las ratas y los asesinos operando en los talleres subterráneos de la estación a través de Anita.
+  * **El Retiro de Marloc Boosmar y la Paz con Ángela (Ep. 135):** Marloc decide no perder su alma en la guerra y rehacer su vida amorosa con Ángela en el asteroide Kairos, legando sus conocimientos arcanos a Triel.
+  * **Llegada del Enano Zivok (Ep. 135):** Incorporación del veterano artillero de trinchera y demoliciones como nuevo combatiente pesado de la *Estrella Errante*.
+* 🚫 **ZONA PROHIBIDA para el Volumen 11:**
+  * **TERMINANTEMENTE PROHIBIDO:** Revelar los detalles de la ciudadela flotante de Istamak, el pueblo Kish o las nubes tóxicas de Nejeor VI antes del Libro 4 (*Las Nubes de Nejeor*, volúmenes 14 y 15).
+  * **PROHIBIDO:** Anticipar el abordaje del crucero eoxiano y el laberinto de los Lovelorn (reservado para los volúmenes 12 y 13).
+  * **PROHIBIDO:** Anticipar el rescate físico de Keiden Ashton en el Maelstrom antes del Volumen 17.
+
+---
+
 ## 3. Protocolo de Verificación Previa para Redactores
 
 Antes de redactar cualquier capítulo:

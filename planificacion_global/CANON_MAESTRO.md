@@ -26,7 +26,7 @@ En la *Nota Editorial e Introducción* de cada volumen, la mesa original debe ac
 - **Roberto:** Game Master / Narrador (y la voz del meca **Gerty**)
 - **Miguel:** Benrey Galway *(Emisario Ysoki)*
 - **Irene:** Triel Istrav *(Mecánica Semi-drow)*
-- **Juan Pablo:** Marloc Boosmar *(Tecnomante Humano)*
+- **Juan Pablo:** Marloc Boosmar *(Tecnomante Humano, Ep. 1–135)* / Zivok *(Artillero de Asedio Enano, Ep. 135+)*
 - **Sofía:** A.Xel 42 *(Operativa Androide)*
 
 > **Regla de estilo:** En los créditos de la mesa de juego deben figurar únicamente los nombres de pila de los jugadores (sin apellidos reales).
@@ -78,6 +78,7 @@ En la *Nota Editorial e Introducción* de cada volumen, la mesa original debe ac
 - **Magia y habilidades:** Fusiona la computación cuántica con la hechicería tradicional: canaliza energía a través de cables de fibra óptica, nanitos y fórmulas matemáticas arcanas (*Null-Vector*, proyectiles mágicos de plasma frío).
 - **Trasfondo personal y miedos:** Atormentado por un despertar amnésico tras tocar una misteriosa esfera rúnica dorada en el aula 17 del Arcanamirium con el barathu Ritchie. Descubre que no figura en ninguna base de datos de Absalón. Chic supone erróneamente que es hermano de la investigadora **Marlene Boosmar** por su apellido y parecido físico, pero en el canon de los audios **en ningún momento se confirma una relación de hermandad directa**, siendo un enigma central de realidades divergentes o secretos de su padre **Ambrose Boosmar**, hacia quien guarda un hondo resentimiento al culparlo de la muerte de su madre.
 - **Duelo y fobias (Episodio 21):** Guarda el dolor de haber perdido a su esposa **Ángela** (su mayor temor personal es revivir esa pérdida); pánico físico y metafísico al planeta viviente **Aucturn**.
+- **Retiro Canónico (Episodio 135 / Volumen 11):** Tras vencer en el Rally de la Muerte en el asteroide Kairos y derrotar a la sicaria de Lao Shu Po, Marloc, exhausto de la violencia bélica y reconciliado con el amor junto a Ángela, decide retirarse voluntaria y pacíficamente de la tripulación en el asteroide Kairos. Dona sus tomos y fórmulas tecnomágicas a Triel y bendice a sus camaradas antes de que la *Estrella Errante* salte al Drift rumbo a Nejeor VI.
 
 #### A.Xel 42 *(Jugadora: Sofía)*
 - **Especie / Clase:** Androide / Operativa (*Operative*).
@@ -88,6 +89,13 @@ En la *Nota Editorial e Introducción* de cada volumen, la mesa original debe ac
   - Voz modulada, serena, analítica hasta el milisegundo.
   - Experimenta su condición de androide consciente con una mezcla de curiosidad distante y perplejidad ante las emociones impulsivas de sus compañeros orgánicos. Devora bocadillos con deleite metódico y evita la palabrería trivial.
   - **Canon de relaciones:** Comprometida fraternalmente con **Null-9** y la emancipación androide. **No tiene ningún romance con el Oficial León** ni con nadie; mantiene un trato puramente profesional o distante con las autoridades.
+- **Proeza en el Rally de la Muerte (Volumen 11):** Pilota con reflejos sobrehumanos la moto monorrueda en el circuito de Kairos, ejecutando un salto acrobático sobre el bólido de Gonzalo González en la última curva para alzarse con la victoria absoluta del campeonato.
+
+#### Zivok *(Jugador: Juan Pablo)*
+- **Especie / Clase:** Enano (*Dwarf*) / Artillero de Asedio y Especialista en Demoliciones (Soldado pesado).
+- **Aparición:** Desde el Episodio 135 (cierre del Volumen 11) en adelante.
+- **Aspecto físico:** Enano macizo de complexión pétrea, rostro curtido y surcado de cicatrices de metralla, y ceño endurecido por el combate en el vacío. Barba oscura trenzada con casquillos y anillas de acero templado. Viste una pesada servoarmadura de trinchera móvil reforzada con planchas balísticas y anclajes magnéticos para morteros, lanzallamas y cañones pesados.
+- **Rasgos psicológicos, voz y estilo:** Rudo, lacónico, pragmático y de humor seco. Curtido en los frentes de choque y trincheras mineras del Vasto, valora la potencia de fuego bruta, el mantenimiento estricto del armamento y la lealtad incondicional al pelotón. Se incorpora formalmente a la tripulación de la *Estrella Errante* en las dársenas de Kairos para relevar a Marloc en la peligrosa incursión hacia el sistema Nejeor.
 
 ---
 
@@ -256,6 +264,24 @@ Conforme la campaña progresa en nuevos episodios y volúmenes, se deben incorpo
   - *Aparición:* Volumen 5 (Ep. 56).
   - *Función:* Custodio milenario con espada solar de plasma inmaterial. Tras un combate sagrado con Marloc y el equipo, reconoce su valor y concluye su vigilia.
 
+#### J. Personajes y Facciones del Asteroide Kairos y el Rally de la Muerte
+- **Kairos (La IA Soberana):**
+  - *Especie / Rol:* SRO (*Sentient Robotic Organism*) milenario pre-Brecha / Soberano de Kairos.
+  - *Aparición:* Volumen 11 (Ep. 124-135).
+  - *Función:* Entidad neutral con porte de mantis de seis extremidades mecánicas y placas de bronce pulido. Gobierna el planetoide artificial independiente. Detecta trampas electromagnéticas, percibe la vibración de la Piedra Corazón de Triel y arbitra el Rally de la Muerte como pago forzoso de deudas.
+- **Gonzalo González:**
+  - *Especie / Rol:* Humano / Piloto campeón del Rally de la Muerte.
+  - *Aparición:* Volumen 11 (Ep. 129-133).
+  - *Función:* Célebre y carismático corredor, favorito del público del casino. Derrotado por A.Xel en la última curva, demuestra gran honor entregando el trofeo y la bolsa de cien mil créditos en su ático privado.
+- **Anita (La Sicaria de Lao Shu Po):**
+  - *Especie / Rol:* Ysoki / Falsa mecánica de talleres en el Box 42 y asesina fanática del Culto de Lao Shu Po.
+  - *Aparición:* Volumen 11 (Ep. 127-134).
+  - *Función:* Camuflada como una modesta mecánica, asiste en los talleres para luego emboscar al grupo en un callejón buscando quedarse con el botín en nombre de la Rata Vieja. Es derrotada por el estallido arcano de Marloc.
+- **Casa Zeizerer (en el Exilio):**
+  - *Especie / Facción:* Drow / Nobleza exiliada de Apostae en la Torre Norte de Kairos.
+  - *Aparición:* Volumen 11 (Ep. 127-133).
+  - *Función:* Escudería de carreras e inversores mercenarios que patrocinan al equipo cediéndoles el *Rally Jammer* y una moto monorrueda a cambio del 30% del premio.
+
 ---
 
 ### 6. Plantilla Estándar para Incorporar Nuevos Personajes
@@ -289,6 +315,8 @@ Mantener actualizado el estado evolutivo de los protagonistas entre volumen y vo
 | **Volumen 7** | *Estrella Errante* (patrulla y combates en La Diáspora) | Complejo minero de Sarcesia / El Espinazo del Diablo / Asteroide Ceres X | Reconocimiento del peligro universal de la *Devoradora de Soles*; revelación de la subrutina holográfica de Éclair; confrontación moral tras la guardería vampírica de la Flota Cadáver; confesión de la piloto Nazira sobre Eox. | Flota de Cadáveres (incursión en La Diáspora); Culto del Devorador; persecución del general corsario Radavox tras la muerte de su hijo Alcon. |
 | **Volumen 8** | *Estrella Errante* (dársena protegida de Orphys, Eox) | Hotel El Espinazo del Diablo (Orphys) / Café Calavera / Arena de Zo! (Sector 27) | Implante del *Ojo de Cuyo* para Benrey; despedida y paz de Marloc con Ángela en la Deriva (promesa de la niña Patria); Triel descubre el prestigio de su abuela Listara Istrav; A.Xel debate sobre el alma sintética con Coin; Benrey rompe con su promotor Marcellus y asume el reto de Gallito Peligro ante las cámaras. | Zo! y su imperio mediático; Gallito Peligro; facción terrorista de la Flota de Cadáveres en Orphys; sicarios Nihili; la Bestia de la Casa Brevak (Golem de Neutrones) y el coloso de la nave de asalto furtiva. |
 | **Volumen 9** | *Estrella Errante* (dársena de Orphys y salto a la Deriva) | Sector 27 (Arena de Zo!) / Matadero de Orphys / Desfiladero de la Necrogarganta | Redención de Gallito Peligro cumpliendo la promesa a Radavox; Triel descifra el anagrama **CLAMOR SAMBOR = MARLOC BOSMAR**; Marloc asume su sacrificio cíclico tras la visión de Ambrose y Chiskisk; Gerty empuña el Martillo de Magma; A.Xel abate al titán Ellicoth; Benrey desenmascara y derrota a Marcellus; recepción de la «Carta de Despido» de Inversiones Estelares S.C. liberando a la tripulación rumbo a Nejeor. | Célula de Marcellus desarticulada en Eox; Flota de Cadáveres (Almirante Vorces) y Culto del Devorador en ruta hacia el gigante gaseoso Nejeor VI y la Puerta del Sistema. |
+| **Volumen 10** | *Estrella Errante* (salto a Apostae) / Naves de transporte drow | Dársenas de Apostae / Mansión de la Casa Istrav (enclave servil) / Estación Thanox | Triel confronta el desprecio de su familia materna drow; duelo a muerte con su hermanastra Jhidel Istrav; huida a Thanox; tasación de la biotecnología pre-Brecha del chasis de A.Xel | Casa Istrav (venganza por la fuga y muerte de sicarios); mercenarios drow de Apostae; alerta de la Flota Cadáver |
+| **Volumen 11** | *Estrella Errante* / Bólido *Rally Jammer* y Moto Monorrueda (Casa Zeizerer) | Asteroide-Casino Kairos (Dársena de Atraque, Box 42, Gran Casino y Ático de Gonzalo González) | Triel contempla la estatua de Keiden Ashton (*«Mi último puerto»*); A.Xel y Triel campeonas del Rally; Marloc y Ángela consolidan su amor y se retiran en Kairos; emotiva despedida fraternal; llegada de Zivok como nuevo artillero de asedio | Deuda de 30.000 cr. saldada ante la IA Kairos; secta sicarial de Lao Shu Po (Anita neutralizada); corredores rivales; rumbo al sistema Nejeor VI |
 
 
 

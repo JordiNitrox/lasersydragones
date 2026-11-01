@@ -151,25 +151,25 @@ CTX_TOC_ITEMS = [
         "id": "sec_1",
         "search_key": "1. Resumen Cronológico de los Volúmenes",
         "title": "1. Resumen Cronológico de los Volúmenes",
-        "sub": "Sinopsis argumental y puntos de giro: Volumen 1 al Volumen 6"
+        "sub": "Sinopsis argumental y puntos de giro: Volúmenes 1 al 6 y Volumen 11"
     },
     {
         "id": "sec_2",
         "search_key": "2. Índice Maestro de Escenarios y Ubicaciones",
         "title": "2. Índice Maestro de Escenarios y Ubicaciones",
-        "sub": "Estación Absalón, Castrovel, Qabarat, Aiakos, Ukulam, La Diáspora y Torre Prisma"
+        "sub": "Estación Absalón, Castrovel, Qabarat, Ukulam, La Diáspora y Asteroide-Casino Kairos"
     },
     {
         "id": "sec_3",
         "search_key": "3. Dossier Maestro de Personajes",
         "title": "3. Dossier Maestro de Personajes",
-        "sub": "Protagonistas (Nivel 6), aliados, secundarios, corsarios y rivales corporativos"
+        "sub": "Protagonistas (retiro de Marloc y llegada de Zivok), aliados, secundarios y rivales"
     },
     {
         "id": "sec_4",
         "search_key": "4. Corporaciones, Facciones e Instituciones",
         "title": "4. Corporaciones, Facciones e Instituciones",
-        "sub": "Inversiones Estelares, Hardscrabble, Protectores, Legión, Capitanes Libres y Culto del Devorador"
+        "sub": "Inversiones Estelares, Hardscrabble, Consorcio de Kairos, Casa Zeizerer y Culto de Lao Shu Po"
     },
     {
         "id": "sec_5",
@@ -181,7 +181,7 @@ CTX_TOC_ITEMS = [
         "id": "sec_6",
         "search_key": "6. Matriz de Continuidad y Estado de la Tripulación",
         "title": "6. Matriz de Continuidad y Estado de la Tripulación",
-        "sub": "Tabla comparativa de naves, armamento, romances y estado activo (Vol. 1 al 6)"
+        "sub": "Tabla comparativa de naves, armamento, romances y estado activo (Vol. 1 al 11)"
     }
 ]
 

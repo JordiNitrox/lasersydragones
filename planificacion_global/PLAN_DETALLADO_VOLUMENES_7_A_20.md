@@ -19,7 +19,7 @@
 | **Volumen 8** | 089 – 098 | Planeta Eox | *Mundos Fragmentados II: El Camino Furibundo* (Reality Show de Zo! y Coliseo) | Recursos en `volumen_8/` |
 | **Volumen 9** | 099 – 110 | Páramos de Eox | *Mundos Fragmentados III: La Necrogarganta* (Dragonkin, Ellicujo y Xerantha) | Recursos en `volumen_9/` |
 | **Volumen 10** | 111 – 122 | Planetoide Apostae | *Lazos de Sangre: La Sombra de Apostae* (Infiltración Drow y Duelo Fratricida) | Recursos en `volumen_10/` |
-| **Volumen 11** | 123 – 135 | Asteroide-Casino | *El Rally de la Muerte* (Apuestas espaciales, carrera en el vacío y Marloc piloto) | Recursos en `volumen_11/` |
+| **Volumen 11** | 123 – 135 | Asteroide-Casino Kairos | *El Rally de la Muerte* (Apuestas, victoria en el Rally, despedida de Marloc y llegada de Zivok) | Completo y maquetado en `volumen_11/` (66 páginas, PDF compilado) |
 | **Volumen 12** | 136 – 147 | Crucero *La Galway* | *La Odisea de La Galway I: El Pecio de la Oscuridad* (Zivok y Abordaje Eoxiano) | Recursos en `volumen_12/` |
 | **Volumen 13** | 148 – 162 | Interior del Pecio Eoxiano | *La Odisea de La Galway II: El Laberinto de los Lovelorn* (Dobles de A.Xel y Huida) | Recursos en `volumen_13/` |
 | **Volumen 14** | 163 – 173 | Nejeor e Istamak | *Las Nubes Arruinadas I: La Ciudadela de Istamak* (Retorno de Marloc y Museo Kish) | Recursos en `volumen_14/` |

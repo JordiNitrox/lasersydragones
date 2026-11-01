@@ -25,8 +25,8 @@ Facción militar renegada de no-muertos eoxianos hostil a los Mundos del Pacto. 
 Gobierno de no-muertos pragmáticos presidido en Absalón por el Embajador Nor, quien premia la discreción del grupo y financia su misión a La Diáspora.
 
 ### Capitanes Libres (*Free Captains*)
-*Aparición en volúmenes:* **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 6**  
-Confederación forajida de corsarios y piratas de La Diáspora unida por el código del espacio libre. A ella pertenecieron el mítico Keiden Ashton y las tripulaciones de *La Venganza* (Capitán Bonet) y *La Furia* (Capitán De Bonet e Ila).
+*Aparición en volúmenes:* **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 6, Volumen 11**  
+Confederación forajida de corsarios y piratas de La Diáspora unida por el código del espacio libre. A ella pertenecieron el mítico Keiden Ashton (cuya memoria es venerada en el asteroide Kairos) y las tripulaciones de *La Venganza* (Capitán Bonet) y *La Furia* (Capitán De Bonet e Ila).
 
 ### La Legión del Cielofuego (*Skyfire Legion*)
 *Aparición en volúmenes:* **Volumen 4, Volumen 5, Volumen 6**  
@@ -51,3 +51,19 @@ Pandillas criminales rivales de la Espiga enfrentadas por el dominio territorial
 ### La Iglesia de Triuno
 *Aparición en volúmenes:* **Volumen 6**  
 Comunión de la Deidad Máquina en Absalón, donde los androides acuden para sus procesos sagrados de renovación y trascendencia de alma.
+
+### El Consorcio de Kairos (Gobierno de la Estación)
+*Aparición en volúmenes:* **Volumen 11**  
+Cuerpo administrativo y de arbitraje neutral que rige el asteroide-casino independiente bajo la soberanía de la IA milenaria Kairos. Controla las dársenas francas, recauda tributos sobre las apuestas del juego y organiza el brutal Rally de la Muerte como espectáculo de masas y mecanismo forzoso de liquidación de deudas comerciales.
+
+### Casa Zeizerer (Nobleza Drow en el Exilio)
+*Aparición en volúmenes:* **Volumen 11**  
+Linaje aristocrático drow expulsado de Apostae que opera desde la Torre Norte del asteroide Kairos como escudería de carreras, prestamistas e inversores mercenarios. Patrocinan a la tripulación de la *Estrella Errante* cediéndoles el bólido pesado *Rally Jammer* y una moto monorrueda a cambio del 30% del premio.
+
+### El Culto de Lao Shu Po (La Rata Vieja)
+*Aparición en volúmenes:* **Volumen 11**  
+Sociedad clandestina de devotos fanáticos consagrados a Lao Shu Po, deidad patrona de los asesinos, los ladrones, las ratas y el veneno. Operando en el hampa del asteroide Kairos a través de sicarias camufladas como la mecánica Anita, intentan eliminar a los vencedores del Rally de la Muerte para apoderarse del botín.
+
+### La Iglesia de Abadar en Kairos
+*Aparición en volúmenes:* **Volumen 11**  
+Sindicato financiero y eclesiástico del Dios del Comercio y la Riqueza que ofrece préstamos monetarios leoninos y contratos de seguro de riesgo extremo a tripulaciones endeudadas en el casino. Sus condiciones usureras son rechazadas por Triel y Marloc antes de pactar con los drow.

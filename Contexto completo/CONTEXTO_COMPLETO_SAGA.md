@@ -126,6 +126,23 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 
 ---
 
+### Volumen 11: El Rally de la Muerte
+*Subtítulo:* **El Rally de la Muerte en el Asteroide-Casino**  
+*Episodios adaptados:* **123 al 135** (Transmisión original: septiembre a diciembre de 2023)  
+*Extensión:* 13 Capítulos + Nota Editorial e Introducción + Glosario y Personajes (66 páginas en PDF)
+
+#### Sinopsis General:
+Tras superar la travesía de Apostae, la tripulación de la *Estrella Errante* (Benrey Galway, Triel Istrav, Marloc Boosmar, A.Xel 42 y Gerty, acompañados por Ángela) navega por sectores no cartografiados necesitada de fondos y reparaciones urgentes:
+1. **Combate y Abordaje en el Vacío (Ep. 123):** Dos interceptores corsarios emboscan la nave. En una audaz maniobra coordinada, Triel, Benrey, Marloc y Gerty saltan al vacío con botas magnéticas y cables de anclaje, abordan el caza líder, neutralizan a los piratas y Marloc purga los registros de navegación mientras extrae coordenadas del legendario asteroide-casino Kairos.
+2. **El Asteroide Kairos y la Estatua de Keiden Ashton (Ep. 124):** El planetoide, tallado en forma de bumerán y gobernado por una IA sintética pre-Brecha, deslumbra con su metrópoli de placer y muelles francos. En la plaza de atraque, Triel halla una colosal estatua de bronce de su padre humano Keiden Ashton (*«Mi último puerto»*), confirmando su legado como pionero corsario. En privado, Marloc y Ángela consolidan su amor y la promesa mutua de buscar un retiro en paz.
+3. **La Deuda de los Treinta Mil Créditos (Ep. 125-126):** Tras equiparse con galas de alta gama en las boutiques de la estación (Benrey luciendo esmoquin y sombrero de copa), Triel y Benrey intentan una jugada amañada en la ruleta cuántica del Gran Casino que es detectada por los torsos servomotores. Conducidos ante Kairos —un colosal SRO milenario con fisionomía de mantis robótica—, la IA les impone una multa de treinta mil créditos, señalando que la Piedra Corazón de Triel atrae las líneas del destino y ofreciéndoles saldar la cuenta compitiendo en el letal **Rally de la Muerte**.
+4. **Patrocinio Drow y Preparación de Máquinas (Ep. 127-129):** Tras rechazar las condiciones usureras de la Iglesia de Abadar, Triel y Marloc negocian en la Torre Norte con la nobleza drow exiliada de la **Casa Zeizerer**, obteniendo acceso al buggy pesado *Rally Jammer* y a una moto monorrueda a cambio del 30% del premio. En los talleres, Marloc logra una obra maestra de blindaje rúnico de *vector cero* (20 natural), Triel artilla la moto y conocen a la tierna mecánica ysoki **Anita**, mientras A.Xel sondea al arrogante campeón **Gonzalo González** en el bar de pilotos.
+5. **El Rally de la Muerte (Ep. 130-132):** Veintidós bólidos artillados arrancan en una salvaje carnicería por los bulevares de neón. En el núcleo de reactores, A.Xel y Triel ejecutan un salto perfecto sobre turbinas gigantes de plasma mientras Marloc resiste embestidas y lazos de gravedad mineros cortados por Gerty. En el tramo perimetral en gravedad cero y vacío exterior, Gerty neutraliza una emboscada con granadas y A.Xel corona la carrera realizando un vuelo ingrávido sobre la carlinga de Gonzalo González, alzándose con el primer puesto del podio mientras Marloc cruza en tercera posición con el motor en llamas.
+6. **El Trofeo, la Traición de Lao Shu Po y la Batalla en el Callejón (Ep. 133-134):** Gonzalo entrega el trofeo y la bolsa de cien mil créditos en su ático; la tripulación salda la deuda de Kairos y retiene cuarenta mil créditos limpios para reequipar la nave. Sin embargo, al regresar a los muelles, son emboscados por Anita, quien revela ser una fanática sicaria del culto de **Lao Shu Po** (la diosa de los asesinos y las ratas) enviada por el bajo mundo para aniquilarlos. En un feroz combate cerrado, Benrey esquiva con piruetas, Triel baña el suelo de ácido, Gerty quiebra las armas enemigas y Marloc supera sus recuerdos traumáticos desatando un rayo arcano devastador que hace huir a la asesina.
+7. **La Elección de Marloc y la Llegada de Zivok (Ep. 135):** Emocionalmente agotado por las guerras y decidido a no perder su humanidad, Marloc confiesa su amor a Ángela y elige retirarse activamente en el asteroide Kairos. Al pie de la *Estrella Errante*, la tripulación comparte una conmovedora despedida entre lágrimas, abrazos y la entrega de las notas mágicas de Marloc a Triel. Antes de cerrar compuertas, se incorpora al equipo el veterano enano **Zivok**, acorazado con un traje de trinchera móvil, para relevar a Marloc como artillero de asedio. La *Estrella Errante* salta al Drift rumbo a Nejeor VI mientras Marloc y Ángela contemplan su partida en paz.
+
+---
+
 ## 2. Índice Maestro de Escenarios y Ubicaciones
 
 ### Estación Absalón
@@ -237,6 +254,25 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 *Aparición en volúmenes:* **Volumen 3 (mención), Volumen 5 (mención), Volumen 6 (rumbo final y base de Marcelus)**  
 *Descripción:* Inmenso cinturón de fragmentos planetarios, bases corsarias y túneles mineros forajidos. Dominio supremo de los Capitanes Libres, enclave clandestino de las células del Culto del Devorador y ubicación de la estación espacial fortificada del verdadero Marcelus.
 
+### Asteroide-Casino Kairos
+*Ubicación geográfica:* Espacio profundo / Rutas no cartografiadas en tránsito hacia el sistema Nejeor  
+*Aparición en volúmenes:* **Volumen 11**  
+*Descripción:* Planetoide artificial e independiente tallado en forma de bumerán, gobernado por la milenaria IA sintética Kairos bajo un estricto principio de neutralidad armada. Exento de los tributos de los Mundos del Pacto, congrega a magnates, piratas, corporaciones y prófugos en un enclave de juego, negocios turbios y carreras de alta velocidad:
+* **Plaza Central de Atraque / Muelles Francos:** Dársenas presurizadas donde atracan naves corsarias, mineras y yates de placer. Escenario de la llegada de la *Estrella Errante* y del monumento de bronce erigido en honor a Keiden Ashton. `[Volumen 11]`
+* **El Gran Casino de Kairos:** Complejo colosal de torres iluminadas por neones verde esmeralda y oro. Alberga ruletas cuánticas de pulso electromagnético, mesas de dados gravitatorios y palcos VIP vigilados por drones ejecutores esféricos. `[Volumen 11]`
+* **La Cámara de la IA (Cámara del Destino):** Cúpula esférica de servidores cristalinos en el núcleo del planetoide donde reside Kairos, la entidad sintética (SRO milenario con porte de mantis mecánica) que arbitra deudas, contratos y el orden civil. `[Volumen 11]`
+* **Torre Norte (Enclave de la Casa Zeizerer):** Bastión diplomático y residencial de la rama exiliada de la nobleza drow de Apostae en Kairos. `[Volumen 11]`
+* **Box 42 y Nivel de Talleres:** Dédalo subterráneo de hangares, fosos de grasa, bancos de soldadura de plasma y repuestos de contrabando donde operaba la mecánica ysoki Anita. `[Volumen 11]`
+* **El Ático de Gonzalo González:** Residencia de lujo en la cúspide de la torre de pilotos, repleta de trofeos de carreras, holo-pantallas de repetición y bodegas de importación selecta. `[Volumen 11]`
+
+### El Circuito del Rally de la Muerte
+*Ubicación geográfica:* Asteroide Kairos (niveles urbanos, núcleo industrial y vacío orbital exterior)  
+*Aparición en volúmenes:* **Volumen 11**  
+*Descripción:* Pista de carreras extrema, armada y sin restricciones legales donde compiten veintidós bólidos artillados:
+* **Bulevares Centrales de Neón:** Rectas kilométricas suspendidas flanqueadas por rascacielos y pantallas de retransmisión masiva. `[Volumen 11]`
+* **El Núcleo de Reactores:** Galerías subterráneas entre generadores de energía, pasarelas estrechas y colosales turbinas de plasma que obligan a maniobras de salto acrobático. `[Volumen 11]`
+* **El Cañón Exterior y Tramo de Vacío Orbital:** Sector perimetral despresurizado en gravedad cero donde los vehículos compiten en el vacío estelar sobre roca irregular, esquivando minas de gravedad y fuego de armas pesadas. `[Volumen 11]`
+
 ---
 
 ## 3. Dossier Maestro de Personajes
@@ -245,38 +281,45 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 
 #### Triel Istrav
 * **Especie / Clase:** Semi-drow (*half-drow*) / Mecánica (*Mechanic*)  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11**  
 * **Voz y Actriz:** Irene  
 * **Rasgos físicos:** Diecinueve años, silueta esbelta, piel gris clara con destellos lila, cabellos blancos níveos y ojos carmesíes penetrantes. Viste armadura de segunda piel modificada y chaleco de herramientas con insignias corsarias.  
-* **Evolución y Estado:** En el Vol. 1 llega a Absalón como mecánica civil independiente huyendo de la opresión y xenofobia de su familia drow en Apostae; en el Vol. 2 dota a Gerty de 4 brazos y establece contacto por comunicador con el **Oficial León**, surgiendo entre ambos una química coqueta y cómplice; en el Vol. 3 domina la ingeniería alienígena de la Roca del Drift, rebate las tesis periciales de Kaerom en el juicio, intercambia miradas y un guiño furtivo con León en la judicatura, y confiesa en privado a Marloc que su mayor anhelo es hallar en el Vasto a su padre humano, el pirata de los Capitanes Libres **Keiden Ashton**. En el Vol. 4 mantiene un descarado intercambio de mensajes con León (quien le entrega una ficha cuántica cifrada) y revela formalmente a toda la tripulación su parentesco con Ashton mostrando la esfera ámbar; en el Vol. 5 sobrevive a ser izada por los tentáculos del Oshiga en Ukulam y desactiva el detonador de Avissa en el Templo de los Doce Soles; en el Vol. 6 coordina la recuperación del reactor de *La Furia*, diseña trampas químicas letales contra la Legión del Cielofuego, orquesta con su primo **Bumak Istrav** el asalto a la Torre Prisma, reconforta fraternalmente a A.Xel en su crisis de identidad e instala el procesador militar que despierta a la conciencia viva de la nave, alcanzando el **nivel 6 de maestría**.
+* **Evolución y Estado:** En el Vol. 1 llega a Absalón como mecánica civil independiente huyendo de la opresión y xenofobia de su familia drow en Apostae; en el Vol. 2 dota a Gerty de 4 brazos y establece contacto por comunicador con el **Oficial León**, surgiendo entre ambos una química coqueta y cómplice; en el Vol. 3 domina la ingeniería alienígena de la Roca del Drift, rebate las tesis periciales de Kaerom en el juicio, intercambia miradas y un guiño furtivo con León en la judicatura, y confiesa en privado a Marloc que su mayor anhelo es hallar en el Vasto a su padre humano, el pirata de los Capitanes Libres **Keiden Ashton**. En el Vol. 4 mantiene un descarado intercambio de mensajes con León (quien le entrega una ficha cuántica cifrada) y revela formalmente a toda la tripulación su parentesco con Ashton mostrando la esfera ámbar; en el Vol. 5 sobrevive a ser izada por los tentáculos del Oshiga en Ukulam y desactiva el detonador de Avissa en el Templo de los Doce Soles; en el Vol. 6 coordina la recuperación del reactor de *La Furia*, diseña trampas químicas letales contra la Legión del Cielofuego, orquesta con su primo **Bumak Istrav** el asalto a la Torre Prisma, reconforta fraternalmente a A.Xel en su crisis de identidad e instala el procesador militar que despierta a la conciencia viva de la nave, alcanzando el **nivel 6 de maestría**. En el **Volumen 11**, halla en los muelles de Kairos la estatua en bronce de su padre Keiden Ashton (*«Mi último puerto»*), pacta el patrocinio de los bólidos con la Casa Zeizerer, artilla la moto monorrueda con armas pesadas y salta sobre reactores de plasma en el Rally de la Muerte. Tras vencer y liquidar la deuda con Kairos, recibe en herencia los tomos arcanos de Marloc en su emotiva despedida, asume el timón táctico de la expedición e integra a Zivok como artillero de asedio para el salto hacia Nejeor VI.
 
 #### Gerty
 * **Modelo / Naturaleza:** Meca-dron bípedo pesado de combate y soporte  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11**  
 * **Voz y Actor:** Roberto (Game Master)  
 * **Rasgos físicos:** Dos metros de altura, blindaje reforzado gris marengo, cuatro brazos articulados y cañón láser de alta cadencia.  
-* **Voz y Personalidad:** Cínico, quejumbroso y despectivo hacia la fragilidad biológica («los seres de carne»). Sufre reinicios cómicos en los momentos de mayor tensión. En el Vol. 3 soporta el asalto directo del Garaggakal sin batería; en el Vol. 5 frena la caída de Triel tras el ataque del Oshiga; en el Vol. 6 combate en medio de los rápidos de Ukulam contra el Campin y en la Torre Prisma sostiene un feroz cuerpo a cuerpo contra el autómata de asalto corporativo, quejándose incansablemente de la arena en sus servos y la falta de lubricante premium.
+* **Voz y Personalidad:** Cínico, quejumbroso y despectivo hacia la fragilidad biológica («los seres de carne»). Sufre reinicios cómicos en los momentos de mayor tensión. En el Vol. 3 soporta el asalto directo del Garaggakal sin batería; en el Vol. 5 frena la caída de Triel tras el ataque del Oshiga; en el Vol. 6 combate en medio de los rápidos de Ukulam contra el Campin y en la Torre Prisma sostiene un feroz cuerpo a cuerpo contra el autómata de asalto corporativo. En el **Volumen 11**, salta al vacío en el abordaje del caza corsario, ejerce de copiloto y artillero del buggy *Rally Jammer* junto a Marloc cortando cables de gravedad, repele granadas en el vacío orbital y quiebra las garras de los asesinos de Lao Shu Po en la emboscada del callejón, protestando incansablemente por el polvo de asteroide y la estupidez de las carreras biológicas.
 
 #### Benrey Galway
 * **Especie / Clase:** Ysoki (hombre-rata) / Emisario (*Envoy*)  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11**  
 * **Voz y Actor:** Miguel  
 * **Rasgos físicos:** Menudo (1,35 m), pelaje blanco con antifaz negro natural en torno a los ojos, gabardina repleta de bolsillos con munición, aperitivos y datapads.  
-* **Voz y Personalidad:** Orador brillante, táctico instintivo y comediante involuntario. En el Vol. 3 convierte a la tripulación en ídolos mediáticos en el Muelle 94; en el Vol. 4 desata el motín del Domo Horizonte con su «mosh pit de la rata»; en el Vol. 5 abate a Tahomen con su maniobra de «un paso a la izquierda» en la Cámara de las Estrellas; en el Vol. 6 sufre alucinaciones residuales por las sanguijuelas del río pero salva al equipo negociando una tregua instantánea con el Capitán De Bonet («Ukulam Standoff»), desvía a la Legión del Cielofuego con transmisiones falsas, acorrala en Absalón al impostor Bordin y asume formalmente el liderazgo naval dando la bienvenida a la conciencia viva de la *Estrella Errante*.
+* **Voz y Personalidad:** Orador brillante, táctico instintivo y comediante involuntario. En el Vol. 3 convierte a la tripulación en ídolos mediáticos en el Muelle 94; en el Vol. 4 desata el motín del Domo Horizonte con su «mosh pit de la rata»; en el Vol. 5 abate a Tahomen con su maniobra de «un paso a la izquierda» en la Cámara de las Estrellas; en el Vol. 6 sufre alucinaciones residuales por las sanguijuelas del río pero salva al equipo negociando una tregua instantánea con el Capitán De Bonet («Ukulam Standoff»), desvía a la Legión del Cielofuego con transmisiones falsas, acorrala en Absalón al impostor Bordin y asume formalmente el liderazgo naval dando la bienvenida a la conciencia viva de la *Estrella Errante*. En el **Volumen 11**, deslumbra con esmoquin y chistera en el Gran Casino de Kairos, intenta amañar la ruleta electromagnética, negocia la sanción ante la IA soberana Kairos, coordina el balance financiero reteniendo 40.000 créditos netos para la nave y esquiva con piruetas los dardos envenenados de Anita en el combate del callejón.
 
 #### Marloc Boosmar
 * **Especie / Clase:** Humano / Tecnomante (*Technomancer*)  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11 (retiro canónico)**  
 * **Voz y Actor:** Juan Pablo  
 * **Rasgos físicos:** Treintañero elegante, porte académico, mostacho recortado, capa ceremonial rojo escarlata y brazo cibernético repleto de procesadores arcanos.  
-* **Voz y Personalidad:** Erudito, metódico y analítico. Tras asimilar el duelo por Marlene y confrontar la frialdad de su supuesto padre Ambrose, en el Vol. 5 descifra la tecnología astronómica del Templo de los Doce Soles; en el Vol. 6 despliega fórmulas arcanotécnicas de vanguardia (*Null-Vector Cryo*, *Grease Field Matrix* y *Ghost-Echo Mirage*) para congelar los rápidos de Ukulam salvando a Solstarni, deslizar reactores pesados sobre el lodo y generar ilusiones de escape en la Torre Prisma buscando justicia por Marlene, descifrando la naturaleza biológica del procesador cuántico de la nave.
+* **Voz y Personalidad:** Erudito, metódico y analítico. Tras asimilar el duelo por Marlene y confrontar la frialdad de su supuesto padre Ambrose, en el Vol. 5 descifra la tecnología astronómica del Templo de los Doce Soles; en el Vol. 6 despliega fórmulas arcanotécnicas de vanguardia (*Null-Vector Cryo*, *Grease Field Matrix* y *Ghost-Echo Mirage*) para congelar los rápidos de Ukulam salvando a Solstarni, deslizar reactores pesados sobre el lodo y generar ilusiones de escape en la Torre Prisma buscando justicia por Marlene, descifrando la naturaleza biológica del procesador cuántico de la nave. En el **Volumen 11**, pilota el buggy *Rally Jammer* logrando un blindaje rúnico milagroso de *vector cero* (20 natural) y sube al tercer puesto del podio. En el callejón de talleres, supera sus recuerdos traumáticos y salva al grupo desatando un rayo arcano devastador contra la asesina Anita. Emocionalmente exhausto por las guerras y reconciliado con el amor junto a Ángela, **se retira canónicamente de la tripulación en el Episodio 135**, estableciendo su residencia definitiva en el asteroide Kairos tras ceder sus cuadernos arcanos a Triel y dar su bendición a la nave.
 
 #### A.Xel 42
 * **Especie / Clase:** Androide (serie 42) / Operativa (*Operative*)  
-* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
+* **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6, Volumen 11**  
 * **Voz y Actriz:** Sofía  
-* **Rasgos físicos:** Piel sintética de tono celeste suave (azulado), circuitos bioluminiscentes rosados y ojos digitales de brillo amatista. Cabello negro corto rapado en el lateral.  
-* **Voz y Personalidad:** Letal en sigilo, analítica, implacable con armas de fuego y profundamente unida por lazos fraternales a su unidad hermana **Null-9**. En el Vol. 3 abate a Clara-247 y propina el disparo mortal al Garaggakal; en el Vol. 5 afronta los recuerdos reprimidos de su servicio militar en la Unidad 42 y abate al francotirador Salas; en el Vol. 6 sufre una profunda crisis de identidad al descubrir en el Templo de Triuno y la Avenida 41 que su chasis albergó otra alma antes de su renovación espiritual. Apoyada por el afecto incondicional de sus compañeros, supera el trance, abate a la Señorita Joss de un disparo de iones en la Torre Prisma y pilota con maestría el salto al Drift hacia La Diáspora.
+* **Rasgos físicos:** Piel sintética de tono celeste suave (azulado), circuitos bioluminiscentes rosados y ojos digitales multiespectrales (rosado basal, ámbar analítico de telemetría y brillo amatista de alerta táctica). Cabello negro corto rapado en el lateral.  
+* **Voz y Personalidad:** Letal en sigilo, analítica, implacable con armas de fuego y profundamente unida por lazos fraternales a su unidad hermana **Null-9**. En el Vol. 3 abate a Clara-247 y propina el disparo mortal al Garaggakal; en el Vol. 5 afronta los recuerdos reprimidos de su servicio militar en la Unidad 42 y abate al francotirador Salas; en el Vol. 6 sufre una profunda crisis de identidad al descubrir en el Templo de Triuno y la Avenida 41 que su chasis albergó otra alma antes de su renovación espiritual. Apoyada por el afecto incondicional de sus compañeros, supera el trance, abate a la Señorita Joss de un disparo de iones en la Torre Prisma y pilota con maestría el salto al Drift hacia La Diáspora. En el **Volumen 11**, realiza labores de reconocimiento en el bar de pilotos de Kairos, pilota con reflejos sobrehumanos la moto monorrueda en el Rally de la Muerte y ejecuta un salto acrobático ingrávido sobre la cabina de Gonzalo González en la última curva para cruzar la meta en **primer puesto**, coronándose campeona y asegurando la bolsa de cien mil créditos.
+
+#### Zivok
+* **Especie / Clase:** Enano (*Dwarf*) / Artillero de Asedio y Especialista en Demoliciones (Soldado pesado)  
+* **Aparición en volúmenes:** **Volumen 11 (incorporación canónica en Ep. 135)**  
+* **Voz y Actor:** Juan Pablo (asume el nuevo personaje tras el retiro de Marloc)  
+* **Rasgos físicos:** Enano corpulento de baja estatura pero anchura colosal, barba oscura trenzada con anillas de acero templado, rostro surcado de cicatrices de metralla y ojos de mirada pétrea. Viste una servoarmadura de trinchera móvil reforzada con planchas de blindaje balístico y correas para armamento pesado, morteros y lanzallamas de plasma.  
+* **Voz y Personalidad:** Pragmático, rudo, sobrio y de humor seco. Forjado en los frentes de combate más despiadados de los mundos mineros, valora la potencia de fuego bruta, el mantenimiento estricto de las armas y la lealtad inquebrantable a sus compañeros de pelotón. Se une formalmente a la tripulación de la *Estrella Errante* en las dársenas de Kairos al cierre del Volumen 11 para asumir el rol de artillero pesado en la peligrosa misión hacia el sistema Nejeor.
 
 ---
 
@@ -330,6 +373,11 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 * **Aparición en volúmenes:** **Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
 * **Descripción:** Rescatados del *Acreon*, se convierten en miembros incondicionales de la tripulación. Willy asiste con explosivos y retoques mecánicos estrafalarios mientras Naru protege las espaldas del pelotón. Son ciudadanos de honor bajo la protección diplomática de Eox.
 
+#### Capitana Elba Sohar y Oficiales del Acreon
+* **Especie / Rol:** Enana / Capitana del carguero minero *Acreon* del Colectivo Hardscrabble  
+* **Aparición en volúmenes:** **Volumen 2 (bitácoras), Volumen 3 (zombi del vacío / homenaje)**  
+* **Descripción:** Valiente líder minera enana de piel oscura casi negra, labios negros y mohawk teñido. Guió a su tripulación en el hallazgo de la Roca del Drift antes de que las crisálidas de akata desataran la pesadilla a bordo. Tras evacuar por los cables junto a la artillera vesk Magot Trask («Mago»), el oficial Orin Thunder y la primera oficial lashunta Arvath, sucumbió a la plaga en la roca, siendo abatida como zombi del vacío frente al portal pre-Brecha. A.Xel rescata sus efectos personales para rendirle honores en Absalón.
+
 #### La Conciencia de la Estrella Errante (*El Fantasma en la Máquina*)
 * **Modelo / Naturaleza:** Conciencia viva digitalizada / IA de grado militar pre-Brecha  
 * **Aparición en volúmenes:** **Volumen 6**  
@@ -350,8 +398,8 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 #### Keiden Ashton (*El Capitán sin Puerto*)
 * **Especie:** Humano  
 * **Rol:** Corsario legendario de los Capitanes Libres y padre biológico de Triel Istrav  
-* **Aparición en volúmenes:** **Volumen 3 (revelación/lore), Volumen 4 (lore y confirmación de legado), Volumen 6 (referencias corsarias)**  
-* **Descripción:** Mítico capitán forajido desaparecido veintiún años atrás en una anomalía cósmica del Vasto. Su navío lucía el emblema del cuervo y la espada. Triel huyó de Apostae para buscarlo, portando como herencia paterna una esfera de ámbar pulsante vinculada a los secretos de los portales y las superarmas alienígenas.
+* **Aparición en volúmenes:** **Volumen 3 (revelación/lore), Volumen 4 (lore y confirmación de legado), Volumen 6 (referencias corsarias), Volumen 11**  
+* **Descripción:** Mítico capitán forajido desaparecido veintiún años atrás en una anomalía cósmica del Vasto. Su navío lucía el emblema del cuervo y la espada. Triel huyó de Apostae para buscarlo, portando como herencia paterna una esfera de ámbar pulsante vinculada a los secretos de los portales y las superarmas alienígenas. En el **Volumen 11**, se confirma su estatus de leyenda viva y protector de los puertos francos en el asteroide Kairos, donde una imponente estatua de bronce de dos metros y medio erigida en la dársena central lleva grabada su inscripción: *«Mi último puerto — Keiden Ashton»*.
 
 #### Chiskisk
 * **Especie:** Shirren (huésped)  
@@ -379,9 +427,9 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 
 #### Ángela Boosmar
 * **Especie:** Humana  
-* **Rol:** Científica, viuda de Marlene Boosmar  
-* **Aparición en volúmenes:** **Volumen 1 (revelación y colapso de Marloc), Volumen 4 (funeral en Absalón)**  
-* **Descripción:** Esposa viuda de Marlene. En el universo original de Marloc, Ángela era su propia esposa y murió en el vacío cuando la esclusa de los astilleros de Verces no abrió; en esta línea temporal sobrevivió y se casó con Marlene, convirtiéndose en el epicentro del trauma y dolor dimensional de Marloc al saber de su existencia en Absalón y reencontrarse con ella durante el funeral en el Jardín de Cenizas.
+* **Rol:** Científica, viuda de Marlene Boosmar y esposa de Marloc Boosmar  
+* **Aparición en volúmenes:** **Volumen 1 (revelación y colapso de Marloc), Volumen 4 (funeral en Absalón), Volumen 11 (retiro junto a Marloc)**  
+* **Descripción:** En el universo original de Marloc, Ángela era su propia esposa y murió en el vacío cuando la esclusa de los astilleros de Verces no abrió; en esta línea temporal sobrevivió y se casó con Marlene, convirtiéndose en el epicentro del trauma y dolor dimensional de Marloc al reencontrarse con ella durante el funeral en el Jardín de Cenizas. En el **Volumen 11**, viaja con la tripulación tras los acontecimientos de Apostae. En el asteroide Kairos consolida su amor correspondido con Marloc, sellando la promesa mutua de dejar atrás el horror de la guerra para iniciar una nueva vida juntos, retirándose permanentemente en el asteroide como pareja civil.
 
 #### Eclair
 * **Especie:** Androide  
@@ -443,6 +491,18 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 * **Aparición en volúmenes:** **Volumen 1 (pantallas de atraque), Volumen 2 (colapso público), Volumen 4 (concierto del Domo Horizonte), Volumen 7, Volumen 14**  
 * **Descripción:** Legendario y carismático vocalista de los Mundos del Pacto. Anunciado con llamaradas holográficas en los muelles de Absalón en el Volumen 1 (*Evento Horizonte*), su figura atormentada y sus letras poéticas ocultan un trasfondo de resonancia cósmica. Su multitudinario concierto en el Domo Horizonte (Volumen 4) desata un motín psíquico de masas, y su vínculo con Null-9 y la resistencia androide lo proyecta como un personaje recurrente clave en arcos avanzados de la saga.
 
+#### Kairos (La Entidad del Asteroide)
+* **Especie / Modelo:** SRO (*Sentient Robotic Organism*) milenario pre-Brecha / IA Soberana  
+* **Rol:** Señor y árbitro neutral supremo del Asteroide-Casino Kairos  
+* **Aparición en volúmenes:** **Volumen 11**  
+* **Descripción:** Colosal entidad cibernética con fisionomía de mantis robótica de seis extremidades doradas y placas de bronce pulido, gobernante absoluto del planetoide artificial independiente. Conectado a los procesadores cuánticos de la estación, Kairos mantiene una estricta política de neutralidad y beneficio mercantil. Tras detectar las trampas de Triel y Benrey en la ruleta electromagnética, percibe la resonancia de la Piedra Corazón de Triel y les ofrece conmutar su astronómica deuda de treinta mil créditos si participan y sobreviven en el mortal Rally de la Muerte.
+
+#### Gonzalo González
+* **Especie:** Humana  
+* **Rol:** Piloto profesional, multicampeón defensor del Rally de la Muerte  
+* **Aparición en volúmenes:** **Volumen 11**  
+* **Descripción:** Célebre conductor de carreras de porte atlético, sonrisa deslumbrante y carisma arrollador, ídolo de masas y favorito indiscutible de las apuestas del casino. Aunque cae derrotado en el último segundo por la audacia acrobática de A.Xel y Triel, demuestra ser un deportista de gran honor: invita a los vencedores a su ático de lujo, les hace entrega cordial del trofeo y de la bolsa de cien mil créditos, y brinda con ellos celebrando la mejor carrera de su vida.
+
 ---
 
 ### Antagonistas y Rivales
@@ -501,6 +561,12 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 * **Aparición en volúmenes:** **Volumen 5**  
 * **Descripción:** Comandante acorazada con ametralladora rotatoria que defendió el atrio del templo e intentó volarlo con explosivos antes de ser neutralizada.
 
+#### Anita (La Sicaria de Lao Shu Po)
+* **Especie:** Ysoki  
+* **Rol:** Falsa mecánica de talleres en el Box 42 / Asesina fanática del Culto de Lao Shu Po  
+* **Aparición en volúmenes:** **Volumen 11**  
+* **Descripción:** Aparece inicialmente bajo la apariencia afable y servicial de una modesta mecánica ysoki con mono de trabajo manchado de lubricante en el Box 42 de Kairos, colaborando en las modificaciones de los vehículos. Tras la victoria en el Rally de la Muerte y el cobro de la recompensa, embosca al equipo en un callejón industrial desierto, revelando su verdadera lealtad a **Lao Shu Po** (la Rata Vieja, deidad patrona de los asesinos, el hampa y las sombras). Experta en combate furtivo y venenos paralizantes, es derrotada por el estallido arcano concentrado de Marloc Boosmar antes de huir gravemente herida hacia el laberinto de túneles del asteroide.
+
 ---
 
 ## 4. Corporaciones, Facciones e Instituciones
@@ -530,8 +596,8 @@ Facción militar renegada de no-muertos eoxianos hostil a los Mundos del Pacto. 
 Gobierno de no-muertos pragmáticos presidido en Absalón por el Embajador Nor, quien premia la discreción del grupo y financia su misión a La Diáspora.
 
 ### Capitanes Libres (*Free Captains*)
-*Aparición en volúmenes:* **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 6**  
-Confederación forajida de corsarios y piratas de La Diáspora unida por el código del espacio libre. A ella pertenecieron el mítico Keiden Ashton y las tripulaciones de *La Venganza* (Capitán Bonet) y *La Furia* (Capitán De Bonet e Ila).
+*Aparición en volúmenes:* **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 6, Volumen 11**  
+Confederación forajida de corsarios y piratas de La Diáspora unida por el código del espacio libre. A ella pertenecieron el mítico Keiden Ashton (cuya memoria es venerada en el asteroide Kairos) y las tripulaciones de *La Venganza* (Capitán Bonet) y *La Furia* (Capitán De Bonet e Ila).
 
 ### La Legión del Cielofuego (*Skyfire Legion*)
 *Aparición en volúmenes:* **Volumen 4, Volumen 5, Volumen 6**  
@@ -556,6 +622,22 @@ Pandillas criminales rivales de la Espiga enfrentadas por el dominio territorial
 ### La Iglesia de Triuno
 *Aparición en volúmenes:* **Volumen 6**  
 Comunión de la Deidad Máquina en Absalón, donde los androides acuden para sus procesos sagrados de renovación y trascendencia de alma.
+
+### El Consorcio de Kairos (Gobierno de la Estación)
+*Aparición en volúmenes:* **Volumen 11**  
+Cuerpo administrativo y de arbitraje neutral que rige el asteroide-casino independiente bajo la soberanía de la IA milenaria Kairos. Controla las dársenas francas, recauda tributos sobre las apuestas del juego y organiza el brutal Rally de la Muerte como espectáculo de masas y mecanismo forzoso de liquidación de deudas comerciales.
+
+### Casa Zeizerer (Nobleza Drow en el Exilio)
+*Aparición en volúmenes:* **Volumen 11**  
+Linaje aristocrático drow expulsado de Apostae que opera desde la Torre Norte del asteroide Kairos como escudería de carreras, prestamistas e inversores mercenarios. Patrocinan a la tripulación de la *Estrella Errante* cediéndoles el bólido pesado *Rally Jammer* y una moto monorrueda a cambio del 30% del premio.
+
+### El Culto de Lao Shu Po (La Rata Vieja)
+*Aparición en volúmenes:* **Volumen 11**  
+Sociedad clandestina de devotos fanáticos consagrados a Lao Shu Po, deidad patrona de los asesinos, los ladrones, las ratas y el veneno. Operando en el hampa del asteroide Kairos a través de sicarias camufladas como la mecánica Anita, intentan eliminar a los vencedores del Rally de la Muerte para apoderarse del botín.
+
+### La Iglesia de Abadar en Kairos
+*Aparición en volúmenes:* **Volumen 11**  
+Sindicato financiero y eclesiástico del Dios del Comercio y la Riqueza que ofrece préstamos monetarios leoninos y contratos de seguro de riesgo extremo a tripulaciones endeudadas en el casino. Sus condiciones usureras son rechazadas por Triel y Marloc antes de pactar con los drow.
 
 ---
 
@@ -601,15 +683,15 @@ Constructos bípedos blindados de grado militar desplegados en la Torre Prisma d
 
 ## 6. Matriz de Continuidad y Estado de la Tripulación
 
-| Parámetro | Volumen 1 (*Sombras sobre Absalón*) | Volumen 2 (*El Misterio del Acreon*) | Volumen 3 (*La Roca del Drift*) | Volumen 4 (*Las Torres de Qabarat*) | Volumen 5 (*El Templo de los Doce Soles*) | Volumen 6 (*El Fantasma en la Máquina*) |
-|---|---|---|---|---|---|---|
-| **Naves Activas** | Ninguna (tránsito en motoneta y muelles de carga) | **Hippocampus** (*El Caballito de Mar*) | **Estrella Errante** (*Vagabond*) y **Hippocampus** | **Estrella Errante** (órbita de Castrovel) / Compacto de alquiler de Sophie | **Estrella Errante** (órbita de Castrovel, lista para salto a La Diáspora) | **Estrella Errante** (dotada de procesador militar cuántico y conciencia viva) / *La Furia* (aliada) |
-| **Cuartel / Base** | Monobloques del Anillo / Hotel *Las Lunas* | A bordo del *Hippocampus* | Muelle 94 / Sede Inversiones Estelares / Terraza *Las Lunas* | Campus Universidad de Qabarat / Puesto de Turhalu (Ukulam) | Vivac de campaña en Ukulam / Templo de los Doce Soles | Café *Las Lunas* / Muelle 22 / A bordo de la *Estrella Errante* en el Drift |
-| **Armamento de Gerty** | Cañón láser frontal, dos brazos pesados (calcomanías sonrientes) | Cuatro brazos (añadidos manipuladores finos) | Cuatro brazos reforzados + cañón láser pesado | Cuatro brazos pesados + pica de choque y cañón láser | Cuatro brazos reforzados + pica de alta frecuencia, ametralladora pesada y escudos | Cuatro brazos pesados + pica de choque cuántica, ametralladora rotatoria y servos optimizados |
-| **Aliados a Bordo** | Ninguno (solo los 4 fundadores + Gerty) | Se unen los goblins **Willy** y **Naru** | Willy y Naru (ciudadanos de honor y protegidos de Eox) | Willy y Naru (en órbita); Sophie Ren (Qabarat); Dr. Kaeral (Turhalu) | Willy y Naru (en órbita); **Doctora Omejia Solstarni** (rescatada); Dr. Kaeral | Willy y Naru; **La Conciencia de la Nave**; Bumak Istrav (enlace en Absalón); Capitán De Bonet e Ila |
-| **Contactos / Red** | **Null-9**, **Eclair**, Chic, Rim Rey, Sal, Marcelo, Chiskisk, Thalud | Rim Rey, Embajador Nor, Keltus, Capitán Otal Seris | **Null-9** (red androide), Rim Rey, Embajador Nor, Chiskisk | **Null-9**, Oficial León (enlace con Triel), Decana Muhali, Casonas y Thiable | **Null-9**, Decana Muhali, claustro de la Universidad de Qabarat | **Bumak Istrav** (Casa Istrav), Embajador Gevalarsk Nor, Cheesecake, Capitán De Bonet, Templo de Triuno |
-| **Vínculos Afectivos** | Cohesión del cuarteto; quiebre de Marloc ante la viuda Ángela; amistad Triel-Gerty; A.Xel y Eclair; pasado de Benrey | Coqueteo y química por comunicador entre **Triel Istrav** y el **Oficial León** | Complicidad y guiños entre **Triel** y el **Oficial León** en el arbitraje; A.Xel reflexiona sobre los suyos con Null-9 | Triel y León intercambian mensajes cifrados y token cuántico; Triel revela ser hija de Keiden Ashton | Triel supera trauma de Oshiga; Benrey reconciliado con su pasado; A.Xel asume Unidad 42 | A.Xel asimila la verdad de su chasis previo; Triel reconectada con su primo Bumak; Benrey asume el mando como capitán ante la conciencia viva de la nave |
-| **Facciones Rivales** | Reyes del Nivel 21 (neutralizados), sicario humano Kallio (bajo enlace drow), Extracciones Estelares | Extracciones Estelares (vía Srta. Joss / George) | Extracciones Estelares (derrotada) y **Flota de los Cuerpos** | Legión del Fuego en el Cielo, mercenarios de Eroopa Cual y el cazador Salas | **Culto del Devorador** (célula de Castrovel destruida: Tahomen, Salas y Avissa muertos) | **Extracciones Astrales** (Señorita Joss neutralizada; archivos expuestos) y Legión del Cielofuego (burlada) |
-| **Pactos Secretos** | Contrato con Chiskisk en nombre del ausente Clamor Sambor | Sarcófago funerario de Eox asegurado en secreto con Nor y Keltus | Sarcófago entregado al Embajador Nor; recompensa cobrada | Contrato con la Decana Muhali (2.500 cr.); salvoconducto corsario de *La Venganza* | Rescate de Solstarni cumplido; telemetría del Devastador Estelar recuperada | Alianza encubierta con Embajador Nor (fondos y salvoconducto); pacto de sangre con Bumak Istrav |
-| **Misterio Cósmico** | Asesinato de Marlene Boosmar; enigma de parentesco y esfera rúnica | Anomalía dimensional de la Roca del Drift; enigma del colapso de Syd Velch | Revelación de la baliza hacia el **Degenerador Estelar** | Relación de la esfera con Aucturn, portales de Aiakos y Dinastía Osuwak | Confirmado: la Roca del Drift es la llave de control; coordenadas apuntan a **La Diáspora** | El alma previa de A.Xel en la Avenida 41; el traslado de conciencia en la nave; Marcelus oculto en el asteroide de La Diáspora |
-| **Posición Actual** | Terraza del Ojo de Absalón (irrupción del dron policial de arresto) | Umbral exterior de la Roca del Drift | Héroes aclamados en Absalón listos para viajar al Vasto | Internándose en la selva prohibida de Ukulam hacia la Cordillera Cantante | Retornando de Ukulam a la *Estrella Errante* para zarpar rumbo a La Diáspora | Navegando por el Drift a bordo de la *Estrella Errante* con rumbo fijo al cinturón de La Diáspora |
+| Parámetro | Volumen 1 (*Sombras sobre Absalón*) | Volumen 2 (*El Misterio del Acreon*) | Volumen 3 (*La Roca del Drift*) | Volumen 4 (*Las Torres de Qabarat*) | Volumen 5 (*El Templo de los Doce Soles*) | Volumen 6 (*El Fantasma en la Máquina*) | Volumen 11 (*El Rally de la Muerte*) |
+|---|---|---|---|---|---|---|---|
+| **Naves Activas** | Ninguna (tránsito en motoneta y muelles de carga) | **Hippocampus** (*El Caballito de Mar*) | **Estrella Errante** (*Vagabond*) y **Hippocampus** | **Estrella Errante** (órbita de Castrovel) / Compacto de alquiler de Sophie | **Estrella Errante** (órbita de Castrovel, lista para salto a La Diáspora) | **Estrella Errante** (dotada de procesador militar cuántico y conciencia viva) / *La Furia* (aliada) | **Estrella Errante** (*Wandering Star*) / Bólido pesado *Rally Jammer* y Moto Monorrueda (Casa Zeizerer) |
+| **Cuartel / Base** | Monobloques del Anillo / Hotel *Las Lunas* | A bordo del *Hippocampus* | Muelle 94 / Sede Inversiones Estelares / Terraza *Las Lunas* | Campus Universidad de Qabarat / Puesto de Turhalu (Ukulam) | Vivac de campaña en Ukulam / Templo de los Doce Soles | Café *Las Lunas* / Muelle 22 / A bordo de la *Estrella Errante* en el Drift | Asteroide-Casino Kairos (Dársena Central, Box 42 de talleres, Gran Casino y Ático de Gonzalo) |
+| **Armamento de Gerty** | Cañón láser frontal, dos brazos pesados (calcomanías sonrientes) | Cuatro brazos (añadidos manipuladores finos) | Cuatro brazos reforzados + cañón láser pesado | Cuatro brazos pesados + pica de choque y cañón láser | Cuatro brazos reforzados + pica de alta frecuencia, ametralladora pesada y escudos | Cuatro brazos pesados + pica de choque cuántica, ametralladora rotatoria y servos optimizados | Cuatro brazos pesados reforzados con pica cuántica, cizallas gravitatorias, ametralladora rotatoria y blindaje rúnico de vector cero |
+| **Aliados a Bordo** | Ninguno (solo los 4 fundadores + Gerty) | Se unen los goblins **Willy** y **Naru** | Willy y Naru (ciudadanos de honor y protegidos de Eox) | Willy y Naru (en órbita); Sophie Ren (Qabarat); Dr. Kaeral (Turhalu) | Willy y Naru (en órbita); **Doctora Omejia Solstarni** (rescatada); Dr. Kaeral | Willy y Naru; **La Conciencia de la Nave**; Bumak Istrav (enlace en Absalón); Capitán De Bonet e Ila | Willy y Naru; Conciencia de la Nave; **Ángela Boosmar** (hasta Ep. 135); **Zivok** (artillero de asedio incorporado en Ep. 135); Gonzalo González (aliado de honor) |
+| **Contactos / Red** | **Null-9**, **Eclair**, Chic, Rim Rey, Sal, Marcelo, Chiskisk, Thalud | Rim Rey, Embajador Nor, Keltus, Capitán Otal Seris | **Null-9** (red androide), Rim Rey, Embajador Nor, Chiskisk | **Null-9**, Oficial León (enlace con Triel), Decana Muhali, Casonas y Thiable | **Null-9**, Decana Muhali, claustro de la Universidad de Qabarat | **Bumak Istrav** (Casa Istrav), Embajador Gevalarsk Nor, Cheesecake, Capitán De Bonet, Templo de Triuno | IA Soberana **Kairos**, Casa Zeizerer en el exilio, Gonzalo González, memoria corsaria de Keiden Ashton |
+| **Vínculos Afectivos** | Cohesión del cuarteto; quiebre de Marloc ante la viuda Ángela; amistad Triel-Gerty; A.Xel y Eclair; pasado de Benrey | Coqueteo y química por comunicador entre **Triel Istrav** y el **Oficial León** | Complicidad y guiños entre **Triel** y el **Oficial León** en el arbitraje; A.Xel reflexiona sobre los suyos con Null-9 | Triel y León intercambian mensajes cifrados y token cuántico; Triel revela ser hija de Keiden Ashton | Triel supera trauma de Oshiga; Benrey reconciliado con su pasado; A.Xel asume Unidad 42 | A.Xel asimila la verdad de su chasis previo; Triel reconectada con su primo Bumak; Benrey asume el mando como capitán ante la conciencia viva de la nave | **Marloc y Ángela** sellan su amor y se retiran juntos en Kairos; emotiva despedida fraternal; Triel asume las notas de Marloc; A.Xel aclamada campeona |
+| **Facciones Rivales** | Reyes del Nivel 21 (neutralizados), sicario humano Kallio (bajo enlace drow), Extracciones Estelares | Extracciones Estelares (vía Srta. Joss / George) | Extracciones Estelares (derrotada) y **Flota de los Cuerpos** | Legión del Fuego en el Cielo, mercenarios de Eroopa Cual y el cazador Salas | **Culto del Devorador** (célula de Castrovel destruida: Tahomen, Salas y Avissa muertos) | **Extracciones Astrales** (Señorita Joss neutralizada; archivos expuestos) y Legión del Cielofuego (burlada) | Célula sicarial del **Culto de Lao Shu Po** (Anita neutralizada); competidores rivales del Rally de la Muerte; prestamistas leoninos de Abadar |
+| **Pactos Secretos** | Contrato con Chiskisk en nombre del ausente Clamor Sambor | Sarcófago funerario de Eox asegurado en secreto con Nor y Keltus | Sarcófago entregado al Embajador Nor; recompensa cobrada | Contrato con la Decana Muhali (2.500 cr.); salvoconducto corsario de *La Venganza* | Rescate de Solstarni cumplido; telemetría del Devastador Estelar recuperada | Alianza encubierta con Embajador Nor (fondos y salvoconducto); pacto de sangre con Bumak Istrav | Deuda de 30.000 cr. saldada ante la IA Kairos; acuerdo del 30% del botín con Casa Zeizerer; ganancia neta de 40.000 cr. para reequipar la nave |
+| **Misterio Cósmico** | Asesinato de Marlene Boosmar; enigma de parentesco y esfera rúnica | Anomalía dimensional de la Roca del Drift; enigma del colapso de Syd Velch | Revelación de la baliza hacia el **Degenerador Estelar** | Relación de la esfera con Aucturn, portales de Aiakos y Dinastía Osuwak | Confirmado: la Roca del Drift es la llave de control; coordenadas apuntan a **La Diáspora** | El alma previa de A.Xel en la Avenida 41; el traslado de conciencia en la nave; Marcelus oculto en el asteroide de La Diáspora | La Piedra Corazón de Triel resuena con la IA Kairos; confirmación de la leyenda de Keiden Ashton (*«Mi último puerto»*); coordenadas del salto a Nejeor VI |
+| **Posición Actual** | Terraza del Ojo de Absalón (irrupción del dron policial de arresto) | Umbral exterior de la Roca del Drift | Héroes aclamados en Absalón listos para viajar al Vasto | Internándose en la selva prohibida de Ukulam hacia la Cordillera Cantante | Retornando de Ukulam a la *Estrella Errante* para zarpar rumbo a La Diáspora | Navegando por el Drift a bordo de la *Estrella Errante* con rumbo fijo al cinturón de La Diáspora | Salto hiperespacial al Drift a bordo de la *Estrella Errante* (con Zivok integrado y Marloc retirado) con rumbo fijado a las lunas de Nejeor VI |

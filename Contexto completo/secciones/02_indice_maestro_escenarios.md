@@ -108,3 +108,22 @@
 *Ubicación geográfica:* Cinturón de asteroides entre Verces y Eox  
 *Aparición en volúmenes:* **Volumen 3 (mención), Volumen 5 (mención), Volumen 6 (rumbo final y base de Marcelus)**  
 *Descripción:* Inmenso cinturón de fragmentos planetarios, bases corsarias y túneles mineros forajidos. Dominio supremo de los Capitanes Libres, enclave clandestino de las células del Culto del Devorador y ubicación de la estación espacial fortificada del verdadero Marcelus.
+
+### Asteroide-Casino Kairos
+*Ubicación geográfica:* Espacio profundo / Rutas no cartografiadas en tránsito hacia el sistema Nejeor  
+*Aparición en volúmenes:* **Volumen 11**  
+*Descripción:* Planetoide artificial e independiente tallado en forma de bumerán, gobernado por la milenaria IA sintética Kairos bajo un estricto principio de neutralidad armada. Exento de los tributos de los Mundos del Pacto, congrega a magnates, piratas, corporaciones y prófugos en un enclave de juego, negocios turbios y carreras de alta velocidad:
+* **Plaza Central de Atraque / Muelles Francos:** Dársenas presurizadas donde atracan naves corsarias, mineras y yates de placer. Escenario de la llegada de la *Estrella Errante* y del monumento de bronce erigido en honor a Keiden Ashton. `[Volumen 11]`
+* **El Gran Casino de Kairos:** Complejo colosal de torres iluminadas por neones verde esmeralda y oro. Alberga ruletas cuánticas de pulso electromagnético, mesas de dados gravitatorios y palcos VIP vigilados por drones ejecutores esféricos. `[Volumen 11]`
+* **La Cámara de la IA (Cámara del Destino):** Cúpula esférica de servidores cristalinos en el núcleo del planetoide donde reside Kairos, la entidad sintética (SRO milenario con porte de mantis mecánica) que arbitra deudas, contratos y el orden civil. `[Volumen 11]`
+* **Torre Norte (Enclave de la Casa Zeizerer):** Bastión diplomático y residencial de la rama exiliada de la nobleza drow de Apostae en Kairos. `[Volumen 11]`
+* **Box 42 y Nivel de Talleres:** Dédalo subterráneo de hangares, fosos de grasa, bancos de soldadura de plasma y repuestos de contrabando donde operaba la mecánica ysoki Anita. `[Volumen 11]`
+* **El Ático de Gonzalo González:** Residencia de lujo en la cúspide de la torre de pilotos, repleta de trofeos de carreras, holo-pantallas de repetición y bodegas de importación selecta. `[Volumen 11]`
+
+### El Circuito del Rally de la Muerte
+*Ubicación geográfica:* Asteroide Kairos (niveles urbanos, núcleo industrial y vacío orbital exterior)  
+*Aparición en volúmenes:* **Volumen 11**  
+*Descripción:* Pista de carreras extrema, armada y sin restricciones legales donde compiten veintidós bólidos artillados:
+* **Bulevares Centrales de Neón:** Rectas kilométricas suspendidas flanqueadas por rascacielos y pantallas de retransmisión masiva. `[Volumen 11]`
+* **El Núcleo de Reactores:** Galerías subterráneas entre generadores de energía, pasarelas estrechas y colosales turbinas de plasma que obligan a maniobras de salto acrobático. `[Volumen 11]`
+* **El Cañón Exterior y Tramo de Vacío Orbital:** Sector perimetral despresurizado en gravedad cero donde los vehículos compiten en el vacío estelar sobre roca irregular, esquivando minas de gravedad y fuego de armas pesadas. `[Volumen 11]`

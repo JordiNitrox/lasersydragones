@@ -22,54 +22,54 @@
 | Capítulo / Escena | Episodio Podcast | Marcas Aprox. | Tipología | Descripción del Origen en la Mesa |
 |---|---|---|---|---|
 | **Capítulo 1: Ahora ves, ahora Na-ves** | | | | |
-| · *I. Tráfico Estelar en los Hangares* | Ep. 123 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Tráfico Estelar en los Hangares» a partir de los acontecimientos y tiradas del episodio 123. |
-| · *II. La Mirada a Través del Cristal* | Ep. 123 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Mirada a Través del Cristal» a partir de los acontecimientos y tiradas del episodio 123. |
-| · *III. La Ansiedad del Tecnomante* | Ep. 123 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Ansiedad del Tecnomante» a partir de los acontecimientos y tiradas del episodio 123. |
+| · *I. Fuego cruzado en el vacío* | Ep. 123 | [18:00 - 35:00] | `[MESA-ACTO]` | Detección de interceptores corsarios; combate naval con Ángela en torreta auxiliar y maniobras evasivas de la tripulación. |
+| · *II. Salto al abismo* | Ep. 123 | [36:00 - 55:00] | `[MESA-ACTO]` | Incursión audaz en el vacío: salto con botas magnéticas y cables de anclaje de Triel, Benrey, Marloc y Gerty hacia el caza enemigo. |
+| · *III. Sobrecarga de sistemas y purga de registros* | Ep. 123 | [56:00 - 01:35:00] | `[MESA-DIALOGO]` | Asalto al puente, combate en pasillos, hackeo de Marloc borrando rastros de la Estrella Errante y obtención de coordenadas del asteroide Kairos. |
 | **Capítulo 2: El Casino al fin del Universo** | | | | |
-| · *I. Entre Flores de la Deriva* | Ep. 124 | [00:28 - 01:15:00] | `[CANON-CTX]` | Desarrollo de la escena «I. Entre Flores de la Deriva» a partir de los acontecimientos y tiradas del episodio 124. |
-| · *II. El Reconocimiento de los Recuerdos* | Ep. 124 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. El Reconocimiento de los Recuerdos» a partir de los acontecimientos y tiradas del episodio 124. |
-| · *III. Una Promesa en la Penumbra* | Ep. 124 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Una Promesa en la Penumbra» a partir de los acontecimientos y tiradas del episodio 124. |
+| · *I. El bumerán de neón* | Ep. 124 | [14:00 - 32:00] | `[LIT-AMBIENTE]` | Aproximación al asteroide con forma de bumerán; contraste entre cruceros de Abadar, corsarios y naves drow en los anillos de atraque. |
+| · *II. La estatua en la plaza de atraque* | Ep. 124 | [45:00 - 01:12:00] | `[CANON-CTX]` | Triel descubre la colosal estatua de bronce de su padre Keiden Ashton erigida por los Capitanes Libres con la placa «Mi último puerto». |
+| · *III. Promesas y sombras* | Ep. 124 | [35:00 - 50:00] | `[MESA-DIALOGO]` | Diálogo íntimo entre Marloc y Ángela sobre el trauma del pasado y la promesa de buscar un retiro pacífico tras la misión. |
 | **Capítulo 3: Juegos de Azar y Robotzuelas** | | | | |
-| · *I. Cartas Marcadas en el Callejón* | Ep. 125 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Cartas Marcadas en el Callejón» a partir de los acontecimientos y tiradas del episodio 125. |
-| · *II. Sombras en el Distrito Financiero* | Ep. 125 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Sombras en el Distrito Financiero» a partir de los acontecimientos y tiradas del episodio 125. |
-| · *III. El Informe a Triel* | Ep. 125 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Informe a Triel» a partir de los acontecimientos y tiradas del episodio 125. |
+| · *I. Código de etiqueta y galas de casino* | Ep. 125 | [14:00 - 25:00] | `[LIT-AMBIENTE]` | Protocolo de vestimenta en la entrada; compra de ropa de alta gama en boutiques (Benrey con esmoquin y sombrero de copa, Marloc, Triel y A.Xel). |
+| · *II. El tapete dorado y los torsos servomotores* | Ep. 125 | [25:00 - 45:00] | `[LIT-AMBIENTE]` | Salón de juego art déco, jazz cuántico, androides integrados en mesas/paredes y jugadores alienígenas de alto nivel. |
+| · *III. La jugada trucada y la alarma* | Ep. 125 | [50:00 - 01:15:00] | `[MESA-ACTO]` | Apuesta masiva de 15.000 créditos de Benrey mientras Triel manipula el rotor cuántico; detección de trampa y arresto por autómatas pesados. |
 | **Capítulo 4: La Forma del Corazón** | | | | |
-| · *I. Soldadura en las Cúpulas Exteriores* | Ep. 126 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Soldadura en las Cúpulas Exteriores» a partir de los acontecimientos y tiradas del episodio 126. |
-| · *II. Ajuste del Generador de Campos* | Ep. 126 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Ajuste del Generador de Campos» a partir de los acontecimientos y tiradas del episodio 126. |
-| · *III. Seguridad Blindada* | Ep. 126 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Seguridad Blindada» a partir de los acontecimientos y tiradas del episodio 126. |
+| · *I. Infiltración de etiqueta* | Ep. 126 | [28:00 - 35:00] | `[MESA-ACTO]` | A.Xel se disfraza de camarera con pajarita y bandeja de cócteles para seguir a los guardias por pasillos de servicio y ascensores. |
+| · *II. La presencia de Kairos* | Ep. 126 | [35:00 - 55:00] | `[CANON-CTX]` | Audiencia ante Kairos: mantis robótica gigante, SRO milenario y regente del asteroide que expone su filosofía sobre el orden y el azar. |
+| · *III. El cono del destino y la deuda* | Ep. 126 | [55:00 - 01:28:00] | `[MESA-DIALOGO]` | Multa de 30.000 créditos; examen a Triel sobre la Piedra Corazón y presentación del Rally de la Muerte como única vía de redención. |
 | **Capítulo 5: Abadarme un Fiestón** | | | | |
-| · *I. Cristal Roto en el Salón Dorado* | Ep. 127 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Cristal Roto en el Salón Dorado» a partir de los acontecimientos y tiradas del episodio 127. |
-| · *II. Fuego Cruzado entre Mesas de Ruleta* | Ep. 127 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Cruzado entre Mesas de Ruleta» a partir de los acontecimientos y tiradas del episodio 127. |
-| · *III. Marloc Defiende a Ángela* | Ep. 127 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Marloc Defiende a Ángela» a partir de los acontecimientos y tiradas del episodio 127. |
+| · *I. Banquete en los bajos fondos* | Ep. 127 | [25:00 - 40:00] | `[LIT-AMBIENTE]` | Comida callejera de Akiton en puestos ysoki; debate del grupo sobre cómo reunir fondos y vehículos para competir. |
+| · *II. La taberna y los banqueros de Abadar* | Ep. 127 | [42:00 - 01:05:00] | `[MESA-ACTO]` | Visita al consulado de la Iglesia de Abadar; condiciones de préstamo usureras con embargo de la Estrella Errante y Gerty como colateral. |
+| · *III. El rumor del rally y los patrocinadores* | Ep. 127 | [01:06:00 - 01:31:00] | `[MESA-DIALOGO]` | Inteligencia de facciones (mineros, cruzados de Abadar, piratas) e identificación de la Casa Zeizerer como potenciales patrocinadores. |
 | **Capítulo 6: Cerrando Ciclos** | | | | |
-| · *I. Acrobacias en las Alturas del Domo* | Ep. 128 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Acrobacias en las Alturas del Domo» a partir de los acontecimientos y tiradas del episodio 128. |
-| · *II. El Duelo de Cuchillos de Energía* | Ep. 128 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. El Duelo de Cuchillos de Energía» a partir de los acontecimientos y tiradas del episodio 128. |
-| · *III. La Caída del Asaltante* | Ep. 128 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Caída del Asaltante» a partir de los acontecimientos y tiradas del episodio 128. |
+| · *I. La audiencia con la Casa Zeizerer* | Ep. 128 | [38:00 - 45:00] | `[CANON-CTX]` | Incursión al ático drow en la Torre Norte; confrontación de Triel con la nobleza de Apostae y superación de sus prejuicios familiares. |
+| · *II. Negociación entre luces bajas* | Ep. 128 | [45:00 - 01:05:00] | `[MESA-DIALOGO]` | Marloc y Triel pactan el patrocinio: cesión del 30% del premio a cambio de acceso al bólido pesado Rally Jammer y la moto monorrueda. |
+| · *III. El foso de las máquinas* | Ep. 128 | [01:05:00 - 01:10:00] | `[LIT-AMBIENTE]` | Descenso al garaje subterráneo; primera visión del circuito diagonal que atraviesa el planetoide y recepción de los vehículos en Box 42. |
 | **Capítulo 7: Enchúlame la Máquina** | | | | |
-| · *I. Palabras de Gratitud de la Máquina Sagrada* | Ep. 129 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Palabras de Gratitud de la Máquina Sagrada» a partir de los acontecimientos y tiradas del episodio 129. |
-| · *II. Las Cartas Celestes de Nejeor* | Ep. 129 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Las Cartas Celestes de Nejeor» a partir de los acontecimientos y tiradas del episodio 129. |
-| · *III. La Hora de Partir se Acerca* | Ep. 129 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Hora de Partir se Acerca» a partir de los acontecimientos y tiradas del episodio 129. |
+| · *I. Chatarra, grasa y magia* | Ep. 129 | [40:00 - 56:00] | `[MESA-ACTO]` | Modificaciones mecánicas: Triel instala monturas de fusil en la monorrueda; Marloc obtiene un 20 natural blindando el Rally Jammer; Gerty artilla la torreta. |
+| · *II. La pequeña mecánica del garaje* | Ep. 129 | [42:00 - 50:00] | `[MESA-DIALOGO]` | Encuentro con la ysoki Anita; conversación sobre Rim Rey y planos del circuito (bulevar, núcleo de turbinas y anillo de vacío exterior). |
+| · *III. En el bar con Gonzalo González* | Ep. 129 | [57:00 - 01:23:00] | `[LIT-AMBIENTE]` | A.Xel sondea la sala de pilotos; torpe galanteo de Gonzalo González y despliegue final de máquinas hacia la línea de salida. |
 | **Capítulo 8: El Rally de la Muerte ¡Inicia!** | | | | |
-| · *I. La Noche en Vela del Tecnomante* | Ep. 130 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Noche en Vela del Tecnomante» a partir de los acontecimientos y tiradas del episodio 130. |
-| · *II. La Conversación con Ángela* | Ep. 130 | [00:28 - 01:15:00] | `[MESA-DIALOGO]` | Desarrollo de la escena «II. La Conversación con Ángela» a partir de los acontecimientos y tiradas del episodio 130. |
-| · *III. El Peso de la Decisión* | Ep. 130 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Peso de la Decisión» a partir de los acontecimientos y tiradas del episodio 130. |
+| · *I. El semáforo en la avenida central* | Ep. 130 | [15:00 - 35:00] | `[LIT-AMBIENTE]` | Parrilla de salida atestada; salida salvaje bajo el semáforo verde con 22 bólidos artillados. |
+| · *II. Colisiones en el bulevar* | Ep. 130 | [35:00 - 01:10:00] | `[MESA-ACTO]` | Fuego cruzado a quemarropa; choque del volquete minero contra el Rally Jammer y absorción cinética del blindaje mágico de Marloc. |
+| · *III. La puerta de los motores* | Ep. 130 | [01:10:00 - 01:41:00] | `[MESA-ACTO]` | Descenso vertical por el túnel hacia el complejo de reactores con chicanes y fuego de hostigamiento pirata. |
 | **Capítulo 9: El Rally de la Muerte ¡Continúa!** | | | | |
-| · *I. En el Taller de Máquinas* | Ep. 131 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. En el Taller de Máquinas» a partir de los acontecimientos y tiradas del episodio 131. |
-| · *II. Confesión entre Lágrimas y Grasa* | Ep. 131 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Confesión entre Lágrimas y Grasa» a partir de los acontecimientos y tiradas del episodio 131. |
-| · *III. El Abrazo de una Amiga Verdadera* | Ep. 131 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Abrazo de una Amiga Verdadera» a partir de los acontecimientos y tiradas del episodio 131. |
+| · *I. El abismo del núcleo* | Ep. 131 | [20:00 - 45:00] | `[MESA-ACTO]` | Salto acrobático sobre las gigantescas turbinas de enfriamiento; destrucción de bólidos rivales en el plasma inferior. |
+| · *II. Trampas de gravedad y cruzados* | Ep. 131 | [45:00 - 01:15:00] | `[MESA-ACTO]` | Lazo de gravedad minero cortado por Gerty; el púlpito acorazado de Abadar en modo meca y adelantamiento de A.Xel y Triel. |
+| · *III. El fuego y la resistencia* | Ep. 131 | [01:15:00 - 01:41:00] | `[MESA-DIALOGO]` | Crisis de fatiga y trauma de Marloc; apoyo de Benrey y sobrecarga mágica para embestir barricadas hacia la superficie exterior. |
 | **Capítulo 10: El Rally de la Muerte ¡Última vuelta!** | | | | |
-| · *I. El Gabán Doblado con Cuidado* | Ep. 132 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Gabán Doblado con Cuidado» a partir de los acontecimientos y tiradas del episodio 132. |
-| · *II. Las Fórmulas Mágicas en el Datapad* | Ep. 132 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Las Fórmulas Mágicas en el Datapad» a partir de los acontecimientos y tiradas del episodio 132. |
-| · *III. Despedidas Silenciosas en el Camarote* | Ep. 132 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Despedidas Silenciosas en el Camarote» a partir de los acontecimientos y tiradas del episodio 132. |
+| · *I. Emboscada en la recta* | Ep. 132 | [15:00 - 45:00] | `[MESA-ACTO]` | Tramo exterior en gravedad cero y vacío total; emboscada de francotiradores sobre grúas repelida por Gerty con granadas. |
+| · *II. Duelo de ases* | Ep. 132 | [45:00 - 01:25:00] | `[MESA-ACTO]` | Duelo entre Gonzalo y A.Xel; salto gravitacional de la monorrueda volando por encima del bólido campeón en la última curva. |
+| · *III. La bandera a cuadros* | Ep. 132 | [01:25:00 - 01:49:00] | `[MESA-ACTO]` | Entrada triunfal al domo principal; victoria de A.Xel y Triel (1º lugar) y llegada de Marloc, Benrey y Gerty en 3ª posición. |
 | **Capítulo 11: Tome el Trofeo** | | | | |
-| · *I. La Copa Servida por Última Vez* | Ep. 133 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Copa Servida por Última Vez» a partir de los acontecimientos y tiradas del episodio 133. |
-| · *II. Brindis por los Vivos y los Caídos* | Ep. 133 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Brindis por los Vivos y los Caídos» a partir de los acontecimientos y tiradas del episodio 133. |
-| · *III. Sonrisas que Disfrazan el Duelo* | Ep. 133 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Sonrisas que Disfrazan el Duelo» a partir de los acontecimientos y tiradas del episodio 133. |
+| · *I. En el despacho de González* | Ep. 133 | [40:00 - 01:05:00] | `[MESA-DIALOGO]` | Ceremonia informal en el ático de Gonzalo; entrega del trofeo de titanio y cobro de la bolsa de 100.000 créditos. |
+| · *II. Deudas pagadas y alianzas* | Ep. 133 | [01:05:00 - 01:25:00] | `[MESA-ACTO]` | Cancelación de los 30.000 créditos a Kairos, pago a la Casa Zeizerer, saldo positivo de 40.000 créditos y saludo de los paladines de Golarion. |
+| · *III. La sombra en la reja* | Ep. 133 | [01:25:00 - 01:28:00] | `[MESA-DIALOGO]` | Regreso por los pasillos de servicio; reja cerrada y emboscada de Anita con mercenarios devotos del culto de Lao Shu Po. |
 | **Capítulo 12: Lao Shu Po en el Callejón** | | | | |
-| · *I. Turbinas Rugiendo en el Hangar* | Ep. 134 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Turbinas Rugiendo en el Hangar» a partir de los acontecimientos y tiradas del episodio 134. |
-| · *II. La Rampa de Despegue Abierta* | Ep. 134 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Rampa de Despegue Abierta» a partir de los acontecimientos y tiradas del episodio 134. |
-| · *III. Palabras que Quedan Grabadas en el Alma* | Ep. 134 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Palabras que Quedan Grabadas en el Alma» a partir de los acontecimientos y tiradas del episodio 134. |
+| · *I. La devota de la Rata Negra* | Ep. 134 | [15:00 - 30:00] | `[MESA-DIALOGO]` | Revelación del contrato de asesinato de Anita contra la tripulación en nombre de la diosa Lao Shu Po. |
+| · *II. Combate en el callejón cerrado* | Ep. 134 | [30:00 - 01:05:00] | `[MESA-ACTO]` | Batalla táctica: salto acrobático de Benrey, martillo roto por Gerty, ácido de Triel y disparos precisos de A.Xel. |
+| · *III. El destello de la runa* | Ep. 134 | [01:05:00 - 01:27:00] | `[MESA-ACTO]` | Marloc supera el pánico y descarga un rayo de vector cero que pulveriza el talismán de Anita; fuga de la ysoki mediante runa de humo. |
 | **Capítulo 13: Lo Dejaría Todo por que te Quedaras** | | | | |
-| · *I. El Abrazo Final al Pie de la Escala* | Ep. 135 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Abrazo Final al Pie de la Escala» a partir de los acontecimientos y tiradas del episodio 135. |
-| · *II. Lo Dejaría Todo por Ti: La Elección del Amor* | Ep. 135 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Lo Dejaría Todo por Ti: La Elección del Amor» a partir de los acontecimientos y tiradas del episodio 135. |
-| · *III. El Hippocampus se Aleja en el Vacío* | Ep. 135 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Hippocampus se Aleja en el Vacío» a partir de los acontecimientos y tiradas del episodio 135. |
+| · *I. El refugio de Ángela* | Ep. 135 | [45:00 - 01:00:00] | `[MESA-DIALOGO]` | Marloc confiesa su agotamiento de guerra a Ángela; decisión trascendental de retirarse en el asteroide y apostar por el amor. |
+| · *II. La despedida en el hangar* | Ep. 135 | [01:25:00 - 01:36:00] | `[MESA-DIALOGO]` | Conmovedora despedida junto a la Estrella Errante: lágrimas de Triel, entrega del datapad a Benrey, homenaje de A.Xel y lamento de Gerty. |
+| · *III. Un nuevo guardián y rumbo al abismo* | Ep. 135 | [01:36:00 - 01:40:00] | `[CANON-CTX]` | Llegada del veterano enano Zivok como nuevo compañero; despegue de la Estrella Errante rumbo al gigante gaseoso Nejeor VI. |
