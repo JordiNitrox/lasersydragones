@@ -39,7 +39,7 @@ A.Xel leyó en voz alta, mientras su sintetizador de voz luchaba contra una sobr
 El silencio cayó sobre la habitación como una losa de plomo.
 
 Triel posó su mano enguantada sobre el hombro de A.Xel, apretándolo con afecto fraternal:
-—Es la nueva conciencia... El alma que despertó en el cuerpo de Éclair en el Templo de Triune en Absalom. Null-9 se lo llevó. Lo trajo a este abismo para moldear su mente recién nacida con su propia rabia.
+—Es la nueva conciencia... El alma que despertó en el cuerpo de Éclair en el Templo de Triune en Absalón. Null-9 se lo llevó. Lo trajo a este abismo para moldear su mente recién nacida con su propia rabia.
 
 —Cree que lo abandoné —murmuró A.Xel, apretando el cuaderno contra su pecho de aleación—. Cuando despertó en la clínica y me preguntó si había algo para él... no pude mirarlo a los ojos. Todo lo que veía era la muerte de Éclair. Huí de él. Y Null lo recogió del suelo para traerlo al culto.
 
@@ -120,11 +120,11 @@ El comunicador de largo alcance de los trajes parpadeó con una señal de audio 
 Al subir a bordo de la nave corsaria, Valdo los recibió con una sonrisa socarrona y una taza de café sintético humeante, mientras por los altavoces de la sala común sonaba una melodía estridente de rock espacial:
 —Me tomé la libertad de revisar los inyectores del motor Drift mientras ustedes jugaban a los arqueólogos subterráneos. La nave está lista para quemar combustible.
 
-Triel se dirigió directamente a la consola de comunicaciones del puente de mando. Conectando su disco duro cifrado, compiló un informe exhaustivo con las profecías de Nyara, las finanzas del culto, la presencia de Null-9 y la incursión de la Flota Cadáver, transmitiendo el paquete a través del hiperespacio hacia la oficina de la Sociedad Starfinder en la Estación Absalom.
+Triel se dirigió directamente a la consola de comunicaciones del puente de mando. Conectando su disco duro cifrado, compiló un informe exhaustivo con las profecías de Nyara, las finanzas del culto, la presencia de Null-9 y la incursión de la Flota Cadáver, transmitiendo el paquete a través del hiperespacio hacia la oficina de Inversiones Estelares en la Estación Absalón.
 
 Debido a la distancia interestelar del Drift, la respuesta de Chiskisk tardó seis horas en regresar.
 
-Durante la espera, Marloc recibió un mensaje personal en su terminal privado. Era de Ángela, la mujer sarcesiana con la que había compartido confidencias en Absalom. La invitación era formal y afectuosa: una celebración vecinal en el asteroide residencial Ceres, en pleno cinturón de la Diáspora, para inaugurar su nuevo asentamiento y despedirse de Marloc antes de que sus deberes lo alejaran definitivamente de la región.
+Durante la espera, Marloc recibió un mensaje personal en su terminal privado. Era de Ángela, la mujer sarcesiana con la que había compartido confidencias en Absalón. La invitación era formal y afectuosa: una celebración vecinal en el asteroide residencial Ceres, en pleno cinturón de la Diáspora, para inaugurar su nuevo asentamiento y despedirse de Marloc antes de que sus deberes lo alejaran definitivamente de la región.
 
 Marloc contempló la pantalla con una mirada de profunda ternura:
 —Estaré allí, Ángela. Te lo prometo.
@@ -133,7 +133,7 @@ Poco después, la pantalla principal del puente se iluminó con el holograma de 
 —*Estimados amigos. Los datos que han recuperado en el Espinazo del Diablo superan nuestras peores pesadillas. El culto del Devorador y la Flota Cadáver están compitiendo por reactivar una superarma de proporciones apocalípticas.*
 
 La shirren hizo una pausa protocolaria en la transmisión:
-—*El embajador Gevalarsk Nor y la Sociedad Starfinder han autorizado una bonificación de emergencia de diez mil créditos para su tripulación: dos mil quinientos créditos transferidos de inmediato a las cuentas de cada uno. Pero no hay tiempo que perder.*
+—*El embajador Gevalarsk Nor e Inversiones Estelares han autorizado una bonificación de emergencia de diez mil créditos para su tripulación: dos mil quinientos créditos transferidos de inmediato a las cuentas de cada uno. Pero no hay tiempo que perder.*
 
 El mapa estelar del holograma giró hasta enfocar un mundo de tono cadavérico, cubierto por tormentas electromagnéticas y océanos de ceniza radiactiva: **el planeta Eox**.
 

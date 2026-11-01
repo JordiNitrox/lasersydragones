@@ -15,7 +15,7 @@ En el puente de la *Estrella Errante*, la tripulación ocupó sus puestos de com
 En la sala de máquinas, el halfling Valdo corría sobre las pasarelas metálicas con una llave de torsión y una lata de refresco en la mano, sobrecargando los inyectores auxiliares con una sonrisa de pura adrenalina:
 —*¡Núcleo de energía al ciento quince por ciento, capitán! ¡Tienen toda la potencia de la galaxia para hacer fuegos artificiales!*
 
-Triel se dejó caer en su estación de artillería personalizada —un asiento ergonómico rodeado de pantallas táctiles con retroiluminación de neón y aceleradores de pulso—. Con la soltura de quien ha pasado su juventud dominando simuladores de combate en los arrabales de Absalom, la drow alineó las miras ópticas de los giroláseres de popa:
+Triel se dejó caer en su estación de artillería personalizada —un asiento ergonómico rodeado de pantallas táctiles con retroiluminación de neón y aceleradores de pulso—. Con la soltura de quien ha pasado su juventud dominando simuladores de combate en los arrabales de Absalón, la drow alineó las miras ópticas de los giroláseres de popa:
 —Blancos fijados en el interceptor líder. ¡Fuego a discreción!
 
 Los cañones láser de la *Estrella Errante* tronaron en ráfagas de luz esmeralda. El primer necroplaneador recibió el impacto de lleno en sus deflectores frontales; las ondas de choque envolvieron el sarcófago de hueso, pero las pantallas de protección enemigas aguantaron la embestida.
@@ -94,12 +94,12 @@ Triel se cruzó de brazos, examinando las insignias ocultas bajo el cuello de la
 Nazira guardó un silencio pétreo, mirándolos con desprecio absoluto.
 
 Benrey chasqueó la lengua con fingida decepción:
-—Una mujer de pocas palabras. Me encantan los retos. Triel, activa el transmisor de enlace por satélite de la nave. Vamos a iniciar una retransmisión holonet en directo por los canales abiertos de la Diáspora y la Estación Absalom.
+—Una mujer de pocas palabras. Me encantan los retos. Triel, activa el transmisor de enlace por satélite de la nave. Vamos a iniciar una retransmisión holonet en directo por los canales abiertos de la Diáspora y la Estación Absalón.
 
 Nazira ladeó ligeramente la cabeza:
-—¿Una retransmisión?
+ —¿Una retransmisión?
 
-—Oh, claro que sí —sonrió Benrey, apuntándole directamente a las cuencas vacías con el objetivo de la cámara—. «La Gran Exclusiva de Benrey Galway: La Flota Cadáver violando los tratados de paz del Pacto en territorio neutral de la Diáspora». Pondré tu rostro, tus dientes de hojalata y los números de serie de tu nave en las pantallas de diez millones de ciudadanos de los Mundos del Pacto. Para mañana por la mañana, los tribunales de Absalom estarán exigiendo explicaciones formales a tus superiores en Eox. Y me pregunto qué harán tus almirantes cuando descubran que una soldadita indiscreta arruinó toda su operación secreta.
+—Oh, claro que sí —sonrió Benrey, apuntándole directamente a las cuencas vacías con el objetivo de la cámara—. «La Gran Exclusiva de Benrey Galway: La Flota Cadáver violando los tratados de paz del Pacto en territorio neutral de la Diáspora». Pondré tu rostro, tus dientes de hojalata y los números de serie de tu nave en las pantallas de diez millones de ciudadanos de los Mundos del Pacto. Para mañana por la mañana, los tribunales de Absalón estarán exigiendo explicaciones formales a tus superiores en Eox. Y me pregunto qué harán tus almirantes cuando descubran que una soldadita indiscreta arruinó toda su operación secreta.
 
 El brillo espectral en los ojos de Nazira titiló con visible inquietud. Tras unos segundos de cálculo gélido, la mujer de hueso inclinó la cabeza hacia atrás:
 —Apaguen esa lente. Hablemos.
@@ -124,19 +124,19 @@ Nazira asintió con una lentitud glacial:
 —Exacto —admitió la prisionera—. Aseguramos los paquetes de datos con la localización preliminar del arma y purgamos los bancos de memoria para que nadie pudiera seguirnos. A mí y a mi compañero nos ordenaron permanecer en la sombra de los asteroides exteriores para abatir a cualquier rezagado o explorador curioso que intentara investigar las ruinas. Nuestra misión era sencilla: no dejar testigos vivos.
 
 Benrey dio un paso al frente, clavando sus ojos pequeños en las cuencas de la no-muerta:
-—Hay algo más, Nazira. En la Estación Absalom, hace semanas, nos atacaron al salir de la Roca de la Deriva. Intentaron recuperar un contenedor confidencial que transportaban los mineros de la tripulación original. ¿Qué había en esa caja? ¿Por qué el embajador Gevalarsk Nor estaba tan desesperado por meterla de contrabando en la estación?
+—Hay algo más, Nazira. En la Estación Absalón, hace semanas, nos atacaron al salir de la Roca del Drift. Intentaron recuperar un contenedor confidencial que transportaban los mineros de la tripulación original. ¿Qué había en esa caja? ¿Por qué el embajador Gevalarsk Nor estaba tan desesperado por meterla de contrabando en la estación?
 
 Nazira soltó una carcajada estridente y desprovista de humor:
 —¿El embajador Nor? Por favor... ese diplomático cobarde es uno de los nuestros. Siempre ha servido a la causa de la muerte. Estaba trabajando para nosotros.
 
 Marloc alzó una mano y miró a Benrey, negando lentamente con la cabeza:
-—Está mintiendo, capitán. Sus bioseñales espectrales muestran picos de tensión defensiva. Intenta sembrar discordia para que desconfiemos de las autoridades de Absalom.
+—Está mintiendo, capitán. Sus bioseñales espectrales muestran picos de tensión defensiva. Intenta sembrar discordia para que desconfiemos de las autoridades de Absalón.
 
 Benrey se echó a reír abiertamente, dándole una palmada burlona en el hombro de metal a la prisionera:
 —Nazira, querida, eres una piloto formidable, pero mintiendo eres una auténtica calamidad. He visto a goblins borrachos inventar coartadas más creíbles que esa. El embajador Nor te metería en una trituradora de huesos antes de compartir un café contigo. Dime la verdad sobre esa caja o enciendo la retransmisión ahora mismo.
 
 La no-muerta apretó los dientes de metal con furia contenida:
-—No conozco la identidad exacta del sujeto. Era un oficial de alto rango de la Flota Cadáver... un comandante infiltrado que fue capturado o herido en operaciones clandestinas fuera de la frontera. El embajador pretendía entregarlo a los tribunales del Pacto como moneda de cambio para limpiar su propia reputación política. Nuestra misión era rescatarlo antes de que fuera interrogado por la inteligencia militar de Absalom. Fallamos. Eso es todo lo que sé.
+—No conozco la identidad exacta del sujeto. Era un oficial de alto rango de la Flota Cadáver... un comandante infiltrado que fue capturado o herido en operaciones clandestinas fuera de la frontera. El embajador pretendía entregarlo a los tribunales del Pacto como moneda de cambio para limpiar su propia reputación política. Nuestra misión era rescatarlo antes de que fuera interrogado por la inteligencia militar de Absalón. Fallamos. Eso es todo lo que sé.
 
 Triel intercambió una mirada cargada de gravedad con A.Xel. La conspiración era mucho más profunda de lo que habían imaginado: la Flota Cadáver operaba en las sombras de los Mundos del Pacto desde hacía meses, mientras sus flotas de combate se preparaban para reclamar la superarma ancestral.
 

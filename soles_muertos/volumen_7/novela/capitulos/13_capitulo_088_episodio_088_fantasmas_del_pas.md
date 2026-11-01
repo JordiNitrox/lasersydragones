@@ -6,7 +6,7 @@ La sala de simulación holográfica de la *Estrella Errante* quedó sumida en un
 
 A.Xel permanecía de pie en el centro de la sala, con sus fotorreceptores calibrados en modo de captura directa. A su lado, Triel, Benrey y Marloc aguardaban en silencio.
 
-El archivo recuperado de la matriz de Éclair —apenas un veinticinco por ciento de su contenido original— se desdobló en el aire. Pequeños píxeles de luz se ensamblaron hasta formar la figura de un androide esbelto, de rasgos serenos y circuitos dorados que brillaban bajo un abrigo desgastado de la Sociedad Starfinder.
+El archivo recuperado de la matriz de Éclair —apenas un veinticinco por ciento de su contenido original— se desdobló en el aire. Pequeños píxeles de luz se ensamblaron hasta formar la figura de un androide esbelto, de rasgos serenos y circuitos dorados que brillaban bajo un abrigo desgastado de Inversiones Estelares.
 
 Era **Éclair**.
 
@@ -72,7 +72,7 @@ Durante el viaje, Triel había aprovechado cada hora en el taller para fabricar 
 La *Estrella Errante* maniobró hacia uno de los inmensos hangares excavados en el borde perimetral del asteroide.
 
 Al descender por la rampa de desembarco, fueron recibidos por el jefe de muelle: un ser colosal semejante a una morsa humanoide, enfundado en un mono de mecánico grasiento y sosteniendo una tableta de cobros:
-—Cien créditos por ciclo estándar de atraque —rugió el oficial con voz de barítono—. Sin excepciones de la casa. Aquí no hay caridad de la Sociedad Starfinder.
+—Cien créditos por ciclo estándar de atraque —rugió el oficial con voz de barítono—. Sin excepciones de la casa. Aquí no hay caridad de Inversiones Estelares.
 
 Benrey Galway dio un paso al frente, ajustándose la chaqueta con la elegancia de una superestrella:
 —Cien créditos para los viajeros ordinarios, caballero. Pero ante usted se encuentra el mismísimo Benrey Galway, héroe mediático de Castrovel y comandante de la *Estrella Errante*. Estoy seguro de que podemos acordar una tarifa de cortesía... digamos, ¿ochenta créditos y un hológrafo firmado para su familia?
@@ -93,7 +93,7 @@ Guiados por los escáneres de Triel, el grupo regresó a la bodega inferior de l
 
 Al inspeccionar los conductos de ventilación que corrían bajo el vientre de la nave, Triel descubrió una anomalía estructural: una línea de remaches ocultos bajo una capa de aislante térmico.
 
-—Miren esto —dijo la elfa oscura, pasando las yemas de sus dedos por una junta secreta—. Es una escotilla de contrabando. Un compartimento estanco construido en la propia quilla de la nave antes de que nosotros la reclamáramos. Quienquiera que haya estado a bordo... ha estado escondido aquí abajo desde que salimos de la Estación Absalom.
+—Miren esto —dijo la elfa oscura, pasando las yemas de sus dedos por una junta secreta—. Es una escotilla de contrabando. Un compartimento estanco construido en la propia quilla de la nave antes de que nosotros la reclamáramos. Quienquiera que haya estado a bordo... ha estado escondido aquí abajo desde que salimos de la Estación Absalón.
 
 Triel apoyó su cizalla neumática en el pestillo oculto. Con un chasquido sordo, la compuerta se abrió hacia abajo, revelando una pequeña cabina presurizada a oscuras.
 
@@ -107,7 +107,7 @@ Era un imponente oficial **Veszk**, de más de dos metros de altura y escamas ve
 Benrey Galway dio un paso atrás, con los ojos abiertos de par en par y las orejas totalmente plegadas por el espanto:
 —¡Por los dioses del vacío...! ¡Usted es... el general Radavox!
 
-—El general Radavox de los Protectores —rugió el reptil, haciendo girar la cadena con un zumbido ensordecedor—. Y el padre de **Alcon**. El muchacho al que usted arrastró a una muerte miserable en los muelles de Absalom por culpa de su ambición de pacotilla.
+—El general Radavox de los Protectores —rugió el reptil, haciendo girar la cadena con un zumbido ensordecedor—. Y el padre de **Alcon**. El muchacho al que usted arrastró a una muerte miserable en los muelles de Absalón por culpa de su ambición de pacotilla.
 
 ***
 

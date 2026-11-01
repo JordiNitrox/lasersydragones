@@ -184,7 +184,7 @@ En la holopantalla, uno de los lados de la gigantesca mole negra presentaba una 
 
 —Y hay algo más en esa garganta del sur —añadió A.Xel, apuntando con el zoom óptico de su casco hacia una hendidura profunda en la roca.
 
-Allí, encajada en el fondo de una grieta escarpada y envuelta en columnas de gas residual congelado, descansaba la silueta destrozada de la corbeta corsaria *Insinuación Mortal*. La nave que **Clara 247** había pilotado para emboscarlos en el muelle yacía partida en dos contra las rocas basálticas. Su rival se había estrellado allí abajo tras el combate naval.
+Allí, encajada en el fondo de una grieta escarpada y envuelta en columnas de gas residual congelado, descansaba la silueta destrozada de la corbeta corsaria *Insinuación Mortal*. La nave que **Clara 247** había pilotado para emboscarlos en el perímetro de la Armada yacía partida en dos contra las rocas basálticas. Su rival se había estrellado allí abajo tras el combate naval.
 
 El grupo aseguró sus mosquetones magnéticos a los cinco colosales cables de acero trenzado que unían el carguero con la masa del asteroide. Uno tras otro, con Willy y Naru sujetos entre chillidos excitados a los arneses de A.Xel y Triel, avanzaron en suspensión ingrávida sobre el abismo negro del espacio, deslizándose a pulso sobre el cable principal mientras las estrellas giraban en silencio a su alrededor.
 

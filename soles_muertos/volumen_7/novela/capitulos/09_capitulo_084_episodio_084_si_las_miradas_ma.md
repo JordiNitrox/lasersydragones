@@ -24,7 +24,7 @@ Marloc dio un paso hacia el fondo de la estancia, donde una compuerta empotrada 
 La androide sacó su juego de ganzúas electrónicas y, con la asistencia de los sensores arcanos del brazo cibernético de Marloc, desbloqueó los cerrojos de presión. La escotilla cayó con un chasquido sordo. En su interior, impecablemente preservada sobre un armazón hidráulico, descansaba una armadura pesada de placas compuestas: un blindaje *Golemforged Plating III* equipado con impulsores de salto balístico integrados. Y junto a ella, en los estantes contiguos, una joya para exploradores de superficie: un *Refractor Suit* de manufactura ysoki de nivel seis, ligero como una pluma y capaz de deflectar la radiación láser, además de dos monos de desembarco reforzados *D-Suit*.
 
 Benrey abrió los ojos como platos. Sus bigotes vibraron de pura codicia.
-—¡Por las lunas de Absalom! ¡Ese mono refractor tiene mi nombre grabado en los tornillos de las orejeras! ¡Mírenlo! ¡Es ysoki de pura cepa, ergonómico, aerodinámico y hecho para caballeros de baja estatura pero alto valor estratégico!
+—¡Por las lunas de Absalón! ¡Ese mono refractor tiene mi nombre grabado en los tornillos de las orejeras! ¡Mírenlo! ¡Es ysoki de pura cepa, ergonómico, aerodinámico y hecho para caballeros de baja estatura pero alto valor estratégico!
 
 —Yo llevo tres misiones soñando con un traje de desembarco con sellado atmosférico reforzado —intervino A.Xel, señalando con calma analítica el *D-Suit*—. Es el modelo que portaban los pioneros de la corporación minera. Sin embargo, no pienso vestirme como un altar de sacrificios andante cubierto de fémures.
 
@@ -63,7 +63,7 @@ Marloc se inclinó, usando sus conocimientos místicos para analizar la composic
 
 —Armamento sutil para interrogatorios desagradables —dijo A.Xel, guardando con delicadeza un par de dosis y los guantes en su bandolera táctica—. Se registrará como recurso de contingencia.
 
-Continuaron hacia el siguiente dormitorio, donde los camarotes habían sido desalojados a toda prisa. Las paredes estaban forradas con pósters desgarrados de grupos de metal cósmico, entre ellos viejos carteles de conciertos de Syd Velch cuando aún lideraba los escenarios independientes de la Estación Absalom. Sobre un escritorio de metal desvencijado, alguien había ordenado meticulosamente una hilera de cráneos de distintos tamaños, desde pequeños huesos de roedor y goblin hasta calaveras de sarcesianos alargadas, cada una con un tocón de vela consumido sobre la coronilla.
+Continuaron hacia el siguiente dormitorio, donde los camarotes habían sido desalojados a toda prisa. Las paredes estaban forradas con pósters desgarrados de grupos de metal cósmico, entre ellos viejos carteles de conciertos de Syd Velch cuando aún lideraba los escenarios independientes de la Estación Absalón. Sobre un escritorio de metal desvencijado, alguien había ordenado meticulosamente una hilera de cráneos de distintos tamaños, desde pequeños huesos de roedor y goblin hasta calaveras de sarcesianos alargadas, cada una con un tocón de vela consumido sobre la coronilla.
 
 Al atravesar una arcada, llegaron al comedor y las cocinas de la guarnición. Allí el hedor a rancio y descomposición era perceptible incluso a través de los filtros olfativos de los trajes de vacío.
 
@@ -112,7 +112,7 @@ Triel ejecutó la orden, formateando las secuencias de activación del láser y 
 
 Avanzaron con extrema cautela hacia la antecámara del altar, guiados por el brillo carmesí que se filtraba bajo las compuertas de hierro forjado. Triel avanzaba con el rifle a la cintura; A.Xel cubría el flanco con sus dagas y la pistola listas; Benrey, armado con su holocámara montada al hombro, encendió el foco para registrar cada metro del avance mientras Gerty, con sus cuatro brazos metálicos preparados, avanzaba como vanguardia acorazada.
 
-—Cámara rodando —susurró Benrey—. Si los de la Federación de Prensa de Absalom ven este reportaje, nos van a dar tres premios de periodismo de investigación de alto riesgo... si salimos vivos de esta tumba, claro.
+—Cámara rodando —susurró Benrey—. Si los de la Federación de Prensa de Absalón ven este reportaje, nos van a dar tres premios de periodismo de investigación de alto riesgo... si salimos vivos de esta tumba, claro.
 
 La puerta cedió con un gemido de bisagras oxidadas.
 
@@ -179,7 +179,7 @@ El rayo concentrado atravesó el cráneo del Feolist justo en el nacimiento de l
 De sus cuencas vacías brotó un último suspiro de humo negro que se dispersó en el aire reciclado. En ese mismo instante, la niebla mental que atenazaba a Benrey, Triel y Marloc se desvaneció como una pesadilla al despertar.
 
 Benrey, tirado contra el aparador de la cocina y sujetándose el hombro ensangrentado con una mano temblorosa, soltó una carcajada ronca:
-—Díganme que mi cámara grabó ese tiro... Por los clavos de hierro de Castrovel, A.Xel, te debo la vida y tres suscripciones de por vida a la cantina de Absalom.
+—Díganme que mi cámara grabó ese tiro... Por los clavos de hierro de Castrovel, A.Xel, te debo la vida y tres suscripciones de por vida a la cantina de Absalón.
 
 Marloc descendió de la consola, con el rostro pálido pero entero, y extendió su mano luminosa sobre las heridas del roedor para estabilizar sus constantes vitales:
 —La bestia ha caído. Y con ella, el último centinela biológico de este nivel.

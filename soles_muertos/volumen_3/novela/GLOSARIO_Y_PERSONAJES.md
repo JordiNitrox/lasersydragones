@@ -108,8 +108,8 @@ Erudito y diplomático elebriano no-muerto. Recibe a la tripulación en la embaj
 *Asistente Diplomático y Mayordomo Gul del Embajador Nor*  
 Criatura necrófaga vestida con librea protocolaria y refinados modales cortesanos. Pese a su naturaleza cadavérica y lengua bífida, recibe afectuosamente a la tripulación en los muelles de desembarco con sus célebres galletitas de chocolate recién horneadas, guiándolos posteriormente a través de las antesalas de la embajada.
 
-### Señorita George (*Ms. George / Ms. Joss*)
-*Jefa de relaciones institucionales, portavoz y asesora jurídica de Extracciones Estelares*  
+### Señorita Joss (*Ms. Joss*)
+*Jefa de relaciones institucionales, portavoz y asesora jurídica de Extracciones Estelares (a quien Benrey Galway insiste en llamar erróneamente «Señorita George»)*  
 Ejecutiva lashunta de porte distinguido, piel de tono ambarino, peinado estricto y largas antenas siempre atentas. Viste trajes ejecutivos de corte impecable y lleva un visor de datos cuántico con auricular en la sien. Tras haber intentado previamente engatusar a la tripulación en el Volumen 2 con vídeos propagandísticos y una cómica cesta de tocador en las torres de El Ojo, comparece en este volumen ante el Gran Salón de Arbitraje de los Protectores como la principal portavoz y acusadora corporativa contra los mediadores. Sus argumentos contractuales son demolidos públicamente cuando Triel y Marloc demuestran que la Roca del Drift es una estructura militar y civil pre-Brecha sujeta a la Ley de Salvamento de Derelictos, y Benrey la abochorna frente a las gradas de los mineros sacando a relucir sus pases de cine caducos y sus jaboncitos de lavanda.
 
 ### Profesor Ambrose Boosmar

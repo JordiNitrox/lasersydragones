@@ -1,18 +1,11 @@
-# Prólogo: El Eco del Futuro
+# Prólogo: El Eco de los Doce Soles
 
-Hay secretos que permanecen sepultados bajo millones de toneladas de basalto, y hay verdades que aguardan ocultas a plena vista en un simple juego de letras.
+Hay secretos que permanecen sepultados bajo millones de toneladas de basalto radiactivo, y hay verdades que aguardan agazapadas en el silencio, esperando a que alguien reordene un puñado de letras para desgarrar la realidad.
 
-La fosa de la Necrogarganta en Eox no era únicamente el bastión más inexpugnable de los Sabios Óseos; era el taller clandestino donde las piezas del fin del mundo estaban siendo ensambladas en la oscuridad. Allí, bajo un domo de energía esmeralda que desafiaba a las tormentas de polvo atómico, la científica nigromántica Xerantha Zatus y las sombras renegadas de la Flota de Cadáveres creían tener el control absoluto sobre el destino galáctico.
+En el firmamento muerto de Eox no brillan las estrellas; solo el resplandor gélido de los letreros de neón de Orphys y el parpadeo constante de millones de drones de filmación proyectan una falsa ilusión de vida sobre una superficie arrasada hace milenios. En este mundo donde la carne viva es una extravagancia de importación y la eternidad se mide en contratos notariales sellados por Sabios Óseos, el entretenimiento no es una evasión: es una industria despiadada de sangre, apuestas y vanidad.
 
-No contaban con la obstinación de cuatro forasteros que acababan de arrojarse por el abismo en caída libre.
+Bajo la gigantesca cúpula del Sector 27, la tripulación de la *Estrella Errante* creyó haber aceptado un simple desafío para silenciar un chantaje. Pero la arena de Zo! no era un juego; era un matadero calculado al milímetro por la Flota de Cadáveres para enterrar sus investigaciones antes de que alcanzaran la verdad. Acorralados por autómatas de demolición, esferas asesinas y ciber-zombis de choque, los cuatro aventureros estaban a punto de descubrir que la supervivencia no se medía en disparos certeros ni en escudos deflectores, sino en las decisiones morales que definen a un ser vivo.
 
-Benrey Galway, Triel Istrav, Marloc Boosmar y A.Xel 42, escoltados por el chasis acorazado de Gerty, no solo iban a derribar las compuertas de la fortaleza subterránea y a batirse en duelo con un titánico guerrero draconiano. En el corazón de aquellos laboratorios prohibidos, entre contratos mercantiles y transmisiones encriptadas de su propia empresa patrocinadora, la joven mecánica semi-drow estaba a punto de desentrañar el misterio fundacional de toda su odisea: quién era en verdad Sambert Klamburg, por qué Inversiones Estelares S.C. parecía conocer cada paso de su camino y qué precio estaba dispuesto a pagar un hombre por concederle a sus amigos una segunda oportunidad de salvar el cosmos.
+Al final del laberinto de arcilla roja no solo aguardaba la fama efímera de las pantallas holotáctiles ni la carrera desesperada hacia la profunda y siniestra fosa de la Necrogarganta. En los confines de los páramos exteriores, custodiada por monstruos antediluvianos y científicos nigrománticos sin escrúpulos, aguardaba la respuesta a la pregunta que había perseguido a la tripulación desde el muelle de la Estación Absalón: quién los había reunido, por qué Inversiones Estelares S.C. parecía conocer de antemano cada uno de sus pasos y qué deuda impagable con el porvenir había contraído un hombre para otorgarles una segunda oportunidad de salvar la galaxia.
 
-El abismo de Eox estaba a punto de cerrarse tras de ellos. Y nada de lo que creían saber sobre su pasado volvería a ser igual.
-
----
-
-> **Nota Editorial y Atribución:**  
-> *Lasers y Dragones: Mundos Fragmentados III: La Necrogarganta de Eox* es una obra de ficción novelada basada en los episodios 99 a 110 de la campaña de rol de *Lasers y Dragones* (adaptación no oficial de *Starfinder: Dead Suns*, propiedad de Paizo Inc.).  
-> Distribuida gratuitamente bajo la **Política de Uso Comunitario de Paizo Inc.** ([paizo.com/communityuse]).  
-> Agradecimiento especial a la mesa de juego: Roberto (Director de Juego), Irene (Triel Istrav), Juan Pablo (Marloc Boosmar), Miguel (Benrey Galway) y Sofía (A.Xel 42).
+El eco de doce soles extinguidos comenzaba a vibrar en el aire contaminado de Eox. Y ninguno de ellos saldría intacto del abismo.

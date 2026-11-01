@@ -62,7 +62,7 @@ El interior era un desastre de estantes volcados y archivadores vacíos. La poli
 
       Marloc contempló la firma autógrafa con los ojos muy abiertos, sintiendo un escalofrío helado en la nuca:
 
-      —Papá... —susurró con un hilo de voz—. Mi propio padre, Ambrose Boosmar, era catedrático aquí mismo. Jamás se entrometía en la política interna de la universidad, pero su autoridad académica era tan incontestable que nadie osaba contradecirlo. Parece que el viejo Ambrose ejerció esa misma férrea influencia sobre la carrera de Marlene... Ambos compartimos al mismo padre.
+      —Papá... —susurró con un hilo de voz—. Mi propio padre, Ambrose Boosmar, era catedrático aquí mismo... Jamás se entrometía en la política interna de la universidad, pero su autoridad académica era incontestable. Parece que el Ambrose de esta dimensión protegió con el mismo celo a Marlene... ¿Acaso este mundo es el reflejo divergente del mío, o hay secretos de mi padre que jamás llegué a imaginar?
 
 Benrey se asomó al despacho, contemplando los cajones volcados y los archivadores desvalijados con un chasquido de desaliento:
 

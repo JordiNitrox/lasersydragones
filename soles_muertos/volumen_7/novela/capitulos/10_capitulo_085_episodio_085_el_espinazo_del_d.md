@@ -10,7 +10,7 @@ Benrey Galway estaba sentado en el suelo de piedra, apoyado contra la base de la
 
 —Es un coagulante estándar de grado tres, Benrey —respondió A.Xel con su voz pausada y monocorde, mientras enfundaba su pistola de partículas tras una impecable pirueta táctica—. Tu tasa de supervivencia se incrementó en un setenta y dos por ciento tras la aplicación. Además, has demostrado una agilidad encomiable huyendo hacia la alacena.
 
-—No estaba huyendo, señorita androide —replicó el emisario, inflando el pecho con fingida dignidad—. Estaba ejecutando un repliegue estratégico para llamar la atención del enemigo hacia mi cobertura, mientras tú encontrabas el ángulo de tiro. Ahora que soy una celebridad consagrada en la Diáspora, tengo una reputación mediática que proteger. Si los agentes de prensa de Absalom se enteran de que casi me desangro por culpa de una salamandra gigante con humo en los ojos, mi caché como superestrella se irá por el desagüe.
+—No estaba huyendo, señorita androide —replicó el emisario, inflando el pecho con fingida dignidad—. Estaba ejecutando un repliegue estratégico para llamar la atención del enemigo hacia mi cobertura, mientras tú encontrabas el ángulo de tiro. Ahora que soy una celebridad consagrada en la Diáspora, tengo una reputación mediática que proteger. Si los agentes de prensa de Absalón se enteran de que casi me desangro por culpa de una salamandra gigante con humo en los ojos, mi caché como superestrella se irá por el desagüe.
 
 Triel, arrodillada frente a los sistemas del dron de combate, cerró la placa dorsal de Gerty con un chasquido metálico de su soldador sónico. La elfa oscura sonrió de medio lado:
 —Gerty está completamente operativo. Sus servos reforzados aguantaron el grueso del castigo. Y en cuanto a nosotros... bueno, hemos sobrevivido a lo peor que este nivel tenía reservado. Marloc, ¿cómo van tus lecturas?
@@ -88,7 +88,7 @@ Tras varios minutos de respiración asistida y un trago de agua purificada, el p
 Triel tuvo que desactivar una rutina destructiva —un virus gusano programado para quemar los bancos de memoria si alguien forzaba el protocolo— antes de abrir los registros de comunicaciones de Tahomen, el líder del culto al que habían derrotado semanas atrás en el Templo de los Doce en Castrovel.
 
 En la pantalla aparecieron las transcripciones de los últimos mensajes enviados por Tahomen a esta guarnición:
-*«Los perros de la Sociedad Starfinder y sus mercenarios de pacotilla nos pisan los talones en los bosques de Ukulam. No son rivales para el poder que se avecina. Nos reuniremos en las coordenadas sagradas una vez que el templo de Castrovel sea purgado. Que el Vacío reclame sus huesos.»*
+*«Los perros de Inversiones Estelares y sus mercenarios de pacotilla nos pisan los talones en los bosques de Ukulam. No son rivales para el poder que se avecina. Nos reuniremos en las coordenadas sagradas una vez que el templo de Castrovel sea purgado. Que el Vacío reclame sus huesos.»*
 
 —Palabras que envejecieron miserablemente —se burló Benrey con una mueca burlona—. «No son rivales». Tendría que haber visto su cara cuando le dejamos el templo como un solar en liquidación.
 
@@ -131,7 +131,7 @@ En el terminal había decenas de hojas de cálculo logísticas y un archivo de v
 Triel suspiró, frotándose la sien con ironía:
 —Esa era la clave fonética del mainframe central. Si hubiéramos registrado esta habitación antes de subir al altar, nos habríamos ahorrado quince minutos de sudores fríos para hackear la consola.
 
-Pero lo más revelador estaba en la correspondencia privada del intendente. Una serie de cartas no enviadas dirigidas a un correligionario en Absalom mostraban la profunda crisis interna que consumía a la secta:
+Pero lo más revelador estaba en la correspondencia privada del intendente. Una serie de cartas no enviadas dirigidas a un correligionario en Absalón mostraban la profunda crisis interna que consumía a la secta:
 *«Hermano: La afluencia masiva de recursos y nuevos reclutas no trae la bendición del Vacío, sino su corrupción mundana. Los enviados de nuestro Mecenas... Su Voz entre nosotros... nos exigen disciplina militar y eficiencia burocrática, arrebatándonos el fervor místico de la agonía. Nos tratan como peones descartables de una guerra que no es la nuestra. Agradezco las armas y los fármacos, pero temo que cuando la Llave sea encontrada, el Devorador no será el único en reclamar el cosmos. Los muertos sin alma quieren el trono para ellos mismos...»*
 
 —«Su Voz entre nosotros» —leyó Marloc en voz baja—. Un emisario de la Flota Cadáver residía en este templo. Coordinaba las finanzas, supervisaba el descifrado de las profecías y suministraba armamento de contrabando. Los cultistas creían estar preparando el fin de los tiempos, pero los oficiales de Eox solo los estaban utilizando como mano de obra barata para localizar el arma ancestral.

@@ -61,7 +61,7 @@ Con Valdo instalado y las compuertas selladas, A.Xel ocupó el puesto de pilotaj
 
 —*«Bienvenido a mi red, unidad Gerty»* —respondió la voz suave y omnipresente de la inteligencia artificial de la *Estrella Errante* a través de la megafonía—. *«Ruta de salto hacia el Campo de los Perdidos, en la Diáspora, calculada con éxito. Tiempo estimado de tránsito en el Drift: cuatro días estándar.»*
 
-La nave aceleró hacia el vacío, y con un destello carmesí de curvatura dimensional, se sumergió en las corrientes hiperespaciales de la Deriva.
+La nave aceleró hacia el vacío, y con un destello carmesí de curvatura dimensional, se sumergió en las corrientes hiperespaciales del Drift.
 
 Durante los cuatro días de travesía, la rutina a bordo fue intensa. Triel y A.Xel se encerraron en el taller con la impresora de polímeros universales (UPB), reconstruyendo pacientemente la carcasa fracturada de la llave de datos que contenía información sobre la forja androide. Benrey se dedicó a filmar planos cinematográficos de la tripulación en poses dramáticas para el futuro intro de su canal de la holored, obligando a Marloc a empuñar su rifle con cara de circunstancias y a Valdo a posar como el técnico más enigmático de la galaxia.
 

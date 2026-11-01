@@ -1,57 +1,153 @@
 # Capítulo 8: Una Segunda Oportunidad
 
-### I. El datapad de Inversiones Estelares S.C.
+### I. El circo mediático de Zo!
 
-Mientras Xerantha Zatus permanecía custodiada por A.Xel y Zivok, Triel se sentó ante la consola maestra de la científica, descargando las copias de seguridad de las comunicaciones corporativas.
+Las compuertas acristaladas del ascensor de meta se abrieron con un siseo neumático hacia el vestíbulo principal del Café Calavera, desatando una auténtica marejada de flashes holográficos, ovaciones ensordecedoras y fanfarrias electrónicas.
 
-Entre los cientos de archivos de compras y rutas mercantiles, un expediente cifrado con un algoritmo de grado militar de Absalón llamó poderosamente la atención de la mecánica. Llevaba el membrete dorado de su propia empresa patrocinadora: **Inversiones Estelares S.C.**, firmado por su invisible presidente, el señor Sambert Klamburg.
+Apenas los cuatro aventureros pusieron un pie en el suelo de mármol negro del estudio, una escolta de soldados esqueléticos con uniformes de gala dorados abrió paso a codazos entre la multitud para permitir la entrada del anfitrión supremo de la noche.
 
-Triel frunció el ceño, apoyando los codos en la mesa y sosteniendo el datapad a la altura de los ojos:
-—Marloc... ven a ver esto. Hay algo que no encaja en este contrato.
+Zo! avanzó con los brazos abiertos y una sonrisa de dientes blanqueados que brillaba bajo los focos de emisión. Vestía un esmoquin de terciopelo escarlata con solapas de piel de reptil de Triaxus, y a su alrededor flotaban decenas de micrófonos flotantes que amplificaban cada una de sus palabras para los millones de espectadores de los Mundos del Pacto:
 
-Marloc se acercó con paso mesurado, ajustándose las solapas del gabán:
-—¿Qué sucede, Triel? Chiskisk ya nos advirtió de que la junta directiva mantenía inversiones diversificadas en todos los sectores.
+> *«¡Damas, caballeros y venerables osamentas de Eox! ¡Aquí los tienen! ¡Los gladiadores forasteros que acaban de reescribir las reglas del entretenimiento en el Sector 27! ¡Un derroche de violencia visceral, pericia técnica y, lo más insólito en diez temporadas... un acto de piedad que ha hecho derramar lágrimas sintéticas a la mitad de la audiencia de Absalón!»*
 
-—No es el dinero, Marloc —respondió Triel con la voz quebrada por una extraña mezcla de desconcierto y lucidez febril—. Es la fecha. Este contrato de compraventa de suministros para nuestra expedición fue redactado hace diez años. Mucho antes de que tú y yo nos conociéramos en Absalón. Mucho antes de la muerte de Marlene.
+Un enjambre de reporteros de la holored se abalanzó sobre el grupo. Una asistente con velo fúnebre y pómulos de esqueleto le plantó un micrófono flotante delante de la nariz a A.Xel:
+
+—¡Señorita A.Xel! ¡La vimos en la retransmisión ejecutando acrobacias letales sobre el letrero de neón y desactivando torretas! ¿Cuál fue la fórmula matemática para mantener la cohesión de su escuadra bajo fuego enemigo?
+
+La operativa androide miró el micrófono con sus ojos amatista, sin alterar un ápice su expresión serena:
+
+—La fórmula consiste en la aplicación estricta de protocolos balísticos, distribución de coberturas y un sesenta por ciento de improvisación caótica provocada por mis compañeros orgánicos. Ganar era la única opción compatible con la preservación de nuestros signos vitales.
+
+—¡Fascinante! ¡Gélida, letal y calculadora! —exclamó la reportera antes de girarse hacia Marloc Boosmar—. ¡Maestro Boosmar! ¡Un ciudadano de porte académico en la arena más sanguinaria de la galaxia! ¿Volverá a competir en la gran liga estelar?
+
+Marloc, acomodándose la capa sobre el hombro con un ademán severo y sacudiéndose las cenizas de la manga, clavó una mirada gélida en la cámara:
+
+—Espero no tener que volver a pisar un plató de televisión en lo que me queda de existencia consciente. Buenas noches.
+
+Pero la verdadera tormenta mediática aguardaba a Benrey Galway. Los focos principales convergieron sobre el emisario ysoki, mientras Zo! le palmeaba la espalda con una confianza empalagosa:
+
+—¡Y aquí está el hombre del momento! ¡El roedor más audaz de la Diáspora! ¡Benrey Galway, el rebelde que prefirió arriesgar su vida para sacar a su mayor enemigo de un tráiler en llamas antes que reclamar una victoria fácil! Díganos, señor Galway... ¿qué sintió en ese instante? ¿Qué lo llevó a desafiar a la muerte por Gallito Peligro?
+
+Benrey titubeó una fracción de segundo. Por primera vez en su carrera pública, la chanza fácil y la verborrea acelerada no acudieron a su rescate. El ysoki miró hacia la camilla medicalizada donde dos paramédicos no-muertos cargaban a Gallito Peligro para evacuarlo hacia los muelles de transporte.
+
+Gallito alzó la mano derecha vendada, buscando las garras de Benrey. El ysoki se acercó a la camilla y apretó la mano del akitoniano.
+
+—No importa lo que hayas hecho en el pasado, Benrey —susurró Gallito con una sinceridad desarmante y los ojos brillantes—. Hoy vi a un hombre distinto. Un hombre que puede cambiar. Y eso me demuestra que tal vez yo también pueda hacerlo.
+
+Benrey tragó saliva, sonrió de lado y se giró hacia las cámaras de Zo! con los ojos ligeramente humedecidos:
+
+—Solo quería... que las cosas salieran bien para todos, señor Zo!. Ya hemos dejado morir a demasiada gente en este universo. A veces, ganar significa asegurarse de que el otro también vuelva a casa.
+
+Un murmullo de asombro y aplausos contenidos recorrió la sala. En el fondo de la estancia, casi inadvertida entre el tumulto de reporteros y camarógrafos, una figura gigantesca cubierta por una gabardina militar oscura dio media vuelta y comenzó a deslizarse hacia los pasillos traseros del club.
+
+Era el dragonkin áptero.
 
 ***
 
-### II. El anagrama descifrado: Sambert Klamburg es Marloc
+### II. El honor del Centurión Áptero
 
-Benrey se asomó por encima del hombro de Triel, rascándose la oreja:
-—A lo mejor el señor Klamburg es adivino. O tiene una máquina del tiempo en el sótano de la oficina.
+—Triel, Marloc... —susurró A.Xel por el canal privado—. El dragonkin se marcha por la puerta de servicio del sector sur.
 
-Triel no respondió de inmediato. Sus ojos de semi-drow bailaban sobre las letras del nombre del presidente corporativo proyectadas en el aire:
-$$\text{S - A - M - B - E - R - T} \quad \text{K - L - A - M - B - U - R - G}$$
+Triel no perdió un segundo. Aprovechando que la prensa tenía rodeado a Benrey en mitad de una tanda de autógrafos, la semi-drow se deslizó entre las mesas de terciopelo con una finta acrobática impecable, seguida de cerca por Marloc, A.Xel y un Gerty que renqueaba pesadamente.
 
-Sus dedos comenzaron a mover las letras holográficas con una velocidad vertiginosa, reorganizando las vocales y consonantes en un nuevo orden matemático:
-—M... A... R... L... O... C... —susurró Triel, con el corazón golpeándole el pecho con la fuerza de un pistón—. B... O... O... S... M... A... R.
+Interceptaron al coloso en un reservado privado y silencioso, iluminado únicamente por lámparas de luz ultravioleta que proyectaban reflejos cerúleos sobre el suelo de basalto. Al escuchar el eco de las botas del grupo, el dragonkin se detuvo, se dio la vuelta despacio y metió una de sus garras de cuatro dedos bajo la solapa de su gabardina.
 
-En el centro del haz de luz, las letras se unieron formando una palabra inequívoca:
-$$\text{SAMBERT KLAMBURG} \longleftrightarrow \text{MARLOC BOOSMAR}$$
+Medía cerca de tres metros y su piel escamosa tenía un tono ceniciento desvaído, como si el fuego de su linaje se hubiera apagado hace décadas. Sus ojos no eran los de un reptil vivo, sino dos brasas rojas apagadas. En su espalda, dos muñones óseos cicatrizados delataban el lugar donde antaño se alzaban sus imponentes alas de combate.
 
-Un silencio total, absoluto y devastador cayó sobre la cámara de Xerantha Zatus.
+—Brody Malone —dijo Triel con la mano apoyada en la culata de su arma—. Ya hemos terminado el espectáculo para Zo!. Es hora de que nos digas la verdad.
 
-Marloc Boosmar dio un paso atrás como si hubiese recibido un disparo a quemarropa en el pecho. Su rostro humano palideció hasta parecer tan blanco como el de los sabios de Eox. Su brazo cibernético cayó inerte a su costado mientras sus labios temblaban sin articular sonido alguno:
-—No... no es posible... Eso... eso desafía cualquier ley de la causalidad arcana.
+El guerrero draconiano no desenfundó. Soltó un suspiro áspero que sonó como carbón ardiendo en una chimenea vieja y se sentó en uno de los sillones de cuero, haciendo crujir la estructura:
 
-—Es un anagrama perfecto, Marloc —dijo Triel con lágrimas brillando en los ojos, levantándose para tomarle la mano de carne—. Catorce letras exactas. No es una coincidencia. Inversiones Estelares no es una corporación cualquiera. La fundaste tú. O una versión tuya del futuro...
+—Debí haberlos dejado morir en la arena —dijo Brody con una voz gutural y profunda—. Ese era el plan original de Marcellus Galway.
+
+Marloc Boosmar dio un paso al frente, con los sensores ópticos fijos en la fisonomía del guerrero:
+
+—Eres un Borai. Un muerto revivido por su propia fuerza de voluntad.
+
+—Un Bor Kulan, como nos llaman en las lunas de Triaxus —corrigió Brody, bajando la mirada hacia sus garras—. Cuando morí en combate hace diez años, mi deseo de venganza y el dolor por la pérdida de mi jinete espiritual fueron tan intensos que me negué a cruzar el umbral del Río de las Almas. Regresé a mi propio cadáver. Pero el proceso me arrancó las alas, mutiló mi memoria y me dejó atrapado en este limbo donde los vivos me consideran un monstruo y los no-muertos un intruso.
+
+Brody alzó la vista hacia Benrey, que acababa de entrar al reservado secándose el sudor de la frente:
+
+—Marcellus me contrató para tenderles una trampa en Orphys. Sabía que buscaban a su primo Rim Rey Galway y a la Flota de Cadáveres. Por eso sembramos las pistas falsas en el Ministerio y en el Café Calavera: para empujarlos a la arena de Zo! y que la Bestia de Brevak los liquidara sin levantar sospechas ante el embajador de Absalón. Marcellus ya tiene a Rim Rey bajo su custodia; quería deshacerse de ti, Benrey, para sustituirte por un Galway más dócil y maleable.
+
+—¿Y por qué no nos dejaste morir? —preguntó Benrey, cruzándose de brazos.
+
+—Porque te vi en la pantalla —respondió el dragonkin, con un matiz de respeto sombrío en su voz—. Vi a un roedor mezquino y egoísta que tenía todas las de ganar si dejaba morir a su enemigo... y vi cómo diste media vuelta para salvarlo. En mi pueblo, el vínculo entre un dragonkin y su jinete es sagrado porque se basa en dar la vida por el otro sin pedir nada a cambio. Cuando perdí a mi compañero creí que ese honor había desaparecido del universo. Tú me demostraste que incluso en las alcantarillas de Eox todavía queda un destello de redención.
+
+Brody extrajo de su gabardina una pequeña placa holográfica militar y se la lanzó a Marloc, quien la atrapó en el aire:
+
+—Esas son las coordenadas auténticas de la base de operaciones de la Flota de Cadáveres en este sector. No están en Orphys. Se encuentran en el fondo de la gran fosa de la **Necrogarganta**, en los yermos radiactivos del norte. Allí opera **Xerantha Zatus**, una sabio óseo renegada y científica de la Flota que dirige los laboratorios clandestinos de osteomancia y biotecnología. Ella es la mano derecha de Marcellus; ella custodia las transmisiones del Culto del Devorador y sabe exactamente dónde está retenido tu primo.
+
+—¿Y Marcellus? —inquirió A.Xel.
+
+—Si atacan el santuario de Xerantha, Marcellus acudirá —sentenció Brody, poniéndose de pie con la lentitud de una montaña—. Está desesperado por cerrar este cabo suelto antes de movilizar la Flota hacia el espacio profundo. Vayan a la Necrogarganta... y acaben con esta farsa.
 
 ***
 
-### III. La segunda oportunidad: el silencio de los héroes
+### III. El anagrama maestro: Sambert Klamburg
 
-Benrey miró a Marloc con la boca completamente abierta, soltando el rifle que cayó con un sonido sordo sobre la alfombra:
-—¿Tú... tú eres nuestro jefe? ¿Tú eres el tipo que nos paga los sueldos, el que nos compró la nave y el que nos envía cartas con consejos misteriosos?
+Dos horas más tarde, en el taller de mantenimiento del subsuelo del Café Calavera, el olor a soldadura de estaño y ozono impregnaba el ambiente.
 
-A.Xel se acercó lentamente, sus circuitos bioluminiscentes titilando en un tono dorado de asombro analítico:
-—Probabilidad de coincidencia ortográfica aleatoria: una entre quinientos billones. El señor Boosmar del futuro viajó al pasado o proyectó su fortuna desde una línea temporal paralela para financiar nuestra tripulación.
+A.Xel y Benrey habían subido a los muelles comerciales para gestionar la compra de suministros médicos y munición pesada con los cuatro mil créditos del premio de Zo!. En el taller solitario solo permanecían Triel Istrav y Marloc Boosmar, rodeados por los componentes desmantelados del meca Gerty, cuyo núcleo de energía reposaba sobre un banco de trabajo junto a su carcasa abollada.
 
-Marloc se dejó caer en una silla, cubriéndose el rostro con ambas manos:
-—¿Por qué? ¿Por qué haría algo así?
+Triel trabajaba en silencio frente a su consola portátil. Sus dedos tecleaban a una velocidad endiablada, abriendo ventanas de datos financieros, sellos notariales de la Estación Absalón y registros de constitución mercantil que el grupo había ido acumulando desde el inicio de la campaña.
 
-Triel se arrodilló a su lado, apoyando la cabeza en su hombro con una ternura infinita:
-—Porque en tu línea temporal original fracasamos, Marloc. El Devastador Estelar destruyó Absalón, perdiste a Clara y nosotros morimos en algún rincón olvidado de la galaxia. Creaste Inversiones Estelares para darnos las armas, la nave y el equipo que necesitábamos. Nos diste una segunda oportunidad de ganar la guerra.
+Marloc, sentado en un taburete metálico con una taza de té sintético entre las manos, la observó con curiosidad:
 
-Marloc alzó la mirada hacia el techo de piedra de la fosa, sintiendo el peso abrumador de mil futuros sobre sus espaldas:
-—Una segunda oportunidad... Que los dioses nos perdonen si volvemos a fallar.
+—Estás muy callada, Triel. Gerty tiene los circuitos dañados, pero su núcleo de fusión está intacto; podré canalizar energía arcana para soldar las placas principales antes de partir hacia la Necrogarganta.
+
+Triel detuvo sus dedos sobre el teclado. La pantalla holográfica proyectaba un documento mercantil con el membrete dorado de **Inversiones Estelares S.C.**
+
+La mecánica semi-drow levantó la vista. Sus ojos bicolores, habitualmente chispeantes de ironía juvenil, estaban abiertos de par en par, fijos en Marloc con una expresión de desconcierto, temor y una desconfianza tan profunda que hizo que el tecnomante se tensara en el asiento.
+
+—Marloc... —dijo Triel en un susurro gélido—. ¿Nos has estado mintiendo todo este tiempo?
+
+Marloc frunció el ceño, dejando la taza sobre la mesa:
+
+—¿De qué estás hablando, Triel? Sabes perfectamente quién soy. Desperté con amnesia en Absalón tras tocar aquella reliquia dorada; no recuerdo nada de mi vida antes de la Brecha más allá del dolor por la muerte de Ángela y las investigaciones de Marlene.
+
+Triel negó lentamente con la cabeza, girando la pantalla holográfica hacia él:
+
+—No hablo de tu pasado, Marloc. Hablo de quién eres ahora mismo.
+
+En la pantalla brillaba el nombre del fundador y presidente invisible de la corporación para la que trabajaban; la figura en la sombra que había contratado a Chiskisk, que había ordenado la investigación del *Acreon* y que les había facilitado armas, créditos y naves desde el primer día:
+
+> **SAMBERT KLAMBURG**
+
+—Es nuestro patrón —dijo Marloc, extrañado—. Un magnate corporativo que opera desde los niveles superiores de Absalón. ¿Qué tiene que ver conmigo?
+
+Triel tragó saliva con dificultad. Con un movimiento tembloroso de su índice, activó una rutina de análisis lingüístico en su consola:
+
+—Cuando Brody Malone estaba hablando de los recuerdos rotos y de la necesidad de volver a empezar... algo hizo clic en mi cabeza. He repasado cada cláusula de contratación de Inversiones Estelares, cada sello de seguridad y cada transferencia bancaria que nos asignaron. Mira esto, Marloc. Mira cómo se reordenan las letras de su nombre.
+
+En el holograma, las letras doradas de *SAMBERT KLAMBURG* comenzaron a flotar en el aire, separándose en caracteres individuales que giraron sobre sí mismos antes de reordenarse en una secuencia matemática perfecta:
+
+> **S - A - M - B - E - R - T &nbsp; K - L - A - M - B - U - R - G**  
+> ✦ &nbsp; ◈ &nbsp; ✦  
+> **M - A - R - L - O - C &nbsp; B - O - O - S - M - A - R**
+
+Marloc Boosmar se quedó petrificado. El aire en la habitación pareció evaporarse de golpe, dejando un vacío asfixiante que le oprimió la garganta con la fuerza de un puño de hierro. Sus ojos leyeron el anagrama una, dos, diez veces consecutivas, mientras el color desaparecía por completo de su rostro, dejándolo pálido como la cera de un cirio funerario.
+
+—No... no es posible... —balbuceó Marloc, retrocediendo dos pasos hasta chocar contra el banco de trabajo—. Es una coincidencia estadística... un error de paridad en el registro...
+
+—No es ninguna coincidencia, Marloc —dijo Triel, con la voz quebrada por el vértigo existencial—. Ahora todo encaja. ¡Todo! Tú no eres un simple tecnomante contratado al azar. Inversiones Estelares fue fundada por ti. Por una versión de ti mismo que vino del futuro... o de otra línea temporal.
+
+La chica se puso de pie, señalando las líneas de código que fluían en su terminal:
+
+—Tú sabías exactamente qué iba a pasar. Venías de un mundo donde fallamos, Marloc. Un mundo donde el Culto del Devorador y la Flota de Cadáveres activaron el Devastador Estelar y consumieron los Mundos del Pacto. Por eso fundaste Inversiones Estelares: para reunirnos a A.Xel, a Benrey y a mí antes de que fuera tarde. Tú le advertiste a Ambrose que no llevara a Olivia a Castrovel para evitar su muerte; tú dejaste las cuentas abiertas para proteger a Ángela... ¡y tú sabías que Marlene tenía que morir en el muelle de Absalón para que nosotros nos viéramos forzados a investigar el *Acreon*!
+
+—¡Basta! —suplicó Marloc, llevándose ambas manos a la cabeza mientras un temblor espasmódico sacudía sus hombros—. ¡Cállate, Triel, por favor!
+
+—¡Es la verdad! —insistió la drow, con lágrimas de angustia asomando a sus pestañas—. Te borraste la memoria a ti mismo para no alterar la causalidad, para poder vivir este viaje sin la carga de saber el futuro... ¡Nos diste una segunda oportunidad de salvar la galaxia!
+
+En el cerebro de Marloc Boosmar, algo se fracturó con la violencia de una supernova silenciosa.
+
+Un dolor punzante y atroz le atravesó las sienes como un clavo ardiente. De su fosa nasal izquierda comenzó a brotar un hilo espeso de sangre roja brillante que goteó sobre su pechera académica. Las luces del taller se difuminaron en su campo visual; el suelo desapareció bajo sus pies y el tecnomante cayó de rodillas sobre las losas de basalto, jadeando con la boca abierta mientras una visión cósmica y terrible se superponía a la realidad:
+
+Un firmamento infinito y muerto, desprovisto de estrellas, donde doce puntos oscuros —doce soles apagados consumidos por una sombra devoradora— flotaban en el vacío como un epitafio cósmico.
+
+Triel se arrodilló a su lado con torpeza, aterrada por el colapso del hombre al que consideraba su maestro y amigo, rodeándole los hombros con sus brazos mientras intentaba limpiarle la sangre de la cara con una gasa:
+
+—Tranquilo, Marloc... Tranquilo, por favor... No le diré nada a Benrey ni a A.Xel... Lo juro por mi vida. Esto se queda entre tú y yo hasta que encontremos respuestas. Pero prométeme que vamos a salir vivos de este planeta...
+
+Marloc no pudo responder. Con la mirada perdida en el suelo ensangrentado y el eco de los doce soles martilleando en su mente, el tecnomante comprendió que la partida por el destino del universo no había comenzado en Absalón... sino en el abismo del tiempo que ahora amenazaba con devorarlo.

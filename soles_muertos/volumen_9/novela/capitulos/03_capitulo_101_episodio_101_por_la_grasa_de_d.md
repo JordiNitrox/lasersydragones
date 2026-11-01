@@ -1,40 +1,93 @@
 # Capítulo 3: Por la Grasa de Dios
 
-### I. Tubos de cultivo y pesadillas genéticas
+### I. Fuego sobre el asedio
 
-El descenso al Nivel Tres condujo a la tripulación hacia el corazón de los laboratorios biotecnológicos de Xerantha Zatus.
+El chasquido del interruptor maestro resonó en el vestíbulo del motel con la contundencia de un disparo.
 
-La sala tenía las dimensiones de un hangar de carga, con techos de diez metros de altura sostenidos por arcadas góticas de piedra volcánica. A lo largo de las paredes se alineaban decenas de cilindros de estasis vertical de cristal templado, llenos de un líquido viscoso amarillento. Dentro de los tubos flotaban aberraciones biológicas en diversas fases de mutación: tejidos orgánicos injertados con aleaciones cibernéticas pre-Brecha y fibras musculares sintetizadas a partir de restos fósiles de criaturas del Devastador.
+Triel Istrav tiró de la palanca del disyuntor principal de la caja de fusibles, cortando el suministro eléctrico de cuajo. De inmediato, el gigantesco letrero de neón de «El Cuervo del Páramo», las balizas exteriores del aparcamiento y las farolas de la acera se apagaron en seco, sumiendo el patio delantero en una penumbra espesa y monocromática.
 
-Triel se detuvo frente a uno de los tanques, conteniendo una arcada de repulsión:
-—Esto es una monstruosidad... Están intentando crear huéspedes biológicos artificiales capaces de canalizar la energía de la Devoradora de Soles sin desintegrarse en el intento.
+—¡Luces fuera! —gritó Triel por el canal de escuadra—. ¡Fuego a discreción sobre los tiradores!
 
-Marloc examinó las consolas de diagnóstico anexas a los tanques:
-—Xerantha comprendió que los cuerpos no-muertos son inmunes a la radiación, pero carecen de la resonancia mística que exige la tecnología de los Constructores de la Puerta. Por eso secuestraban mineros en la Diáspora y prisioneros en los Mundos del Pacto: para usarlos como recipientes de prueba.
+Desde lo alto de la cornisa, apostada sobre el armazón metálico del letrero ahora oscuro, A.Xel 42 fue la primera en abrir fuego. Su rifle de precisión emitió un zumbido sibilante; el proyectil electromagnético atravesó la cabeza del ciber-zombi que lideraba el cerco a la casa rodante. El cráneo del no-muerto estalló en una llamarada de chispas y esquirlas de titanio antes de que su cuerpo se desplomara inerte sobre el capó del tráiler.
 
-***
+Al mismo tiempo, las ventanas del vestíbulo del motel saltaron en pedazos cuando Marloc Boosmar y Benrey Galway irrumpieron a tiros. El tecnomante extendió ambos brazos hacia el patio: tres dardos de energía pura salieron disparados de sus dedos cibernéticos, impactando contra el pecho de dos atacantes no-muertos con detonaciones sísmicas que los desintegraron en una lluvia de carne podrida y engranajes humeantes.
 
-### II. Los servidores de datos prohibidos
+Benrey, rodando por el suelo para ponerse a cubierto tras el pretil de la entrada, alineó la boca en campana de su flamante rifle sónico:
 
-En el centro del laboratorio se alzaba un pedestal octogonal rodeado por una jaula de servidores de memoria de estado sólido.
+—¡Tomen un poco de música de Absalón, pedazos de hojalata!
 
-A.Xel conectó su transpondedor táctico a la terminal maestra, iniciando la extracción de los registros de investigación de Xerantha:
-—Descarga de expedientes científicos en curso. Tasa de transferencia: cuatro gigabytes por segundo. Detecto archivos vinculados al proyecto 'Sol Negro' y planos arquitectónicos de las nubes del sistema Nejeor.
+El ysoki apretó el gatillo. Una onda de choque invisible, pero lo bastante densa como para distorsionar el aire en una espiral cóncava, barrió el asfalto. El impacto sónico golpeó a quemarropa a dos ciber-zombis que intentaban derribar la puerta de la caravana; los blindajes torácicos se doblaron hacia adentro como papel de aluminio y sus sistemas hidráulicos reventaron en un chorro de aceite negro hirviendo.
 
-—¡Cuidado, retaguardia! —gritó Benrey de pronto.
+Dentro de la casa rodante, la voz desgarrada de Gallito Peligro se filtró a través de los huecos de la chapa ametrallada:
 
-Desde una puerta lateral de desinfección, media docena de gnolls con estimulantes de combate inyectados en la yugular cargaron con hachas de sierra y escopetas de dispersión:
-—¡Por la Grasa de Dios! —chilló el ysoki, arrojándose tras una hilera de terminales mientras disparaba su blaster a quemarropa.
+—¡Benrey! ¡Por todos los santos de Akiton, díganme que son ustedes y no más fiambres con ganas de comerme las tripas!
+
+—¡Cierra el pico y mantén la cabeza abajo si no quieres que te la arranquen de un tiro, Gallito! —le chilló Benrey mientras recargaba el fusil sónico—. ¡Estamos intentando hacer un rescate heroico, así que colabora un poco con la puesta en escena!
 
 ***
 
-### III. Purga de los laboratorios
+### II. La sombra de cristal y la corte de esqueletos
 
-Marloc Boosmar alzó la mano y desató un conjuro de grasa sintética sobre el pasillo de acceso, haciendo que los tres primeros asaltantes resbalaran aparatosamente y quedaran a merced del fuego de Gerty.
+La euforia inicial del asalto duró exactamente lo que tardó el suelo del aparcamiento en crujir bajo un peso colosal.
 
-El dron de asalto avanzó con sus cuatro brazos operando a máxima potencia: con dos desarmó a los mercenarios y con los otros dos barrió la sala con fuego térmico de supresión, dejando el pasillo despejado en cuestión de segundos.
+Desde la bruma polvorienta de la avenida, la Bestia de la Casa Brevak se manifestó en toda su aterradora magnificencia. Al apagarse las luces artificiales, la radiación ambiental del sector delineó la silueta del Golem de Neutrones: una estructura ciclópea de cuatro metros de altura, compuesta enteramente por placas facetadas de ónice pulido y cristal oscuro que absorbían cualquier reflejo lumínico como un agujero negro molecular. Sus manos no tenían dedos convencionales, sino esferas macizas de aleación cristalina capaces de pulverizar el blindaje de un tanque pesado de un solo golpe. Sus ojos gemelos brillaban con dos haces gélidos de energía blanca que barrieron el patio, escaneando los signos biológicos de los presentes.
 
-—Descarga de datos completada al cien por cien —anunció A.Xel con su habitual serenidad mientras desconectaba el cable—. Los archivos confirman que Xerantha se encuentra en la antecámara del sanctasanctórum, custodiada por su guardia pretoriana.
+Flanqueando al titán de cristal, una corte de tres esqueletos acorazados emergió de las sombras. Portaban espadas ceremoniales oxidadas y sus muñecas estaban unidas por pesadas cadenas de hierro negro remachadas directamente a sus vértebras.
 
-Triel recargó su pistola de plasma y miró hacia el portón blindado del fondo:
-—Se acabó la investigación de campo. Es hora de hacerle una visita a la doctora.
+—¡Hostiles mágicos en retaguardia! —advirtió A.Xel desde el tejado.
+
+Los esqueletos alzaron sus manos esqueléticas al unísono. Ráfagas de proyectiles arcanos cruzaron la noche, impactando contra la barandilla donde se apostaba la androide y contra el marco de la puerta del vestíbulo donde se cubría Marloc. Los estallidos de energía mágica arrancaron jirones de mampostería y arrojaron a Marloc al suelo tosiendo metralla.
+
+—¡El letrero no va a resistir! —transmitió A.Xel. La estructura de soporte del gran cuervo de neón crujía peligrosamente bajo los impactos.
+
+Sin dudarlo un segundo, la operativa androide corrió hacia el borde de la cornisa, se arrojó al vacío en un salto acrobático perfecto y descendió los seis metros de altura deslizándose por un cable de tensión antes de rodar sobre el asfalto y quedar de pie, con las armas listas, junto al chasis acorazado de Gerty.
+
+El meca de asalto no esperó órdenes. Con sus dos brazos superiores alzó su cañón rotatorio y con los dos inferiores desplegó sus escudos deflectores, interponiéndose directamente en la línea de carga del golem:
+
+—*¡Detectada intrusión de mineral pesado no registrado en el inventario de canteras!* —atronó el sintetizador de Gerty—. *¡Aviso para la masa facetada: su coeficiente de refracción es ofensivo para mis sensores ópticos! ¡Procedo a impacto estructural!*
+
+Gerty y el primer esqueleto colisionaron con un estruendo monumental. El meca descargó su garra hidráulica, arrancando la caja torácica del no-muerto de un solo tajo antes de plantar sus pies estabilizadores para frenar el avance de la mole de ónice.
+
+***
+
+### III. El rescate de Gallito Peligro y la fuga en el bólido
+
+Mientras el frente de batalla estallaba en fuego y magia, Marloc Boosmar corrió hacia la parte trasera del aparcamiento del motel, donde bajo un cobertizo semiderruido descansaba un vehículo todoterreno de nueve ruedas: un bólido desértico con el morro blindado, paneles de aleación chamuscados y sin parabrisas, diseñado para resistir las peores tempestades de arena.
+
+Marloc abrió la tapa del motor de un tirón. Sus ojos cibernéticos analizaron el cableado mientras sus dedos manipulaban los relés de arranque:
+
+—El motor de combustión química está intacto, pero los interruptores de encendido fueron puenteados con un fusible defectuoso. Triel, necesito una sobrecarga en la batería secundaria para forzar el encendido.
+
+—¡Voy! —respondió la mecánica, corriendo agachada entre los disparos residuales mientras conectaba los bornes de su *Custom Rig* al alternador del vehículo.
+
+En el centro del patio, Benrey alcanzó por fin los restos humeantes de la casa rodante. De una patada arrancó la puerta combada y se asomó al interior.
+
+Gallito Peligro yacía sobre un montón de mantas sucias, agarrándose la pierna fracturada con ambas manos y temblando como una hoja. Cuando alzó la vista y vio el hocico familiar del emisario ysoki recortado contra la noche, sus ojos se abrieron desmesuradamente:
+
+—Benrey... —sollozó el showman akitoniano, con la voz quebrada por una mezcla de alivio, vergüenza y llanto genuino—. Viniste por mí... Por todos los cielos, de verdad viniste por mí...
+
+—Pues claro que vine, pedazo de imbécil —le espetó Benrey, agarrándolo por las axilas para sacarlo a rastras de la estructura—. ¿Creías que iba a dejar que un montón de cadáveres te robaran la exclusiva de mi gran rescate? ¡Vamos, muévete antes de que la Bestia nos convierta en puré!
+
+Gallito se dejó arrastrar por el asfalto, balbuceando con el rostro cubierto de lágrimas y hollín:
+
+—Yo... yo empecé en la holored por ti, Benrey. Te lo juro por mi vida. De pequeño te veía en las retransmisiones de Absalón y le decía a mi familia que algún día yo sería tan grande y tan valiente como tú. Quería ser tu amigo, quería hacer vídeos juntos... Y cuando desapareciste sentí tanta rabia, tanta frustración de no ser nada... Siempre has sido mi ídolo, Benrey. Eres un héroe...
+
+Benrey miró de reojo a uno de los drones de filmación de Zo! que sobrevolaba el patio a escasos metros de altura, capturando el plano en riguroso directo para millones de espectadores:
+
+—¿Oyeron eso, cámaras? —gritó el ysoki inflando el pecho y señalando al dron con el dedo—. ¡Lo dijo él, no yo! ¡Benrey Galway, héroe oficial de los Mundos del Pacto!
+
+—*¡Intervengo para cesar parloteo no productivo!* —bramó Gerty a sus espaldas.
+
+El colosal meca agarró a Gallito Peligro con dos de sus brazos mecánicos, levantándolo del suelo como si fuera un saco de patatas y cargándolo sobre su hombro acorazado con absoluta indiferencia hacia los gemidos de dolor del akitoniano.
+
+En ese instante, la Bestia de la Casa Brevak descargó su puño de ónice contra el cobertizo del motel. La estructura entera colapsó en una lluvia de vigas de hierro y escombros de hormigón.
+
+—¡El motor ha arrancado! —bramó Marloc desde el asiento del copiloto, mientras el motor del todoterreno rugía con un aullido gutural de turbinas pesadas.
+
+—¡Todo el mundo a bordo! —ordenó Triel saltando a la parte trasera.
+
+A.Xel se deslizó tras el volante desprovisto de parabrisas, con su corte de pelo pixie agitado por el viento helado del desierto. Gerty arrojó a Gallito en el asiento central trasero antes de subirse a la plataforma posterior, aferrándose al chasis con sus garras inferiores. Benrey se lanzó de cabeza por la ventanilla del copiloto justo cuando el puño cristalino del golem rozaba el paragolpes trasero del automóvil.
+
+A.Xel pisó el acelerador a fondo.
+
+Las nueve ruedas no estallables del vehículo patinaron sobre el asfalto antes de morder la arcilla roja con una violencia salvaje. El bólido salió disparado hacia la noche del desierto como una bala de cañón, dejando tras de sí una nube de polvo espeso y el rugido frustrado de la Bestia perdiéndose en la oscuridad de la arena.
