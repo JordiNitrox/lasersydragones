@@ -63,11 +63,11 @@ Antes de escribir el primer capítulo de un volumen, es obligatorio ejecutar bar
 
 ### Eje 1: Giros Argumentales y Revelaciones Mayores
 * Buscar términos: `secreto`, `verdad`, `plan`, `futuro`, `dimensión`, `consola`, `esfera`.
-* *Ejemplos clave:* Anagramas de empresas (Sambert Klamburg / Marloc), identidades de chasis (Axel / Ashera), secretos de naves o reliquias pre-Brecha.
+* *Ejemplos clave:* Anagramas de empresas (Sambert Klamburg / Marloc), identidades de chasis (A.Xel / Ashera), secretos de naves o reliquias pre-Brecha.
 
 ### Eje 2: Familias, Linajes y Vínculos Biológicos/Sintéticos
 * Buscar términos: `padre`, `madre`, `hijo`, `hija`, `esposa`, `familia`, `clan`, `hermano`, `hermana`.
-* *Identificar:* El padre de Triel (**Keiden Ashton**) y su madre drow; el linaje de Benrey y los parientes Galway; el enigma del padre de Marloc (**Ambrose Boosmar**) y su esposa Ángela; los vínculos androides de Axel (**Null-9**, Éclair, la nueva conciencia).
+* *Identificar:* El padre de Triel (**Keiden Ashton**) y su madre drow; el linaje de Benrey y los parientes Galway; el enigma del padre de Marloc (**Ambrose Boosmar**) y su esposa Ángela; los vínculos androides de A.Xel (**Null-9**, Éclair, la nueva conciencia).
 
 ### Eje 3: Relaciones Interpersonales y Dinámicas de la Tripulación
 * Buscar términos: `León`, `oficial`, `comunicador`, `cita`, `despedida`, `promesa`, `confianza`.
@@ -75,12 +75,12 @@ Antes de escribir el primer capítulo de un volumen, es obligatorio ejecutar bar
 
 ### Eje 4: Traumas, Fobias y Cicatrices Psicológicas
 * Buscar términos: `miedo`, `terror`, `pesadilla`, `recuerdo`, `dolor`, `esclavitud`.
-* *Capturar:* La fobia de Benrey a Eox y los no-muertos; el pánico de Axel a perder la libertad y volver a ser esclavizada; el duelo autodestructivo de Marloc; los traumas de Triel en Apostae.
+* *Capturar:* La fobia de Benrey a Eox y los no-muertos; el pánico de A.Xel a perder la libertad y volver a ser esclavizada; el duelo autodestructivo de Marloc; los traumas de Triel en Apostae.
 
 ---
 
 ## 4. Registro y Entrega de la Minería
 
 Todos los hallazgos deben volcarse de inmediato en dos destinos:
-1. **Dossier del Volumen:** Actualizar [GLOSARIO_Y_PERSONAJES.md](../../../volumen_X/novela/GLOSARIO_Y_PERSONAJES.md) con las nuevas biografías y evoluciones.
+1. **Dossier del Volumen:** Actualizar [GLOSARIO_Y_PERSONAJES.md](../../../soles_muertos/volumen_X/novela/GLOSARIO_Y_PERSONAJES.md) con las nuevas biografías y evoluciones.
 2. **Plantillas de Capítulo:** Si en un episodio ocurre una confesión o giro crucial, insertar una cabecera de hito obligatorio en el borrador de markdown antes de la redacción definitiva.

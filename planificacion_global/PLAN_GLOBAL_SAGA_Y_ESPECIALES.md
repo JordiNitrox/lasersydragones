@@ -22,7 +22,7 @@
 | **Arco Canónico: Familia Galway & Zivok** | 136 – 162 | **Volumen 11** | La nave *La Galway*, clanes ysoki, ausencia Marloc | **Recursos y Carpeta Preparados** |
 | **Libro 4: The Ruined Clouds** | 163 – 185 | **Volumen 12** | Nejeor e Istamak (Kishalee, Templo y Museo) | **Recursos y Carpeta Preparados** |
 | **Arco Canónico: Rescate de Keiden Ashton** | 186 – 222 | **Volumen 13** | Apostae (Duelo final drow y rescate del padre) | **Recursos y Carpeta Preparados** |
-| **Libro 5: The Thirteenth Gate** | 223 – 249 | **Volumen 14** | Doce Soles (Chasis de Axel, Null-9 y la Puerta) | **Recursos y Carpeta Preparados** |
+| **Libro 5: The Thirteenth Gate** | 223 – 249 | **Volumen 14** | Doce Soles (Chasis de A.Xel, Null-9 y la Puerta) | **Recursos y Carpeta Preparados** |
 | **Libro 6: Empire of Bones** | 250 – 272+ | **Volumen 15 (Parte 1)** | Acorazado *Imperio de los Huesos*, Tren de la Muerte y Sangromancia | **En Curso (Mesa Activa)** |
 
 
@@ -54,7 +54,7 @@ Todos los episodios que no pertenecen a la campaña principal de *Starfinder* ha
 * **Episodios:** 73 al 76 (primera mitad).
 * **Sistema de Juego:** *Pathfinder 2e* dentro del universo de Starfinder.
 * **Trama:** Aventura de Halloween donde la tripulación se sumerge en una cámara de inmersión virtual en la Estación Ábsalon (*«Aventuras en Viejo Golarion»* de la corporación EPIX).
-* **Personajes Cómicos:** Benrey como la rana druida *Isopi Flower*, Marloc como el orco *Valor con Bigote Sangrienta*, Axel como la leshy *Pastinaxcel 42* y Triel como la mutante *Monstruo*.
+* **Personajes Cómicos:** Benrey como la rana druida *Isopi Flower*, Marloc como el orco *Valor con Bigote Sangrienta*, A.Xel como la leshy *Pastinaxcel 42* y Triel como la mutante *Monstruo*.
 
 ---
 
@@ -94,7 +94,7 @@ graph TD
 
     subgraph B3 ["BLOQUE III: La Nave Fantasma (La Galway y Zivok)"]
         V12["Volumen 12: El Pecio de la Oscuridad (Ep 136-147)<br/><i>Zivok, La Galway y Abordaje del Pecio Eoxiano</i>"]
-        V13["Volumen 13: El Laberinto de los Lovelorn (Ep 148-162)<br/><i>Asedio Lovelorn, Dobles de Axel y Huida</i>"]
+        V13["Volumen 13: El Laberinto de los Lovelorn (Ep 148-162)<br/><i>Asedio Lovelorn, Dobles de A.Xel y Huida</i>"]
         V11 --> V12 --> V13
     end
 
@@ -111,7 +111,7 @@ graph TD
     end
 
     subgraph B6 ["BLOQUE VI: Los Doce Soles (Libro 5 Paizo)"]
-        V18["Volumen 18: Los Doce Soles (Ep 223-235)<br/><i>Hombre Tintineante, Estaciones Kishalee y Axel</i>"]
+        V18["Volumen 18: Los Doce Soles (Ep 223-235)<br/><i>Hombre Tintineante, Estaciones Kishalee y A.Xel</i>"]
         V19["Volumen 19: La Decimotercera Puerta (Ep 236-249)<br/><i>Caída de Null-9, IA Eltreth y Apertura del Portal</i>"]
         V17 --> V18 --> V19
     end
@@ -162,7 +162,7 @@ graph TD
 #### 👻 VOLUMEN 13: *La Odisea de La Galway II: El Laberinto de los Lovelorn* (Episodios 148 al 162)
 * **Episodios:** 148 al 162 (15 episodios / ~14 capítulos).
 * **Mapeo:** *Arco Canónico Propio: La Nave Fantasma Eoxiana (Parte 2: Lovelorn y Ecos)*.
-* **Sinopsis:** Atrapados en la colosal nave fantasma, la tripulación sufre el despiadado asedio de las abominaciones Lovelorn y sus toxinas alucinógenas. Mientras rescatan con vida a Yolmar, Valentina y un malherido Gazit, Axel-42 debe batirse en combate fratricida contra espantosos clones no-muertos de sí misma («Axel vs Axel», «Taquicardia») y Benrey encara sus propios reflejos («Benrey vs Benrey») antes de desacoplar la nave y escapar rumbo a Nejeor.
+* **Sinopsis:** Atrapados en la colosal nave fantasma, la tripulación sufre el despiadado asedio de las abominaciones Lovelorn y sus toxinas alucinógenas. Mientras rescatan con vida a Yolmar, Valentina y un malherido Gazit, A.Xel 42 debe batirse en combate fratricida contra espantosos clones no-muertos de sí misma («A.Xel vs A.Xel», «Taquicardia») y Benrey encara sus propios reflejos («Benrey vs Benrey») antes de desacoplar la nave y escapar rumbo a Nejeor.
 
 #### ☁️ VOLUMEN 14: *Las Nubes Arruinadas I: La Ciudadela de Istamak* (Episodios 163 al 173)
 * **Episodios:** 163 al 173 (11 episodios / ~11 capítulos).
@@ -191,13 +191,13 @@ graph TD
 #### ☀️ VOLUMEN 18: *La Decimotercera Puerta I: Los Doce Soles* (Episodios 223 al 235)
 * **Episodios:** 223 al 235 (13 episodios / ~12 capítulos).
 * **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 5: The Thirteenth Gate (Parte 1: Doce Soles)*.
-* **Hito de Personaje (Secretos de Axel, Ep. 233-234):** Axel-42 descubre a sus «hijas» y descendientes sintéticos directos (Jennifer/Miseria y los gemelos 9S), destapando el enigma de las almas que precedieron a su chasis.
-* **Sinopsis:** Tras expulsar al perturbador polizón conocido como Hombre Tintineante, la nave salta hacia el misterioso sistema estelar de los Doce Soles. Mientras exploran las descomunales estaciones orbitales Kishalee y sortean bestias milenarias de laboratorio, Axel-42 se enfrenta a revelaciones críticas sobre sus chasis sintéticos previos y las memorias de sus almas anteriores («Chicas Pesadas», «¿Es este el fin de Axel 42?»).
+* **Hito de Personaje (Secretos de A.Xel, Ep. 233-234):** A.Xel 42 descubre a sus «hijas» y descendientes sintéticos directos (Jennifer/Miseria y los gemelos 9S), destapando el enigma de las almas que precedieron a su chasis.
+* **Sinopsis:** Tras expulsar al perturbador polizón conocido como Hombre Tintineante, la nave salta hacia el misterioso sistema estelar de los Doce Soles. Mientras exploran las descomunales estaciones orbitales Kishalee y sortean bestias milenarias de laboratorio, A.Xel 42 se enfrenta a revelaciones críticas sobre sus chasis sintéticos previos y las memorias de sus almas anteriores («Chicas Pesadas», «¿Es este el fin de A.Xel 42?»).
 
 #### 🚪 VOLUMEN 19: *La Decimotercera Puerta II: El Duelo de los Androides* (Episodios 236 al 249)
 * **Episodios:** 236 al 249 (14 episodios / ~13 capítulos).
 * **Mapeo Oficial:** *Starfinder: Dead Suns - Libro 5: The Thirteenth Gate (Parte 2: Null-9)*.
-* **Giro Maestro (Episodio 246 - La Verdad de Ashera y la Forja):** Confrontación ideológica con Null-9. Se desvela que el chasis de Axel fue habitado por Ashera, la "madre" de Null, y que **el chasis de Axel es la Forja viviente** capaz de reproducir androides, un secreto que Ashera ocultó al trascender para evitar que Null lo corrompiera.
+* **Giro Maestro (Episodio 246 - La Verdad de Ashera y la Forja):** Confrontación ideológica con Null-9. Se desvela que el chasis de A.Xel fue habitado por Ashera, la "madre" de Null, y que **el chasis de A.Xel es la Forja viviente** capaz de reproducir androides, un secreto que Ashera ocultó al trascender para evitar que Null lo corrompiera.
 * **Sinopsis:** Los héroes penetran en el complejo de mando Kishalee. Allí deben confrontar a su antigua aliada y jerarca androide Null-9 y doblegar a la hostil IA Eltreth. En un combate táctico al límite de sus fuerzas («Null-9», «I.A.hora Qué Hacemos»), abren triunfalmente la Decimotercera Puerta interdimensional que conduce a la ubicación del Devastador Estelar (Cierre del Libro 5 de Paizo).
 
 #### ☠️ VOLUMEN 20: *El Imperio de los Huesos: El Asalto al Dreadnought* (Episodios 250 al 272+)
@@ -233,7 +233,7 @@ La grandeza de esta campaña radica en la genialidad creativa compartida entre e
 ### 🐀 GIRO 3: El Clan Galway y el Crucero Fantasma (Vol. 12 y 13)
 * **Naturaleza del Giro:** De comedia familiar ysoki a auténtico horror psicológico espacial.
 * **Contexto:** Lo que comienza como una reunión disfuncional con los primos y tíos de Benrey (Yolmar, Valentina, Gazit, Rinrey) a bordo de *La Galway*, se transforma en una pesadilla claustrofóbica al toparse con el pecio eoxiano a la deriva.
-* **Ejecución Literaria:** El asedio de los Lovelorn, las toxinas alucinógenas y el enfrentamiento contra dobles espectrales (*Axel vs Axel*, *Benrey vs Benrey*) ponen a prueba la cordura del grupo y demuestran la valentía inquebrantable de los ysoki.
+* **Ejecución Literaria:** El asedio de los Lovelorn, las toxinas alucinógenas y el enfrentamiento contra dobles espectrales (*A.Xel vs A.Xel*, *Benrey vs Benrey*) ponen a prueba la cordura del grupo y demuestran la valentía inquebrantable de los ysoki.
 
 ### ⚓ GIRO 4: La Deriva, Keiden Ashton y el Legado Pirata de Besmara (Vol. 16 y 17)
 * **Naturaleza del Giro:** La subversión del misterio del padre de Triel.
@@ -251,10 +251,10 @@ La grandeza de esta campaña radica en la genialidad creativa compartida entre e
 
 ### 🤖 GIRO 6: El Secreto de Ashera y la Naturaleza de A.Xel como la Forja Viviente (Volumen 18 y 19, Ep. 233, 246)
 * **Naturaleza del Giro:** Tragedia transhumanista, maternidad sintética y el código de la vida androide.
-* **El Chasis Previo (Ashera):** El cuerpo cibernético de Axel-42 no es un chasis ordinario de producción en masa. Perteneció originalmente a **Ashera**, una figura legendaria entre los androides y compañera fundacional de Claire (Eclero).
+* **El Chasis Previo (Ashera):** El cuerpo cibernético de A.Xel 42 no es un chasis ordinario de producción en masa. Perteneció originalmente a **Ashera**, una figura legendaria entre los androides y compañera fundacional de Claire (Eclero).
 * **El Milagro de la Reproducción Androide:** En el universo del Pacto, los androides no pueden procrear biológicamente. Sin embargo, Ashera exploró las ruinas ancestrales de Istamak y descubrió el mayor enigma tecnológico de la galaxia: **¡la Forja kishalee viviente era ella misma!** Su chasis biotecnológico contenía el código evolutivo («crack the code») capaz de engendrar nuevos androides (sus descendientes directos: Jennifer/Miseria, los gemelos 9S, Panquecito y Null-9).
-* **El Drama y el Rencor de Null-9:** Ashera crio y protegió a **Null-9** como a su propia hija. Al percatarse de la inestabilidad psicológica y el fanatismo radical de Null, Ashera comprendió que entregarle ese conocimiento desataría una catástrofe. Antes de que Null pudiera forzarla a revelar el secreto, Ashera decidió trascender voluntariamente en secreto, pidiéndole a Claire en su lecho de muerte que guardara el secreto bajo juramento. De esa trascendencia nació el alma inocente y renovada de **Axel-42**.
-* **La Ironía Trágica:** Null-9 cuidó después a la recién nacida Axel-42 creyéndola una extraña, sin sospechar jamás que Axel habitaba el cuerpo de su propia "madre" Ashera y que portaba el secreto de la reproducción androide. Descubrir que se le ocultó la verdad empujó a Null-9 al despecho y a aliarse con el Culto del Devorador, intentando apoderarse de la superarma estelar para forzar la evolución androide a costa del holocausto cósmico.
+* **El Drama y el Rencor de Null-9:** Ashera crio y protegió a **Null-9** como a su propia hija. Al percatarse de la inestabilidad psicológica y el fanatismo radical de Null, Ashera comprendió que entregarle ese conocimiento desataría una catástrofe. Antes de que Null pudiera forzarla a revelar el secreto, Ashera decidió trascender voluntariamente en secreto, pidiéndole a Claire en su lecho de muerte que guardara el secreto bajo juramento. De esa trascendencia nació el alma inocente y renovada de **A.Xel 42**.
+* **La Ironía Trágica:** Null-9 cuidó después a la recién nacida A.Xel 42 creyéndola una extraña, sin sospechar jamás que A.Xel habitaba el cuerpo de su propia "madre" Ashera y que portaba el secreto de la reproducción androide. Descubrir que se le ocultó la verdad empujó a Null-9 al despecho y a aliarse con el Culto del Devorador, intentando apoderarse de la superarma estelar para forzar la evolución androide a costa del holocausto cósmico.
 
 ---
 

@@ -13,7 +13,7 @@
 * **Domo Horizonte:** Majestuoso recinto de espectáculos masivos en el Ojo de Absalón, donde tuvo lugar el multitudinario concierto de Syd Velch y el motín del «mosh pit de la rata». `[Volumen 4]`
 * **Jardín de Cenizas:** Necrópolis bioclimática en el Anillo de Absalón donde se celebró el emotivo funeral de Marlene Boosmar. `[Volumen 4]`
 * **Torre Prisma (Sede de Extracciones Astrales):** Rascacielos corporativo blindado de 32 plantas en el distrito financiero de Absalón. Su planta ejecutiva (piso 28) alberga un salón de lujo veteado en oro con piano de cola y el despacho acorazado de la Señorita Joss. Escenario del golpe de espionaje y la fuga nocturna en planeador. `[Volumen 6]`
-* **Templo de Triuno y Avenida 41:** Santuario de la Deidad Máquina donde los androides acuden a sus procesos espirituales de renovación de alma, y la encrucijada urbana donde Axel halla la fotografía de su vida anterior. `[Volumen 6]`
+* **Templo de Triuno y Avenida 41:** Santuario de la Deidad Máquina donde los androides acuden a sus procesos espirituales de renovación de alma, y la encrucijada urbana donde A.Xel halla la fotografía de su vida anterior. `[Volumen 6]`
 * **Muelle 22 y Almacén 47-B:** Instalaciones logísticas y de almacenaje clandestino en los Bajos de Absalón utilizadas por el actor Bordin para suplantar presencialmente a Marcelus. `[Volumen 6]`
 
 ### El Arcanamirium
@@ -34,7 +34,7 @@
 ### El Pulmón Negro
 *Ubicación geográfica:* La Espiga, Estación Absalón  
 *Aparición en volúmenes:* **Volumen 3**  
-*Descripción:* Legendaria taberna obrera de los mineros del Colectivo Hardscrabble. En su interior alberga el solemne «Muro de los Caídos del Vacío», repleto de placas militares y fotografías de trabajadores que nunca volvieron de la Diáspora. Escenario de la gran celebración popular donde Marloc, Triel, Axel y Benrey cuelgan las placas del *Acreon* y brindan en honor a Marlene Boosmar y Amelie.
+*Descripción:* Legendaria taberna obrera de los mineros del Colectivo Hardscrabble. En su interior alberga el solemne «Muro de los Caídos del Vacío», repleto de placas militares y fotografías de trabajadores que nunca volvieron de la Diáspora. Escenario de la gran celebración popular donde Marloc, Triel, A.Xel y Benrey cuelgan las placas del *Acreon* y brindan en honor a Marlene Boosmar y Amelie.
 
 ### El Muelle 94
 *Ubicación geográfica:* El Anillo, Estación Absalón  

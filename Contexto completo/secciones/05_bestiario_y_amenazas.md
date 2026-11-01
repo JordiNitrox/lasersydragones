@@ -2,7 +2,7 @@
 
 ### El Garaggakal (Depredador del Drift)
 *Aparición en volúmenes:* **Volumen 3**  
-Monstruo cósmico vampírico que habita en las corrientes hiperespaciales. Drena energía y fuerza vital; anidaba en el hangar de la roca hasta ser destruido por Axel 42.
+Monstruo cósmico vampírico que habita en las corrientes hiperespaciales. Drena energía y fuerza vital; anidaba en el hangar de la roca hasta ser destruido por A.Xel 42.
 
 ### Driftdead (Espectros del Hiperespacio)
 *Aparición en volúmenes:* **Volumen 3**  

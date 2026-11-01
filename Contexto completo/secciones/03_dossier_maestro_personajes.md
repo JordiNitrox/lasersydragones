@@ -7,7 +7,7 @@
 * **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
 * **Voz y Actriz:** Irene  
 * **Rasgos físicos:** Diecinueve años, silueta esbelta, piel gris clara con destellos lila, cabellos blancos níveos y ojos carmesíes penetrantes. Viste armadura de segunda piel modificada y chaleco de herramientas con insignias corsarias.  
-* **Evolución y Estado:** En el Vol. 1 llega a Absalón como mecánica civil independiente huyendo de la opresión y xenofobia de su familia drow en Apostae; en el Vol. 2 dota a Gerty de 4 brazos y establece contacto por comunicador con el **Oficial León**, surgiendo entre ambos una química coqueta y cómplice; en el Vol. 3 domina la ingeniería alienígena de la Roca del Drift, rebate las tesis periciales de Kaerom en el juicio, intercambia miradas y un guiño furtivo con León en la judicatura, y confiesa en privado a Marloc que su mayor anhelo es hallar en el Vasto a su padre humano, el pirata de los Capitanes Libres **Keiden Ashton**. En el Vol. 4 mantiene un descarado intercambio de mensajes con León (quien le entrega una ficha cuántica cifrada) y revela formalmente a toda la tripulación su parentesco con Ashton mostrando la esfera ámbar; en el Vol. 5 sobrevive a ser izada por los tentáculos del Oshiga en Ukulam y desactiva el detonador de Avissa en el Templo de los Doce Soles; en el Vol. 6 coordina la recuperación del reactor de *La Furia*, diseña trampas químicas letales contra la Legión del Cielofuego, orquesta con su primo **Bumak Istrav** el asalto a la Torre Prisma, reconforta fraternalmente a Axel en su crisis de identidad e instala el procesador militar que despierta a la conciencia viva de la nave, alcanzando el **nivel 6 de maestría**.
+* **Evolución y Estado:** En el Vol. 1 llega a Absalón como mecánica civil independiente huyendo de la opresión y xenofobia de su familia drow en Apostae; en el Vol. 2 dota a Gerty de 4 brazos y establece contacto por comunicador con el **Oficial León**, surgiendo entre ambos una química coqueta y cómplice; en el Vol. 3 domina la ingeniería alienígena de la Roca del Drift, rebate las tesis periciales de Kaerom en el juicio, intercambia miradas y un guiño furtivo con León en la judicatura, y confiesa en privado a Marloc que su mayor anhelo es hallar en el Vasto a su padre humano, el pirata de los Capitanes Libres **Keiden Ashton**. En el Vol. 4 mantiene un descarado intercambio de mensajes con León (quien le entrega una ficha cuántica cifrada) y revela formalmente a toda la tripulación su parentesco con Ashton mostrando la esfera ámbar; en el Vol. 5 sobrevive a ser izada por los tentáculos del Oshiga en Ukulam y desactiva el detonador de Avissa en el Templo de los Doce Soles; en el Vol. 6 coordina la recuperación del reactor de *La Furia*, diseña trampas químicas letales contra la Legión del Cielofuego, orquesta con su primo **Bumak Istrav** el asalto a la Torre Prisma, reconforta fraternalmente a A.Xel en su crisis de identidad e instala el procesador militar que despierta a la conciencia viva de la nave, alcanzando el **nivel 6 de maestría**.
 
 #### Gerty
 * **Modelo / Naturaleza:** Meca-dron bípedo pesado de combate y soporte  
@@ -34,7 +34,7 @@
 * **Especie / Clase:** Androide (serie 42) / Operativa (*Operative*)  
 * **Aparición en volúmenes:** **Volumen 1, Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
 * **Voz y Actriz:** Sofía  
-* **Rasgos físicos:** Piel de polímero blanco mate, circuitos bioluminiscentes rosados y ojos digitales de brillo amatista. Cabello negro corto rapado en el lateral.  
+* **Rasgos físicos:** Piel sintética de tono celeste suave (azulado), circuitos bioluminiscentes rosados y ojos digitales multiespectrales (rosado basal, ámbar analítico de telemetría y brillo amatista de alerta táctica). Cabello negro corto rapado en el lateral.  
 * **Voz y Personalidad:** Letal en sigilo, analítica, implacable con armas de fuego y profundamente unida por lazos fraternales a su unidad hermana **Null-9**. En el Vol. 3 abate a Clara-247 y propina el disparo mortal al Garaggakal; en el Vol. 5 afronta los recuerdos reprimidos de su servicio militar en la Unidad 42 y abate al francotirador Salas; en el Vol. 6 sufre una profunda crisis de identidad al descubrir en el Templo de Triuno y la Avenida 41 que su chasis albergó otra alma antes de su renovación espiritual. Apoyada por el afecto incondicional de sus compañeros, supera el trance, abate a la Señorita Joss de un disparo de iones en la Torre Prisma y pilota con maestría el salto al Drift hacia La Diáspora.
 
 ---
@@ -51,7 +51,7 @@
 * **Especie:** Androide  
 * **Rol:** Cantinera, enlace en los Bajos de Absalón y «unidad hermana» de A.Xel 42  
 * **Aparición en volúmenes:** **Volumen 1, Volumen 3, Volumen 4, Volumen 6**  
-* **Descripción:** Androide de cabello rosa chicle, piel de porcelana blanca con juntas sintéticas y ojos magenta. Es la confidente más leal y antigua de Axel 42, con quien comparte un vínculo forjado diez años atrás. Trabaja tras la barra del *Click-Clack Club* (Club 13) en la Espiga defendiendo la emancipación androide. En el Volumen 6 actúa como consejera espiritual y protectora de Axel frente al misterio de la renovación de su chasis en la Iglesia de Triuno.
+* **Descripción:** Androide de cabello rosa chicle, piel de porcelana blanca con juntas sintéticas y ojos magenta. Es la confidente más leal y antigua de A.Xel 42, con quien comparte un vínculo forjado diez años atrás. Trabaja tras la barra del *Click-Clack Club* (Club 13) en la Espiga defendiendo la emancipación androide. En el Volumen 6 actúa como consejera espiritual y protectora de A.Xel frente al misterio de la renovación de su chasis en la Iglesia de Triuno.
 
 #### Bumak Istrav
 * **Especie:** Drow (elfo oscuro)  
@@ -69,7 +69,7 @@
 * **Especie:** Humana  
 * **Rol:** Tiradora de Élite de *La Furia* (Capitanes Libres)  
 * **Aparición en volúmenes:** **Volumen 6**  
-* **Descripción:** Francotiradora fría y taciturna con cicatrices de metralla en el cuello. Colabora estrechamente con Triel y Axel en el sembrado de trampas y fuego de contención contra las patrullas de la Legión del Cielofuego.
+* **Descripción:** Francotiradora fría y taciturna con cicatrices de metralla en el cuello. Colabora estrechamente con Triel y A.Xel en el sembrado de trampas y fuego de contención contra las patrullas de la Legión del Cielofuego.
 
 #### Embajador Gevalarsk Nor
 * **Especie:** Elebriano (no-muerto de Eox)  
@@ -88,6 +88,11 @@
 * **Rol:** Ingenieros caóticos de a bordo y custodios de la nave  
 * **Aparición en volúmenes:** **Volumen 2, Volumen 3, Volumen 4, Volumen 5, Volumen 6**  
 * **Descripción:** Rescatados del *Acreon*, se convierten en miembros incondicionales de la tripulación. Willy asiste con explosivos y retoques mecánicos estrafalarios mientras Naru protege las espaldas del pelotón. Son ciudadanos de honor bajo la protección diplomática de Eox.
+
+#### Capitana Elba Sohar y Oficiales del Acreon
+* **Especie / Rol:** Enana / Capitana del carguero minero *Acreon* del Colectivo Hardscrabble  
+* **Aparición en volúmenes:** **Volumen 2 (bitácoras), Volumen 3 (zombi del vacío / homenaje)**  
+* **Descripción:** Valiente líder minera enana de piel oscura casi negra, labios negros y mohawk teñido. Guió a su tripulación en el hallazgo de la Roca del Drift antes de que las crisálidas de akata desataran la pesadilla a bordo. Tras evacuar por los cables junto a la artillera vesk Magot Trask («Mago»), el oficial Orin Thunder y la primera oficial lashunta Arvath, sucumbió a la plaga en la roca, siendo abatida como zombi del vacío frente al portal pre-Brecha. A.Xel rescata sus efectos personales para rendirle honores en Absalón.
 
 #### La Conciencia de la Estrella Errante (*El Fantasma en la Máquina*)
 * **Modelo / Naturaleza:** Conciencia viva digitalizada / IA de grado militar pre-Brecha  
@@ -146,7 +151,7 @@
 * **Especie:** Androide  
 * **Rol:** Activista de derechos sintéticos y amigo íntimo de Marlene Boosmar y A.Xel 42  
 * **Aparición en volúmenes:** **Volumen 1, Volumen 2**  
-* **Descripción:** Varón androide de piel azul noche, circuitos de color naranja brillante y mirada serena. Enlace clave entre los círculos clandestinos de la estación y Marlene. Comparte un estrecho vínculo con Axel, a quien advierte sobre el peligro de radicalización armada de Null-9 y el Frente de Liberación Androide, antes de anunciar su decisión voluntaria de someterse a la renovación para ceder su chasis a una nueva alma sintética.
+* **Descripción:** Varón androide de piel azul noche, circuitos de color naranja brillante y mirada serena. Enlace clave entre los círculos clandestinos de la estación y Marlene. Comparte un estrecho vínculo con A.Xel, a quien advierte sobre el peligro de radicalización armada de Null-9 y el Frente de Liberación Androide, antes de anunciar su decisión voluntaria de someterse a la renovación para ceder su chasis a una nueva alma sintética.
 
 #### Thalud
 * **Especie:** Dragonkin  
@@ -222,13 +227,13 @@
 * **Especie:** Androide  
 * **Rol:** Mercenaria y saboteadora de Extracciones Estelares  
 * **Aparición en volúmenes:** **Volumen 3 (abatida en la Roca)**  
-* **Descripción:** Androide rescatada en el Vasto diez años atrás junto a Axel y Null-9. Contratada por Extracciones Estelares para eliminar a la tripulación en la Roca del Drift con rifle de francotirador y piedra de eón, portando una orden escrita para «herir, no matar» a Triel por ser drow. Cae abatida en combate singular ante Axel 42.
+* **Descripción:** Androide rescatada en el Vasto diez años atrás junto a A.Xel y Null-9. Contratada por Extracciones Estelares para eliminar a la tripulación en la Roca del Drift con rifle de francotirador y piedra de eón, portando una orden escrita para «herir, no matar» a Triel por ser drow. Cae abatida en combate singular ante A.Xel 42.
 
 #### Señorita Joss
 * **Especie:** Humana  
 * **Rol:** Directora de Adquisiciones Especiales de Extracciones Astrales  
 * **Aparición en volúmenes:** **Volumen 6**  
-* **Descripción:** Alta ejecutiva despiadada y calculadora encargada de las operaciones sucias de la corporación. Defiende su despacho privado en el piso 28 con un fusil de asalto militar hasta ser abatida por un disparo de iones de Axel 42.
+* **Descripción:** Alta ejecutiva despiadada y calculadora encargada de las operaciones sucias de la corporación. Defiende su despacho privado en el piso 28 con un fusil de asalto militar hasta ser abatida por un disparo de iones de A.Xel 42.
 
 #### Bordin (El Falso Marcelus)
 * **Especie:** Alienígena polioftálmico  
@@ -252,7 +257,7 @@
 * **Especie:** Lashunta  
 * **Rol:** Exsoldado de choque de la Legión del Fuego en el Cielo y Francotirador del Culto  
 * **Aparición en volúmenes:** **Volumen 4 (mención), Volumen 5**  
-* **Descripción:** Tirador sádico y demente apostado en la cabeza de El Elfo Reclinado junto a su Oshiga hasta ser abatido por Axel 42.
+* **Descripción:** Tirador sádico y demente apostado en la cabeza de El Elfo Reclinado junto a su Oshiga hasta ser abatido por A.Xel 42.
 
 #### Avissa
 * **Especie:** Humana  

@@ -32,7 +32,7 @@ Cada volumen debe concebirse como una **novela autoconclusiva en su arco inmedia
 ## 2. Estructura Canónica de Carpetas de cada Volumen
 
 ```text
-volumen_X/
+soles_muertos/volumen_X/
 ├── README.md                      # Ficha técnica, episodios asignados y estado
 ├── metadatos/
 │   └── episodios_volumen_X.json  # URLs de Libsyn/YouTube, títulos y sinopsis
@@ -42,7 +42,7 @@ volumen_X/
 └── novela/
     ├── capitulos/                 # Borradores en Markdown (00_prologo.md, 01_capitulo...md)
     ├── GLOSARIO_Y_PERSONAJES.md   # Dossier del volumen con secundarios y facciones
-    ├── generar_libro_pdf.py       # Script compilador HTML/CSS a PDF en 2 pases
+    ├── generar_libro_pdf.py       # Script compilador HTML/CSS a PDF en 2 pases (sincroniza a libros_pdf/)
     └── Lasers_y_Dragones_Volumen_X_Titulo.pdf
 ```
 
@@ -76,7 +76,7 @@ El ciclo de vida de un volumen se divide en cuatro fases modulares, cada una res
 * **Acciones:**
   1. Transformar las tiradas y combates en prosa fluida de ópera espacial (cero jerga de mesa).
   2. Aplicar la **inmersión diegética absoluta**: PROHIBIDO usar nombres de jugadores en el texto narrativo; Gerty habla mediante su sintetizador vocal.
-  3. Preservar las personalidades de Benrey, Triel, Marloc y Axel, así como la primacía de la partida real sobre Paizo.
+  3. Preservar las personalidades de Benrey, Triel, Marloc y A.Xel, así como la primacía de la partida real sobre Paizo.
   4. Actualizar el `GLOSARIO_Y_PERSONAJES.md` del volumen.
 
 ### Fase 3: Maquetación Editorial y Compilación del PDF

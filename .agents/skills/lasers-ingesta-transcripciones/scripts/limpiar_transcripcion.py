@@ -64,6 +64,11 @@ def limpiar_vtt(input_path, output_path=None):
         (r"\b(el\s+)?salto\s+al\s+triunfo\b", "el salto al Drift"),
         (r"\b(el\s+)?salto\s+del\s+triunfo\b", "el salto del Drift"),
         (r"\bhiperespacio\s+del\s+triunfo\b", "hiperespacio del Drift"),
+        # Grafía canónica oficial de A.Xel
+        (r"\bAxel\s+42\b", "A.Xel 42"),
+        (r"\bA\.xel\s+42\b", "A.Xel 42"),
+        (r"\bAxel\b", "A.Xel"),
+        (r"\bA\.xel\b", "A.Xel"),
         # Nombres de personajes secundarios
         (r"\bRing\s+Rey\b", "Rim Rey"),
         (r"\bRin\s+Rey\b", "Rim Rey"),
