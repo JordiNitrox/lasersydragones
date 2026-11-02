@@ -289,5 +289,35 @@ Tras penetrar en los niveles administrativos y el santuario superior de La Forja
 15. **De un Monstruo a Otro (Ep. 200):** Emotivo festejo prenatal (episodio 200) de Marloc y Ángela en Kairos; entrega del cochecito flotante tipo Grogu por Benrey; duelo melancólico de Olivia por Marlene; el tenso brindis de whisky entre Ambrose Boosmar y Marloc («de monstruo a monstruo») confrontando los enigmas de la amnesia dimensional y sellando el apoyo incondicional de los fundadores.
 16. **El As Bajo la Manga (Ep. 201):** Triel responde con entereza ante Kairos proclamándose libre y soberana de su destino; conexión de la Piedra Corazón y sobrecarga cuántica; doloroso sacrificio de Gerty, cuya matriz es descargada en el núcleo; apertura del portal hacia el Maelstrom; ataque de la bestia interdimensional; escape magistral de A.Xel con 20 natural de pilotaje; salto dimensional en la oscuridad y despertar consciente de Gerty en las consolas de la nave.
 
+### Volumen 17: La Nave de Besmara
+*Subtítulo:* **Volumen XVII · El Corazón del Padre II: La Nave de Besmara**  
+*Episodios adaptados:* **202 al 222**  
+*Extensión:* 21 Capítulos + Nota Editorial y Prólogo + Glosario y Personajes (81 páginas en PDF)
+
+#### Sinopsis General:
+Tras penetrar en las corrientes turbulentas del Maelstrom dimensional para rescatar al padre biológico de Triel, la tripulación sufre los efectos delirantes del caos antes de abordar el pecio corsario bendecido por la diosa pirata Besmara:
+1. **Un ¿Viernes? de Locos (Ep. 202):** La marea del Maelstrom transmuta la *Estrella Errante* e intercambia los cuerpos de la tripulación (A.Xel en Benrey, Benrey en Marloc, Marloc en Triel, Triel en A.Xel, Shirka en Charlotte, Charlotte en la nave y Kairos en Gerty). Triel construye la Brújula de Caos mientras Benrey malgasta proyectiles mágicos; exploran el hangar fractal y sufren una distorsión hacia la clínica donde Ángela Boosmar está de parto con un médico molusco, escapando por el ojo de unas tijeras hacia una taberna donde dos corsarios mutan en sirenas serpiente.
+2. **Se Viene el Culebrón (Ep. 203):** Combate en la taberna con la estatua de Keiden Ashton contra las dos sirenas corsarias de cola de reptil. Triel ataca con el *polclop*, Marloc activa la *resilient jacket*, A.Xel dispara con el arco y Benrey lanza proyectiles luminosos, hasta que Kairos/Gerty asesta un golpe crítico de oportunidad que destruye la amenaza y disuelve la ilusión.
+3. **La Sombra del Cuervo (Ep. 204):** Cesan las distorsiones y las conciencias regresan a sus propios cuerpos. Atracan en el navío viviente de Besmara; A.Xel detecta que una fragata de asalto drow de la Casa Istrav ha atracado horas antes en el sector opuesto.
+4. **Esto me Parece Familiar (Ep. 205):** Avance por galerías desgarradas; Triel reconoce la carnicería metódica de la Guardia Negra de Apostae y deduce que su hermanastra Jhidel comanda la expedición para asesinar a Keiden Ashton.
+5. **King Golarian vs Los Atómicos (Ep. 206):** Una cámara de recreo psicoplástica proyecta una batalla delirante de monstruos colosales (King Golarian) inspirada en viejas películas de celuloide que embosca al equipo.
+6. **Splinter Axcell (Ep. 207):** Infiltración de sigilo acrobático de A.Xel a través de vigas superiores y conductos de ventilación; la androide sabotea las consolas de vigilancia drow y marca la ruta de avance.
+7. **El Poder de Jhidel (Ep. 208):** Emboscada en una encrucijada bioluminiscente; tiroteo cruzado contra los comandos de élite de Apostae y despliegue del letal arsenal tecno-mágico de Jhidel Istrav.
+8. **Triel vs Jhidel (la Revancha) (Ep. 209):** Duelo a muerte directo entre las dos hermanas; Triel incapacita a Jhidel con un disparo de sobrecarga sónica y le perdona la vida, rompiendo la cadena de odio y desprecio aristocrático de su casa natal.
+9. **A Mi Hermana con Cariño (Ep. 210):** Expulsión deshonrada de los invasores drow; Triel renuncia públicamente al estigma de la nobleza de Apostae y abraza su lealtad eterna a la *Estrella Errante*.
+10. **Elemental Mi Querido Marloc (Ep. 211):** La maleabilidad psicoplástica del pecio proyecta una simulación en blanco y negro de novela negra de los años 40; Marloc lidera la investigación con gabardina entre callejones y pistas humeantes.
+11. **Llamada Mortal (Ep. 212):** Una ventisca helada congela las mamparas; en medio de la tormenta, una cabina telefónica timbra transmitiendo las últimas palabras conscientes de Keiden Ashton.
+12. **¡Caracoles amigos! (Ep. 213):** Contacto pacífico con una colonia de caracoles gigantes bioeléctricos de psicoplástico; Benrey los domestica compartiendo raciones y adoptando al molusco Panquecito.
+13. **Los Psicoplásticos son Inevitables (Ep. 214):** Fractura geométrica en el tejido de la nave; runas de ley inquebrantable anuncian la irrupción dimensional de Axis.
+14. **Nadie Espera la Inevitable Inquisición (Ep. 215):** Un Inevitable de Axis (Kolyarut de oro y engranajes) se manifiesta para juzgar a Marloc Boosmar por violar las leyes del orden natural al haber alterado el destino de Amelie.
+15. **Marloc - El Juicio Final (Ep. 216):** El Inevitable abre un portal temporal donde Olivia y Amelie llaman a Marloc; el tecnomante, en un acto supremo de redención, rechaza volver al pasado para abrazar a Ángela, a su hija recién nacida y a sus hermanos de armas. El Inevitable inclina la cabeza y se retira en paz.
+16. **Triel, Eres un Caos (Ep. 217):** Colapso de los amortiguadores gravitatorios; Triel despliega maniobras acrobáticas en gravedad cero navegando corrientes de fluido psicoplástico hirviente.
+17. **Los Atómicos y el Multiverso de la Locura (Ep. 218):** Combate definitivo ante las compuertas del puente de mando contra quimeras oníricas nacidas del Maelstrom, combinando el fuego de Kairos y los rifles de precisión.
+18. **Keiden Ashton (Ep. 219):** Apertura de la cámara central sagrada de Besmara; en el altar de mando hallan el cuerpo consumido y comatoso de Keiden Ashton, al borde del colapso biológico.
+19. **El Corazón del Padre (Ep. 220):** Triel extrae la Piedra Corazón kishalee y realiza un trasplante quirúrgico en el pecho de su padre humano; la resonancia mística despierta a Keiden y padre e hija se funden en un llanto sanador.
+20. **Piratas a la Plancha (Ep. 221):** Keiden revela que se refugió en el pecio para despistar a los asesinos de Apostae y proteger la vida de Triel; banquete corsario improvisado en el puente con risas y celebraciones.
+21. **Tintineo Intenso (Ep. 222):** La diosa pirata Besmara exige su tributo de salida; Keiden y Triel entregan un botín ceremonial de monedas antiguas, y tras la bendición de la deidad corsaria, la nave salta a máxima potencia rumbo a la Puerta de los Doce Soles.
+
+
 
 

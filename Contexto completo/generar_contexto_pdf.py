@@ -151,37 +151,37 @@ CTX_TOC_ITEMS = [
         "id": "sec_1",
         "search_key": "1. Resumen Cronológico de los Volúmenes",
         "title": "1. Resumen Cronológico de los Volúmenes",
-        "sub": "Sinopsis argumental y puntos de giro: Volúmenes 1 al 6 y 11 al 13"
+        "sub": "Sinopsis argumental y puntos de giro: Volúmenes 1 al 17"
     },
     {
         "id": "sec_2",
         "search_key": "2. Índice Maestro de Escenarios y Ubicaciones",
         "title": "2. Índice Maestro de Escenarios y Ubicaciones",
-        "sub": "Estación Absalón, Castrovel, Qabarat, Ukulam, La Diáspora, Kairos y El Imperio de los Huesos"
+        "sub": "Estación Absalón, Castrovel, Qabarat, Ukulam, La Diáspora, Kairos, El Imperio de los Huesos y El Maelstrom"
     },
     {
         "id": "sec_3",
         "search_key": "3. Dossier Maestro de Personajes",
         "title": "3. Dossier Maestro de Personajes",
-        "sub": "Protagonistas (retiro de Marloc y llegada de Zivok), aliados, secundarios y rivales"
+        "sub": "Protagonistas (Marloc Boosmar, Zivok y Kairos), Keiden Ashton, aliados, secundarios y rivales"
     },
     {
         "id": "sec_4",
         "search_key": "4. Corporaciones, Facciones e Instituciones",
         "title": "4. Corporaciones, Facciones e Instituciones",
-        "sub": "Inversiones Estelares, Hardscrabble, Consorcio de Kairos, Casa Zeizerer y Culto de Lao Shu Po"
+        "sub": "Inversiones Estelares, Hardscrabble, Consorcio de Kairos, Casa Zeizerer, Casa Istrav y Culto del Devorador"
     },
     {
         "id": "sec_5",
         "search_key": "5. Bestiario y Amenazas Cósmicas",
         "title": "5. Bestiario y Amenazas Cósmicas",
-        "sub": "Garaggakal, Akatas, Oshiga, Campin, Shantak, Engendros del Desamparo y Bone Troopers"
+        "sub": "Garaggakal, Akatas, Oshiga, Campin, Shantak, Engendros del Desamparo, Bone Troopers e Inevitables"
     },
     {
         "id": "sec_6",
         "search_key": "6. Matriz de Continuidad y Estado de la Tripulación",
         "title": "6. Matriz de Continuidad y Estado de la Tripulación",
-        "sub": "Tabla comparativa de naves, armamento, romances y estado activo (Vol. 1 al 13)"
+        "sub": "Tabla comparativa de naves, armamento, romances y estado activo (Vol. 1 al 17)"
     }
 ]
 

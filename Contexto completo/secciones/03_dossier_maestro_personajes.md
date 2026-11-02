@@ -349,3 +349,22 @@
 * **Rol:** Comandante y líder mística de la vanguardia del Culto del Devorador en Istamak  
 * **Aparición en volúmenes:** **Volumen 14, Volumen 15**  
 * **Descripción:** Fanática mística entregada a los designios del Vacío Devorador. Opera junto a Syd Velch, Null-9 y la Nueva Conciencia atrincherada en el santuario de La Forja, supervisando los rituales y los procesos de descifrado bio-cuántico de las coordenadas de la superarma estelar.
+
+#### Keiden Ashton
+* **Especie:** Humana  
+* **Rol:** Legendario capitán corsario de la nave psicoplástica de Besmara / Padre biológico de Triel Istrav  
+* **Aparición en volúmenes:** **Volumen 16 (mención y memoria), Volumen 17**  
+* **Descripción:** Corsario humano carismático, intrépido y devoto de la diosa Besmara. Años atrás se adentró en el corazón de la Deriva y robó un mítico navío vivo psicoplástico, refugiándose en el vórtice del Maelstrom para desviar la persecución de los escuadrones de la muerte de la Casa Istrav y salvar la vida de su hija Triel. Encontrado en coma vegetativo en el puente de mando por la tripulación de la *Estrella Errante*, es devuelto a la vida cuando Triel le injerta la Piedra Corazón kishalee en el pecho. Tras una conmovedora reconciliación filial y sellar el pacto corsario de Besmara, pone proa junto a la tripulación hacia la Puerta de los Doce Soles.
+
+#### Jhidel Istrav
+* **Especie:** Drow pura  
+* **Rol:** Capitana de asalto de la Guardia Negra de la Casa Istrav / Hermanastra de Triel  
+* **Aparición en volúmenes:** **Volumen 10 (mención), Volumen 17**  
+* **Descripción:** Primogénita y brazo ejecutor de la Matriarca Alistrav Istrav de Apostae. Fanática aristócrata de la supremacía drow que persigue incansablemente a Triel para exterminarla junto a su padre Keiden y borrar la «vergüenza mestiza» del linaje familiar. Lidera una fuerza de asalto de élite que aborda el pecio de Besmara en el Maelstrom. Tras un encarnizado duelo fratricida es derrotada y desarmada por Triel, quien le perdona la vida quebrantando su orgullo y forzando la huida deshonrada de la expedición drow.
+
+#### Inevitable de Axis (Kolyarut)
+* **Especie:** Constructo planar / Inevitable de Axis  
+* **Rol:** Juez cósmico de la ley primordial y de los decretos temporales del multiverso  
+* **Aparición en volúmenes:** **Volumen 17**  
+* **Descripción:** Monumental constructo de oro pulido, mecanismos de relojería celestial y rostro impasible que encarna el principio de causa y efecto inmutable. Se materializa en el pecio de Besmara para juzgar a Marloc Boosmar por alterar el tejido de la realidad al haber resucitado a Amelie en el pasado. Somete al tecnomante a una prueba ética abriendo un portal al pasado, pero respeta su libre albedrío cuando Marloc elige permanecer con su tripulación y consagrarse al futuro de su familia en Kairos, retirándose en solemne armonía cósmica.
+
