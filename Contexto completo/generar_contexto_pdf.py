@@ -151,7 +151,7 @@ CTX_TOC_ITEMS = [
         "id": "sec_1",
         "search_key": "1. Resumen Cronológico de los Volúmenes",
         "title": "1. Resumen Cronológico de los Volúmenes",
-        "sub": "Sinopsis argumental y puntos de giro: Volúmenes 1 al 6, 11 y 12"
+        "sub": "Sinopsis argumental y puntos de giro: Volúmenes 1 al 6 y 11 al 13"
     },
     {
         "id": "sec_2",
@@ -181,7 +181,7 @@ CTX_TOC_ITEMS = [
         "id": "sec_6",
         "search_key": "6. Matriz de Continuidad y Estado de la Tripulación",
         "title": "6. Matriz de Continuidad y Estado de la Tripulación",
-        "sub": "Tabla comparativa de naves, armamento, romances y estado activo (Vol. 1 al 12)"
+        "sub": "Tabla comparativa de naves, armamento, romances y estado activo (Vol. 1 al 13)"
     }
 ]
 

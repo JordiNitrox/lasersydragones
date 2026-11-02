@@ -145,6 +145,12 @@ Para evitar que la última fila del índice desborde a la página 4, se deben us
 }
 ```
 
+### Página 4: Prólogo Narrativo Obligatorio (`00_prologo.md`)
+Inmediatamente tras el salto de página del Índice de Contenidos en la página 3, el libro inicia su cuerpo literario con el Prólogo en la **página 4 física**:
+* Debe usar el encabezado de Nivel 1: `<h2 class="chapter-name">Prólogo: {Subtítulo}</h2>`.
+* Debe figurar como el segundo ítem del Índice de Contenidos (justo tras la Nota Editorial).
+* Es preceptivo verificar que aparezca en el panel de marcadores PDF y que su número de página en el índice coincida al 100% con la página 4 real.
+
 ---
 
 ## 3. Hoja de Estilos CSS Estándar

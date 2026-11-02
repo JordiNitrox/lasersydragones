@@ -76,7 +76,14 @@ Este proyecto adapta la **partida real de rol en vivo** (*actual play*), NO el m
 
 ## 5. Estructura de Capítulos, Formato y Extensión Óptima
 
-Cada archivo en `novela/capitulos/` debe seguir esta estructura:
+### A. Requerimiento Preceptivo del Prólogo (`00_prologo.md`)
+Todo volumen debe abrir obligatoriamente con un prólogo literario titulado `# Prólogo: {Subtítulo Temático}`:
+* **Función Dramática:** Actúa como puente sensorial y psicológico con el volumen anterior, recapitulando las secuelas físicas, los dilemas morales y el estado del equipo antes de sumergirse en el nuevo conflicto.
+* **Extensión Recomendada:** Entre **400 y 800 palabras**.
+* **Inmersión Diegética:** Aplica la misma regla de oro: CERO nombres de jugadores, CERO jerga de rol y CERO spoilers de episodios futuros.
+
+### B. Formato de Capítulos Regulares
+Cada archivo regular en `novela/capitulos/` debe seguir esta estructura:
 
 ```markdown
 # Capítulo {X}: {Título del Capítulo}

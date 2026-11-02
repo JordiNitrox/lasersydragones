@@ -106,6 +106,12 @@ TOC_ITEMS = [
         "sub": "Contexto, créditos de la mesa y canon de Paizo Inc."
     },
     {
+        "id": "prologo",
+        "search_key": "Prólogo: Lazos de Sangre y Ceniza",
+        "title": "Prólogo: Lazos de Sangre y Ceniza",
+        "sub": "El eco de Samboor Clamor, los páramos de Eox y el secreto de Keiden Ashton"
+    },
+    {
         "id": "cap_1",
         "search_key": "Capítulo 1: It's Morbin Time",
         "title": "Capítulo 1: It's Morbin Time",

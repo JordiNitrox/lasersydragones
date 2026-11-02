@@ -21,47 +21,48 @@
 
 | Capítulo / Escena | Episodio Podcast | Marcas Aprox. | Tipología | Descripción del Origen en la Mesa |
 |---|---|---|---|---|
-| **Capítulo 1: Si te he Fallado te Pido Perdón** | | | | |
-| · *I. La Esfera Esmeralda de Nejeor* | Ep. 163 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Esfera Esmeralda de Nejeor» a partir de los acontecimientos y tiradas del episodio 163. |
-| · *II. Calibración de Motores en Órbita* | Ep. 163 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Calibración de Motores en Órbita» a partir de los acontecimientos y tiradas del episodio 163. |
-| · *III. Inmersión en las Nubes Superiores* | Ep. 163 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Inmersión en las Nubes Superiores» a partir de los acontecimientos y tiradas del episodio 163. |
+| **Capítulo 1: Si te he fallado te pido perdón** | | | | |
+| · *I. Las secuelas de la pesadilla* | Ep. 163 | [12:00 - 28:00] | `[MESA-DIALOGO]` | Encuentro en el hospital de Kairos; revelación de la edad biológica (70 años) de Marloc, brazo cibernético y decisión de retirarse al soporte táctico. |
+| · *II. Cuentas saldadas y nuevos rumbos* | Ep. 163 | [28:00 - 45:00] | `[MESA-DIALOGO]` | Disculpa sincera de Marloc a Benrey; perdón mutuo; reclutamiento formal de Zivok y su armadura pesada «El Espectro Azul». |
+| · *III. El renacer de Shirka* | Ep. 163 | [48:00 - 01:10:00] | `[MESA-ACTO]` | Regreso a la *Estrella Errante*; Benrey introduce la clave «Shirka»; reactivación de la IA con la conciencia dragonkin y emotiva comunión. |
 | **Capítulo 2: Camino al Estrellato** | | | | |
-| · *I. El Rugido del Viento de Amoníaco* | Ep. 164 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Rugido del Viento de Amoníaco» a partir de los acontecimientos y tiradas del episodio 164. |
-| · *II. Maniobras Evasivas entre Relámpagos* | Ep. 164 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Maniobras Evasivas entre Relámpagos» a partir de los acontecimientos y tiradas del episodio 164. |
-| · *III. Salida a la Capa de Calma Atmosférica* | Ep. 164 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Salida a la Capa de Calma Atmosférica» a partir de los acontecimientos y tiradas del episodio 164. |
+| · *I. Humo, acero y recuerdos sintéticos* | Ep. 164 | [14:00 - 35:00] | `[MESA-DIALOGO]` | Cena de despedida en el tepanyaki de Kairos; diálogo existencial entre A.Xel y el chef androide sobre memoria y reinicio; pistas de Syd Velch. |
+| · *II. La oferta del comisario y el salto al vacío* | Ep. 164 | [35:00 - 52:00] | `[CANON-CTX]` | Triel recibe el mensaje holográfico del Oficial León ofreciéndole comisión en los Stewards; salto de Deriva hacia Nejeor VI. |
+| · *III. Traición en la tormenta* | Ep. 164 | [52:00 - 01:18:00] | `[MESA-ACTO]` | Sabotaje con bomba de Lao Shu Po en el acelerador de deriva; pérdida de empuje vectorial y caída en barrena hasta estrellarse en Istamak. |
 | **Capítulo 3: Encuentro de Culturas** | | | | |
-| · *I. Sombras Ciclópeas en la Niebla* | Ep. 165 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Sombras Ciclópeas en la Niebla» a partir de los acontecimientos y tiradas del episodio 165. |
-| · *II. Arquitectura Antigua Suspendida en el Aire* | Ep. 165 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Arquitectura Antigua Suspendida en el Aire» a partir de los acontecimientos y tiradas del episodio 165. |
-| · *III. El Atraque en la Plataforma Alpha* | Ep. 165 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Atraque en la Plataforma Alpha» a partir de los acontecimientos y tiradas del episodio 165. |
-| **Capítulo 4: Encuentro Cercano del Tercer Tipo** | | | | |
-| · *I. Botas en la Rejilla Resbaladiza* | Ep. 166 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Botas en la Rejilla Resbaladiza» a partir de los acontecimientos y tiradas del episodio 166. |
-| · *II. Enjambre de Chispas en el Viento* | Ep. 166 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Enjambre de Chispas en el Viento» a partir de los acontecimientos y tiradas del episodio 166. |
-| · *III. Supresión de Drones Centinela* | Ep. 166 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Supresión de Drones Centinela» a partir de los acontecimientos y tiradas del episodio 166. |
+| · *I. Al borde del precipicio gaseoso* | Ep. 165 | [10:00 - 25:00] | `[LIT-AMBIENTE]` | La nave varada sobre el abismo de Nejeor VI; fijación de soportes por Triel y Gerty; diagnóstico de daños estructurales con Shirka. |
+| · *II. Flechas de chatarra en la niebla* | Ep. 165 | [25:00 - 48:00] | `[MESA-ACTO]` | Emboscada de los primitivos Kish con arcos y hachas rudimentarias; proyectiles impactando contra el blindaje de Zivok. |
+| · *III. Demostración de fuerza* | Ep. 165 | [48:00 - 01:15:00] | `[MESA-ACTO]` | Disparo milimétrico (crítico natural 20) de Triel contra el líder kish; fuego de cobertura de Shirka y dispersión de los asaltantes. |
+| **Capítulo 4: Encuentro Cercano** | | | | |
+| · *I. Diagnóstico entre chatarra milenaria* | Ep. 166 | [12:00 - 30:00] | `[CANON-CTX]` | Identificación de repuestos requeridos para Shirka; necesidad de componentes Kishalee en el centro de Istamak. |
+| · *II. Los arcos de Istamak y las dos banderas* | Ep. 166 | [30:00 - 48:00] | `[LIT-AMBIENTE]` | Análisis de los bajorrelieves del arco de entrada; avistamiento de la guerra civil tribal entre leales a Tavet y rebeldes. |
+| · *III. El herido y la profecía de los viajeros* | Ep. 166 | [48:00 - 01:16:00] | `[MESA-ACTO]` | Triel y Benrey rescatan y curan a Tark bajo los escombros; Tark los identifica con la profecía de la Sacerdotisa Zal y los guía a su santuario. |
 | **Capítulo 5: Caso Cerrado** | | | | |
-| · *I. Archivos Grabados en Cristal Kishalo* | Ep. 167 | [00:28 - 01:15:00] | `[CANON-CTX]` | Desarrollo de la escena «I. Archivos Grabados en Cristal Kishalo» a partir de los acontecimientos y tiradas del episodio 167. |
-| · *II. La Memoria de los Cielos Antiguos* | Ep. 167 | [00:28 - 01:15:00] | `[CANON-CTX]` | Desarrollo de la escena «II. La Memoria de los Cielos Antiguos» a partir de los acontecimientos y tiradas del episodio 167. |
-| · *III. Pistas Hacia la Ciudad Flotante* | Ep. 167 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Pistas Hacia la Ciudad Flotante» a partir de los acontecimientos y tiradas del episodio 167. |
+| · *I. El enclave de la disidencia* | Ep. 167 | [15:00 - 32:00] | `[MESA-DIALOGO]` | Infiltración por los acueductos secos; audiencia formal ante la anciana Sacerdotisa Zal en su santuario tribal. |
+| · *II. La voz del Extraño* | Ep. 167 | [32:00 - 55:00] | `[CANON-CTX]` | Revelación de la profecía de «El Extraño»; reconocimiento atónito de la voz doliente y quejumbrosa de Marloc transmitida por la anomalía temporal. |
+| · *III. Las llaves del santuario* | Ep. 167 | [55:00 - 01:14:00] | `[MESA-DIALOGO]` | Instrucciones para obtener las Llaves Maestras en el Museo (Laberinto de los Fantasmas) y el Centro Médico (Casa del Renacimiento). |
 | **Capítulo 6: Pánico Satánico** | | | | |
-| · *I. Las ruinas de Ishtamak y el grafiti del vacío* | Ep. 168 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Las ruinas de Ishtamak y el grafiti del vacío» a partir de los acontecimientos y tiradas del episodio 168. |
-| · *II. El profeta del dolor* | Ep. 168 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. El profeta del dolor» a partir de los acontecimientos y tiradas del episodio 168. |
-| · *III. El apartamento con las cosas de otro* | Ep. 168 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El apartamento con las cosas de otro» a partir de los acontecimientos y tiradas del episodio 168. |
-| **Capítulo 7: Que Culebrón** | | | | |
-| · *I. Conversación al Borde del Abismo* | Ep. 169 | [00:28 - 01:15:00] | `[MESA-DIALOGO]` | Desarrollo de la escena «I. Conversación al Borde del Abismo» a partir de los acontecimientos y tiradas del episodio 169. |
-| · *II. Las Advertencias de la Androide Errante* | Ep. 169 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Las Advertencias de la Androide Errante» a partir de los acontecimientos y tiradas del episodio 169. |
-| · *III. Un Pacto Frágil entre Nieblas* | Ep. 169 | [00:28 - 01:15:00] | `[MESA-DIALOGO]` | Desarrollo de la escena «III. Un Pacto Frágil entre Nieblas» a partir de los acontecimientos y tiradas del episodio 169. |
-| **Capítulo 8: ¿Kish'ta pasando?** | | | | |
-| · *I. La Sombra Titánica Bajo la Plataforma* | Ep. 170 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Sombra Titánica Bajo la Plataforma» a partir de los acontecimientos y tiradas del episodio 170. |
-| · *II. El Emboque de la Bestia del Aire* | Ep. 170 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. El Emboque de la Bestia del Aire» a partir de los acontecimientos y tiradas del episodio 170. |
-| · *III. Fuego Disuasorio y Fuga* | Ep. 170 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «III. Fuego Disuasorio y Fuga» a partir de los acontecimientos y tiradas del episodio 170. |
+| · *I. Las ruinas de Ishtamak y el grafiti del vacío* | Ep. 168 | [12:00 - 30:00] | `[LIT-AMBIENTE]` | Campamento de cultistas; grafitis con letras de Syd Velch; carta de Miseria irritada por la indisciplina y la música del culto. |
+| · *II. El profeta del dolor* | Ep. 168 | [30:00 - 50:00] | `[MESA-DIALOGO]` | Zivok identifica la estrofa grabada y revela la verdadera identidad de Syd Velch: el joven cadete músico Roger Welch de su antigua compañía. |
+| · *III. El apartamento con las cosas de otro* | Ep. 168 | [50:00 - 01:15:00] | `[CANON-CTX]` | Cubículo de A.Xel; retratos de Null-9 y A.Xel con la pregunta «¿Cuál es mi nombre?»; mensaje holográfico del hijo de Éclair en su chasis. |
+| **Capítulo 7: ¡Qué Culebrón!** | | | | |
+| · *I. El vestíbulo de los siglos* | Ep. 169 | [15:00 - 32:00] | `[LIT-AMBIENTE]` | Llegada al Laberinto de los Fantasmas (Museo); tornos de acceso, taquilla de recepción y atrio de sesenta metros bajo el domo roto. |
+| · *II. Caída desde el dosel* | Ep. 169 | [32:00 - 50:00] | `[MESA-ACTO]` | Emboscada desde las vigas del techo de dos serpientes gigantes Acrochors; constricción de Benrey, atrapado en los anillos del reptil. |
+| · *III. Liberación milimétrica* | Ep. 169 | [50:00 - 01:18:00] | `[MESA-ACTO]` | Gerty y su martillo de vacío; tiros criogénicos de A.Xel para aflojar los anillos; Benrey escapa; ráfaga demoledora de Zivok y Triel. |
+| **Capítulo 8: ¿Kish-tá Pasando?** | | | | |
+| · *I. Los fantasmas de luz sólida* | Ep. 170 | [14:00 - 35:00] | `[MESA-ACTO]` | Entrada en la Sala de los Ancestros; activación de la alarma de seguridad; manifestación de guardianes kishalee de luz sólida. |
+| · *II. Apagando bombillas* | Ep. 170 | [35:00 - 52:00] | `[MESA-ACTO]` | Benrey coordina el fuego contra los emisores; Triel sobrecarga el circuito con pulso EMP y Gerty derriba al comandante holográfico. |
+| · *III. La sombra de los Sivv y el Degenerador Estelar* | Ep. 170 | [52:00 - 01:20:00] | `[CANON-CTX]` | Terminal interactiva del museo: historia del florecimiento Kishalee, guerra existencial contra Los Sivv y creación del Degenerador Estelar. |
 | **Capítulo 9: Una Noche en el Museo** | | | | |
-| · *I. Puesto Avanzado de los No-Muertos* | Ep. 171 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Puesto Avanzado de los No-Muertos» a partir de los acontecimientos y tiradas del episodio 171. |
-| · *II. Tiroteo al Filo de la Caída Libre* | Ep. 171 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Tiroteo al Filo de la Caída Libre» a partir de los acontecimientos y tiradas del episodio 171. |
-| · *III. Control de las Válvulas de Gas* | Ep. 171 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Control de las Válvulas de Gas» a partir de los acontecimientos y tiradas del episodio 171. |
+| · *I. El códice triangular y las dos mitades* | Ep. 171 | [15:00 - 35:00] | `[CANON-CTX]` | Despacho curatorial; datapad triangular kishalee con planos de túneles y registro de las dos llaves maestras para abrir La Forja. |
+| · *II. El estadista tartamudo* | Ep. 171 | [35:00 - 52:00] | `[MESA-ACTO]` | Reparación de la lente del holograma del filósofo kishalee por Triel; desbloqueo del compartimento con la Primera Llave Maestra. |
+| · *III. Susurros en los túneles* | Ep. 171 | [52:00 - 01:16:00] | `[LIT-AMBIENTE]` | Supertormenta eléctrica de amoníaco; patrulla de Tavet buscando intrusos; sigilo total en los conductos subterráneos de mantenimiento. |
 | **Capítulo 10: Acupuntura de Combate** | | | | |
-| · *I. Confesiones Bajo la Presión Atmosférica* | Ep. 172 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Confesiones Bajo la Presión Atmosférica» a partir de los acontecimientos y tiradas del episodio 172. |
-| · *II. Los Códigos de la Barrera de Tormentas* | Ep. 172 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Los Códigos de la Barrera de Tormentas» a partir de los acontecimientos y tiradas del episodio 172. |
-| · *III. Preparación para el Vuelo Final* | Ep. 172 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Preparación para el Vuelo Final» a partir de los acontecimientos y tiradas del episodio 172. |
-| **Capítulo 11: El Hospitalcito de los Horrores** | | | | |
-| · *I. Pabellones de Horrores Médicos* | Ep. 173 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Pabellones de Horrores Médicos» a partir de los acontecimientos y tiradas del episodio 173. |
-| · *II. Liberación de los Cautivos de Nejeor* | Ep. 173 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Liberación de los Cautivos de Nejeor» a partir de los acontecimientos y tiradas del episodio 173. |
-| · *III. Despegue con Rumbo a la Ciudadela Kishala* | Ep. 173 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «III. Despegue con Rumbo a la Ciudadela Kishala» a partir de los acontecimientos y tiradas del episodio 173. |
+| · *I. El palacio de la carne y el cristal* | Ep. 172 | [16:00 - 34:00] | `[LIT-AMBIENTE]` | Llegada a La Casa del Renacimiento (Centro Médico); atrio de triaje en ruinas; detección térmica de seis emboscados de Tavet. |
+| · *II. Lluvia de púas en recepción* | Ep. 172 | [34:00 - 52:00] | `[MESA-ACTO]` | Descarga de dardos envenenados («acupuntura») contra la armadura de Zivok; combate dinámico y reducción no letal de los guerreros kish. |
+| · *III. La advertencia del cazador* | Ep. 172 | [52:00 - 01:18:00] | `[MESA-DIALOGO]` | Interrogatorio al cazador Kurg; terror ante las cámaras médicas que deformaron a los guerreros convirtiéndolos en aberraciones amorfas. |
+| **Capítulo 11: El Hospitalcito del Terror** | | | | |
+| · *I. Acupuntura de bienvenida* | Ep. 173 | [14:00 - 20:00] | `[MESA-ACTO]` | Puerta del sanctum: Zivok activa la trampa de agujas biomecánicas (55 de daño directo), resistiendo con su blindaje enano. |
+| · *II. Las aberraciones de la carne vuelta* | Ep. 173 | [20:00 - 52:00] | `[MESA-ACTO]` | Cámara ritual negra y cápsula de regeneración; combate contra dos mutantes kish amorfos; Gerty clava al mutante con el martillo de vacío. |
+| · *III. El misterio de la cámara y la reliquia olvidada* | Ep. 173 | [52:00 - 01:06:00] | `[CANON-CTX]` | Análisis del pod de rejuvenecimiento kishalee; hallazgo del collar precursore con gemas en los dormitorios de recuperación. |
+| · *IV. La metamorfosis del capitán* | Ep. 173 | [01:06:00 - 01:25:00] | `[MESA-ACTO]` | Armario de limpieza: hallazgo del Cristal de Habilidad MK 2; Benrey medita 1 hora, alcanzando Carisma 22 y consolidando su liderazgo de capitán. |

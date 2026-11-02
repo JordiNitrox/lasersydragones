@@ -1,0 +1,53 @@
+name: Sincronizar Wiki de GitHub
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'soles_muertos/**'
+      - 'Contexto completo/**'
+      - 'scripts/actualizar_wiki.py'
+      - '.github/workflows/actualizar_wiki.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-wiki:
+    name: Compilar y Publicar Capítulos en Wiki
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositorio principal
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Clonar repositorio del Wiki
+        env:
+          WIKI_TOKEN: ${{ secrets.WIKI_SYNC_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          git clone "https://x-access-token:${WIKI_TOKEN}@github.com/${{ github.repository }}.wiki.git" wiki_dir
+
+      - name: Generar contenido adaptado para el Wiki
+        run: |
+          python3 scripts/actualizar_wiki.py --repo-dir . --wiki-dir wiki_dir
+
+      - name: Publicar cambios en el Wiki
+        working-directory: wiki_dir
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git status
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Auto-sincronización del Wiki: Capítulos y Compendio [skip ci]"
+            git push origin HEAD:master || git push origin HEAD:main
+            echo "Wiki actualizado exitosamente en GitHub."
+          else
+            echo "No se detectaron cambios en el contenido del Wiki."
+          fi

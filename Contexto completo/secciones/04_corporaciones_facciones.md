@@ -33,8 +33,8 @@ Confederación forajida de corsarios y piratas de La Diáspora unida por el cód
 Fuerza militar de élite basada en Castrovel. Despliega cañoneras y cápsulas de asalto pesado sobre Qabarat y Ukulam persiguiendo tecnología clasificada en manos de los corsarios.
 
 ### El Culto del Devorador (*Cult of the Devourer*)
-*Aparición en volúmenes:* **Volumen 4, Volumen 5, Volumen 6**  
-Secta apocalíptica y nihilista cósmica consagrada a la aniquilación de toda la materia estelar. Su célula de Ukulam liderada por Tahomen fue destruida, pero sus coordenadas transmitidas apuntan a su bastión central en La Diáspora.
+*Aparición en volúmenes:* **Volumen 4, Volumen 5, Volumen 6, Volumen 14**  
+Secta apocalíptica y nihilista cósmica consagrada a la aniquilación de toda la materia estelar y la activación del Degenerador Estelar. Tras la destrucción de su célula en Ukulam (Tahomen), la tripulación rastrea su rastro hasta Istamak en Nejeor VI (Volumen 14), donde una vanguardia de asalto liderada por el profeta Syd Velch (Roger Welch), la comandante mística Miseria, la francotiradora Null-9 y la Nueva Conciencia (el autómata reconstruido a partir del chasis de Éclair) se atrinchera en La Forja para descifrar las coordenadas de la superarma estelar.
 
 ### Universidad de Qabarat
 *Aparición en volúmenes:* **Volumen 4, Volumen 5, Volumen 6**  
@@ -42,7 +42,7 @@ Máxima institución académica de Castrovel, benefactora de la tripulación tra
 
 ### La Casa Istrav de Apostae
 *Aparición en volúmenes:* **Volumen 1, Volumen 6, Volumen 10**  
-Nobleza drow subterránea especializada en armamento pesado, manufactura militar e inteligencia corporativa. En el Volumen 1, envían a un emisario de armamento para cerrar tratos con Ferani Nadaz en la Espiga; Triel huyó de su seno materno por el desprecio hacia su condición mestiza. En el Volumen 6, el primo de Triel, Bumak Istrav, asiste a la tripulación como aliado encubierto.
+Nobleza drow subterránea especializada en armamento pesado, manufactura militar e inteligencia corporativa. En el Volumen 1, envían a un emisario de armamento para cerrar tratos con Ferani Nadaz en la Espiga; Triel huyó de su seno materno por el desprecio hacia su condición mestiza. En el Volumen 6, el primo de Triel, Bumak Istrav, asiste a la tripulación como aliado encubierto. En el Volumen 10, Triel se infiltra en sus instalaciones genéticas en Thanox para desentrañar el pasado de su padre Keiden Ashton y enfrenta en duelo fratricida a su hermanastra Jhidel.
 
 ### Los Reyes del Nivel 21 (*21st Crew*) y los 21 Watts
 *Aparición en volúmenes:* **Volumen 1**  
@@ -61,9 +61,17 @@ Cuerpo administrativo y de arbitraje neutral que rige el asteroide-casino indepe
 Linaje aristocrático drow expulsado de Apostae que opera desde la Torre Norte del asteroide Kairos como escudería de carreras, prestamistas e inversores mercenarios. Patrocinan a la tripulación de la *Estrella Errante* cediéndoles el bólido pesado *Rally Jammer* y una moto monorrueda a cambio del 30% del premio.
 
 ### El Culto de Lao Shu Po (La Rata Vieja)
-*Aparición en volúmenes:* **Volumen 11**  
-Sociedad clandestina de devotos fanáticos consagrados a Lao Shu Po, deidad patrona de los asesinos, los ladrones, las ratas y el veneno. Operando en el hampa del asteroide Kairos a través de sicarias camufladas como la mecánica Anita, intentan eliminar a los vencedores del Rally de la Muerte para apoderarse del botín.
+*Aparición en volúmenes:* **Volumen 11, Volumen 14**  
+Sociedad clandestina de devotos fanáticos consagrados a Lao Shu Po, deidad patrona de los asesinos, los ladrones, las ratas y el veneno. Operando en el hampa del asteroide Kairos a través de sicarias camufladas como la mecánica Anita, intentan eliminar a los vencedores del Rally de la Muerte. En el Volumen 14, un artefacto explosivo de pulso instalado por sus agentes en el acelerador de deriva detona durante el salto interestelar hacia Nejeor VI, forzando un aterrizaje de emergencia en Istamak.
 
 ### La Iglesia de Abadar en Kairos
 *Aparición en volúmenes:* **Volumen 11**  
 Sindicato financiero y eclesiástico del Dios del Comercio y la Riqueza que ofrece préstamos monetarios leoninos y contratos de seguro de riesgo extremo a tripulaciones endeudadas en el casino. Sus condiciones usureras son rechazadas por Triel y Marloc antes de pactar con los drow.
+
+### El Imperio Kishalee
+*Aparición en volúmenes:* **Volumen 14**  
+Civilización interestelar precursora de enorme desarrollo científico y bio-tecnológico que gobernó vastos sectores cósmicos hace diez milenios. Durante su catastrófica guerra total contra el imperio bio-mecánico invasor de los Sivv, desarrollaron el Degenerador Estelar como arma de disuasión extrema antes de extinguirse y dejar a sus remanentes sumidos en la involución.
+
+### Las Facciones Kish de Istamak (Zal vs. Tavet)
+*Aparición en volúmenes:* **Volumen 14**  
+Descendientes supervivientes de los kishalee que habitan las plataformas flotantes de Istamak. La facción pacifista de la Sacerdotisa Zal y el explorador Tark busca recuperar la memoria y el saber de sus ancestros, aliándose con la tripulación al reconocer en la voz de Marloc a «El Extraño». En contraste, la facción fanática y guerrera del caudillo Tavet practica el aislacionismo dogmático, rechaza la tecnología antigua considerándola sagrada e intocable, y ha caído bajo el influjo y engaño de los emisarios del Culto del Devorador.

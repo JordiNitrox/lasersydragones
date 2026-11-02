@@ -126,6 +126,46 @@ De vuelta en la Estación Absalón a bordo de la *Estrella Errante*, la calma es
 
 ---
 
+### Volumen 7: Mundos Fragmentados I: El Rastro hacia Eox
+*Subtítulo:* **Mundos Fragmentados I: El Rastro hacia Eox**  
+*Episodios adaptados:* **76 al 88**  
+*Extensión:* 13 Capítulos + Prólogo y Nota Editorial (81 páginas en PDF)
+
+#### Sinopsis General:
+Despertar abrupto en la Estación Absalón al descubrir que la sesión virtual en la Espiga era una emboscada armada del Culto del Devorador. Tras repeler a las hienas blindadas y salvar al ingeniero halfling Valdo, la tripulación cobra los honorarios adeudados a Inversiones Estelares. Salto al Drift hacia La Diáspora a bordo de la *Estrella Errante*: sangrados nocturnos de Marloc por el despertar de la Esfera, abordaje al corsario *Ribete Herrumbrado*, descenso a las minas de baja gravedad de Sarcesia habitadas por skreelings y trampas de esporas de la demencia, y asalto al sanctasanctórum del Espinazo del Diablo. Tras vaciar el Mainframe de la Agonía y abatir en combate naval a dos necroplaneadores en el Campo de los Perdidos, interrogan a la piloto no-muerta Nazira, descubriendo la conspiración entre el Culto del Devorador y la Flota de Cadáveres de Eox.
+
+---
+
+### Volumen 8: Mundos Fragmentados II: Las Cortes Cadavéricas de Eox
+*Subtítulo:* **Mundos Fragmentados II: El Camino Furibundo de Zo!**  
+*Episodios adaptados:* **89 al 98**  
+*Extensión:* 10 Capítulos + Prólogo y Nota Editorial (84 páginas en PDF)
+
+#### Sinopsis General:
+Llegada a las cenizas radiactivas de Eox. Tras la redención de Radavox en Ceres X, el implante del *Ojo de Cuyo* a Benrey y el emotivo reencuentro astral entre Marloc y Ángela, la tripulación desciende sobre la urbe muertocrática de Orphys. Enfrentan la kafkiana burocracia del Ministerio de la Eterna Vigilancia con la comisionada Waneda Trux, sufren emboscadas de asesinos nihili en la Calle Clavícula y se infiltran vestidos de gala en el exclusivo *Café Calavera*. Allí, el extravagante magnate de los medios no-muerto **Zo!** les impone un trato: sobrevivir a su sádico reality show televisado en vivo en la arena subterránea («El Camino Furibundo»), esquivando ciberzombis y al legendario Gólem de Neutrones de la Casa Brevak, como única vía para obtener el salvoconducto oficial hacia la prohibida Necrogarganta.
+
+---
+
+### Volumen 9: Mundos Fragmentados III: La Necrogarganta de Eox
+*Subtítulo:* **Mundos Fragmentados III: La Necrogarganta de Eox**  
+*Episodios adaptados:* **99 al 110**  
+*Extensión:* 12 Capítulos + Prólogo y Nota Editorial (85 páginas en PDF)
+
+#### Sinopsis General:
+Con el patrocinio de la audiencia de Zo!, los aventureros emprenden una salvaje persecución automovilística a través de los páramos radiactivos, rescatando al piloto Gallito Peligro y ganando el show en la azotea del matadero. En Orphys, el dragonkin borai Brody Malone desvela que el falso Marcelus es en realidad un Jiangshi renegado de la Flota de Cadáveres, y Triel decodifica el revelador anagrama: *CLAMOR SAMBOR = MARLOC BOSMAR*. Equipados con arroz y vinagre por Waneda Trux, descienden a la ciclópea grieta de la Necrogarganta. Abaten al titánico coloso Ellicoth («Ellicujo»), asaltan el pabellón de la nigromante ósea Xerantha Zatus y derrotan en combate mortal a Marcellus al borde de un estanque de ácido, recuperando las coordenadas hacia Nejeor VI y la legendaria «Carta de Despido» antes de que la armada bombardee el cañón.
+
+---
+
+### Volumen 10: Lazos de Sangre: La Sombra de Apostae
+*Subtítulo:* **Lazos de Sangre: La Sombra de Apostae**  
+*Episodios adaptados:* **111 al 122**  
+*Extensión:* 12 Capítulos + Nota Editorial e Introducción + Glosario y Personajes (71 páginas en PDF)
+
+#### Sinopsis General:
+Tras la caída de Marcellus y el colapso viral de las redes holonet de Benrey por el «gatillo del muerto», la tripulación se reúne en Eox con el androide señuelo Samboor Clamor, quien les entrega un mensaje sellado del futuro Marloc. Siguiendo el rastro del linaje materno de Triel, la *Estrella Errante* hace escala en la urbe industrial de Thanox (Apostae). Infiltrados encubiertos como sirvientes de cocina y cuadrilla de limpieza en las instalaciones de la Casa Istrav, descubren tanques de gestación eugenésica, la opresión de los siervos medio orcos y el desprecio aristocrático de la medio hermana Jhidel y la Matriarca Niriel. Tras caer Benrey a las sentinas con la bestia «Babitas» y hackear los archivos clasificados de Keiden Ashton (*«Naves de Sangre»*), Triel vence en duelo fratricida a Jhidel y el grupo huye bajo una lluvia de fuego con el martillo de Gerty, revelando los misterios pre-Brecha del chasis de A.Xel antes de poner rumbo al asteroide Kairos.
+
+---
+
 ### Volumen 11: El Rally de la Muerte
 *Subtítulo:* **El Rally de la Muerte en el Asteroide-Casino**  
 *Episodios adaptados:* **123 al 135** (Transmisión original: septiembre a diciembre de 2023)  
@@ -162,4 +202,42 @@ Tras la partida de Marloc Boosmar en el asteroide Kairos y la incorporación del
 10. **El Misterio del Nexo y la Batalla Espacial Fantasma (Ep. 145):** Gazit explica que el pecio está fuera del Río de las Almas de Pharasma y que un nexo en el Mando mantiene la nave anclada a la realidad; Mogrim expone la manipulación histórica de la Guerra del Fuego de los Magos. Escapan por ductos estrechos a una pasarela derretida; una alerta de combate desata un embrujo de bombardeo naval, expulsando a Gazit y Gerty al vacío. Benrey rescata a Gazit con su pistola gravitatoria, Triel vuela con saltojets para salvar a Gerty, y Benrey transmite códigos militares de la Legión del Fuego Celestial (Diplomacia 31), disipando la flota espectral.
 11. **Fiebre de Gul y el Nido de los Desamparados (Ep. 146):** En C23, Triel trata a Rim Rey de una mordedura de gul. Gazit y Mogrim quedan en guardia mientras los cinco protagonistas bajan a los motores. En el tranvía, Benrey ve el espectro de su antigua compañera Alana y recibe un vídeo espeluznante. Llegan al núcleo de motores: una pesadilla biomecánica pulsante cubierta de telarañas y seis cadáveres con el pecho desgarrado (incluyendo a la mística Mitra), identificados como un nido de *Love-lorn* (corazones desamparados). Zivok queda estremecido tras sintonizar la radio y ver a la *Razor Doll*. En una consola, un vídeo de una línea temporal alterna muestra a Triel de pelo negro, Jig y Marloc abandonando a A.Xel tras una puerta sellada.
 12. **Corazón Espinado (Ep. 147):** Los obturadores se cierran y la sala de control es emboscada por 6 zombis y 4 corazones arácnidos, incluyendo el corazón metálico de Mitra. A.Xel queda atrapada en una red de energía pero se libera saltando a la consola; Benrey cae presa de la confusión psíquica y dispara a A.Xel con su pistola de ascuas; Triel sufre el *Mordisco del Cínico*, perdiendo aliento y moral. En medio de un tiroteo desesperado, Zivok, Gerty y A.Xel forman un círculo defensivo espalda con espalda contra las oleadas de no-muertos, cerrando el volumen en un clímax en suspenso.
+
+---
+
+### Volumen 13: El Laberinto de los Lovelorn
+*Subtítulo:* **Volumen XIII · La Odisea de La Galway II: El Laberinto de los Lovelorn**  
+*Episodios adaptados:* **148 al 162**  
+*Extensión:* 15 Capítulos + Nota Editorial e Introducción + Glosario y Personajes (71 páginas en PDF)
+
+#### Sinopsis General:
+Atrapados en la colosal nave fantasma eoxiana, la tripulación de la *Estrella Errante* encara la resolución de la pesadilla a bordo del pecio y la posterior travesía de diecinueve días en la Deriva:
+1. **La Mística Apaciguada (Ep. 148):** Concluye la emboscada en la sala de seguridad. A.Xel apacigua el corazón profanado de la mística Mitra, liberando su alma en un destello espectral de paz. Hallan el *Psyche Ring* y reproducen la llamada de auxilio de Valentina de la Vega. Triel desactiva una trampa de alta tensión con Ingeniería y encaran un corredor de tentáculos necrománticos.
+2. **Leyendas de la Nave Escondida (Ep. 149):** Zivok se zafa de los tentáculos con vapor presurizado. En un abismo vertical de cien metros, el grupo decide dividirse en dos frentes para salvar a ambos rezagados: Benrey y Zivok suben hacia la lumbrera de protones por Valentina, mientras Triel, A.Xel y Gerty descienden a los reactores de plasma por Yolmar.
+3. **Dos Frentes en Llamas (Ep. 150):** Combate simultáneo en cotas opuestas. En el nivel inferior, Triel, A.Xel y Gerty irrumpen aplastando Lovelorn para socorrer al medio orco Yolmar acorralado; en el nivel superior, Zivok y Benrey abren fuego pesado para auxiliar a Valentina, quien lucha rodeada y sangrando profusamente.
+4. **Tres Abajo, Dos Arriba (Ep. 151):** Abajo, Triel y A.Xel estabilizan a Yolmar con sueros dérmicos. Arriba, una aberración asesta un golpe mortal a Valentina; Benrey distrae a la criatura para que Zivok la pulverice sin dañar a la exploradora. Al arrodillarse junto a ella con una poción, Benrey descubre desolado que Valentina ha muerto; recuperan sus placas de identificación e insignias con honores y se reagrupan con Yolmar.
+5. **Mimir o Morir (Ep. 152):** Ante el dilema de descansar o avanzar, la tripulación comprende que dormir en ese nido es letal. Depositan temporalmente el cuerpo de Valentina en un nicho estanco. A.Xel halla y asimila viales de nanites de platino pre-Brecha que restauran su blindaje y despiertan sensaciones latentes en sus circuitos. Avanzan hacia los reactores para sabotear la propulsión.
+6. **Muñeca Brava (Ep. 153):** En las sentinas hallan suspendida una *Razor Doll* que es una réplica exacta y corrupta de A.Xel 42, dotada de garras de navajas y un procesador rúnico. A.Xel experimenta una profunda resonancia mental sobre la esclavitud y el dolor de las minas. Una descarga necromántica reactiva a la muñeca, que se abalanza en un chillido sónico sobre A.Xel.
+7. **A.Xel contra A.Xel (Ep. 154):** Duelo acrobático y fratricida entre las dos androides mientras Zivok, Gerty y Yolmar contienen a los engendros perimetrales. A.Xel aprovecha un fallo de diseño de su clon para congelarle el núcleo torácico con la pistola de cero y rematarla con su porra táctica, concediéndole una desconexión en paz en el gran circuito.
+8. **Taquicardia (Ep. 155):** La cámara del reactor entra en sobrecarga cardiovascular («Taquicardia»). Benrey y Zivok fijan cuatro cargas térmicas en las válvulas de plasma bajo el asedio de una horda de engendros. Emprenden una huida desesperada en gravedad cero entre llamaradas y descompresiones, sellando el portón de la estación del tranvía justo cuando una colosal explosión vaporiza el sector de motores.
+9. **Camino de la Perdición (Ep. 156):** Marcha a pie por túneles a oscuras. Yolmar entrega las insignias de Valentina y revela que Gazit fue el verdadero mecenas financiero de la misión. Llegan al refugio seguro con Rim Rey y Gazit; el místico realiza una solemne oración fúnebre. Durante el sueño, A.Xel vive una experiencia mística en una llanura neblinosa rodeada de hermanas androides (Null-9, Éclair y una A.Xel de pecho abierto) que le revelan el propósito de sus nanites y su libertad.
+10. **Entre Aquí y Allá (Ep. 157):** Ascienden hacia la espina dorsal cruzando pasillos con distorsiones temporales de más cincuenta y menos doscientos años. En la antesala del puente, enfrentan un apéndice/ancla dimensional espectral; Zivok resiste la embestida como escudo enano mientras Triel, Benrey y A.Xel quebran la fisura a tiros.
+11. **El Fantasma del Espacio (Ep. 158):** Irrumpen en la catedral del puente de mando. Emerge el colosal Fantasma del Espacio, cuyo zarpazo espectral drena la mitad de la vida de Zivok en un golpe gélido. A.Xel lidera el asalto con toque espectral y Triel aplica frecuencias sónicas hasta disolver a la aparición en una lluvia de luz blanca.
+12. **Benrey contra Benrey (Ep. 159):** En el estrado de mando, Benrey enfrenta a su propio clon oscuro, que le echa en cara sus miedos ancestrales y culpas familiares. Benrey supera el terror, proclama su identidad como capitán y destruye la sombra de un tiro. Triel activa la eyección forzada de amarres magnéticos; corren por la manga presurizada y la *Estrella Errante* enciende motores mientras el pecio de 38 km colapsa sobre sí mismo y desaparece para siempre en el Vacío.
+13. **Anatomía según Triel (Ep. 160):** En la nave, Gazit entra en shock séptico. Triel improvisa un quirófano sobre la mesa del comedor y opera con precisión de plasma, extrayéndole una espina necromántica del pecho y salvándole la vida. Los cronómetros revelan que pasaron tres semanas reales en el nudo temporal. Calculan el salto a Nejeor (19 días en la Deriva). A la mañana siguiente en el hiperespacio, Benrey colapsa con fiebre necrótica violenta y pérdida masiva de pelaje.
+14. **Teorías Supositorias (Ep. 161):** Vida a bordo de ocho almas confinadas. Cuidados médicos, humor y bromas con los supositorios de Benrey. En el taller, nace una química romántica genuina entre Triel y Yolmar mientras reparan inyectores. A.Xel charla con Rim Rey sobre Marloc y deudas familiares, acordando hacer escala en el asteroide Kairos. Gazit expone su visión de los Doce Soles y la amenaza de una superarma del Culto del Devorador.
+15. **Ocho son Suficientes (Ep. 162):** Tras dos semanas, Benrey se recupera plenamente con un pelaje brillante y tupido; comparte días inolvidables de risas, confidencias y videojuegos retro con Rim Rey, sanando sus heridas emocionales. La *Estrella Errante* emerge de la Deriva y atraca en el asteroide Kairos. En la suite médica del casino, Marloc Boosmar despierta; un médico witchwyrd le gasta una broma de los 200 años antes de revelarle que Ángela ha financiado su completa bio-restauración estética para mantenerlo en sus 35 años. Tras una emotiva despedida con Rim Rey, Yolmar y Gazit, la tripulación se reúne con su pasado y zarpa con rumbo fijo hacia el gigante gaseoso Nejeor VI.
+
+---
+
+### Volumen 14: La Ciudadela de Istamak
+*Subtítulo:* **Las Nubes Arruinadas I: La Ciudadela de Istamak**  
+*Episodios adaptados:* **163 al 173**  
+*Extensión:* 11 Capítulos + Nota Editorial e Introducción + Glosario y Personajes (56 páginas en PDF)
+
+#### Sinopsis General:
+Tras superar la odisea del pecio eoxiano, la tripulación regresa a Kairos para un emotivo reencuentro en la clínica con Marloc Boosmar, quien permanece en el asteroide con Angela investigando la Esfera y recuperándose de su desgaste celular biológico (70 años), mientras Benrey reactiva a **Shirka** en el núcleo de la *Estrella Errante*. Durante el salto hiperespacial, una bomba del culto de Lao Shu Po sabotea los motores, forzando un amerizaje de emergencia a través de las tormentas de plasma del gigante gaseoso **Nejeor VI** hasta las plataformas suspendidas de la legendaria metrópoli precursora de **Istamak**.
+
+Allí, los primitivos **Kish** —herederos biológicamente degradados del glorioso Imperio Kishalee— libran una guerra fratricida: el caudillo tradicionalista Tavet ha sido corrompido por el Culto del Devorador, mientras la anciana Sacerdotisa **Zal** resiste guiada por las profecías de «El Extraño» (ecos dimensionales de la voz de Marloc emitidos por la Esfera). Tras rescatar al joven explorador Tark de una serpiente gigante Acrochor y declinar Triel con templanza una oferta de comisión del Oficial León, el grupo (Benrey, Triel, A.Xel, Zivok y Gerty) emprende la búsqueda de las dos Llaves Maestras de Istamak. Tras infiltrarse en los cubículos de los cultistas y hallar propaganda nihilista de Syd Velch (Roger Welch) y un mensaje para A.Xel del hijo de Éclair, la tripulación asalta el **Laberinto de los Fantasmas** (Museo) para extraer la Primera Llave cuántica y purga las aberraciones regeneradas en la **Casa del Renacimiento** (Centro Médico). En su sanctasanctórum, Benrey medita con el Cristal de Habilidad MK 2 alcanzando Carisma 22 y transformándose en un líder sabio, paciente y magnético, asegurando la Segunda Llave biológica antes de lanzar el asalto definitivo contra el santuario de La Forja.
+
 

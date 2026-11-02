@@ -1,0 +1,15 @@
+# Prólogo: El Laberinto de los Lovelorn
+
+Hay prisiones forjadas en piedra y acero, y hay sepulcros construidos con los restos fosilizados de una civilización que renunció a la vida para abrazar el vacío.
+
+En el corazón de la fractura dimensional, *El Imperio de los Huesos* no era una simple nave a la deriva: era un organismo necrótico colosal que devoraba la cordura de cualquiera que osara cruzar su cordón umbilical. Diecinueve kilómetros de vértebras titánicas, mamparos rezumantes de ectoplasma radiactivo y vías de monorraíl abandonadas donde el aire olía a plomo fundido y ozono marchito. Desde el instante en que la tripulación de la *Estrella Errante* puso pie sobre la columna dorsal del acorazado eoxiano para rescatar a los supervivientes del carguero *La Galway*, la misión de exploración se había transformado en una lucha desesperada por preservar el alma.
+
+Atrás quedaba el combate en gravedad cero contra las bestias aladas del Tapiz Oscuro y la carrera frenética a través del parque de simulaciones holográficas, donde el pecio materializaba con crueldad quirúrgica los traumas más lacerantes de los intrusos. Pero el verdadero horror no aguardaba en los simuladores; anidaba en la espina dorsal del navío.
+
+Los *Love-lorn*, engendros arácnidos nacidos de la desesperación, la culpa y el duelo cósmico, habían reclamado las salas de máquinas. Con aspecto de órganos cardíacos hipertrofiados soldados a microconectores y agujas óseas, estas abominaciones no solo desgarraban la carne: irradiaban una marea psíquica de pesadumbre absoluta y destilaban el veneno del *Mordisco del Cínico*, una apatía paralizante capaz de apagar la voluntad de vivir en cuestión de minutos. El clan minero de Rim Rey Galway había caído preso de aquella pesadilla, convirtiéndose en cascarones zombificados y sombras que deambulaban sin rumbo por los túneles del tranvía.
+
+Aferrado a su rifle de asedio con los servomotores de *El Espectro Azul* vibrando a máxima potencia, Zivok se había erigido en el bastión defensivo que la tripulación necesitaba tras la partida de Marloc. Sin embargo, ni siquiera el blindaje de grado militar del enano o la fuerza destructiva del meca Gerty podían blindar sus mentes contra el asedio psíquico. Benrey Galway cargaba en sus ojos con el pavor visceral de haber herido por confusión a sus propios camaradas; Triel Istrav sentía el peso del veneno entumeciendo sus dedos mientras hackeaba a contrarreloj las esclusas de hueso; y A.Xel 42, imperturbable en apariencia, procesaba con alarma la degradación molecular de una nave atrapada entre dos realidades.
+
+En las profundidades del leviatán aguardaba el puente superior, el enigmático monolito de piedra precursora y los archivos de guerra que custodiaban el mayor secreto de la Flota de Cadáveres: los ecos de una línea temporal alternativa donde la galaxia entera ardía bajo un sol muerto.
+
+El laberinto exigía su tributo. Y la tripulación debía descender al epicentro de la locura si deseaba volver a ver las estrellas.

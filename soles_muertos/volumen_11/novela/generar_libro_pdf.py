@@ -106,6 +106,12 @@ TOC_ITEMS = [
         "sub": "Contexto, créditos de la mesa y canon de Paizo Inc."
     },
     {
+        "id": "prologo",
+        "search_key": "Prólogo: Luces de Neón sobre el Vacío",
+        "title": "Prólogo: Luces de Neón sobre el Vacío",
+        "sub": "El adiós a Eox, el asteroide Kairos y la leyenda de Keiden Ashton"
+    },
+    {
         "id": "cap_1",
         "search_key": "Capítulo 1: Ahora ves, ahora Na-ves",
         "title": "Capítulo 1: Ahora ves, ahora Na-ves",

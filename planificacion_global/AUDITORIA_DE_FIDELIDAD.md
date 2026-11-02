@@ -22,9 +22,9 @@ La producción editorial se divide en dos auditorías independientes:
 
 ---
 
-## 2. Los Siete Puntos de Control Narrativo
+## 2. Los Ocho Puntos de Control Narrativo
 
-Todo capítulo o volumen debe superar satisfactoriamente estos siete controles:
+Todo capítulo o volumen debe superar satisfactoriamente estos ocho controles:
 
 ### Control 1: Fidelidad Fáctica a las Sesiones
 * **Pregunta:** ¿Todos los acontecimientos nucleares proceden del audio de la partida real?
@@ -76,6 +76,11 @@ Todo capítulo o volumen debe superar satisfactoriamente estos siete controles:
      ```
      *(Debe dar 0 coincidencias).*
 
+### Control 8: Presencia y Calidad del Prólogo Narrativo
+* **Pregunta:** ¿Cuenta el volumen con un `00_prologo.md` que funcione como puente dramático y sensorial?
+* **Criterio:** Todo volumen debe incluir preceptivamente un archivo de prólogo que enlace orgánicamente con el desenlace del volumen anterior, recapitulando el estado psicológico, físico y táctico de los protagonistas y anticipando el conflicto inmediato sin vulnerar la barrera temporal anti-spoilers.
+* **Inmersión y Formato:** Debe cumplir estrictamente la regla de oro diegética (cero nombres de jugadores en prosa, cero jerga de mesa), titularse `# Prólogo: {Subtítulo Temático}` y ubicarse en la página 4 física del PDF (inmediatamente después del Índice de Contenidos en la página 3).
+
 ---
 
 ## 3. Plantilla de Informe de Auditoría Narrativa
@@ -97,4 +102,6 @@ Al auditar un volumen, registrar el resultado en `soles_muertos/volumen_X/metada
 | 5. Consistencia de Voces | [CONFORME / CORREGIDO] | Voces de Benrey, Triel, Gerty, Marloc y A.Xel afinadas. |
 | 6. Extensión y Ritmo | [CONFORME / CORREGIDO] | Horquilla de palabras equilibrada por capítulo. |
 | 7. Inmersión Diegética | [CONFORME / CORREGIDO] | Cero fugas de nombres de jugadores ni jerga de rol. |
+| 8. Prólogo Narrativo | [CONFORME / CORREGIDO] | Presencia y calidad de 00_prologo.md como puente orgánico entre volúmenes. |
+```
 ```

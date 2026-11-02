@@ -109,6 +109,15 @@
 *Aparición en volúmenes:* **Volumen 3 (mención), Volumen 5 (mención), Volumen 6 (rumbo final y base de Marcelus)**  
 *Descripción:* Inmenso cinturón de fragmentos planetarios, bases corsarias y túneles mineros forajidos. Dominio supremo de los Capitanes Libres, enclave clandestino de las células del Culto del Devorador y ubicación de la estación espacial fortificada del verdadero Marcelus.
 
+### Planeta Eox: Orphys, La Necrogarganta y Thanox
+*Ubicación geográfica:* Sistema de los Mundos del Pacto (Planeta Eox)  
+*Aparición en volúmenes:* **Volumen 10**  
+*Descripción:* Mundo necrótico y radioactivo gobernado por los Sabios Óseos.
+* **Orphys:** Metrópoli subterránea eoxiana construida bajo bóvedas de plomo. Alberga la sede corporativa de Inversiones Estelares S.C., donde Marloc descubre que él mismo es Samboor Clamor a través de una carta enviada desde una línea temporal futura. `[Volumen 10]`
+* **La Necrogarganta y la Fosa de Ácido:** Escenario geológico desolado de riscos óseos y vapores corrosivos donde la tripulación y Rawsh libran el combate final a muerte contra el vampiro jiangshi Marcellus. `[Volumen 10]`
+* **Thanox:** Urbe cavernosa e industrial de formaciones coralinas porosas, regida como ciudad-estado libre por «El Sin Alma». Alberga fábricas, guarderías obreras y enclaves biogenéticos clandestinos. `[Volumen 10]`
+* **Complejo Genético y Administrativo de la Casa Istrav en Thanox:** Instalación subterránea fortificada donde la nobleza matriarcal drow lleva a cabo manipulaciones eugenésicas y custodia los archivos de linaje. Se divide en Laboratorios Genéticos, Área Residencial / Museo de la Fundadora y Núcleo de Archivos, escenario de la infiltración de Triel y su duelo fratricida contra Jhidel. `[Volumen 10]`
+
 ### Asteroide-Casino Kairos
 *Ubicación geográfica:* Espacio profundo / Rutas no cartografiadas en tránsito hacia el sistema Nejeor  
 *Aparición en volúmenes:* **Volumen 11**  
@@ -130,11 +139,21 @@
 
 ### El Imperio de los Huesos (*The Empire of Bones*)
 *Ubicación geográfica:* Espacio profundo / Fractura dimensional en el Vacío  
-*Aparición en volúmenes:* **Volumen 12**  
+*Aparición en volúmenes:* **Volumen 12, Volumen 13**  
 *Descripción:* Acorazado colosal de la marina eoxiana clase *Aniquilador del Viento Oscuro*, de treinta y ocho kilómetros originales (diecinueve en su mitad superviviente), manufacturado por Viento Negro Ingenierías. Presenta degradación atómica milenaria continua y un monolito de piedra pre-Brecha idéntico a la Roca del Derribo incrustado en su proa. Atrapado entre dimensiones y desconectado del Río de las Almas de Pharasma, actúa como un macro-embrujo que devora energía psíquica:
 * **Columna Dorsal y Cordón Umbilical:** Espina gigantesca de vértebras fosilizadas donde atracó el carguero *La Galway* y donde merodean monstruosidades aladas del Tapiz Oscuro (Shantak). `[Volumen 12]`
 * **Estación de Tránsito C23:** Subestación de cambio de agujas del monorraíl del pecio, fortificada con barricadas y torretas por el capitán Rim Rey Galway. `[Volumen 12]`
 * **Líneas del Tranvía Óseo:** Túneles cavernosos que recorren la espina del navío, custodiados por el embrujo del *Hambre de los Gules* y con brechas de radiación que asoman a la visión cósmica de los Doce Soles. `[Volumen 12]`
 * **Cubierta de Observación y Entretenimiento (Parque Holográfico):** Cubierta anegada en ectoplasma donde una simulación psicotrónica materializa los traumas más lacerantes de los visitantes (selvas de bombardeo esclavo, ruinas akitonianas y salones arcade con laberintos criptográficos). `[Volumen 12]`
-* **Núcleo de Motores:** Complejo biomecánico pulsante con aspecto de arterias de carne calcinada, convertido en un colosal nido de *Love-lorn* (engendros del desamparo). `[Volumen 12]`
-* **Área de Mando:** Centro neurálgico del acorazado donde un nexo dimensional mantiene el leviatán atado a nuestra realidad. `[Volumen 12]`
+* **Núcleo de Motores:** Complejo biomecánico pulsante con aspecto de arterias de carne calcinada, convertido en un colosal nido de *Love-lorn* (engendros del desamparo). `[Volumen 12, Volumen 13]`
+* **Área de Mando y Puente Superior:** Centro neurálgico del acorazado donde un nexo dimensional mantiene el leviatán atado a nuestra realidad y donde se encuentra la consola de control precursora. `[Volumen 12, Volumen 13]`
+
+### Nejeor VI y la Ciudadela de Istamak
+*Ubicación geográfica:* Sistema Nejeor, capas altas de la atmósfera del gigante gaseoso Nejeor VI  
+*Aparición en volúmenes:* **Volumen 14**  
+*Descripción:* Nejeor VI es un planeta gigante gaseoso de tonalidades cobrizas, azotado por densas tormentas de amoníaco y campos electromagnéticos extremos. En las capas superiores de su atmósfera flota suspendida mediante tecnología antigravitatoria la legendaria metrópoli en ruinas de Istamak («La Joya del Firmamento»), antiguo centro científico y biológico del desaparecido Imperio Kishalee:
+* **Istamak (La Joya del Firmamento):** Ciudadela suspendida entre las nubes, caracterizada por plazas cubiertas de vegetación fósil bioluminiscente, paseos derruidos y una atmósfera teñida de niebla cobriza. Hogar de los descendientes kish, divididos en tribus aisladas. `[Volumen 14]`
+* **El Laberinto de los Fantasmas (Museo de Historia Kishalee):** Monumental complejo de salas de holo-proyección y dioramas pre-Brecha donde se custodian los registros de la guerra ancestral contra los invasores Sivv y la creación del Degenerador Estelar. Custodia la primera Llave Maestra hexagonal y alberga nidos de feroces Acrochors en su atrio. `[Volumen 14]`
+* **La Casa del Renacimiento (Centro Médico y Genético):** Complejo de laboratorios de bioingeniería y biorreactores celulares kishalee. Debido al desgaste milenario de las cámaras médicas, los tratamientos mutaron a los guerreros voluntarios en aberraciones informes. Custodia la segunda Llave Maestra biológica y el Cristal de Habilidad MK 2. `[Volumen 14]`
+* **La Forja (Templo del Gran Círculo):** Fortaleza central de Istamak provista de una cúpula blindada por barreras de energía kishalee. En su interior se atrinchera la vanguardia del Culto del Devorador para descifrar las coordenadas del Degenerador Estelar. `[Volumen 14]`
+* **Campamento de Zal y Acueductos Subterráneos:** Red de alcantarillado, arcos de piedra y colectores de condensación bajo las plataformas de Istamak, donde la Sacerdotisa Zal y sus seguidores resisten el asedio de la facción tradicionalista. `[Volumen 14]`

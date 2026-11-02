@@ -65,7 +65,7 @@ El ciclo de vida de un volumen se divide en cuatro fases modulares, cada una res
 ├─────────────────────────────────────────────────────────────┤
 │ 3. MAQUETACIÓN Y PDF   ──► Skill: lasers-maquetacion-pdf
 ├─────────────────────────────────────────────────────────────┤
-│ 4. DOBLE AUDITORÍA     ──► 4A: Fidelidad Narrativa (7 Puntos)
+│ 4. DOBLE AUDITORÍA     ──► 4A: Fidelidad Narrativa (8 Puntos)
 │                            4B: Editorial y PDF (Checklist Maestro)
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -90,7 +90,7 @@ El ciclo de vida de un volumen se divide en cuatro fases modulares, cada una res
 * **Skill activo:** `lasers-maquetacion-pdf`
 * **Acciones:**
   1. Aplicar la geometría A4 estricta (`size: A4; margin: 25mm 22mm 25mm 22mm;`).
-  2. Configurar la Portada estándar, la Página 2 (Nota Editorial con créditos de mesa y aviso de Paizo) y la Página 3 (Índice de 1 sola página).
+  2. Configurar la Portada estándar, la Página 2 (Nota Editorial con créditos de mesa y aviso de Paizo), la Página 3 (Índice de 1 sola página) y la Página 4 (Prólogo).
   3. Ejecutar el script `generar_libro_pdf.py` con el algoritmo de doble pase (`pdftotext`) para calcular la paginación real.
   4. Compilar con LibreOffice en modo headless y verificar visualmente las páginas 1 a 4 con `pdftoppm`.
 
@@ -108,10 +108,11 @@ Antes de dar por cerrado cualquier volumen, es obligatorio superar dos auditorí
 5. **Consistencia de Voces:** Preservación de la psicología canónica de Benrey, Triel, Gerty, Marloc y A.Xel.
 6. **Equilibrio de Extensión:** Capítulos balanceados entre 1.500 y 3.500 palabras (evaluar si un capítulo > 4.500 requiere dividirse).
 7. **Inmersión Diegética:** Cero nombres de jugadores en prosa y cero alucinaciones STT.
+8. **Presencia y Calidad del Prólogo Narrativo:** Comprobación obligatoria de `00_prologo.md`, verificando que actúe como puente orgánico con el volumen previo, recapitulando el estado emocional y físico de la tripulación y cumpliendo los filtros de inmersión y anti-spoilers.
 
 ### 4B. Auditoría Editorial y Maquetación PDF (Checklist Maestro de 10 Puntos)
-1. **Marcadores PDF:** Todos los capítulos y preliminares deben figurar en el Nivel 1 en el panel de marcadores de LibreOffice (usar `<h2 class="chapter-name">`, nunca `<h1>`).
-2. **Concordancia de Páginas:** La página física del PDF donde empieza cada capítulo debe coincidir con el número impreso en el Índice de Contenidos.
+1. **Marcadores PDF:** Todos los capítulos, el prólogo y los preliminares deben figurar en el Nivel 1 en el panel de marcadores de LibreOffice (usar `<h2 class="chapter-name">`, nunca `<h1>`).
+2. **Concordancia de Páginas:** La página física del PDF donde empieza el prólogo (pág. 4) y cada capítulo debe coincidir con el número impreso en el Índice de Contenidos.
 3. **Índice en 1 sola página:** La tabla del índice no debe desbordarse hacia la página 4.
 4. **Barrido Anti-Fugas de Nombres de Jugadores:**
    ```bash

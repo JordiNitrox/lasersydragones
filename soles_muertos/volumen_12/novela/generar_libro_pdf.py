@@ -107,6 +107,12 @@ TOC_ITEMS = [
         "sub": "Contexto, créditos de la mesa y canon de Paizo Inc."
     },
     {
+        "id": "prologo",
+        "search_key": "Prólogo: El Sepulcro entre Dimensiones",
+        "title": "Prólogo: El Sepulcro entre Dimensiones",
+        "sub": "El relevo de Zivok, la anomalía del Vacío y el leviatán de la Flota de Cadáveres"
+    },
+    {
         "id": "cap_1",
         "search_key": "Capítulo 1: Zivok",
         "title": "Capítulo 1: Zivok",
