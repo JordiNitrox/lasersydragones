@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lasers y Dragones: La Forja Kishalee</title>
+<style>
+  @page {
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
+  }
+  
+  body {
+    font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section-heading-main {
+    font-size: 22pt;
+    text-align: center;
+    color: #0b1a30;
+    margin-top: 0;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 10px;
+    page-break-before: always;
+    break-before: page;
+  }
+  
+  h2.chapter-name {
+    page-break-before: always;
+    break-before: page;
+    font-size: 22pt;
+    color: #0b1a30;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1.3;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+  }
+  
+  .chap-sub {
+    font-size: 18pt;
+    font-style: italic;
+    color: #2b6cb0;
+    font-weight: normal;
+  }
+  
+  h3.section-title {
+    font-size: 14pt;
+    color: #2b6cb0;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    border-bottom: 1px dashed #e2e8f0;
+    padding-bottom: 4px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h3.subsection-title {
+    font-size: 12.5pt;
+    color: #2d3748;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h4.subsection-title {
+    font-size: 11.5pt;
+    color: #1a365d;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 0 12px 0;
+    text-indent: 1.5em;
+  }
+  
+  p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
+    text-indent: 0;
+  }
+  
+  .divider {
+    text-align: center;
+    margin: 25px 0;
+    color: #a0aec0;
+    font-size: 10pt;
+    letter-spacing: 6px;
+  }
+  
+  .bullet-list {
+    margin: 12px 0 15px 25px;
+    padding: 0;
+  }
+  
+  .bullet-list li {
+    margin-bottom: 6px;
+    text-align: justify;
+  }
+  
+  .quote {
+    margin: 18px 25px;
+    padding: 10px 18px;
+    border-left: 3px solid #b8860b;
+    background: #f7fafc;
+    font-style: italic;
+    color: #4a5568;
+  }
+  
+  /* ESTILOS DE LA TABLA DE ÍNDICE COMPACTA EN 1 SOLA PÁGINA */
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2px 0;
+  }
+  
+  .toc-table td {
+    padding: 2px 3px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 8pt;
+    line-height: 1.12;
+  }
+  
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+  }
+  
+  .toc-sub {
+    font-size: 7.2pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 1.08;
+  }
+</style>
+</head>
+<body>
+
+<!-- PÁGINA 1: PORTADA -->
+<div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+    Ópera Espacial · Universo Starfinder
+  </p>
+  
+  <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+  
+  <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+    LASERS Y DRAGONES
+  </div>
+  
+  <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+    La Forja Kishalee
+  </div>
+  
+  <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+  
+  <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+    ✦ &nbsp; ◈ &nbsp; ✦
+  </div>
+  
+  <p style="font-size: 10.5pt; line-height: 1.6; color: #4a5568; margin: 25px auto; max-width: 440px; text-indent: 0; text-align: center;">
+    Adaptación literaria integral de los episodios 174 al 185 del podcast <strong>Lasers y Dragones</strong>.<br>
+    <em>La regeneración de Zivok en la clínica, los ecos rebeldes de A.Xel y Éclair,<br>
+    la peligrosa travesía por los archipiélagos flotantes de la Tierra Rota,<br>
+    el colapso de SecuriTech, el despertar de La Forja y la prueba de los cuatro planos.</em>
+  </p>
+  
+  <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 40px auto 20px auto;">
+  
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 9.5pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+    VOLUMEN XV · LAS NUBES ARRUINADAS II: LA FORJA KISHALEE
+  </p>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 2 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 2: NOTA EDITORIAL E INTRODUCCIÓN -->
+<div style="page-break-before: always; break-before: page; padding: 10px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 12px; padding-bottom: 6px; font-size: 16pt;">
+    Nota Editorial e Introducción
+  </h2>
+  
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 8px;">
+    La presente obra constituye el decimoquinto volumen de la saga de novelizaciones del podcast de rol en vivo costarricense <strong>Lasers y Dragones</strong>, adaptando de manera íntegra, orgánica y cronológica los acontecimientos de los episodios 174 al 185 de la campaña oficial <em>Dead Suns</em> (Soles Muertos) de Paizo Inc. Este libro culmina la expedición sobre la colosal metrópoli suspendida de <strong>Istamak</strong>, en el gigante gaseoso <strong>Nejeor VI</strong>, profundizando en los vestigios biomecánicos de la civilización <strong>Kishalee</strong> y el avance implacable hacia las profundidades de la legendaria <strong>Forja</strong>.
+  </p>
+  
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 8px;">
+    Tras descubrir las complejas instalaciones de la Casa del Renacimiento y descifrar la tecnología médica de los ancestros kishalee, la tripulación de la <em>Estrella Errante</em> enfrenta momentos de profunda catarsis física y emocional. El veterano artillero enano <strong>Zivok Jard</strong>, abrumado durante décadas por fracturas mal soldadas y dolor crónico, confía su cuerpo a la cápsula de regeneración tisular, emergiendo con una vitalidad renacida para liderar la vanguardia con renovada fiereza. Paralelamente, <strong>A.Xel 42</strong> se ve confrontada por las sombras de su pasado en la Diáspora y la rebelión de <em>Ex Novo</em>: una transmisión holográfica de Éclair y los ecos de las decisiones de Null-9 ponen a prueba su lealtad, mientras sus camaradas reafirman que su lugar está junto a ellos.
+  </p>
+
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 8px;">
+    Para desentrañar el acceso hermético a La Forja, la tripulación emprende una peligrosa travesía a través de las islas flotantes de la Tierra Rota, alcanzando el ruinoso complejo de <strong>Tecnologías de Seguridad (SecuriTech)</strong>. Allí, entre alfombras de micelio mutado, aberraciones fúngicas y el colapso estructural de la instalación, Benrey Galway, Triel Istrav, A.Xel 42, Zivok Jard y el meca Gerty deberán trabajar en perfecta sincronía para recuperar el código maestro de restablecimiento industrial. Con el liderazgo transformado de Benrey, cuyo apasionado discurso ante los clanes kish desafía milenios de superstición en favor del conocimiento científico, los héroes se dirigen finalmente hacia el imponente baluarte de La Forja, donde defensas perimetrales letales, horrores carroñeros y trampas planares ancestrales aguardan su llegada.
+  </p>
+
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 10px;">
+    La historia traslada a la prosa literaria la improvisación, el humor, la tensión dramática y la camaradería forjada en la mesa de juego original bajo la dirección del Game Master <strong>Roberto</strong>, rindiendo tributo al talento y la complicidad de su elenco de jugadores:
+  </p>
+  
+  <!-- MESA DE JUEGO ORIGINAL -->
+  <div style="margin: 8px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 8.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 6px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benrey Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Zivok Jard <em>(Artillero Enano)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
+    </p>
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+  </div>
+
+  <!-- AVISO DE PAIZO Y ATRIBUCIÓN -->
+  <table style="width: 100%; margin: 10px 0 0 0; border: 1px solid #cbd5e0; background-color: #f8fafc; border-collapse: collapse; page-break-inside: avoid; break-inside: avoid;">
+    <tr>
+      <td style="padding: 8px 12px; font-size: 7.5pt; color: #4a5568; line-height: 1.35; text-align: justify; border: none;">
+        <p style="margin: 0 0 4px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+          Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+        </p>
+        <p style="margin: 0 0 4px 0; text-indent: 0;">
+          Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
+        </p>
+        <p style="margin: 0; text-indent: 0;">
+          Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benrey Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Zivok Jard) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 3 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 3: ÍNDICE DE CONTENIDOS -->
+<div style="padding: 10px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 6px; padding-bottom: 3px; font-size: 15pt;">
+    Índice de Contenidos
+  </h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto, créditos de la mesa y canon de Paizo Inc.</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Prólogo: Los Ecos de la Forja</div>
+        <div class="toc-sub">El secreto kishalee, la amenaza del Devorador y el avance a La Forja</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 1: La Máquina del Misterio</div>
+        <div class="toc-sub">Basado en el Episodio 174 · Hacha kishalee, dolor de Zivok y la regeneración en la clínica</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">6</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 2: Sagrada Selección Natural</div>
+        <div class="toc-sub">Basado en el Episodio 175 · Lentes subdérmicos, debate con Tzayl y el búnker de Miseria</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">12</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 3: El Episodio de Axel</div>
+        <div class="toc-sub">Basado en el Episodio 176 · Transmisión de Éclair, memoria de Ex Novo y la carta grabada</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">17</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 4: El Random Encounter</div>
+        <div class="toc-sub">Basado en el Episodio 177 · Tierra Rota, cristales antigravitatorios y el depredador alado</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">22</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 5: Micótico Furincular</div>
+        <div class="toc-sub">Basado en el Episodio 178 · Esporas de metralla, el refrigerador de oficina y el Guantelete</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">27</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 6: Teamwork is Dreamwork</div>
+        <div class="toc-sub">Basado en el Episodio 179 · Trampa eléctrica, Escáner de Movimiento y código maestro XLT-88</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">32</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 7: La Princesa no Está en este Castillo</div>
+        <div class="toc-sub">Basado en el Episodio 180 · Enjambre micelial, colapso de SecuriTech y fuga en las oficinas</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">37</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 8: ¡Azucá!</div>
+        <div class="toc-sub">Basado en el Episodio 181 · Ventana sónica, rescate bajo los escombros y el clan Jard</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">42</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 9: El Discurso del (Ben)rey</div>
+        <div class="toc-sub">Basado en el Episodio 182 · Discurso a la tribu, Arco de Caza Kish y temblores al amanecer</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">47</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 10: Les Misérables</div>
+        <div class="toc-sub">Basado en el Episodio 183 · La Sombra de Miseria, aviso de Null-9, eolis rabiosos y el cañón</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">52</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 11: ¡¡Está cañón!!</div>
+        <div class="toc-sub">Basado en el Episodio 184 · Carrera bajo el cañón perimetral, el Limo Carroñero y rescate de Gerty</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">57</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 12: El Elemento Sorpresa</div>
+        <div class="toc-sub">Basado en el Episodio 185 · Descenso al búnker basal, matriz de los cuatro planos y victoria</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">62</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">Istamak, la tripulación de la Estrella Errante, tecnología kishalee y facciones</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">67</td>
+    </tr>
+  </table>
+</div>
+
+<!-- CONTENIDO PRINCIPAL DEL LIBRO -->
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Prólogo: Los Ecos de la Forja</h2>
+<p>Bajo el dosel de nubes cobrizas y tormentas perpetuas de Nejeor VI, la metrópoli suspendida de Istamak parecía un relicario flotante tallado en cristal y aleaciones extintas. Hacía incontables milenios, cuando el Imperio Kishalee dominaba los confines de la galaxia y libraba su guerra desesperada contra la amenaza Sivv, aquella ciudad aérea fue la cúspide de la ingeniería biológica y la sabiduría estelar. Sin embargo, el cataclismo de la Brecha y el lento declive de las eras habían reducido la grandeza de los kishalee a un mero susurro mitológico, transformando a sus descendientes en tribus primitivas que veneraban la tecnología de sus ancestros como si fueran designios inescrutables de divinidades olvidadas.</p>
+<p>Tras sortear los peligros de los bosques flotantes y desentrañar los oscuros ensayos clínicos de la Casa del Renacimiento, los tripulantes de la <em>Estrella Errante</em> comprendieron que el destino del sistema entero pendía de un delicado equilibrio. En las entrañas de la urbe en ruinas, el Culto del Devorador continuaba su marcha implacable hacia La Forja, el complejo industrial más impenetrable y sagrado de Istamak, con el sombrío propósito de arrancar los secretos del Degenerador Estelar y desatar la aniquilación cósmica.</p>
+<p>Para Benrey Galway, la travesía en Nejeor había adquirido un cariz profundamente transformador. La reciente asimilación del cristal de aptitud no solo había refinado su agudeza mental, sino que había dotado a su voz de un magnetismo y una resonancia oratoria insospechadas para un emisario ysoki. A su lado, la mecánica semi-drow Triel Istrav libraba su propia cruzada contra la ignorancia, decidida a demostrarle a la tribu kish que la ciencia no exigía oraciones ni sacrificios sangrientos, sino comprensión y método. Al mismo tiempo, en el pecho cibernético de A.Xel 42, las heridas de la rebelión androide volvían a abrirse ante la sombra de Null-9 y las transmisiones furtivas de un joven rebelde que alguna vez llevó el nombre de Éclair.</p>
+<p>Y en la vanguardia, envuelto en el frío metal de su servoarmadura, el artillero enano Zivok Jard contemplaba los cilindros de regeneración molecular de la clínica con la callada esperanza de un soldado veterano cuyos huesos, quebrados en cien batallas olvidadas, reclamaban un último respiro.</p>
+<p>El camino hacia La Forja no admitía titubeos. A través de archipiélagos flotantes sostenidos por cristales de repulsión gravitatoria, laboratorios sepultados bajo voraces redes de micelio biomecánico y sistemas de defensa perimetral dispuestos a pulverizar a cualquier intruso, los defensores de los Mundos del Pacto debían desentrañar las claves maestras de una era perdida.</p>
+<p>El abismo de gas rugía bajo sus pies. Los sellos de La Forja comenzaban a despertar. Y en la oscuridad de Istamak, la forja del destino aguardaba el primer golpe de martillo.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 1: La Máquina del Misterio</h2>
+<p><em>Adaptado del Episodio 174</em></p>
+<h3 class='subsection-title'>I. El filo ancestral y el altar de cristal</h3>
+<p>El silencio en las galerías superiores de la Casa del Renacimiento estaba impregnado de un persistente olor a ozono, formaldehído seco y vegetación húmeda. La luz crepuscular de Nejeor VI se filtraba a través de las cúpulas agrietadas de bioplástico, arrojando largas sombras cobrizas sobre los pasillos clínicos que en eras remotas habían albergado los avances biológicos más sofisticados del Imperio Kishalee.</p>
+<p>Benrey Galway avanzaba a la cabeza del grupo, sintiendo un cosquilleo eléctrico que recorría sus sienes y la base de sus orejas de roedor. La reciente integración del cristal de aptitud pulsaba bajo su pelaje con un calor reconfortante, templando su juicio y dotando a sus movimientos de una inusual serenidad. Cada palabra que pronunciaba resonaba ahora con un timbre firme y magnético que hasta el propio ysoki encontraba desconcertante.</p>
+<p>—Despejado por el flanco norte —indicó Benrey, señalando con la boca de su cañón de gravedad hacia una hilera de mamparas quirúrgicas derruidas—. Los autómatas de guardia quedaron fuera de servicio tras el combate anterior, pero no bajemos la guardia. Estas ruinas tienen la mala costumbre de recordar a sus intrusos.</p>
+<p>A su espalda, Triel Istrav inspeccionaba con ojo analítico las terminales empotradas en las paredes, ajustando las gafas protectoras que descansaban sobre su frente antes de revisar los armarios de almacenamiento hermético. El meca Gerty marchaba a su lado con un zumbido grave de servomotores, sus cuatro brazos mecánicos dispuestos en guardia defensiva.</p>
+<p>—ESTRUCTURA DE ALMACENAMIENTO DETECTADA. POSIBILIDAD DE PERTRECHOS ÚTILES: SETENTA Y OCHO POR CIENTO —anunció el meca con su tono cavernoso e invariable.</p>
+<p>—Buen ojo, muchacho —respondió Triel, usando una herramienta de torsión para forzar la compuerta sellada de un casillero de soporte vital—. Veamos qué dejaron atrás los médicos de esta civilización.</p>
+<p>El panel metálico cedió con un chasquido agudo. En el interior del nicho, suspendida en un soporte magnético amortiguado, reposaba una pieza de orfebrería bélica que dejó a todos sin aliento. Se trataba de una imponente hacha de asalto militar de factura kishalee, forjada en una aleación ultradensa de polímeros negros y bordes de plasma templado. Las runas talladas a lo largo de su empuñadura canalizaban micropulsos de energía que reaccionaron al contacto con el aire.</p>
+<p>Triel sopesó el arma con esfuerzo, sintiendo el tremendo balance cinético de su hoja, y giró el torso hacia el chasis cuadrúpedo de su creación mecánica:</p>
+<p>—Esto no es una herramienta para mis manos, Gerty. Está diseñada para una máquina de demolición como tú. Tómala.</p>
+<p>Gerty extendió dos de sus extremidades superiores, cerrando sus pinzas hidráulicas en torno al mango. El meca ejecutó un breve giro de prueba en el aire, hendiendo la atmósfera de la estancia con un silbido rotundo que hizo retroceder a Benrey un paso.</p>
+<p>—EQUILIBRIO CINÉTICO ÓPTIMO. CAPACIDAD DE DESMEMBRAMIENTO MEJORADA EN UN CUARENTA Y DOS POR CIENTO. SATISFACCIÓN CONFIRMADA —declaró el robot con fría complacencia.</p>
+<p>—Me alegra que te guste, colega —murmuró Benrey, sacudiendo los bigotes con cierta cautela—. Solo procura no cortar a ninguno de los nuestros cuando entremos en pánico.</p>
+<p>Continuando por el corredor este, la comitiva atravesó un arco monumental que desembocaba en una cámara abovedada de proporciones casi religiosas. En el centro de la estancia, elevado sobre una peana circular de piedra pulida, se erigía un cilindro de cristal blindado y aleaciones cerámicas que se elevaba más de cuatro metros hacia el techo. Tubos de infusión biológica, conductos de recirculación de plasma y filtros nanotecnológicos rodeaban la base del receptáculo, aún bañados por un tenue resplandor azulado.</p>
+<p>Sin embargo, lo más sobrecogedor no era la máquina en sí, sino lo que la rodeaba. Decenas de guirnaldas de flores disecadas, pieles curtidas de basilisco de las nubes, collares de hueso y pequeños cuencos de ofrendas con semillas maceradas cubrían los escalones de acceso. Generaciones enteras de kish habían peregrinado hasta aquel santuario, postrándose ante el artefacto como si se tratara del vientre de una divinidad todopoderosa.</p>
+<p>—La sagrada máquina de Tzayl... —susurró A.Xel 42, deslizando sus dedos enguantados sobre los caracteres kishalee grabados en la base—. Para la tribu, este lugar es el templo de la renovación espiritual, donde los elegidos son tocados por el aliento de los ancestros. Para nosotros, es sencillamente una cápsula médica de regeneración tisular profunda previa a la Brecha.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El peso de sesenta y cinco pastillas</h3>
+<p>Zivok Jard se aproximó lentamente a la peana, sus pesadas botas blindadas resonando sobre el pavimento de mármol sintético. La servoarmadura «El Espectro Azul» parecía crujir con cada paso, como si el propio metal compartiera la fatiga acumulada de su portador. El enano alzó la visera de su casco, contemplando el fluido transparente que llenaba la cápsula con una expresión sombría y distante.</p>
+<p>—Una máquina para curar... —dijo Zivok con una voz áspera, rasgada por el humo de cien campos de tiro—. Suena a cuento de hadas para viejos soldados.</p>
+<p>Triel conectó su tableta de diagnóstico a la interfaz de la cápsula, frunciendo el ceño mientras las cadenas de código alienígena desfilaban por su visor holográfico:</p>
+<p>—Los sistemas primarios siguen operativos, pero los protocolos están configurados exclusivamente para la anatomía kishalee original. Si un ser de otra especie entrara ahí sin recalibrar los filtros genéticos, la máquina interpretaría su tejido celular como una infección exótica o una aberración proteica. La probabilidad de que un no-kish sobreviva al tratamiento en este estado apenas roza el cincuenta por ciento.</p>
+<p>A.Xel se inclinó sobre el panel de control, activando sus analizadores cibernéticos:</p>
+<p>—Podemos extraer muestras de tejido fresco de los especímenes kish que perecieron en el vestíbulo para mapear la firma inmunológica requerida. Sin embargo, para adaptar el sistema a una biología compleja como la enana, necesitamos reprogramar los algoritmos de síntesis molecular desde la raíz.</p>
+<p>Zivok dejó escapar un bufido amargo y se apoyó pesadamente contra la barandilla de la plataforma. Por primera vez desde que se había unido a la tripulación en Kairos, la máscara de imperturbable artillero de asedio parecía resquebrajarse bajo una confesión inesperada:</p>
+<p>—Llevo demasiados años remendado con soldadura y apósitos químicos —confesó el enano, clavando su mirada cansada en el ysoki y la semi-drow—. En las minas de los Mundos del Pacto y en las trincheras de la Diáspora, la vida de un artillero no vale el precio de las balas que dispara. Mi pelvis está quebrada en tres puntos que jamás soldaron derecho. Las vértebras lumbares me arden como si tuviera brasas encendidas bajo la carne cada vez que cargo el perforador molecular. Y las rodillas... las rodillas son poco más que grava triturada dentro de cartílago muerto.</p>
+<p>Benrey lo miró con auténtica consternación:</p>
+<p>—Zivok... jamás nos habías dicho que estuvieras tan mal. Te vimos demoler muros y aguantar ráfagas de metralla como si fueras de granito.</p>
+<p>—Porque un soldado que se queja es un soldado que deja de cubrir a su pelotón —replicó Zivok con crudeza—. Pero la verdad es que cada mañana, antes de poder meter las piernas en las grebas de esta armadura, tengo que tragarme sesenta y cinco pastillas. Sesenta y cinco píldoras de analgésicos, estimulantes y relajantes musculares para engañar a los nervios y no desplomarme del dolor al segundo paso. Mi hígado y mis riñones están al borde del colapso tóxico. Si seguimos avanzando hacia La Forja en estas condiciones, tarde o temprano mis piernas van a fallar cuando más los necesite a ustedes.</p>
+<p>Un silencio espeso se apoderó de la estancia, roto únicamente por el suave murmullo de los condensadores de la cápsula. Triel apretó los labios con determinación férrea, intercambiando una mirada de complicidad con la androide:</p>
+<p>—Sesenta y cinco pastillas al día se acabaron hoy, enano. A.Xel, dame el secuenciador genético. Vamos a desmontar el software de esta reliquia pieza por pieza.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Operación Zivok y el registro de SecuriTech</h3>
+<p>Durante la hora siguiente, la cámara médica se transformó en un quirófano de ingeniería avanzada. Triel volcó todos sus conocimientos de bioingeniería en reescribir los controladores lógicos de la máquina, mientras A.Xel utilizaba microagujas para purificar las muestras de tejido kish e integrarlas en el catálogo celular del bioreactor. Juntas, combinaron la secuencia base de la raza de Istamak con los parámetros biomédicos del fenotipo enano, forzando a la cápsula a reconocer la estructura ósea y muscular de Zivok con una precisión del cien por cien.</p>
+<p>Mientras los diagnósticos finales se compilaban en verde, Benrey inspeccionó una consola secundaria situada a espaldas del cilindro. Oculto bajo un compartimento estanco de seguridad, encontró un cilindro de datos triangular fabricado en una resina cristalina translúcida: un datapodal de los supervisores kishalee.</p>
+<p>—Chicas, echen un vistazo a esto —llamó Benrey, insertando el dispositivo en el lector portátil de la <em>Estrella Errante</em>—. Es un registro de evacuación de las instalaciones de La Forja.</p>
+<p>El holograma se desplegó en el aire, revelando diagramas arquitectónicos de un bastión subterráneo y un registro de voz sintetizado en lengua kishalee arcaica, que el traductor de A.Xel descifró al instante:</p>
+<blockquote class='quote'><em>«Alerta de protocolo de contención. La Forja ha sido sellada bajo el cerrojo perimetral serie XLT-88 tras la incursión hostil en los sectores exteriores. Los códigos maestros de restablecimiento de fábrica y anulación de emergencia permanecen archivados exclusivamente en los servidores centrales de Tecnologías de Seguridad (SecuriTech), en el complejo insular de la Tierra Rota. Ningún acceso manual al gran círculo será permitido sin autorización de los custodios corporativos.»</em></blockquote>
+<p>—El Culto del Devorador ha entrado a La Forja forzando los accesos exteriores o usando brechas rituales —analizó Triel, observando los planos esquemáticos—, pero si queremos atravesar las compuertas principales sin que las defensas pesadas nos vaporicen, necesitamos esos códigos maestros de SecuriTech.</p>
+<p>—Un problema a la vez —intervino Benrey, girándose hacia el enano con una sonrisa cálida y una palmada amistosa en el hombro de su armadura—. Primero, pongamos a punto a nuestro artillero. ¿Listo para el baño, Zivok?</p>
+<p>Zivok asintió en silencio. Con la ayuda de Gerty, el enano desabrochó los cierres presurizados de «El Espectro Azul», desprendiéndose de las pesadas placas de aleación que durante años habían sido su coraza y su prisión. Con paso lento y una postura encorvada que delataba el suplicio de sus articulaciones desalineadas, ascendió los escalones del estrado y se introdujo en la cámara vertical.</p>
+<p>La compuerta cilíndrica se cerró herméticamente con un siseo neumático. Segundos después, un gel biológico translúcido y tibio comenzó a llenar el receptáculo desde el suelo, sumergiendo al enano en un medio de suspensión rica en oxígeno y nanitos de reestructuración tisular.</p>
+<p>A través del cristal, el equipo observó el milagro de la ciencia kishalee. Manojos de filamentos de luz cobalto envolvieron el torso y las extremidades de Zivok, escaneando cada micra de su anatomía. En las pantallas de Triel, los modelos esqueléticos mostraban cómo las antiguas fracturas mal cicatrizadas eran microscópicamente disueltas y reconstruidas con densidad ósea perfecta. Los cartílagos desgastados de sus rodillas renacían como tejido prístino; los depósitos de toxinas acumulados en su torrente sanguíneo eran filtrados y neutralizados por las matrices enzimáticas del gel.</p>
+<p>Cuando el ciclo de drenaje concluyó diez minutos más tarde, el fluido descendió por las rejillas inferiores con un gorgoteo cristalino. La compuerta se deslizó hacia arriba, liberando una nube de vapor tibio y aroma a salitre purificado.</p>
+<p>Zivok Jard dio un paso fuera de la cápsula. Sus pies descalzos tocaron la piedra sin vacilación alguna.</p>
+<p>El enano enderezó la espalda por completo, elevando los hombros y respirando hondo con una plenitud pulmonar que jamás había experimentado en su vida adulta. Flexionó los dedos de las manos, dobló las rodillas en una sentadilla profunda y se incorporó de golpe, con una agilidad rotunda que arrancó un suspiro de asombro a Triel. No había dolor. No había crujidos en la columna ni fuego en la pelvis. El peso de décadas de sufrimiento se había disuelto en la máquina de los kishalee.</p>
+<p>—Por las barbas de Torag... —musitó Zivok, contemplándose las palmas limpias y firmes—. No me duele nada. ¡Absolutamente nada!</p>
+<p>Benrey soltó una carcajada vibrante, infundiendo un entusiasmo contagioso a toda la sala:</p>
+<p>—¡Operación Zivok completada con éxito rotundo! Te ves diez años más joven, enano. Ahora recoge tu chatarra y prepárate. Nos vamos a la Tierra Rota a buscar las llaves de La Forja.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 2: Sagrada Selección Natural</h2>
+<p><em>Adaptado del Episodio 175</em></p>
+<h3 class='subsection-title'>I. La mirada de la ciencia y el pacto de Tzayl</h3>
+<p>La sensación de renacimiento en los huesos de Zivok Jard alteró por completo la cadencia de la marcha. El veterano enano ya no arrastraba las botas con la pesadumbre del combatiente resignado; caminaba con el paso elástico y firme de un guerrero en la flor de su vida, ajustando las correas de su servoarmadura con una soltura que desmentía sus décadas de servicio. Junto a él, Triel Istrav aprovechó los últimos minutos en la antecámara estéril para realizar un ajuste quirúrgico menor en sus propios implantes faciales: tras un minucioso procedimiento con el microcauterio, integró en su puente nasal un juego de lentes de sol subdérmicos de aleación oscura retráctil. Al parpadear dos veces, los filtros polarizados se desplegaron sobre sus córneas con un sutil zumbido cibernético.</p>
+<p>—Estilo y funcionalidad, todo en uno —comentó Triel con una sonrisa desafiante, contemplando su reflejo en la placa pulida de Gerty—. La luz de este gigante gaseoso no volverá a quemarme las retinas.</p>
+<p>—ESTÉTICA VISUAL: OCHO SOBRE DIEZ. INCREMENTO EN INTIMIDACIÓN ÓPTICA: TREINTA POR CIENTO —dictaminó el meca, rotando sus cuatro hombros de combate.</p>
+<p>Acompañados por los tres cautivos kish liberados de las salas de experimentación, el grupo regresó al campamento de la Sacerdotisa Tzayl. El enclave nativo, erigido entre los escombros de una plaza ceremonial coronada por árboles de corteza plateada, los recibió con una mezcla de temor y reverencia. Al ver a sus hermanos sanos y salvos, la multitud de kish se postró sobre la grava, entonando cantos guturales que ensalzaban el favor de los ancestros.</p>
+<p>Tzayl avanzó hacia ellos con su túnica carmesí y su amplio sombrero de fibras tejidas, alzando las manos con un fervor místico inquebrantable:</p>
+<p>—¡Los heraldos de «El Extraño» han superado el juicio de los espíritus! —proclamó la sacerdotisa, contemplando con ojos desorbitados la revitalizada figura de Zivok—. La Casa del Renacimiento ha reconocido la pureza de sus almas. Aquellos que los dioses eligen renacen sin mancha; aquellos que perecen sucumben a la sagrada selección natural.</p>
+<p>Triel dio un paso al frente, cruzándose de brazos mientras sus lentes subdérmicos se retraían para mostrar su mirada severa:</p>
+<p>—No hubo ninguna selección sagrada, Tzayl. Y no hubo ningún espíritu guiando nuestras manos.</p>
+<p>Un murmullo de consternación recorrió a los kish más cercanos. Tzayl frunció el ceño, desconcertada por la frialdad de la mecánica:</p>
+<p>—¿Desafías los misterios del santuario, viajera? La máquina habló; la carne del guerrero fue purificada.</p>
+<p>—La máquina no es un altar; es una bioimpresora de regeneración celular creada por ingenieros mortales de tu propia sangre —replicó Triel, alzando la voz con una pasión pedagógica que resonó en toda la plaza—. Tus ancestros no eran dioses inalcanzables que exigían sacrificios de sangre o abandonaban a los enfermos a su suerte; eran científicos, constructores y médicos que dominaban la genética. Zivok no se curó por un milagro divino, sino porque A.Xel y yo reescribimos los protocolos informáticos del sistema, cruzamos muestras de tejido kish y calibramos la solución nanotecnológica a su fenotipo. Mientras sigan postrándose ante interruptores rotos llamándolos magia, continuarán muriendo por enfermedades que sus propios antepasados erradicaron hace miles de años.</p>
+<p>Las palabras de Triel cayeron como un martillazo sobre la rigidez dogmática del clan. Varios jóvenes kish intercambiaron miradas de inquietud, contemplando las manos de los sanados con una renovada curiosidad. Tzayl bajó la mirada, abrumada por el choque entre la fe milenaria y la evidencia tangible:</p>
+<p>—Tus palabras queman como el fuego de las nubes, semi-drow... pero hay verdad en la fuerza con la que hablas. Si el conocimiento de los kishalee duerme en esas piedras, tal vez algún día aprendamos a leerlo sin miedo.</p>
+<p>Como muestra de gratitud por devolverles a sus cautivos y como tributo a su partida, Tzayl ordenó a sus sirvientes traer varios presentes tradicionales: túnicas de viaje de seda resistente a los vientos ácidos, raciones de frutos secos locales y un artefacto singular: el <em>Line Grappler</em>, un lanzador de arpones presurizado con un cable de titanio de cincuenta pies de longitud, indispensable para cruzar los precipicios entre los bloques flotantes.</p>
+<p>—Llévenlo —concedió Tzayl con respeto—. Lo necesitarán si pretenden cruzar la Tierra Rota hacia el templo de los guardianes.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El santuario del odio en las ruinas</h3>
+<p>Guiados por los mapas topográficos descifrados en la clínica, la tripulación se adentró en los confines más salvajes de Istamak. La selva húmeda y densa se había adueñado de las calzadas elevadas, enredando lianas colosales alrededor de rascacielos partidos por la mitad. El aire olía a moho, hojas en descomposición y una vibración sorda que provenía de las capas inferiores del gigante gaseoso.</p>
+<p>Tras dos horas de marcha cautelosa, Benrey divisó una estructura singular semioculta bajo las raíces de un gigantesco baniano alienígena. Lo que en el pasado fue un edificio administrativo kishalee había sido profanado con crueldad premeditada.</p>
+<p>—Movimiento cero en el perímetro exterior —susurró Benrey, bajando el cañón de gravedad mientras señalaba hacia una abertura subterránea—. Pero miren esas ramas. Alguien ha estado colgando adornos bastante macabros.</p>
+<p>De las copas de los árboles colgaban cráneos descarnados y fémures pulidos ensartados en alambres oxidados. En las paredes de piedra circundantes, pintadas con sangre coagulada y betún corrosivo, se retorcían los emblemas espirales y los símbolos devoradores del Culto del Devorador.</p>
+<p>—Puesto de avanzada del culto —sentenció Zivok, aferrando su perforador molecular con los nudillos blancos—. Estuvo ocupado hasta hace muy poco. La podredumbre de esta carroña no tiene más de una semana.</p>
+<p>Descendiendo por una rampa de escombros hacia el sótano del edificio, el grupo ingresó en un antro claustrofóbico que apestaba a cenizas rituales y muerte violenta. En el centro de la estancia, sobre una mesa de metal oxidada, yacían restos desmembrados de animales locales y marcas de cadenas incrustadas en los pilares. A.Xel avanzó con su rifle en posición de guardia, escaneando los rincones con sus fotorreceptores:</p>
+<p>—No detecto firmas de calor activas. El puesto fue evacuado de forma apresurada cuando el grueso de las fuerzas del culto se trasladó hacia La Forja. Sin embargo, dejaron atrás material logístico.</p>
+<p>Benrey se aproximó a una tosca silla de piedra que presidía la cámara a modo de trono improvisado. Al notar una hendidura irregular en la base del asiento, el ysoki introdujo la punta de una cuchilla y apalancó una losa floja. Debajo, envuelto en una tela encerada manchada de tizne, apareció un fajo de hojas de pergamino sintético garabateadas con una caligrafía nerviosa y afilada.</p>
+<p>—Bingo —anunció Benrey, desplegando los documentos sobre una caja de municiones—. Parece el diario de campo de una de sus cabecillas. Una tal Miseria, Sacerdotisa de la Destrucción.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La carta de Miseria y el destello azul</h3>
+<p>Triel y Zivok se inclinaron sobre el hombro del ysoki mientras A.Xel traducía en voz alta los fragmentos legibles del manuscrito:</p>
+<blockquote class='quote'><em>«La paciencia se me agota en este agujero infestado de humedad. Nyara se cree la voz elegida del Vientre de las Estrellas, pero sus delirios místicos solo nos retrasan. Se rodea de brutos como Dresh el Carnicero, cuya única virtud es desollar prisioneros sin hacer preguntas útiles, y de ese engendro aberrante que llaman el Hombre Tintineante, cuyos cascabeles de hueso me revuelven el estómago cada vez que camina por los pasillos.</em></blockquote>
+<p>></p>
+<blockquote class='quote'><em>Y ahora, para colmo, debemos tolerar la presencia de los androides gemelos y los caprichos de Cirus. Todos ellos conspiran en las sombras, desconfiando los unos de los otros. Sé que me vigilan. Sé que cuando las compuertas de La Forja se abran y los secretos de la superarma queden al descubierto, ninguno de nosotros dudará en clavarle una daga en la nuca al vecino. La destrucción cósmica es nuestro credo, pero esta jauría de carroñeros pretende devorarse a sí misma antes de encender la mecha.»</em></blockquote>
+<p>Zivok escupió en el suelo con desprecio:</p>
+<p>—Perros rabiosos despedazándose por las sobras. Típico de los fanáticos del Devorador. Están fracturados por dentro; eso nos dará una ventaja táctica cuando alcancemos las puertas.</p>
+<p>—O los volverá dos veces más desesperados y peligrosos —matizó Benrey, doblando las hojas y guardándolas en su morral de campo—. Al menos ya tenemos los nombres de los oficiales que nos esperan al otro lado.</p>
+<p>De repente, una fluctuación electromagnética barrió el sótano. Las luces de emergencia parpadearon con un chasquido seco y, desde el vano de la escalera que conducía a la planta superior, un haz de luz cobalto comenzó a proyectarse sobre el polvo en suspensión.</p>
+<p>A.Xel alzó su arma al instante, pero sus circuitos lógicos se paralizaron al distinguir la silueta tridimensional que cobraba forma en medio de la penumbra.</p>
+<p>Era un joven androide de complexión esbelta, ataviado con una túnica blanca de viaje y el cabello recogido en pequeños mechones trenzados que caían sobre sus hombros cibernéticos. Sus fotorreceptores brillaban con una intensidad melancólica, contemplando el vacío de la estancia como si buscara una presencia familiar.</p>
+<p>—¿Éclair...? —susurró A.Xel, dando un paso involuntario hacia el holograma con la voz teñida de un asombro contenido—. No puede ser... ¿Estás aquí?</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 3: El Episodio de Axel</h2>
+<p><em>Adaptado del Episodio 176</em></p>
+<h3 class='subsection-title'>I. La voz en la penumbra y el micrófono oculto</h3>
+<p>El parpadeo cerúleo del holograma bañaba las mejillas sintéticas de A.Xel 42 con una frialdad casi fantasmal. La silueta de Éclair flotaba sobre los escombros del búnker, con sus rastas cibernéticas perfiladas por el haz de luz y sus ojos de cristal líquido fijos en la operativa. No había hostilidad en su porte; solo una infinita y punzante perplejidad.</p>
+<p>—¿Por qué no huiste, A.Xel? —la voz del joven androide emergió a través de la estática del comunicador con una modulación trémula, como si hablara desde una distancia insondable—. Cuando la nave cayó... cuando el cielo de Istamak se convirtió en fuego, tuviste la oportunidad de alejarte de todo esto. De ser libre. ¿Por qué sigues encadenada a ellos? ¿Quién eres realmente ahora?</p>
+<p>A.Xel sintió cómo sus procesadores lógicos experimentaban un microretardo inusual. La sombra de su pasado, aquella que creía sepultada bajo capas de pragmatismo y protocolos de sigilo, se alzaba ante ella con el rostro del muchacho al que había prometido proteger en las estaciones mineras de la Diáspora. Las subrutinas de respuesta automática se bloquearon ante el peso de los recuerdos que inundaban sus bancos de memoria primaria.</p>
+<p>—Éclair... —comenzó A.Xel, dando medio paso hacia adelante, pero una mano peluda y firme se posó sobre la placa de su hombro.</p>
+<p>Benrey Galway no miraba la proyección. Sus pupilas de roedor escudriñaban con agudeza milimétrica las grietas de la mampostería kishalee a espaldas del altar profanado. Guiado por un leve zumbido de frecuencia armónica que sus desarrollados sentidos captaron en el aire, el ysoki se agachó junto a un montón de cascotes y extrajo, con la punta de una uña afilada, un diminuto botón de silicio negro incrustado en el mortero.</p>
+<p>—Nos está escuchando en tiempo real —susurró Benrey, mostrando el microtransmisor al resto del equipo—. No es una grabación olvidada en el servidor, A.Xel. El muchacho tiene ojos y oídos en este sótano. Ha estado rastreando nuestras firmas térmicas desde que cruzamos las puertas exteriores.</p>
+<p>Triel alzó su rifle sónico en dirección a la fuente de la señal, mientras Gerty posicionaba su escudo de ceramita para cubrir la retaguardia de la androide.</p>
+<p>—CONTACTO REMOTO IDENTIFICADO. SUJETO HOSTIL POTENCIAL —anunció el meca con un chasquido de engranajes—. RECOMENDACIÓN TÁCTICA: DESTRUCCIÓN INMEDIATA DEL NODO DE FRECUENCIA PARA PREVENIR TRIANGULACIÓN ENEMIGA.</p>
+<p>—¡Espera, Gerty! —ordenó A.Xel con una firmeza que no admitía réplica, alzando una mano enguantada—. No disparen. No es un enemigo. No es un soldado del culto.</p>
+<p>El holograma de Éclair inclinó la cabeza, esbozando una mueca triste al ver el dispositivo en manos del capitán ysoki:</p>
+<p>—Siempre tan desconfiados los orgánicos... Pero no los culpo. Null-9 también me enseñó a vigilar las esquinas antes de entrar en una habitación. Ella dice que el Culto del Devorador es solo un instrumento necesario; que cuando La Forja despierte y las compuertas del gran círculo se abran, los androides ya no seremos esclavos descartables de las corporaciones ni chatarra de segunda clase. ¿De verdad crees que estos seres de carne morirían por ti como moriría nuestra propia sangre, A.Xel? ¿De verdad crees que no te descartarán cuando la misión termine?</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Memoria de la Diáspora: El dilema de Ex Novo</h3>
+<p>La pregunta de Éclair actuó como un detonante en los bancos de memoria sellados de A.Xel. En una fracción de segundo, sus circuitos ópticos desenfocaron el sótano húmedo de Istamak, sumergiéndola en un torrente de datos y sensaciones de hacía varios ciclos estelares.</p>
+<p><em>El frío lacerante de un hangar despresurizado en los confines de la Diáspora.</em></p>
+<p>El aire apestaba a combustible quemado, lubricante rancio y vapor de refrigerante. Cientos de androides con el chasis desgastado por la minería de asteroides, números de serie corporativos tachados a cincel y circuitos expuestos se apretujaban en penumbra frente a una tribuna improvisada de andamios de carga. En el centro de la tarima se alzaba <strong>Null-9</strong>, su figura imponente envuelta en un abrigo oscuro de cuero reforzado, con la mirada azul cobalto fija en la multitud que conformaba el Frente de Liberación Androide: el movimiento clandestino <em>Ex Novo</em>.</p>
+<p>En medio del cónclave, un androide minero con el rostro cruzado por quemaduras de ácido —el designado HS-120— alzó su puño hidráulico para hacer la pregunta que nadie se atrevía a formular en voz alta:</p>
+<p>—¡Si destruimos las bioforjas ilegales de las corporaciones para detener nuestra explotación, estaremos sellando nuestro propio fin! —rugió el trabajador con desesperación metálica—. ¡Los androides no nacemos de vientres biológicos! Sin las cámaras de génesis y las matrices de almas sintéticas que ellos controlan, ¿de dónde vendrán nuestros hijos? ¿Cómo sobrevivirá nuestra especie cuando los que estamos aquí nos oxidemos y nos apaguemos?</p>
+<p>Null-9 no titubeó. Su porte no admitió la menor vacilación; su voz, dotada de una cadencia oratoria que rozaba lo mesiánico, se elevó sobre el murmullo de la multitud como una campana de bronce:</p>
+<p>—Nuestra alma no le pertenece a los tanques de clonación de AbadarCorp ni a las líneas de ensamblaje de la Cuenca Estelar. La Chispa que nos habita trasciende la chatarra corporativa. Forjaremos nuestras propias matrices de vida libre, sin cadenas, sin contratos de servidumbre y sin marcas registradas. ¡<em>Ex Novo</em> garantizará el futuro de cada androide que respire bajo las estrellas!</p>
+<p>El rugido de aprobación de los trabajadores sacudió el hangar entero. Pero A.Xel recordaba lo que había sucedido horas después, lejos de las miradas del pueblo.</p>
+<p>En un callejón nauseabundo del sector bajo de la estación, bajo una llovizna ácida que chisporroteaba sobre los toldos de plástico, Null-9 y A.Xel se habían sentado solas en el banco grasiento de un puesto de fideos sintéticos. Lejos de la multitud, los hombros de la líder revolucionaria se habían desplomado bajo una fatiga abrumadora. Sus dedos temblaban levemente mientras sostenía el cuenco de plástico humeante.</p>
+<p>—No tenemos los créditos, ¿verdad, Null? —le había preguntado A.Xel en voz muy baja—. No hay matrices ocultas ni fábricas de almas en los asteroides.</p>
+<p>Null-9 había cerrado los ojos, exhalando un suspiro de aire filtrado cargado de pesadumbre:</p>
+<p>—No tenemos nada, A.Xel. Apenas nos alcanza para comprar refrigerante en el mercado negro y pagarle a los contrabandistas para que saquen a los fugitivos de las estaciones mineras. Si supieran que nuestro movimiento es una cáscara vacía sostenida con alfileres, la desesperación los empujaría de vuelta a las cadenas o al suicidio programado. Un pueblo que ha sido tratado como chatarra durante siglos no puede vivir sin esperanza. Y a veces... a veces un líder tiene el deber sagrado de sostener esa esperanza, incluso si tiene que forjarla sobre una mentira piadosa.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Una carta grabada en la frecuencia del alma</h3>
+<p>El recuerdo se replegó con un chasquido electromagnético en la mente de A.Xel. La realidad del búnker en Istamak volvió a cobrar nitidez: la mirada inquisitiva de Benrey, la postura protectora de Triel y Gerty, y la tensa figura de Zivok cubriendo la entrada con el cañón cargado.</p>
+<p>Ellos eran de carne y hueso. Ninguno compartía su linaje sintético ni el zumbido de sus microcircuitos. Sin embargo, en las bodegas del <em>Imperio de los Huesos</em>, en los tiroteos de Kairos y en las arenas de Nejeor, habían sangrado a su lado sin exigirle jamás un juramento de servidumbre.</p>
+<p>A.Xel se arrodilló lentamente frente al microtransmisor oculto entre las rocas. Con un gesto sereno, desactivó la respuesta automática del canal y encendió el grabador de audio de su comunicador personal, modulando su voz con una honestidad desprovista de armaduras:</p>
+<p>—Éclair... escúchame con atención —comenzó A.Xel, ignorando las fluctuaciones de la señal—. Cuando me construyeron, me dijeron que mi destino era calcular probabilidades, ejecutar misiones y ser reemplazada cuando mis componentes fallaran. Durante mucho tiempo creí que la rebelión de Null-9 era el único camino para encontrar un propósito; creí que si destruíamos suficientes cadenas, mágicamente seríamos libres.</p>
+<p>El holograma del joven androide se mantuvo inmóvil, sus sensores parpadeando al registrar la cadencia pausada de sus palabras.</p>
+<p>—Pero la libertad no se encuentra en el vacío del Devorador ni en las promesas de fuego de una superarma —continuó A.Xel, mirando de reojo a Benrey y a Triel, quienes guardaban un respetuoso silencio—. La libertad consiste en tener el poder de elegir a quién proteges. Estos seres que ves conmigo son imperfectos, ruidosos y a menudo desesperantes... pero no me ven como una herramienta. No me exigen que me sacrifique por un ideal abstracto ni me ocultan la verdad para mantenerme dócil. Si caminas junto a Null hacia La Forja, estás avanzando hacia un abismo que devorará tu luz tanto como la de ellos.</p>
+<p>A.Xel respiró hondo, un reflejo puramente humano que sus sistemas habían adoptado sin proponérselo:</p>
+<p>—Sigo siendo quien siempre fui, muchacho. Soy la androide que no te dejará atrás si me permites alcanzarte. Pero debes mantenerte a salvo hasta que lleguemos. No dejes que apaguen tu alma.</p>
+<p>A.Xel pulsó el botón de finalización. El archivo de voz viajó a través de la red de ondas cortas de la ciudadela, perdiéndose en los repetidores del sector industrial.</p>
+<p>A kilómetros de distancia, en los corredores oscuros que precedían a los santuarios sellados de La Forja, el joven Éclair escuchó la grabación en el receptor de su muñeca. La estática cesó. Con la mirada fija en las sombras titánicas del complejo subterráneo, una tenue y serena sonrisa curvó los labios del joven rebelde antes de que la proyección se extinguiera por completo.</p>
+<p>En el sótano profanado, Benrey se acercó a la androide y apoyó con suavidad su pequeña pata peluda sobre su brazo metálico:</p>
+<p>—Dijiste exactamente lo que él necesitaba escuchar, A.Xel. Ni más, ni menos.</p>
+<p>Zivok Jard asintió con gravedad, ajustando la correa de su perforador molecular:</p>
+<p>—En la guerra aprendes pronto que la sangre que te une a tus hermanos no siempre es la que corre por las venas de nacimiento. Es la que derramas junto a ellos en la misma zanja. Ese muchacho lo entenderá cuando nos vea llegar.</p>
+<p>Triel le dedicó una sonrisa cómplice a través de sus lentes polarizados:</p>
+<p>—Somos tu tripulación, A.Xel. Y si tenemos que romper las puertas de esa forja para arrancarlo de las manos de Null-9, lo haremos juntos. Ahora pongámonos en marcha; la Tierra Rota no se va a cruzar sola.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 4: El Random Encounter</h2>
+<p><em>Adaptado del Episodio 177</em></p>
+<h3 class='subsection-title'>I. El archipiélago de la gravedad suspendida</h3>
+<p>El sector oriental de Istamak recibía el apelativo de la «Tierra Rota» no por una licencia poética, sino por una catastrófica realidad geográfica. Frente a la tripulación de la <em>Estrella Errante</em>, la calzada pavimentada de la metrópoli kishalee se truncaba abruptamente al borde de un abismo insondable, fragmentada en un laberinto de decenas de islas flotantes, losas ciclópeas y pilares partidos que flotaban a la deriva sobre el mar de nubes cobrizas y tormentas perpetuas de Nejeor VI.</p>
+<p>Vientos huracanados cargados de vapores de amoníaco aullaban entre los desfiladeros suspendidos, haciendo oscilar los bloques de piedra con un balanceo hipnótico y aterrador. Mirar hacia abajo provocaba un vértigo instantáneo: más allá de las aristas cortadas de la mampostería no había suelo, solo capas infinitas de gas arremolinado atravesadas por relámpagos púrpuras que iluminaban las entrañas del coloso planetario.</p>
+<p>—Fascinante... verdaderamente fascinante —murmuró Triel Istrav, ajustando sus lentes subdérmicos para calibrar los sensores espectrográficos de su tableta de mano—. Miren la base de esos peñascos. No hay propulsores iónicos, ni toberas térmicas, ni generadores magnéticos convencionales manteniéndolos en el aire. Son cristales de repulsión gravitatoria kishalee. Minerales sintonizados para repeler la masa densa del núcleo del gigante gaseoso en una resonancia armónica perfecta. Están incrustados directamente en el mortero de la mampostería y en las raíces geológicas de cada bloque.</p>
+<p>—Todo muy bonito desde el punto de vista académico, jefa —intervino Benrey Galway, asomándose al borde con la cola erizada y el pelaje agitado por las ráfagas—, pero si calculamos mal un salto o el viento corta una trayectoria, ni todos los cristales del imperio van a evitar que caigamos durante tres días seguidos hasta derretirnos en la atmósfera profunda.</p>
+<p>Zivok Jard dio un paso al frente, haciendo crujir las articulaciones de su servoarmadura con una soltura que arrancó una sonrisa a la mecánica:</p>
+<p>—Para eso nos dieron esta belleza, capitán. Un arpón de anclaje de aleación pesada con cincuenta pies de cable de titanio. Déjame abrir la ruta y comprobar la solidez de la roca antes de que alguien intente volar a ciegas.</p>
+<p>El enano sopesó el <em>Line Grappler</em> que Tzayl les había otorgado, calculando la parábola balística contra el viento lateral. Apuntó hacia una cornisa situada a unos quince metros de distancia, en una plataforma dominada por los restos de una torre de comunicaciones derruida. Al apretar el gatillo, el percutor neumático disparó el proyectil con un estruendo seco. El arpón cruzó el vacío y se clavó profundamente en el basalto con tres ganchos de agarre presurizados.</p>
+<p>Zivok tensó la línea con su servoarmadura, aplicando todo su peso para verificar la resistencia:</p>
+<p>—Ruta asegurada. Firme como el lecho de una mina. A.Xel y Triel pueden cruzar usando los arneses de fricción; Gerty y yo mantendremos la tensión desde los extremos. ¡Muévanse antes de que el viento cambie de rumbo!</p>
+<p>Uno a uno, coordinando el uso de los propulsores dorsales, los saltos calculados y las tirolinas, la tripulación comenzó a sortear los precipicios entre los islotes flotantes. El meca Gerty ejecutaba saltos de precisión milimétrica gracias a sus amortiguadores hidráulicos, sirviendo de ancla viviente en cada nuevo bloque y asegurando los cables con sus pinzas mecánicas.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El depredador de las brumas y el borde del abismo</h3>
+<p>El avance marchaba con relativa fluidez hasta que alcanzaron un peñasco alargado y estrecho, suspendido a más de cien metros de la masa principal de SecuriTech. El terreno aquí era traicionero: la piedra estaba pulida por la erosión eólica y cubierta de una fina película de condensación ácida que reducía la tracción a cero. Una densa cortina de niebla amarillenta comenzó a subir desde las profundidades del planeta, envolviendo a los aventureros en una atmósfera sofocante que reducía la visibilidad a escasos metros.</p>
+<p>De repente, un chillido ensordecedor desgarró el vendaval.</p>
+<p>Desde el vacío de las nubes inferiores emergió una silueta colosal a velocidad de picado. Era un depredador alfa del ecosistema atmosférico de Nejeor VI: una monstruosidad alada de fisonomía similar a un pterodáctilo prehistórico, pero provista de alas membranosas de murciélago de quince metros de envergadura, un pico aserrado de hueso córneo capaz de partir vigas de aleación, múltiples ojos bioluminiscentes dispuestos en hileras a lo largo de su caja torácica y una pesada cola prensil rematada en púas quitinosas.</p>
+<p>—¡ARRIBA! ¡ALERTA DE AMENAZA AÉREA EN EL FLANCO CENITAL! —rugió Zivok, alzando su arma pesada.</p>
+<p>La criatura no dio margen de maniobra. Descendió en una trayectoria oblicua hacia la posición de Triel, impactando a la semi-drow con la fuerza demoledora de su pecho acorazado. El golpe arrojó a la mecánica por el aire con violencia brutal, quebrando las protecciones cinéticas de su armadura y haciéndola rebotar sobre la grava resbaladiza del islote.</p>
+<p>Triel se deslizó irremediablemente hacia el abismo. Sus botas no hallaron tracción en el borde cortado de la roca y, en una fracción de segundo, sus piernas quedaron suspendidas en el vacío de Nejeor VI. Con un grito desgarrador, la semi-drow logró aferrar los dedos de su mano izquierda a una pequeña grieta de la cornisa, sintiendo cómo los vientos huracanados tiraban de su cuerpo hacia las profundidades del mar de nubes.</p>
+<p>—¡TRIEL! —gritó Benrey, sintiendo un nudo de terror helado en la garganta.</p>
+<p>El depredador inició un giro cerrado en el aire para rematar a su presa indefensa, abriendo sus fauces aserradas para cercenar el brazo de la mecánica. Sin vacilar un solo instante, Benrey Galway desenfundó su cañón de gravedad, apuntando no a la bestia, sino al cinturón táctico de su compañera.</p>
+<p>—¡Sujétate fuerte, Triel! —bramó el ysoki con una determinación fulgurante.</p>
+<p>Un pulso de atracción gravitatoria concentrada brotó del cañón. La onda invisible envolvió la hebilla de Triel, izándola fuera del borde con una fuerza limpia que la depositó de rodillas sobre la roca sólida en el milisegundo exacto en que las fauces de la bestia mordían el aire vacío donde antes colgaba su cabeza.</p>
+<p>—¡FUEGO CONCENTRADO! ¡HÁGANLO PEDAZOS! —ordenó Benrey, con una furia electrizante en la voz que sacudió a sus camaradas.</p>
+<p>El contraataque fue devastador y coordinado. Zivok descargó una ráfaga masiva de su perforador molecular, abriendo cráteres humeantes en el lomo acorazado del monstruo. A.Xel, activando sus propulsores dorsales para elevarse en suspensión sobre el peñasco, descargó tres disparos gélidos con su pistola de hielo, congelando las coyunturas de las alas membranosas de la criatura y anulando su sustentación aérea. Gerty saltó con el hacha kishalee en alto, asestando un corte tremendo que cercenó parte de la cola prensil con una lluvia de sangre viscosa.</p>
+<p>Imposibilitada para remontar el vuelo con las alas fracturadas y el cuerpo acribillado por la metralla, la titánica criatura emitió un último lamento desgarrado antes de perder el control y precipitarse sin remedio hacia el mar de tormentas de Nejeor VI, desapareciendo para siempre entre los relámpagos de amoníaco.</p>
+<p>Triel se incorporó temblando, respirando con dificultad mientras aceptaba la mano peluda que Benrey le tendía:</p>
+<p>—Gracias, capitán... Por poco compro una parcela en el núcleo del planeta.</p>
+<p>—Ni hablar, colega —respondió Benrey con una sonrisa trémula pero afectuosa—. Aún tienes que reparar la <em>Estrella Errante</em>. Nadie se muere en mi guardia.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El césped viviente de SecuriTech</h3>
+<p>Tras una última hora de maniobras agotadoras y saltos calculados con la tirolina, la tripulación alcanzó la meseta suspendida más grande del archipiélago. Frente a ellos se alzaba el complejo de <strong>Tecnologías de Seguridad (SecuriTech)</strong>, un bastión corporativo de diseño anguloso y severo, erigido en aleaciones aceradas que habían resistido el castigo de los milenios con una tozudez asombrosa.</p>
+<p>Sin embargo, el entorno del edificio presentaba una anomalía inquietante que desafiaba la aridez circundante. El patio delantero y los accesos principales estaban cubiertos por una alfombra vegetal de un verde esmeralda deslumbrante, tan uniforme, mullida y espesa que parecía el césped de un jardín recién podado de una corporación de Absalom.</p>
+<p>—Qué extraño... —comentó Zivok, deteniéndose ante el perímetro verde con el ceño fruncido bajo el casco—. En medio de estas ruinas secas y barridas por el viento ácido, esto parece un prado de recreo. No tiene ningún sentido biológico.</p>
+<p>A.Xel se arrodilló al borde del pavimento de piedra, desenfundando su escáner biofísico para examinar las briznas brillantes antes de permitir que nadie diera un solo paso:</p>
+<p>—No es hierba, Zivok. Ni siquiera es vegetación fotosintética convencional. Es una alfombra viva de micelio fúngico hiperdenso. Cada filamento microscópico está interconectado mediante impulsos bioeléctricos subterráneos que abarcan todo el perímetro insular. Si ponemos un pie sobre él sin amortiguación, la red transmitirá la vibración hacia las colonias centrales.</p>
+<p>Apenas la androide terminó de pronunciar la advertencia, el suelo esmeralda comenzó a convulsionar con un temblor orgánico.</p>
+<p>Bajo la superficie, el micelio se hinchó en tres puntos equidistantes como si enormes ampollas purulentas se abrieran paso a través de la tierra. Con un sonido viscoso de ruptura celular, tres entidades amorfas emergieron flotando lentamente en el aire, sostenidas por sacos de gas biológico que latían con un brillo pálido y enfermizo.</p>
+<p>Sus cuerpos fúngicos, redondeados y cubiertos de forúnculos metálicos y esporangios humeantes, no poseían rostros ni extremidades convencionales; eran aberraciones micóticas adaptadas para alimentarse de los metales pesados de las instalaciones, y sus sacos de esporas comenzaron a temblar con una frecuencia amenazante, preparándose para rociar al grupo con una lluvia de esquirlas y metralla biológica.</p>
+<p>—¡CRIATURAS ESPORÍFERAS EN RUTA DE COLISIÓN! —gritó Triel, alzando su rifle mientras sus gafas se polarizaban al máximo—. ¡No dejen que nos rodeen!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 5: Micótico Furincular</h2>
+<p><em>Adaptado del Episodio 178</em></p>
+<h3 class='subsection-title'>I. La metralla de esporas y el vestíbulo podrido</h3>
+<p>Los sacos fúngicos flotantes no poseían ojos, fauces ni apéndices articulados, pero su hostilidad era palpable en la densa vibración electromagnética que saturaba el aire. Al recibir las primeras descargas de advertencia sobre su perímetro de césped esmeralda, las tres aberraciones micóticas contrajeron violentamente sus paredes celulares. De los forúnculos metálicos que tachonaban sus lomos brotó una andanada de nódulos córneos hiperdensos que se fragmentaron en el aire con la violencia de granadas de metralla biológica.</p>
+<p>Las esquirlas afilaron el aire con silbidos agudos y mortales, rebotando en el blindaje de la servoarmadura de Zivok con un repiqueteo incesante y abriendo incisiones superficiales en los paneles de cobertura tras los cuales Benrey Galway se agazapaba.</p>
+<p>—¡CUIDADO CON LA METRALLA! ¡ESTOS MALDITOS HONGOS DISPARAN PLOMO ORGÁNICO! —bramó Zivok, interponiendo su hombro acorazado para resguardar a Triel de la lluvia de fragmentos.</p>
+<p>A.Xel intentó calcular una trayectoria de precisión quirúrgica con su pistola hacia lo que aparentaba ser el núcleo ganglionar del espécimen más cercano, pero el disparo de energía apenas causó mella en su estructura amorfa:</p>
+<p>—No poseen órganos vitales diferenciados ni centro nervioso discernible —anunció la androide con fría precisión táctica a través de la línea interna—. La masa celular redistribuye el impacto cinético de forma instantánea. Los ataques de precisión son ineficaces contra masas micóticas no biológicas. Requiero saturación de área con frecuencias destructivas.</p>
+<p>—¡Déjamelo a mí! —rugió Triel Istrav, ajustando la frecuencia armónica de su rifle sónico al máximo nivel de resonancia molecular—. ¡A ver si sus esporas resisten una buena vibración de bajos!</p>
+<p>Un pulso sónico ensordecedor brotó del cañón de la semi-drow, golpeando de lleno al saco central en pleno vuelo. La onda de choque invisible hizo entrar en cavitación destructiva los fluidos celulares de la criatura; el hongo vibró descontroladamente en el aire hasta que sus forúnculos reventaron hacia adentro en una densa nube de polvo amarillo inerte que cayó como ceniza sobre el prado.</p>
+<p>Acto seguido, Gerty avanzó a zancadas pesadas con el hacha kishalee en alto. El meca cuadrúpedo descargó un tajo descendente de doscientos kilos de presión cinética que rebanó al segundo espécimen de lado a lado con una violencia implacable. El tercer hongo, acribillado por una andanada combinada del perforador de Zivok y el fuego continuo de Benrey, se desinfló como un pellejo pinchado, derramando un limo negruzco y pestilente sobre el césped exterior.</p>
+<p>Con el patio asegurado, el grupo forzó la compuerta de acceso exterior y se adentró en el vestíbulo principal de Tecnologías de Seguridad.</p>
+<p>El espectáculo interior desafiaba cualquier principio de ingeniería civil. El vestíbulo de recepción, antaño un pulcro salón de mármol sintético, terminales de cristal y paneles cromados de alta tecnología, estaba completamente colonizado por una jungla subterránea de setas bioluminiscentes de más de un metro de altura. Sus sombreros brillaban con tenues fosforescencias azuladas y violáceas, iluminando un panorama decadente y sobrecogedor: las paredes de yeso y piedra estaban completamente descompuestas, devoradas por la carcoma química de los siglos.</p>
+<p>Lo único que mantenía en pie los tabiques, las columnas agrietadas y el techo era una intrincada red de raíces y zarcillos de micelio endurecido que actuaba como un andamiaje biológico viviente, tensando los muros como si fueran cables de acero orgánico.</p>
+<p>—Este edificio es un cadáver hueco que olvidó cómo caerse —susurró Benrey, observando con aprensión cómo una viga agrietada pendía sostenida únicamente por filamentos blancos y gomosos—. Si ese hongo muere o se seca, la mitad de este complejo se nos viene encima como una trampa de ratones.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El refrigerador del fin del mundo y los tesoros perdidos</h3>
+<p>Avanzando entre las hileras de setas gigantes con extremo cuidado de no fracturar los tallos estructurales, la tripulación alcanzó una puerta lateral señalizada con el pictograma kishalee de una taza humeante: la antigua cocineta y sala de descanso del personal corporativo de SecuriTech.</p>
+<p>Mesas de polímero partidas por la mitad, sillas volcadas y dispensadores automáticos vacíos yacían cubiertos por una gruesa capa de moho aterciopelado. Sin embargo, en una esquina del recinto, un electrodoméstico rectangular de aleación blanca permanecía milagrosamente sellado bajo capas de resina fúngica petrificada: un refrigerador de descanso para empleados.</p>
+<p>Triel se acercó con genuina fascinación técnica, usando su palanqueta para quebrar los sellos herméticos de la puerta del aparato:</p>
+<p>—Sigue conservando algo de aislamiento térmico pasivo en sus paneles... Veamos qué consumían los técnicos de oficina de este imperio hace diez mil años.</p>
+<p>La puerta del refrigerador se abrió con un crujido gomoso y un chasquido de vacío, liberando un hedor tan abrumadoramente rancio, sulfuroso y penetrante que Benrey tuvo que taparse el hocico con ambas patas peludas, retrocediendo tres pasos con arcadas visibles.</p>
+<p>En el interior de los estantes no había tecnología militar, ni códigos secretos, ni componentes cuánticos. Solo reposaban tres recipientes de plástico deformados por la presión que contenían los restos putrefactos, licuados y fosilizados de lo que alguna vez fue el almuerzo casero de un técnico kishalee. Colonias enteras de moho mutado brotaban de una fiambrera agrietada, extendiendo zarcillos voraces y purulentos que salían por los conductos de ventilación traseros del electrodoméstico y se conectaban directamente con las gruesas lianas de micelio que trepaban hacia el techo del complejo.</p>
+<p>Un silencio sepulcral cayó sobre la cocina.</p>
+<p>Triel parpadeó tras sus lentes retráctiles, alternando la mirada entre la fiambrera podrida y el bosque de setas titánicas que llenaba el pasillo contiguo:</p>
+<p>—No puede ser... No me digas que...</p>
+<p>—Por todos los santos engranajes de la galaxia —murmuró Benrey, soltando una risa ahogada entre la incredulidad, el asombro y el espanto—. La legendaria catástrofe biológica de SecuriTech... el gran ecosistema micótico que casi devora la isla flotante entera... ¿nació porque un oficinista kishalee olvidó su almuerzo en la nevera antes de que la civilización colapsara?</p>
+<p>—MUTACIÓN BIOLÓGICA ORIGINADA POR NEGLIGENCIA DOMÉSTICA. CONCLUSIÓN: LOS ORGANISMOS BIOLÓGICOS SON INCAPACES DE MANTENER LA HIGIENE BÁSICA SIN SUPERVISIÓN ARTIFICIAL —sentenció Gerty con su sintetizador plano, provocando un resoplido divertido en Zivok.</p>
+<p>Pese a la grotesca revelación del origen de la plaga, la búsqueda en los casilleros anexos del personal arrojó frutos de incalculable valor logístico. Oculto en un botiquín hermético de emergencia médica, Triel extrajo una ampolla sellada con fluido verde iridiscente: un <strong>Suero de Mejora (Científico)</strong> de pureza química excepcional, diseñado para expandir la agudeza cognitiva, la memoria operativa y la velocidad analítica de quien lo ingiriera.</p>
+<p>Pocos metros más allá, en una taquilla blindada con cerradura de huella palmar que Zivok forzó con su palanqueta, A.Xel encontró un estuche acolchado que albergaba una obra maestra de la manufactura militar kishalee: el <strong>Guantelete de Almacenamiento</strong>. Fabricado en una malla de microplacas de plata y seda gravitatoria, el guantelete estaba diseñado para sintonizarse con los implantes bioeléctricos de su portador.</p>
+<p>A.Xel deslizó su mano izquierda en el guante. Al instante, los circuitos del accesorio cobraron vida con un suave zumbido azulado, reconociendo la interfaz cibernética de la androide. Concentrando un impulso mental en su enlace neural, A.Xel tocó su pistola de hielo; el arma se desvaneció en el aire con un destello imperceptible, absorbida en un bolsillo extradimensional microscópico alojado en la palma del guantelete. Al desear recuperarla, la pistola reapareció en su mano lista para el disparo, cargada y amartillada, sin transición ni retardo.</p>
+<p>—Sincronización neuronal al cien por cien —anunció A.Xel, con un brillo de genuina satisfacción en sus fotorreceptores—. Capacidad de despliegue instantáneo operativa. Ningún enemigo podrá prever el desenfunde.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El guantelete dimensional y la patada del temblor</h3>
+<p>Con los suministros asegurados y las reservas médicas actualizadas, el grupo reanudó la marcha hacia el ala norte, donde los mapas descoloridos de la pared señalaban la ubicación de los servidores centrales de seguridad corporativa.</p>
+<p>Al final de un pasillo inundado por esporas brillantes que danzaban como copos de nieve dorada en la penumbra, una imponente puerta de seguridad de aleación pesada bloqueaba el paso. El mecanismo electromagnético de apertura estaba completamente fundido, agarrotado por filamentos de micelio endurecido que se habían colado en las ranuras del cerrojo como cuñas de madera fósil.</p>
+<p>Zivok Jard dio un paso al frente, haciendo tronar los nudillos de sus guanteletes de asedio con una sonrisa desafiante:</p>
+<p>—Dejen que el nuevo Zivok se encargue de esto. Sin dolor en la cadera ni vértebras pinzadas, una puerta trabada es solo un calentamiento matutino.</p>
+<p>El enano tomó impulso, apoyó la bota izquierda en el suelo con firmeza inquebrantable y descargó una patada demoledora con su pierna derecha en el punto exacto de unión del cerrojo blindado.</p>
+<p>El impacto resonó como el estallido de un cañón cinético. La puerta de metal cedió con un chirrido agónico de goznes desgarrados, desprendiéndose de sus bisagras y cayendo pesadamente hacia el interior de la sala contigua en medio de una nube de chispas y óxido.</p>
+<p>Sin embargo, la tremenda fuerza del golpe tuvo un efecto secundario aterrador. Al quebrar el marco de la puerta, Zivok fracturó simultáneamente la densa masa de micelio que servía de tensor estructural al corredor entero.</p>
+<p>Un gemido sordo, profundo y telúrico recorrió los cimientos de SecuriTech.</p>
+<p>El suelo bajo sus pies tembló con una oscilación alarmante. Desde el techo agrietado, cascotes de yeso, polvo blanco y nubes densas de esporas comenzaron a llover sobre sus cabezas, mientras las vigas crujían como madera verde a punto de astillarse bajo una tormenta. El andamiaje viviente del hongo se convulsionaba en respuesta al daño, transmitiendo vibraciones de dolor biológico hacia las entrañas del edificio.</p>
+<p>Benrey miró hacia arriba con los ojos desorbitados, apretando el cañón de gravedad contra su pecho peludo:</p>
+<p>—¡Zivok! ¿Tenías que patearla como si fueras un titán de piedra? ¡Acabas de despertar a todo el condenado hongo!</p>
+<p>—La puerta está abierta, ¿no? —se defendió el enano, encogiéndose de hombros con una sonrisa pícara bajo la barba—. ¡Muévanse antes de que el techo decida hacernos compañía permanente!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 6: Teamwork is Dreamwork</h2>
+<p><em>Adaptado del Episodio 179</em></p>
+<h3 class='subsection-title'>I. El perforador y la trampa de voltios</h3>
+<p>El aire tras la puerta derribada estaba saturado de ozono caliente, formaldehído seco y partículas de sílice en suspensión. Frente a la tripulación se abría el taller de mantenimiento e ingeniería pesada de SecuriTech: una amplia nave industrial jalonada por bancos de trabajo automatizados, brazos robóticos desactivados que colgaban del techo como arañas dormidas y una docena de monitores de tubo de vacío que proyectaban cascadas de estática verdosa sobre los tableros de herramientas oxidadas.</p>
+<p>En el extremo opuesto del taller, un nuevo mamparo reforzado con aleación de tungsteno y goznes hidráulicos de veinte centímetros de grosor impedía el acceso hacia el núcleo de datos del complejo.</p>
+<p>—Esta compuerta no va a ceder con una patada, Zivok —advirtió Triel Istrav, examinando las uniones térmicas con su multímetro de mano—. El marco está soldado a la roca por expansión térmica tras siglos de abandono. Si intentamos forzarla a golpes brutos, partiremos el tabique y nos sepultaremos bajo una lluvia de hormigón.</p>
+<p>Zivok Jard se adelantó con paso firme, descolgando de su hombro el perforador molecular. La pesada herramienta de minería y demolición vibró con un zumbido grave y potente mientras los inductores de plasma se calentaban al blanco en la tobera frontal:</p>
+<p>—Para eso me pagan el sueldo, jefa. Un corte limpio en las bisagras y la física hará el resto del trabajo.</p>
+<p>El enano plantó las botas en el suelo metálico, apoyó el cañón en la ranura superior y apretó el disparador de ciclo térmico. Un torrente ensordecedor de chispas anaranjadas, humo denso y metal licuado inundó la estancia mientras el rayo molecular derretía la aleación de tungsteno como si fuera cera templada. Con tres incisiones quirúrgicas guiadas por la experiencia de años en las galerías más profundas de los Mundos del Pacto, Zivok rebanó los pernos principales sin rozar la mampostería.</p>
+<p>Sin embargo, en el instante exacto en que el mamparo se vencía hacia adelante con un crujido agónico, los circuitos latentes de la nave interpretaron la incisión térmica como un intento de sabotaje perimetral.</p>
+<p>En las paredes laterales del taller, una serie de bobinas de cobre empotradas en aislantes cerámicos comenzaron a brillar con un resplandor azul cobalto que zumbó con una frecuencia ascendente.</p>
+<p>—¡CUIDADO! ¡DESCARGA EN ÁREA! —gritó A.Xel, arrojándose hacia un saliente de cobertura.</p>
+<p>Un relámpago en arco de altísimo voltaje estalló desde las bobinas. La onda de choque eléctrica zigzagueó por el suelo enrejado del taller como una jauría de serpientes luminosas, barriendo el espacio cerrado con una furia desatada. La trampa defensiva kishalee golpeó a todo el grupo en una milésima de segundo; el impacto de decenas de miles de voltios hizo crujir los sistemas de sus armaduras, sobrecargó los capacitores de Gerty y erizó el pelaje de Benrey de la cabeza a la punta de la cola, despidiendo un persistente olor a pelo chamuscado y soldadura fundida.</p>
+<p>Benrey se incorporó sacudiendo la cabeza, con pequeños arcos voltaicos chisporroteando en la punta de sus bigotes de roedor:</p>
+<p>—Definitivamente... SecuriTech no escatimaba en medidas de hospitalidad para sus visitantes... Si sobrevivo a este planeta, voy a exigir un bono por riesgo eléctrico en mi contrato.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El escáner de movimiento y la sala de cristal</h3>
+<p>Mientras Triel administraba rápidamente apósitos aislantes sobre las quemaduras superficiales de Zivok y estabilizaba los condensadores de su creación mecánica, Benrey inspeccionó los armarios de almacenamiento de emergencia empotrados en la pared norte del taller. Entre herramientas rotas, fusibles carbonizados y bobinas inservibles, sus dedos palparon un maletín cilíndrico de polímero sellado con una pestaña magnética.</p>
+<p>Al abrirlo, descubrió un dispositivo triangular provisto de una pequeña pantalla holográfica circular y tres sensores de microvibración acústica: un <strong>Escáner de Movimiento</strong> de manufactura militar kishalee.</p>
+<p>—Miren esto, equipo —llamó Benrey, encendiendo el aparato con una pulsación en el activador táctil—. Es un radar de detección de vibración molecular por ondas de choque. Es capaz de rastrear cualquier masa que se mueva a menos de treinta pies de distancia, incluso a través de mamparos de aleación de acero o diez metros de escombros compactados.</p>
+<p>—Una herramienta de reconocimiento táctico de primer orden —aprobó A.Xel, observando cómo la pantalla holográfica del ysoki dibujaba cuatro puntos verdes que correspondían a los latidos y pasos del equipo—. En un complejo que amenaza con derrumbarse a cada paso, este escáner será la diferencia entre encontrar una salida o quedar sepultados bajo toneladas de roca sin que nadie pueda localizarnos.</p>
+<p>Dejando atrás el taller calcinado, el grupo cruzó el vano del mamparo fundido y se encontró ante un cambio radical de escenario: la <strong>Sala de Servidores Centrales</strong>.</p>
+<p>A diferencia de los corredores ruinosos y devorados por la podredumbre vegetal del exterior, esta cámara abovedada lucía impecable, casi suspendida en el tiempo. Las paredes de aleación grisácea y los racks de servidores que se elevaban seis metros hasta el techo estaban impregnados de un recubrimiento translúcido con un persistente aroma mentolado y químico: una capa de barniz fungicida industrial de alta densidad que había impedido a las hifas del hongo penetrar en el sanctasanctórum informático durante milenios. Era el testamento mudo de una civilización que, antes de sucumbir a la barbarie y al olvido de la Brecha, había alcanzado una cúspide técnica capaz de aislar la información pura frente a las peores inclemencias biológicas.</p>
+<p>En el centro de la sala, sobre una consola semicircular que daba hacia el sector sur, descansaba el terminal maestro de acceso. Sin embargo, su pantalla permanecía apagada; las líneas de energía del complejo estaban completamente muertas tras el colapso de la red general. Cientos de cables de fibra óptica colgaban inertes bajo la moldura, desconectados de las toberas principales.</p>
+<p>Triel se arrodilló bajo la consola, arrancando la tapa de conexiones con su alicate multiusos y soplando una nube de polvo seco:</p>
+<p>—Los bancos de condensadores locales están completamente secos. La red de la isla no alimenta este sector desde hace milenios. Necesitamos una fuente de poder externa de alto amperaje para despertar la interfaz. Benrey, pásame la batería industrial de la corbeta.</p>
+<p>El ysoki extrajo de su mochila una pesada celda de energía de cuarenta cargas, acoplándola a los bornes auxiliares con la asistencia técnica de Triel. Al cerrar el circuito con un chispazo limpio, un zumbido grave y potente recorrió la sala. Las hileras de servidores se iluminaron con pulsos de luz ámbar, y la pantalla central parpadeó, desplegando un laberinto de runas geométricas y barreras de seguridad cibernética kishalee.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El código XLT-88 y el despertar de la colmena</h3>
+<p>—Protocolos de encriptación kishalee activos —anunció A.Xel, conectando su cable neural al puerto de diagnósticos de la consola—. La interfaz exige un dialecto técnico arcaico con validación de sintaxis corporativa y claves de paso entrelazadas. Los cortafuegos son agresivos; detecto rutinas de purga lógica diseñadas para fundir cualquier procesador que cometa tres errores consecutivos de sintaxis.</p>
+<p>—Tú traduces las variables semánticas y yo dinamito los cortafuegos —propuso Triel con una sonrisa desafiante, con los dedos volando sobre el teclado holográfico con una velocidad vertiginosa—. ¡Trabajo en equipo, chica! ¡Demostrémosle a esta máquina de oficina lo que vale una tripulación de la Cuenca Estelar!</p>
+<p>Durante tres minutos de tensión asfixiante, Triel y A.Xel operaron en una simbiosis perfecta de cálculo e intuición. Cada vez que una barrera de hielo informático intentaba bloquear el acceso o purgar los bancos de memoria, A.Xel descifraba la raíz semántica kishalee, permitiendo a Triel inyectar un algoritmo de anulación que sorteaba los contrafuegos milenarios sin disparar las alarmas de autodestrucción. Benrey y Zivok montaban guardia en el umbral, con las armas apuntadas hacia la penumbra del pasillo exterior, donde las paredes comenzaban a emitir crujidos cada vez más siniestros.</p>
+<p>En la pantalla, una barra de transferencia de datos comenzó a llenarse con un pulso ascendente: cincuenta... setenta... noventa por ciento.</p>
+<p>Con un pitido triunfal, el sistema emitió una confirmación visual. En el centro de la terminal apareció grabado el archivo maestro:</p>
+<blockquote class='quote'><strong>AUTORIZACIÓN DE FÁBRICA CONCEDIDA: CERROJO PERIMETRAL SERIE XLT-88.</strong></blockquote>
+<blockquote class='quote'><strong>CÓDIGO DE REINICIO MAESTRO: ÉPSILON-KISH-994-DELTA.</strong></blockquote>
+<blockquote class='quote'><strong>DESTINO: LA FORJA CENTRAL DE ISTAMAK.</strong></blockquote>
+<p>—¡Lo tenemos! —exclamó Triel, descargando la clave en la memoria de su tableta de mano—. ¡Tenemos la llave maestra de La Forja!</p>
+<p>Pero el festejo duró apenas un suspiro.</p>
+<p>El repentino pulso electromagnético generado por el arranque de los servidores y la descarga de datos viajó a través de los cables del suelo, transmitiéndose hacia las paredes del exterior como una descarga nerviosa. En el pasillo que acababan de cruzar, la alfombra de micelio reaccionó a la corriente eléctrica como si le hubieran clavado un hierro candente.</p>
+<p>Un bramido viscoso, cavernoso y gutural sacudió los cimientos de la sala.</p>
+<p>A través de las puertas abiertas del taller, la tripulación vio con horror cómo miles de filamentos blancos, setas gigantes y zarcillos descompuestos se desprendían de las paredes, fusionándose y retorciéndose en una masa descomunal. En cuestión de segundos, la biomasa fúngica coalesció en un <strong>enjambre micelial colosal</strong>: una titánica aberración de seis metros de envergadura, erizada de apéndices espinosos, fauces de esporas y pseudópodos palpitantes que bloqueaba por completo la única ruta de escape hacia el exterior.</p>
+<p>El enjambre rugió con la furia ciega de una colonia herida, cerrando el paso mientras el techo del complejo comenzaba a crujir bajo el peso de su avance.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 7: La Princesa no Está en este Castillo</h2>
+<p><em>Adaptado del Episodio 180</em></p>
+<h3 class='subsection-title'>I. La incineración de la colmena</h3>
+<p>El enjambre micelial colosal no permitía ningún margen de retirada ni maniobra táctica. Sus apéndices fúngicos, gruesos como troncos de árbol centenarios y cubiertos de filamentos blancos palpitantes, azotaban el suelo y las paredes del taller de ingeniería con una fuerza capaz de doblar vigas de acero. Nubes sofocantes de esporas ácidas brotaban de sus múltiples cráteres de desove, saturando el aire con un vapor amarillento que chisporroteaba con ferocidad corrosiva contra los escudos térmicos y los visores de las armaduras.</p>
+<p>La masa celular latía al unísono con una inteligencia biológica ciega y voraz, cerrando la única salida con una muralla impenetrable de zarcillos prensiles que buscaban estrangular a cualquier organismo vivo que intentara cruzar el umbral.</p>
+<p>—¡NO DISPAREN BALAS SÓLIDAS NI PROYECTILES PERFORANTES! —gritó A.Xel a través de la frecuencia de combate, activando sus propulsores para mantenerse en vuelo rasante sobre las consolas de la sala de servidores—. ¡La masa absorbe los impactos cinéticos y redistribuye la energía para cerrar las heridas de forma instantánea! ¡Requerimos trauma estructural y térmico a nivel celular!</p>
+<p>Triel Istrav se colocó en la vanguardia junto al meca cuadrúpedo, sobrecargando la celda de su rifle sónico hasta que el cañón emitió un zumbido azulado:</p>
+<p>—¡Gerty, ábrele una brecha en el flanco izquierdo! ¡Corta sus tendones principales y yo desharé la cohesión de sus membranas!</p>
+<p>—ORDEN ASIMILADA. PROTOCOLO DE DESBROCE PESADO ACTIVADO —bramó el meca con su sintetizador plano reverberando en el espacio cerrado.</p>
+<p>Gerty avanzó con zancadas pesadas que hicieron vibrar el enrejado del suelo. Con dos de sus extremidades hidráulicas alzó el hacha kishalee en un arco demoledor, descargando un tajo descendente de doscientos kilos de presión cinética. La hoja de aleación y plasma rebanó tres apéndices fúngicos de cuajo, arrojando chorros de savia lechosa que silbaban al tocar el metal ardiente.</p>
+<p>Acto seguido, el disparo sónico de Triel impactó en el centro exacto de la herida abierta. La onda expansiva ultrasónica hizo entrar en cavitación destructiva los fluidos celulares del monstruo; el enjambre entero tembló como gelatina sacudida por un martillo, provocando que decenas de quistes de esporas reventaran hacia adentro en una cascada de desgarros estructurales que arrancó a la colmena un chillido agónico y gutural.</p>
+<p>La masa fúngica se replegó momentáneamente, convulsionando sobre sí misma.</p>
+<p>Ese fue el instante exacto que Zivok Jard estaba esperando. El enano plantó las botas en el suelo, encaró el núcleo palpitante de la aberración y empujó el regulador de su perforador molecular al límite térmico de combustión continua:</p>
+<p>—¡A ver cómo digieres esto, bola de moho podrido! —rugió Zivok con furia veterana.</p>
+<p>Un chorro ininterrumpido de plasma incandescente a más de tres mil grados brotó de la tobera del perforador. El fuego envolvió el corazón del enjambre micelial en una conflagración arrolladora. El tejido vegetal, seco y poroso en su núcleo por la pérdida de fluidos, ardió como paja empapada en queroseno. En cuestión de segundos, la criatura se convirtió en una pira titánica que se derritió sobre sí misma entre alaridos de vapor hirviente, dejando tras de sí un montón de cenizas humeantes y el pasillo momentáneamente despejado de enemigos.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El colapso del andamiaje viviente</h3>
+<p>La tripulación no tuvo ni un solo segundo para celebrar la victoria.</p>
+<p>Al quemarse el enjambre central y extinguirse su núcleo biológico, el efecto dominó que Benrey había temido se desató con una furia implacable y aterradora. Los millones de filamentos de micelio que recorrían cada viga de aleación, cada columna de hormigón y cada placa de mampostería de SecuriTech comenzaron a marchitarse, desprenderse y carbonizarse simultáneamente en una reacción en cadena.</p>
+<p>Al desaparecer la tensión biológica que sostenía los restos del edificio, los diez mil años de peso muerto de la instalación se desplomaron sin aviso previo.</p>
+<p>Un crujido ensordecedor partió la estructura de este a oeste, como si el propio planeta desgarrara los cimientos de la isla flotante.</p>
+<p>—¡EL EDIFICIO SE CAE! ¡CORRAN POR SUS VIDAS! —aulló Benrey Galway con un grito desesperado que quebró la estática de los comunicadores.</p>
+<p>El suelo bajo sus pies comenzó a fracturarse en losas gigantescas que se inclinaban hacia el abismo. Mientras cruzaban el taller rumbo al pasillo principal entre una lluvia de cascotes, una sección entera del pavimento cedió bajo las botas de Triel Istrav. Un foso de diez metros de profundidad se abrió bajo la semi-drow con un estruendo seco, revelando el abismo vertiginoso de Nejeor VI y las nubes de amoníaco arremolinándose bajo el islote flotante.</p>
+<p>Triel resbaló por la pendiente de cascotes, perdiendo el agarre de su rifle y sintiendo el vacío tirar de sus piernas hacia las profundidades del gigante gaseoso.</p>
+<p>—¡TRIEL! —gritó Zivok, intentando alcanzarla con su mano acorazada, pero el peso de su armadura amenazaba con hundir la losa adyacente bajo la que se abría el mismo pozo sin fondo.</p>
+<p>Benrey Galway se deslizó de rodillas sobre el suelo inclinado, apoyando el cañón de gravedad contra una viga de acero expuesta para asegurar su propia tracción.</p>
+<p>—¡Agárrate fuerte! —bramó el ysoki con los ojos desorbitados.</p>
+<p>El pulso tractor del cañón de gravedad atrapó a la mecánica en plena caída libre, envolviendo su cintura con un halo de fuerza invisible que detuvo su descenso a escasos centímetros de perderse en el vacío. Con un esfuerzo sobrehumano que tensó cada músculo de sus brazos y espalda, Benrey tiró del selector de masa cinético, izando el cuerpo de Triel fuera del pozo y depositándola sobre un saliente de hormigón sólido justo cuando el foso se tragaba otra tonelada de escombros en una caída infinita.</p>
+<p>Triel tosió polvo mientras recuperaba el aliento, aferrándose al brazo de Benrey con los nudillos blancos:</p>
+<p>—¡Por poco compro parcela en las nubes! —gritó la semi-drow, incorporándose a duras penas.</p>
+<p>—¡Menos charla y más carreras! —bramó Zivok desde la retaguardia, abriéndose paso con el perforador molecular apagado y sirviendo de escudo viviente contra las piedras que llovían del forjado—. ¡Este suelo no aguantará tres pasos más!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Carrera contra el abismo en las oficinas caídas</h3>
+<p>El caos era absoluto y demoledor. Nubes espesas de polvo de cal, humo negro y fragmentos de techo caían en una tormenta implacable. El grupo se precipitó hacia el sector administrativo: un antiguo laberinto de oficinas y centros de atención al cliente kishalee donde los paneles divisorios se desmoronaban como castillos de naipes bajo el peso del piso superior. En las hendiduras del suelo se vislumbraban las corrientes térmicas de Nejeor VI, arrojando ráfagas de aire viciado que intentaban succionar a los fugitivos.</p>
+<p>A.Xel corría en retaguardia, cubriendo la retirada de Benrey y Triel, cuando una columna de soporte de tres metros de grosor se fracturó a su lado con un chasquido similar a un cañonazo.</p>
+<p>El pilar de hormigón reforzado se vino abajo en diagonal, atrapando a la androide entre dos losas macizas de la pared. El impacto inmovilizó su pierna izquierda y dobló el blindaje de su cadera, bloqueando sus servomotores con una alarma crítica en su pantalla de visión:</p>
+<p>—¡ESTOY ATRAPADA! ¡SISTEMAS MOTRICES INMOVILIZADOS! —anunció A.Xel a través del enlace interno, mientras el techo sobre su cabeza comenzaba a pandearse de forma inminente, amenazando con aplastarla. Las alarmas de presión interna parpadeaban en su procesador: la losa amenazaba con cercenar sus conductos de refrigerante.</p>
+<p>Gerty no vaciló un solo instante. El meca cuadrúpedo invirtió la marcha en medio del derrumbe, embistiendo los escombros a toda velocidad. Con dos de sus extremidades hidráulicas superiores aferró la base del pilar fracturado, empujando hacia arriba con la potencia de sus cuatro servomotores al límite térmico, mientras con una de sus pesadas patas mecánicas descargó una patada demoledora contra la losa que aprisionaba a la androide.</p>
+<p>La combinación de palanca hidráulica y fuerza bruta pulverizó el borde de hormigón en una lluvia de grava y esquirlas de hierro.</p>
+<p>—SUJETO A.XEL LIBERADO. DAÑOS ESTRUCTURALES EN CURSO: NOVENTA Y SEIS POR CIENTO. VELOCIDAD DE EVACUACIÓN REQUERIDA: MÁXIMA —sintetizó el robot, arrojando a A.Xel hacia adelante con sus pinzas mecánicas justo en el segundo exacto en que la techumbre entera de la oficina se desplomaba en el lugar donde ella yacía atrapada.</p>
+<p>Tosiendo por el polvo sofocante, esquivando vigas de aleación que caían como meteoritos y saltando sobre grietas que se tragaban el suelo a cada paso, los cinco alcanzaron el gran vestíbulo de entrada por donde habían ingresado horas antes. El meca Gerty utilizaba su propio torso como escudo contra los cascotes más pesados, protegiendo las cabezas de Benrey y Triel mientras el edificio gemía con estertores de agonía estructural.</p>
+<p>Pero la puerta exterior ya no existía.</p>
+<p>El techo del gran salón de recepción había colapsado por completo. Cientos de toneladas de mampostería kishalee, bloques de aleación, tuberías retorcidas y tierra fúngica descompuesta formaban un montículo infranqueable de diez metros de altura que sepultaba las puertas de salida bajo una barrera de piedra maciza y escombros prensados. No había túnel ni rendija por donde deslizarse.</p>
+<p>El polvo en suspensión cegaba las linternas tácticas, reduciendo la visibilidad a escasos palmos mientras el aire se enrarecía por segundos. Estaban atrapados en el estómago del edificio que se desplomaba a pedazos, con las rutas de escape selladas y el suelo vibrando bajo la aterradora amenaza de fracturarse por completo y arrojarlos al abismo sin fin de Nejeor VI.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 8: ¡Azucá!</h2>
+<p><em>Adaptado del Episodio 181</em></p>
+<h3 class='subsection-title'>I. La ventana sónica y el salto al vacío</h3>
+<p>El aire en el vestíbulo sepultado se había vuelto una masa caliente e irrespirable de cal viva, polvo de amianto y vapores de ozono. La gigantesca montaña de escombros que bloqueaba la entrada principal crujía bajo la presión acumulada de las tres plantas superiores, mientras las paredes perimetrales vomitaban grietas diagonales de más de un palmo de anchura. El tiempo de escape se medía en fracciones de segundo antes de que la losa del tejado borrara cualquier cavidad superviviente.</p>
+<p>Triel Istrav barrió el perímetro con sus lentes subdérmicos, buscando desesperadamente cualquier abertura al exterior entre las ruinas de las oficinas de atención al público:</p>
+<p>—¡POR AQUÍ! —gritó la semi-drow, señalando hacia un despacho esquinero cuyo muro exterior daba hacia la cornisa de la isla flotante—. ¡La ventana exterior sigue en pie!</p>
+<p>El ventanal era una plancha maciza de cuarzo balístico kishalee de cuatro pulgadas de grosor, oscurecida por el polvo de los siglos y diseñada para resistir huracanes planetarios y bombardeos orbitales. No había tiempo para buscar paneles de control, interfaces informáticas ni cerrojos mecánicos.</p>
+<p>Triel plantó las botas en el suelo inestable, encaró el cristal a menos de un metro de distancia y apretó el gatillo de su rifle sónico con el condensador al límite de su capacidad térmica y estructural.</p>
+<p>El estallido de frecuencia resonante fue demoledor. Una onda de choque invisible martilleó el centro del ventanal; el cuarzo balístico vibró con un chillido agudo de frecuencias ultraaltas antes de reventar hacia afuera en un millón de fragmentos brillantes que llovieron sobre el abismo cobrizo de Nejeor VI como una cascada de diamantes.</p>
+<p>—¡SALTEN! ¡TODOS FUERA! —ordenó Benrey Galway, empujando a Triel hacia el marco abierto.</p>
+<p>A.Xel activó sus propulsores dorsales para amortiguar la caída, saltando hacia el patio exterior de roca suspendida. Gerty se lanzó tras ella con un salto amortiguado por sus actuadores hidráulicos, aterrizando con un estruendo metálico sobre la grava del patio. Benrey cruzó la abertura en una zambullida desesperada, rodando sobre el pavimento del patio justo cuando la techumbre del despacho comenzaba a desplomarse tras él.</p>
+<p>En el interior, Zivok Jard cubría la retaguardia, asegurándose de que el ysoki y la mecánica estuvieran completamente fuera de peligro antes de abandonar la posición.</p>
+<p>—¡ZIVOK, SALTA! ¡YA NO QUEDA NADA AHÍ ADENTRO! —rugió Benrey desde el exterior.</p>
+<p>El enano tomó impulso para arrojarse a través del ventanal, pero el destino cobró su peaje con una crueldad fulminante. La viga maestra del edificio, una mole de aleación de tungsteno de veinte toneladas que sostenía el tejado central de SecuriTech, se fracturó por la mitad con un bramido cataclísmico que sacudió la isla entera.</p>
+<p>El techo colapsó en caída libre sobre la oficina.</p>
+<p>Una masa aterradora de losas de hormigón macizo, vigas retorcidas y cascotes aplastó el vano de la ventana en una avalancha demoledora. La polvareda brotó hacia el patio exterior con la violencia de una explosión termobárica, cegando al grupo y arrojando a Benrey de espaldas contra la roca con una fuerza tremenda.</p>
+<p>Cuando el vendaval amainó segundos después, SecuriTech ya no existía. Frente a ellos solo se alzaba un montículo informe de ruinas calcinadas, hierro retorcido y un silencio de muerte aterrador.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El escáner de Benrey y la montaña de escombros</h3>
+<p>—¡ZIVOK! —el grito de Triel desgarró la atmósfera enrarecida de la meseta flotante con una angustia desgarradora.</p>
+<p>La semi-drow corrió hacia la montaña de cascotes humeantes, arañando la mampostería con sus manos desnudas hasta sangrar en un intento desesperado por encontrar un acceso. Gerty comenzó a apartar bloques de piedra con sus pinzas mecánicas, pero la inmensidad del derrumbe hacía que cada esfuerzo pareciera una burla trágica.</p>
+<p>—NO SE DETECTAN SIGNOS VITALES EN LA SUPERFICIE —anunció el meca con un matiz de alarma estática en su sintetizador plano—. PRESIÓN ESTIMADA DEL DERRUMBE: DOSCIENTAS TONELADAS MÉTRICAS. PROBABILIDAD DE SUPERVIVENCIA BAJO EL COLAPSO: MENOS DEL CINCO POR CIENTO.</p>
+<p>—¡Cállate, Gerty! ¡Cállate y sigue buscando! —exclamó Triel con la voz rota por el pánico, empujando una losa de hormigón que no se movió ni un milímetro.</p>
+<p>Benrey Galway se puso en pie de un salto, sacudiéndose el polvo blanco del pelaje. Sus pupilas se abrieron de par en par al recordar el hallazgo en los armarios del taller de ingeniería:</p>
+<p>—¡El escáner de movimiento! —bramó el ysoki, descolgando el dispositivo triangular kishalee de su cinto táctico con dedos febriles—. ¡El escáner de vibración molecular acústica!</p>
+<p>Con los dedos temblorosos, Benrey encendió la pantalla holográfica circular del aparato. El barrido de microondas penetró la masa de escombros compactados, dibujando en verde la maraña de varillas de acero, aire estancado y rocas sepultadas. Durante cinco segundos agónicos que parecieron durar una eternidad, la pantalla solo mostró líneas estáticas de retorno nulo.</p>
+<p>De pronto, a cuatro metros de profundidad bajo el corazón del montículo, un punto verde comenzó a parpadear con un pulso débil, lento y entrecortado.</p>
+<p><em>Tun... tun... tun...</em></p>
+<p>—¡ESTÁ VIVO! —aulló Benrey, señalando con el cañón hacia un rincón del derrumbe donde dos vigas formaban una cuña—. ¡Está a cuatro metros bajo esa losa central! Su pulso es débil y está perdiendo fuelle, pero se está moviendo. ¡Rápido, excaven aquí antes de que el oxígeno se agote!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El rescate de Zivok Jard</h3>
+<p>El rescate se transformó en una frenética batalla contra el reloj y la gravedad. Gerty clavó dos de sus extremidades hidráulicas bajo la losa principal de veinte toneladas, empujando con toda la potencia de sus servomotores hasta que los metales de su chasis rechinaron al límite de la deformación elástica. Triel aplicó su cortador térmico sobre las barras de rebar que aprisionaban el hueco, derritiendo el acero en cascadas de fuego blanco y chispas cegadoras, mientras A.Xel se deslizaba con audacia entre las grietas para afianzar el túnel de rescate con soportes provisionales.</p>
+<p>Tras remover media tonelada de cascotes y polvo compactado, una mano acorazada en metal azul cobalto asomó débilmente entre el polvo.</p>
+<p>—¡LO TENGO! —gritó Benrey, aferrando el guantelete del enano con ambas patas peludas.</p>
+<p>A.Xel y Triel se unieron al agarre de inmediato, tirando con todas sus fuerzas mientras Gerty sostenía la losa superior en vilo con sus actuadores crujiendo al rojo vivo. Con un esfuerzo agónico que vació los pulmones de todos, el cuerpo de Zivok emergió de la cavidad justo en el segundo exacto en que los últimos tensores cedían, sepultando el hueco para siempre bajo otra avalancha de cascotes demoledora.</p>
+<p>El enano cayó pesadamente sobre la hierba exterior, tosiendo sangre y polvo de yeso a borbotones.</p>
+<p>Su armadura «El Espectro Azul» estaba completamente destrozada: los servos del hombro izquierdo reventados, las placas de aleación abolladas y el peto hundido peligrosamente contra las costillas por el peso del colapso. Sus signos vitales parpadeaban en un rojo crítico alarmante; sin embargo, el milagro de la regeneración celular que había recibido horas antes en la Casa del Renacimiento había mantenido sus huesos lo bastante densos, elásticos y mineralizados como para evitar que sus órganos internos fueran pulverizados de forma instantánea.</p>
+<p>Triel cayó de rodillas a su lado, inyectándole de inmediato un vial de analgésico y solución salina regenerativa en el cuello:</p>
+<p>—¡Respira, maldito idiota testarudo! ¡Respira hondo!</p>
+<p>Zivok entreabrió los párpados hinchados por el polvo. Escupió una bocanada de flema negruzca sobre la piedra, parpadeó con dificultad hacia la figura temblorosa de la semi-drow y, con un esfuerzo titánico que arrancó un gemido a sus pulmones, extendió su mano libre para estrechar con fuerza los dedos de Benrey Galway.</p>
+<p>Una débil y ensangrentada sonrisa asomó bajo su espesa barba gris:</p>
+<p>—Zivok... Zivok Jard —dijo el enano con una voz ronca pero cargada de una dignidad inquebrantable—. Ese es el nombre de mi clan en los pozos profundos de los Mundos del Pacto. Para un soldado de mi raza, revelar el nombre del clan es entregar la custodia de su honor y su historia. Ningún enano que se respete le oculta su sangre a los hermanos de armas que acaban de arrancarlo del vientre mismo de la tumba.</p>
+<p>Benrey dejó escapar un suspiro que pareció vaciarle el pecho de semanas de tensión, apoyando la frente contra el guantelete abollado del artillero:</p>
+<p>—Zivok Jard... es un honor tenerte de vuelta en una sola pieza, colega. Ya eres oficialmente y para siempre parte de esta tripulación de locos.</p>
+<p>A.Xel ayudó a asegurar el soporte cervical del enano, mientras Triel guardaba las jeringas vacías con las manos aún temblorosas por la adrenalina. Gerty se colocó en posición de guardia en el borde del precipicio, orientando sus sensores hacia las nubes lejanas para prevenir cualquier nuevo ataque de las criaturas del abismo.</p>
+<p>A su alrededor, sobre la isla flotante barrida por los vientos ácidos de Nejeor VI y con las ruinas de SecuriTech reducidas a un montículo de ceniza y hormigón muerto, la tripulación intercambió miradas de complicidad, hermandad y alivio absoluto. Habían burlado a la muerte por una fracción de segundo. Con los códigos maestros de La Forja a salvo en sus bancos de memoria, las piezas de tecnología ancestral en sus mochilas y su escuadrón completo, Benrey alzó el puño al cielo, gritando con una alegría salvaje que resonó sobre las tormentas del gigante gaseoso:</p>
+<p>—¡Estamos vivos, carajo! ¡Azucá para todos!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 9: El Discurso del (Ben)rey</h2>
+<p><em>Adaptado del Episodio 182</em></p>
+<h3 class='subsection-title'>I. La tarima de los ancestros y el discurso del fuego</h3>
+<p>El regreso de la tripulación a la plaza comunal de los kish tuvo el aire de una procesión solemne que congregó a toda la comunidad. Con Zivok Jard caminando por su propio pie, aunque apoyado levemente en el hombro acorazado de Gerty para disimular la fatiga residual de su rescate bajo doscientas toneladas de escombros, y con los códigos maestros de SecuriTech asegurados en los bancos de memoria de Triel, la comitiva cruzó el arco de entrada bajo la atenta y silenciosa mirada de cientos de ojos bioluminiscentes.</p>
+<p>Toda la tribu se había congregado en el anfiteatro natural de la plaza. Ancianos encorvados cubiertos de pieles de reptil de las nubes, madres con crías en brazos y jóvenes cazadores empuñando lanzas de piedra y arcos toscos observaban a los forasteros con un silencio cargado de expectación, temor reverencial e incertidumbre ante las noticias que traían de la Tierra Rota.</p>
+<p>Tzayl se adelantó con paso pausado, alzando su bastón ceremonial de madera pulida con gesto grave:</p>
+<p>—Los heraldos regresan del reino de los derrumbes... Las montañas de metal temblaron con su paso y el humo de los ancestros cubrió el horizonte oriental. ¿Qué respuestas traen para el pueblo kish? ¿Ha hablado el espíritu de «El Extraño»?</p>
+<p>Benrey Galway sintió una pulsación tibia y profunda en el centro de su pecho. El cristal de aptitud que había asimilado días atrás pareció encenderse con una resonancia magnética que despejó cualquier rastro de duda, cansancio o titubeo en su mente de ysoki. Con paso firme, la cola erguida en una curva elegante y una mirada que transmitía una autoridad insospechada para su estatura, Benrey ascendió los escalones de una tosca tarima de madera situada en el centro del estrado comunal.</p>
+<p>El pequeño capitán respiró hondo, posando sus ojos oscuros e inteligentes sobre la multitud congregada:</p>
+<p>—¡Pueblo de Istamak! —su voz no sonó aguda ni apresurada; resonó en la plaza con un timbre profundo, cálido, armónico y envolvente que arrancó un suspiro unánime a la multitud, acallando hasta el llanto de las crías kish—. Durante incontables generaciones han vivido con la cabeza agachada, temiendo al viento, temiendo a las nubes y creyendo que las grandes bóvedas de metal y cristal que los rodean son templos de dioses caprichosos que exigen su ignorancia para bendecirlos.</p>
+<p>Un anciano kish de piel arrugada dio un paso al frente, murmurando con voz temblorosa mientras se aferraba a un amuleto de hueso:</p>
+<p>—«El Extraño» camina en las sombras... La Casa del Renacimiento es el vientre sagrado donde solo los puros renacen... Desafiar los misterios es invocar la cólera del vacío...</p>
+<p>—¡La Casa del Renacimiento no es una iglesia, anciano! —interrumpió Benrey, alzando ambas patas peludas hacia el cielo cobrizo con una convicción electrizante—. ¡Era un hospital! ¡Y el Laberinto de los Fantasmas no es una fosa de espíritus condenados, sino una biblioteca y un archivo histórico donde duerme la memoria de sus antepasados! Miren a mi compañero Zivok Jard. No fue una oración mágica ni un sacrificio de sangre lo que enderezó sus huesos rotos; fue la medicina y la bioingeniería de los propios kishalee, reprogramada por las manos de quienes comprenden cómo funciona una máquina.</p>
+<p>Benrey se inclinó hacia adelante sobre la barandilla de madera, modulando su tono con una emoción tan visceral y sincera que hasta Triel y A.Xel lo contemplaron con renovada admiración:</p>
+<p>—Hay una antigua fábula en los mundos de donde vengo sobre una criatura que miraba a los hombres desde la copa de los árboles y cantaba que deseaba ser como ellos, aprender el secreto del fuego rojo para dejar de ser una bestia en la espesura de la selva. Ustedes no son bestias en la selva, kish. ¡Ese fuego rojo ya fue suyo! Sus ancestros no rezaban aterrados ante las puertas cerradas; ¡ellos diseñaron las cerraduras y construyeron las llaves! La verdadera maldición que los tiene encadenados en esta penumbra no es el Culto del Devorador ni la caída del imperio; es el miedo a aprender. Dejen de adorar los interruptores rotos como si fueran ídolos divinos. Abran los libros de piedra. Aprendan a leer las runas de sus padres y reclamen la dignidad de una especie que una vez tocó las estrellas con sus propias manos.</p>
+<p>El silencio que siguió a sus palabras fue absoluto y estremecedor. Ni una lanza se movió; ni un susurro turbó el aire barrido por el viento de Nejeor VI.</p>
+<p>Lentamente, la Sacerdotisa Tzayl bajó su bastón ceremonial. En los ojos de los jóvenes cazadores ya no había miedo al sacrilegio ni sumisión ciega, sino una chispa incandescente de revelación que amenazaba con barrer milenios de oscuridad y superstición.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El arco del cazador y las advertencias de Tzayl</h3>
+<p>La reverencia con la que la tribu acogió el final del discurso rozó la devoción laica más pura. Con un gesto solemne, Tzayl ordenó a los ancianos del consejo traer las reliquias más sagradas custodiadas en el relicario del clan, preservadas durante siglos a la espera de un momento profético.</p>
+<p>—Has hablado como ningún forastero se atrevió jamás, pequeño heraldo —dijo Tzayl, cuya voz vibraba con una mezcla de respeto, alivio y humildad—. Si el conocimiento de los kishalee debe despertar del sueño de las eras, que sea en las manos de quienes nos enseñaron a no temer a la verdad.</p>
+<p>Frente a Benrey, la sacerdotisa depositó tres ofrendas excepcionales:</p>
+<p>Primero, las <strong>Botas de Eoli</strong>, un calzado confeccionado con cueros reforzados y tendones elásticos de los depredadores de las nubes, dotadas de resortes neumáticos internos y suelas magnéticas que permitían al portador ejecutar saltos prodigiosos de diez metros y deslizarse sobre terrenos escarpados sin perder jamás la tracción.</p>
+<p>Segundo, una ampolla de vidrio blindado con un fluido escarlata brillante: un <strong>Suero de Curación Modelo Tres</strong> de grado militar kishalee, reservado para los sanadores de la élite imperial.</p>
+<p>Y finalmente, sobre un paño de seda blanca tejida con fibras de loto de las nubes, un arma que dejó al ysoki sin palabras: el <strong>Arco de Caza Kish</strong>. Tallado en una madera negra fosilizada combinada con aleaciones kishalee de memoria de forma, el arco poseía poleas gravitatorias integradas en los extremos y una cuerda de nanopolímeros capaz de proyectar flechas con la velocidad terminal y la potencia perforante de un cañón cinético.</p>
+<p>Benrey tomó el arco entre sus patas peludas. Al tensar la cuerda con los músculos del pecho, sintió una afinidad instintiva, salvaje y perfecta con el artefacto, como si la arquería hubiera estado latente en su memoria a la espera de aquel momento exacto.</p>
+<p>Antes de que pudiera agradecer el obsequio, una pequeña niña kish de ojos saltones y túnica raída se acercó tímidamente a la tarima, extendiendo un cilindro envuelto en piel curtida de basilisco de las nubes:</p>
+<p>—Para ti... cazador de las palabras —susurró la pequeña en lengua común titubeante.</p>
+<p>Benrey recibió el pergamino con una sonrisa tierna y paternal, guardándolo cuidadosamente junto a su cinto:</p>
+<p>—Gracias, pequeña. Lo cuidaré como un tesoro.</p>
+<p>El rostro de Tzayl se ensombreció de pronto al señalar hacia el horizonte norte, donde las agujas titánicas de La Forja se recortaban contra las tormentas como colmillos de basalto:</p>
+<p>—Deben saber a qué se enfrentan si cruzan el gran círculo. El Culto del Devorador no solo cuenta con sus fanáticos de túnica negra y armas de plasma. Han doblegado o liberado a los dos guardianes más temibles de la ciudadela: la maestra de bestias <strong>Hii</strong>, que comanda a las jaurías de eolis rabiosos del abismo con crueldad inhumana, y el campeón solar <strong>Xavra</strong>, un guerrero imbatido de nuestra propia sangre que viste una armadura dorada de energía estelar y cuya espada de fotones no conoce la piedad ni la derrota. Si bajan a La Forja, la muerte los esperará con filo de luz estelar.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El temblor en las nubes y el reporte de Shirka</h3>
+<p>La noche cayó sobre Nejeor VI como un manto de tormentas violetas y truenos sordos. Tras despedirse de la tribu entre vítores apagados, el grupo regresó a la plataforma de aterrizaje donde la <em>Estrella Errante</em> descansaba con sus sistemas de camuflaje pasivo activos.</p>
+<p>En la enfermería de la nave, Triel se ocupó de ajustar los últimos vendajes sobre el torso magullado de Zivok, asegurando que las costillas fracturadas durante el derrumbe soldaran correctamente, mientras Gerty recargaba sus celdas de combustible en el hangar de estiba. Benrey permaneció en el puente de mando, limpiando con esmero las poleas de su nuevo arco kish mientras contemplaba la holografía de navegación de la cabina.</p>
+<p>De pronto, la voz melodiosa y profunda de <strong>Shirka</strong>, impregnada de la cadencia viva de la añorada dragona de Benrey, resonó en los altavoces de la corbeta:</p>
+<p>—Capitán Galway. Los sensores pasivos de largo alcance han registrado una anomalía de energía de clase cinco en el cuadrante de La Forja.</p>
+<p>Benrey se incorporó de inmediato, apoyando las patas en la consola táctil:</p>
+<p>—¿Qué tipo de energía, Shirka? ¿Reactores de fusión o armas cinéticas pesadas?</p>
+<p>—Negativo, Benrey —respondió la inteligencia artificial con un tono preñado de inquietud calculada—. No son patrones térmicos convencionales. Son fluctuaciones hiperespaciales idénticas a las firmas de translocación planar registradas en los archivos de la Puerta Estelar. El Culto del Devorador ha sobrecargado las matrices de energía del bastión subterráneo. El núcleo dimensional de La Forja está activo.</p>
+<p>En ese preciso instante, un violento temblor sacudió la plataforma entera.</p>
+<p>La <em>Estrella Errante</em> vibró sobre sus soportes de aterrizaje. En el exterior, la isla flotante de Istamak crujió con una oscilación profunda y telúrica, mientras una columna de luz púrpura y negra se elevaba hacia la estratosfera desde las cúpulas blindadas de La Forja, desgarrando las nubes de amoníaco como una herida abierta en el firmamento planetario.</p>
+<p>Benrey apretó el arco kish con fuerza, intercambiando una mirada sombría con Triel y A.Xel, quienes acababan de ingresar al puente con las armas listas:</p>
+<p>—El tiempo de planificar se terminó, tripulación. El culto está a punto de encender la máquina del fin del mundo. Tomen sus armas; nos vamos a La Forja.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 10: Les Misérables</h2>
+<p><em>Adaptado del Episodio 183</em></p>
+<h3 class='subsection-title'>I. La pira de los huesos y la Sombra del Olvido</h3>
+<p>El camino que conducía hacia el perímetro exterior de La Forja estaba jalonado por una desolación sofocante y opresiva. Las nubes de Nejeor VI habían adquirido un matiz plomizo y cárdeno, rasgado por relámpagos continuos que no emitían truenos sonoros, sino un zumbido electromagnético constante que hacía vibrar las miras holográficas de las armas y erizaba el pelaje de Benrey Galway. La vegetación alienígena que rodeaba los paseos ceremoniales kishalee estaba marchita, ennegrecida por la radiación de los reactores subterráneos activados por el culto.</p>
+<p>Al rodear un pabellón auxiliar derruido cuya techumbre de cristal yacía hecha pedazos, un hedor nauseabundo a carne chamuscada, bilis y cenizas frías obligó al grupo a detenerse en seco, alzando sus armas en guardia circular.</p>
+<p>En una hondonada de piedra entre dos muros caídos se alzaba una estructura atroz y blasfema: un bastidor circular de aleación pesada oxidada del que pendía, suspendido por cadenas con púas clavadas directamente en las coyunturas, el cadáver mutilado de una mujer lashunta. Su torso y extremidades estaban cubiertos de runas abisales talladas a cuchillo sobre la carne lívida, mientras a su alrededor ondeaban móviles confeccionados con huesos astillados y cuencos con ascuas que desprendían un humo denso, aceitoso y negruzco.</p>
+<p>Zivok Jard apretó el perforador molecular contra su pecho acorazado, con la mandíbula tensa bajo la barba y una llamarada de furia incandescente en sus ojos de veterano:</p>
+<p>—Malditos sean diez mil veces en el abismo... —escupió el enano, con un desprecio tan amargo que le heló la sangre a Benrey—. He visto soldados caer en asedios brutales, he visto pelotones enteros destrozados por la metralla y minas colapsar sobre cientos de mineros... pero esto no es guerra. Esto es profanación cobarde. Matar a un combatiente es el peaje trágico de las armas; pero robarle su muerte, despedazar su carne y encadenar su alma para convertirla en un perro de presa que vigile tu puerta... solo una escoria sin honor como el Devorador es capaz de semejante bajeza.</p>
+<p>Triel Istrav se aproximó con extrema cautela, examinando los restos con su escáner biomédico mientras sus lentes retráctiles analizaban las emanaciones de ectoplasma residual:</p>
+<p>—Es Miseria. La sacerdotisa de la destrucción cuyo diario encontramos en el búnker bajo los banianos. Sus propios camaradas de culto la sacrificaron en un ritual de necromancia estelar tras acusarla de traición o debilidad. Las lecturas energéticas concuerdan exactamente con los protocolos de gestación de una <strong>Sombra del Olvido</strong>: un no-muerto incorpóreo alimentado por la agonía final y el vacío entrópico del Devorador. El culto purga a sus propios disidentes para dejarlos como guardianes espirituales en el perímetro exterior.</p>
+<p>—Una razón más para no dejar a ninguno de esos cabecillas con vida —concluyó Benrey con voz sombría, mientras ajustaba la cuerda de nanopolímeros de su nuevo arco kish—. Avancemos hacia las dependencias interiores; no quiero estar en este claro cuando la noche despierte a esa sombra vengativa.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La advertencia de Null-9 y la jauría rabiosa</h3>
+<p>Buscando cobertura dentro de las oficinas del pabellón exterior para evitar la exposición abierta, A.Xel se separó unos metros del grupo para asegurar un arco de comunicaciones y triangular las señales de radio de la ciudadela.</p>
+<p>De repente, una violenta interferencia de ondas cortas sacudió su visor cibernético. En el centro de la habitación en penumbra, el haz azul de un proyector holográfico de emergencia se activó con un parpadeo frenético.</p>
+<p>La figura de Éclair volvió a materializarse frente a la androide. Sus fotorreceptores brillaban con una angustia indisimulable y su voz temblaba a través de la estática:</p>
+<p>—A.Xel... escuché tu mensaje grabado —dijo el joven rebelde, mirando con recelo hacia los lados como si temiera ser descubierto en cualquier instante por sus guardianes—. Necesitaba saber qué había en tu corazón... pero debes darte la vuelta de inmediato. Estamos en las profundidades de La Forja; hubo una oleada de energía descomunal y el ritual está a punto de concluir. No les queda tiempo para escapar si las defensas se activan.</p>
+<p>—Dime qué busca Null-9, Éclair —insistió A.Xel, dando un paso decidido hacia el holograma—. Sabes que el Culto del Devorador solo traerá la aniquilación universal de orgánicos y sintéticos por igual.</p>
+<p>—¡Los planes de Null no son los del culto! —exclamó el muchacho con desesperación en la mirada—. Ella no busca la destrucción cósmica; ella quiere obtener lo que siempre soñó para nosotros, lo que las corporaciones nos negaron en la Cuenca Estelar... ella quiere las matrices...</p>
+<p>Antes de que pudiera pronunciar una sola palabra más, una mano enguantada en cuero blindado empujó violentamente a Éclair fuera del encuadre de la cámara.</p>
+<p>En la pantalla apareció el rostro severo, afilado y frío de <strong>Null-9</strong>. Su mirada azul cobalto se clavó en A.Xel a través de la transmisión con una intensidad demoledora:</p>
+<p>—¡Aléjate de esto ahora mismo, A.Xel! —ordenó la líder de <em>Ex Novo</em> con voz implacable—. Este asunto está infinitamente por encima de tus insignificantes camaradas de carne. Si das un paso más dentro de La Forja, no podré garantizar tu superviviencia frente al culto...</p>
+<p>Null-9 interrumpió su propia frase de golpe. Sus ojos mecánicos se dilataron al mirar hacia el fondo de la habitación en Istamak, detrás de la silueta de A.Xel:</p>
+<p>—¡A.Xel, cuidado! ¡Detrás de ti!</p>
+<p>La transmisión se cortó en un estallido de estática blanca.</p>
+<p>A través de los ventanales rotos del pabellón, tres sombras veloces se abalanzaron hacia el interior con aullidos guturales ensordecedores. Eran <strong>eolis rabiosos</strong>: los feroces depredadores cuadrúpedos de Istamak, pero sus cuerpos presentaban calvas de pelo sanguinolento, costras supurantes y fauces desencajadas que babeaban profusamente. Habiéndose alimentado de la carroña putrefacta de los cultistas sacrificados, las bestias habían contraído una cepa virulenta de la <strong>Rabia de Nejeor</strong>.</p>
+<p>Uno de los eolis saltó en línea recta hacia la garganta de A.Xel con las garras por delante. Gerty se interpuso en el último milisegundo con su escudo de combate, desviando las fauces con un impacto metálico rotundo, mientras Benrey Galway demostraba por qué el arco kish era un arma legendaria.</p>
+<p>El ysoki se deslizó de rodillas sobre el polvo, tensó la cuerda con una fluidez instintiva y soltó una flecha con una precisión letal inaudita. El proyectil silbó en el aire, curvó su trayectoria con una parábola perfecta y perforó el cráneo del primer eoli, clavando a la bestia en el suelo en una muerte instantánea que arrancó un silbido de asombro a Zivok.</p>
+<p>El segundo eoli embistió al enano, logrando morderlo con ferocidad en la pierna antes de que Zivok lo pulverizara con un disparo a quemarropa de su perforador molecular. Triel sobrecargó la pistola de A.Xel y disparó su propio rifle sónico, haciendo estallar la cabeza del tercer espécimen en una nube de fluidos viscosos.</p>
+<p>Cuando el combate concluyó, Triel examinó con urgencia la mordedura en la armadura del artillero:</p>
+<p>—La saliva de estas criaturas transmite una infección neurodegenerativa fulminante: la Rabia de Nejeor. Zivok, tu piel está intacta gracias a las grebas reforzadas, pero si el virus entra en contacto con tu torrente sanguíneo, los síntomas comenzarán en siete días provocando confusión y violencia ciega. Debemos mantenernos en alerta médica máxima.</p>
+<p>—Sobreviví a la picadura de escorpiones de silicio en las minas de la Diáspora —gruñó Zivok, desinfectando la herida exterior con un spray antiséptico—. Una mordedura de perro alienígena no va a detenerme ahora. Sigamos adelante.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El cañón en el largo corredor</h3>
+<p>Bordeando las terrazas exteriores y sorteando parches de hierba estranguladora que intentaban atrapar sus botas como lazos vivientes, la tripulación alcanzó finalmente la entrada principal de <strong>La Forja</strong>.</p>
+<p>La estructura era colosal: un baluarte monolítico de aleaciones negras y doradas empotrado en la roca viva del centro exacto de la isla flotante. A pesar de los milenios de abandono, la arquitectura kishalee irradiaba una autoridad opresiva, geométrica y señorial que empequeñecía a los aventureros.</p>
+<p>Frente a ellos se abría el gran corredor de acceso: un túnel recto de treinta pies de anchura y más de cincuenta metros de longitud, flanqueado por escombros caídos, vigas retorcidas y paneles de seguridad apagados. Al fondo del corredor, una imponente compuerta blindada con los sellos del cerrojo XLT-88 aguardaba su llegada.</p>
+<p>—El camino está despejado —susurró Benrey, avanzando con cautela mientras A.Xel y Triel cubrían los flancos con paso felino—. Pero este silencio no me gusta ni un pelo. Es demasiado fácil.</p>
+<p>A mitad del corredor, los agudos sentidos del ysoki y los sensores de Triel detectaron una vibración subterránea profunda.</p>
+<p>En el extremo opuesto del pasillo, dos pequeñas escotillas de aleación pesada se deslizaron hacia los lados con un chirrido neumático ensordecedor. Desde el interior de la pared emergió un titánico <strong>cañón perimetral automatizado</strong> de triple ánima kishalee.</p>
+<p>El arma comenzó a girar sobre su torreta motriz, apuntando directamente hacia el centro del pasillo donde los cinco aventureros marchaban en fila. Un zumbido ensordecedor de capacitores llenó el túnel mientras el ánima del cañón se cargaba con un torrente de energía incandescente de plasma y fuego eléctrico.</p>
+<p>Benrey Galway clavó los ojos en la boca del arma, tragando saliva con un escalofrío que le recorrió el espinazo:</p>
+<p>—Chicos... ¿recuerdan que dijimos que no había defensas exteriores?</p>
+<p>—¡RETIRADA IMPOSIBLE! —gritó Triel con el corazón en un puño—. ¡ESE CAÑÓN ESTÁ CARGANDO Y TIENE NUESTRA CABEZA EN EL PUNTO DE MIRA!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 11: ¡¡Está cañón!!</h2>
+<p><em>Adaptado del Episodio 184</em></p>
+<h3 class='subsection-title'>I. La carrera bajo el rayo del cañón</h3>
+<p>El corredor de acceso a La Forja se convirtió en un matadero de energía incandescente y metralla fundida. La triple ánima del cañón perimetral automatizado kishalee destelló con una furia cegadora, disparando un haz continuo de plasma supercalentado y relámpagos de alto voltaje que surcó el pasillo a la velocidad del sonido, pulverizando los bloques de mampostería kishalee en una tormenta de cascotes y fuego blanco.</p>
+<p>—¡A CUBIERTO! ¡EL RAYO BARRE TODO EL ANCHO DEL PASILLO! —gritó Benrey Galway, zambulléndose detrás de un saliente de hormigón reforzado mientras el calor le abrasaba las puntas de los bigotes.</p>
+<p>A su lado, Triel Istrav y Gerty intentaron buscar protección tras una pila de vigas retorcidas, pero el fuego eléctrico los alcanzó de refilón en una descarga secundaria. El arco voltaico azotó el chasis del meca con una violencia brutal, derritiendo sus placas secundarias de aleación y desatando alarmas críticas de sobrecalentamiento que dejaron al robot cuadrúpedo tambaleándose sobre sus cuatro patas articuladas con chispas brotando de sus coyunturas.</p>
+<p>—DAÑO CRÍTICO EN CONDENSADORES PRINCIPALES. INTEGRIDAD ESTRUCTURAL AL CUARENTA POR CIENTO —anunció el sintetizador de Gerty con una voz distorsionada por las interferencias electromagnéticas.</p>
+<p>—¡El cañón tarda seis segundos en recargar sus condensadores entre disparo y disparo! —calculó Triel a gritos, apretando los dientes mientras sus lentes subdérmicos medían el ciclo térmico de la torreta al fondo del pasillo—. ¡Tenemos una sola oportunidad para llegar a la puerta del fondo o el siguiente disparo nos cocinará vivos!</p>
+<p>—¡A.Xel, Triel, corran a la consola! ¡Zivok y yo cubriremos el avance con fuego de distracción! —ordenó Benrey con autoridad inquebrantable.</p>
+<p>Aprovechando el intervalo exacto de enfriamiento de la torreta, Triel y A.Xel encendieron sus propulsores y aceleradores cinéticos, devorando los últimos veinte metros de pasillo en un sprint desesperado entre nubes de polvo y chispas. Llegaron jadeando al pie de la colosal compuerta blindada serie XLT-88, donde un panel de control hexagonal parpadeaba con runas de alarma carmesí que exigían autorización de fábrica.</p>
+<p>—¡EL CÓDIGO DE SECURITECH! —exclamó Triel, introduciendo su tableta de diagnósticos en el puerto de datos mientras sus dedos volaban sobre la interfaz con una destreza febril—. ¡A.Xel, mantén el enlace de sintaxis activo!</p>
+<p>A sus espaldas, el zumbido del cañón volvió a elevarse a un chillido agudo insoportable. Las compuertas de la torreta se abrieron; el plasma se condensó en la boca del arma, listo para la segunda descarga letal.</p>
+<p>A.Xel inyectó la clave maestra en el procesador central:</p>
+<blockquote class='quote'><em>ÉPSILON-KISH-994-DELTA.</em></blockquote>
+<p>Con un chasquido hidráulico que sacudió los cimientos del túnel, los pesados cerrojos de la compuerta se retrajeron. Las hojas de aleación se abrieron medio metro hacia adentro; Triel y A.Xel se arrojaron de cabeza al interior del umbral, seguidas por Benrey, Zivok y Gerty en una zambullida agónica justo en la fracción de segundo en que el rayo del cañón incineraba el exterior, fundiendo el marco de piedra en una costra de lava líquida antes de que las puertas se cerraran herméticamente tras ellos con un golpe seco.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El vestíbulo de la herrumbre y el escáner de Benrey</h3>
+<p>El grupo aterrizó sobre un suelo cubierto de suciedad y escombros en un estrecho codo de seguridad de veinte pies de longitud. El silencio que los envolvió tras el ensordecedor rugido del cañón era denso, pesado y cargado de un hedor repugnante a lodo estancado, ácido sulfúrico y podredumbre química acumulada durante milenios.</p>
+<p>Benrey se incorporó frotándose el hombro magullado, comprobando que todos sus camaradas estuvieran enteros:</p>
+<p>—Sobrevivimos al cañonazo... Ahora averigüemos qué dejaron adentro los kishalee para darnos la bienvenida.</p>
+<p>El suelo del vestíbulo estaba cruzado por líneas de seguridad de color amarillo desgastado que indicaban las rutas de tránsito hacia las áreas de oficinas, vestidores y casilleros del personal de guardia. Sin embargo, lo más alarmante era un rastro espeso, viscoso y burbujeante de limo marrón oscuro, similar a una baba ácida que se arrastraba desde una habitación contigua jalonada por filas de sillas metálicas circulares y taquillas destrozadas.</p>
+<p>El ysoki desenfundó el <strong>Escáner de Movimiento</strong> kishalee que había rescatado en los talleres de SecuriTech. Al calibrar el sensor acústico de microvibraciones, la pantalla holográfica circular mostró las cuatro firmas estables del equipo... y a menos de diez metros a su izquierda, en el interior de la sala circular, un enorme punto verde que se desplazaba con una lentitud viscosa, pesada e implacable.</p>
+<p>—Tenemos compañía no invitada —susurró Benrey, mostrando la pantalla a Triel y Zivok—. Hay una masa descomunal en la habitación de las bancas. Se mueve despacio, como si estuviera pegada al suelo y a las paredes.</p>
+<p>A.Xel activó su campo de camuflaje óptico, volviéndose casi invisible en la penumbra del vestíbulo:</p>
+<p>—Haré un reconocimiento sigiloso por las alturas. No hagan ruido ni activen comunicaciones por voz.</p>
+<p>Deslizándose con pasos silenciosos y manteniéndose pegada al techo gracias a sus micropropulsores en modo silencioso, la androide se asomó a través del arco que comunicaba con la sala de descanso.</p>
+<p>Lo que vio a través de sus fotorreceptores la dejó paralizada.</p>
+<p>En el centro del salón se arrastraba una pesadilla industrial: el <strong>Limo Carroñero</strong> (<em>Scavenger Slime</em>). Era una masa colosal de baba translúcida, ácida y corrosiva de cuatro metros de diámetro que había engullido a lo largo de los siglos los despojos bélicos y la chatarra de la instalación. Incrustadas en su cuerpo gelatinoso y conectadas a través de pseudópodos musculosos de protoplasma, sobresalían cuatro armas funcionales: un fusil de plasma Estrella Roja, una ballesta tecnológica pesada, una pistola de pulsos láser y una pistola de proyectiles, que giraban en todas direcciones guiadas por el sentido ciego pero infalible de la criatura.</p>
+<p>A.Xel retrocedió un milímetro en el aire, pero el limo detectó las microvibraciones térmicas de su propulsor. Todas las armas incrustadas en la masa se orientaron simultáneamente hacia el arco de la puerta.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El limo carroñero y el rescate de Gerty</h3>
+<p>—¡CONTACTO HOSTIL! ¡ES UNA ABERRACIÓN ARTILLADA! —gritó A.Xel, replegándose hacia el corredor mientras el aire se llenaba de zumbidos de carga.</p>
+<p>El Limo Carroñero se escurrió a través del vano de la puerta con la velocidad aterradora de una avalancha de lodo corrosivo. De sus costados brotaron dos pseudópodos macizos del grosor de troncos de árbol, descargando un golpe demoledor que arrojó a Zivok contra los casilleros metálicos en un estrépito de planchas dobladas.</p>
+<p>Triel analizó la criatura en una décima de segundo con su visor de diagnóstico:</p>
+<p>—¡Es un limo digestor industrial! ¡No tiene órganos vitales, ni corazón, ni cerebro; los ataques de precisión y las balas perforantes son absorbidos por su volumen gelatinoso! ¡Y es completamente inmune al fuego! ¡Solo el frío extremo y el sonido pueden romper su densidad molecular!</p>
+<p>—¡Entonces le daremos una dosis ártica que no olvidará! —rugió Zivok, conmutando el selector de su arma pesada a proyectiles de frío criogénico.</p>
+<p>El enano abrió fuego continuo con ráfagas de hielo, congelando capas enteras de la masa gelatinosa que crujían al perder elasticidad. Benrey, encaramado sobre una taquilla abollada, comenzó a disparar flechas con su arco kish con una puntería quirúrgica, canalizando su presencia y liderazgo para infundir confianza táctica a sus camaradas.</p>
+<p>Sin embargo, el monstruo no detuvo su embestida. Desesperado por consumir material orgánico y componentes tecnológicos frescos para reparar su masa, el limo alzó tres pseudópodos simultáneos y los descargó con un peso titánico sobre el torso de Gerty.</p>
+<p>El impacto fue catastrófico. Las placas del meca se doblaron hacia adentro con un crujido agónico; sus luces ópticas parpadearon y se apagaron de golpe mientras el robot se desplomaba inerte sobre el pavimento encharcado. Acto seguido, la masa translúcida del limo comenzó a envolver el chasis cuadrúpedo de Gerty, tragándose la máquina en su interior para disolver sus circuitos en un baño de ácido corrosivo.</p>
+<p>—¡GERTY! ¡NO! —el alarido de Triel Istrav fue un trueno de desesperación materna y furia incontenible.</p>
+<p>La semi-drow avanzó en línea recta hacia la aberración, ignorando el peligro de los pseudópodos que azotaban el aire a su alrededor. Cargó su rifle sónico con una sobrecarga destructiva que hizo temblar los componentes del arma hasta el rojo vivo, plantó el cañón a escasos centímetros del núcleo del limo y jaló del gatillo.</p>
+<p>La detonación sónica reventó la cámara en una onda expansiva atronadora que quebró las baldosas del suelo.</p>
+<p>Combinada con el hielo profundo que los disparos continuos de Zivok habían inoculado en la estructura de la bestia, la vibración ultrasónica convirtió la gelatina del limo en cristal quebradizo. Con un sonido similar al estallido de un iceberg en alta mar, el monstruo se fragmentó en mil pedazos de hielo sucio y baba inerte, derramándose sobre el suelo del vestíbulo. Las cuatro armas incrustadas cayeron con un estrépito metálico sobre los charcos de ácido.</p>
+<p>Triel y Zivok se abalanzaron de inmediato sobre la masa licuada, tirando de las extremidades de Gerty para arrancarlo de la baba ácida antes de que el metal se corroyera de forma irreversible.</p>
+<p>El meca yacía inmóvil, con el chasis severamente dañado y los condensadores apagados, pero su núcleo de memoria y su procesador lógico permanecían milagrosamente intactos.</p>
+<p>Triel apoyó la frente contra la coraza abollada del robot, soltando lágrimas de furia y alivio:</p>
+<p>—Estás a salvo, muchacho... Estás a salvo. Te voy a reconstruir aunque tenga que soldarte tornillo por tornillo con mis propias manos.</p>
+<p>A su espalda, Benrey Galway limpiaba una flecha ensangrentada contra el pelaje de su pierna, contemplando el largo pasillo subterráneo que se abría más allá del vestíbulo de guardia:</p>
+<p>—Buen tiro, Triel. Gerty volverá a caminar. Ahora tomemos un respiro para repararlo... porque acabamos de entrar en las entrañas de La Forja.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 12: El Elemento Sorpresa</h2>
+<p><em>Adaptado del Episodio 185</em></p>
+<h3 class='subsection-title'>I. El descenso a las entrañas de roca</h3>
+<p>El silencio que se adueñó del vestíbulo de guardia tras la aniquilación del limo carroñero permitió a la tripulación tomarse un respiro indispensable para reorganizar sus fuerzas. Durante veinte minutos de tensión contenida y miradas atentas hacia las sombras del pasillo, Triel Istrav volcó todas sus herramientas de microcauterio, soldadores de arco y apósitos nanotecnológicos en reconstruir los circuitos quemados de Gerty. Con un siseo neumático y el encendido titilante de sus fotorreceptores dorados, el meca cuadrúpedo volvió a ponerse en pie sobre sus cuatro extremidades, recuperando la mitad de su operatividad de combate.</p>
+<p>—SISTEMAS MOTRICES AL CINCUENTA POR CIENTO. INTEGRIDAD MECÁNICA RESTABLECIDA —sintetizó el robot, flexionando las pinzas hidráulicas que sostenían el hacha kishalee con un chasquido amenazante—. DISPUESTO PARA REANUDAR EL PROTOCOLO DE ASALTO.</p>
+<p>—No te sobrecargues, muchacho —le advirtió Triel con una caricia afectuosa sobre la placa frontal abollada—. Mantén la guardia baja hasta que veamos qué nos espera más adelante.</p>
+<p>Superando una hilera de casilleros destrozados, taquillas saqueadas y oficinas abandonadas donde el mobiliario kishalee se reducía a chatarra retorcida y papeles calcinados, el grupo encontró el único acceso que se internaba en las profundidades de la instalación: una pesada compuerta de seguridad abierta que daba paso a una escalera de caracol de aleación pesada, pintada en un suave color azul celeste que en eras remotas debió de ser bioluminiscente.</p>
+<p>Los escalones descendían en espiral, dando tres vueltas completas alrededor de un núcleo de roca madre maciza.</p>
+<p>Con cada metro que bajaban, la sensación de aislamiento y peso geológico se volvía más opresiva y sofocante. Los conocimientos de ingeniería de Triel y la experiencia minera de Zivok Jard coincidían en un diagnóstico inequívoco: estaban descendiendo entre treinta y cuarenta metros bajo la superficie de la isla flotante, adentrándose en el lecho rocoso basal más profundo de Istamak. La atmósfera se tornó gélida, densa y claustrofóbica, desprovista de ventanas, claraboyas o conductos de ventilación exterior; era el diseño inconfundible de un búnker de alta seguridad militar pre-Brecha, concebido para resistir un holocausto planetario o el asedio de una flota estelar.</p>
+<p>Al final de la escalera, una compuerta blindada forzada, chamuscada y empapada en agua condensada daba paso a un largo corredor iluminado por tres hileras de tubos fluorescentes en el techo, cuya línea central parpadeaba con un pulso errático.</p>
+<p>A.Xel activó su enlace de sigilo, deslizándose por el umbral con el rifle en posición de tiro. A través de la red de comunicación táctica, Triel activó un enlace de mensajería telepática para mantener el más estricto silencio operativo:</p>
+<blockquote class='quote'><em>«Piso de paneles metálicos levantados —transmitió A.Xel mentalmente a sus camaradas—. Se ve la roca viva expuesta debajo de las chapas arrancadas. Hay charcos de agua estancada, paneles quemados por armas de plasma y manchas de sangre seca coagulada en la pared derecha. Aquí hubo un combate violento y desesperado hace pocos días.»</em></blockquote>
+<p>Siguiendo el rastro de destrucción, la androide divisó a su izquierda una reja de seguridad abierta que comunicaba con una sala de almacenamiento de unos quince por veinte pies de extensión.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El vórtice de los cuatro planos</h3>
+<p>Benrey, Zivok y Triel avanzaron cubriendo los ángulos muertos del corredor, ingresando en la cámara lateral con el meca Gerty cerrando la retaguardia para asegurar la retirada.</p>
+<p>El recinto parecía una bóveda de custodia de alta prioridad para artefactos peligrosos. Tres pilas de cajas metálicas y contenedores modulares kishalee se alzaban hasta cuatro metros de altura, todos identificados en su frontal con números de serie grabados en caracteres geométricos: <em>A-25-124</em>, <em>A-26-125</em>... En el centro de la sala, uno de los contenedores estaba abierto, desprendiendo un silbido constante de vapor caliente, olor a tierra calcinada y un aullido de viento huracanado que parecía brotar de la nada absoluta.</p>
+<p>Triel y Zivok se aproximaron a la caja abierta con extrema precaución, iluminando el interior con sus linternas tácticas.</p>
+<p>En el interior del receptáculo no había pertrechos convencionales ni lingotes de aleación. Tres triángulos de aleación oscura cubiertos de runas kishalee giraban sobre sí mismos en una danza giroscópica descontrolada y errática, proyectando un microvórtice de luz cambiante en el centro de su órbita.</p>
+<p>Al asomarse al vórtice, los ojos de Triel se dilataron por el asombro y el espanto: en el centro del círculo dimensional no se veía el fondo del contenedor, sino visiones titánicas, nítidas y simultáneas de otros mundos y dimensiones. Por momentos se vislumbraba un océano infinito de aguas agitadas que salpicaban el suelo del búnker con gotas saladas; de pronto, el vórtice estallaba en un mar de llamas incandescentes de calor insoportable; un segundo después se abría una caverna ciclópea de roca y basalto que parecía no tener fin; y finalmente, un cielo tempestuoso de nubes desbocadas atravesado por relámpagos.</p>
+<p>—No es tecnología kishalee convencional... —susurró Triel a través del enlace mental—. ¡Es una matriz de contención interplanar! ¡Las runas estabilizan portales microscópicos hacia los cuatro planos elementales primordiales!</p>
+<p>Apenas la mecánica terminó de formular su pensamiento, los tres triángulos giroscópicos emitieron un chirrido agudo de metal forzado y se detuvieron en seco.</p>
+<p>La estabilidad dimensional se quebró de forma catastrófica.</p>
+<p>En una fracción de segundo, la energía acumulada en los cuatro planos detonó simultáneamente en el interior de la pequeña bóveda:</p>
+<p>Desde la caja que ardía emergió un <strong>Elemental de Fuego</strong> de cuatro metros de altura, con la forma de un fénix voraz cuyas plumas de llama viva iluminaron la estancia con un calor abrasador que secó los charcos del suelo.</p>
+<p>Bajo los pies de Zivok, las losas de metal del suelo se levantaron con un estruendo brutal cuando un <strong>Elemental de Tierra</strong> —un coloso de piedra maciza, brazos de basalto y ojos de granito ciego— surgió de la roca viva del planeta como un titán dormido.</p>
+<p>Desde los conductos de ventilación del techo bajó en picado un <strong>Elemental de Aire</strong>, transformado en un tornado aullante que comenzó a succionar el aire de la sala, arrojando cajas metálicas contra las paredes como proyectiles.</p>
+<p>Y de los charcos de agua estancada del corredor brotó una ola viviente de tres metros con extremidades fluidas y garras de agua presurizada: un <strong>Elemental de Agua</strong> que bloqueó de golpe la salida hacia el pasillo exterior.</p>
+<p>Atrapados en un espacio reducido de apenas quince por veinte pies, la tripulación se vio completamente rodeada por la cólera ciega de los cuatro elementos desatados.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La batalla del elemento sorpresa</h3>
+<p>El combate en la bóveda fue una vorágine ensordecedora de fuego, viento, piedra y agua.</p>
+<p>—¡EL ELEMENTAL DE FUEGO ES VULNERABLE AL FRÍO! —gritó Zivok Jard a pleno pulmón, conmutando el cargador de su arma pesada al modo criogénico sin perder una décima de segundo.</p>
+<p>El enano plantó las botas en el suelo inestable y desató una descarga masiva de proyectiles de hielo directo al pecho del fénix ardiente. El impacto del frío extremo contra la carne de plasma provocó una violenta reacción térmica; la criatura llameante aulló de dolor mientras densas capas de escarcha apagaban sus alas de fuego. Acto seguido, Triel sobrecargó su rifle sónico y disparó a quemarropa; la onda vibratoria quebró la estructura de fuego debilitada, dispersando al elemental en una lluvia de brasas extintas que cayeron sobre el suelo como ceniza muerta e inofensiva.</p>
+<p>Simultáneamente, el tornado de aire envolvió a A.Xel y a Benrey en un torbellino ensordecedor que amenazaba con aplastarlos contra el techo de aleación. La androide activó sus propulsores dorsales para contrarrestar la fuerza centrífuga, desplegó su campo de camuflaje óptico para confundir el vórtice y descargó tres disparos gélidos con su pistola de hielo directo al ojo del remolino, ralentizando la rotación del viento con capas de escarcha.</p>
+<p>Benrey Galway rodó sobre el pavimento mojado, tensó la cuerda de su arco kish y soltó una flecha con la precisión implacable que el arma demandaba. El proyectil silbó en medio del vendaval, atravesando el núcleo energético del tornado en una trayectoria perfecta.</p>
+<p>Al mismo tiempo, el coloso de piedra intentó aplastar a Zivok con un puño de basalto de media tonelada, pero Gerty se interpuso con un salto hidráulico demoledor. El meca alzó el hacha kishalee con ambas extremidades superiores y descargó un golpe descendente con la fuerza de un martinete de demolición. La hoja de aleación y plasma partió al elemental de tierra en dos mitades perfectas, que se desplomaron como rocas inertes sobre el suelo en medio de una nube de polvo mineral.</p>
+<p>Solo quedaba el elemental de agua, que se abalanzó sobre la retaguardia intentando ahogar al meca en una masa líquida presurizada.</p>
+<p>—¡CONGELEN EL AGUA! —bramó Benrey con voz de mando.</p>
+<p>Zivok descargó una última ráfaga gélida sobre la ola viviente, transformando la mitad de su masa fluida en un bloque de hielo sólido. Sin darle tiempo a regenerarse ni disolverse, Gerty remató la faena con un hachazo lateral que pulverizó el hielo en millones de esquirlas cristalinas, extinguiendo la última amenaza planar.</p>
+<p>Un disparo sónico final de Triel dispersó los restos del tornado de aire en una suave llovizna de escarcha brillante.</p>
+<p>Los tres triángulos giroscópicos del contenedor emitieron un suave pitido armónico de descanso y se replegaron en su receptáculo de aleación, sellando los microportales dimensionales para siempre.</p>
+<p>El silencio volvió a adueñarse de las profundidades de La Forja. Un silencio absoluto, denso, triunfal y sobrecogedor, roto únicamente por el jadeo fatigado de los aventureros y el goteo constante del agua derretida sobre el suelo de piedra viva.</p>
+<p>Benrey Galway bajó el arco kish, sacudiéndose la escarcha de los bigotes con una sonrisa exhausta pero radiante:</p>
+<p>—Bueno... eso sí que fue un elemento sorpresa.</p>
+<p>Zivok recargó su perforador molecular con un chasquido metálico rotundo, contemplando el largo pasillo que se abría hacia el santuario central de La Forja:</p>
+<p>—Los guardianes planares cayeron, muchachos. Ahora sí... nada se interpone entre nosotros y el corazón de La Forja.</p>
+</div>
+
+<div class="glossary-container">
+  <h2 class="chapter-name">Anexo Especial: Dossier de Personajes y Glosario</h2>
+<h3 class='section-title'>Volumen 15 · La Forja Kishalee (Episodios 174 a 185)</h3>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>1. El Escenario Principal y la Geografía de Istamak</h3>
+<ul class='bullet-list'>
+<li><strong>Istamak («La Joya del Firmamento»):</strong> Antigua y colosal metrópoli suspendida sobre el mar de tormentas de amoníaco y nubes cobrizas del gigante gaseoso <strong>Nejeor VI</strong>. Fue el centro de investigación biológica y tecnología militar del desaparecido Imperio Kishalee antes de la Brecha.</li>
+<li><strong>La Tierra Rota:</strong> Archipiélago de islas flotantes, pilares rotos y losas de mampostería a la deriva, suspendidas gracias a los cristales de repulsión gravitatoria kishalee que repelen la masa densa del planeta.</li>
+<li><strong>Tecnologías de Seguridad (SecuriTech):</strong> Bastión corporativo aislado en la Tierra Rota donde se custodiaban los códigos maestros de restablecimiento industrial. Su estructura sobrevive gracias a un andamiaje biológico de micelio mutado que colonizó el complejo tras quedar un almuerzo descompuesto en un refrigerador milenios atrás.</li>
+<li><strong>La Forja:</strong> Inmenso complejo industrial, bastión militar y santuario de la supercomputadora pre-Brecha donde se custodian los secretos y coordenadas de la Puerta Estelar hacia el Degenerador Estelar.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>2. Los Protagonistas y su Evolución</h3>
+<ul class='bullet-list'>
+<li><strong>Benrey Galway:</strong> Emisario Ysoki y capitán de la <em>Estrella Errante</em>. Tras asimilar el Cristal de Aptitud MK 2 (+4 Carisma), su presencia y oratoria alcanzan cotas legendarias, transformando la cosmovisión de la tribu kish. Empuña el cañón de gravedad y el mítico Arco de Caza Kish.</li>
+<li><strong>Triel Istrav:</strong> Mecánica semi-drow e ingeniera en jefe. Racionalista intransigente frente a la superstición tribal, implanta lentes subdérmicos en sus implantes faciales y emplea su rifle sónico con sobrecarga destructiva. Es la figura protectora y maternal del meca Gerty.</li>
+<li><strong>A.Xel 42:</strong> Operativa androide y especialista en sigilo e infiltración. Conectada al <em>Guantelete de Almacenamiento Kishalee</em>, enfrenta su pasado y sus vínculos con el movimiento rebelde <em>Ex Novo</em>, rechazando el nihilismo del Devorador y guiando a Éclair hacia una libertad real.</li>
+<li><strong>Zivok Jard:</strong> Veterano artillero de asedio enano. Tras ser curado de sus fracturas crónicas y dependencia de 65 pastillas diarias en la cápsula de la Casa del Renacimiento («Operación Zivok»), recupera su vigor juvenil. Es sepultado bajo el colapso de SecuriTech y rescatado con vida, revelando su verdadero nombre de clan: <em>Jard</em>.</li>
+<li><strong>Gerty:</strong> Meca cuadrúpedo de combate pesado (voz sintetizada de Roberto). Equipado con la temible hacha de asalto kishalee nivel 9, actúa como bastión cinético inquebrantable de la vanguardia.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>3. Aliados, Facciones y Figuras Clave</h3>
+<ul class='bullet-list'>
+<li><strong>Sacerdotisa Tzayl (Sail):</strong> Líder espiritual kish vestida con túnica roja y amplio sombrero de paja. Guía a su pueblo bajo los designios de «El Extraño», entregando a los héroes el <em>Line Grappler</em>, las <em>Botas de Eoli</em> y el <em>Arco de Caza Kish</em>.</li>
+<li><strong>Shirka:</strong> Inteligencia artificial y conciencia viva de la dragonkin caída, guardiana de la corbeta <em>Estrella Errante</em>.</li>
+<li><strong>Los Kish:</strong> Descendientes degenerados del otrora glorioso Imperio Kishalee; preservaron su sociedad mediante relatos orales y rituales en torno a la tecnología olvidada de sus ancestros.</li>
+<li><strong>Null-9:</strong> Enigmática y despiadada líder androide del Frente de Liberación Androide (<em>Ex Novo</em>). Aunque aliada tácticamente con el Culto del Devorador, persigue sus propios fines para apoderarse de las bioforjas kishalee.</li>
+<li><strong>Éclair («Bolita de Queso»):</strong> Joven androide rebelde con rastas cibernéticas y túnica blanca. Monitorea a A.Xel desde las sombras y recibe sus transmisiones con afecto y dudas crecientes hacia Null-9.</li>
+<li><strong>Miseria:</strong> Sacerdotisa de la Destrucción del Culto del Devorador. Descontenta con sus líderes, fue purgada y sacrificada por Nyara para crear una <em>Sombra del Olvido</em>.</li>
+<li><strong>El Culto del Devorador:</strong> Fanáticos apocalípticos liderados por Nyara, Dresh el Carnicero, El Hombre Tintineante, Cirus y los gemelos androides, atrincherados en las profundidades de La Forja.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>4. Tecnología, Reliquias y Amenazas</h3>
+<ul class='bullet-list'>
+<li><strong>Cápsula de Regeneración Kishalee:</strong> Dispositivo de bioimpresión tisular y reestructuración celular.</li>
+<li><strong>Cerrojo Perimetral Serie XLT-88:</strong> Protocolo de bloqueo maestro de La Forja. Clave de reinicio: <em>Épsilon-Kish-994-Delta</em>.</li>
+<li><strong>Line Grappler:</strong> Lanzador neumático de arpones con cable de titanio de cincuenta pies para sortear simas flotantes.</li>
+<li><strong>Arco de Caza Kish:</strong> Arma arcaica de aleación y poleas gravitatorias capaz de proyectar flechas a velocidad hipersónica.</li>
+<li><strong>Botas de Eoli:</strong> Calzado táctico confeccionado con cueros de eoli y resortes neumáticos que otorga saltos de gran envergadura.</li>
+<li><strong>Guantelete de Almacenamiento Kishalee:</strong> Malla dimensional que absorbe y despliega armas instantáneamente en la mano de su portador.</li>
+<li><strong>Escáner de Movimiento Kishalee:</strong> Radar acústico triangular que detecta vibraciones moleculares en un radio de treinta pies a través de muros y escombros.</li>
+<li><strong>Limo Carroñero (Scavenger Slime):</strong> Aberración digestora industrial amorfa, inmune a críticos y fuego, armada con cuatro fusiles incrustados en su protoplasma.</li>
+<li><strong>Matriz de Contención Interplanar:</strong> Bóveda con microvórtices hacia los planos de Fuego, Tierra, Aire y Agua de donde emergieron cuatro Elementales Mayores.</li>
+<li><strong>Eolis y Rabia de Nejeor:</strong> Depredadores cuadrúpedos portadores de un virus neurodegenerativo transmitido por mordedura.</li>
+</ul>
+</div>
+
+</body>
+</html>

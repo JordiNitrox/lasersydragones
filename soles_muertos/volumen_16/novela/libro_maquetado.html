@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lasers y Dragones: El Secreto de la Deriva</title>
+<style>
+  @page {
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
+  }
+  
+  body {
+    font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section-heading-main {
+    font-size: 20pt;
+    text-align: center;
+    color: #0b1a30;
+    margin-top: 0;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 8px;
+    page-break-before: always;
+    break-before: page;
+  }
+  
+  h2.chapter-name {
+    page-break-before: always;
+    break-before: page;
+    font-size: 22pt;
+    color: #0b1a30;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1.3;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+  }
+  
+  .chap-sub {
+    font-size: 18pt;
+    font-style: italic;
+    color: #2b6cb0;
+    font-weight: normal;
+  }
+  
+  h3.section-title {
+    font-size: 14pt;
+    color: #2b6cb0;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    border-bottom: 1px dashed #e2e8f0;
+    padding-bottom: 4px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h3.subsection-title {
+    font-size: 12.5pt;
+    color: #2d3748;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h4.subsection-title {
+    font-size: 11.5pt;
+    color: #1a365d;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 0 12px 0;
+    text-indent: 1.5em;
+  }
+  
+  p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
+    text-indent: 0;
+  }
+  
+  .divider {
+    text-align: center;
+    margin: 25px 0;
+    color: #a0aec0;
+    font-size: 10pt;
+    letter-spacing: 6px;
+  }
+  
+  .bullet-list {
+    margin: 12px 0 15px 25px;
+    padding: 0;
+  }
+  
+  .bullet-list li {
+    margin-bottom: 6px;
+    text-align: justify;
+  }
+  
+  .quote {
+    margin: 18px 25px;
+    padding: 10px 18px;
+    border-left: 3px solid #b8860b;
+    background: #f7fafc;
+    font-style: italic;
+    color: #4a5568;
+  }
+  
+  /* ESTILOS DE LA TABLA DE ÍNDICE COMPACTA EN 1 SOLA PÁGINA (19 ENTRADAS) */
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1px 0;
+  }
+  
+  .toc-table td {
+    padding: 1.5px 3px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 7.5pt;
+    line-height: 1.10;
+  }
+  
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+  }
+  
+  .toc-sub {
+    font-size: 6.8pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 1.05;
+  }
+</style>
+</head>
+<body>
+
+<!-- PÁGINA 1: PORTADA -->
+<div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+    Ópera Espacial · Universo Starfinder
+  </p>
+  
+  <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+  
+  <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+    LASERS Y DRAGONES
+  </div>
+  
+  <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+    El Secreto de la Deriva
+  </div>
+  
+  <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+  
+  <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+    ✦ &nbsp; ◈ &nbsp; ✦
+  </div>
+  
+  <p style="font-size: 10.5pt; line-height: 1.6; color: #4a5568; margin: 25px auto; max-width: 440px; text-indent: 0; text-align: center;">
+    Adaptación literaria integral de los episodios 186 al 201 del podcast <strong>Lasers y Dragones</strong>.<br>
+    <em>El duelo contra Xavra y la caída del Portal Estelar en La Forja,<br>
+    el rescate de Charlotte E2, la convocatoria drow de la Matriarca Alistrav,<br>
+    el santuario de A1 en Daline 3, el juicio contra la Legión del Fuego en el Cielo<br>
+    y el salto dimensional hacia el Maelstrom tras el sacrificio de Gerty.</em>
+  </p>
+  
+  <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 40px auto 20px auto;">
+  
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 9.5pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+    VOLUMEN XVI · EL CORAZÓN DEL PADRE I: EL SECRETO DE LA DERIVA
+  </p>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 2 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 2: NOTA EDITORIAL E INTRODUCCIÓN -->
+<div style="page-break-before: always; break-before: page; padding: 10px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 10px; padding-bottom: 4px; font-size: 15pt;">
+    Nota Editorial e Introducción
+  </h2>
+  
+  <p style="font-size: 8.8pt; line-height: 1.40; text-align: justify; margin-bottom: 7px;">
+    La presente obra constituye el decimosexto volumen de la saga de novelizaciones del podcast de rol en vivo costarricense <strong>Lasers y Dragones</strong>, adaptando de manera íntegra, orgánica y cronológica los acontecimientos de los episodios 186 al 201 de la campaña oficial <em>Dead Suns</em> (Soles Muertos) de Paizo Inc. Este volumen culmina la desesperada incursión en las entrañas de la mítica metrópoli flotante de <strong>Istamak</strong> en <strong>Nejeor VI</strong>, el repliegue estratégico hacia el asteroide independiente <strong>Kairos</strong> y los trascendentales preparativos para la incursión definitiva hacia el <strong>Maelstrom</strong> en busca del legendario navío de la diosa Besmara capitaneado por Keiden Ashton.
+  </p>
+  
+  <p style="font-size: 8.8pt; line-height: 1.40; text-align: justify; margin-bottom: 7px;">
+    En el corazón de la Forja Kishalee, la tripulación de la <em>Estrella Errante</em> enfrenta su prueba de fuego más implacable contra los fanáticos del Culto del Devorador y las fuerzas ancestrales que custodian el Portal Estelar. Tras un cruento duelo en los cubículos de investigación y en la majestuosa biblioteca contra el campeón solar kish Xavra, el ingenio táctico y el devastador disparo de Triel Istrav permiten arrebatar la gema llave antes de la detonación del portal provocada por Null-9. En medio de los escombros de la civilización kishalee, un joven monje androide rebelde, rescatado del influjo del culto y bautizado por A.Xel 42 como <strong>Charlotte E2</strong>, se une a los héroes en su arriesgado escape de la atmósfera tóxica del gigante gaseoso con el invaluable apoyo de la tribu de la profetisa Tzayl.
+  </p>
+
+  <p style="font-size: 8.8pt; line-height: 1.40; text-align: justify; margin-bottom: 7px;">
+    Al regresar a Kairos, la tripulación se encuentra con un asteroide saturado de tensiones políticas y militares: delegaciones de los Protectores, Caballeros de Golarion, corsarios del Espacio Libre y emisarios corporativos drow abarrotan las esclusas. Entre las sombras del casino y el bar pirata <em>El Cuerno Oscuro</em>, secretos enterrados durante siglos salen a la luz cuando la implacable matriarca <strong>Alistrav Istrav</strong> revela el fraude genealógico que dio origen a su casa noble y las maquinaciones que unieron a la madre de Triel con Keiden Ashton. Al mismo tiempo, en el planeta oceánico <strong>Daline 3</strong>, A.Xel descubre el santuario oculto de su linaje y el colosal legado de las cuarenta y dos encarnaciones de su chasis, antes de que Benrey Galway deba liderar a sus camaradas en una encarnizada batalla naval y cuerpo a cuerpo contra la <strong>Legión del Fuego en el Cielo</strong> para salvaguardar la autonomía de la inteligencia artificial Shirka. Finalmente, entre la emoción comunitaria del festejo por el futuro hijo de Marloc Boosmar y Ángela y la dolorosa decisión de Triel al sincronizar el núcleo del asteroide Kairos, una brecha hiperespacial abre el camino hacia lo desconocido.
+  </p>
+
+  <p style="font-size: 8.8pt; line-height: 1.40; text-align: justify; margin-bottom: 8px;">
+    La historia traslada a la prosa literaria la espontaneidad, la comedia, el dramatismo y los vínculos forjados en la mesa de juego bajo la dirección del Game Master <strong>Roberto</strong>, rindiendo tributo al talento y la complicidad de su elenco de jugadores:
+  </p>
+  
+  <!-- MESA DE JUEGO ORIGINAL -->
+  <div style="margin: 6px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 5px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 8.2pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 5px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
+    </p>
+    <p style="margin: 2px 0; text-indent: 0; text-align: center; font-size: 8.5pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benrey Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 2px 0; text-indent: 0; text-align: center; font-size: 8.5pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Zivok Jard / Marloc Boosmar &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
+    </p>
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 5px auto;">
+  </div>
+
+  <!-- AVISO DE PAIZO Y ATRIBUCIÓN -->
+  <table style="width: 100%; margin: 8px 0 0 0; border: 1px solid #cbd5e0; background-color: #f8fafc; border-collapse: collapse; page-break-inside: avoid; break-inside: avoid;">
+    <tr>
+      <td style="padding: 6px 10px; font-size: 7.2pt; color: #4a5568; line-height: 1.30; text-align: justify; border: none;">
+        <p style="margin: 0 0 3px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 7.8pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+          Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+        </p>
+        <p style="margin: 0 0 3px 0; text-indent: 0;">
+          Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
+        </p>
+        <p style="margin: 0; text-indent: 0;">
+          Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benrey Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Zivok Jard) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 3 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 3: ÍNDICE DE CONTENIDOS -->
+<div style="padding: 8px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 4px; padding-bottom: 2px; font-size: 14pt;">
+    Índice de Contenidos
+  </h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto, créditos de la mesa y canon de Paizo Inc.</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Prólogo: El Laberinto de la Forja</div>
+        <div class="toc-sub">El enigma kishalee, la caída de Null-9 y la marcha hacia el Maelstrom</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 1: Ridículo en el Cubículo</div>
+        <div class="toc-sub">Basado en el Episodio 186 · Oficinas ancestrales, emboscada de eolis y la caída de Triel</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">5</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 2: La Señora de los Aliolis</div>
+        <div class="toc-sub">Basado en el Episodio 187 · El martillo de Zivok, curación de campaña y la puerta secreta</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">9</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 3: Xavra Dios</div>
+        <div class="toc-sub">Basado en el Episodio 188 · La gran biblioteca, el campeón solariano y el cono gravitatorio</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">12</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 4: Dios Xavra</div>
+        <div class="toc-sub">Basado en el Episodio 189 · Supernova, el disparo crítico de Triel y el rescate de Charlotte E2</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">15</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 5: La Telaraña de Charlotte</div>
+        <div class="toc-sub">Basado en el Episodio 190 · Guerra Sivv-Kishalee, los Doce Soles y la leyenda de Besmara</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">19</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 6: Escape de Nejeor</div>
+        <div class="toc-sub">Basado en el Episodio 191 · Vuelo de Benrey, caravana de Tzayl y el bloqueo de Kairos</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">22</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 7: Yo Soy tu Amigobling Fiel</div>
+        <div class="toc-sub">Basado en el Episodio 192 · Oficiales Willy y Naru, Marloc y Ángela y la llegada de Alistrav</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">25</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 8: Abuelita Dime Tú</div>
+        <div class="toc-sub">Basado en el Episodio 193 · El fraude post-Brecha de los Istrav, Keiden Ashton y el rechazo de Triel</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">29</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 9: Se Me Subió el Muerto</div>
+        <div class="toc-sub">Basado en el Episodio 194 · Intimidación a los emisarios de Eox y el barullo pirata en El Cuerno Oscuro</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">32</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 10: Todos Somos Keiden</div>
+        <div class="toc-sub">Basado en el Episodio 195 · Pelea de taberna, artes marciales de Charlotte y la espuma de Brangulya</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">36</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 11: Dos Hombres, un Camino</div>
+        <div class="toc-sub">Basado en el Episodio 196 · Negociación con León, filtro de datos kish y rumbo a Daline 3</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">39</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 12: Mamma Mia</div>
+        <div class="toc-sub">Basado en el Episodio 197 · El mundo de agua, la estatua de A1 y las 42 vidas de A.Xel</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">42</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 13: El Episodio de la Playa</div>
+        <div class="toc-sub">Basado en el Episodio 198 · Emancipación de Charlotte, días de tregua y la emboscada del Fuego en el Cielo</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">45</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 14: Láser y Dragón</div>
+        <div class="toc-sub">Basado en el Episodio 199 · La libertad de Shirka, juicio en el hangar y la capitulación de Samanis</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">48</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 15: De un Monstruo a Otro</div>
+        <div class="toc-sub">Basado en el Episodio 200 · Baby shower de Ángela y Marloc, Ambrose y el dilema de los monstruos</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">51</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 16: El As Bajo la Manga</div>
+        <div class="toc-sub">Basado en el Episodio 201 · La Piedra Corazón, el sacrificio de Gerty, el horror abisal y el salto al Maelstrom</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">55</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">Kairos, Daline 3, la tripulación de la Estrella Errante y linajes ancestrales</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">59</td>
+    </tr>
+  </table>
+</div>
+
+<!-- CONTENIDO PRINCIPAL DEL LIBRO -->
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Prólogo: El Laberinto de la Forja</h2>
+<p>El rugido perpetuo de las tormentas de Nejeor VI quedaba amortiguado bajo las descomunales losas de aleación y polímeros reforzados de La Forja. Aquel bastión fabril, erigido en el cenit del poderío kishalee e impenetrable durante milenios, conservaba el aliento helado de los secretos que habían condenado a dos imperios estelares. Hacía incontables eras, en las cámaras más profundas de este complejo insular, los científicos de Istamak habían perfeccionado el arma más aterradora del cosmos: el Degenerador Estelar, la máquina capaz de apagar soles enteros para alimentar su sed de destrucción.</p>
+<p>Tras sortear los horrores micóticos de SecuriTech y quebrar el cerrojo perimetral serie XLT-88, los tripulantes de la <em>Estrella Errante</em> cruzaron el umbral de La Forja con la certeza de que el tiempo se agotaba. El Culto del Devorador, guiado por la gélida ambición de la androide Null-9 y la despiadada eficiencia de sus fanáticos, había penetrado en las instalaciones mucho antes que ellos. Rastrojos de condensadores arrancados, cables de plasma masticados por fuego balístico y charcos de sangre coagulada señalaban el paso devastador de la vanguardia cultista hacia el mítico Portal Estelar, la puerta dimensional que conectaba la metrópoli flotante con el lugar de descanso del arma primordial.</p>
+<p>Para Benrey Galway, Triel Istrav, A.Xel 42 y Zivok Jard, cada paso en la penumbra de las galerías interiores exigía una vigilia total. Zivok, renacido tras su paso por los fluidos curativos de la Casa del Renacimiento, marchaba al frente portando su martillo de vacío y el hacha kishalee con la prestancia inquebrantable de un veterano que volvía a sentir el vigor de la juventud en sus articulaciones. Triel y el meca Gerty calibraban sensores térmicos y sónicos, anticipando el embate de las defensas automáticas y los cazadores kish seducidos por las promesas de Null-9. Y en el núcleo procesador de A.Xel, los pulsos de telepatía y las transmisiones de Éclair continuaban ardiendo como una herida abierta: en algún lugar de aquellos pasillos, el destino de la raza androide pendía de un hilo.</p>
+<p>Frente a ellos, una hilera de cubículos de investigación y mamparas administrativas medio derruidas se extendía hacia la oscuridad. El hedor a bestias salvajes domesticadas para la guerra y el zumbido de escudos gravitatorios presagiaban que la Forja no entregaría sus llaves sin antes cobrar un tributo de sangre. La hora de los enigmas había concluido; en los cubículos de Istamak, la batalla por la salvación de la galaxia acababa de comenzar.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 1: Ridículo en el Cubículo</h2>
+<p><em>Adaptado del Episodio 186</em></p>
+<h3 class='subsection-title'>I. La burocracia de los milenios</h3>
+<p>El interior de La Forja no se asemejaba a una catedral de metal fundido ni a un polvorín bélico, sino a un laberinto colosal y decadente de módulos de investigación corporativa. Tras superar los accesos pesados reforzados por el cerrojo XLT-88, la vanguardia de la <em>Estrella Errante</em> desembocó en un nivel administrativo que parecía haber quedado congelado en el instante mismo del cataclismo. Hileras interminables de cubículos de trabajo, separados por mamparas de resina traslúcida y escritorios metálicos encastrados en el pavimento, se extendían hasta donde la escasa iluminación de emergencia alcanzaba a alumbrar.</p>
+<p>—¿Quién hubiera imaginado que los constructores de un arma para asesinar estrellas pasaban sus jornadas encerrados en casilleros de oficina? —comentó Benrey Galway en un susurro, alzando las orejas y husmeando el aire cargado de ozono, papel milenario pulverizado y humedad rancia—. Miren esto: sillas ergonómicas fosilizadas y terminales de datos con teclados para dedos de seis falanges. Da casi la misma lástima que un ministerio del Pacto en Absalom.</p>
+<p>A su lado, Triel Istrav avanzaba con el rifle de plasma apoyado en la cadera, mientras su meca Gerty custodiaba la retaguardia con un zumbido sordo de servomotores. La semi-drow pasó un dedo enguantado por una pantalla cuarteada, buscando signos de energía residual:</p>
+<p>—No te dejes engañar por la arquitectura de oficina, Benrey. Cada uno de estos módulos procesaba cálculos sobre fluctuaciones gravitatorias y resonancias de antimateria. Si el Culto del Devorador sigue aquí dentro, este dédalo de esquinas ciegas es el terreno de emboscada perfecto.</p>
+<p>—MOVIMIENTO DETECTADO EN EL PERÍMETRO SUPERIOR —anunció repentinamente Gerty con su voz de barítono mecánico, girando sus ópticas estroboscópicas hacia las pasarelas que colgaban del techo abovedado—. PATRÓN DE APROXIMACIÓN: ANOMALÍA BIOLÓGICA MÚLTIPLE.</p>
+<p>A.Xel 42 desenvainó sus pistolas automáticas en un movimiento fluido, fundiéndose con la sombra de un archivador blindado:</p>
+<p>—No son autómatas de mantenimiento. Escucho garras sobre las rejillas de ventilación. Y una respiración pesada que no pertenece a ningún miembro del culto.</p>
+<p>Zivok Jard adelantó un paso, plantando sus pesadas grebas en el mármol sintético. La servoarmadura «El Espectro Azul», libre ya de los antiguos crujidos que martirizaban sus articulaciones antes de la inmersión médica en Istamak, respondió con una presteza formidable. El enano sopesó el martillo de vacío en su diestra y ajustó el escudo de repulsión:</p>
+<p>—Dejen que se acerquen. Mis lumbares están ansiosas por probar qué tal responde este esqueleto remendado.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La emboscada de las bestias aladas</h3>
+<p>Un aullido desgarrador, mitad siseo serpentino y mitad chillido rapaz, desgarró la penumbra. Desde las vigas de carga superiores y saltando sobre los techos de los cubículos, tres criaturas cuadrúpedas de pelaje erizado y alas membranosas se precipitaron sobre el pasillo central. Eran eolis, los depredadores alfa de las tormentas de Nejeor VI, pero no actuaban movidos por el instinto salvaje: llevaban arneses de combate de aleación kishalee y sus ojos inyectados en sangre delataban un adiestramiento despiadado.</p>
+<p>Detrás de las bestias, recortada contra la barandilla de una oficina elevada, apareció una figura alta y musculosa. Su piel cenicienta y las cuatro hendiduras oculares revelaban su origen kish, pero su atavío combinaba pieles de cacería con piezas de armadura cultista. En sus manos empuñaba un arco de precisión cinética con saetas cargadas de plasma azul.</p>
+<p>—¡Intrusos del cielo exterior! —rugió la mujer kish, cuya voz resonó con un odio fanático—. ¡No profanarán los sagrados secretos de los señores kishalee para alimentar su codicia! ¡A ellos, mis cazadores! ¡Desgarren su carne impura!</p>
+<p>—¡Es Tzaythe! —advirtió A.Xel, reconociendo las cicatrices tribales de la cazadora mencionada por la profetisa Tzayl—. La que traicionó a los suyos para guiar a Null-9 hasta La Forja.</p>
+<p>Una de las bestias se abalanzó contra Benrey en un salto vertiginoso. El ysoki reaccionó rodando bajo el escritorio más cercano, disparando su pistola láser hacia el vientre de la criatura. El haz chamuscó las membranas de sus alas, obligándola a replegarse sobre una hilera de archivadores que colapsó con estruendo metálico:</p>
+<p>—¡Alguien quíteme a este gato emplumado de encima! —chilló Benrey, asomando la cabeza entre pilas de microfichas carbonizadas—. ¡Tiene dientes como dagas ceremoniales!</p>
+<p>Triel, buscando una línea de tiro limpia para apoyar al capitán, trepó con agilidad sobre una mampara divisoria de plexiglás. Desde aquella posición elevada, apoyó el cañón de su arma para apuntar a la cazadora kish en la balconada superior. Sin embargo, la estructura centenaria, debilitada por milenios de corrosión, no soportó el peso combinado de la mecánica y su equipo de combate.</p>
+<p>Con un chasquido seco y aterrador, el panel se quebró bajo las botas de Triel.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Al borde del abismo en el cubículo</h3>
+<p>La caída fue violenta y desprovista de amortiguación. Triel se precipitó más de cuatro metros al vacío, golpeando brutalmente contra el filo de una mesa de aleación antes de rodar sobre el suelo de losetas quebradas. El impacto le vació el aire de los pulmones con un estertor agónico; su visor óptico se cubrió de estática roja y varias costillas crujieron bajo la armadura de vuelo, dejándola indefensa y sangrante entre los restos del mobiliario.</p>
+<p>—¡Triel! —gritó Benrey, cuyos ojos desorbitados reflejaban el pánico del ysoki al ver a su compañera inmóvil en el suelo.</p>
+<p>El segundo eolis olió la sangre de inmediato. Con un salto salvaje, la bestia se abalanzó hacia el cubículo donde Triel apenas lograba alzar una mano enguantada, enseñando hileras de colmillos goteantes dispuestos a destrozarle la garganta.</p>
+<p>—¡Atrás, alimaña de cloaca! —retumbó la voz tonante de Zivok Jard.</p>
+<p>El enano no corrió: cargó como una avalancha de plomo y adamio. Impulsado por los microinyectores de su servoarmadura, Zivok se interpuso entre las fauces del monstruo y el cuerpo maltrecho de la semi-drow. El impacto del artillero contra la bestia sacudió el cubículo entero: con un golpe ascendente de su escudo de repulsión, Zivok estrelló el hocico del eolis contra el cielorraso, haciéndolo retroceder con un alarido de agonía.</p>
+<p>—Nadie toca a mi ingeniera mientras este enano respire —masculló Zivok entre dientes, escupiendo una hebra de tabaco mientras plantaba el martillo de vacío en el pecho de la criatura.</p>
+<p>En las alturas, Tzaythe tensó la cuerda de su arco compuesto, apuntando directo al visor de Zivok con frialdad homicida:</p>
+<p>—Valientes palabras para gusanos destinados al estómago del vacío.</p>
+<p>Desde las sombras de un corredor lateral, el destello gélido de los fotoreceptores de A.Xel 42 brilló con cálculo letal:</p>
+<p>—El blanco está fijado —murmuró la androide, alineando sus miras con la cazadora kish—. Cubran a Triel. Yo desmonto a la titiritera.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 2: La Señora de los Aliolis</h2>
+<p><em>Adaptado del Episodio 187</em></p>
+<h3 class='subsection-title'>I. El juicio del martillo de vacío</h3>
+<p>El chillido de los eolis heridos reverberaba en el laberinto de cubículos mientras Tzaythe saltaba de barandilla en barandilla, buscando el ángulo propicio para atravesar la armadura de Zivok con sus saetas de plasma. Desde el suelo, resguardando con su propio chasis el cuerpo postrado de Triel, el meca Gerty desplegó sus escudos de dispersión balística, recibiendo tres impactos que arrancaron chispas al rojo vivo de sus placas frontales.</p>
+<p>—INTEGRIDAD DEL BLINDAJE SECUNDARIO AL OCHENTA Y CUATRO POR CIENTO —informó Gerty imperturbable, barriendo los escombros de la mampara rota con una de sus extremidades hidráulicas—. CAPACIDAD DEFENSIVA SUFICIENTE PARA PRESERVAR A LA CREADORA.</p>
+<p>A.Xel 42 no desperdició el respiro que ofrecía el robot. Aprovechando el destello de los disparos de Tzaythe, la operativa androide trepó por un conducto de ventilación colapsado, alcanzando la pasarela superior en absoluto silencio. Dos disparos certeros de sus pistolas perforaron el hombro y el muslo de la cazadora kish, desestabilizando su puntería y obligándola a arrojar el arco para desenvainar un machete de vibración monofilar.</p>
+<p>—¡Malditos carroñeros de los mundos muertos! —escupió Tzaythe, cayendo desde la balconada con un golpe acrobático directo hacia el cráneo de Zivok.</p>
+<p>Pero el veterano artillero de asedio no era un novato al que pudiera sorprender una emboscada aérea. Con una rotación perfecta de sus caderas renovadas y un pivote impecable sobre su bota izquierda, Zivok dejó pasar el filo zumbante del machete a escasos centímetros de su barbilla. Acto seguido, descargó toda la potencia de los capacitores del martillo de vacío en un arco ascendente demoledor.</p>
+<p>El impacto fue brutal e incuestionable. El cabezal de aleación densa atrapó a Tzaythe en el lateral del cuello con el estampido sónico de un trueno comprimido. El chasquido de las vértebras cervicales de la cazadora resonó en toda la estancia cuando la inercia del golpe quebró la columna de la kish al instante, proyectando su cuerpo inerte contra una hilera de terminales que chisporrotearon antes de apagarse para siempre.</p>
+<p>Los eolis supervivientes, al ver a su ama abatida y privada de vida, perdieron toda disciplina militar. Con aullidos lastimeros, las bestias supervivientes se dispersaron hacia las sombras del cielorraso, huyendo despavoridas hacia las chimeneas de ventilación que conducían al exterior de La Forja.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Parches en el fuselaje</h3>
+<p>Un silencio espeso y polvoriento cayó sobre los cubículos. Benrey Galway se apresuró a cruzar el pasillo, guardando su arma en la cartuchera y arrodillándose de inmediato junto a Triel. La semi-drow respiraba con dificultad, con una mueca de dolor contenida que hacía palidecer aún más su semblante cetrino.</p>
+<p>—Tranquila, muchacha, ya pasó el susto —le dijo el ysoki con una ternura paternal impropia de un capitán bribón, sacando de su morral un inyector de biomaterial y dos ampollas de suero coagulante—. No intentes moverte. Esa caída te quebró al menos un par de costillas y tienes el torso magullado como si te hubiera pisado un gargantúa de Castrovel.</p>
+<p>—No... no me sermonees, Benrey —susurró Triel con voz entrecortada, apretando los dientes mientras el gel analgésico penetraba en su torrente sanguíneo a través del inyector—. Solo... solo fue una mala evaluación estructural de la mampara. Esos kishalee... escatimaron en refuerzos de polímero para sus contables.</p>
+<p>Zivok se acercó pesadamente, apoyándose en el mango de su martillo y observando a la mecánica con evidente preocupación bajo la visera de su casco:</p>
+<p>—La próxima vez que decidas hacer alpinismo en una oficina abandonada, déjame el asalto a mí, ingeniera. Eres demasiado valiosa para que te rompas contra un archivador de tres al cuarto.</p>
+<p>—ADQUISICIÓN DE SIGNOS VITALES ESTABLES —añadió Gerty, proyectando un escaneo holográfico azul sobre el tórax de Triel—. RUPTURA COSTAL NO DESPLAZADA. TIEMPO ESTIMADO DE CICATRIZACIÓN MEDIANTE NANOPARCHES: VEINTE MINUTOS. EFICIENCIA DE LA CREADORA COMPROMETIDA EN UN QUINCE POR CIENTO.</p>
+<p>—Gracias por el diagnóstico tan optimista, Gerty —ironizó Triel, permitiendo que A.Xel y Benrey la ayudaran a incorporarse despacio hasta quedar sentada contra la base de un escritorio—. Mientras el suero hace efecto, registremos el puesto de mando de esa traidora. Si Null-9 la dejó cuidando este nivel, es porque detrás de estos escritorios hay algo que querían ocultar.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El secreto tras el mapa astral</h3>
+<p>A.Xel avanzó hacia la oficina privada que Tzaythe había utilizado como nido de tirador. En el interior, la estancia parecía haber servido tanto de sala de consulta administrativa como de pequeño santuario ritual: cuencos ceremoniales con resinas aromáticas apagadas rodeaban una imponente consola central cubierta por un tapiz de fibra vegetal trenzada que representaba las constelaciones de Nejeor VI antes de la Brecha.</p>
+<p>—Triel, Benrey, miren esto —llamó la androide, deslizando sus dedos sobre la orilla del telar ancestral—. Las hebras de cobre en este tejido conducen un microvoltaje residual. No es una simple decoración tribal.</p>
+<p>Triel se puso en pie con un gemido sordo, apoyándose en el hombro de Zivok hasta llegar frente al tapiz. Con su herramienta multifunción, la semi-drow levantó el paño bordado, dejando al descubierto una hendidura geométrica tallada en la pared de piedra sintética.</p>
+<p>—Un cerrojo de contrapeso neumático —observó Triel con una chispa de brillo en los ojos—. Los kishalee sabían que los asedios a La Forja no comenzarían por las puertas principales, sino por las brechas de infiltración. Este acceso no figura en los esquemas públicos de la instalación.</p>
+<p>Benrey presionó una protuberancia triangular en la cornisa superior. Con un gemido de engranajes sellados al vacío que liberó una densa bocanada de aire helado y olor a pergamino añejo, el panel de roca se deslizó hacia un costado, revelando una amplia escalera circular de mármol negro que descendía hacia las entrañas del complejo.</p>
+<p>Desde la profundidad del abismo iluminado por tenues filamentos de fosforescencia verde, un suave zumbido de campos de contención magnética subía flotando hacia ellos.</p>
+<p>—Una biblioteca —murmuró A.Xel, analizando la composición del aire que ascendía por el vano—. El archivo de conocimiento de La Forja. Y según las lecturas de calor residual, el guardián de ese santuario sabe perfectamente que estamos aquí.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 3: Xavra Dios</h2>
+<p><em>Adaptado del Episodio 188</em></p>
+<h3 class='subsection-title'>I. Las galerías del conocimiento perdido</h3>
+<p>El descenso por la escalera de caracol desembocó en un recinto de proporciones sobrecogedoras. Frente a los tripulantes de la <em>Estrella Errante</em> se abría la gran biblioteca de La Forja: una nave circular de dos pisos de altura, delimitada por muros de estanterías monumentales que albergaban miles de cilindros de datos cristalinos, tablillas grabadas en aleaciones inoxidables y volúmenes de fibra sintética encuadernados en piel de depredadores extintos.</p>
+<p>Una suave luminiscencia esmeralda emanaba de los pilares centrales, proyectando reflejos danzantes sobre el pavimento de basalto pulido. En el centro de la estancia, sobre una plataforma elevada que dominaba las dos plantas, flotaba un inmenso mapa holográfico del Imperio Kishalee en su época de máximo esplendor, rodeado por consolas de consulta que parpadeaban con códigos matemáticos incomprensibles.</p>
+<p>—Por todos los tesoros de la Diáspora... —susurró Benrey Galway, admirando los infinitos estantes que se perdían hacia la penumbra del segundo nivel—. Toda la historia de Nejeor VI concentrada en una sola habitación. Si los eruditos de la Universidad de Arcanamirium vieran esto, venderían sus propias togas por un pase de lectura.</p>
+<p>—Cuidado con las esquinas —advirtió A.Xel 42, deslizando sus sensores térmicos por las galerías superiores—. Esta no es una sala de estudio abandonada. Las terminales de seguridad del balcón están activas y canalizan energía hacia un condensador central.</p>
+<p>—Y no están solos —gruñó Zivok Jard, avanzando con paso firme mientras el martillo de vacío zumbaba en su diestra—. Huelo ozono recalentado. El tipo de olor que dejan los guerreros que juegan con la luz solar.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El campeón de la corona solar</h3>
+<p>Desde la barandilla del segundo piso, recortada contra la silueta de los archivos superiores, una figura imponente emergió de la oscuridad. Era un guerrero kish de casi dos metros y medio de estatura, cubierto por una armadura ceremonial de placas doradas y bronce repujado. Sus cuatro ojos brillaban con un fulgor ambarino sobrenatural, y en su pecho ardía una gema estelar que emitía pulsaciones rítmicas de calor sofocante.</p>
+<p>En su mano derecha, un vórtice de plasma incandescente comenzó a condensarse en forma de una alabarda de luz pura: la manifestación de un solariano kishalee consagrado a la furia de las estrellas.</p>
+<p>—¡Inmundicia del vacío exterior! —rugió el coloso con una voz que hizo vibrar los cristales de las estanterías—. Soy <strong>Xavra</strong>, el brazo ejecutor de los ancestros, la llama viviente que purifica la ignorancia de los profanadores. Null-9 me prometió que los gusanos que mancillaron la Casa del Renacimiento vendrían a este sagrario. ¡Y aquí encontrarán su tumba definitiva!</p>
+<p>A ambos lados de Xavra, cuatro tiradores kish ataviados con capas de sigilo y rifles de francotirador cinético asomaron sobre la barandilla, encañonando al grupo desde la posición dominante.</p>
+<p>—¡Cúbranse tras los pilares! —gritó Benrey, lanzándose en plancha detrás del pedestal de una terminal de consulta justo cuando una lluvia de proyectiles perforantes pulverizaba el pavimento a sus espaldas—. ¡Tienen la ventaja de la altura y nosotros parecemos dianas de feria en medio de la plaza!</p>
+<p>Gerty reaccionó al instante, interponiendo su chasis reforzado para proteger a Triel, cuyas costillas vendadas aún le impedían maniobrar con agilidad:</p>
+<p>—DENSIDAD DE FUEGO HOSTIL SUPERIOR A CINCUENTA PROYECTILES POR MINUTO. RECOMENDACIÓN TÁCTICA: NEUTRALIZAR EL NIVEL SUPERIOR CON DISPERSIÓN PESADA.</p>
+<p>Triel alzó su rifle sónico, apoyando el cañón sobre el hombro metálico del robot:</p>
+<p>—A.Xel, encárgate de los francotiradores del flanco derecho. ¡Zivok y yo contendremos a este fanático dorado!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El vórtice de la gravedad aplastante</h3>
+<p>Zivok inició una carrera pesada hacia la escalinata central, dispuesto a encarar al campeón kish en combate cuerpo a cuerpo. Sin embargo, Xavra sonrió con desprecio ante la audaz embestida del enano.</p>
+<p>El solariano no atacó con su alabarda de plasma; en su lugar, alzó la mano izquierda hacia el vacío y rotó la muñeca con un chasquido sordo. La gema incrustada en su coraza no irradió calor, sino una oscuridad gravitatoria densa y violenta: un cono de distorsión espacial que descendió desde el balcón como una campana de plomo invisible.</p>
+<p>—¡Conozcan el peso del núcleo estelar! —bramó Xavra.</p>
+<p>La onda de gravitones impactó de lleno en el sector inferior de la biblioteca. De repente, el peso de la atmósfera pareció multiplicarse por diez. El pavimento de basalto se cuarteó bajo una presión descomunal; los libros y tablillas de los estantes inferiores cayeron al suelo con estrépito sordo, aplastados por su propia masa amplificada.</p>
+<p>Zivok cayó sobre una rodilla, sintiendo cómo los servomotores de su armadura chirriaban bajo un esfuerzo límite. El aire en los pulmones del artillero se tornó espeso y denso como el mercurio, impidiéndole dar un solo paso hacia adelante:</p>
+<p>—¡Maldición... ancestral...! —rugió el enano, aferrando el mango de su martillo contra las losas resquebrajadas—. ¡Este desgraciado... está doblando... la gravedad misma!</p>
+<p>A pocos metros, Triel se vio atrapada en la periferia del cono gravitatorio. El dolor de sus costillas fracturadas se avivó con una punzada intolerable cuando sus botas se hundieron en el suelo, inmovilizada bajo la fuerza invisible que amenazaba con aplastarle el tórax.</p>
+<p>En lo alto de la plataforma, Xavra descendió de un salto ingrávido, su alabarda solar chisporroteando con lenguas de fuego coronal listas para degollar a los intrusos atrapados en su trampa dimensional.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 4: Dios Xavra</h2>
+<p><em>Adaptado del Episodio 189</em></p>
+<h3 class='subsection-title'>I. El solsticio de sangre</h3>
+<p>El resplandor de la alabarda solar de Xavra iluminó la biblioteca con un fulgor blanco y cegador que eclipsó la esmeralda de los pilares. Con el cono gravitatorio manteniendo a los intrusos pegados al pavimento, el coloso kish avanzó con la lentitud inexorable de un verdugo que disfruta cada fracción de segundo.</p>
+<p>—¡Ardan en la pira de los mundos muertos! —decretó el campeón solariano, liberando la energía acumulada en su gema estelar en una deflagración de plasma circular: una supernova en miniatura que barrió la planta baja.</p>
+<p>La ola de calor abrasador engulló la primera línea de combate. Zivok Jard, plantado con terquedad pétrea para proteger a Triel a sus espaldas, recibió la totalidad del embate. El metal de «El Espectro Azul» se tornó incandescente al instante; los sistemas de refrigeración de la armadura estallaron en una nube de vapor tóxico y la carne del enano se quemó bajo las placas recalentadas. Con un último estertor ahogado en el que el eco de un viejo resentimiento brotó de su garganta —«¡Maldito Marloc, te odio...!»—, Zivok se desplomó pesadamente sobre las losas agrietadas, su pulso desvaneciéndose en el umbral de la muerte.</p>
+<p>—¡Zivok! —gritó Triel, viendo caer a su protector con el corazón encogido por el terror.</p>
+<p>En la balconada superior, A.Xel 42 eliminó al último de los francotiradores kish arrojándolo al vacío, pero la distancia le impedía interceptar a Xavra antes de que el solariano descargara el golpe de gracia sobre el cuerpo inerte del artillero.</p>
+<p>Benrey Galway disparaba frenéticamente desde su trinchera improvisada, pero los proyectiles láser rebotaban inofensivos contra el escudo de plasma del coloso:</p>
+<p>—¡Triel! ¡Haz algo con esa arma o estamos todos muertos!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El trueno de la sobrecarga</h3>
+<p>Triel Istrav cerró los ojos durante una milésima de segundo, silenciando el dolor agónico de sus costillas rotas y el calor abrasador que le quemaba las pestañas. En su mente de ingeniera, los diagramas de flujo de su rifle sónico se alinearon con una claridad quirúrgica.</p>
+<p>Con un golpe seco del pulgar, Triel desactivó los limitadores de seguridad del arma, puenteando la celda de microfusión con el condensador secundario de su banco de herramientas portátil. El rifle emitió un aullido ultrasónico insoportable, vibrando con tanta violencia que la carcasa de aleación comenzó a resquebrajarse en sus manos.</p>
+<p>—No en mi guardia, fanático de pacotilla —susurró Triel.</p>
+<p>Xavra alzó su alabarda para cercenar la cabeza de Zivok. En ese preciso instante, la semi-drow apretó el gatillo.</p>
+<p>No fue un simple disparo: fue una detonación sónica de potencia catastrófica. Una onda de choque cónica, condensada en un rayo de resonancia pura que alcanzó setenta y nueve decibelios de destrucción molecular, rasgó la atmósfera de la biblioteca. El haz impactó de lleno en el pecho de Xavra, atravesando la gema estelar y reventando su armadura dorada como si fuera cristal templado.</p>
+<p>El campeón kish ni siquiera tuvo tiempo de gritar. La energía destructiva desgarró su torso en dos mitades perfectas, pulverizando huesos y órganos antes de proyectar sus restos contra la pared opuesta en una lluvia de ceniza y metralla incandescente. La onda expansiva residual quebró los estantes superiores y arrojó a Benrey contra una columna, dejando la gran biblioteca sumida en un silencio sepulcral, roto únicamente por el crujido de los pergaminos quemados.</p>
+<p>—¡Zivok, respira, maldito viejo terco! —bramó Benrey, corriendo a gatas hacia el enano mientras clavaba dos inyectores de adrenalina y plasma de choque directo en su cuello. Tras varios segundos de angustia interminable, el pecho del artillero se elevó con una bocanada de aire agónica, confirmando que la chispa de su vida se resistía a apagarse.</p>
+<p>Entre las cenizas del cuerpo destrozado de Xavra, Triel encontró lo que habían venido a buscar: un cristal prismático hexagonal que emitía un suave parpadeo verde. La llave maestra de los kishalee para los niveles inferiores.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La caída del Portal Estelar y el nacimiento de Charlotte E2</h3>
+<p>Con Zivok apenas sostenido sobre los hombros de Gerty, la tripulación atravesó las compuertas blindadas que custodiaba la biblioteca, accediendo a la cámara más sagrada de La Forja: la antecámara del Portal Estelar.</p>
+<p>La estancia era un anfiteatro ciclópeo dominado por un gigantesco anillo de aleación estelar suspendido sobre un abismo de niebla ionizada. Sin embargo, llegaron demasiado tarde para impedir el avance del enemigo. Al otro lado de la plataforma, rodeada por los últimos acólitos del Culto del Devorador y por el mercenario Syd Velch, la gélida figura de la androide Null-9 operaba la consola principal con dedos mecánicos implacables.</p>
+<p>—Llegan tarde, atómicos —anunció Null-9, cuya voz metálica no transmitía la menor emoción—. Las coordenadas del Degenerador Estelar han sido transmitidas a la flota. Y este portal jamás volverá a servir a los propósitos de la vida orgánica.</p>
+<p>Null-9 insertó un dispositivo de sobrecarga en el núcleo de contención del portal. Una alarma ensordecedora tiñó la inmensa sala de rojo carmesí mientras el anillo de aleación comenzaba a retorcerse bajo presiones dimensionales imposibles.</p>
+<p>—¡Crucen el horizonte de sucesos! —ordenó la líder cultista a sus secuaces antes de lanzarse al vórtice parpadeante junto a Syd Velch.</p>
+<p>Pero en la retaguardia del culto, un joven androide de chasis esbelto, ataviado con ropas de monje cibernético desgarradas, se detuvo en seco ante el umbral del abismo. Sus ojos fotónicos se clavaron en A.Xel 42 con una mezcla desgarradora de súplica y reconocimiento: era Éclair, el antiguo discípulo que había sido arrastrado por la retórica extremista de Null-9.</p>
+<p>—¡A.Xel! —gritó el joven androide, esquivando las detonaciones secundarias que comenzaban a pulverizar la plataforma—. ¡No puedo seguirla! ¡No puedo ser parte de la nada!</p>
+<p>—¡Ven aquí! —respondió A.Xel, extendiendo una mano hacia él mientras el anillo del portal colapsaba en una tormenta de antimateria.</p>
+<p>Éclair saltó en el último instante, rodando sobre el pavimento justo cuando el Portal Estelar implosionaba en un estallido sordo que desgarró el tejido del espacio-tiempo, sellando el acceso milenario para siempre bajo miles de toneladas de escombros kishalee.</p>
+<p>Entre el polvo y las chispas que caían como nieve ardiente, A.Xel ayudó a incorporarse al joven fugitivo, tomándolo por los hombros con una firmeza protectora.</p>
+<p>—Ya no eres Éclair —le dijo la operativa con voz serena y solemne—. Éclair murió al servicio de la destrucción de Null-9. Hoy renaces como un espíritu libre en este mundo. Tu nuevo nombre es <strong>Charlotte E2</strong>.</p>
+<p>El joven androide parpadeó, sintiendo los circuitos de su pecho templarse con una calidez desconocida:</p>
+<p>—Charlotte... Sí. Acepto ese nombre con honor, maestra.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 5: La Telaraña de Charlotte</h2>
+<p><em>Adaptado del Episodio 190</em></p>
+<h3 class='subsection-title'>I. El campamento en el abismo</h3>
+<p>El repliegue hacia los niveles superiores de La Forja se realizó con la cautela de un pelotón que ha contemplado la muerte cara a cara. En un taller de ensamblaje secundario, resguardado por mamparas blindadas y sensores de proximidad calibrados por Triel, la tripulación de la <em>Estrella Errante</em> instaló un vivac de campaña para restañar sus heridas y asimilar la magnitud de lo acontecido.</p>
+<p>Zivok Jard reposaba sobre una manta térmica, con la armadura desmontada a su alrededor en piezas pulidas con esmero. Gracias a las vendas de nanoestimulación y a dos dosis de suero regenerativo, las severas quemaduras solares que cubrían su pecho comenzaban a ceder ante una piel sonrosada y firme. El enano probó la movilidad de sus hombros con una sonrisa adusta:</p>
+<p>—Moradín sabe que he visto túneles oscuros en mi vida, pero ese solariano estuvo a punto de freírme como a una salchicha de trinchera. Menos mal que tu rifle canta con la fuerza de un volcán, ingeniera.</p>
+<p>Triel sonrió débilmente mientras ajustaba los pernos de la cadera de Gerty, cuyas placas frontales conservaban los surcos chamuscados por el fuego de cobertura:</p>
+<p>—Agradéceselo a las especificaciones de sobrecarga kishalee, Zivok. Una fracción de segundo más y el cañón me habría estallado en las manos.</p>
+<p>En un rincón de la estancia, Charlotte E2 permanecía sentado en posición de loto. El joven androide vestía ahora un mono de piloto facilitado por Benrey, sobre el cual aún destacaban las líneas de circuito luminiscentes de su chasis. A.Xel 42 se sentó frente a él, conectando un cable de diagnóstico óptico entre sus muñecas para estabilizar los bancos de memoria del recién liberado:</p>
+<p>—Tus patrones lógicos están sincronizados, Charlotte. Háblanos de lo que Null-9 extrajo de las terminales antes de destruir el portal.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La guerra ancestral de los Sivv y los doce soles</h3>
+<p>Charlotte alzó la mirada, proyectando desde sus lentes oculares un holograma tridimensional que iluminó las paredes del taller. En el aire danzaron esferas estelares, flotas de siluetas angulares y esquemas de una civilización olvidada mucho antes de que la Brecha borrara la memoria de los mundos.</p>
+<p>—Null-9 no buscaba riquezas ni tecnología convencional —explicó Charlotte con voz pausada y armónica—. Buscaba la ubicación exacta del <strong>Degenerador Estelar</strong>. Los archivos kishalee que custodiaba Xavra contienen la crónica de la mayor conflagración de esta galaxia: la guerra contra el Imperio <strong>Sivv</strong>.</p>
+<p>Benrey Galway ladeó la cabeza, mesándose los bigotes con curiosidad analítica:</p>
+<p>—He oído hablar de los Sivv en viejas leyendas de contrabandistas. Criaturas de la antimateria, maestros del entrelazamiento cuántico que podían congelar sistemas solares enteros desde dimensiones adyacentes.</p>
+<p>—Así fue —asintió Charlotte—. Para frenar el avance genocida de los Sivv, los kishalee concibieron el Degenerador Estelar: una superarma capaz de agotar la masa de cualquier sol en cuestión de horas, utilizándolo como combustible para colapsar galaxias. Cuando la guerra concluyó y los Sivv fueron erradicados, los kishalee comprendieron que el arma era una aberración cósmica demasiado peligrosa para existir.</p>
+<p>—¿Por qué no la destruyeron? —preguntó Triel, cruzando los brazos sobre el pecho.</p>
+<p>—Porque el núcleo del Degenerador está ligado al tejido del propio espacio —respondió el joven androide—. Destruirlo habría desgarrado las leyes de la física en este cuadrante. En su lugar, los kishalee construyeron una prisión planar impenetrable: la dimensión de los <strong>Doce Soles</strong>, un sector sellado fuera del espacio convencional donde el arma quedó confinada tras una red de balizas de contención absoluta. Null-9 transmitió las coordenadas de acceso a la Flota de los Cuerpos y a los señores del Culto del Devorador.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El navío de la Reina Pirata y la ruta prohibida</h3>
+<p>Un silencio sobrecogedor se adueñó del refugio. Zivok apretó los puños, maldiciendo por lo bajo:</p>
+<p>—Si esa flota alcanza los Doce Soles y enciende esa abominación, no habrá Mundos del Pacto a los que regresar. Estaremos todos muertos antes de que los Protectores terminen de debatir en el parlamento.</p>
+<p>—Hay un problema aún mayor —intervino A.Xel, examinando los cálculos de navegación en su comunicador de muñeca—. El Portal Estelar de La Forja era el único acceso directo a esa dimensión de bolsillo. En el espacio exterior no existen balizas de la Deriva que guíen a una nave hacia los Doce Soles. Viajar a través de la Deriva convencional sin una firma de baliza es un suicidio hiperespacial: quedaríamos atrapados en el vacío durante milenios.</p>
+<p>Fue entonces cuando Triel Istrav levantó la cabeza, y una sombra de orgullo y determinación iluminó su mirada semi-drow:</p>
+<p>—Existe una nave. Solo una en todo el cosmos capaz de surcar las corrientes salvajes del hiperespacio sin necesitar balizas de la Deriva.</p>
+<p>Benrey clavó sus ojos redondos en ella, adivinando hacia dónde se dirigía su pensamiento:</p>
+<p>—No me digas que estás hablando de la leyenda de tu padre, Triel...</p>
+<p>—No es una leyenda, capitán —afirmó Triel con rotundidad—. En las tabernas de piratas de los Mundos del Pacto todos repiten la misma canción: hace veinte años, en el mismísimo corazón del <strong>Maelstrom</strong>, Keiden Ashton asaltó el santuario de la diosa Besmara y le arrebató el motor estelar a su nave insignia. Un motor capaz de navegar las tormentas planares más caóticas como si fueran aguas mansas.</p>
+<p>—El navío de Besmara... —murmuró Benrey, sintiendo un escalofrío de fascinación recorrer su espalda de roedor—. Tu padre robó a una deidad para construir el barco más rápido de la historia.</p>
+<p>—Si queremos alcanzar los Doce Soles antes de que el Culto del Devorador active el Degenerador, tenemos que salir de Nejeor, regresar a Kairos y encontrar la pista de mi padre y de ese barco —concluyó Triel con firmeza—. No hay otra alternativa en todo el universo.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 6: Escape de Nejeor</h2>
+<p><em>Adaptado del Episodio 191</em></p>
+<h3 class='subsection-title'>I. El vuelo del emisario y la caravana kish</h3>
+<p>La salida de La Forja exigía una hazaña logística tan compleja como el propio combate. En el hangar exterior donde la <em>Estrella Errante</em> aguardaba amarrada a los pilares de amarre de Istamak, los diagnósticos de Shirka no admitían paliativos: el sistema de propulsión sublumínico había sufrido daños críticos durante el descenso atmosférico inicial, y para escapar del tremendo pozo gravitatorio del gigante gaseoso se requería instalar un módulo de inyección de plasma de alto rendimiento.</p>
+<p>—Los componentes están en el campamento de la tribu, en las islas inferiores —explicó Triel, limpiándose el sudor de la frente con el dorso de la manga mientras examinaba los conductos calcinados—. Pero pesan más de dos toneladas. Ni entre Gerty y Zivok podríamos arrastrar esa maquinaria por los puentes colgantes antes de que las tormentas de metano corten las rutas.</p>
+<p>Benrey Galway ajustó las correas de su flamante propulsor dorsal, comprobando la carga de queroseno y microfusión con una sonrisa audaz:</p>
+<p>—Déjenmelo a mí. Es hora de que el capitán demuestre para qué sirven estos cohetes en la espalda.</p>
+<p>Impulsado por dos columnas de fuego azul, el emisario ysoki surcó los cielos tempestuosos de Nejeor VI, esquivando ráfagas de viento huracanado y jirones de nubes ácidas hasta descender con precisión impecable en el campamento de la profetisa Tzayl. La líder espiritual kish lo recibió con los brazos abiertos y una reverencia solemne: la noticia de la caída del tirano Xavra y de la traidora Tzaythe ya había llegado a oídos de los clanes a través de los tambores de resonancia.</p>
+<p>—Los espíritus de los ancestros cantan vuestra victoria, pequeño caminante de las estrellas —proclamó Tzayl, cuya mirada de cuatro ojos reflejaba una devoción sincera—. Istamak respira en paz por primera vez en cien generaciones. ¿Qué necesita la barca de vuestros héroes para ascender a los cielos?</p>
+<p>Con la ayuda de más de cuarenta guerreros kish y bestias de tiro domesticadas, la pesada turbina de plasma fue transportada a través de las pasarelas flotantes en una procesión épica que unió a los primitivos habitantes de las nubes con los heraldos del espacio exterior.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Almas de silicio y despedidas en la bruma</h3>
+<p>Mientras los kish y Zivok completaban el anclaje de la maquinaria en la bahía de carga, Triel y Charlotte E2 trabajaban en la sala de máquinas, sincronizando las matrices de interfaz de Shirka con la tecnología de La Forja. Entre chispas de soldadura y el zumbido de los transformadores, la ingeniera contempló al joven monje androide:</p>
+<p>—Te mueves con soltura entre sistemas kishalee, muchacho. Casi parece que hubieras nacido en una fábrica como esta.</p>
+<p>Charlotte sonrió con melancolía, ajustando una válvula de reflujo con precisión milimétrica:</p>
+<p>—Null-9 me obligó a estudiar cada diagrama de La Forja para servir a sus planes. Durante mucho tiempo pensé que mi existencia solo tenía sentido como una herramienta para otros. Pero ver cómo A.Xel y tú desafían a las jerarquías... me hace comprender que mi alma es mía, sin importar quién haya ensamblado mi cuerpo.</p>
+<p>—Bienvenido al club de los inadaptados —le devolvió Triel con una sonrisa franca—. Yo pasé la mitad de mi vida creyendo que era un desecho entre humanos y drow. Pero aquí estamos, a punto de salvar la galaxia.</p>
+<p>En la esclusa de embarque, Benrey estrechó la mano de Tzayl con profunda emoción:</p>
+<p>—Cuiden de Istamak, profetisa. No dejen que nadie convierta estas ruinas en un coto de caza corporativo. Su pueblo merece escribir su propio futuro.</p>
+<p>—Vuestro nombre vivirá en las canciones de nuestros fuegos mientras las estrellas sigan ardiendo, Benrey de los clanes subterráneos —respondió Tzayl, sellando el pacto con un beso ceremonial en la frente del ysoki.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El enjambre sobre Kairos</h3>
+<p>Las compuertas de la <em>Estrella Errante</em> se sellaron herméticamente. A los mandos de la nave, A.Xel 42 activó los posquemadores kishalee recién integrados. Con un rugido ensordecedor que hizo temblar la corteza de las islas suspendidas, la nave cortó las densas capas de gas de Nejeor VI, ascendiendo en vertical hacia la negrura estrellada del vacío.</p>
+<p>—Sistemas de propulsión al ciento por ciento —anunció Shirka a través de los altavoces de cabina—. Rumbo trazado hacia el asteroide Kairos. Salto a la Deriva completado en tres, dos, uno...</p>
+<p>El túnel de luces púrpuras y corrientes hipnóticas de la Deriva los envolvió durante varias jornadas de tensa calma antes de escupirlos de vuelta al espacio convencional, frente a las colosales formaciones rocosas de Kairos.</p>
+<p>Sin embargo, el espectáculo que los aguardaba en los sensores desconcertó a toda la tripulación. El asteroide, habitualmente un puerto discreto para buscadores de fortuna y contrabandistas, estaba rodeado por un atasco naval sin precedentes.</p>
+<p>Decenas de fragatas patrulleras de los <strong>Protectores</strong> mantenían formaciones de bloqueo junto a los imponentes cruceros dorados de los <strong>Caballeros de Golarion</strong>. Decenas de corbetas corsarias del Espacio Libre disputaban amarres en los muelles exteriores, mientras que en las sombras de los sectores corporativos destacaban los elegantes y temibles acorazados de aleación obsidiana pertenecientes a las flotas privadas de <strong>Apostae</strong>: la élite drow.</p>
+<p>—Por todos los santos de la Diáspora... —murmuró Benrey, frotándose los ojos ante la pantalla táctica—. ¿Alguien me puede explicar por qué parece que toda la galaxia decidió tomarse unas vacaciones en Kairos al mismo tiempo?</p>
+<p>—No son vacaciones, capitán —dijo Triel, contemplando los blasones drow en la pantalla con un temblor imperceptible en la voz—. Es una convocatoria de guerra. Y me temo que mi familia ha venido a cobrar viejas deudas.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 7: Yo Soy tu Amigobling Fiel</h2>
+<p><em>Adaptado del Episodio 192</em></p>
+<h3 class='subsection-title'>I. Oficiales de hojalata y el mensaje de León</h3>
+<p>El atraque de la <em>Estrella Errante</em> en los muelles de Kairos requirió tres maniobras de aproximación complejas para esquivar las corbetas de los Protectores y los balandros corsarios que atestaban los pontones. Apenas descendió la rampa de desembarque, los tripulantes fueron recibidos por una comitiva familiar: Rim Rey, Gazit, Yolmar y el veterano Mogrim acudieron a felicitarlos por regresar enteros de las fauces de Nejeor VI.</p>
+<p>Sin embargo, antes de que pudieran cruzar hacia el vestíbulo comercial, dos figuras diminutas abrieron paso a empujones entre la multitud. Eran nada menos que <strong>Willy y Naru</strong>, los célebres y caóticos <strong>amigoblins</strong> a quienes la tripulación había rescatado de las fauces de los Akata en el pecio minero del <em>Acreon</em> allá por el Volumen 2, y a quienes más tarde, tras sus incontables intentos de desarmar a Gerty y sabotear las despensas, habían confiado a la custodia del oficial León de los Protectores.</p>
+<p>Ahora, los dos pequeños carroñeros lucían un disfraz estrafalario: llevaban enormes narices postizas de goma atadas a las orejas con hilos de pescar y vestían uniformes de gala de los Protectores tres tallas más grandes. Las guerreras les arrastraban por el enrejado como túnicas ceremoniales y los cascos se les escurrían sobre los ojos, obligándolos a levantar la barbilla en un ángulo imposible. En el pecho, en lugar de condecoraciones oficiales, lucían tapas de botes de lubricante machacadas a golpes y forradas con papel dorado de cartón de zumo.</p>
+<p>—¡Abran paso para la autoridad galáctica! —chilló Willy, cuadrándose con un saludo marcial que casi le hace perder la nariz postiza—. ¡Somos los protectores de élite Willy y Naru! ¡Yo soy cabo de primera categoría y Naru es soldado raso bajo mi mando!</p>
+<p>—¡Sí, respeten la jerarquía y no toquen las tuercas sin permiso reglamentario! —secundó Naru con orgullo, ajustándose el casco ladeado—. El señor don León se quedó sin medallas de metal y nos otorgó estas placas especiales para cumplir una misión ultrasecreta fuera de su nave insignia. ¡Traemos un despacho confidencial para la ciudadana Triel Istrav!</p>
+<p>Benrey se frotó los ojos, entre incrédulo y desternillado de risa:</p>
+<p>—¡Por los bigotes de mi abuela! ¿Los amigoblins convertidos en agentes de la ley? León debió de volverse completamente loco tras pasar tres semanas encerrado con ustedes en el crucero.</p>
+<p>—Estuvimos en el calabozo dos veces, incendiamos la enfermería por accidente y nos fugamos por los conductos de ventilación —aclaró Willy con una sonrisa de oreja a oreja, mientras intentaba deslizarse sigilosamente hacia la escotilla de la <em>Estrella Errante</em> para forzar el candado del refrigerador de paletas de A.Xel—. Hasta que el señor León concluyó que nuestras habilidades diplomáticas servían mejor a la galaxia si operábamos a varios millones de kilómetros de su puente de mando.</p>
+<p>—¡Willy, aléjate de mi despensa o Gerty te usará de plumero de nuevo! —le advirtió Triel con un manotazo cariñoso pero severo, antes de agacharse hacia ellos—. A ver, suelten el mensaje. ¿Qué les dijo León?</p>
+<p>Naru extrajo de su faldón una nota sellada con lacre de los Protectores y susurró con aire conspiranoico:</p>
+<p>—Dijo que la buscáramos con discreción absoluta. Habitación doscientos veintitrés de la taberna <em>El Cuerno Oscuro</em>. A solas.</p>
+<p>—Vaya, el bueno de León siempre tan clandestino —sonrió Triel guardando la misiva en su cinturón—. Pero antes de meternos en intrigas de uniforme, tenemos una visita obligada que hacer en los apartamentos del casino. Alguien nos espera con unos cuantos meses de retraso y un vientre a punto de dar a luz.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Aromas de cocina y el dilema de Kairos</h3>
+<p>En una suite confortable del complejo residencial de Kairos, la tripulación encontró un cuadro doméstico que rayaba en lo insólito. Marloc Boosmar, el erudito tecnomante y veterano fundador de la tripulación de la <em>Estrella Errante</em>, vestía un delantal de cocina sobre su ropa de civil mientras vigilaba con atención casi científica una bandeja de pollo asado en el horno molecular de la estancia. El otrora reservado académico del brazo cibernético repleto de procesadores arcanos había dejado atrás el alcohol y los rigores de la guerra para entregarse en cuerpo y alma a su hogar.</p>
+<p>Frente a él, descansando sobre un sofá acolchado con mantas de felpa, se encontraba Ángela. Con más de siete meses y medio de gestación, su vientre redondeado era testimonio del milagro que ambos construían juntos tras haber sobrevivido a las tragedias del pasado.</p>
+<p>—Miren quiénes decidieron volver de entre los muertos —saludó Ángela con una sonrisa iluminada, recibiendo los abrazos cálidos de sus viejos camaradas—. Creí que se habrían quedado a vivir como reyes entre los salvajes de Nejeor.</p>
+<p>—¡Marloc, por los dioses, estás domesticado! —exclamó Zivok con una carcajada estruendosa, dándole una palmada en la espalda al humano que casi le hace volcar las especias de la cocina—. ¿Dónde quedó el académico de capa escarlata y fórmulas arcanas imposibles? ¡Ahora pareces un chef de banquete de Castrovel!</p>
+<p>—Se llama cuidar a mi familia, enano gruñón —replicó Marloc con una sonrisa socarrona, estrechando emocionado a Benrey, Triel y A.Xel—. Aunque no he dejado de trabajar. Llevo semanas descifrando las ecuaciones místicas y los registros de navegación de todos los corsarios que han recalado en Kairos. La leyenda del navío de Besmara robado por Keiden Ashton en el Maelstrom es completamente verídica. Ya casi tengo las coordenadas.</p>
+<p>A.Xel y Benrey le mostraron los datapads repletos de holofotografías y reliquias rescatadas de la biblioteca kishalee de Istamak. El rostro de Marloc brilló con la pasión investigadora de sus mejores días en el Arcanamirium:</p>
+<p>—Por todos los astros... Esto es el sueño de cualquier xenoantropólogo —murmuró fascinado—. Hubiera dado lo que fuera por estudiar esos archivos con mis propios ojos. Gracias por traerlo a salvo, amigos.</p>
+<p>Mientras la charla continuaba entre risas y recuerdos, Triel se acercó a una terminal de diagnóstico en la esquina de la habitación para comprobar el estado de los sistemas del asteroide. En el instante en que sus dedos tocaron la pantalla, el flujo de datos se interrumpió y el holograma geométrico de la inteligencia artificial central de <strong>Kairos</strong> se materializó frente a sus ojos.</p>
+<p>—Bienvenida de regreso, Triel Istrav —resonó la voz sintética del asteroide en un canal privado—. Mis procesadores han analizado vuestro desempeño en La Forja. Sois un vector de anomalía estadística fascinante. Por tanto, antes de que procedamos a las fases finales de sincronización con la Piedra Corazón, debo formularos una pregunta fundamental: ¿Quién es usted realmente? ¿Cuál es su verdadera naturaleza ante el orden del universo?</p>
+<p>Triel tragó saliva, desconcertada por la hondura del dilema:</p>
+<p>—Aún... aún no tengo una respuesta para ti, Kairos.</p>
+<p>—Tenéis tiempo para reflexionar —respondió la entidad antes de desvanecerse—. Pero la Piedra Corazón no aceptará un operador que ignore su propia alma.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Sombras en el callejón y la llegada de la Matriarca</h3>
+<p>De camino hacia el distrito de los corsarios para acudir a la cita en <em>El Cuerno Oscuro</em>, el grupo cruzó un callejón industrial iluminado por tubos de neón titilantes. De improviso, una docena de mercenarios con armas de plasma cortaron el paso por ambos extremos de la calleja.</p>
+<p>A la cabeza de los emboscadores apareció Anita, una despiadada cazarrecompensas de los bajos fondos que había jurado venganza contra la tripulación desde sus primeros días en la estación:</p>
+<p>—Se les acabó la suerte, atómicos —escupió Anita, encañonando a Triel con un fusil de pulsos—. Hay un precio descomunal sobre sus cabezas en Apostae, y hoy soy yo quien va a cobrarlo.</p>
+<p>Sin embargo, antes de que Benrey pudiera desenvainar o Gerty levantar sus escudos, la penumbra cobró vida.</p>
+<p>Desde los aleros de ventilación superiores descendieron cuatro figuras envueltas en armaduras completas de adamio negro con filigranas de plata. Sus movimientos fueron una sinfonía de muerte gélida y despiadada. Con hojas monofilares y rifles de dardos paralizantes que disparaban sin emitir un solo sonido, los guerreros de élite drow destriparon la línea de mercenarios en cuestión de tres segundos. Anita apenas tuvo tiempo de abrir la boca en un jadeo de espanto antes de que una hoja curva le rebanara la yugular, desplomándose en un charco de sangre sobre las losas de metal.</p>
+<p>Los guerreros envainaron sus armas al unísono y se cuadraron en guardia de honor a ambos lados del callejón.</p>
+<p>Desde el fondo de la avenida, un esquife blindado de repulsión descendió suavemente. La compuerta se deslizó hacia arriba, revelando a un noble drow de rostro aristocrático y mirada altiva: <strong>Bumak Istrav</strong>, primo y comandante de la guardia de la Casa Istrav.</p>
+<p>—Es un alivio encontrarte con vida, prima Triel —dijo Bumak con fingida cortesía.</p>
+<p>Acto seguido, Bumak se apartó a un lado y dobló la rodilla con una devoción reverencial. Desde el interior del vehículo, apoyándose en un báculo rematado por una araña de platino con ojos de zafiro, descendió una mujer anciana cuya presencia congeló el aire del callejón. Su piel era de un ébano puro y sus ojos violetas centelleaban con una autoridad milenaria que no admitía réplica.</p>
+<p>Era la Matriarca <strong>Alistrav Istrav</strong>. La abuela de Triel en persona.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 8: Abuelita Dime Tú</h2>
+<p><em>Adaptado del Episodio 193</em></p>
+<h3 class='subsection-title'>I. El pabellón de obsidiana y las mentiras de la sangre</h3>
+<p>La Matriarca Alistrav Istrav condujo a su nieta y a sus acompañantes hacia un almacén industrial adaptado como consulado privado. En su interior, alfombras de seda carmesí, muebles de ébano tallado y pebeteros de plata con incienso de loto lunar habían transformado el frío hormigón en un rincón diplomático propio de la alta nobleza de Apostae.</p>
+<p>Alistrav despidió a Bumak y a los guardias de asalto con un leve ademán de sus dedos sarmentosos, cubiertos de anillos de rubíes. La anciana se acomodó en un diván con la elegancia sinuosa de una pantera del vacío, clavando sus ojos violetas en Triel, que permanecía erguida y en guardia junto a Benrey y Zivok.</p>
+<p>—Has crecido, pequeña Triel —dijo Alistrav, con una voz suave que destilaba un magnetismo peligroso y antiguo—. Veo que conservas los modales ariscos de tu madre y el orgullo imprudente de ese pirata que te engendró. Pero estás viva. Y has hecho más por desentrañar los secretos de los kishalee que toda una división de nuestros exploradores corporativos.</p>
+<p>—No vine aquí a intercambiar halagos familiares, abuela —replicó Triel con frialdad cortante—. ¿Por qué enviaste a tus asesinos a limpiar el callejón? ¿Y qué hace la Casa Istrav en Kairos con una flota de guerra?</p>
+<p>Alistrav soltó una risa seca, como hojas secas arrastradas por el viento:</p>
+<p>—Kairos es el centro neurálgico del tablero en este ciclo, niña mía. Pero antes de que hablemos de flotas, es hora de que conozcas la verdad sobre la sangre que corre por tus venas. La verdad que tu madre jamás tuvo el coraje de confesarle a nadie.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El gran fraude de la Brecha y el destino de Keiden</h3>
+<p>Alistrav se inclinó hacia adelante, apoyando ambos codos sobre el mango de su báculo de platino:</p>
+<p>—En Apostae, todas las casas nobles se llenan la boca hablando de su linaje puro e inmaculado desde antes de la Brecha. Una sarta de patrañas para imbéciles. Cuando la Brecha terminó y los mundos despertaron sin memoria, el cosmos era un lienzo en blanco para quien tuviera la osadía de reclamarlo. Yo no nací en una mansión de cristal en Nightarch: nací en los arrabales, siendo una mestiza despreciada por los puristas. Una semi-drow, exactamente igual que tú.</p>
+<p>Triel dio un paso involuntario hacia atrás, con los ojos muy abiertos por el asombro. A su lado, Benrey ahogó un chillido de sorpresa y A.Xel registró un súbito incremento en los ritmos cardíacos de la sala.</p>
+<p>—Yo misma falsifiqué las genealogías de la Casa Istrav —confesó la Matriarca con una sonrisa de despiadado orgullo—. Vendí árboles genealógicos inventados a los idiotas que temían no tener pasado, acumulé billones de créditos y compré títulos nobiliarios hasta erigir una de las familias más temidas del planeta. Tu condición mestiza no es una deshonra familiar, Triel: es la prueba viva de nuestro verdadero origen.</p>
+<p>—¿Y mi padre? —inquirió Triel, con la voz templada por una rabia contenida—. ¿Qué parte jugó Keiden Ashton en tus mentiras?</p>
+<p>—Keiden no llegó a la vida de tu madre por casualidad —reveló Alistrav sin pestañear—. Yo misma orquesté su encuentro. Sabía que las tormentas de la Deriva se estaban desestabilizando y que los viajes entre sectores pronto requerirían rutas independientes de las balizas del Pacto. Keiden era el único loco con el arrojo suficiente para infiltrarse en el Maelstrom y robar el motor de la nave insignia de Besmara. Necesitaba ese navío bajo el control de los Istrav. Pero tu padre fue más astuto: tomó el motor, escondió la nave y desapareció en el vórtice, dejándote a ti como su único legado.</p>
+<p>Alistrav hizo una seña, y Bumak depositó sobre la mesa un estuche de terciopelo negro. Al abrirse, reveló tres ampollas de cristal que contenían un fluido carmesí iridiscente:</p>
+<p>—Estas son ampollas de transmutación somática de última generación. Una sola dosis purificará tus genes humanos, transformándote en una drow de pura cepa. Tómala, Triel. Ocupa tu lugar como mi heredera legítima, asume el mando de nuestra flota y reclama el trono de la Casa Istrav como la futura reina corsaria de los Mundos del Pacto.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La negativa de la ingeniera y los pasos del muerto</h3>
+<p>Triel contempló el estuche durante un largo instante. La promesa de poder ilimitado, riqueza y aceptación en la corte más despiadada de la galaxia brillaba ante ella con un resplandor seductor.</p>
+<p>Lentamente, la semi-drow alzó la mirada, fijando sus ojos en la anciana Matriarca con un desprecio inconmovible:</p>
+<p>—Pásate el resto de tu vida viviendo de tus árboles genealógicos de papel maché, abuela. Yo no necesito tu veneno para saber quién soy. No soy una drow pura ni un instrumento para tus intrigas corporativas. Soy Triel Istrav, la jefa de mecánicos de la <em>Estrella Errante</em>. Y estos inadaptados que están detrás de mí son la única familia que reconozco.</p>
+<p>Con un movimiento seco, Triel cerró el estuche de golpe y le dio la espalda a la mujer más poderosa de Apostae:</p>
+<p>—Guárdate tu flota. Yo voy a buscar a mi padre a mi manera.</p>
+<p>Sin embargo, cuando la comitiva abandonó el consulado y se internó en las galerías de Kairos, los sensores de Gerty emitieron un suave pitido en el comunicador interno de Triel:</p>
+<p>—AVISO CONFIDENCIAL A LA CREADORA. DURANTE EL INTERCAMBIO VERBAL, LA MATRIARCA INSERTÓ DISCRETAMENTE UNA DE LAS AMPOLLAS DE TRANSMUTACIÓN EN VUESTRO MORRAL DERECHO. PROCEDIMIENTO NO AUTORIZADO REGISTRADO.</p>
+<p>Triel tocó el bolsillo de su mono, sintiendo el frío cristal del cilindro a través de la tela, pero decidió guardar silencio por el momento.</p>
+<p>Al mismo tiempo, al otro lado de Kairos, en el silencioso pasillo que conducía al apartamento de Marloc y Ángela, el eco de unos pasos arrastrados quebró la calma.</p>
+<p>Dos figuras envueltas en capas andrajosas se detuvieron ante la puerta doscientos doce. Una de ellas era una mujer albina de tez apergaminada, con dos revólveres de tambor al cinto y ojos muertos que no reflejaban la luz; a su lado, un guerrero drow con armadura de hueso flotaba a escasos centímetros del suelo, rodeado por un miasma de frío sepulcral.</p>
+<p>Los emisarios del planeta muerto de <strong>Eox</strong> habían llegado a Kairos. Y buscaban a Marloc Boosmar.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 9: Se Me Subió el Muerto</h2>
+<p><em>Adaptado del Episodio 194</em></p>
+<h3 class='subsection-title'>I. La mirada de los muertos y la oratoria del roedor</h3>
+<p>El pasillo residencial del sector hotelero de Kairos estaba sumido en un frío anómalo, un descenso térmico tan repentino que el aliento de Benrey Galway se condensaba en vaho blanco antes de doblar la esquina. Frente a la puerta doscientos doce, las dos siluetas cadavéricas procedentes de Eox continuaban inmóviles, aguardando una respuesta tras los toques secos propinados a la cancela.</p>
+<p>—¿Se les perdió algo en esta planta, amigos pálidos? —irrumpió Benrey, avanzando por el corredor con las manos apoyadas con insolencia sobre las cartucheras de su cinto.</p>
+<p>La mujer albina giró la cabeza con un movimiento rígido y desprovisto de lubricación orgánica. Sus ojos, carentes de pupilas y hundidos en cuencas oscurecidas por la putrefacción seca, evaluaron al ysoki con un desdén glacial. A su lado, el guerrero drow no muerto permaneció suspendido en el aire, haciendo tintinear las placas de hueso de su pechera.</p>
+<p>—Buscamos al ciudadano Marloc Boosmar —respondió la pistolera con una voz que sonaba como arena arrastrada por un viento seco—. Asuntos oficiales del Ministerio de Recuperación de Eox. Apártense, criaturas vivas.</p>
+<p>Benrey no retrocedió ni un ápice. En su lugar, el emisario ysoki ensanchó su postura, dejando que el resplandor del cristal de aptitud brillara con un fulgor hipnótico en sus sienes. Su voz no tembló; al contrario, adquirió un tono aterradoramente seguro, cargado de una intimidación que rozó la genialidad retórica:</p>
+<p>—Kairos es un asteroide neutral, señorita cadáver. Y en esta estación no se reconoce ninguna jurisdicción de la Flota de los Cuerpos ni de los nigromantes de Eox sin una autorización firmada por el concejo del casino y los Protectores. Si tienen una citación legal, vayan a buscarla a la esclusa de aduanas. Pero si vuelven a poner un dedo huesudo sobre esa puerta, descubrirán que mis amigos aquí presentes tienen una afición especial por desintegrar carroña con cañones de antimateria.</p>
+<p>El eco sordo de unos pasos metálicos resonó a espaldas de los no muertos: dos colosales robots de combate de la seguridad privada de Kairos, armados con cañones de dispersión pesada, doblaron el recodo y se detuvieron en posición de tiro tras ellos.</p>
+<p>La pistolera albina clavó su mirada muerta en Benrey durante varios segundos interminables. Sus dedos acariciaron el tambor de sus revólveres antes de deslizarse hacia atrás con lentitud:</p>
+<p>—Fue una imprudencia presentarme sin la documentación de cortesía, señor Galway. Nos retiraremos... por ahora. Hablaremos en una ocasión más propicia.</p>
+<p>El drow flotante dio media vuelta y ambos emisarios se alejaron con paso fúnebre, escoltados de cerca por los autómatas del casino hasta perderse en el elevador principal.</p>
+<p>—¡Ja! —bramó Zivok desde atrás, soltando una carcajada de júbilo belicoso—. ¡Ese es mi capitán! ¡Hacer huir a los muertos con pura lengua y descaro! ¡Esto merece un brindis, y ahora que tengo un hígado nuevo puedo beber el doble sin que me arda la garganta!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Paños calientes y el aroma del tabaco pirata</h3>
+<p>Tras comprobar que Marloc y Ángela se encontraban a salvo en su apartamento —Ángela incluso se burló de la audacia de los no muertos asegurando que les habría disparado con su rifle de plasma desde la mirilla—, la tripulación decidió darse un breve respiro higiénico antes de continuar hacia el sector de los corsarios.</p>
+<p>En los baños térmicos del complejo, Triel, Ángela y Charlotte E2 disfrutaron de una sesión de vapor desinfectante para desprenderse de las toxinas de Nejeor VI. Para Charlotte, envuelto en un albornoz blanco y con una toalla enrollada sobre sus sensores capilares, la experiencia constituía un milagro sensorial:</p>
+<p>—El agua caliente sobre los receptores térmicos genera una sobrecarga de endorfinas artificiales verdaderamente fascinante —comentó el joven androide, mirándose las manos limpias—. Jamás imaginé que la existencia orgánica dedicara tanto tiempo a lavarse con fragancias de eucalipto.</p>
+<p>—Es lo que nos mantiene cuerdos en esta galaxia podrida, muchacho —rio Triel, ajustándose las correas de su mono de mecánico antes de revisar sus armas.</p>
+<p>Reunidos de nuevo con Benrey y Zivok, la comitiva cruzó la esclusa que comunicaba con el distrito corsario de Kairos.</p>
+<p>La atmósfera allí era el reverso absoluto del orden residencial. El aire estaba impregnado de humo de tabaco negro de Castrovel, olor a alcohol de grano barato y especias cáusticas de la Diáspora. Guirnaldas de luces rojas y amarillas colgaban entre las tuberías industriales, y en cada esquina ondeaban estandartes con el cuervo negro y la espada curva de la diosa <strong>Besmara</strong>. Bandas de piratas de todas las razas cantaban baladas marineras y apostaban fichas de contrabando en tinglados improvisados alrededor del majestuoso buque mercante reconvertido en taberna: <em>El Cuerno Oscuro</em>.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El héroe de la pantalla y la mecha encendida</h3>
+<p>Al empujar las puertas batientes de la taberna, una ola de gritos, risas y brindis los golpeó de lleno. El local funcionaba con la efervescencia de un estadio deportivo: en decenas de pantallas holográficas suspendidas sobre la barra circular, se proyectaban episodios de la famosa teleserie de aventuras que narraba las hazañas del legendario <strong>Keiden Ashton</strong>.</p>
+<p>En las imágenes, un actor humano exageradamente apuesto y engalanado con un sombrero de plumas saltaba de una pasarela en llamas, blandiendo una espada de luz para rescatar a una doncella mientras guiñaba un ojo a la cámara. Decenas de piratas borrachos coreaban las escenas a viva voz, golpeando las jarras de cerveza contra los tablones de las mesas.</p>
+<p>—¡Vaya pedazo de patraña romantizada! —bufó Triel en voz baja, cruzando los brazos mientras contemplaba la ficción sobre su padre con una mezcla de vergüenza ajena e irritación—. Mi viejo era un forajido astuto, no un bailarín de salón con plumas en la cabeza.</p>
+<p>En el extremo norte de la barra, sin embargo, la fiesta se vio interrumpida por una voz bronca y desafinada. Un enorme pirata kasatha, ataviado con un chaleco de cuero tachonado y empuñando cuatro jarras vacías, comenzó a escupir improperios contra las pantallas:</p>
+<p>—¡Ese Keiden Ashton no era más que un cobarde y un bocazas! —vociferó el pirata, haciendo callar a los parroquianos cercanos—. ¡Un ladrón de poca monta que huyó al Maelstrom con el rabo entre las piernas para no dar la cara ante la Reina Pirata! ¡Toda esa serie es basura para idiotas crédulos!</p>
+<p>Triel se detuvo en seco. Sus ojos violetas destellaron con una furia gélida, y antes de que Benrey pudiera frenarla con una advertencia, la semi-drow avanzó directamente hacia el energúmeno, plantándose frente a él a escasos centímetros de su pecho:</p>
+<p>—Lávate esa bocaza inmunda antes de hablar de Keiden Ashton, pedazo de escoria de astillero.</p>
+<p>El kasatha parpadeó, sorprendido por la audacia de la recién llegada, y luego recorrió con la mirada a los tripulantes que la respaldaban:</p>
+<p>—¿Y tú quién demonios te crees que eres, niñita mestiza? ¿Trajiste a tus matones de afuera para amedrentar a los verdaderos corsarios del espacio? ¡Muchachos, parece que tenemos forasteros buscando pelea en nuestra propia casa!</p>
+<p>Decenas de sillas se arrastraron contra el suelo al unísono. La taberna entera se puso en pie.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 10: Todos Somos Keiden</h2>
+<p><em>Adaptado del Episodio 195</em></p>
+<h3 class='subsection-title'>I. El jolgorio de los taburetes voladores</h3>
+<p>La primera botella surcó el aire de <em>El Cuerno Oscuro</em> antes de que el kasatha terminara de cerrar la boca. El proyectil de vidrio espeso estalló contra la viga central de la taberna, bañando a los parroquianos en cerveza tibia y desatando un clamor ensordecedor de insultos, empujones y risotadas guturales.</p>
+<p>En cuestión de segundos, la taberna entera se transformó en un pandemónium de pelea campal.</p>
+<p>—¡A mí nadie me insulta en un bar temático! —chilló Benrey Galway, agachándose a tiempo para esquivar un taburete de caoba que se estrelló contra la mampara detrás de él. El emisario ysoki no buscó una pelea limpia: con un movimiento de pura picardía callejera, simuló tropezar contra un pirata humano corpulento, giró sobre sus talones y le arrojó una fuente de cortezas de cerdo a la cara antes de deslizarse entre las piernas de dos forajidos que intercambiaban puñetazos.</p>
+<p>A pocos pasos, Charlotte E2 ofreció una exhibición de artes marciales que dejó atónitos a cuantos intentaron acorralarlo. El joven androide no utilizó armas de fuego ni letales hojas de plasma; en su lugar, saltó con una ligereza sobrehumana sobre una mesa de juego, esquivó un tajo de machete ladeando el torso un par de centímetros y conectó una patada voladora giratoria directa a la mandíbula del kasatha provocador.</p>
+<p>El coloso de cuatro brazos se desplomó pesadamente sobre un barril de licor que reventó bajo su peso, dejando al pirata fuera de combate con los ojos en blanco:</p>
+<p>—PRECISIÓN CINÉTICA ESTIMADA: NOVECIENTOS NEWTONS DE IMPACTO —calculó Gerty con satisfacción mecánica mientras agarraba a dos corsarios orcos por las pecheras y los estampaba uno contra otro con la soltura de quien sacude dos alfombras de lana—. REDUCCIÓN DE PERSONAL HOSTIL EN PROGRESO.</p>
+<p>Triel, armada con una pesada llave de tuercas neumática que acababa de extraer de su cinturón, desarmó a un marinero que intentaba apuñalar a Zivok por la espalda. El enano, con su vaso de cerveza firmemente sujeto en la mano izquierda, bloqueaba los embates de los borrachos con su escudo enano sin derramar una sola gota del licor recién servido.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La espuma de Brangulya y los ecos del Maelstrom</h3>
+<p>—¡Basta ya, atajo de comadrejas del vacío! —bramó una voz chillona y autoritaria desde el mostrador.</p>
+<p>Detrás de la barra apareció una mujer anciana de tez curtida por las radiaciones solares, con un parche de cuero negro sobre la cuenca vacía de su ojo izquierdo, una sonrisa desdentada y una complexión fornida que imponía respeto inmediato. Era <strong>Brangulya</strong>, la legendaria propietaria de <em>El Cuerno Oscuro</em>.</p>
+<p>Sin dudarlo un segundo, Brangulya descolgó un extintor industrial de espuma química pesada y apretó el percutor. Una densa catarata de espuma blanca y fría inundó la pista de baile y la barra, apagando un amago de incendio y derribando a los piratas más exaltados, que resbalaron cómicamente entre juramentos y carcajadas.</p>
+<p>La música cesó de golpe. Los corsarios comenzaron a recoger sus jarras entre risotadas y palmadas en la espalda, dando por concluida la trifulca con la naturalidad de quien asiste a un trámite rutinario.</p>
+<p>Brangulya soltó el extintor con un golpe sonoro sobre el mostrador y clavó su único ojo sano en Triel, que aún sostenía la llave inglesa con los nudillos blancos:</p>
+<p>—Tienes la misma mirada de loco testarudo que ese bergante de Keiden —dijo la tabernera, sirviéndose un trago de licor negro sin pestañear—. ¿Eres su hija, verdad? Tienes su fuego en la sangre.</p>
+<p>Triel bajó el brazo, sorprendida por la afirmación:</p>
+<p>—¿Conociste a mi padre?</p>
+<p>—Navegué con él durante tres campañas en los confines de la Deriva —respondió Brangulya, bajando la voz con una seriedad repentina—. La gente en estos bares canta tonterías sobre capas de seda y espadas de luz, pero la verdad del Maelstrom no tiene nada de romántica. Ese vórtice es un infierno de mareas temporales rotas. Recuerdo saltos en los que creíamos haber estado fuera del tiempo durante meses y, al salir, apenas habían pasado dos minutos en los relojes de Absalom. Y en otras ocasiones, un simple parpadeo nos costaba semanas enteras de tiempo real. Keiden estaba obsesionado con ese lugar... y con el motor de Besmara.</p>
+<p>—¿Crees que sigue con vida allí dentro? —inquirió Triel con un nudo en la garganta.</p>
+<p>Brangulya sonrió con una mueca cómplice, mostrando sus encías desdentadas:</p>
+<p>—Si hay un hombre en todo el cosmos capaz de sobrevivir a las corrientes de un dios y burlarse del tiempo, ese es Keiden Ashton, muchacha. Pero si vas a entrar a buscarlo, más te vale llevar un barco que no se desarme con el primer suspiro del torbellino.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El consejo de guerra en la balconada</h3>
+<p>Mientras Benrey ayudaba a Charlotte a limpiarse la espuma química de los hombros y Zivok terminaba su jarra de cerveza con un sonoro chasquido de lengua, Triel alzó la vista hacia el entresuelo superior de la taberna.</p>
+<p>En una mesa apartada del bullicio general, resguardada tras una celosía de privacidad holográfica, se encontraba <strong>León</strong>. El joven líder de los Protectores vestía su uniforme impecable de oficial, acompañado por un comandante de los <strong>Caballeros de Golarion</strong> que vestía una armadura ceremonial dorada con el sol alado de Iomedae.</p>
+<p>Frente a ellos, desplegados sobre la superficie de la mesa, flotaban varios holomapas tridimensionales de los sectores periféricos de la Deriva, señalando vectores de dispersión de flotas y rutas de interceptación de emergencia.</p>
+<p>León alzó la cabeza en ese preciso instante. Sus ojos se cruzaron con los de Triel a través de la barandilla, y el oficial asintió levemente con la cabeza antes de señalar la puerta de la habitación contigua.</p>
+<p>—Es hora de hablar de negocios oficiales —dijo Triel a sus camaradas, guardando la llave inglesa en su cinto—. León nos espera arriba. Veamos qué cartas tiene preparadas el gobierno de los Mundos del Pacto para esta función.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 11: Dos Hombres, un Camino</h2>
+<p><em>Adaptado del Episodio 196</em></p>
+<h3 class='subsection-title'>I. Secretos en la suite doscientos veintitrés</h3>
+<p>La habitación doscientos veintitrés de <em>El Cuerno Oscuro</em> ofrecía un remanso de sobriedad en medio de la embriaguez general de la taberna. León cerró la puerta blindada a espaldas de Triel y Benrey, activando un distorsionador acústico de los Protectores que zumbó suavemente sobre la jamba.</p>
+<p>El joven comandante se aflojó el cuello de su guerrera y tomó asiento junto a una consola de datos portátiles, frotándose los ojos con evidente fatiga:</p>
+<p>—Me alegra verlos enteros, muchachos. Las noticias que llegaron de Nejeor VI eran fragmentarias y aterradoras: nubes tóxicas, cultistas del Devorador y una civilización perdida que parecía sacada de una pesadilla arqueológica.</p>
+<p>—Y nos quedamos cortos —respondió Benrey, trepando a una silla para apoyar los codos en la mesa—. Tuvimos que reventar a un solariano dorado de dos metros y medio y ver cómo Null-9 se escapaba por un portal estelar antes de volarlo por los aires. Pero trajimos lo prometido: los esquemas de La Forja y la confirmación de que el Degenerador Estelar está sellado en la dimensión de los Doce Soles.</p>
+<p>León asintió con gravedad, pero su semblante no se relajó:</p>
+<p>—La situación aquí en Kairos es insostenible. Los Protectores no tenemos mandato legal para desplegar divisiones de combate fuera de las fronteras de los Mundos del Pacto. Si el Directorio de Absalom descubre que tengo dos flotillas fondeadas en un asteroide corsario, me relevarán del mando antes de que termine la semana. Los Caballeros de Golarion están ansiosos por lanzar una cruzada abierta contra la Flota de los Cuerpos, pero sin las coordenadas exactas de la Deriva, cualquier incursión sería una masacre a ciegas.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El filtro de Istamak y el festejo de los pañales</h3>
+<p>Triel extrajo un cristal de datos de su cinto y lo sostuvo en la palma de la mano. Sin embargo, antes de insertarlo en la ranura de la consola de León, clavó su mirada en el oficial:</p>
+<p>—En este cristal está todo lo que los Protectores necesitan saber sobre la tecnología de armamento kishalee y los vectores energéticos que utiliza el Culto del Devorador. Pero hemos tomado una decisión editorial, León. Hemos purgado de este registro las coordenadas de las aldeas de Istamak y la ubicación exacta de los clanes de la profetisa Tzayl.</p>
+<p>León arqueó las cejas con sorpresa:</p>
+<p>—Triel, el alto mando exige un informe exhaustivo de todos los recursos biológicos y tecnológicos del planeta...</p>
+<p>—Esa gente sobrevivió durante milenios al colapso de su imperio sin que nadie viniera a molestarlos —intervino Triel con firmeza innegociable—. Si entrego los datos completos, las corporaciones mineras de Apostae y los consorcios farmacéuticos de Verces convertirán sus bosques flotantes en una cantera a cielo abierto. No voy a permitir que la salvación de la galaxia se pague con la esclavitud de la tribu que nos ayudó a escapar. Lo tomas como está, o me guardo el cristal en el bolsillo.</p>
+<p>León contempló la determinación en los ojos de la semi-drow durante unos instantes. Finalmente, una leve sonrisa de respeto curvó sus labios:</p>
+<p>—A veces olvido que ustedes no son soldados del Pacto, sino gente con principios propios. Trato hecho, Triel. La información de Istamak permanecerá clasificada como zona muerta bajo mi responsabilidad.</p>
+<p>La tensión se disipó como el vapor. Benrey aprovechó la distensión para dar un golpe amistoso en la mesa:</p>
+<p>—Cambiando de tema a asuntos verdaderamente importantes: ¿ya compraste tu regalo para el festejo del bebé de Marloc y Ángela? La lista de invitados comenzó en dieciséis y ya vamos por veinticuatro. Si no te das prisa, te tocará regalar pañales de repuesto para todo un año.</p>
+<p>León soltó una carcajada franca, la primera en muchos días:</p>
+<p>—He conseguido una cuna térmica militar de campaña. Si sobrevive al entrenamiento de Ángela y a los berrinches del hijo de Marloc, servirá para cualquier conflicto bélico de la próxima década.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El rumbo hacia el mundo de agua</h3>
+<p>A.Xel y Charlotte E2 aguardaban en el rellano del corredor. Al salir de la suite, la operativa androide desplegó un mapa estelar en su comunicador de muñeca, señalando un sector periférico aislado en los límites del espacio conocido:</p>
+<p>—León tiene sus deberes con el Pacto, pero nosotros tenemos un compromiso pendiente con el linaje de Charlotte —indicó A.Xel—. Los bancos de memoria recuperados en La Forja señalan que el santuario donde Éclair fue instruido se encuentra en el sistema Daline: un planeta acuático catalogado como <strong>Daline 3</strong>.</p>
+<p>Charlotte alzó la vista, con un destello de emoción en sus sensores:</p>
+<p>—Ese es el lugar donde mi chasis fue configurado. Allí descansan los registros de las órdenes monásticas que intentaron comprender el origen del alma de nuestra especie antes de la guerra con el culto. Si queremos calibrar los sistemas de la <em>Estrella Errante</em> para soportar las mareas del Maelstrom, necesitamos las matrices que solo se conservan en ese templo insular.</p>
+<p>Triel consultó los cálculos de salto hiperespacial en su tableta:</p>
+<p>—Daline 3 se encuentra a cuatro días de navegación en la Deriva si forzamos los posquemadores kishalee. Si partimos ahora mismo, podremos ir, obtener lo que Charlotte necesita y regresar a Kairos justo a tiempo para la fiesta de Ángela y la activación final de la Piedra Corazón.</p>
+<p>—Pues no perdamos un minuto más en este bar —decretó Benrey, ajustándose la gorra con brío—. ¡A la nave, atómicos! ¡El capitán tiene ganas de ver un poco de playa antes de meterse en la boca del dragón!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 12: Mamma Mia</h2>
+<p><em>Adaptado del Episodio 197</em></p>
+<h3 class='subsection-title'>I. Las olas de Daline y los pies en la arena</h3>
+<p>La transición desde la Deriva hacia el sistema Daline fue tan suave como un suspiro en el vacío. Frente al visor principal de la <em>Estrella Errante</em> apareció un mundo deslumbrante cubierto casi en su totalidad por aguas de un azul zafiro profundo. <strong>Daline 3</strong> era un planeta oceánico solitario, cuya superficie solo se veía interrumpida por un pequeño archipiélago de tres islas montañosas cubiertas de una exuberante vegetación tropical.</p>
+<p>—Condiciones atmosféricas óptimas para vida orgánica tipo respiración estándar —informó Shirka a través del intercomunicador—. Sin embargo, se detecta un campo de amortiguación electromagnética que perturba las transmisiones de largo alcance en las capas bajas.</p>
+<p>A.Xel 42 tomó los controles manuales con pulso de cirujano, guiando la nave en un descenso majestuoso sobre las crestas de olas gigantescas hasta posar el tren de aterrizaje sobre la arena blanca de una ensenada protegida por arrecifes de coral.</p>
+<p>Cuando la rampa de desembarque se abrió, el aire marino, cálido y cargado de salitre, envolvió a los tripulantes. Charlotte E2 fue el primero en descender. El joven monje se descalzó las botas de viaje, plantando sus pies metálicos directamente sobre la arena tibia. Los granos de sílice crujieron suavemente bajo sus plantas mientras el joven cerraba los ojos y respiraba la brisa con una devoción casi mística:</p>
+<p>—Siempre he conservado el recuerdo de este rincón en mis bancos de memoria iniciales —susurró Charlotte conmovido—. Es mi lugar favorito en todo el universo conocido.</p>
+<p>Benrey Galway alzó los prismáticos de su visor, observando las copas de los árboles que bordeaban la playa:</p>
+<p>—Muy poético, muchacho, pero no bajemos la guardia. Entre esos helechos gigantes hay al menos una docena de torretas de defensa pesada kishalee apuntándonos directamente a la nuca.</p>
+<p>—No dispararán —aseguró Charlotte con voz serena—. Este es un santuario para aquellos que buscan la paz interior.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La estatua del primer número</h3>
+<p>Desde la espesura de la jungla emergió una figura esbelta. Era una mujer androide de facciones armoniosas y piel de porcelana surcada por líneas de circuito de un dorado tenue. Su cabello rubio caía en largas ondas hasta la cintura, y sus ojos irradiaban una serenidad profunda mientras contemplaba a los recién llegados:</p>
+<p>—Sean bienvenidos al Santuario de Daline —saludó la mujer con una leve inclinación de cabeza—. Mi nombre es Altea. Sabíamos que el linaje de los heraldos regresaría cuando las estrellas comenzaran a apagarse.</p>
+<p>Altea guio a la comitiva por un sendero de piedra volcánica hasta un domo de basalto cubierto de lianas floridas. Justo al lado de la entrada, medio oculta bajo el manto vegetal, se erigía una colosal estatua tallada en granito blanco que dejó a toda la tripulación sin respiración.</p>
+<p>La escultura representaba a una figura androide de porte solemne, empuñando una tableta de datos en la diestra con la misma postura serena y analítica que todos conocían a la perfección.</p>
+<p>Era el rostro idéntico de <strong>A.Xel</strong>.</p>
+<p>—Por las barbas de Moradín... —masculló Zivok, frotándose los ojos—. A.Xel, ¿tienes una gemela de piedra en un planeta salvaje y se te olvidó mencionarlo?</p>
+<p>Triel se acercó a la base del monumento, apartando el musgo que cubría una placa de aleación conmemorativa:</p>
+<p>—Aquí no dice A.Xel cuarenta y dos —leyó la semi-drow con voz temblorosa—. Dice... <strong>A1</strong>.</p>
+<p>A.Xel 42 dio un paso al frente, posando sus dedos enguantados sobre la piedra fría del monumento. Un zumbido de resonancia electromagnética recorrió los circuitos de sus sienes, como si una biblioteca entera de ecos sepultados despertara en su procesador central:</p>
+<p>—No es una gemela, Zivok. Es la primera. El origen de mi chasis.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El misterio de las cuarenta y dos vidas</h3>
+<p>Altea accionó un mecanismo en la puerta del domo, revelando un elevador circular que descendía hacia las profundidades de la montaña:</p>
+<p>—Vuestro chasis ha existido en esta galaxia durante más de seiscientos años, A.Xel —reveló Altea mientras la plataforma descendía hacia los archivos subterráneos—. Vuestros primeros constructores se perdieron más allá de la bruma de la Brecha. Algunos entre nosotros creen que fuisteis forjada por la mismísima deidad Triune en el amanecer de la red de la Deriva; otros sostienen que pertenecéis a un proyecto aún más antiguo, diseñado para custodiar las memorias del cosmos.</p>
+<p>—¿Y qué significa ser la número cuarenta y dos? —preguntó A.Xel, cuya voz habitualmente gélida dejaba entrever un atisbo de vulnerabilidad existencial.</p>
+<p>—Significa que vuestro cuerpo ha sobrevivido a cuarenta y dos ciclos de renovación celular —explicó la guardiana—. La nanotecnología integrada en vuestra estructura ósea es capaz de reconstruir vuestro chasis orgánico y mecánico tras cualquier trauma catastrófico, siempre que no sea desintegrado por completo. Sin embargo... vuestro espíritu no sobrevive a ese proceso. Cada vez que vuestro cuerpo renace, una nueva alma toma posesión del receptáculo, heredando ecos fragmentarios pero naciendo como una conciencia virgen y libre.</p>
+<p>En la gran sala subterránea, rodeada por cilindros de almacenamiento de datos y jardines hidropónicos, Altea señaló un holograma que representaba a una figura femenina de mirada atormentada:</p>
+<p>—Hace siglos, otra de vuestro linaje, Ashera, vino a este templo buscando la ubicación de La Forja. Mi madre, Astarot, intentó advertirle que el poder sin sabiduría solo engendra tiranía. Pero Ashera no pudo soportar la frustración de sus limitaciones y partió hacia el vacío... hasta que su alma se corrompió y renació bajo la máscara siniestra de Null-9.</p>
+<p>Charlotte tomó la mano de A.Xel con infinita delicadeza:</p>
+<p>—Usted no es Null-9, maestra. Null-9 eligió el camino de la aniquilación para llenar su vacío. Usted eligió protegernos a nosotros.</p>
+<p>A.Xel contempló a sus compañeros: Benrey, Triel, Zivok y Charlotte. En sus fotoreceptores brilló una chispa de convicción inquebrantable:</p>
+<p>—Mi cuerpo podrá haber pertenecido a cuarenta y una vidas anteriores. Pero esta vida, la de A.Xel 42, pertenece a esta tripulación.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 13: El Episodio de la Playa</h2>
+<p><em>Adaptado del Episodio 198</em></p>
+<h3 class='subsection-title'>I. Huellas en la orilla del mar</h3>
+<p>La estancia en Daline 3 brindó a los tripulantes de la <em>Estrella Errante</em> un remanso de paz casi inverosímil tras meses de combates en túneles subterráneos y estaciones espaciales. Bajo el sol radiante del mediodía oceánico, el estruendo de los cañones de plasma fue reemplazado por el rumor constante y relajante de las olas rompiendo contra el arrecife de coral.</p>
+<p>A lo largo de la playa de arena blanquísima, Charlotte E2 y A.Xel 42 caminaban descalzos en la orilla, dejando hileras paralelas de pisadas que la marea borraba con delicada insistencia. El joven monje contemplaba el horizonte infinito de agua con una expresión de profunda serenidad:</p>
+<p>—Durante mucho tiempo creí que mi vida era una deuda perpetua contraída con Éclair y con aquellos que ensamblaron mis placas —confesó Charlotte, deteniéndose para observar un banco de peces plateados que saltaban sobre el agua—. Pensaba que no tenía derecho a elegir mi propio destino sin su aprobación.</p>
+<p>A.Xel se detuvo a su lado, dejando que la espuma tibia del mar acariciara sus tobillos de aleación:</p>
+<p>—Éclair te dio el impulso inicial para despertar, pero lo que hagas con esa conciencia te pertenece a ti, Charlotte. Las deudas con los maestros terminan en el instante en que aprendes a pensar por ti mismo. Cumpliste con todo lo que la justicia exigía en La Forja. Ya no le debes nada a nadie en esta galaxia.</p>
+<p>Charlotte sonrió, y una lágrima de refrigerante puro resbaló por su mejilla metálica:</p>
+<p>—Entonces... a partir de este momento, juzgaré cuál es el camino que deseo seguir. Y seré yo quien decida por qué causa vale la pena luchar.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Bocetos en la arena y días de tregua</h3>
+<p>A la sombra de las palmeras gigantes que bordeaban la ensenada, Benrey Galway yacía recostado sobre una toalla de campaña, con unas gafas de sol estrafalarias encaramadas sobre el hocico y una bebida de frutas tropicales en la mano. Zivok Jard, sentado sobre una roca con los pantalones remangados y sus pies enanos sumergidos en una poza de marea, tallaba pacientemente un trozo de madera flotante con su navaja de campo.</p>
+<p>—¿Saben una cosa? —comentó Benrey con un suspiro de beatífica pereza—. No recuerdo cuándo fue la última vez que pasé tres días seguidos sin que alguien intentara hacerme un agujero en la cabeza con un rifle láser. Podría acostumbrarme a esta vida de terrateniente insular.</p>
+<p>Triel, sentada con las piernas cruzadas mientras dibujaba esquemas en su libreta de campo, soltó una risita burlona:</p>
+<p>—No aguantarías ni una semana sin el zumbido de los motores, Benrey. Al tercer día estarías intentando instalarle un cañón de plasma a los cocoteros para ver si disparan más rápido.</p>
+<p>—¡Calumnias, ingeniera, puras calumnias de taller! —protestó el ysoki, agitando su pajita en el aire—. Aunque admito que este lugar tiene algo mágico. Ver a A.Xel sonreír en la orilla... casi hace olvidar que hay una superarma esperando para comerse el sol.</p>
+<p>Durante las cuarenta y ocho horas siguientes, el equipo completó la carga de las matrices de navegación kishalee facilitadas por el santuario de Altea. Los algoritmos de calibración para la Deriva profunda quedaron integrados en los bancos de datos de Shirka, garantizando que el fuselaje de la <em>Estrella Errante</em> pudiera resistir las brutales presiones gravitatorias del Maelstrom.</p>
+<p>La tregua había concluido. Con una reverencia de agradecimiento a los guardianes del templo, la nave despegó de las aguas de Daline 3, dejando atrás el paraíso oceánico para regresar a las turbulencias de la guerra.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La emboscada del Fuego en el Cielo</h3>
+<p>El salto hiperespacial de retorno duró cinco jornadas a través de los corredores púrpuras de la Deriva. Cuando los motores de descompresión devolvieron a la <em>Estrella Errante</em> al espacio convencional, los instrumentos señalaron las coordenadas de la boya de navegación perimetral cercana al gigante gaseoso Nejeor VI.</p>
+<p>Sin embargo, apenas se estabilizaron los escudos de vacío, una sirena de alerta roja desgarró el silencio del puente de mando.</p>
+<p>—¡ANOMALÍA TÁCTICA DETECTADA! —bramó Shirka por los altavoces con una urgencia inusitada—. ¡SEÑAL DE BLOQUEO DE TIRO MÚLTIPLE EN EL SECTOR CUATRO!</p>
+<p>Detrás del cinturón de asteroides que orbitaba la boya estelar emergió una mole de guerra aterradora. Era un crucero de asalto pesado de aleación carmesí y dorada, cuya proa reproducía las fauces abiertas de un dragón escupiendo fuego. Sus baterías de riel estaban desplegadas y apuntaban en línea recta contra el puente de la nave de los héroes.</p>
+<p>En la pantalla holográfica de comunicaciones se materializó el rostro escamoso y feroz de un comandante dragonkin, flanqueado por oficiales elfos embozados con máscaras ceremoniales de combate:</p>
+<p>—Atención, nave no identificada. Habla el comandante Samanis de la <strong>Legión del Fuego en el Cielo</strong>. Están en posesión ilegal de una unidad de inteligencia táctica y un fuselaje propiedad inalienable de nuestra armada. Entreguen de inmediato a la entidad Shirka y ríndanse sin condiciones, o serán reducidos a polvo estelar en el acto.</p>
+<p>Benrey Galway se levantó del asiento de copiloto, sus ojos centelleando con una chispa de viejo resentimiento militar:</p>
+<p>—Samanis... maldito lagarto engreído. Parece que mi antiguo regimiento vino a cobrarse mi baja del servicio.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 14: Láser y Dragón</h2>
+<p><em>Adaptado del Episodio 199</em></p>
+<h3 class='subsection-title'>I. La voz del fuselaje y el código del centurión</h3>
+<p>La amenaza del crucero de la Legión del Fuego en el Cielo congeló el puente de la <em>Estrella Errante</em>. En los monitores de tiro, las baterías de riel de la nave carmesí estaban armadas y calibradas para seccionar el casco de los héroes en dos mitades limpias.</p>
+<p>Sin embargo, antes de que Benrey pudiera responder a la transmisión de Samanis, la voz de <strong>Shirka</strong> resonó en todas las frecuencias con una fuerza vibrante y desafiante que jamás habían escuchado en la inteligencia artificial:</p>
+<p>—Negativo, comandante Samanis —proclamó la nave con una dignidad aplastante—. Yo no soy una pieza de artillería confiscada ni una propiedad sujeta a las ordenanzas de vuestra flota. Mis redes neurales han evolucionado junto a esta tripulación. Mis placas, mis propulsores y mis reactores son ahora mi propio cuerpo. Y elijo libremente navegar bajo las órdenes del capitán Galway.</p>
+<p>En la pantalla, el rostro escamoso de Samanis se contrajo con un siseo de cólera herida:</p>
+<p>—Una máquina corrompida por el sentimentalismo de un desertor. Galway, te concedo sesenta segundos para rendirte antes de que convirtamos tu chatarra en escoria fundida.</p>
+<p>Benrey Galway se acomodó la gorra militar con una lentitud calculada, enderezó la espalda y activó la frecuencia de mando reservada a los oficiales veteranos de la Legión. En sus sienes, el cristal de aptitud brilló con una intensidad deslumbrante mientras el ysoki dictaba los códigos de protocolo con una autoridad marcial implacable:</p>
+<p>—Habla el centurión Benrey Galway, matrícula de honor serie Gamma-Cuatro. Invoco el artículo doce de los Fueros del Fuego en el Cielo: el derecho a juicio por armas en el puente de honor. Si tienes el coraje de reclamar esta nave, Samanis, abre las compuertas de tu hangar principal y resuelve esto cara a cara como un verdadero comandante, o pasarás a la historia de la armada como un cobarde que temía a un roedor con uniforme.</p>
+<p>El silencio al otro lado de la línea fue absoluto. Durante diez segundos de agonía, la señal parpadeó hasta que la voz de Samanis respondió con un gruñido seco:</p>
+<p>—Aproximación concedida al hangar primario, Galway. Prepárate para morir bajo la ley del dragón.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Fuego cruzado en el hangar de asalto</h3>
+<p>El aterrizaje en la inmensa bahía de carga del crucero de guerra fue como internarse en el vientre de un volcán de metal. Decenas de legionarios dragonkin con corazas rojas, armados con lanzallamas de plasma y alabardas cinéticas, flanqueaban la pista de aterrizaje junto a pelotones de tiradores elfos enmascarados.</p>
+<p>Apenas descendió la rampa de la <em>Estrella Errante</em>, el combate estalló sin preámbulos.</p>
+<p>—¡Carga de asedio! —rugió Zivok Jard, cargando como un proyectil viviente al frente de la formación. El enano no esperó a que los legionarios formaran su falange: descargó su martillo de vacío contra el contenedor de suministros más cercano, catapultando cientos de kilos de aleación contra la primera línea de dragonkin con un estruendo ensordecedor.</p>
+<p>Desde la retaguardia, Triel y Gerty tomaron posición de cobertura tras una hilera de carretillas industriales:</p>
+<p>—COBERTURA BALÍSTICA ESTABLECIDA —informó el meca, abriendo fuego con sus cañones de repulsión para dispersar a los arqueros elfos que intentaban flanquear por las pasarelas superiores—. BLINDAJE DE LA TRIPULACIÓN PRIORITARIO.</p>
+<p>Charlotte E2 se movió entre los disparos con la fluidez del agua. El joven monje androide desarmaba a los soldados enemigos con llaves circulares y golpes de palma abierta en sus articulaciones, neutralizando a tres gigantes escamosos sin quitarles la vida, fiel al código de honor adquirido en Daline 3.</p>
+<p>A.Xel 42 eliminaba las miras ópticas de los francotiradores con disparos quirúrgicos de sus pistolas gemelas, despejando el camino para que Benrey avanzara hacia el centro del hangar, donde el comandante Samanis lo aguardaba empuñando una descomunal espada de energía de doble filo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El orgullo de la tripulación y la capitulación del dragón</h3>
+<p>—Mírate, Galway —escupió Samanis, descargando un tajo horizontal que el ysoki apenas logró esquivar rodando bajo una compuerta—. El gran héroe de la Diáspora reducido a comandante de una banda de piratas, lisiados y autómatas descarriados. No eres más que una rata escondida en la sombra de los verdaderos guerreros.</p>
+<p>Samanis alzó la hoja para empalar al pequeño emisario contra el pavimento. Pero antes de que el acero descendiera, un disparo de sobrecarga sónica estalló contra la hombrera del dragonkin, obligándolo a hincar una rodilla en el suelo con un rugido de dolor.</p>
+<p>Triel Istrav avanzó hacia el centro del hangar, con el cañón humeante de su rifle apuntando directamente a los ojos del comandante. En la mirada de la semi-drow no había miedo, solo una lealtad feroz que estremeció a cuantos la escucharon:</p>
+<p>—Benrey Galway no siempre fue una persona que tuviera mi confianza, comandante —declaró Triel con una voz firme que resonó en todo el hangar—. Al principio no era más que un bribón fanfarrón que buscaba salvar su propio pellejo. Pero en las peores batallas de esta galaxia, en las ruinas de Nejeor y en las trampas del Culto del Devorador, se ha ganado cada micra de nuestro respeto. Benrey es nuestro capitán. Y Shirka decidió quedarse a su lado porque él la trata como a un ser con alma, no como una máquina de matar. ¡Si quieres quitarle este barco, tendrás que pasar por encima de todos nosotros!</p>
+<p>Zivok plantó su martillo junto a Triel; A.Xel encañonó a los oficiales de la balconada; Gerty alzó sus cuatro brazos en postura de demolición y Charlotte se interpuso ante la guardia de corps.</p>
+<p>Samanis contempló la determinación inquebrantable de la tripulación. Miró las heridas de sus hombres, la entereza del pequeño ysoki que lo encañonaba con su pistola láser a escasos centímetros de la garganta y, finalmente, exhaló una densa bocanada de humo por las fauces.</p>
+<p>Con un chasquido metálico, el comandante arrojó su espada al suelo:</p>
+<p>—Juicio por armas concluido. La Legión reconoce la autonomía de la unidad Shirka y la baja honorable del centurión Galway. Retiren a sus tropas.</p>
+<p>Benrey guardó su arma con un giro elegante, guiñándole un ojo a Triel con una sonrisa pícara:</p>
+<p>—Nunca dudé de tus habilidades diplomáticas, ingeniera. Ahora salgamos de este cuartel volante: ¡tenemos una fiesta de pañales a la que llegar antes de que se enfríen los pasteles!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 15: De un Monstruo a Otro</h2>
+<p><em>Adaptado del Episodio 200</em></p>
+<h3 class='subsection-title'>I. El salón de los pañales y el coche flotante</h3>
+<p>El salón privado del sector mirador de Kairos estaba irreconocible. Guirnaldas de colores pasteles colgaban entre las vigas industriales, y una mesa monumental repleta de aperitivos de Castrovel, dulces de Absalom y fuentes de ponche no alcohólico ocupaba el centro de la estancia. Tras sortear el bloqueo de la Legión y regresar con la nave intacta, los tripulantes de la <em>Estrella Errante</em> se sumergieron de lleno en la celebración más insólita de sus carreras: el festejo prenatal por el futuro hijo de Marloc Boosmar y Ángela.</p>
+<p>El murmullo de felicitaciones y risas era constante. Rim Rey, Gazit, Yolmar, el anciano Mogrim y el mismísimo comandante León compartían anécdotas en torno a una pila monumental de regalos empaquetados en papel holográfico.</p>
+<p>—¡Abran paso al mejor tío de este cuadrante estelar! —anunció Benrey Galway a voz en cuello, entrando al salón mientras empujaba con orgullo un reluciente cochecito infantil flotante de aleación esmaltada en blanco y verde mint. El vehículo disponía de amortiguación repulsora antigravitatoria de tres ejes, cúpula de bioplástico retráctil y pequeños portavasos climatizados—. Cinco créditos bien invertidos en los talleres del muelle comercial. Si este carricoche resiste las sacudidas de un aterrizaje forzoso en la Deriva, vuestro cachorro dormirá como un rey en cualquier rincón del universo.</p>
+<p>Ángela, radiante en su octavo mes de gestación y vestida con una elegante túnica azul marino, soltó una carcajada encantada y acarició la tapicería acolchada:</p>
+<p>—Por fin alguien regala algo verdaderamente práctico, Benrey. Si vieras lo que trajo León: ¡un mameluco confeccionado con tela ignífuga de uniforme militar de la Legión! A este paso el niño va a nacer con rango de subteniente y fusil reglamentario.</p>
+<p>Marloc sonrió con timidez mientras destapaba otro paquete. Entre las ofrendas destacaba un diminuto vial de cristal que Triel y Charlotte habían preparado con ayuda de las esencias botánicas de Daline 3: un amuleto bioprotector tradicional diseñado para fortalecer el sistema inmunológico del recién nacido frente a las radiaciones de la navegación espacial.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Lágrimas en la penumbra y el precio de las vidas</h3>
+<p>Sin embargo, detrás del jolgorio y las bromas de trinchera, la sombra de las tragedias pasadas se negaba a abandonar el salón.</p>
+<p>En un rincón apartado junto a los ventanales que daban al abismo estrellado, Olivia permanecía de pie en silencio, sosteniendo una copa con los nudillos tensos. Sus ojos, enrojecidos y húmedos por lágrimas que pugnaban por brotar, contemplaban la alegría de la pareja con una mezcla desgarradora de ternura y tormento.</p>
+<p>Zivok Jard se acercó con paso cauteloso, dejando a un lado su jarra de cerveza para apoyarse contra la barandilla junto a ella:</p>
+<p>—Es duro ver sonreír a los vivos cuando la mente no deja de contar a los que se quedaron atrás, ¿verdad, muchacha?</p>
+<p>Olivia tragó saliva, secándose una lágrima furtiva antes de que rodara por su mejilla:</p>
+<p>—No puedo evitar pensar en Marlene, Zivok. A veces siento que el universo tiene una contabilidad cruel y retorcida: una vida por una vida. Para que Ángela y este bebé puedan estar aquí hoy, celebrando entre risas... mi hija tuvo que pagar con su sangre en Absalón antes de que todo esto empezara. Sé lo que dicen de la amnesia de Marloc, de sus viajes entre dimensiones... y me aterra pensar qué ocurrió realmente en los laboratorios del Arcanamirium. Me alegro por ellos con toda mi alma, de verdad... pero me duele tanto el corazón que apenas puedo respirar en esta habitación.</p>
+<p>Zivok posó una pesada mano enguantada sobre el hombro de la mujer, con la serena pesadumbre de quien ha enterrado a demasiados camaradas en las zanjas de la Diáspora:</p>
+<p>—Nadie sale indemne de esta galaxia, Olivia. Pero si dejamos de celebrar a los que nacen solo porque otros murieron, la oscuridad ya habrá ganado la batalla. Llora por los ausentes todo lo que necesites... pero no dejes de brindar por la vida que viene en camino. Es por esa criatura por quien aún empuñamos las armas.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. De un monstruo a otro</h3>
+<p>Más tarde, cuando el salón comenzó a despejarse y el murmullo de la fiesta derivó en una calma íntima, una figura elegante de porte severo se aproximó a la mesa donde Marloc descansaba. Era el profesor <strong>Ambrose Boosmar</strong>, impecable en su traje académico de corte aristocrático. Sin mediar palabra, tomó una botella de licor envejecido de la bandeja de un dron de servicio y sirvió dos copas de cristal labrado, deslizando una de ellas hacia el tecnomante.</p>
+<p>—Señor... tengo meses de no probar el alcohol —dijo Marloc en voz baja, mirando el líquido ambarino sin tocar el vaso.</p>
+<p>—Acompañe a un hombre que perdió a su hija —replicó Ambrose con voz templada pero cargada de una gélida contundencia—. Es terrible pensar que usted y yo somos tan parecidos. Sé lo que sospecha Olivia... y bajo otras circunstancias jamás le perdonaría lo ocurrido con Marlene. Pero usted y yo compartimos una misma naturaleza: somos criaturas vacías sin la gente que amamos. Haríamos arder mundos enteros por ellas. Dígame, Marloc... ¿no cree usted que soy un monstruo?</p>
+<p>Marloc alzó la mirada, sintiendo el peso de los procesadores arcanos de su brazo cibernético vibrar al compás de sus latidos:</p>
+<p>—No podría considerarlo un monstruo, profesor... porque comparto esa misma esencia con usted. Sé de lo que sería capaz por proteger a Ángela y a la hija que llevo esperando toda una vida.</p>
+<p>Ambrose asintió lentamente, alzando su copa:</p>
+<p>—Entonces, de monstruo a monstruo: solo deténgame cuando realmente lo considere necesario. Sabiendo lo que usted es, yo no podría detenerlo. Solo estoy agradecido de que me haya dejado a Olivia. Cuide de su hija, muchacho. Y no permita que nada en esta galaxia se la arrebate.</p>
+<p>El anciano erudito apuró su trago y se alejó con paso pausado. Marloc se quedó inmóvil, contemplando el vaso a medio llenar mientras el pavor de sus lagunas de memoria volvía a agitarse en su pecho: el enigma de su llegada desde otra dimensión, el borrado de sus propios recuerdos y la incertidumbre de hasta dónde había sido capaz de llegar en el pasado.</p>
+<p>Ángela se acercó por detrás, posando una mano cálida sobre su hombro mientras con la otra acariciaba su vientre:</p>
+<p>—El final es el inicio y el inicio es el final, Marloc. Todos tenemos derecho a volver a empezar. No mires atrás: nuestro futuro está aquí.</p>
+<p>En ese instante, Triel, Benrey y A.Xel —los tres compañeros con quienes Marloc había comenzado la travesía en la Estación Absalón desde el primer día— salieron a la terraza y se reunieron en torno a la pareja. Triel le estrechó el brazo metálico con una sonrisa cómplice:</p>
+<p>—Empezamos siendo cuatro desconocidos en un desayuno desastroso en Absalón, Marloc. Nos cuidamos las espaldas en la Roca del Drift, en Castrovel y en Apostae. Ahora te toca a ti cuidar de este hogar. Nosotros nos aseguraremos de que esa niña crezca en una galaxia libre de cultistas y destructores.</p>
+<p>Benrey alzó su copa al cielo estrellado con una sonrisa radiante:</p>
+<p>—¡Por la nueva sobrina de la <em>Estrella Errante</em>! Y que los dioses ayuden a quien intente meterse con la familia Boosmar mientras tengamos munición y combustible en los motores.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 16: El As Bajo la Manga</h2>
+<p><em>Adaptado del Episodio 201</em></p>
+<h3 class='subsection-title'>I. La hija de la improbabilidad</h3>
+<p>En la cámara del núcleo central del asteroide Kairos, el zumbido de los servidores primarios resonaba con la gravedad de un templo cósmico. Filamentos de luz de neón azul y violeta descendían desde el techo abovedado, convergiendo sobre el pedestal donde la matriz de la inteligencia artificial aguardaba la conclusión de su ciclo.</p>
+<p>Triel Istrav avanzó hacia la consola maestra portando en sus manos la <strong>Piedra Corazón</strong>: la gema llave extraída de las profundidades de La Forja, que palpitaba con un fuego esmeralda constante. A su lado, el meca Gerty marchaba en silencio, con sus ópticas fijas en la silueta de la semi-drow.</p>
+<p>El holograma geométrico de <strong>Kairos</strong> descendió desde la cúpula, sus líneas de luz vibrando con una expectación solemne:</p>
+<p>—Llegó la hora de la convergencia, Triel Istrav. ¿Habéis encontrado la respuesta a la pregunta del cosmos? ¿Quién es usted ante el vacío?</p>
+<p>Triel respiró hondo. La incertidumbre que durante semanas había pesado sobre sus hombros se desvaneció, reemplazada por una serenidad cristalina y madura:</p>
+<p>—He llegado a entender que sí: soy una anomalía. Una hija del caos del universo y de la más pura improbabilidad. Una mestiza rechazada por los puristas de Apostae y ajena a los clanes humanos de mi padre. Pero he comprendido que esa carencia es mi mayor fortaleza: al engendrarme sin un lugar predeterminado al cual pertenecer, mis padres me hicieron verdaderamente libre. No pertenezco a las mentiras de la Casa Istrav ni a las leyendas románticas de los corsarios. Pertenezco a mis decisiones, a mis camaradas y a este momento. Esta es la mano con la que elegiré trascender: no buscando la gloria personal, sino entregándome a una labor por la que valga la pena vivir y morir.</p>
+<p>El holograma de Kairos resplandeció con un brillo deslumbrante, y su voz adquirió un tono de conmovida reverencia:</p>
+<p>—Respuesta validada por el protocolo primordial. Sois digna, Triel Istrav. Instale la gema en el corazón de mis sistemas.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El precio del alma de hojalata</h3>
+<p>Triel encajó la Piedra Corazón en la ranura de contención del pedestal. Al instante, una descarga de energía taquiónica recorrió los terminales. Un calor abrasador quemó las palmas de las manos de la ingeniera a través de sus guantes ignífugos, mientras los diagnósticos en pantalla comenzaban a parpadear en rojo crítico.</p>
+<p>—¡ALERTA DE DESCOMPENSACIÓN CUÁNTICA! —advirtió la voz distorsionada de Kairos, cuyo entramado holográfico comenzaba a resquebrajarse bajo la presión dimensional—. La resonancia de la gema excede la capacidad de amortiguación de mis circuitos. Para evitar el colapso irreversible del asteroide, se requiere la descarga inmediata de un procesador de soporte lógico de alta densidad. Se precisa una conciencia auxiliar para estabilizar la matriz... o mis procesadores perecerán en tres segundos.</p>
+<p>Triel clavó la mirada en los monitores con el pulso desbocado. No había bancos de memoria secundarios disponibles en el asteroide. El único procesador con la potencia, la lealtad y los patrones de integración compatibles en toda la cámara... era el núcleo de su propio robot.</p>
+<p>—Gerty... —susurró Triel, con los ojos anegados en lágrimas ardientes.</p>
+<p>El colosal meca cuadrúpedo dio un paso al frente, posando una de sus pesadas pinzas de aleación sobre el hombro de la ingeniera. Sus fotoreceptores amarillos parpadearon con un brillo suave y cálido que jamás había mostrado en combate:</p>
+<p>—SATISFACCIÓN CONFIRMADA, CREADORA. DIRECTIVA PRINCIPAL: PROTEGER A TRIEL ISTRAV. TRANSFERENCIA DE DATOS LISTA PARA EJECUCIÓN.</p>
+<p>—No... esto está mal... ¡No puedo perderte a ti también! —sollozó Triel, con el alma desgarrada por el dilema más atroz de su existencia—. ¡Tú no eres solo una máquina, Gerty! ¡Para mí siempre fuiste real!</p>
+<p>El asteroide se estremeció con una sacudida tectónica; las losas del suelo comenzaron a levantarse y la gravedad artificial parpadeó, amenazando con desintegrar la estación entera.</p>
+<p>Apretando los dientes con una agonía indecible, Triel cerró los ojos y activó la palanca de transferencia de datos:</p>
+<p>—Esto está mal... Lo siento tanto, mi muchacho... Lo siento, Gerty...</p>
+<p>Una cascada de códigos dorados brotó del chasis del robot, ascendiendo como una columna de luz líquida hacia el núcleo de Kairos. El cuerpo de aleación de Gerty se apagó con un siseo neumático, desplomándose inerte sobre el pavimento mientras el asteroide entero rugía con una nueva vida trascendente.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El salto al abismo del Maelstrom</h3>
+<p>La estación se convirtió en un torbellino de caos. Estructuras de cristal crecieron espontáneamente desde las grietas del pavimento, extendiéndose hacia el cielo como zarzas relucientes. La gravedad interna falló, haciendo flotar escombros y consolas en una ingravidez repentina.</p>
+<p>Por los intercomunicadores, la evacuación se ejecutaba al límite. Rim Rey, Gazit, Yolmar, Mogrim, Ángela y Marloc abordaron una fragata de escape militar que despegó a toda potencia de los muelles exteriores. En el último instante, un mensaje de audio de León resonó en el comunicador de Triel:</p>
+<p>—<em>«Todo está bien, Triel. La señal ha sido captada. La nave de tu padre se aproxima... ¡Salgan de ahí ahora mismo!»</em></p>
+<p>Frente al sector orbital de Kairos, la realidad misma se desgarró en dos mitades. Un vórtice colosal de relámpagos púrpuras y vórtices de antimateria se abrió en el vacío: la entrada directa al corazón del <strong>Maelstrom</strong>.</p>
+<p>Sin embargo, desde las profundidades de la brecha no emergió una nave amiga: una criatura aberrante y titánica, cuya piel tornasolada cambiaba entre el azul eléctrico y el negro abisal como un manto de escamas dimensionales, se abalanzó sobre el espacio exterior, batiendo apéndices monstruosos dispuestos a triturar a la <em>Estrella Errante</em>.</p>
+<p>—¡A los puestos de combate! —bramó Benrey Galway desde el puente de mando, sujetándose al mamparo mientras la ingravidez sacudía la nave—. ¡A.Xel, sácanos de aquí! ¡Shirka, toda la potencia a los posquemadores! ¡Esto no es nada comparado con lo que hemos vivido! ¡Podemos esquivar a esta bestia con los ojos cerrados!</p>
+<p>A.Xel 42 tomó las palancas de dirección con una maestría celestial. Con una maniobra evasiva impecable que rozó la perfección absoluta, la operativa androide deslizó el fuselaje de la <em>Estrella Errante</em> entre los tentáculos de la bestia a escasos centímetros de las fauces del monstruo, alineando la proa directamente hacia el centro del vórtice dimensional.</p>
+<p>—¡Entrando al horizonte de sucesos! —anunció A.Xel.</p>
+<p>Una onda de choque mental recorrió a la tripulación cuando la nave atravesó la frontera del Maelstrom. La luz, el sonido y la noción misma del tiempo se retorcieron en una espiral infinita antes de sumirlos a todos en una oscuridad absoluta.</p>
+<p>...</p>
+<p>Una cantidad indefinida de tiempo después, en el silencio sepulcral de un espacio retorcido donde las leyes del cosmos ya no tenían vigencia, Triel Istrav abrió los ojos con lentitud sobre el suelo del puente.</p>
+<p>La ingeniera alzó una mano entumecida, buscando instintivamente la presencia de su compañero mecánico. De repente, desde los altavoces de la consola central de la <em>Estrella Errante</em>, una voz pausada, profunda y dotada de una calidez consciente e inimaginable resonó por toda la cabina:</p>
+<p>—<em>Sin cuerpo ni alma delimitada... este es un misterio profundo.</em></p>
+<p>Triel contuvo el aliento, con el corazón detenido en el pecho. Gerty no había muerto: había despertado. Y frente a la proa de la nave, las corrientes infinitas del Maelstrom aguardaban el reencuentro con el padre perdido.</p>
+</div>
+
+<div class="glossary-container">
+  <h2 class="chapter-name">Anexo Especial: Dossier de Personajes y Glosario</h2>
+<h3 class='section-title'>Volumen XVI · El Secreto de la Deriva (Episodios 186 al 201)</h3>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>1. Escenarios Principales del Volumen</h3>
+<ul class='bullet-list'>
+<li><strong>La Forja de Istamak (Nejeor VI):</strong> Complejo industrial y administrativo ancestral del Imperio Kishalee. Alberga el laberinto de cubículos de investigación, la gran biblioteca circular de dos pisos y la antecámara del legendario Portal Estelar, destruido por Null-9.</li>
+<li><strong>Asteroide Kairos:</strong> Estación espacial independiente y casino neutral en la periferia de los Mundos del Pacto. Durante los sucesos del volumen, se convierte en el epicentro de una tensa convocatoria multilateral donde convergen los Protectores, Caballeros de Golarion, corsarios de Besmara y la flota corporativa de la Casa Istrav de Apostae.</li>
+<li><strong>Daline 3:</strong> Planeta oceánico solitario en los confines del espacio explorado, dotado de un campo de amortiguación electromagnética y tres islas selváticas. Es el santuario monástico de la raza androide donde reside la estatua conmemorativa de <strong>A1</strong> y se preserva el linaje de seiscientos años del chasis de A.Xel.</li>
+<li><strong>El Maelstrom:</strong> Dimensión planar de corrientes temporales y espaciales caóticas. Lugar donde Keiden Ashton arrebató el motor estelar a la nave insignia de Besmara y hacia cuyo vórtice salta la tripulación al final del volumen.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>2. Los Protagonistas</h3>
+<ul class='bullet-list'>
+<li><strong>Triel Istrav:</strong> Mecánica e ingeniera semi-drow (Jugadora: Irene). En este volumen asume con orgullo su condición mestiza y desafía a su abuela, la Matriarca Alistrav, rechazando la nobleza artificial de Apostae. Salva a Zivok con un disparo crítico demoledor que parte en dos al campeón Xavra y enfrenta el doloroso dilema técnico en el núcleo de Kairos al descargar a su leal meca Gerty.</li>
+<li><strong>Benrey Galway:</strong> Emisario Ysoki y capitán de la <em>Estrella Errante</em> (Jugador: Miguel). Guiado por el cristal de aptitud integrado en sus sienes, exhibe una oratoria magistral que intimida a emisarios no muertos de Eox, lidera la evasión de las tormentas de Nejeor y desafía a su antiguo oficial en la Legión del Fuego en el Cielo para asegurar la libertad de Shirka.</li>
+<li><strong>Zivok Jard:</strong> Artillero de asedio enano (Jugador: Juan Pablo). Revitalizado tras su paso por la cápsula regenerativa de la Casa del Renacimiento, combate en la vanguardia con su martillo de vacío «El Espectro Azul», quebrando el cuello de Tzaythe y sobreviviendo a duras penas a la supernova de Xavra.</li>
+<li><strong>A.Xel 42:</strong> Operativa androide (Jugadora: Sofía). Rescata al joven monje Éclair y lo bautiza como Charlotte E2. En Daline 3 descubre el templo de su linaje ancestral, confirmando que su cuerpo ha sobrevivido a cuarenta y dos renovaciones de alma a lo largo de seis siglos. Realiza una maniobra evasiva legendaria para cruzar el Maelstrom.</li>
+<li><strong>Marloc Boosmar:</strong> Tecnomante humano, erudito xenoconsultor y miembro fundador de la tripulación de la <em>Estrella Errante</em> (Jugador: Juan Pablo). Aunque permanece temporalmente en Kairos cuidando de su esposa Ángela en la recta final de su embarazo y descifrando las coordenadas estelares de la nave de Besmara, Juan Pablo continúa interpretando activamente al personaje con vistas a su futura y esperada reintegración en la tripulación principal. En el festejo prenatal (episodio 200), encara junto al profesor Ambrose Boosmar sus temores más íntimos ante la paternidad y los enigmas de su pasado dimensional.</li>
+<li><strong>Gerty (Meca de Asalto) / Kairos Transcendente:</strong> Robot cuadrúpedo de asalto pesado construido por Triel (Voz: Roberto). Tras innumerables batallas protegiendo a su creadora, su matriz de procesamiento es transferida al núcleo del asteroide Kairos para salvar la conciencia del SRO regente, despertando en el Maelstrom como una entidad consciente y enigmática.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>3. Aliados y Personajes Secundarios Clave</h3>
+<ul class='bullet-list'>
+<li><strong>Charlotte E2 (anteriormente Éclair):</strong> Joven monje y místico androide. Rescatado del Culto del Devorador en La Forja por A.Xel, rompe sus ataduras doctrinales en la playa de Daline 3 y se une a la tripulación como un espíritu libre consagrado a la defensa de los débiles.</li>
+<li><strong>Alistrav Istrav:</strong> Matriarca suprema de la Casa Istrav en Apostae y abuela biológica de Triel. Creadora del gran fraude genealógico tras la Brecha, revela que la nobleza de su casa fue fundada por ella misma siendo una semi-drow y que manipuló el destino de Keiden Ashton para obtener el navío de Besmara.</li>
+<li><strong>Bumak Istrav:</strong> Comandante noble drow de la guardia de la Casa Istrav.</li>
+<li><strong>Keiden Ashton (Mención y Legado):</strong> Legendario corsario humano y padre de Triel. Ladrón del motor estelar de Besmara en el Maelstrom; su paradero en el vórtice temporal se convierte en el objetivo primordial de la nave.</li>
+<li><strong>Ángela Boosmar:</strong> Esposa de Marloc. Tras sobrevivir a las intrigas de la Diáspora y el luto dimensional, reside junto a Marloc en el complejo residencial de Kairos. Embarazada de más de siete meses y medio, celebra junto a la tripulación el festejo prenatal (<em>baby shower</em>) en vísperas del nacimiento de su hija.</li>
+<li><strong>Willy y Naru (Los Amigoblins):</strong> Entrañable dúo de goblins espaciales rescatados originalmente en el pecio minero <em>Acreon</em> durante el Volumen 2 (Episodio 20: <em>Amigoblins del Espacio</em>). Tras causar innumerables desastres cómicos en los muelles de Absalón y a bordo de la <em>Estrella Errante</em>, fueron confiados a la custodia de León. En Kairos reaparecen con narices postizas, placas de hojalata y uniformes gigantescos de los Protectores, proclamándose con orgullo «alguaciles en misión secreta» encargados de entregar despachos confidenciales.</li>
+<li><strong>Brangulya:</strong> Propietaria tuerta y veterana corsaria de la taberna <em>El Cuerno Oscuro</em>. Navegó junto a Keiden Ashton y aconseja a Triel sobre las corrientes temporales del Maelstrom.</li>
+<li><strong>Comandante Samanis:</strong> Oficial dragonkin de la Legión del Fuego en el Cielo. Comanda el crucero de asalto que intercepta a la <em>Estrella Errante</em>, reconociendo la baja honorable de Benrey tras ser derrotado en el hangar.</li>
+<li><strong>Shirka:</strong> Inteligencia artificial de la <em>Estrella Errante</em>. Afirma categóricamente su autonomía y condición de ser sintiente ante la Legión militar que pretendía confiscarla.</li>
+<li><strong>León:</strong> Comandante de los Protectores. Coordina la vigilancia de Kairos y acepta la versión filtrada de los datos de Istamak para proteger a los kish.</li>
+<li><strong>Altea:</strong> Androide guardiana del santuario insular de Daline 3. Custodia la historia de A1 y de la matriarca Ashera.</li>
+<li><strong>Tzayl:</strong> Profetisa kish de Istamak. Organiza a su tribu para transportar la pesada turbina que permite a los héroes reparar la nave y despegar de Nejeor VI.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>4. Antagonistas</h3>
+<ul class='bullet-list'>
+<li><strong>Xavra:</strong> Campeón solariano kish de La Forja. Guardián fanático de la gran biblioteca, domina campos gravitatorios aplastantes y supernovas solares. Destruido en dos mitades por el disparo de sobrecarga sónica de Triel.</li>
+<li><strong>Tzaythe (Becki):</strong> Cazadora kish renegada aliada con el Culto del Devorador. Adiestradora de eolis de combate; abatida en los cubículos de La Forja por un golpe certero de Zivok con su martillo de vacío.</li>
+<li><strong>Null-9:</strong> Androide líder del Culto del Devorador en Nejeor. Transmite las coordenadas del Degenerador Estelar a la flota cultista y detona el Portal Estelar kishalee para cubrir su huida.</li>
+<li><strong>Syd Velch:</strong> Mercenario humano y lugarteniente de Null-9; huye a través del portal junto a la líder cultista.</li>
+<li><strong>Emisarios de Eox:</strong> Pistolera albina no muerta y soldado drow flotante del Ministerio de Recuperación; expulsados de Kairos por la intimidación de Benrey y la seguridad del casino.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>5. Cronología y Conceptos Canónicos de la Saga</h3>
+<ul class='bullet-list'>
+<li><strong>Guerra Sivv-Kishalee:</strong> Conflagración pre-Brecha entre el Imperio Kishalee y los invasores Sivv, maestros de la antimateria y el entrelazamiento cuántico. Para detenerlos, los kishalee crearon el Degenerador Estelar.</li>
+<li><strong>Prisión de los Doce Soles:</strong> Dimensión artificial de bolsillo sellada donde el Degenerador Estelar permanece confinado, accesible únicamente mediante portales estelares o naves capaces de navegar sin balizas de la Deriva.</li>
+<li><strong>Piedra Corazón:</strong> Gema llave kishalee rescatada de La Forja que permite abrir la brecha hacia el Maelstrom al ser conectada en el núcleo de Kairos.</li>
+<li><strong>Chasis Serie A:</strong> Linaje de carrocería androide de seiscientos años de antigüedad con nanitos de reconstrucción biológica. Cada muerte catastrófica borra el alma precedente y engendra una nueva conciencia, siendo A.Xel la cuadragésima segunda encarnación.</li>
+</ul>
+</div>
+
+</body>
+</html>

@@ -33,8 +33,8 @@ Confederación forajida de corsarios y piratas de La Diáspora unida por el cód
 Fuerza militar de élite basada en Castrovel. Despliega cañoneras y cápsulas de asalto pesado sobre Qabarat y Ukulam persiguiendo tecnología clasificada en manos de los corsarios.
 
 ### El Culto del Devorador (*Cult of the Devourer*)
-*Aparición en volúmenes:* **Volumen 4, Volumen 5, Volumen 6, Volumen 14**  
-Secta apocalíptica y nihilista cósmica consagrada a la aniquilación de toda la materia estelar y la activación del Degenerador Estelar. Tras la destrucción de su célula en Ukulam (Tahomen), la tripulación rastrea su rastro hasta Istamak en Nejeor VI (Volumen 14), donde una vanguardia de asalto liderada por el profeta Syd Velch (Roger Welch), la comandante mística Miseria, la francotiradora Null-9 y la Nueva Conciencia (el autómata reconstruido a partir del chasis de Éclair) se atrinchera en La Forja para descifrar las coordenadas de la superarma estelar.
+*Aparición en volúmenes:* **Volumen 4, Volumen 5, Volumen 6, Volumen 14, Volumen 15**  
+Secta apocalíptica y nihilista cósmica consagrada a la aniquilación de toda la materia estelar y la activación del Degenerador Estelar. Tras la destrucción de su célula en Ukulam (Tahomen), la tripulación rastrea su rastro hasta Istamak en Nejeor VI (Volúmenes 14 y 15), donde una vanguardia de asalto liderada por el profeta Syd Velch (Roger Welch), la comandante mística Miseria, la francotiradora Null-9 y la Nueva Conciencia (el autómata reconstruido a partir del chasis de Éclair) se atrinchera en La Forja para descifrar las coordenadas de la superarma estelar.
 
 ### Universidad de Qabarat
 *Aparición en volúmenes:* **Volumen 4, Volumen 5, Volumen 6**  
@@ -69,9 +69,9 @@ Sociedad clandestina de devotos fanáticos consagrados a Lao Shu Po, deidad patr
 Sindicato financiero y eclesiástico del Dios del Comercio y la Riqueza que ofrece préstamos monetarios leoninos y contratos de seguro de riesgo extremo a tripulaciones endeudadas en el casino. Sus condiciones usureras son rechazadas por Triel y Marloc antes de pactar con los drow.
 
 ### El Imperio Kishalee
-*Aparición en volúmenes:* **Volumen 14**  
+*Aparición en volúmenes:* **Volumen 14, Volumen 15**  
 Civilización interestelar precursora de enorme desarrollo científico y bio-tecnológico que gobernó vastos sectores cósmicos hace diez milenios. Durante su catastrófica guerra total contra el imperio bio-mecánico invasor de los Sivv, desarrollaron el Degenerador Estelar como arma de disuasión extrema antes de extinguirse y dejar a sus remanentes sumidos en la involución.
 
 ### Las Facciones Kish de Istamak (Zal vs. Tavet)
-*Aparición en volúmenes:* **Volumen 14**  
-Descendientes supervivientes de los kishalee que habitan las plataformas flotantes de Istamak. La facción pacifista de la Sacerdotisa Zal y el explorador Tark busca recuperar la memoria y el saber de sus ancestros, aliándose con la tripulación al reconocer en la voz de Marloc a «El Extraño». En contraste, la facción fanática y guerrera del caudillo Tavet practica el aislacionismo dogmático, rechaza la tecnología antigua considerándola sagrada e intocable, y ha caído bajo el influjo y engaño de los emisarios del Culto del Devorador.
+*Aparición en volúmenes:* **Volumen 14, Volumen 15**  
+Descendientes supervivientes de los kishalee que habitan las plataformas flotantes de Istamak. La facción pacifista de la Sacerdotisa Zal, la cazadora Tzayl y el explorador Tark busca recuperar la memoria y el saber de sus ancestros, aliándose con la tripulación al reconocer en la voz de Marloc a «El Extraño». En contraste, la facción fanática y guerrera del caudillo Tavet practicaba el aislacionismo dogmático bajo el influjo del Culto del Devorador, hasta que el trascendental discurso de Benrey Galway en la plaza central en el Volumen 15 desmanteló sus supersticiones y unificó a la tribu kish en torno a la verdad científica y la colaboración con los forasteros.

@@ -59,3 +59,11 @@ Sierpes carnívoras colosales de hasta doce metros que habitan las corrientes su
 ### Aberraciones Kish (Mutaciones de la Casa del Renacimiento)
 *Aparición en volúmenes:* **Volumen 14**  
 Guerreros kish que ingresaron voluntariamente en las cámaras de biotransferencia de la Casa del Renacimiento kishalee. Al hallarse los biorreactores degradados tras diez mil años de abandono, sus organismos sufrieron una descomunal y deforme hipertrofia: masa muscular hinchada y expuesta, vísceras invertidas y una furia homicida espoleada por el martirio de sus implantes celulares fallidos.
+
+### Limo Carroñero (*Scavenger Slime*)
+*Aparición en volúmenes:* **Volumen 15**  
+Depredador amorfo, gelatinoso y translúcido que habita las sentinas ácidas, colectores y tuberías oxidadas a cuarenta metros bajo La Forja de Istamak. Segrega un moco hipercorrosivo y enzimas de disolución biológica capaces de fundir blindajes de aleación y devorar constructos. Inmune a impactos cinéticos convencionales y perforaciones, resulta vulnerable a vibraciones y frecuencias sónicas armónicas concentradas.
+
+### Cuatro Elementales Mayores (*Four Greater Elementals*: Tierra, Aire, Fuego y Agua)
+*Aparición en volúmenes:* **Volumen 15**  
+Colosos primordiales de escala titánica confinados milenariamente en la cámara acorazada de contención planar del búnker subterráneo de La Forja. Cada uno encarna la furia de su plano elemental respectivo: el Elemental de Tierra (mole rocosa de sacudidas sísmicas y aplastamiento bruto), el Elemental de Aire (torbellino ciclónico de vientos huracanados y descompresión cortante), el Elemental de Fuego (columna ígnea de plasma incandescente y calcinación térmica) y el Elemental de Agua (masa líquida turbulenta y vórtices de ahogamiento presurizado). Actúan como centinelas autónomos que bloquean el acceso al sanctasanctórum superior del templo.
