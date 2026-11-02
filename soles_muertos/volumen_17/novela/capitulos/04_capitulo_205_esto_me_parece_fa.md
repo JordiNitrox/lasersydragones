@@ -38,7 +38,7 @@ De pronto, la mampara que tenían a su izquierda comenzó a latir con un zumbido
 
 ### III. La Furia Contenida de Triel
 
-Triel extrajo el pequeño contenedor blindado donde reposaba la Piedra Corazón kishalee. Al pulsar el cierre de seguridad, la gema esmeralda emitió un resplandor pulsante que iluminó los rostros tensos de sus compañeros.
+Triel extrajo el pequeño contenedor blindado donde reposaba la Piedra Corazón. Al pulsar el cierre de seguridad, la gema emitió un resplandor pulsante que iluminó los rostros tensos de sus compañeros.
 
 De inmediato, la resina del suelo vibró en respuesta. Un filamento de luz dorada se deslizó por las ranuras del suelo psicoplástico, trazando una línea recta a través del corredor central y disipando las nieblas que velaban el acceso a un montacargas de gran tonelaje.
 

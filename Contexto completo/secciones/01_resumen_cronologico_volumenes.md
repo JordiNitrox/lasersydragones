@@ -314,7 +314,7 @@ Tras penetrar en las corrientes turbulentas del Maelstrom dimensional para resca
 16. **Triel, Eres un Caos (Ep. 217):** Colapso de los amortiguadores gravitatorios; Triel despliega maniobras acrobáticas en gravedad cero navegando corrientes de fluido psicoplástico hirviente.
 17. **Los Atómicos y el Multiverso de la Locura (Ep. 218):** Combate definitivo ante las compuertas del puente de mando contra quimeras oníricas nacidas del Maelstrom, combinando el fuego de Kairos y los rifles de precisión.
 18. **Keiden Ashton (Ep. 219):** Apertura de la cámara central sagrada de Besmara; en el altar de mando hallan el cuerpo consumido y comatoso de Keiden Ashton, al borde del colapso biológico.
-19. **El Corazón del Padre (Ep. 220):** Triel extrae la Piedra Corazón kishalee y realiza un trasplante quirúrgico en el pecho de su padre humano; la resonancia mística despierta a Keiden y padre e hija se funden en un llanto sanador.
+19. **El Corazón del Padre (Ep. 220):** Triel extrae la Piedra Corazón y realiza una intervención quirúrgica dividiendo la gema entre el reactor y el esternón de su padre humano; la sintonía planar despierta a Keiden y padre e hija se funden en un llanto sanador.
 20. **Piratas a la Plancha (Ep. 221):** Keiden revela que se refugió en el pecio para despistar a los asesinos de Apostae y proteger la vida de Triel; banquete corsario improvisado en el puente con risas y celebraciones.
 21. **Tintineo Intenso (Ep. 222):** La diosa pirata Besmara exige su tributo de salida; Keiden y Triel entregan un botín ceremonial de monedas antiguas, y tras la bendición de la deidad corsaria, la nave salta a máxima potencia rumbo a la Puerta de los Doce Soles.
 

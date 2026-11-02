@@ -37,7 +37,7 @@
 | **Capítulo 4: Esto me Parece Familiar** | | | | |
 | · *I. La Huella de Apostae en el Caos* | Ep. 205 | [14:00 - 30:00] | `[MESA-ACTO]` | Rastro de defensas destruidas por armas de plasma y espadas rúnicas de la Guardia Negra de Apostae. |
 | · *II. Laberintos de Maleabilidad* | Ep. 205 | [30:10 - 48:00] | `[LIT-AMBIENTE]` | Pasillos que cambian de forma y escotillas al vacío activadas por las defensas de Besmara. |
-| · *III. La Furia Contenida de Triel* | Ep. 205 | [48:10 - 01:05:00] | `[MESA-DIALOGO]` | Resonancia de la Piedra Corazón kishalee trazando el rumbo hacia el montacargas de carga. |
+| · *III. La Furia Contenida de Triel* | Ep. 205 | [48:10 - 01:05:00] | `[MESA-DIALOGO]` | Resonancia de la Piedra Corazón trazando el rumbo hacia el montacargas de carga. |
 | **Capítulo 5: King Golarian vs Los Atómicos** | | | | |
 | · *I. Prisiones de la Psique* | Ep. 206 | [16:00 - 32:00] | `[MESA-ACTO]` | Ilusión psíquica masiva proyectada por la nave: combate colosal de King Golarion contra guerreros atómicos. |
 | · *II. Lucha por la Claridad Mental* | Ep. 206 | [32:10 - 50:00] | `[MESA-ACTO]` | Marloc y Kairos disipan la frecuencia portadora con contraconjuros de *Null-Vector* y armónicos cuánticos. |
@@ -95,7 +95,7 @@
 | · *II. El Corsario Caído* | Ep. 219 | [28:10 - 45:00] | `[MESA-ACTO]` | Examen de la herida abierta en el esternón del capitán y la hemorragia de energía vital. |
 | · *III. El Reconocimiento* | Ep. 219 | [45:10 - 58:00] | `[MESA-DIALOGO]` | Keiden despierta del delirio y reconoce los ojos de las estrellas en su hija Triel. |
 | **Capítulo 19: El Corazón del Padre** | | | | |
-| · *I. El Hilo Frágil de la Vida* | Ep. 220 | [12:00 - 24:00] | `[MESA-ACTO]` | Colapso hemodinámico inminente de Keiden; decisión de injertar la Piedra Corazón kishalee. |
+| · *I. El Hilo Frágil de la Vida* | Ep. 220 | [12:00 - 24:00] | `[MESA-ACTO]` | Colapso hemodinámico inminente de Keiden; decisión de injertar la Piedra Corazón. |
 | · *II. La Cirugía Mística* | Ep. 220 | [24:10 - 42:00] | `[MESA-ACTO]` | Intervención quirúrgica y mística de Triel y Marloc acoplando la gema en el esternón de Keiden. |
 | · *III. El Despertar y el Abrazo* | Ep. 220 | [42:10 - 01:10:00] | `[MESA-ACTO]` | Keiden revive con vigor renovado y se funde en un abrazo histórico con Triel entre vítores piratas. |
 | **Capítulo 20: Piratas a la Plancha** | | | | |

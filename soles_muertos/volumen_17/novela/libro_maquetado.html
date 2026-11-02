@@ -116,30 +116,51 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
   color: #4a5568;
 }
 
-.toc-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 0;
-}
+  /* ESTILOS DE LA TABLA DE ÍNDICE COMPACTA EN 1 SOLA PÁGINA (24 ENTRADAS) */
+  .toc-header {
+    font-size: 13pt;
+    text-align: center;
+    color: #0b1a30;
+    margin: 0 0 4px 0;
+    padding: 0 0 2px 0;
+    border-bottom: 2px solid #b8860b;
+    page-break-before: avoid;
+    break-before: avoid;
+    font-family: 'Liberation Serif', serif;
+  }
 
-.toc-table td {
-  padding: 0px 2px;
-  border-bottom: 1px dotted #cbd5e0;
-  font-size: 6.9pt;
-  line-height: 1.0;
-}
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+  }
 
-.toc-title {
-  font-weight: bold;
-  color: #0b1a30;
-  font-size: 7.1pt;
-}
+  .toc-table td {
+    padding: 0.4px 2px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 6.5pt;
+    line-height: 1.02;
+    vertical-align: middle;
+  }
 
-.toc-sub {
-  font-size: 6.3pt;
-  color: #718096;
-  font-style: italic;
-}
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+    font-size: 6.6pt;
+    line-height: 1.02;
+    margin: 0;
+    padding: 0;
+  }
+
+  .toc-sub {
+    font-size: 5.6pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 0.98;
+    margin: 0;
+    padding: 0;
+  }
 </style>
 </head>
 <body>
@@ -191,7 +212,7 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
   </p>
   
   <p style="font-size: 8.5pt; line-height: 1.38; text-align: justify; margin-bottom: 6px;">
-    Tras atravesar la fractura hiperespacial abierta en el asteroide Kairos gracias a la resonancia de la Piedra Corazón kishalee, la tripulación sufre de inmediato el influjo desquiciante del caos primordial. Una marea dimensional transmuta el navío e intercambia las mentes y cuerpos de los protagonistas en una caótica vorágine de identidades cruzadas, al tiempo que la inteligencia artificial del asteroide, <strong>Kairos</strong>, se adapta a su nueva existencia física habitando el chasis del meca bípedo y aportando su serenidad de tahúr y estratega probabilístico. Superado el estupor inicial y restaurada la anatomía de los tripulantes, el pasado persigue a Triel hasta los confines de la Deriva: su hermanastra drow pura, <strong>Jhidel Istrav</strong>, lidera una implacable fuerza de abordaje de la Casa Istrav dispuesta a exterminarla, desatando una cruenta revancha donde Triel, respaldada por la letalidad quirúrgica de <strong>A.Xel 42</strong> y el ingenio de <strong>Benrey Galway</strong>, quiebra para siempre el yugo aristocrático de Apostae.
+    Tras atravesar la fractura hiperespacial abierta en el asteroide Kairos gracias a la resonancia de la Piedra Corazón ligada a su padre, la tripulación sufre de inmediato el influjo desquiciante del caos primordial. Una marea dimensional transmuta el navío e intercambia las mentes y cuerpos de los protagonistas en una caótica vorágine de identidades cruzadas, al tiempo que la inteligencia artificial del asteroide, <strong>Kairos</strong>, se adapta a su nueva existencia física habitando el chasis del meca bípedo y aportando su serenidad de tahúr y estratega probabilístico. Superado el estupor inicial y restaurada la anatomía de los tripulantes, el pasado persigue a Triel hasta los confines de la Deriva: su hermanastra drow pura, <strong>Jhidel Istrav</strong>, lidera una implacable fuerza de abordaje de la Casa Istrav dispuesta a exterminarla, desatando una cruenta revancha donde Triel, respaldada por la letalidad quirúrgica de <strong>A.Xel 42</strong> y el ingenio de <strong>Benrey Galway</strong>, quiebra para siempre el yugo aristocrático de Apostae.
   </p>
 
   <p style="font-size: 8.5pt; line-height: 1.38; text-align: justify; margin-bottom: 6px;">
@@ -239,203 +260,179 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
 <div style="page-break-before: always; break-before: page;"></div>
 
 <!-- PÁGINA 3: ÍNDICE DE CONTENIDOS -->
-<div style="padding: 0;">
-  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-top: 0; margin-bottom: 2px; padding-bottom: 1px; font-size: 11.5pt;">
+<div style="padding: 0; margin: 0;">
+  <h2 class="toc-header">
     Índice de Contenidos
   </h2>
   
   <table class="toc-table">
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Nota Editorial e Introducción</span> <span class="toc-sub" style="font-size: 6.3pt;">— Créditos y canon Paizo</span>
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto, créditos de la mesa y canon de Paizo Inc.</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        2
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Prólogo: Las Mareas del Caos</span> <span class="toc-sub" style="font-size: 6.3pt;">— La nave de Besmara</span>
+    <tr>
+      <td>
+        <div class="toc-title">Prólogo: Las Mareas del Caos</div>
+        <div class="toc-sub">El salto dimensional, el influjo del Maelstrom y la búsqueda de Keiden Ashton</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        4
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 1: Un ¿Viernes? de Locos</span> <span class="toc-sub" style="font-size: 6.3pt;">— El cambio de cuerpos</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 1: Un ¿Viernes? de Locos</div>
+        <div class="toc-sub">Basado en el Episodio 202 · Onda de caos, intercambio de cuerpos y el nacimiento en la niebla</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        6
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">6</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 2: Se Viene el Culebrón</span> <span class="toc-sub" style="font-size: 6.3pt;">— Los náufragos del caos</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 2: Se Viene el Culebrón</div>
+        <div class="toc-sub">Basado en el Episodio 203 · La taberna corsaria, sirenas serpentinas y la estatua de Keiden</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        17
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">17</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 3: La Sombra del Cuervo</span> <span class="toc-sub" style="font-size: 6.3pt;">— Retorno y fragata drow</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 3: La Sombra del Cuervo</div>
+        <div class="toc-sub">Basado en el Episodio 204 · Retorno anatómico, psicoplástico vivo y la fragata drow de Apostae</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        21
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">21</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 4: Esto me Parece Familiar</span> <span class="toc-sub" style="font-size: 6.3pt;">— La huella de Apostae</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 4: Esto me Parece Familiar</div>
+        <div class="toc-sub">Basado en el Episodio 205 · Rastro de la Casa Istrav, montacargas naval y la sombra de Jhidel</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        25
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">25</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 5: King Golarian vs Los Atómicos</span> <span class="toc-sub" style="font-size: 6.3pt;">— La ilusión cósmica</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 5: King Golarian vs Los Atómicos</div>
+        <div class="toc-sub">Basado en el Episodio 206 · Simulación de celuloide, King Golarian y el asalto de Los Atómicos</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        28
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">28</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 6: Splinter Axcell</span> <span class="toc-sub" style="font-size: 6.3pt;">— Infiltración en vigas</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 6: Splinter Axcell</div>
+        <div class="toc-sub">Basado en el Episodio 207 · Infiltración en vigas superiores, sigilo de A.Xel y sabotaje drow</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        31
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">31</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 7: El Poder de Jhidel</span> <span class="toc-sub" style="font-size: 6.3pt;">— Fuego cruzado noble</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 7: El Poder de Jhidel</div>
+        <div class="toc-sub">Basado en el Episodio 208 · Fuego cruzado en el hangar, la Guardia Negra y el poder tecno-mágico</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        34
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">34</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 8: Triel vs Jhidel (la Revancha)</span> <span class="toc-sub" style="font-size: 6.3pt;">— Duelo fratricida</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 8: Triel vs Jhidel (la Revancha)</div>
+        <div class="toc-sub">Basado en el Episodio 209 · Duelo fratricida, triunfo de Triel y la piedad que quiebra la venganza</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        37
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">37</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 9: A Mi Hermana con Cariño</span> <span class="toc-sub" style="font-size: 6.3pt;">— Ruptura con Apostae</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 9: A Mi Hermana con Cariño</div>
+        <div class="toc-sub">Basado en el Episodio 210 · Retirada de la Casa Istrav, renuncia al blasón y libertad de Triel</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        40
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">40</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 10: Elemental Mi Querido Marloc</span> <span class="toc-sub" style="font-size: 6.3pt;">— Cine negro y pistas</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 10: Elemental Mi Querido Marloc</div>
+        <div class="toc-sub">Basado en el Episodio 211 · Realidad maleable, gabardinas de cine negro y la pista de los 20 años</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        43
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">43</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 11: Llamada Mortal</span> <span class="toc-sub" style="font-size: 6.3pt;">— Tormenta de nieve</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 11: Llamada Mortal</div>
+        <div class="toc-sub">Basado en el Episodio 212 · Tormenta de nieve, la cabina de teléfono y las voces del pasado</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        46
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">46</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 12: ¡Caracoles amigos!</span> <span class="toc-sub" style="font-size: 6.3pt;">— Moluscos y Panquecito</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 12: ¡Caracoles amigos!</div>
+        <div class="toc-sub">Basado en el Episodio 213 · Encuentro pacífico con caracoles psicoplásticos y el rescate de Panquecito</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        49
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">49</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 13: Los Psicoplásticos son Inevitables</span> <span class="toc-sub" style="font-size: 6.3pt;">— La fractura de Axis</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 13: Los Psicoplásticos son Inevitables</div>
+        <div class="toc-sub">Basado en el Episodio 214 · Grietas axiomáticas en el nodo central e intrusión dimensional de Axis</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        52
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">52</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 14: Nadie Espera la Inevitable Inquisición</span> <span class="toc-sub" style="font-size: 6.3pt;">— El juicio cósmico</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 14: Nadie Espera la Inevitable Inquisición</div>
+        <div class="toc-sub">Basado en el Episodio 215 · La inquisición del Inevitable, cuentas del tiempo y juicio a Marloc</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        54
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">54</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 15: Marloc - El Juicio Final</span> <span class="toc-sub" style="font-size: 6.3pt;">— Portal y renuncia</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 15: Marloc - El Juicio Final</div>
+        <div class="toc-sub">Basado en el Episodio 216 · Juicio moral en el portal temporal, renuncia a Olivia y lealtad a la familia</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        57
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">57</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 16: Triel, Eres un Caos</span> <span class="toc-sub" style="font-size: 6.3pt;">— Asalto en gravedad cero</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 16: Triel, Eres un Caos</div>
+        <div class="toc-sub">Basado en el Episodio 217 · Corrientes caóticas en gravedad cero y acrobacias cinéticas de Triel</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        60
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">60</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 17: Los Atómicos y el Multiverso de la Locura</span> <span class="toc-sub" style="font-size: 6.3pt;">— Sombras del caos</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 17: Los Atómicos y el Multiverso de la Locura</div>
+        <div class="toc-sub">Basado en el Episodio 218 · Constructos oníricos del Maelstrom y asalto a través del vórtice</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        63
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">63</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 18: Keiden Ashton</span> <span class="toc-sub" style="font-size: 6.3pt;">— El altar del corsario</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 18: Keiden Ashton</div>
+        <div class="toc-sub">Basado en el Episodio 219 · El puente vivo de Besmara y el hallazgo del cuerpo marchito de Keiden</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        65
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">65</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 19: El Corazón del Padre</span> <span class="toc-sub" style="font-size: 6.3pt;">— Cirugía y abrazo filial</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 19: El Corazón del Padre</div>
+        <div class="toc-sub">Basado en el Episodio 220 · Cirugía mística, división de la Piedra Corazón y abrazo filial</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        68
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">68</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 20: Piratas a la Plancha</span> <span class="toc-sub" style="font-size: 6.3pt;">— Confesión y banquete</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 20: Piratas a la Plancha</div>
+        <div class="toc-sub">Basado en el Episodio 221 · Banquete corsario a la plancha, revelación del sacrificio y brindis</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        71
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">72</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Capítulo 21: Tintineo Intenso</span> <span class="toc-sub" style="font-size: 6.3pt;">— El pacto y salto final</span>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 21: Tintineo Intenso</div>
+        <div class="toc-sub">Basado en el Episodio 222 · Tributo de monedas a Besmara, despedida y rumbo a los Doce Soles</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        74
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">75</td>
     </tr>
-    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">Anexo Especial: Dossier de Personajes y Glosario</span> <span class="toc-sub" style="font-size: 6.3pt;">— Facciones y personajes</span>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">Facciones galácticas, elenco de la mesa y glosario de términos</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        77
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">78</td>
     </tr>
   </table>
 </div>
@@ -694,7 +691,7 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
 <p>—Mantengan la calma y sigan las líneas de probabilidad más estables —ordenó Marloc, invocando una esfera luminosa de runas arcanas que flotó sobre el grupo, estabilizando temporalmente las fluctuaciones de la gravedad a su alrededor—. Triel, guía el rumbo con la Piedra Corazón. La resonancia de la gema debe reaccionar ante los motores de salto donde se encuentra Keiden.</p>
 <div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
 <h3 class='subsection-title'>III. La Furia Contenida de Triel</h3>
-<p>Triel extrajo el pequeño contenedor blindado donde reposaba la Piedra Corazón kishalee. Al pulsar el cierre de seguridad, la gema esmeralda emitió un resplandor pulsante que iluminó los rostros tensos de sus compañeros.</p>
+<p>Triel extrajo el pequeño contenedor blindado donde reposaba la Piedra Corazón. Al pulsar el cierre de seguridad, la gema emitió un resplandor pulsante que iluminó los rostros tensos de sus compañeros.</p>
 <p>De inmediato, la resina del suelo vibró en respuesta. Un filamento de luz dorada se deslizó por las ranuras del suelo psicoplástico, trazando una línea recta a través del corredor central y disipando las nieblas que velaban el acceso a un montacargas de gran tonelaje.</p>
 <p>—Hacia allí —dijo Triel, con la voz cargada de una determinación férrea—. Los motores de salto están detrás de esa compuerta de carga. Pero el rastro de los soldados drow va en la misma dirección. Jhidel está a menos de diez minutos de ventaja sobre nosotros.</p>
 <p>A.Xel cargó su arma con un clic metálico rotundo.</p>
@@ -1144,34 +1141,42 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
   <h2 class="chapter-name">Capítulo 19: El Corazón del Padre</h2>
 <p><em>Adaptado del Episodio 220 · El Corazón del Padre</em></p>
 <h3 class='subsection-title'>I. El Hilo Frágil de la Vida</h3>
-<p>La alegría del reencuentro se vio ensombrecida de inmediato por la cruda realidad biológica. Apenas Keiden terminó de pronunciar el nombre de su hija, su cuerpo sufrió un espasmo violento y la herida de su pecho emitió un destello carmesí alarmante. Los monitores psicoplásticos de la cúpula comenzaron a parpadear con alertas críticas de colapso hemodinámico.</p>
-<p>—Sus constantes vitales están cayendo en picado, Triel —advirtió A.Xel, arrodillándose junto al lecho y colocando dos dedos sobre la carótida del capitán—. Frecuencia cardíaca en veintidós pulsaciones por minuto. La nave de Besmara no es un simple receptor pasivo: está extrayendo los últimos vestigios de su energía bioeléctrica. Si retiramos los conectores sin un sustituto energético adecuado, su corazón se detendrá en menos de cuarenta segundos.</p>
-<p>Triel se secó las lágrimas con el dorso de la mano. La niña herida que había llorado en los túneles de Apostae dio paso a la jefa de máquinas de la <em>Estrella Errante</em>, la ingeniera brillante capaz de recomponer un reactor de plasma en mitad de un combate naval.</p>
-<p>—No se va a morir —dijo la joven con voz firme y acerada—. No después de haber cruzado medio universo para encontrarlo.</p>
-<p>Se volvió hacia Marloc:</p>
-<p>—Marloc, la Piedra Corazón. Tráela ahora mismo.</p>
-<p>El tecnomante extrajo el contenedor blindado de su túnica y lo abrió. La gema kishalee brilló en la penumbra con una luz esmeralda cálida, pura y palpitante, latiendo en sincronía perfecta con las corrientes del cosmos.</p>
+<p>La alegría del ansiado reencuentro se vio ensombrecida de inmediato por la cruda realidad del Maelstrom. Apenas Keiden Ashton balbuceó las primeras palabras, su cuerpo sufrió un espasmo violento y la piel de su pecho emitió un destello carmesí alarmante. Los monitores psicoplásticos de la cúpula de motores comenzaron a parpadear con alertas críticas de colapso vital.</p>
+<p>—Sus constantes están cayendo en picado, Triel —advirtió A.Xel, arrodillándose de inmediato junto al lecho y posando dos dedos enguantados sobre la carótida del viejo corsario—. La frecuencia cardíaca apenas alcanza veintidós pulsaciones por minuto. El Maelstrom está consumiendo su cuerpo como el agua disuelve el papel en una turbina; esta nave viviente es en esencia un gigantesco estabilizador del caos primordial, pero al carecer de su núcleo motriz, está drenando la bioelectricidad residual de su capitán para no colapsar. Si retiramos los filamentos orgánicos sin un sustituto, su corazón se detendrá en menos de cuarenta segundos.</p>
+<p>Triel se secó las lágrimas con el dorso de la manga. El temblor de la niña que había recorrido la galaxia buscando a tientas el rastro de su sangre dio paso a la implacable jefa de máquinas de la <em>Estrella Errante</em>.</p>
+<p>—No se va a morir —dijo la joven con voz templada por el acero—. No después de haber cruzado medio universo para encontrarlo.</p>
+<p>Keiden entreabrió los ojos con dificultad extrema. A través de la bruma del dolor y la descomposición entrópica, la silueta semi-drow de Triel se recortó ante su mirada nublada. Con un gemido ronco, su semblante se contrajo en un gesto instintivo de amargura y desconfianza:</p>
+<p>—Eso... eso no puede ser... —susurró el corsario, apretando débilmente los dedos sobre la plancha metálica—. Yo no tengo... ninguna hija con Natra... Ella jamás me devolvería esto. Ella me lo quitó... me dejó a la deriva...</p>
+<p>Triel le tomó la mano temblorosa y la apretó entre las suyas con una calidez que desarmó cualquier recelo:</p>
+<p>—No es ella quien te lo está devolviendo, papá. Soy yo. He estado soñando con este momento desde que tengo memoria, escuchando los ecos lejanos de tu voz. No vengo de parte de Apostae ni de la Casa Istrav; vine por ti, sola con mis camaradas. Traje el corazón de la nave, y ese corazón lleva tu propia esencia. Déjame ayudarte, por favor.</p>
+<p>—¿A cambio... de qué? —murmuró Keiden, perdiendo el foco en su mirada mientras sus fuerzas flaqueaban.</p>
+<p>—A cambio de nada, papá. De absolutamente nada.</p>
+<p>La mano del capitán se aflojó y sus párpados cayeron en un desmayo profundo.</p>
+<p>—¡Marloc! —exclamó Triel, alzando la cabeza—. La Piedra Corazón. Tráela ahora mismo.</p>
 <div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
 <h3 class='subsection-title'>II. La Cirugía Mística</h3>
-<p>—La Piedra Corazón contiene la esencia condensada de los antiguos custodios de la Forja —explicó Marloc mientras disponía su instrumental rúnico alrededor del altar—. Es un catalizador místico de orden biológico y arcano. Si logramos implantarla en el zócalo del esternón de tu padre, la gema asumirá la carga energética que exige la nave de Besmara, liberando el corazón biológico de Keiden y regenerando sus tejidos celulares.</p>
-<p>—Yo realizaré la incisión y el acople biomecánico —asintió Triel, encendiendo un bisturí láser de precisión quirúrgica—. Marloc, tú mantendrás estables los canales de flujo arcano para que el choque de polaridad no le reviente los vasos sanguíneos. Kairos, monitoriza la presión arterial y suministra coagulante nanítico en cuanto haga el primer corte.</p>
-<p>—Comprendido, capitana —respondió Kairos, aproximando sus sensores ópticos al tórax del paciente—. Las probabilidades de éxito quirúrgico con este procedimiento experimental son del cuarenta y ocho por ciento. Una apuesta arriesgada, pero con una recompensa invaluable.</p>
-<p>Triel respiró hondo. Durante unos segundos, el silencio en el sanctum fue absoluto. Solo se escuchaba el murmullo de las campanas lejanas de la nave y la respiración agónica de su padre.</p>
-<p>—Todo saldrá bien, papá —le susurró Triel al oído—. Confía en mí.</p>
-<p>El bisturí láser trazó una incisión limpia sobre el tejido dañado del pecho de Keiden. Con manos que no temblaron a pesar del peso del destino, Triel desconectó uno a uno los zarcillos psicoplásticos infectados por el caos, mientras Marloc canalizaba fórmulas de <em>Null-Vector</em> para contener la hemorragia y estabilizar el flujo vital.</p>
-<p>En el hueco del esternón, Triel colocó la Piedra Corazón.</p>
-<p>La gema encajó con un chasquido suave, como si hubiera sido forjada expresamente para descansar en el pecho del viejo corsario. De inmediato, filamentos de luz verde esmeralda y dorada se extendieron por debajo de la piel de Keiden, conectándose a su sistema circulatorio en una simbiosis perfecta de magia pre-Brecha y tecnología cibernética.</p>
-<p>Con el soldador dérmico en mano, Triel cerró la incisión en una serie de suturas láser impecables.</p>
+<p>El tecnomante extrajo el estuche blindado de su túnica y liberó los sellos magnéticos. En el interior, la Piedra Corazón fulguró con su inconfundible luz esmeralda y rubí, palpitando con un ritmo errático que resonaba al unísono con las mareas del plano del Caos.</p>
+<p>—Debemos entender con precisión a qué nos enfrentamos —explicó Marloc Boosmar mientras disponía su instrumental rúnico y sus escáneres arcanos alrededor de la plataforma de soporte—. La Piedra Corazón no es un artefacto convencional. Es una reliquia planar ligada al Maelstrom que requiere la esencia vital de un individuo para gobernar las energías del caos; tu abuela Alistara la custodió en Apostae, pero su sintonía original siempre perteneció a Keiden. Al arrebatársela Natra antes del salto hace veinte años, la nave se desvió sin rumbo y el cuerpo de tu padre quedó atrapado en este bucle entrópico. Si canalizamos los flujos y dividimos la conexión mística entre el reactor de la nave y su propio pecho, la gema estabilizará la entropía, asumirá la carga del motor y salvará su vida.</p>
+<p>—Yo realizaré la incisión, la conexión orgánica y el acople biomecánico —asintió Triel, encendiendo un bisturí láser de alta precisión—. Marloc, tú canalizarás las matrices de contención para que el choque de polaridades planares no le colapse el sistema circulatorio. Kairos, monitorea la presión hemodinámica a través de tus procesadores probabilísticos. A.Xel, necesito tu pulso y tu asistencia inmediata en el instrumental.</p>
+<p>—Comprendido, capitana —respondió Kairos desde el chasis bípedo de combate, inclinando sus sensores ópticos sobre el torso del paciente—. Las probabilidades de éxito en una intervención de esta magnitud son extremadamente estrechas, pero la recompensa desafía cualquier cálculo estadístico.</p>
+<p>El silencio que se adueñó de la cúpula de motores fue absoluto. A través de las compuertas de acceso, alertados por las resonancias del núcleo, comenzaron a congregarse decenas de corsarios y espectros de la tripulación de Besmara. Llegaban con armas en mano y miradas feroces, pero al contemplar la escena —la joven ingeniera derramando su pericia sobre el cuerpo marchito de su comandante—, las armas descendieron y los murmullos se transformaron en un rezo colectivo a la Reina Pirata. En una esquina en penumbra, tras una columna psicoplástica, la capitana Alera Okuana observaba inmóvil, con el ceño fruncido y los puños apretados.</p>
+<p>Triel respiró hondo, invocando toda la templanza aprendida en los talleres de la galaxia.</p>
+<p>—Todo saldrá bien, papá —susurró.</p>
+<p>El bisturí láser trazó la primera incisión en el esternón del corsario. Con destreza milimétrica, Triel abrió el tejido mientras A.Xel enjugaba el sudor de su frente y administraba coagulantes naníticos con precisión matemática. Los canales bioeléctricos de la nave se resistían, soltando chispas de estática carmesí, pero las fórmulas de contención de Marloc tejían una red de runas doradas que mantenía a raya la vorágine.</p>
+<p>La intervención se prolongó durante cuatro horas agónicas. En la tercera hora, una sombra familiar cruzó el umbral: el enano Zivok Jard, despojado de su pesada armadura de asedio y vistiendo su jubón de artillero, avanzó con el rifle al hombro y se apostó en silencio junto a Benrey Galway, cruzándose de brazos en silenciosa vigilia.</p>
+<p>Llegó el momento crítico. Marloc alzó su brazo cibernético, canalizando un torrente de energía arcana que envolvió la Piedra Corazón. Con un chasquido que resonó como un trueno de cristal en toda la nave, la gema se escindió místicamente en dos mitades perfectas. Una nube de partículas luminiscentes quedó suspendida en el aire, demostrando que, aunque físicamente separadas, ambas mitades permanecían entrelazadas por un lazo planar indestructible.</p>
+<p>Triel introdujo una de las mitades directamente en el zócalo del reactor de salto de Besmara; la otra mitad la implantó en el hueco del esternón de su padre, conectando sus filamentos a las arterias principales.</p>
+<p>Con manos firmes, la joven activó el soldador dérmico y comenzó a sellar la incisión en una hilera impecable de suturas láser.</p>
 <div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
 <h3 class='subsection-title'>III. El Despertar y el Abrazo</h3>
-<p>En el instante en que la última sutura selló la piel, una onda de energía cálida y rejuvenecedora recorrió el cuerpo de Keiden Ashton.</p>
-<p>El capitán abrió los ojos de golpe, inhalando una bocanada de aire profundo y limpio como si emergiera de un océano helado. El color regresó a sus mejillas demacradas, las arrugas de dolor de su frente se suavizaron y en su pecho la Piedra Corazón comenzó a latir con un ritmo constante, vigoroso y lleno de vida.</p>
-<p>Keiden miró su pecho, luego miró sus manos que ya no temblaban y finalmente alzó la vista hacia Triel, que lo observaba conteniendo el aliento con el soldador láser aún humeante entre los dedos.</p>
-<p>Una sonrisa ancha, traviesa y deslumbrante —la misma sonrisa que Triel tantas veces había visto en sus propios reflejos en el espejo— iluminó el rostro del capitán pirata.</p>
-<p>—Por las barbas de Besmara... —exclamó Keiden con una voz sonora, potente y cargada de vida—. ¡Me has devuelto el barco y el pellejo, muchacha!</p>
-<p>Keiden extendió los brazos y Triel se arrojó a su cuello con un sollozo que liberó años de soledad, miedo y desarraigo.</p>
-<p>Padre e hija se fundieron en un abrazo estrecho e indestructible en medio del sanctum de la nave de Besmara. Alrededor de ellos, las sombras espectrales de la tripulación no-muerta que observaban desde las galerías rompieron en un coro ensordecedor de vítores y salvas de cañón fantasmales, celebrando el regreso de su capitán.</p>
-<p>Benrey se frotó disimuladamente una lágrima del hocico, mientras A.Xel sonreía con una sutil curvatura en los labios y Marloc alzaba la vista al cielo, sintiendo que en algún lugar de las estrellas, las deudas del pasado comenzaban por fin a quedar saldadas.</p>
+<p>En el preciso instante en que la última sutura selló la piel, la resonancia planar alcanzó su clímax. Una onda de pulso esmeralda y plateado recorrió la nave de proa a popa, haciendo temblar los mamparos y disipando las nieblas grises que asfixiaban la cúpula.</p>
+<p>En el pecho de Keiden Ashton, la Piedra Corazón comenzó a latir con un compás firme, armonioso y potente.</p>
+<p>El corsario abrió los ojos de golpe. Eran unos ojos grises, vivos y penetrantes, desprovistos de la bruma de la locura. Una bocanada de aire limpio llenó sus pulmones y el color juvenil regresó a sus mejillas curtidas por mil batallas estelares.</p>
+<p>Keiden bajó la mirada hacia su pecho, donde la gema palpitaba en perfecta sincronía con su pulso biológico. Luego alzó la vista y se encontró con los ojos rasgados y brillantes de Triel, que sostenía el soldador humeante entre sus dedos temblorosos.</p>
+<p>Una sonrisa franca, audaz y deslumbrante —la mismísima sonrisa que tantas veces se dibujaba en el rostro de la muchacha— iluminó la faz del capitán.</p>
+<p>—Por las barbas de Besmara... —exclamó Keiden con una voz profunda que llenó todo el recinto—. ¡Me has devuelto el pellejo y la nave, muchacha!</p>
+<p>Keiden extendió los brazos y Triel se arrojó sobre su pecho con un llanto liberador que disipó en un solo instante dos décadas de soledad, preguntas sin respuesta y desarraigo familiar.</p>
+<p>Padre e hija se fundieron en un abrazo indestructible en el corazón del sanctum naval. Alrededor de ellos, las sombras corsarias y los tripulantes espectrales rompieron en un tronar ensordecedor de vítores y salvas de júbilo. Benrey se limpió apresuradamente una lágrima del pelaje del hocico, A.Xel permitió que una tenue curvatura de alivio asomara a sus labios, y Marloc contempló el resplandor de la nave sabiendo que el destino, por una vez, había hecho justicia en medio del caos.</p>
 </div>
 
 <div class="chapter-container">
@@ -1191,7 +1196,7 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
 <h3 class='subsection-title'>II. La Confesión Filial</h3>
 <p>Más tarde, mientras la tripulación preparaba los festejos y los preparativos técnicos para el salto dimensional, Triel y Keiden se retiraron a la vieja pasarela de observación de estribor. Desde allí, el Maelstrom se contemplaba como un espectáculo grandioso de auroras púrpuras y doradas que danzaban sobre el casco vivo de la nave.</p>
 <p>Keiden contemplaba a su hija con una mezcla de orgullo y asombro inagotable.</p>
-<p>—Aún me cuesta creer que la niña que dejé en una cuna oculta de Apostae sea hoy la mujer que derrotó a la Guardia Negra y me abrió el pecho para coserme un sol kishalee —dijo el viejo corsario, rodeando los hombros de Triel con su brazo protector—. Tienes las manos de un artesano y el fuego de un dragón estelar, hija.</p>
+<p>—Aún me cuesta creer que la niña que dejé en una cuna oculta de Apostae sea hoy la mujer que derrotó a la Guardia Negra y me abrió el pecho para coserme el corazón de la nave y devolverme la vida —dijo el viejo corsario, rodeando los hombros de Triel con su brazo protector—. Tienes las manos de un artesano y el fuego de un dragón estelar, hija.</p>
 <p>Triel sonrió con timidez, pero su semblante se ensombreció levemente al bajar la vista hacia el meca de asalto que custodiaba el pasillo inferior.</p>
 <p>—Papá... hay algo que necesito contarte —confesó la muchacha con la voz cargada de un nudo en la garganta—. El meca que nos acompaña... ese blindaje cuadrúpedo de cuatro brazos. Se llamaba Gerty. Yo lo construí con chatarra en Apostae. Fue mi único amigo durante los años más oscuros de mi vida, cuando todos me escupían por ser mestiza. Me protegía, me cuidaba... a su manera sarcástica y quejica.</p>
 <p>Keiden escuchó en silencio, acariciando la espalda de su hija con ternura.</p>
@@ -1258,7 +1263,7 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
 <div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
 <h3 class='section-title'>2. Los Protagonistas y su Evolución Emocional</h3>
 <ul class='bullet-list'>
-<li><strong>Triel (antes Triel Istrav):</strong> Mecánica e ingeniera semi-drow de 19 años (Jugadora: Irene). Protagonista absoluta del clímax familiar: derrota a su hermanastra drow Jhidel en combate singular, renuncia formalmente a su apellido y blasón arrojando el sello de Apostae al fuego de plasma («Mi nombre es Triel; mi casa es la <em>Estrella Errante</em>»), y rescata a su padre biológico humano Keiden Ashton injertándole la Piedra Corazón kishalee en el pecho para devolverle la vida. Confiesa a su padre el dolor por la pérdida de la conciencia de Gerty y encuentra la paz filial en un abrazo histórico.</li>
+<li><strong>Triel (antes Triel Istrav):</strong> Mecánica e ingeniera semi-drow de 19 años (Jugadora: Irene). Protagonista absoluta del clímax familiar: derrota a su hermanastra drow Jhidel en combate singular, renuncia formalmente a su apellido y blasón arrojando el sello de Apostae al fuego de plasma («Mi nombre es Triel; mi casa es la <em>Estrella Errante</em>»), y rescata a su padre biológico humano Keiden Ashton injertándole la Piedra Corazón en el pecho para devolverle la vida. Confiesa a su padre el dolor por la pérdida de la conciencia de Gerty y encuentra la paz filial en un abrazo histórico.</li>
 <li><strong>Keiden Ashton:</strong> Legendario capitán corsario de los Capitanes Libres y padre humano de Triel (Voz: Roberto). Rescatado tras años de cautiverio bioeléctrico en el reactor de la nave de Besmara. Portador de la casaca del cuervo bordado y sanado mediante la Piedra Corazón, retoma el timón de su nave viva para custodiar las fronteras de la Deriva y bendecir la misión estelar de su hija.</li>
 <li><strong>Marloc Boosmar:</strong> Tecnomante humano, erudito xenoconsultor y miembro fundador de la tripulación (Jugador: Juan Pablo). Regresa a la primera línea de combate junto a sus camaradas. Supera el shock del cambio inicial de cuerpos, aporta contraconjuros de <em>Null-Vector</em> contra las aberraciones del caos y el Inevitable, y protagoniza el mayor dilema moral del volumen: ante el chantaje de Olivia y la resucitada Amelie junto al portal de Kairos, elige el perdón («No más sangre») y el deber de salvar al padre de Triel, sacrificando el estar presente en el nacimiento de su hija para expiar sus culpas del pasado.</li>
 <li><strong>Benrey Galway:</strong> Emisario Ysoki y capitán de la <em>Estrella Errante</em> (Jugador: Miguel). Aporta su genialidad táctica, su verborrea acelerada y su inquebrantable lealtad de clan. Protagoniza la desopilante impugnación jurídica ante el Inevitable («¡Este juicio es una farsa procesal; usted es del planeta de los Inevitables!»), lidera la emboscada a los guardias drow y comparte con Keiden el banquete de «piratas a la plancha».</li>

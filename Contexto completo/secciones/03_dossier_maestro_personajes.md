@@ -354,7 +354,7 @@
 * **Especie:** Humana  
 * **Rol:** Legendario capitán corsario de la nave psicoplástica de Besmara / Padre biológico de Triel Istrav  
 * **Aparición en volúmenes:** **Volumen 16 (mención y memoria), Volumen 17**  
-* **Descripción:** Corsario humano carismático, intrépido y devoto de la diosa Besmara. Años atrás se adentró en el corazón de la Deriva y robó un mítico navío vivo psicoplástico, refugiándose en el vórtice del Maelstrom para desviar la persecución de los escuadrones de la muerte de la Casa Istrav y salvar la vida de su hija Triel. Encontrado en coma vegetativo en el puente de mando por la tripulación de la *Estrella Errante*, es devuelto a la vida cuando Triel le injerta la Piedra Corazón kishalee en el pecho. Tras una conmovedora reconciliación filial y sellar el pacto corsario de Besmara, pone proa junto a la tripulación hacia la Puerta de los Doce Soles.
+* **Descripción:** Corsario humano carismático, intrépido y devoto de la diosa Besmara. Años atrás se adentró en el corazón de la Deriva y robó un mítico navío vivo psicoplástico, refugiándose en el vórtice del Maelstrom para desviar la persecución de los escuadrones de la muerte de la Casa Istrav y salvar la vida de su hija Triel. Encontrado en coma vegetativo en el puente de mando por la tripulación de la *Estrella Errante*, es devuelto a la vida cuando Triel le injerta la Piedra Corazón en el pecho. Tras una conmovedora reconciliación filial y sellar el pacto corsario de Besmara, pone proa junto a la tripulación hacia la Puerta de los Doce Soles.
 
 #### Jhidel Istrav
 * **Especie:** Drow pura  

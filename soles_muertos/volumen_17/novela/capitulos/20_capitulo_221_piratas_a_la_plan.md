@@ -30,7 +30,7 @@ Más tarde, mientras la tripulación preparaba los festejos y los preparativos t
 
 Keiden contemplaba a su hija con una mezcla de orgullo y asombro inagotable.
 
-—Aún me cuesta creer que la niña que dejé en una cuna oculta de Apostae sea hoy la mujer que derrotó a la Guardia Negra y me abrió el pecho para coserme un sol kishalee —dijo el viejo corsario, rodeando los hombros de Triel con su brazo protector—. Tienes las manos de un artesano y el fuego de un dragón estelar, hija.
+—Aún me cuesta creer que la niña que dejé en una cuna oculta de Apostae sea hoy la mujer que derrotó a la Guardia Negra y me abrió el pecho para coserme el corazón de la nave y devolverme la vida —dijo el viejo corsario, rodeando los hombros de Triel con su brazo protector—. Tienes las manos de un artesano y el fuego de un dragón estelar, hija.
 
 Triel sonrió con timidez, pero su semblante se ensombreció levemente al bajar la vista hacia el meca de asalto que custodiaba el pasillo inferior.
 

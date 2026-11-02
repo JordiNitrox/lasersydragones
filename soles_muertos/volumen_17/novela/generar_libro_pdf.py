@@ -104,145 +104,145 @@ TOC_ITEMS = [
         "id": "nota_editorial",
         "search_key": "Nota Editorial e Introducción",
         "title": "Nota Editorial e Introducción",
-        "sub": "Créditos y canon Paizo"
+        "sub": "Contexto, créditos de la mesa y canon de Paizo Inc."
     },
     {
         "id": "prologo",
         "search_key": "Prólogo: Las Mareas del Caos",
         "title": "Prólogo: Las Mareas del Caos",
-        "sub": "La nave de Besmara"
+        "sub": "El salto dimensional, el influjo del Maelstrom y la búsqueda de Keiden Ashton"
     },
     {
         "id": "cap_1",
         "search_key": "Capítulo 1: Un ¿Viernes? de Locos",
         "title": "Capítulo 1: Un ¿Viernes? de Locos",
-        "sub": "El cambio de cuerpos"
+        "sub": "Basado en el Episodio 202 · Onda de caos, intercambio de cuerpos y el nacimiento en la niebla"
     },
     {
         "id": "cap_2",
         "search_key": "Capítulo 2: Se Viene el Culebrón",
         "title": "Capítulo 2: Se Viene el Culebrón",
-        "sub": "Los náufragos del caos"
+        "sub": "Basado en el Episodio 203 · La taberna corsaria, sirenas serpentinas y la estatua de Keiden"
     },
     {
         "id": "cap_3",
         "search_key": "Capítulo 3: La Sombra del Cuervo",
         "title": "Capítulo 3: La Sombra del Cuervo",
-        "sub": "Retorno y fragata drow"
+        "sub": "Basado en el Episodio 204 · Retorno anatómico, psicoplástico vivo y la fragata drow de Apostae"
     },
     {
         "id": "cap_4",
         "search_key": "Capítulo 4: Esto me Parece Familiar",
         "title": "Capítulo 4: Esto me Parece Familiar",
-        "sub": "La huella de Apostae"
+        "sub": "Basado en el Episodio 205 · Rastro de la Casa Istrav, montacargas naval y la sombra de Jhidel"
     },
     {
         "id": "cap_5",
         "search_key": "Capítulo 5: King Golarian vs Los Atómicos",
         "title": "Capítulo 5: King Golarian vs Los Atómicos",
-        "sub": "La ilusión cósmica"
+        "sub": "Basado en el Episodio 206 · Simulación de celuloide, King Golarian y el asalto de Los Atómicos"
     },
     {
         "id": "cap_6",
         "search_key": "Capítulo 6: Splinter Axcell",
         "title": "Capítulo 6: Splinter Axcell",
-        "sub": "Infiltración en vigas"
+        "sub": "Basado en el Episodio 207 · Infiltración en vigas superiores, sigilo de A.Xel y sabotaje drow"
     },
     {
         "id": "cap_7",
         "search_key": "Capítulo 7: El Poder de Jhidel",
         "title": "Capítulo 7: El Poder de Jhidel",
-        "sub": "Fuego cruzado noble"
+        "sub": "Basado en el Episodio 208 · Fuego cruzado en el hangar, la Guardia Negra y el poder tecno-mágico"
     },
     {
         "id": "cap_8",
         "search_key": "Capítulo 8: Triel vs Jhidel (la Revancha)",
         "title": "Capítulo 8: Triel vs Jhidel (la Revancha)",
-        "sub": "Duelo fratricida"
+        "sub": "Basado en el Episodio 209 · Duelo fratricida, triunfo de Triel y la piedad que quiebra la venganza"
     },
     {
         "id": "cap_9",
         "search_key": "Capítulo 9: A Mi Hermana con Cariño",
         "title": "Capítulo 9: A Mi Hermana con Cariño",
-        "sub": "Ruptura con Apostae"
+        "sub": "Basado en el Episodio 210 · Retirada de la Casa Istrav, renuncia al blasón y libertad de Triel"
     },
     {
         "id": "cap_10",
         "search_key": "Capítulo 10: Elemental Mi Querido Marloc",
         "title": "Capítulo 10: Elemental Mi Querido Marloc",
-        "sub": "Cine negro y pistas"
+        "sub": "Basado en el Episodio 211 · Realidad maleable, gabardinas de cine negro y la pista de los 20 años"
     },
     {
         "id": "cap_11",
         "search_key": "Capítulo 11: Llamada Mortal",
         "title": "Capítulo 11: Llamada Mortal",
-        "sub": "Tormenta de nieve"
+        "sub": "Basado en el Episodio 212 · Tormenta de nieve, la cabina de teléfono y las voces del pasado"
     },
     {
         "id": "cap_12",
         "search_key": "Capítulo 12: ¡Caracoles amigos!",
         "title": "Capítulo 12: ¡Caracoles amigos!",
-        "sub": "Moluscos y Panquecito"
+        "sub": "Basado en el Episodio 213 · Encuentro pacífico con caracoles psicoplásticos y el rescate de Panquecito"
     },
     {
         "id": "cap_13",
         "search_key": "Capítulo 13: Los Psicoplásticos son Inevitables",
         "title": "Capítulo 13: Los Psicoplásticos son Inevitables",
-        "sub": "La fractura de Axis"
+        "sub": "Basado en el Episodio 214 · Grietas axiomáticas en el nodo central e intrusión dimensional de Axis"
     },
     {
         "id": "cap_14",
         "search_key": "Capítulo 14: Nadie Espera la Inevitable Inquisición",
         "title": "Capítulo 14: Nadie Espera la Inevitable Inquisición",
-        "sub": "El juicio cósmico"
+        "sub": "Basado en el Episodio 215 · La inquisición del Inevitable, cuentas del tiempo y juicio a Marloc"
     },
     {
         "id": "cap_15",
         "search_key": "Capítulo 15: Marloc - El Juicio Final",
         "title": "Capítulo 15: Marloc - El Juicio Final",
-        "sub": "Portal y renuncia"
+        "sub": "Basado en el Episodio 216 · Juicio moral en el portal temporal, renuncia a Olivia y lealtad a la familia"
     },
     {
         "id": "cap_16",
         "search_key": "Capítulo 16: Triel, Eres un Caos",
         "title": "Capítulo 16: Triel, Eres un Caos",
-        "sub": "Asalto en gravedad cero"
+        "sub": "Basado en el Episodio 217 · Corrientes caóticas en gravedad cero y acrobacias cinéticas de Triel"
     },
     {
         "id": "cap_17",
         "search_key": "Capítulo 17: Los Atómicos y el Multiverso de la Locura",
         "title": "Capítulo 17: Los Atómicos y el Multiverso de la Locura",
-        "sub": "Sombras del caos"
+        "sub": "Basado en el Episodio 218 · Constructos oníricos del Maelstrom y asalto a través del vórtice"
     },
     {
         "id": "cap_18",
         "search_key": "Capítulo 18: Keiden Ashton",
         "title": "Capítulo 18: Keiden Ashton",
-        "sub": "El altar del corsario"
+        "sub": "Basado en el Episodio 219 · El puente vivo de Besmara y el hallazgo del cuerpo marchito de Keiden"
     },
     {
         "id": "cap_19",
         "search_key": "Capítulo 19: El Corazón del Padre",
         "title": "Capítulo 19: El Corazón del Padre",
-        "sub": "Cirugía y abrazo filial"
+        "sub": "Basado en el Episodio 220 · Cirugía mística, división de la Piedra Corazón y abrazo filial"
     },
     {
         "id": "cap_20",
         "search_key": "Capítulo 20: Piratas a la Plancha",
         "title": "Capítulo 20: Piratas a la Plancha",
-        "sub": "Confesión y banquete"
+        "sub": "Basado en el Episodio 221 · Banquete corsario a la plancha, revelación del sacrificio y brindis"
     },
     {
         "id": "cap_21",
         "search_key": "Capítulo 21: Tintineo Intenso",
         "title": "Capítulo 21: Tintineo Intenso",
-        "sub": "El pacto y salto final"
+        "sub": "Basado en el Episodio 222 · Tributo de monedas a Besmara, despedida y rumbo a los Doce Soles"
     },
     {
         "id": "glosario",
         "search_key": "Anexo Especial: Dossier de Personajes y Glosario",
         "title": "Anexo Especial: Dossier de Personajes y Glosario",
-        "sub": "Facciones y personajes"
+        "sub": "Facciones galácticas, elenco de la mesa y glosario de términos"
     }
 ]
 
@@ -283,15 +283,13 @@ def generate_html(page_numbers=None):
     # Generar filas del índice de contenidos
     toc_rows = []
     for item in TOC_ITEMS:
-        p_num = page_numbers.get(item["id"], 0)
-        p_str = str(p_num) if p_num > 0 else "..."
-        toc_rows.append(f"""    <tr style="line-height: 1.05;">
-      <td style="padding: 0px 2px; border-bottom: 1px dotted #cbd5e0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        <span class="toc-title" style="font-size: 7.2pt;">{item['title']}</span> <span class="toc-sub" style="font-size: 6.3pt;">— {item['sub']}</span>
+        pg = page_numbers.get(item["id"], "--")
+        toc_rows.append(f"""    <tr>
+      <td>
+        <div class="toc-title">{item['title']}</div>
+        <div class="toc-sub">{item['sub']}</div>
       </td>
-      <td style="text-align: right; width: 25px; border-bottom: 1px dotted #cbd5e0; font-weight: bold; color: #2b6cb0; vertical-align: middle; font-size: 7.0pt; line-height: 1.05;">
-        {p_str}
-      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">{pg}</td>
     </tr>""")
     toc_rows_html = "\n".join(toc_rows)
 
@@ -413,30 +411,51 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {{
   color: #4a5568;
 }}
 
-.toc-table {{
-  width: 100%;
-  border-collapse: collapse;
-  margin: 0;
-}}
+  /* ESTILOS DE LA TABLA DE ÍNDICE COMPACTA EN 1 SOLA PÁGINA (24 ENTRADAS) */
+  .toc-header {{
+    font-size: 13pt;
+    text-align: center;
+    color: #0b1a30;
+    margin: 0 0 4px 0;
+    padding: 0 0 2px 0;
+    border-bottom: 2px solid #b8860b;
+    page-break-before: avoid;
+    break-before: avoid;
+    font-family: 'Liberation Serif', serif;
+  }}
 
-.toc-table td {{
-  padding: 0px 2px;
-  border-bottom: 1px dotted #cbd5e0;
-  font-size: 6.9pt;
-  line-height: 1.0;
-}}
+  .toc-table {{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+  }}
 
-.toc-title {{
-  font-weight: bold;
-  color: #0b1a30;
-  font-size: 7.1pt;
-}}
+  .toc-table td {{
+    padding: 0.4px 2px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 6.5pt;
+    line-height: 1.02;
+    vertical-align: middle;
+  }}
 
-.toc-sub {{
-  font-size: 6.3pt;
-  color: #718096;
-  font-style: italic;
-}}
+  .toc-title {{
+    font-weight: bold;
+    color: #0b1a30;
+    font-size: 6.6pt;
+    line-height: 1.02;
+    margin: 0;
+    padding: 0;
+  }}
+
+  .toc-sub {{
+    font-size: 5.6pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 0.98;
+    margin: 0;
+    padding: 0;
+  }}
 </style>
 </head>
 <body>
@@ -488,7 +507,7 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {{
   </p>
   
   <p style="font-size: 8.5pt; line-height: 1.38; text-align: justify; margin-bottom: 6px;">
-    Tras atravesar la fractura hiperespacial abierta en el asteroide Kairos gracias a la resonancia de la Piedra Corazón kishalee, la tripulación sufre de inmediato el influjo desquiciante del caos primordial. Una marea dimensional transmuta el navío e intercambia las mentes y cuerpos de los protagonistas en una caótica vorágine de identidades cruzadas, al tiempo que la inteligencia artificial del asteroide, <strong>Kairos</strong>, se adapta a su nueva existencia física habitando el chasis del meca bípedo y aportando su serenidad de tahúr y estratega probabilístico. Superado el estupor inicial y restaurada la anatomía de los tripulantes, el pasado persigue a Triel hasta los confines de la Deriva: su hermanastra drow pura, <strong>Jhidel Istrav</strong>, lidera una implacable fuerza de abordaje de la Casa Istrav dispuesta a exterminarla, desatando una cruenta revancha donde Triel, respaldada por la letalidad quirúrgica de <strong>A.Xel 42</strong> y el ingenio de <strong>Benrey Galway</strong>, quiebra para siempre el yugo aristocrático de Apostae.
+    Tras atravesar la fractura hiperespacial abierta en el asteroide Kairos gracias a la resonancia de la Piedra Corazón ligada a su padre, la tripulación sufre de inmediato el influjo desquiciante del caos primordial. Una marea dimensional transmuta el navío e intercambia las mentes y cuerpos de los protagonistas en una caótica vorágine de identidades cruzadas, al tiempo que la inteligencia artificial del asteroide, <strong>Kairos</strong>, se adapta a su nueva existencia física habitando el chasis del meca bípedo y aportando su serenidad de tahúr y estratega probabilístico. Superado el estupor inicial y restaurada la anatomía de los tripulantes, el pasado persigue a Triel hasta los confines de la Deriva: su hermanastra drow pura, <strong>Jhidel Istrav</strong>, lidera una implacable fuerza de abordaje de la Casa Istrav dispuesta a exterminarla, desatando una cruenta revancha donde Triel, respaldada por la letalidad quirúrgica de <strong>A.Xel 42</strong> y el ingenio de <strong>Benrey Galway</strong>, quiebra para siempre el yugo aristocrático de Apostae.
   </p>
 
   <p style="font-size: 8.5pt; line-height: 1.38; text-align: justify; margin-bottom: 6px;">
@@ -536,8 +555,8 @@ p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {{
 <div style="page-break-before: always; break-before: page;"></div>
 
 <!-- PÁGINA 3: ÍNDICE DE CONTENIDOS -->
-<div style="padding: 0;">
-  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-top: 0; margin-bottom: 2px; padding-bottom: 1px; font-size: 11.5pt;">
+<div style="padding: 0; margin: 0;">
+  <h2 class="toc-header">
     Índice de Contenidos
   </h2>
   
