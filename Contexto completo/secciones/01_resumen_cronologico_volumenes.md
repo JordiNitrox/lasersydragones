@@ -318,6 +318,30 @@ Tras penetrar en las corrientes turbulentas del Maelstrom dimensional para resca
 20. **Piratas a la Plancha (Ep. 221):** Keiden revela que se refugió en el pecio para despistar a los asesinos de Apostae y proteger la vida de Triel; banquete corsario improvisado en el puente con risas y celebraciones.
 21. **Tintineo Intenso (Ep. 222):** La diosa pirata Besmara exige su tributo de salida; Keiden y Triel entregan un botín ceremonial de monedas antiguas, y tras la bendición de la deidad corsaria, la nave salta a máxima potencia rumbo a la Puerta de los Doce Soles.
 
+---
+
+### Volumen 18: Los Doce Soles
+*Subtítulo:* **Volumen XVIII · La Decimotercera Puerta I: Los Doce Soles**  
+*Episodios adaptados:* **223 al 235**  
+*Extensión:* 13 Capítulos + Nota Editorial y Prólogo + Glosario y Personajes (66 páginas en PDF)
+
+#### Sinopsis General:
+Tras emerger del Maelstrom, la tripulación de la *Estrella Errante* encara la infiltración de un asesino de la infoesfera antes de alcanzar el prodigio estelar de los Doce Soles y descender a una estación biosférica kishalee repleta de enigmas sobre el origen de A.Xel:
+1. **El Tintineo se Intensifica (Ep. 223):** El Hombre Tintineante y sus sombras ectoplásmicas acechan en los conductos; la tripulación tiende una trampa en los camarotes apagando las luces; combate claustrofóbico y ataque de ácido contra A.Xel.
+2. **En el Espacio Nadie Te Puede Oír Tintinear (Ep. 224):** Duelo cerrado en el pasillo; Kairos traba combate con sables lunares frente a granadas y espadas; Triel hackea los servos del intruso con su *Custom Rig*; Benrey ordena a Shirka un giro brusco de 90° que rompe el tubo de acople y la descompresión expulsa al Hombre Tintineante al vacío exterior, donde se congela al instante.
+3. **Ponce de Ratón (Ep. 225):** Saqueo del esquife del asesino acoplado al casco; salto hiperespacial y contemplación del impresionante anillo geométrico de doce soles en miniatura; descenso bajo tormenta en la estación biosférica de Osteth.
+4. **De Boca en Boca (Ep. 226):** Travesía por la selva bio-diseñada; ataque de un leviatán reptiliano colosal mutante de doble mandíbula; esquivas de Benrey, embestida de Kairos y descarga eléctrica de Marloc para abatir a la bestia.
+5. **Mi Pobre Angelito (Ep. 227):** Descenso de un avatar alado del Devorador («ángel de ojos vacíos»); torbellino telecinético de rocas que derriba a Marloc y Benrey; zarpazo necrótico que infecta a A.Xel con una maldición mortal.
+6. **Maldita A.Xel (Ep. 228):** Colapso biotecnológico del chasis de A.Xel; el joven monje androide Charlotte E2 realiza un angustioso ritual espiritual de sanación ki en el lodo con una gema aportada por Marloc, purgando la maldición.
+7. **Granada que Ver (Ep. 229):** Refugio en ruinas ceremoniales kishalee junto a una charca con una rana impasible; Benrey prepara una emboscada con granada de plasma pesada lanzada sobre cultistas de picos guiados por A.Xel como cebo.
+8. **¿Quién es Ustheth? (Ep. 230):** Rescate y adopción de la criatura alada nativa Kiwi mediante diplomacia de barritas; inspección de tres motos gravitatorias; apertura de las puertas kishalee y holograma de la directora Osteth anunciando la cuarentena por los desvaríos de su esposo Eltreth.
+9. **Syfus? Cyrus? Sisyrus? Sisyfo? (Ep. 231):** Incursión en el sector administrativo; enfrentamiento en una oficina en L contra la sanguinaria mercenaria semi-orca Sisyrus Sangre Fría y sus guardias de élite; victoria con la magia y fuego desintegrador de A.Xel.
+10. **¿Es este el fin de A.Xel 42? (Ep. 232):** Descubrimiento de nuevos registros sobre el protocolo de la «Primera Causa»; evasión de lásers defensivos; un androide kishalee preservado despierta y se arrodilla ante A.Xel reconociendo en su chasis la vasija sagrada de Ashera.
+11. **Chicas Pesadas (Ep. 233):** Entrada a un taller repleto de chatarra donde una joven androide rebelde con *Custom Rig* y un ejército de robots llama «mamá» a A.Xel con sarcasmo juvenil; destrucción de las máquinas y acercamiento pacífico de A.Xel.
+12. **Mi Nombre es Jennifer (Ep. 234):** La androide revela que su nombre real es Jennifer («Miseria» era su alias en el culto); reconciliación filial; Charlotte y Kiwi quedan al cuidado de la retaguardia; Benrey transmite el farol del «Martillo del Alba» por megafonía para sembrar el pánico en el mainframe.
+13. **No sé lo que Hicimos el Año Pasado (Ep. 235):** Asalto final al anfiteatro de servidores de Eltreth; conversión cáustica de Marloc fundiendo los núcleos de la IA; caída de las sombras; en la plataforma superior de mando hallan con vida a la legendaria estrella de rock espacial y telépata **Syd Velch**, abriendo el camino hacia la Decimotercera Puerta.
+
+
 
 
 

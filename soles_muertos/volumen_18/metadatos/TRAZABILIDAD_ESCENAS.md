@@ -1,5 +1,5 @@
 # Matriz de Trazabilidad Escena-Mesa: Volumen 18
-## *Los Doce Soles* (Episodios 223 a 235)
+## *La Decimotercera Puerta I: Los Doce Soles* (Episodios 223 a 235)
 ### Índice de Evidencias y Correspondencia con el Audio Original
 
 > 📍 **PROPÓSITO:**  
@@ -21,55 +21,56 @@
 
 | Capítulo / Escena | Episodio Podcast | Marcas Aprox. | Tipología | Descripción del Origen en la Mesa |
 |---|---|---|---|---|
+| **Prólogo: El Eco de los Doce Soles** | Puente | N/A | `[LIT-PUENTE]` | Transición tras la salida del Maelstrom, despedida de Keiden Ashton y primer indicio del tintineo en los conductos. |
 | **Capítulo 1: El Tintineo se Intensifica** | | | | |
-| · *I. En el Umbral de las Doce Puertas* | Ep. 223 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. En el Umbral de las Doce Puertas» a partir de los acontecimientos y tiradas del episodio 223. |
-| · *II. La Anomalía Magnética en los Sensores* | Ep. 223 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Anomalía Magnética en los Sensores» a partir de los acontecimientos y tiradas del episodio 223. |
-| · *III. Entrada en la Ciudadela Silenciosa* | Ep. 223 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Entrada en la Ciudadela Silenciosa» a partir de los acontecimientos y tiradas del episodio 223. |
+| · *I. Ecos en la Ventilación* | Ep. 223 | [15:10 - 20:00] | `[MESA-DIALOGO]` | Discusión de la tripulación ante los ruidos en la nave; identificación del Hombre Tintineante en la infoesfera. |
+| · *II. La Emboscada en los Camastros* | Ep. 223 | [20:00 - 35:00] | `[MESA-ACTO]` | Estrategia de apagar luces y emboscar en pasillo y baños: A.Xel con Charlotte, Kairos enfrente, Benrey y Triel en cuartos, Marloc al fondo. |
+| · *III. Fuego y Sombras en el Pasillo* | Ep. 223 | [35:00 - 55:00] | `[MESA-ACTO]` | Incursión de sombras incorpóreas a través de las paredes; ataque de ácido contra A.Xel y primeros intercambios de disparos. |
 | **Capítulo 2: En el Espacio Nadie Te Puede Oír Tintinear** | | | | |
-| · *I. Casquillos de Plasma en el Atraque* | Ep. 224 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Casquillos de Plasma en el Atraque» a partir de los acontecimientos y tiradas del episodio 224. |
-| · *II. Restos Cibernéticos y Ceniza* | Ep. 224 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Restos Cibernéticos y Ceniza» a partir de los acontecimientos y tiradas del episodio 224. |
-| · *III. El Avance Cauteloso de Zivok* | Ep. 224 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «III. El Avance Cauteloso de Zivok» a partir de los acontecimientos y tiradas del episodio 224. |
+| · *I. El Baile de Cuatro Brazos* | Ep. 224 | [14:00 - 32:00] | `[MESA-ACTO]` | Combate cerrado en pasillo estrecho; Kairos traba combate con sables lunares frente a la espada y granadas del intruso. |
+| · *II. Hilos de Hackeo y Ráfagas Cero* | Ep. 224 | [32:00 - 50:00] | `[MESA-ACTO]` | Triel hackea los servomotores del intruso con su *Custom Rig*; Benrey abre fuego con su pistola cero; Charlotte protege a sus aliados. |
+| · *III. En el Espacio Nadie Puede Escuchar tus Tintineos* | Ep. 224 | [50:00 - 01:26:00] | `[MESA-ACTO]` | Benrey ordena giro violento de 90° a Shirka; rotura del tubo de acople y descompresión que succiona al Hombre Tintineante al vacío donde se congela al instante. |
 | **Capítulo 3: Ponce de Ratón** | | | | |
-| · *I. Ojos Rojos en la Penumbra* | Ep. 225 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Ojos Rojos en la Penumbra» a partir de los acontecimientos y tiradas del episodio 225. |
-| · *II. La Danza de Cuatro Brazos de Kairos* | Ep. 225 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Danza de Cuatro Brazos de Kairos» a partir de los acontecimientos y tiradas del episodio 225. |
-| · *III. Prisioneros Mecánicos en la Esclusa* | Ep. 225 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Prisioneros Mecánicos en la Esclusa» a partir de los acontecimientos y tiradas del episodio 225. |
+| · *I. El Pecio del Polizón* | Ep. 225 | [15:00 - 35:00] | `[MESA-ACTO]` | Inspección y saqueo del esquife del Hombre Tintineante acoplado a la nave; hallazgo de UPBs, lingotes y memorias encriptadas. |
+| · *II. El Salto a los Doce Soles* | Ep. 225 | [35:00 - 50:00] | `[LIT-AMBIENTE]` | Salto hiperespacial hacia las coordenadas kishalee; contemplación del sistema de los Doce Soles en anillo geométrico. |
+| · *III. Descenso a la Estación Biosférica* | Ep. 225 | [50:00 - 01:10:00] | `[MESA-ACTO]` | Detección de telemetría en el anillo agrícola/biosférico de Osteth; descenso atmosférico bajo tormenta y aterrizaje en meseta. |
 | **Capítulo 4: De Boca en Boca** | | | | |
-| · *I. El Miedo a la Segunda Esclavitud* | Ep. 226 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Miedo a la Segunda Esclavitud» a partir de los acontecimientos y tiradas del episodio 226. |
-| · *II. Las Palabras Conciliadoras de Benrey* | Ep. 226 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Las Palabras Conciliadoras de Benrey» a partir de los acontecimientos y tiradas del episodio 226. |
-| · *III. La Revelación del Liderazgo de Null-9* | Ep. 226 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Revelación del Liderazgo de Null-9» a partir de los acontecimientos y tiradas del episodio 226. |
+| · *I. La Marcha en la Jungla Mutante* | Ep. 226 | [14:00 - 30:00] | `[LIT-AMBIENTE]` | Travesía por la selva bio-diseñada kishalee; helechos gigantescos, fango y restos de motos del Culto del Devorador. |
+| · *II. El Estruendo de la Arboleda* | Ep. 226 | [30:00 - 45:00] | `[MESA-ACTO]` | Ruptura de árboles y aparición de la bestia ápice colosal mutante de doble mandíbula; estampida inicial. |
+| · *III. De Boca en Boca* | Ep. 226 | [45:00 - 01:08:00] | `[MESA-ACTO]` | Combate contra el leviatán; esquivas de Benrey, tajos de Kairos, disparo desintegrador de A.Xel y descarga eléctrica de Marloc. |
 | **Capítulo 5: Mi Pobre Angelito** | | | | |
-| · *I. El Abrazo Cauteloso con Miseria* | Ep. 227 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Abrazo Cauteloso con Miseria» a partir de los acontecimientos y tiradas del episodio 227. |
-| · *II. La Advertencia Sobre la Envidia de Null-9* | Ep. 227 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Advertencia Sobre la Envidia de Null-9» a partir de los acontecimientos y tiradas del episodio 227. |
-| · *III. El Secreto Bajo el Chasis* | Ep. 227 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Secreto Bajo el Chasis» a partir de los acontecimientos y tiradas del episodio 227. |
+| · *I. La Sombra que Desciende del Trueno* | Ep. 227 | [15:00 - 30:00] | `[MESA-ACTO]` | Caída de la bestia; descenso desde la tormenta de una entidad humanoide alada del Devorador («ángel de ojos vacíos»). |
+| · *II. El Torbellino de Basalto y Vacío* | Ep. 227 | [30:00 - 48:00] | `[MESA-ACTO]` | Torbellino telecinético de rocas y lodo; salvación de reflejos de Benrey, impacto contra Marloc y defensa de Kairos. |
+| · *III. Fuego Cruzado y la Garra de la Maldición* | Ep. 227 | [48:00 - 01:05:00] | `[MESA-ACTO]` | Arcos voltaicos de Marloc y fuego cruzado; zarpazo necrótico final del ángel que infecta a A.Xel con una maldición mortal. |
 | **Capítulo 6: Maldita A.Xel** | | | | |
-| · *I. En los Tubos de Antimateria* | Ep. 228 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. En los Tubos de Antimateria» a partir de los acontecimientos y tiradas del episodio 228. |
-| · *II. El Pirateo del Generador de Flujo* | Ep. 228 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. El Pirateo del Generador de Flujo» a partir de los acontecimientos y tiradas del episodio 228. |
-| · *III. Líneas de Energía Congeladas* | Ep. 228 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Líneas de Energía Congeladas» a partir de los acontecimientos y tiradas del episodio 228. |
+| · *I. La Agonía del Alma Sintética* | Ep. 228 | [15:00 - 30:00] | `[MESA-ACTO]` | Colapso de sistemas de A.Xel; diagnóstico de corrupción de alma; impotencia de la tecnología ordinaria. |
+| · *II. El Círculo Místico de Charlotte* | Ep. 228 | [30:00 - 48:00] | `[MESA-ACTO]` | Charlotte asume la curación espiritual; uso de gema de resistencia aportada por Marloc y cánticos monásticos en el lodo. |
+| · *III. Luz Contra la Oscuridad* | Ep. 228 | [48:00 - 01:08:00] | `[MESA-ACTO]` | Prueba de nivel de lanzador superada; estallido de luz dorada y rosada que purga la maldición y reactiva a A.Xel. |
 | **Capítulo 7: Granada que Ver** | | | | |
-| · *I. Fuego Cruzado en la Plaza de Mármol* | Ep. 229 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «I. Fuego Cruzado en la Plaza de Mármol» a partir de los acontecimientos y tiradas del episodio 229. |
-| · *II. La Puntería Impecable de A.Xel* | Ep. 229 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Puntería Impecable de A.Xel» a partir de los acontecimientos y tiradas del episodio 229. |
-| · *III. Ruptura del Cerco* | Ep. 229 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Ruptura del Cerco» a partir de los acontecimientos y tiradas del episodio 229. |
+| · *I. Refugio en las Ruinas Anegadas* | Ep. 229 | [18:00 - 24:00] | `[LIT-AMBIENTE]` | Llegada a la plaza ceremonial kishalee inundada; detalle visual de la pequeña rana en el charco y detección de cultistas. |
+| · *II. La Trampa de la Granada* | Ep. 229 | [24:00 - 45:00] | `[MESA-ACTO]` | Cebo de A.Xel al borde del charco; acción preparada de Benrey lanzando una granada de plasma pesada sobre los cultistas de picos. |
+| · *III. El Contragolpe en el Fango* | Ep. 229 | [45:00 - 01:05:00] | `[MESA-ACTO]` | Ralentización de Marloc sobre los supervivientes y remate cuerpo a cuerpo de Kairos y Triel; recuperación de mapas y planes. |
 | **Capítulo 8: ¿Quién es Ustheth?** | | | | |
-| · *I. La Proyección de Neón de Null-9* | Ep. 230 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Proyección de Neón de Null-9» a partir de los acontecimientos y tiradas del episodio 230. |
-| · *II. Palabras Envenenadas de Hermandad* | Ep. 230 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Palabras Envenenadas de Hermandad» a partir de los acontecimientos y tiradas del episodio 230. |
-| · *III. La Aceptación del Duelo* | Ep. 230 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Aceptación del Duelo» a partir de los acontecimientos y tiradas del episodio 230. |
+| · *I. El Rescate de Kiwi* | Ep. 230 | [16:00 - 32:00] | `[MESA-ACTO]` | Hallazgo del animalito alado herido; Benrey lo alimenta con barritas y Triel lo bautiza como **Kiwi** (mascota oficial). |
+| · *II. Las Tres Motos Gravitatorias* | Ep. 230 | [32:00 - 48:00] | `[MESA-ACTO]` | Inspección de tres motos gravitatorias del culto en la entrada; dos funcionales aseguradas para evacuación. |
+| · *III. El Sello Triangular de Osteth* | Ep. 230 | [48:00 - 01:15:00] | `[MESA-ACTO]` | Apertura de las puertas de bronce kishalee; encendido de luces y holograma de la Directora Osteth explicando la cuarentena. |
 | **Capítulo 9: Syfus? Cyrus? Sisyrus? Sisyfo?** | | | | |
-| · *I. El Suelo que Respira* | Ep. 231 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Suelo que Respira» a partir de los acontecimientos y tiradas del episodio 231. |
-| · *II. Aleaciones de Oro y Código Primordial* | Ep. 231 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Aleaciones de Oro y Código Primordial» a partir de los acontecimientos y tiradas del episodio 231. |
-| · *III. Ecos de la Voz de Ashera* | Ep. 231 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Ecos de la Voz de Ashera» a partir de los acontecimientos y tiradas del episodio 231. |
+| · *I. Los Archivos de Conciencias Kishalee* | Ep. 231 | [18:00 - 30:00] | `[CANON-CTX]` | Terminales kishalee revelan los experimentos de transferencia de conciencia de Osteth y su consorte Eltreth. |
+| · *II. Emboscada en la Oficina en L* | Ep. 231 | [30:00 - 45:00] | `[MESA-ACTO]` | Identificación de la infame mercenaria semi-orca **Sisyrus Sangre Fría** (tatuaje de agujero negro) y cultistas en barricada. |
+| · *III. El Duelo Contra Sangre Fría* | Ep. 231 | [45:00 - 01:10:00] | `[MESA-ACTO]` | Fuego cruzado en la oficina; descargas eléctricas de Marloc y disparos desintegradores de A.Xel que abaten a Sisyrus. |
 | **Capítulo 10: ¿Es este el fin de A.Xel 42?** | | | | |
-| · *I. Los Centinelas de Oro Vivo* | Ep. 232 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Los Centinelas de Oro Vivo» a partir de los acontecimientos y tiradas del episodio 232. |
-| · *II. El Campo Probabilístico de Kairos* | Ep. 232 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. El Campo Probabilístico de Kairos» a partir de los acontecimientos y tiradas del episodio 232. |
-| · *III. La Caída de los Colosos Arcanos* | Ep. 232 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Caída de los Colosos Arcanos» a partir de los acontecimientos y tiradas del episodio 232. |
+| · *I. Ecos Holográficos de Osteth* | Ep. 232 | [24:00 - 38:00] | `[MESA-ACTO]` | Descubrimiento de nuevos archivos de Osteth sobre la corrupción de Eltreth y el protocolo de la «Primera Causa». |
+| · *II. Saludo a la Primera Causa* | Ep. 232 | [38:00 - 52:00] | `[MESA-ACTO]` | Evasión de lásers de seguridad; androide kishalee despierta y se arrodilla ante A.Xel reconociendo el chasis de Ashera. |
+| · *III. La Puerta Barricada* | Ep. 232 | [52:00 - 01:05:00] | `[LIT-PUENTE]` | Advertencia sobre una androide rebelde atrincherada con robots tras la compuerta del laboratorio de desarrollo. |
 | **Capítulo 11: Chicas Pesadas** | | | | |
-| · *I. La Traición en el Pasillo Dorado* | Ep. 233 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Traición en el Pasillo Dorado» a partir de los acontecimientos y tiradas del episodio 233. |
-| · *II. A.Xel como Escudo de su Hija* | Ep. 233 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. A.Xel como Escudo de su Hija» a partir de los acontecimientos y tiradas del episodio 233. |
-| · *III. La Explosión de Luz de la Forja* | Ep. 233 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Explosión de Luz de la Forja» a partir de los acontecimientos y tiradas del episodio 233. |
+| · *I. Barricadas y Robótica Rebelde* | Ep. 233 | [18:00 - 30:00] | `[MESA-ACTO]` | Entrada al taller repleto de chatarra; encuentro con una joven androide rebelde con *Custom Rig* que los desafía. |
+| · *II. «¿Eres tú, mamá?»* | Ep. 233 | [30:00 - 48:00] | `[MESA-DIALOGO]` | La androide llama «mamá» a A.Xel con actitud sarcástica de adolescente; combate táctico contra su escuadrón de robots de asalto. |
+| · *III. El Dilema de la Sangre Sintética* | Ep. 233 | [48:00 - 01:12:00] | `[MESA-ACTO]` | Destrucción de los robots; A.Xel enfunda su arma y apela al diálogo y libre albedrío; la joven baja el arma y accede a hablar. |
 | **Capítulo 12: Mi Nombre es Jennifer** | | | | |
-| · *I. Soldadura de Nanobots en Emergencia* | Ep. 234 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Soldadura de Nanobots en Emergencia» a partir de los acontecimientos y tiradas del episodio 234. |
-| · *II. El Latido Dorado que no se Apaga* | Ep. 234 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. El Latido Dorado que no se Apaga» a partir de los acontecimientos y tiradas del episodio 234. |
-| · *III. La Persecución Implacable del Enano* | Ep. 234 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Persecución Implacable del Enano» a partir de los acontecimientos y tiradas del episodio 234. |
+| · *I. La Máscara de Miseria* | Ep. 234 | [15:00 - 32:00] | `[MESA-DIALOGO]` | Revelación de su verdadero nombre: **Jennifer** («Miseria» era su alias en el culto); manipulación de Null-9 y lazos filiales con A.Xel. |
+| · *II. El Refugio de Kiwi y la Séptima Puerta* | Ep. 234 | [32:00 - 48:00] | `[LIT-PUENTE]` | Preparación para la Séptima Puerta del mainframe; Charlotte, Kiwi y Jennifer permanecen en el refugio seguro. |
+| · *III. El Martillo del Alba* | Ep. 234 | [48:00 - 01:05:00] | `[MESA-DIALOGO]` | Benrey transmite un magistral farol psicológico por megafonía («¡Disparen el Martillo del Alba!») sembrando el pánico antes del asalto. |
 | **Capítulo 13: No sé lo que Hicimos el Año Pasado** | | | | |
-| · *I. Frente al Abismo de la Treceava Puerta* | Ep. 235 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Frente al Abismo de la Treceava Puerta» a partir de los acontecimientos y tiradas del episodio 235. |
-| · *II. Las Runas del Devastador Parpadean* | Ep. 235 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Las Runas del Devastador Parpadean» a partir de los acontecimientos y tiradas del episodio 235. |
-| · *III. La Determinación de los Héroes* | Ep. 235 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Determinación de los Héroes» a partir de los acontecimientos y tiradas del episodio 235. |
+| · *I. La Cámara de Servidores en Llamas* | Ep. 235 | [15:00 - 32:00] | `[MESA-ACTO]` | Asalto al anfiteatro de computadoras; manifestación holográfica de Eltreth detonando consolas y sombras ectoplásmicas. |
+| · *II. Lágrimas, Ácido y Sombras* | Ep. 235 | [32:00 - 58:00] | `[MESA-ACTO]` | Conversión cáustica de Marloc fundiendo los servidores centrales; Kairos y Triel combatiendo sombras; purga del mainframe. |
+| · *III. El Hombre en la Plataforma Superior* | Ep. 235 | [58:00 - 01:10:00] | `[MESA-ACTO]` | Ascenso a la plataforma de mando superior; hallazgo de la legendaria estrella de rock y telépata **Syd Velch** con vida. |
