@@ -91,19 +91,20 @@ def construir_barra_navegacion(anterior: dict, indice: dict, siguiente: dict) ->
     """Genera la barra de navegación entre capítulos para la lectura fluida."""
     partes = []
     if anterior:
-        partes.append(f"[⬅️ {anterior['label']}]({anterior['page']})")
+        partes.append(f"[⬅️ **{anterior['label']}**]({anterior['page']})")
     else:
-        partes.append("⬅️ *Inicio*")
+        partes.append(f"[🏠 **Biblioteca (Home)**](Home)")
 
-    partes.append(f"[📚 {indice['label']}]({indice['page']})")
+    partes.append(f"[📚 **{indice['label']}**]({indice['page']})")
 
     if siguiente:
-        partes.append(f"[{siguiente['label']} ➡️]({siguiente['page']})")
+        partes.append(f"[**{siguiente['label']}** ➡️]({siguiente['page']})")
     else:
-        partes.append("*Fin del Volumen* ➡️")
+        partes.append(f"[🏠 **Biblioteca (Home)**](Home)")
 
-    nav_text = " | ".join(partes)
-    return f"\n\n---\n\n<p align=\"center\">\n  {nav_text}\n</p>\n\n---\n\n"
+    nav_text = " &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; ".join(partes)
+    return f"\n\n---\n\n<div align=\"center\">\n\n{nav_text}\n\n</div>\n\n---\n\n"
+
 
 
 def procesar_volumen(vol_dir: str, vol_num: int):
@@ -260,7 +261,7 @@ def generar_wiki(repo_dir: str, wiki_dir: str):
                     content = content.replace(f"secciones/{a_ref}", s_ref)
                     content = content.replace(a_ref, s_ref)
 
-                nav_compendio = "\n\n---\n\n<p align=\"center\">\n  [🏠 Inicio Wiki](Home) | [👥 Personajes](Compendio-Dossier-Personajes) | [🪐 Escenarios](Compendio-Indice-Escenarios) | [🏢 Facciones](Compendio-Corporaciones-Facciones) | [📅 Cronología](Compendio-Cronologia-Volumenes)\n</p>\n\n---\n\n"
+                nav_compendio = "\n\n---\n\n<div align=\"center\">\n\n[🏠 **Inicio Wiki**](Home) &nbsp;•&nbsp; [👥 **Personajes**](Compendio-Dossier-Personajes) &nbsp;•&nbsp; [🪐 **Escenarios**](Compendio-Indice-Escenarios) &nbsp;•&nbsp; [🏢 **Facciones**](Compendio-Corporaciones-Facciones) &nbsp;•&nbsp; [📅 **Cronología**](Compendio-Cronologia-Volumenes)\n\n</div>\n\n---\n\n"
 
                 out_comp = os.path.join(wiki_dir, f"{wiki_slug}.md")
                 with open(out_comp, 'w', encoding='utf-8') as f:
@@ -322,7 +323,7 @@ def generar_indice_volumen(wiki_dir: str, vol: dict):
         f"👉 [**Descargar PDF en carpeta del proyecto**](https://github.com/JordiNitrox/lasersydragones/tree/main/soles_muertos/libros_pdf)",
         "",
         "---",
-        "<p align=\"center\">[🏠 Volver a la Portada de la Biblioteca](Home)</p>"
+        "<div align=\"center\">\n\n[🏠 **Volver a la Portada de la Biblioteca**](Home)\n\n</div>"
     ])
 
     out_path = os.path.join(wiki_dir, f"Volumen-{v_num:02d}.md")
