@@ -21,51 +21,51 @@
 
 | Capítulo / Escena | Episodio Podcast | Marcas Aprox. | Tipología | Descripción del Origen en la Mesa |
 |---|---|---|---|---|
-| **Capítulo 1: Zivokvieramos a Vernos** | | | | |
-| · *I. El Enano en la Esclusa* | Ep. 136 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Enano en la Esclusa» a partir de los acontecimientos y tiradas del episodio 136. |
-| · *II. Credenciales de Pólvora y Honor* | Ep. 136 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Credenciales de Pólvora y Honor» a partir de los acontecimientos y tiradas del episodio 136. |
-| · *III. La Tripulación Vuelve a Estar Completa* | Ep. 136 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Tripulación Vuelve a Estar Completa» a partir de los acontecimientos y tiradas del episodio 136. |
-| **Capítulo 2: Ecos del más allá** | | | | |
-| · *I. El Eco en el Escáner Cuántico* | Ep. 137 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Eco en el Escáner Cuántico» a partir de los acontecimientos y tiradas del episodio 137. |
-| · *II. El Rostro Desencajado de Benrey* | Ep. 137 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. El Rostro Desencajado de Benrey» a partir de los acontecimientos y tiradas del episodio 137. |
-| · *III. Fijando Rumbo hacia el Pecio* | Ep. 137 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «III. Fijando Rumbo hacia el Pecio» a partir de los acontecimientos y tiradas del episodio 137. |
-| **Capítulo 3: Trieliciosísimo** | | | | |
-| · *I. La Silueta Muerta en el Vacío* | Ep. 138 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Silueta Muerta en el Vacío» a partir de los acontecimientos y tiradas del episodio 138. |
-| · *II. Botas Magnéticas en el Casco Herido* | Ep. 138 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Botas Magnéticas en el Casco Herido» a partir de los acontecimientos y tiradas del episodio 138. |
-| · *III. Entrada por la Esclusa de Popa* | Ep. 138 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Entrada por la Esclusa de Popa» a partir de los acontecimientos y tiradas del episodio 138. |
-| **Capítulo 4: El Corazón de la Oscuridad** | | | | |
-| · *I. Gravedad Cero y Silencio Sepulcral* | Ep. 139 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Gravedad Cero y Silencio Sepulcral» a partir de los acontecimientos y tiradas del episodio 139. |
-| · *II. Las Habitaciones de la Familia* | Ep. 139 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Las Habitaciones de la Familia» a partir de los acontecimientos y tiradas del episodio 139. |
-| · *III. La Furia Contenida de Benrey* | Ep. 139 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Furia Contenida de Benrey» a partir de los acontecimientos y tiradas del episodio 139. |
+| **Capítulo 1: Zivok** | | | | |
+| · *I. El Vacío de Marloc y la Llegada del Enano* | Ep. 136 | [05:00 - 25:30] | `[MESA-DIALOGO]` / `[CANON-CTX]` | Presentación de Zivok (Juan Pablo) en servoarmadura *El Espectro Azul*; promesa a Marloc y lazo paterno con Ángela. |
+| · *II. El Susurro del Núcleo Sintético* | Ep. 136 | [28:00 - 45:10] | `[MESA-ACTO]` / `[LIT-AMBIENTE]` | Benrey habla a solas con el núcleo vivo de la *Estrella Errante*; anomalías psicotrónicas. |
+| · *III. El Datapad de Gonzalo y la Nave de Hueso* | Ep. 136 | [48:00 - 01:14:00] | `[MESA-ACTO]` | Vídeo de Gonzalo: supernova imposible a 500M de años, leviatán de hueso con roca del Derribo injertada y *La Galway* atracada. |
+| **Capítulo 2: Ecos del Más Allá** | | | | |
+| · *I. La Muñeca de Cuchillas y la Confesión* | Ep. 137 | [06:00 - 24:00] | `[MESA-DIALOGO]` | Zivok identifica a la *Razor Doll*; Triel le revela a Zivok las líneas temporales alternas y el horror del Degenerador Estelar. |
+| · *II. Cinco Semanas en el Deriva y el Grito de la Nave* | Ep. 137 | [26:00 - 46:30] | `[MESA-ACTO]` | Salto de 5 semanas; espasmo psíquico de la nave; conversación íntima de Zivok con el capitán Benrey. |
+| · *III. El Imperio de los Huesos y la Caminata Espacial* | Ep. 137 | [49:00 - 01:15:00] | `[MESA-ACTO]` | Llegada al leviatán de 19 km con desintegración atómica; *La Galway* averiada; spacewalk EVA y emboscada del Shantak. |
+| **Capítulo 3: En el Vacío** | | | | |
+| · *I. Batalla en Gravedad Cero* | Ep. 138 | [05:00 - 32:00] | `[MESA-ACTO]` | Combate contra el Shantak; Triel apresada por garras; Zivok y Gerty al choque; órdenes de Benrey y tiro de A.Xel. |
+| · *II. Abordaje de La Galway y Pirateo de la Consola* | Ep. 138 | [35:00 - 52:00] | `[MESA-ACTO]` | Acceso a *La Galway*; Triel logra un 36 en Informática para desbloquear la bitácora de la nave. |
+| · *III. La Tripulación Perdida y la Hermana de Zivok* | Ep. 138 | [54:00 - 01:13:00] | `[MESA-DIALOGO]` / `[CANON-CTX]` | Vídeo de Rim Rey: Valentina, Yolmar, Mogrim y Gazit Asariel (Zivok descubre que su hermana está viva); misión de Marcellus. |
+| **Capítulo 4: El Corazón de la Nave** | | | | |
+| · *I. Entrada por el Cordón Umbilical y Ecos Psíquicos* | Ep. 139 | [08:00 - 26:00] | `[LIT-AMBIENTE]` | Cruce al acorazado; cementerio de naves de hueso; Benrey escucha réplicas de su propia voz. |
+| · *II. El Embrujo de los Gatos Persas y el Ojo de Cuyo* | Ep. 139 | [29:00 - 48:00] | `[MESA-ACTO]` | Embrujo de sombras en el pasillo; Zivok alucina felinos gigantes; Benrey usa *Ojo de Cuyo*; Triel y Gerty rompen las 5 lámparas. |
+| · *III. La Puerta Soldada de la Estación C23 y la Granada* | Ep. 139 | [51:00 - 01:14:00] | `[MESA-DIALOGO]` / `[MESA-ACTO]` | Rim Rey cree que son espíritus; Benrey evoca su niñez en Absalón; Zivok corta con la barrena; Rim Rey arroja granada cegadora. |
 | **Capítulo 5: Ratones en Conflicto** | | | | |
-| · *I. Ojos Vacíos en la Penumbra* | Ep. 140 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Ojos Vacíos en la Penumbra» a partir de los acontecimientos y tiradas del episodio 140. |
-| · *II. Fuego de Choque de Zivok* | Ep. 140 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego de Choque de Zivok» a partir de los acontecimientos y tiradas del episodio 140. |
-| · *III. El Lamento de los Condenados* | Ep. 140 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Lamento de los Condenados» a partir de los acontecimientos y tiradas del episodio 140. |
-| **Capítulo 6: Un Tranvía Llamado Parálisis** | | | | |
-| · *I. Chisporroteo en la Sala de Máquinas* | Ep. 141 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Chisporroteo en la Sala de Máquinas» a partir de los acontecimientos y tiradas del episodio 141. |
-| · *II. La Fuerza Mecánica de Gerty* | Ep. 141 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Fuerza Mecánica de Gerty» a partir de los acontecimientos y tiradas del episodio 141. |
-| · *III. El Zumbido de la Gravedad que Regresa* | Ep. 141 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Zumbido de la Gravedad que Regresa» a partir de los acontecimientos y tiradas del episodio 141. |
+| · *I. Entrega Pacífica y Abrazo de Primos* | Ep. 140 | [06:00 - 25:00] | `[MESA-ACTO]` / `[MESA-DIALOGO]` | Granada ciega a Triel; Benrey entra desarmado con patas arriba; Rim Rey llora y se abrazan. |
+| · *II. Servitor Craneal y Reparto de Fuerzas* | Ep. 140 | [28:00 - 47:00] | `[MESA-ACTO]` | Triel hackea la torreta defensiva; cráneo servidor de Eox; Rim Rey explica el paradero de sus compañeros. |
+| · *III. Código de Señales y Salida del Tranvía* | Ep. 140 | [50:00 - 01:14:00] | `[MESA-ACTO]` | Código Morse de luces; Rim Rey se queda a operar las agujas; la escuadra aborda el tranvía de costillas óseas. |
+| **Capítulo 6: Un Tranvía Llamado Eox** | | | | |
+| · *I. Conspiraciones de Dantis 3 y el Hambre de los Gules* | Ep. 141 | [04:00 - 24:00] | `[MESA-ACTO]` | Dossier de Mogrim y Gazit; embrujo de hambre en el tranvía; Zivok y A.Xel paralizados. |
+| · *II. Inmunidad Élfica y Techo del Vagón* | Ep. 141 | [26:00 - 44:00] | `[MESA-ACTO]` | Triel (sangre élfica) y Gerty rescatan a los paralizados; suben al techo exterior del tranvía esquivando vigas. |
+| · *III. El Área de Mando y la Visión de los Doce Soles* | Ep. 141 | [47:00 - 01:13:00] | `[MESA-ACTO]` / `[CANON-CTX]` | Vistazo al nexo del Área de Mando; brecha colosal con radiación; visión cósmica de los Doce Soles ardiendo en círculo. |
 | **Capítulo 7: Parque Holográfico** | | | | |
-| · *I. El Datapad Manchado de Grasa* | Ep. 142 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Datapad Manchado de Grasa» a partir de los acontecimientos y tiradas del episodio 142. |
-| · *II. La Voz Agónica de Gazit* | Ep. 142 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Voz Agónica de Gazit» a partir de los acontecimientos y tiradas del episodio 142. |
-| · *III. Lágrimas en el Hombro de la Mecánica* | Ep. 142 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Lágrimas en el Hombro de la Mecánica» a partir de los acontecimientos y tiradas del episodio 142. |
+| · *I. El Andén de Ectoplasma y el Velo Negro* | Ep. 142 | [05:00 - 22:00] | `[LIT-AMBIENTE]` | Llegada a la cubierta de Observación; consolas supurando ectoplasma; cruce del velo holográfico psicotrónico. |
+| · *II. Pesadillas de Bombardeo y Estampida Ardiente* | Ep. 142 | [25:00 - 48:00] | `[MESA-ACTO]` | Recuerdos de esclavitud de A.Xel y Akiton en ruinas; estampida de 200 bestias ardientes; dispersión táctica en árboles y saltojets. |
+| · *III. La Grieta en el Mamparo y el Rapto de Benrey* | Ep. 142 | [51:00 - 01:14:00] | `[MESA-ACTO]` | Benrey se oculta en una fisura; garras esqueléticas con ectoplasma lo atrapan de los tobillos y lo arrastran al subsuelo. |
 | **Capítulo 8: El Laberinto del Minotauro** | | | | |
-| · *I. El Vórtice de Hueso y Cables* | Ep. 143 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Vórtice de Hueso y Cables» a partir de los acontecimientos y tiradas del episodio 143. |
-| · *II. Herejía Biológica en el Hangar* | Ep. 143 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Herejía Biológica en el Hangar» a partir de los acontecimientos y tiradas del episodio 143. |
-| · *III. La Decisión de Purgar el Lugar* | Ep. 143 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Decisión de Purgar el Lugar» a partir de los acontecimientos y tiradas del episodio 143. |
-| **Capítulo 9: En memoria de Steve 34** | | | | |
-| · *I. La Bestia Quimérica de la Muerte* | Ep. 144 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Bestia Quimérica de la Muerte» a partir de los acontecimientos y tiradas del episodio 144. |
-| · *II. El Muro de Fuego de Zivok* | Ep. 144 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. El Muro de Fuego de Zivok» a partir de los acontecimientos y tiradas del episodio 144. |
-| · *III. El Disparo Certero de A.Xel* | Ep. 144 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Disparo Certero de A.Xel» a partir de los acontecimientos y tiradas del episodio 144. |
+| · *I. Rescate de la Fosa y el Insecto del Enjambre* | Ep. 143 | [04:00 - 26:00] | `[MESA-ACTO]` | A.Xel sondea con la porra; Gerty y Zivok arrancan la plancha de blindaje; avistamiento de un insecto explorador del Enjambre. |
+| · *II. El Salón Arcade y el Laberinto Criptográfico* | Ep. 143 | [29:00 - 45:00] | `[MESA-ACTO]` | Salón de juegos akitoniano; máquina arcade con laberinto de Dantis 3; Triel y Zivok desbloquean la cerradura mística. |
+| · *III. El Círculo Místico y las Tropas Óseas Motorizadas* | Ep. 143 | [48:00 - 01:15:00] | `[MESA-ACTO]` | Encuentro con Gazit y Mogrim en meditación; abrazo fraternal; emboscada de Tropas Óseas disfrazadas de motociclistas. |
+| **Capítulo 9: En Memoria de Steve 34** | | | | |
+| · *I. Disparo Sónico, Martillazo y Tormenta de Arena* | Ep. 144 | [16:00 - 32:00] | `[MESA-ACTO]` | Triel y Gerty abaten al primer soldado; colapso en nube de arena venenosa que causa alucinaciones a A.Xel. |
+| · *II. Huesos Espirituales y Fuego Concentrado* | Ep. 144 | [34:00 - 48:00] | `[MESA-ACTO]` | Antitoxina de A.Xel; Gazit canaliza *Huesos Espirituales*; Zivok y Benrey contraatacan; primer soldado muestra la cara de A.Xel. |
+| · *III. El Fin del Soldado y el Casco de Steve 34* | Ep. 144 | [50:00 - 01:14:00] | `[MESA-ACTO]` | A.Xel destruye al segundo soldado; el casco se quiebra revelando al androide amarillo 34 de su pasado; colapso emocional. |
 | **Capítulo 10: No Pegue Hueco** | | | | |
-| · *I. En el Umbral del Puente* | Ep. 145 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. En el Umbral del Puente» a partir de los acontecimientos y tiradas del episodio 145. |
-| · *II. Duelo de Códigos y Almas* | Ep. 145 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. Duelo de Códigos y Almas» a partir de los acontecimientos y tiradas del episodio 145. |
-| · *III. La Llave del Sistema Restaurada* | Ep. 145 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Llave del Sistema Restaurada» a partir de los acontecimientos y tiradas del episodio 145. |
-| **Capítulo 11: Directo al Corazóooon** | | | | |
-| · *I. El Verdugo en el Asiento de Mando* | Ep. 146 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. El Verdugo en el Asiento de Mando» a partir de los acontecimientos y tiradas del episodio 146. |
-| · *II. La Sonrisa Cínica del Muerto* | Ep. 146 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Sonrisa Cínica del Muerto» a partir de los acontecimientos y tiradas del episodio 146. |
-| · *III. El Desafío a Muerte de Benrey* | Ep. 146 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Desafío a Muerte de Benrey» a partir de los acontecimientos y tiradas del episodio 146. |
+| · *I. El Misterio del Nexo y la Conspiración Histórica* | Ep. 145 | [21:00 - 44:00] | `[CANON-CTX]` / `[MESA-DIALOGO]` | Gazit explica el aislamiento espiritual del pecio y el nexo del mando; Mogrim expone la conspiración de la Guerra de Magos. |
+| · *II. El Conducto Estrecho y la Batalla Espacial Fantasma* | Ep. 145 | [47:00 - 01:05:00] | `[MESA-ACTO]` | Paso por ventilación; pasillo fundido; alerta de ataque y descompresión; Gazit y Gerty expulsados al vacío. |
+| · *III. Rescate en Cero-G y el Código de la Legión* | Ep. 145 | [01:07:00 - 01:15:00] | `[MESA-ACTO]` | Benrey lanza pistola gravitatoria a Gazit; Triel vuela por Gerty; Benrey usa radio militar (Diplomacia 31) y disipa el embrujo. |
+| **Capítulo 11: Directo al Corazón** | | | | |
+| · *I. Fiebre de Gul y Guardia en C23* | Ep. 146 | [22:00 - 39:00] | `[MESA-ACTO]` | Tratamiento médico de Rim Rey; Gazit y Mogrim quedan en retaguardia; la escuadra se dirige a los motores. |
+| · *II. El Espectro de Alana y el Nido de los Desamparados* | Ep. 146 | [41:00 - 58:00] | `[MESA-ACTO]` | Aparición de Alana cruzando el tren y vídeo con ojos muertos; llegada a motores cubiertos de telaraña; cadáver de Mitra. |
+| · *III. La Visión de la Muñeca de Cuchillas y el Archivo Maldito* | Ep. 146 | [01:00:00 - 01:14:00] | `[MESA-ACTO]` | Zivok sintoniza la radio y queda estremecido por la visión de la Razor Doll; vídeo de Triel morena, Jig y Marloc abandonando a A.Xel. |
 | **Capítulo 12: Corazón Espinado** | | | | |
-| · *I. Tormenta de Plasma en el Puente* | Ep. 147 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. Tormenta de Plasma en el Puente» a partir de los acontecimientos y tiradas del episodio 147. |
-| · *II. La Venganza del Linaje Galway* | Ep. 147 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Venganza del Linaje Galway» a partir de los acontecimientos y tiradas del episodio 147. |
-| · *III. Silencio Tras la Caída del Tirano* | Ep. 147 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Silencio Tras la Caída del Tirano» a partir de los acontecimientos y tiradas del episodio 147. |
+| · *I. Cierre de Esclusas y Despertar de los Corazones* | Ep. 147 | [18:00 - 35:00] | `[MESA-ACTO]` | Trampa en la sala de seguridad; obturadores cerrados; 6 zombis y 4 corazones arácnidos (*Love-lorn*) emboscan al grupo. |
+| · *II. Red de Energía, Fuego Amigo y Mordisco Cínico* | Ep. 147 | [37:00 - 01:06:00] | `[MESA-ACTO]` | A.Xel atrapada en red; Benrey en confusión dispara a A.Xel; Triel sufre el *Mordisco del Cínico* y fatiga. |
+| · *III. El Corazón Metálico de Mitra y Resistencia al Límite* | Ep. 147 | [01:08:00 - 01:25:00] | `[MESA-ACTO]` | Corazón reforzado de Mitra; Zivok y Gerty al frente; A.Xel contraataca; círculo defensivo y clímax en suspenso del volumen. |

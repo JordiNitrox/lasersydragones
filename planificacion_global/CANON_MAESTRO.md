@@ -281,6 +281,18 @@ Conforme la campaña progresa en nuevos episodios y volúmenes, se deben incorpo
   - *Especie / Facción:* Drow / Nobleza exiliada de Apostae en la Torre Norte de Kairos.
   - *Aparición:* Volumen 11 (Ep. 127-133).
   - *Función:* Escudería de carreras e inversores mercenarios que patrocinan al equipo cediéndoles el *Rally Jammer* y una moto monorrueda a cambio del 30% del premio.
+- **Rim Rey Galway:**
+  - *Especie / Rol:* Ysoki / Capitán mercante del carguero enano *La Galway* y primo de Benrey Galway.
+  - *Aparición:* Volumen 12 (Ep. 138-146) [mencionado previamente en Vol. 1, 2 y 3].
+  - *Función:* Superviviente herido y atrincherado en la Estación de Tránsito C23 del *Imperio de los Huesos*. Reencuentro fraternal con Benrey; ayuda a cambiar las vías del tranvía óseo militar para que el grupo alcance el núcleo de motores mientras convalece de la fiebre de gul.
+- **Gazit Asariel:**
+  - *Especie / Rol:* Enana / Mística telúrica de Dantis 3 y hermana biológica de Zivok.
+  - *Aparición:* Volumen 12 (Ep. 138, 143-146).
+  - *Función:* Tripulante científica de *La Galway*, refugiada en meditación profunda en la cubierta del parque holográfico junto a Mogrim. Emotivo reencuentro fraternal con Zivok; invoca huesos espirituales y artes místicas para repeler a las tropas óseas antes de regresar a custodiar C23.
+- **Mogrim:**
+  - *Especie / Rol:* Nuoar (minotauro estelar) / Solariano y ex-investigador de Los Protectores (*The Stewards*).
+  - *Aparición:* Volumen 12 (Ep. 143-146).
+  - *Función:* Erudito del esoterismo dimensional y soldado solariano. Alerta a la tripulación sobre el aislamiento dimensional del *Imperio de los Huesos* respecto al Río de las Almas de Pharasma y combate junto al grupo con poderes de gravedad y fotones.
 
 ---
 
@@ -317,6 +329,7 @@ Mantener actualizado el estado evolutivo de los protagonistas entre volumen y vo
 | **Volumen 9** | *Estrella Errante* (dársena de Orphys y salto a la Deriva) | Sector 27 (Arena de Zo!) / Matadero de Orphys / Desfiladero de la Necrogarganta | Redención de Gallito Peligro cumpliendo la promesa a Radavox; Triel descifra el anagrama **CLAMOR SAMBOR = MARLOC BOSMAR**; Marloc asume su sacrificio cíclico tras la visión de Ambrose y Chiskisk; Gerty empuña el Martillo de Magma; A.Xel abate al titán Ellicoth; Benrey desenmascara y derrota a Marcellus; recepción de la «Carta de Despido» de Inversiones Estelares S.C. liberando a la tripulación rumbo a Nejeor. | Célula de Marcellus desarticulada en Eox; Flota de Cadáveres (Almirante Vorces) y Culto del Devorador en ruta hacia el gigante gaseoso Nejeor VI y la Puerta del Sistema. |
 | **Volumen 10** | *Estrella Errante* (salto a Apostae) / Naves de transporte drow | Dársenas de Apostae / Mansión de la Casa Istrav (enclave servil) / Estación Thanox | Triel confronta el desprecio de su familia materna drow; duelo a muerte con su hermanastra Jhidel Istrav; huida a Thanox; tasación de la biotecnología pre-Brecha del chasis de A.Xel | Casa Istrav (venganza por la fuga y muerte de sicarios); mercenarios drow de Apostae; alerta de la Flota Cadáver |
 | **Volumen 11** | *Estrella Errante* / Bólido *Rally Jammer* y Moto Monorrueda (Casa Zeizerer) | Asteroide-Casino Kairos (Dársena de Atraque, Box 42, Gran Casino y Ático de Gonzalo González) | Triel contempla la estatua de Keiden Ashton (*«Mi último puerto»*); A.Xel y Triel campeonas del Rally; Marloc y Ángela consolidan su amor y se retiran en Kairos; emotiva despedida fraternal; llegada de Zivok como nuevo artillero de asedio | Deuda de 30.000 cr. saldada ante la IA Kairos; secta sicarial de Lao Shu Po (Anita neutralizada); corredores rivales; rumbo al sistema Nejeor VI |
+| **Volumen 12** | *Estrella Errante* (frente al pecio) / *La Galway* (varada) / Tranvía Óseo militar | Estación de Tránsito C23 (fortificada por Rim Rey) / Cubiertas del *Imperio de los Huesos* | Reencuentro de Benrey con su primo Rim Rey Galway; Zivok halla a su hermana Gazit Asariel; Triel rescata a Gerty en el vacío y asume el liderazgo moral; A.Xel supera el trauma del bombardeo esclavo; cohesión total del nuevo quinteto con Zivok | El macro-embrujo del *Imperio de los Huesos*; Engendros del Desamparo (*Love-lorn*); Soldados de Hueso (*Bone Troopers*); Shantak del Tapiz Oscuro; Gules del Vacío |
 
 
 

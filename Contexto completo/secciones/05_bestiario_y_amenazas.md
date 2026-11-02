@@ -35,3 +35,15 @@ Aberración anfibia bífida milenaria de los ríos de Ukulam. Su cuerpo principa
 ### Autómatas Corporativos de Asalto Pesado
 *Aparición en volúmenes:* **Volumen 6**  
 Constructos bípedos blindados de grado militar desplegados en la Torre Prisma de Extracciones Astrales, armados con cañones rotatorios de plasma y visión térmica.
+
+### Shantak (Depredadores Cósmicos del Tapiz Oscuro)
+*Aparición en volúmenes:* **Volumen 12**  
+Monstruosidades aladas de escala titánica oriundas de los abismos del Tapiz Oscuro, con fisionomía equina y reptiliana, alas correosas de murciélago y piel escamada resistente a la descompresión y al frío absoluto. Cazan en gravedad cero en el perímetro exterior de pecios espaciales y emboscan caminatas EVA.
+
+### Engendros del Desamparo (*Love-lorn*)
+*Aparición en volúmenes:* **Volumen 12**  
+Aberraciones arácnidas no-muertas nacidas del dolor del abandono, la culpa y el duelo en el vacío cósmico. Tienen aspecto de corazones metálicos y carnosos palpitantes rodeados de patas articuladas de aguja; irradian un aura psíquica opresiva de pesadumbre (*Gloom*) e inoculan con sus quelíceros el *Mordisco del Cínico*, drenando la voluntad biológica de sus víctimas.
+
+### Soldados de Hueso (*Bone Troopers*) y Gules del Vacío
+*Aparición en volúmenes:* **Volumen 12**  
+Infantería pesada no-muerta y necrófagos de la marina eoxiana. Los soldados de hueso son esqueletos acorazados que conservan destreza marcial, armamento de fuego y disciplina táctica de asedio. Los gules del vacío merodean en manadas los pasillos despresurizados, transmitiendo la fiebre de gul e irradiando un hambre caníbal capaz de paralizar los sistemas nerviosos de los seres vivos.

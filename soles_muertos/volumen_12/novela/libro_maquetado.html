@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lasers y Dragones: El Pecio de la Oscuridad</title>
+<style>
+  @page {
+    size: A4;
+    margin: 25mm 22mm 25mm 22mm;
+  }
+  
+  body {
+    font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section-heading-main {
+    font-size: 22pt;
+    text-align: center;
+    color: #0b1a30;
+    margin-top: 0;
+    margin-bottom: 25px;
+    border-bottom: 2px solid #b8860b;
+    padding-bottom: 10px;
+    page-break-before: always;
+    break-before: page;
+  }
+  
+  h2.chapter-name {
+    page-break-before: always;
+    break-before: page;
+    font-size: 22pt;
+    color: #0b1a30;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    line-height: 1.3;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 15px;
+  }
+  
+  .chap-sub {
+    font-size: 18pt;
+    font-style: italic;
+    color: #2b6cb0;
+    font-weight: normal;
+  }
+  
+  h3.section-title {
+    font-size: 14pt;
+    color: #2b6cb0;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    border-bottom: 1px dashed #e2e8f0;
+    padding-bottom: 4px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h3.subsection-title {
+    font-size: 12.5pt;
+    color: #2d3748;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  h4.subsection-title {
+    font-size: 11.5pt;
+    color: #1a365d;
+    margin-top: 16px;
+    margin-bottom: 6px;
+    font-weight: bold;
+    font-family: 'Liberation Serif', serif;
+  }
+  
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 0 0 12px 0;
+    text-indent: 1.5em;
+  }
+  
+  p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
+    text-indent: 0;
+  }
+  
+  .divider {
+    text-align: center;
+    margin: 25px 0;
+    color: #a0aec0;
+    font-size: 10pt;
+    letter-spacing: 6px;
+  }
+  
+  .bullet-list {
+    margin: 12px 0 15px 25px;
+    padding: 0;
+  }
+  
+  .bullet-list li {
+    margin-bottom: 6px;
+    text-align: justify;
+  }
+  
+  .quote {
+    margin: 18px 25px;
+    padding: 10px 18px;
+    border-left: 3px solid #b8860b;
+    background: #f7fafc;
+    font-style: italic;
+    color: #4a5568;
+  }
+  
+  /* ESTILOS DE LA TABLA DE ÍNDICE COMPACTA EN 1 SOLA PÁGINA */
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 4px 0;
+  }
+  
+  .toc-table td {
+    padding: 2px 3px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 8.8pt;
+    line-height: 1.15;
+  }
+  
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+  }
+  
+  .toc-sub {
+    font-size: 7.8pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 1.1;
+  }
+</style>
+</head>
+<body>
+
+<!-- PÁGINA 1: PORTADA -->
+<div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+    Ópera Espacial · Universo Starfinder
+  </p>
+  
+  <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+  
+  <div style="font-size: 30pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+    LASERS Y DRAGONES
+  </div>
+  
+  <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+    El Pecio de la Oscuridad
+  </div>
+  
+  <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+  
+  <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+    ✦ &nbsp; ◈ &nbsp; ✦
+  </div>
+  
+  <p style="font-size: 10.5pt; line-height: 1.6; color: #4a5568; margin: 25px auto; max-width: 440px; text-indent: 0; text-align: center;">
+    Adaptación literaria integral de los episodios 136 al 147 del podcast <strong>Lasers y Dragones</strong>.<br>
+    <em>La llegada del veterano Zivok, el hallazgo del titánico Imperio de los Huesos,<br>
+    el rescate de la tripulación de La Galway, los Doce Soles en el vacío<br>
+    y la pesadilla arácnida en el corazón de los motores.</em>
+  </p>
+  
+  <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 40px auto 20px auto;">
+  
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 9.5pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+    VOLUMEN XII · LA ODISEA DE LA GALWAY I: EL PECIO DE LA OSCURIDAD
+  </p>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 2 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 2: NOTA EDITORIAL E INTRODUCCIÓN -->
+<div style="page-break-before: always; break-before: page; padding: 10px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 12px; padding-bottom: 6px; font-size: 16pt;">
+    Nota Editorial e Introducción
+  </h2>
+  
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 8px;">
+    La presente obra constituye el duodécimo volumen de la novelización de las sesiones reales de juego de rol de mesa (<em>actual play</em>) emitidas en el podcast costarricense <strong>Lasers y Dragones</strong>, correspondiente a los episodios 136 al 147 de la campaña. Este libro inaugura el sobrecogedor díptico de <em>La Odisea de La Galway</em>: el hallazgo en el Vacío del legendario acorazado eoxiano <em>El Imperio de los Huesos</em> y la búsqueda desesperada de la tripulación perdida del capitán Rim Rey Galway.
+  </p>
+  
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 8px;">
+    Tras la partida de Marloc Boosmar junto a Ángela al concluir el periplo del casino Kairos, la tripulación de la <em>Estrella Errante</em> incorpora a sus filas a un veterano de incontables campañas: el artillero enano Zivok, enfundado en su imponente servoarmadura <em>El Espectro Azul</em>. Sin embargo, el duelo por la ausencia de su compañero y las tensiones del recambio se ven eclipsadas de golpe cuando un perturbador mensaje en vídeo de Gonzalo revela anomalías temporales imposibles, registros de una supernova anacrónica y la presencia de la nave huesuda que Benrey avistó en sus pesadillas.
+  </p>
+
+  <p style="font-size: 9.2pt; line-height: 1.45; text-align: justify; margin-bottom: 10px;">
+    La historia traslada a la prosa literaria la improvisación, el humor, la tensión y la camaradería forjada en la mesa de juego original bajo la dirección del Game Master <strong>Roberto</strong>, junto al elenco de jugadores:
+  </p>
+  
+  <!-- MESA DE JUEGO ORIGINAL -->
+  <div style="margin: 8px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 8.5pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 6px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y la voz del meca <strong>Gerty</strong>) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benrey Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 3px 0; text-indent: 0; text-align: center; font-size: 9pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Zivok <em>(Artillero de Asedio Enano)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
+    </p>
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 6px auto;">
+  </div>
+
+  <!-- AVISO DE PAIZO Y ATRIBUCIÓN -->
+  <table style="width: 100%; margin: 10px 0 0 0; border: 1px solid #cbd5e0; background-color: #f8fafc; border-collapse: collapse; page-break-inside: avoid; break-inside: avoid;">
+    <tr>
+      <td style="padding: 8px 12px; font-size: 7.5pt; color: #4a5568; line-height: 1.35; text-align: justify; border: none;">
+        <p style="margin: 0 0 4px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+          Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+        </p>
+        <p style="margin: 0 0 4px 0; text-indent: 0;">
+          Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
+        </p>
+        <p style="margin: 0; text-indent: 0;">
+          Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Gerty), <strong>Miguel</strong> (Benrey Galway), <strong>Irene</strong> (Triel Istrav), <strong>Juan Pablo</strong> (Zivok) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 3 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 3: ÍNDICE DE CONTENIDOS -->
+<div style="padding: 10px 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 8px; padding-bottom: 4px; font-size: 16pt;">
+    Índice de Contenidos
+  </h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto, créditos de la mesa y canon de Paizo Inc.</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 1: Zivok</div>
+        <div class="toc-sub">Basado en el Episodio 136 · La llegada del artillero, el vacío de Marloc y la baliza de Gonzalo</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 2: Ecos del Más Allá</div>
+        <div class="toc-sub">Basado en el Episodio 137 · La Muñeca de Cuchillas, el leviatán de hueso y caminata en el vacío</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">9</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 3: En el Vacío</div>
+        <div class="toc-sub">Basado en el Episodio 138 · Batalla contra el Shantak, abordaje de La Galway y la tripulación perdida</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">13</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 4: El Corazón de la Nave</div>
+        <div class="toc-sub">Basado en el Episodio 139 · El cordón umbilical, el embrujo de las sombras y la esclusa de C23</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">18</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 5: Ratones en Conflicto</div>
+        <div class="toc-sub">Basado en el Episodio 140 · Entrega desarmada, reencuentro de primos y el tranvía de costillas</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">22</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 6: Un Tranvía Llamado Eox</div>
+        <div class="toc-sub">Basado en el Episodio 141 · El hambre de los gules, viaje en el lomo y la visión de los Doce Soles</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">26</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 7: Parque Holográfico</div>
+        <div class="toc-sub">Basado en el Episodio 142 · El velo de ectoplasma, la estampida ardiente y la fosa de sombras</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">30</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 8: El Laberinto del Minotauro</div>
+        <div class="toc-sub">Basado en el Episodio 143 · Rescate en el subsuelo, el arcade de Akiton y las tropas óseas</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">34</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 9: En Memoria de Steve 34</div>
+        <div class="toc-sub">Basado en el Episodio 144 · Tormenta de ceniza, los lazos espirituales y el rostro del compañero</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">38</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 10: No Pegue Hueco</div>
+        <div class="toc-sub">Basado en el Episodio 145 · Revelaciones del pecio, eyección al vacío y la retirada de la Legión</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">42</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 11: Directo al Corazón</div>
+        <div class="toc-sub">Basado en el Episodio 146 · El espectro de Alana, el nido arácnido y el archivo de la culpa</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">46</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 12: Corazón Espinado</div>
+        <div class="toc-sub">Basado en el Episodio 147 · Emboscada en la sala de seguridad, fuego amigo y resistencia al límite</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">51</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">El Imperio de los Huesos, tripulación de La Galway, los Love-lorn y los Doce Soles</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">54</td>
+    </tr>
+  </table>
+</div>
+
+<!-- CONTENIDO PRINCIPAL DEL LIBRO -->
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 1: Zivok</h2>
+<p>El silencio a bordo de la <em>Estrella Errante</em> pesaba más que la gravedad artificial en sus cubiertas inferiores. Durante meses, los pasillos de la corbeta habían vibrado con las pisadas apresuradas de Marloc Boosmar, con el zumbido de sus runas tecnománticas iluminando las esquinas oscuras y con sus acaloradas discusiones teóricas frente a los bancos de datos. Ahora, tras los intensos sucesos del asteroide Kairos y la despedida definitiva del humano —quien había optado por quedarse atrás junto a Ángela para forjarse un porvenir lejos del abismo—, el aire en el puente de mando parecía enrarecido, suspendido en una melancolía que ninguno de los tripulantes se atrevía a quebrar en voz alta.</p>
+<p>Triel Istrav permanecía inclinada sobre la mesa de calibración del taller de ingeniería. Con los dedos cubiertos de grasa de grafito y el ceño fruncido bajo su flequillo plateado, la mecánica semi-drow desmontaba una y otra vez el servomotor secundario de Gerty. El meca de asalto pesado reposaba sobre sus soportes hidráulicos, emitiendo un zumbido sordo y monótono por sus altavoces vocales mientras sus cuatro brazos mecánicos colgaban inertes como grúas descansando tras una demolición.</p>
+<p>—Deja de apretar ese perno, Triel —sintetizó Gerty con su voz metálica y chirriante, carente de modulación emocional—. El par de torsión nominal ha sido superado en un catorce por ciento. Si deformas la rosca de titanio, tendré que golpearte con el martillo de magma para recordarte las leyes básicas de la metalurgia.</p>
+<p>—Cállate, Gerty —murmuró ella sin levantar la vista, aunque aflojó la llave inglesa con un suspiro—. Solo intento asegurarme de que los amortiguadores no vuelvan a fallar cuando salgamos al hiperespacio. No tenemos a nadie que repare los circuitos con magia si todo revienta en pleno salto.</p>
+<p>A pocos pasos, apoyada contra el marco blindado del mamparo, A.Xel 42 observaba la escena en absoluta inmovilidad. Los circuitos luminiscentes de su tez sintética palpitaban en un tenue pulso cerúleo. La operativa androide sostenía entre sus dedos una pequeña tableta de datos con registros de munición, pero su mirada de cuarzo pálido estaba fija en la litera vacía del camarote contiguo, donde las pertenencias de Marloc habían dejado únicamente una estantería metálica desierta y el aroma residual a ozono y café sintético.</p>
+<p>Fue entonces cuando la esclusa principal de acceso sonó con un golpe sordo, seguido del silbido presurizado del descompresor.</p>
+<p>Las pisadas que resonaron a continuación no pertenecían a un humano ni a un ysoki. Eran pasos masivos, rítmicos, acompañados por el chasquido neumático de actuadores hidráulicos de grado militar y el crujido metálico de placas blindadas de siete centímetros de espesor.</p>
+<p>Por el umbral apareció una figura colosal que obligó a los sensores de proximidad a emitir una señal de advertencia. El recién llegado medía poco más de un metro y medio de estatura, pero su anchura y su presencia física dominaban por completo la estancia. Iba enfundado en <em>El Espectro Azul</em>, una servoarmadura pesada de categoría táctica superior, pintada en tonos cobalto y zafiro desgastados por el fuego de incontables combates, con el emblema de una barrena molecular grabado en el peto pectoral y un rifle de arco de dispersión magnetizado al arnés dorsal.</p>
+<p>El yelmo se retrajo con un gemido neumático, revelando el rostro curtido, surcado de arrugas y cicatrices de un enano veterano que rondaba las seis décadas de vida. Su barba grisácea, trenzada con anillos de ferrita, caía sobre el collarín de la armadura. Tenía ojos oscuros y penetrantes, cargados de esa paciencia inquebrantable propia de quienes han pasado media existencia en las trincheras de asedio de los mundos mineros.</p>
+<p>—Permiso para abordar, capitanes —dijo el enano con una voz áspera y profunda como el chirrido de una tuneladora—. Soy Zivok. El artillero que Marloc les prometió antes de marcharse.</p>
+<p>Triel alzó los ojos, entrecerrándolos con desconfianza.</p>
+<p>—Marloc nos dijo que vendría alguien de confianza. No mencionó que enviaría un tanque con patas.</p>
+<p>Zivok esbozó una sonrisa torcida que apenas movió las comisuras de su barba, llevándose dos dedos a la articulación del hombro derecho, donde el servomotor emitió un breve chasquido compensatorio.</p>
+<p>—A mi edad, muchacha, las articulaciones duelen demasiado como para andar caminando en mono de tela por el vacío. Esta armadura y yo somos viejos camaradas. Y si Marloc me pidió que ocupara su puesto en la línea de fuego, no fue por capricho. Ángela es como una hija para mí. La vi crecer, la vi meterse en problemas y vi cómo ese muchacho tecnomante arriesgaba el pellejo por ella en Kairos. Le debo a esa chiquilla su felicidad. Y le prometí a Marloc que cuidaría de sus espaldas para que él pudiera dormir en paz sin temer que un rayo de plasma los desintegre a ustedes al doblar la siguiente esquina.</p>
+<p>A.Xel dio un paso al frente, ladeando la cabeza mientras sus sensores analizaban los servocilindros de la servoarmadura.</p>
+<p>—Tu sistema motriz emite vibraciones en la banda de cuatrocientos hercios. Tienes una holgura en el bípode de amortiguación lumbar.</p>
+<p>—Es el peso de los años, chica de metal —respondió Zivok sin inmutarse, mirándola a los ojos con franca honestidad—. Nada que un buen chute de analgésicos y una dosis de paracetamol no mantenga a raya cuando empieza la refriega. Mientras mis cañones apunten donde Benrey ordene, la nave estará a salvo.</p>
+<p>En ese instante, la escotilla que conducía al puente superior se abrió y la figura peluda y nerviosa de Benrey Galway apareció en lo alto de la escalerilla. El emisario ysoki vestía su inseparable chaleco táctico abarrotado de bolsillos, holoproyectores y cables de interfaz. Llevaba los bigotes crispados y la cola retorcida en un bucle ansioso, pero al ver a Zivok plantado en medio del hangar, cuadró los hombros tratando de asumir la estatura y compostura de un verdadero capitán de navío.</p>
+<p>—¡Zivok! Por los bigotes de mi abuela, ya era hora —exclamó Benrey descendiendo los peldaños de dos en dos hasta quedar frente a la imponente mole azulada—. Bien venido a la <em>Estrella Errante</em>. Las reglas son sencillas: no se fuma cerca de los conductos de combustible, nadie toca mis reservas privadas de frutos secos de Akiton y, si la nave empieza a gemir en medio del Vacío, no preguntes qué fue; simplemente corre a tu puesto de combate.</p>
+<p>—Entendido, capitán Galway —asintió el enano, llevando el puño blindado al pecho en un saludo militar impecable—. Estoy a sus órdenes.</p>
+<p>Benrey pestañeó, desconcertado por semejante muestra de disciplina castrense en una tripulación donde casi todas las decisiones se debatían a gritos o mediante sarcasmos cruzados. Se aclaró la garganta y desvió la mirada hacia la consola central.</p>
+<p>—Sí... bueno. Eso está muy bien. Una actitud ejemplar. Pero me temo que las presentaciones tendrán que ser breves. Tenemos un problema de dimensiones cósmicas.</p>
+<p>Benrey extrajo de su cinturón un datapad reforzado de grado corporativo, cuyo chasis presentaba los sellos criptográficos de Inversiones Estelares S.C. Con manos temblorosas, lo conectó a la terminal holográfica principal del taller.</p>
+<p>—Hace unas horas, mientras ustedes terminaban de cargar suministros, recibí una transmisión de retransmisión hiperespacial de emergencia. Venía de Gonzalo.</p>
+<p>Triel y A.Xel se aproximaron de inmediato a la mesa, mientras Gerty rotaba sus fotosensores hacia el haz azulado que comenzaba a proyectarse en el aire.</p>
+<p>La figura holográfica de Gonzalo apareció entrecortada por líneas de estática profunda. El enlace corporativo parecía pálido, con las ojeras marcadas y la voz impregnada de un pavor mal disimulado:</p>
+<p><em>«...Tripulación de la Estrella Errante... si están recibiendo este paquete de datos, significa que los sensores de largo alcance en el sector Nejeor han confirmado la pesadilla. Hace dos días estándar, nuestros observatorios estelares en la periferia detectaron el colapso gravitatorio de una estrella de clase espectral F... Una supernova completa. Pero los modelos astrofísicos garantizaban que a ese astro le quedaban quinientos millones de años de secuencia principal. No ha envejecido: ha sido forzado a morir.»</em></p>
+<p>La imagen del holograma cambió abruptamente a un registro captado por sondas de largo alcance en las profundidades del Vacío Exterior. En la pantalla tridimensional se observaba un vórtice de radiación ardiente, y en su centro, flotando en medio de la tormenta de partículas, yacía la silueta desolada de un coloso.</p>
+<p>Era una nave monumental, un leviatán de diseño necrotecnológico de casi cuarenta kilómetros de longitud original, quebrado en dos mitades a la altura de su columna dorsal. Su casco estaba compuesto de placas óseas blanqueadas y aleaciones oscuras de una antigüedad incalculable, pero lo que heló la sangre de los tripulantes fue la sección de proa: incrustada entre los mamparos esqueléticos se distinguía con claridad una formación rocosa milenaria, un monolito pre-Brecha cuyas resonancias energéticas eran idénticas a las de la Roca del Derribo que habían explorado en la Estación Absalón.</p>
+<p><em>«Es un Aniquilador del Viento Oscuro...»</em>, continuaba el audio de Gonzalo, distorsionado por interferencias electromagnéticas. <em>«La degradación del material indica que ha estado flotando en el vacío durante cientos de miles de años... lo cual es un anacronismo imposible. Y hay algo más. Hemos detectado señales de transpondedor comercial en sus proximidades. La nave La Galway... repito, el carguero ligero La Galway, capitaneado por Rim Rey Galway, se encuentra atracado en uno de sus anillos dorsales secundarios. No responden a los llamados. Si hay supervivientes, están atrapados dentro de ese pecio.»</em></p>
+<p>Benrey tragó saliva con un sonido audible. Sus orejas cayeron hacia atrás y sus ojos saltones se abrieron con desesperación.</p>
+<p>—Rim Rey... —susurró el ysoki, apretando los puños contra la consola—. Es mi primo. El cabeza hueca se metió en la boca del lobo.</p>
+<p>La grabación de Gonzalo no concluyó ahí. En los últimos tres segundos del paquete de datos, la cámara de una sonda automática captó un destello estroboscópico en el interior de una de las brechas del casco del acorazado eoxiano. Entre las sombras danzantes de los pasillos despresurizados, una figura solitaria caminaba sobre el metal retorcido. Tenía el chasis sintético y la complexión estilizada de un androide de última generación, pero sus extremidades terminaban en cuchillas quirúrgicas alargadas, su cabellera sintética brillaba en un tono magenta desvaído y su rostro destrozado sonreía hacia el objetivo con una mueca demencial que recordaba de forma espeluznante a los rasgos de A.Xel 42.</p>
+<p>El holograma se extinguió en un zumbido seco.</p>
+<p>El silencio volvió a adueñarse del taller. A.Xel no pestañeó, pero sus dedos se cerraron sobre la empuñadura de su pistola desintegradora con tal fuerza que los servos de su muñeca rechinaron.</p>
+<p>—Esa criatura... —dijo la androide con un susurro gélido—. Tenía mis especificaciones de fábrica. Pero ese chasis fue modificado para el tormento.</p>
+<p>Zivok dio un paso adelante, apoyando su guantelete pesado sobre el borde de la mesa holográfica. El metal crujió bajo la presión controlada del enano.</p>
+<p>—He combatido contra la Flota de los Cadáveres en mis años mozos —declaró Zivok con firmeza pétrea—. Esas naves de hueso no son meros pedazos de chatarra flotante. Están construidas con necromancia antigua y alimentadas por reactores de almas que desafían las leyes naturales. Si ese pecio lleva eones varado y la nave de su primo está atracada en sus costillas, cada minuto que pasemos aquí parados es un clavo más en su ataúd.</p>
+<p>Benrey alzó la cabeza. Aunque el miedo le atenazaba las entrañas, el brillo de determinación familiar encendió su mirada de roedor.</p>
+<p>—Zivok tiene razón. Triel, alinea los motores del Deriva. Gerty, asegura los anclajes de vacío. A.Xel, prepara el arsenal. Nos dirigimos al sector de la anomalía. Vamos a sacar a mi primo de esa tumba flotante... aunque tengamos que hacerla pedazos desde dentro.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 2: Ecos del Más Allá</h2>
+<p>Las cinco semanas de navegación a través del Deriva fueron un ejercicio constante de resistencia psicológica. El hiperespacio no era un vacío neutro; era un plano de energías cambiantes donde fragmentos arrancados de otras realidades flotaban como icebergs en la penumbra. A bordo de la <em>Estrella Errante</em>, la rutina de mantenimiento apenas bastaba para acallar la inquietud que carcomía a la tripulación.</p>
+<p>En la bahía médica, Zivok y Triel pasaban largas horas revisando los sensores de diagnóstico. El veterano enano, desprovisto temporalmente de su servoarmadura, vestía un mono de trabajo acolchado que dejaba al descubierto sus brazos anchos, cubiertos de tatuajes geométricos tradicionales del clan Asariel y cicatrices de metralla.</p>
+<p>—Esa cosa que vimos en la grabación de Gonzalo... —comenzó Triel mientras ajustaba los inyectores de suero del botiquín—. La criatura con aspecto de androide mutilado. ¿De verdad sabes qué es, Zivok?</p>
+<p>El enano tomó un sorbo de café negro humeante, haciendo una mueca cuando el líquido amargo tocó su garganta.</p>
+<p>—Es una Muñeca de Cuchillas —respondió con voz sombría—. En los círculos oscuros de Eox las llaman <em>Razor Dolls</em>. Son abominaciones necrotecnológicas creadas a partir de chasis sintéticos capturados, reanimados con infusiones de energía negativa y programados para una única función: la tortura y la carnicería psicológica. Quienquiera que haya construido esa cosa conocía al dedillo la anatomía de los androides... y disfrutaba arrancándoles el alma sintética para sustituirla por puro odio.</p>
+<p>Triel bajó la mirada hacia sus propias manos enguantadas.</p>
+<p>—No es solo eso lo que me quita el sueño. La roca incrustada en el morro de ese acorazado eoxiano... Es idéntica a la Roca del Derribo. La misma piedra pre-Brecha que encontramos en la Estación Absalón y en el Templo del Devorador. Marloc... Marloc descubrió que esa roca es la llave de un arma antigua. Una máquina capaz de apagar estrellas enteras. Y ahora descubrimos que una nave de la Flota de los Cadáveres lleva esa misma piedra injertada en sus huesos desde hace cientos de miles de años. No tiene sentido temporal.</p>
+<p>Zivok observó a la joven semi-drow con detenimiento. En sus ojos veteranos no había juicio, solo la compasión templada de quien ha visto a demasiados reclutas cargar con pesos superiores a sus fuerzas.</p>
+<p>—Marloc me contó sobre las visiones, Triel. Me habló de las realidades paralelas que atisbaron en las ruinas estelares. De los mundos donde ustedes morían y otros tomaban su lugar. No necesitas fingir fortaleza conmigo, muchacha. Sé lo que es ver el universo doblarse sobre sí mismo hasta romperte las certezas.</p>
+<p>—¿Y cómo se sobrevive a eso? —preguntó ella en un susurro.</p>
+<p>—Un paso a la vez —dijo el enano golpeándose la rodilla con un puño nudoso—. Apuntas al enemigo que tienes enfrente, confías en el que guarda tu flanco y no te preocupas por el día de mañana hasta que hayas limpiado el cargador de hoy.</p>
+<p>En ese preciso instante, un estertor electromagnético sacudió la nave de proa a popa.</p>
+<p>Las luces del techo parpadearon en un rojo violáceo. Por los conductos de ventilación no sopló aire, sino un lamento agudo, semejante a un chillido biológico amplificado por sintetizadores de audio. En el puente de mando, la consola del núcleo central —donde residía la inteligencia sintética y la memoria de la <em>Estrella Errante</em>— comenzó a sobrecalentarse, expulsando volutas de humo blanco con olor a circuito quemado.</p>
+<p>Benrey, que se encontraba en el puesto de pilotaje ajustando los vectores de salida del Deriva, cayó de rodillas al suelo, agarrándose la cabeza mientras sus orejas se aplastaban contra su cráneo.</p>
+<p>—¡La nave! —chilló el ysoki entre espasmos—. ¡La nave está gritando! ¡Siente algo... algo enorme y frío que está devorando la señal!</p>
+<p>A.Xel fue la primera en llegar al timón. Con fría precisión quirúrgica, sus dedos volaron sobre el panel de control, activando los disyuntores de emergencia para aislar el núcleo sintético de la red neuronal del Deriva antes de que la retroalimentación psíquica fundiera los bancos de memoria.</p>
+<p>—Trastorno de resonancia dimensional —informó la androide con voz perfectamente modulada, aunque una gota de sudor frío perlaba su sien artificial—. Estamos colapsando el vector de salida. Llegada al espacio real en tres... dos... uno.</p>
+<p>El Deriva se desgarró con un destello violeta cegador y la <em>Estrella Errante</em> emergió en el vacío más absoluto.</p>
+<p>La vista que los recibió a través de la cúpula blindada del puente dejó a los cuatro tripulantes sin aliento.</p>
+<p>Frente a ellos no había estrellas conocidas. La nebulosa circundante ardía en un resplandor fantasmal de gas ionizado y polvo estelar frío, restos de un sol despedazado mucho antes de su hora. Y dominando el centro de aquel cementerio cósmico flotaba el leviatán.</p>
+<p><em>El Imperio de los Huesos</em>.</p>
+<p>Incluso partido por la mitad, el segmento superviviente medía casi diecinueve kilómetros de una punta a la otra. No era una simple nave de guerra; era una ciudadela necromántica forjada con la espina dorsal y las costillas de criaturas estelares extintas, unidas mediante mamparos de basalto negro y aleaciones ferrosas de la mítica factoría Viento Negro Ingenierías. Sin embargo, no lucía como un navío activo de la Flota de los Cadáveres. Su superficie presentaba una degradación atómica inverosímil: las placas óseas se estaban desmoronando en una nube perpetua de polvo grisáceo, como si millones de años de entropía acumulada estuvieran devorando la materia en un proceso de desintegración cuántica continua.</p>
+<p>—Por los ancestros de la Fragua... —murmuró Zivok, contemplando el coloso con los ojos entrecerrados—. Eso no debería seguir de pie. Esa estructura tiene una antigüedad que desafía cualquier registro de los Mundos del Pacto.</p>
+<p>—Miren ahí —señaló A.Xel, ajustando los aumentos ópticos de la pantalla táctica—. En el anillo dorsal secundario, junto a la aleta de estribor.</p>
+<p>Aferrada a los salientes óseos de la espina del leviatán, como un parásito minúsculo atrapado en el esqueleto de una ballena, se distinguía la silueta inconfundible de un carguero ligero clase <em>Odisea</em>.</p>
+<p><em>La Galway</em>.</p>
+<p>Sus motores de propulsión sublumínica estaban completamente destrozados, abiertos en canal como si hubieran explotado desde dentro o hubieran sido desgarrados por garras colosales. De sus toberas brotaban penachos de condensación congelada, formando una corona de escarcha en el vacío que indicaba una despresurización casi total de los compartimentos inferiores.</p>
+<p>—¡Es la nave de Rim Rey! —exclamó Benrey, pegando la nariz al cristal blindado con el corazón desbocado—. ¡Sigue entera... bueno, más o menos entera! Los sistemas de soporte vital de emergencia deben estar operando con baterías auxiliares. ¡Tenemos que abordar de inmediato!</p>
+<p>—No podemos acoplar la <em>Estrella Errante</em> directamente —advirtió Triel, analizando la telemetría—. El campo de escombros de hueso pulverizado dañaría nuestros escudos térmicos y la distorsión gravitatoria de ese pecio nos arrastraría contra el casco. Tendremos que hacer una aproximación extravehicular. Una caminata espacial en gravedad cero.</p>
+<p>Media hora más tarde, la esclusa exterior de la <em>Estrella Errante</em> se abrió al abismo.</p>
+<p>Equipados con trajes de vacío presurizados, mochilas de maniobra y botas magnéticas, los cuatro avanzaron por el vacío. Benrey flotaba en cabeza con su pistola gravitatoria sujeta al arnés; Triel y Gerty avanzaban en paralelo, con el meca utilizando sus propulsores auxiliares para mantener una trayectoria estable; A.Xel se deslizaba con la gracia ingrávida de una cazadora estelar; y cerrando la formación marchaba Zivok, cuya servoarmadura <em>El Espectro Azul</em> resplandecía con sus luces de posición en medio de la negrura absoluta.</p>
+<p>Aterrizaron sobre el lomo óseo del <em>Imperio de los Huesos</em> a escasos cincuenta metros de la esclusa de <em>La Galway</em>. El chasquido de las suelas magnéticas al fijarse sobre la cubierta de hueso fosilizado transmitió una vibración siniestra a través de las botas. La superficie no era lisa: estaba surcada por grietas profundas que exudaban una bruma tenue y fría, como si el propio navío estuviera sangrando partículas de sombra hacia el vacío.</p>
+<p>—Avance con cautela, equipo —ordenó Benrey por el canal de radio de corto alcance, tragando saliva para calmar el temblor de su voz—. Aseguren los anclajes y muévanse hacia la escotilla de <em>La Galway</em>.</p>
+<p>Apenas habían dado cinco pasos cuando las placas de hueso sobre las que caminaban comenzaron a temblar.</p>
+<p>Desde la sima insondable que separaba dos de las vértebras dorsales del acorazado, una sombra gigantesca se alzó contra el fondo de estrellas lejanas.</p>
+<p>No era una máquina ni un soldado no-muerto. Era una pesadilla biológica nacida de las profundidades del Tapiz Oscuro: un Shantak de dimensiones titánicas. Su cuerpo escamoso, cubierto de un limo negruzco que se congelaba instantáneamente al contacto con el vacío, medía más de quince metros de envergadura. Poseía alas membranosas tachonadas de garras córneas, un cuello serpentino y una cabeza grotesca y equina coronada por un pico curvo capaz de triturar mamparos de blindaje espacial.</p>
+<p>Sus ojos, múltiples orbes lechosos que brillaban con un hambre alienígena e infinita, se fijaron directamente en la silueta de Triel.</p>
+<p>La bestia abrió sus fauces en el silencio absoluto del vacío, pero la onda expansiva de su chillido psíquico reverberó en los cerebros de los cuatro tripulantes como un taladro de hielo puro. Con un aletazo monstruoso que desprendió esquirlas de hueso de la cubierta, el Shantak se abalanzó sobre ellos en trayectoria de muerte.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 3: En el Vacío</h2>
+<p>El silencio del espacio exterior convirtió el combate en una pesadillaCoreográfica y desprovista de sonido. En el vacío, la violencia no se anunciaba con truenos ni estallidos, sino con vibraciones sísmicas transmitidas a través de las suelas magnéticas y destellos de energía que recortaban sombras grotescas contra las costillas fosilizadas del acorazado eoxiano.</p>
+<p>El Shantak cayó sobre la formación con la velocidad de un meteoro. Sus garras córneas, curvadas como cimitarras de obsidiana, barrieron la cubierta ósea arrancando trozos de blindaje y alcanzaron de lleno a Triel Istrav. La fuerza del impacto desprendió las botas de la semi-drow de la superficie, arrastrándola varios metros por el lomo del pecio mientras las mandíbulas picudas de la bestia chasqueaban a escasos centímetros de su visor presurizado.</p>
+<p>—¡Triel! —el grito de Benrey retumbó en los intercomunicadores con un filo de histeria—. ¡Suelten a mi mecánica, engendro del abismo! ¡Fuego concentrado a la cabeza! ¡Rompan su formación!</p>
+<p>La orden del emisario ysoki no fue un simple alarido; llevaba consigo esa chispa de autoridad innata que encendía los reflejos de sus compañeros en los momentos más oscuros.</p>
+<p>Zivok reaccionó con la celeridad propia de un veterano de asedio. Plantando firmemente los actuadores de <em>El Espectro Azul</em> en las fisuras del casco, el enano activó los propulsores lumbares de la servoarmadura y cargó de frente contra la mole alienígena. Su rifle de arco de dispersión escupió una ráfaga de relámpagos azulados que azotaron el flanco escamoso del monstruo, carbonizando la baba congelada que protegía su piel. Al llegar a distancia de cuerpo a cuerpo, Zivok no dudó: encendió la barrena molecular acoplada a su antebrazo y la hundió sin piedad en la articulación del ala izquierda de la criatura.</p>
+<p>Una nube de icor violáceo brotó de la herida, cristalizándose instantáneamente en millares de pequeñas esferas de hielo que salieron flotando hacia las estrellas.</p>
+<p>El Shantak se revolvió enfurecido por el dolor, soltando a Triel para encarar al acorazado enano que lo desafiaba. Pero antes de que pudiera descargar su pico sobre el yelmo de Zivok, una sombra cuadrúpeda y masiva cayó sobre su lomo.</p>
+<p>Gerty, impulsado por sus retrocohetes de maniobra, descargó su martillo de magma pesado con la frialdad implacable de una prensa industrial. El impacto del cabezal térmico resonó como un temblor profundo en el casco, quebrando las vértebras dorsales de la aberración y provocando que su cuello serpentino se arqueara en un mudo espasmo de agonía.</p>
+<p>Triel aprovechó la liberación para activar sus propulsores de salto, deslizándose sobre la superficie hasta quedar a cubierto tras un contrafuerte de basalto. Con las manos aún temblorosas por la adrenalina, desenfundó su rifle sónico y apuntó hacia la unión de las alas de la bestia, coordinando el blanco con los sensores de Gerty.</p>
+<p>Desde un promontorio elevado en la espina del acorazado, A.Xel 42 ejecutaba su propia danza letal. La operativa androide se deslizó en gravedad cero como un espectro cinético, buscando el ángulo exacto donde las placas del Shantak dejaban al descubierto sus múltiples órganos visuales. Con movimientos calculados al milímetro, niveló su pistola desintegradora y disparó tres proyectiles de energía en rápida sucesión.</p>
+<p>Los rayos de protones perforaron los globos oculares lechosos de la criatura, detonando en el interior de su cavidad craneal en un estallido de fuego esmeralda sin sonido.</p>
+<p>El leviatán del Tapiz Oscuro se convulsionó por última vez. Sus alas membranosas se plegaron sobre su torso destrozado y su cuerpo inerte rodó pesadamente por la pendiente del casco, quedando atrapado entre las costillas fosilizadas del <em>Imperio de los Huesos</em>, donde el frío implacable del vacío comenzó a cubrirlo de escarcha estelar.</p>
+<p>—Amenaza neutralizada —informó A.Xel con voz neutra por el canal de radio, descendiendo suavemente mediante sus estabilizadores de espalda—. Gasto de munición dentro de los parámetros aceptables.</p>
+<p>—Buen disparo, chica de metal —jadeó Zivok a través del comunicador, comprobando los indicadores de presión de su servoarmadura—. Y tú, muchacha... ¿sigues de una pieza?</p>
+<p>Triel respiró hondo, verificando el sellado de su traje.</p>
+<p>—Mi traje aguantó. Pero si volvemos a encontrarnos con una de esas cosas ahí dentro, recuérdenme traer un cañón de riel de calibre planetario.</p>
+<p>—¡Basta de charla táctica! —intervino Benrey, corriendo con sus patitas enfundadas en botas magnéticas hacia la esclusa presurizada de <em>La Galway</em>—. ¡Mi primo nos está esperando! ¡Muevan el trasero!</p>
+<p>El acceso a la nave de Rim Rey fue arduo. La compuerta exterior estaba atascada por la deformación del marco estructural, pero los servos de Zivok y los brazos hidráulicos de Gerty lograron forzar el obturador con un chirrido de metal desgarrado.</p>
+<p>Una vez dentro de la esclusa, presurizaron el compartimento con la atmósfera de reserva. El silbido del aire entrando en la cámara trajo consigo un olor penetrante y rancio: una mezcla de ozono quemado, sudor viejo, raciones descompuestas y ese inconfundible aroma a aceite sintético barato que caracterizaba las naves de los contrabandistas y buscadores de fortuna de los bajos fondos de Absalón.</p>
+<p>Benrey se quitó el casco de un tirón, olfateando el aire con sus bigotes vibrando.</p>
+<p>—Sí... es la nave de Rim Rey, no cabe duda. Solo mi primo usaría lubricante de motor reciclado de tercera mano para ahorrar cuatro miserables créditos por salto.</p>
+<p>Avanzaron por los pasillos estrechos del carguero. Todo estaba a oscuras, iluminado únicamente por las luces de emergencia ámbar que parpadeaban con un pulso mortecino. En el puente de mando secundario, la consola de navegación yacía encendida, con hilos de cables colgando del salpicadero donde alguien había intentado puentear los sistemas de energía primaria.</p>
+<p>—Permiso —dijo Triel, apartando a Benrey con suavidad para sentarse frente a la terminal principal—. Déjenme a mí. Esta interfaz es un desastre arcaico, pero tiene el mismo protocolo de codificación que usábamos en los talleres de la Estación.</p>
+<p>Los dedos de la semi-drow se movieron como ráfagas sobre el teclado físico y los paneles táctiles. Con una maestría técnica intachable, sorteó las trampas lógicas del cortafuegos dañado, aisló los sectores de memoria corruptos y logró desbloquear el registro de la caja negra interna del carguero.</p>
+<p>En la pantalla principal parpadeó un archivo de vídeo fechado hacía semanas.</p>
+<p>La imagen cobró vida. En el centro del encuadre apareció un ysoki de pelaje marrón cenizo y orejas rasgadas, con un parche biónico que cubría su ojo derecho y una sonrisa pícara grabada a fuego en el rostro: Rim Rey Galway. Vestía una chaqueta de cuero espacial desgastada y sostenía una llave inglesa con la familiaridad de quien considera las herramientas una extensión de sus extremidades.</p>
+<p><em>«Registro de bitácora de La Galway. Capitán Rim Rey al habla...»</em>, comenzó la grabación, con el ysoki rascándose la mejilla metálica. <em>«Si alguien está viendo esto, significa que o nos hemos hecho ridículamente ricos o nos hemos metido en el mayor agujero negro de la historia conocida. El señor Marcellus —sí, ese viejo zorro corporativo al que llamamos "Marcy"— nos contrató para una misión aparentemente sencilla: localizar el pecio del Imperio de los Huesos y recuperar la caja negra original del puente de mando. Pagaba una fortuna en bonos al portador. Suficiente para retirarnos todos en una luna privada de Verces.»</em></p>
+<p>La cámara se desplazó hacia un lado, mostrando al resto de la tripulación reunida en torno a la mesa de planificación del carguero:</p>
+<p>Una mediana risueña y de mirada despierta, enfundada en una armadura táctica con dos rifles de francotirador pesados magnetizados a la espalda: <strong>Valentina de la Vega</strong>.</p>
+<p>Un fornido semi-orco de modales exquisitos y gabardina oscura, que limpiaba con meticulosidad un par de pistolas de plasma de cañón corto: <strong>Yolmar</strong>.</p>
+<p>Un imponente nuoar de pelaje castaño claro y cuernos anillados en bronce, que portaba un escudo solar radiante y cuya mirada melancólica parecía escudriñar planos invisibles: <strong>Mogrim</strong>, el solariano y buscador de misterios esotéricos.</p>
+<p>Y a su lado, una mujer enana de porte aristocrático y serenidad casi sacerdotal, vestida con túnicas rituales sobre una cota de malla ceremonial y sosteniendo un báculo esculpido en forma de raíces metálicas vivas: <strong>Gazit Asariel</strong>.</p>
+<p>Al ver a la mujer enana en la pantalla, Zivok soltó un jadeo ahogado. Su rostro curtido palideció por completo y dio un paso involuntario hacia la consola, apoyando sus pesados guanteletes en el borde del monitor.</p>
+<p>—Por los fuegos sagrados... —susurró el veterano con la voz rota por una emoción que jamás había mostrado—. Gazit... Es Gazit. Mi hermana.</p>
+<p>Benrey y Triel se giraron hacia él con los ojos desorbitados.</p>
+<p>—¿Tu hermana? —chilló Benrey—. ¿Me estás diciendo que la mística de mi primo es tu propia sangre?</p>
+<p>—Lleva décadas perdida en misiones de investigación paranormal para los archivos de Dantis 3 —explicó Zivok con el pecho agitado bajo <em>El Espectro Azul</em>—. Creí que había muerto en las guerras del borde. Jamás imaginé que estaría metida en esta locura.</p>
+<p>El vídeo de Rim Rey continuó reproduciéndose, con el tono del ysoki tornándose sombrío y tenso:</p>
+<p><em>«...El problema es que cuando atracamos aquí, el pecio no estaba muerto. Está maldito. Esa cosa tiene pulso. La mitad de los sistemas se fundieron en el atraque y empezamos a escuchar susurros en los intercomunicadores. Voces de gente que dejamos atrás hace años. Gazit y Mogrim dicen que hay un nexo psíquico en la cubierta de observación y fueron hacia allá para intentar contener la brecha espiritual. Valentina y Yolmar bajaron a la sala de máquinas del leviatán para buscar piezas de repuesto que nos permitan arrancar nuestros propulsores. Yo me quedo en la estación de tránsito C23, vigilando las líneas del tranvía óseo para mantener abierta la ruta de escape. Si alguien viene a rescatarnos... tengan cuidado. Esta nave huele los miedos. Y tiene mucha, mucha hambre.»</em></p>
+<p>El archivo se cerró.</p>
+<p>El silencio en el puente de <em>La Galway</em> fue absoluto. Benrey apretó su cinturón de herramientas, con la cola tiesa como una antena.</p>
+<p>—Están separados. Rim Rey en el control del tranvía; su hermana y el minotauro en la cubierta de observación; la francotiradora y el semi-orco en los motores.</p>
+<p>Zivok amartilló su rifle de arco con un chasquido metálico seco que resonó con la fuerza de un juramento inquebrantable.</p>
+<p>—Entonces no hay tiempo que perder, capitán Galway. Vamos a cruzar ese cordón umbilical y a bajar a los infiernos. Nadie de esa tripulación se va a quedar atrás mientras me quede un cartucho en la recámara.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 4: El Corazón de la Nave</h2>
+<p>El túnel umbilical que conectaba <em>La Galway</em> con la columna vertebral del <em>Imperio de los Huesos</em> parecía más la garganta disecada de un monstruo prehistórico que una pasarela de abordaje de ingeniería espacial. El aire que los recibió al franquear el sello hermético era gélido, seco y cargado de un hedor acre a tumba milenaria y polvo de sílice fosilizado. No había gravedad regular; los campos de inercia del pecio fluctuaban en oleadas espasmódicas que hacían que las botas magnéticas se aferraran al suelo de placas óseas con chirridos secos a cada paso.</p>
+<p>Benrey caminaba en vanguardia, con la linterna táctica de su casco barriendo la negrura que se tragaba la luz a pocos metros de distancia.</p>
+<p>—¿Escuchan eso? —preguntó el ysoki de pronto, deteniéndose en seco con las orejas girando en todas direcciones—. Hay... hay susurros en la banda corta. Suena como... como mi propia voz. Pero está diciendo cosas que nunca dije. Cosas sobre dejar morir a la tripulación en la Estación Absalón...</p>
+<p>—No escuches a los comunicadores, Benrey —intervino A.Xel con tono firme, situándose a su lado con su pistola desintegradora lista en la guardia baja—. Son fenómenos de interferencia psicotrónica. Gazit lo advirtió en su grabación: este pecio actúa como una caja de resonancia para los temores no procesados. Si alimentas la señal con tu atención, el campo mórfico cobrará fuerza.</p>
+<p>A medida que avanzaban hacia la estación de tránsito C23, el pasillo se ensanchó en una galería monumental que dejaba ver, a través de arcadas formadas por costillas gigantescas, un abismo interior sobrecogedor: hangares subterráneos del tamaño de cañones montañosos donde yacían decenas de naves de hueso menores, cazas y transportes de la Flota de los Cadáveres, desmoronándose en silencio bajo el peso de incontables milenios de olvido.</p>
+<p>Fue al ingresar en el corredor de aproximación a la subestación cuando la atmósfera cambió de golpe.</p>
+<p>Cinco tubos fluorescentes de gas fosforescente, empotrados en los arcos óseos del techo, comenzaron a parpadear con un zumbido eléctrico enloquecedor. La luz no iluminaba; proyectaba sombras alargadas que parecían desprenderse de las paredes y reptar por el suelo como serpientes de hollín. Un frío visceral, de esos que hielan el tuétano antes de tocar la piel, cayó sobre la escuadra.</p>
+<p>De repente, Zivok se detuvo en seco. Los servomotores de <em>El Espectro Azul</em> emitieron un crujido forzado cuando el enano giró sobre sus talones, apuntando su rifle de arco hacia las esquinas vacías con los ojos desorbitados por el espanto.</p>
+<p>—¡Atrás! —rugió Zivok con la voz distorsionada por el pánico—. ¡Están en las vigas! ¡Malditos sean, nos han rodeado!</p>
+<p>Triel dio un paso hacia él, desconcertada.</p>
+<p>—¿Quiénes, Zivok? ¡No hay nada ahí!</p>
+<p>—¡Gatos! —bramó el artillero veterano, barriendo el aire con la barrena molecular encendida, cuyos dientes de diamante zumbaban a revoluciones letales—. ¡Gatos persas gigantes! ¡Tienen pelaje blanco como la nieve y ojos de rubí del tamaño de platos! ¡Míralos cómo se relamen entre las costillas! ¡Quieren arrancarme la barba con sus garras de terciopelo!</p>
+<p>El enano estaba a punto de apretar el gatillo contra el mamparo, lo que habría provocado un rebote letal de metralla en el estrecho corredor.</p>
+<p>Benrey reaccionó con la velocidad de la desesperación. En lugar de retroceder, el emisario ysoki saltó hacia adelante, interponiéndose entre el cañón del enano y la pared. Con un movimiento ágil de sus patas, extrajo de su zurrón táctico un amuleto ovalado que despedía un brillo iridiscente y relajante: el <em>Ojo de Cuyo</em>, una reliquia hipnótica que había conservado como amuleto de la fortuna tras sus andanzas en los casinos del borde exterior.</p>
+<p>—¡Zivok, mírame a mí! —chilló Benrey con toda la fuerza persuasiva de sus cuerdas vocales, agitando el amuleto frente al visor del enano en un compás magnético—. ¡No hay felinos persas en esta nave de porquería! ¡Mira la luz! ¡Concéntrate en el suave y cálido resplandor del cuyo sagrado! ¡Los gatos no comen enanos con servoarmadura, te lo juro por el honor de la casa Galway!</p>
+<p>El veterano parpadeó, fascinado por los destellos dorados que giraban ante sus ojos. Sus hombros acorazados descendieron un centímetro y el zumbido de la barrena bajó de tono, aunque sus pupilas seguían dilatadas por la confusión mágica.</p>
+<p>—Benrey tiene razón —gritó Triel, examinando los tubos de luz del techo con su escáner omniherramienta—. ¡El embrujo está canalizado a través de esas cinco lámparas fluorescentes! ¡Están emitiendo una frecuencia de resonancia negativa que altera la percepción sensorial! ¡Gerty, destrúyelas!</p>
+<p>—Ejecutando demolición estética de luminarias no autorizadas —sintetizó el meca de asalto con deleite mecánico.</p>
+<p>Gerty avanzó sobre sus orugas neumáticas, alzando su martillo de magma pesado y haciéndolo girar con fuerza centrífuga. El primer impacto reventó el tubo más cercano en una lluvia de esquirlas de vidrio y chispas necróticas. Triel alzó su rifle sónico y disparó dos ráfagas concéntricas que hicieron estallar los tubos segundo y tercero con estampidos sordos. A.Xel remató los dos últimos con disparos milimétricos de su pistola.</p>
+<p>En cuanto el quinto tubo estalló en la oscuridad, las sombras dejaron de retorcerse.</p>
+<p>El aire frío se disipó y un silencio denso cayó de nuevo sobre el corredor. Zivok sacudió la cabeza con violencia, soltando un largo gruñido entrecortado mientras se frotaba el rostro bajo el yelmo retráctil.</p>
+<p>—Por las barbas de mi abuelo... —musitó el enano, respirando con dificultad—. Juraría que vi una manada entera de esas bestias peludas saltando sobre mi yelmo. Gracias, muchacho. Te debo una jarra de cerveza negra en cuanto salgamos de este estercolero.</p>
+<p>—Apúntalo en mi cuenta —dijo Benrey, guardando el <em>Ojo de Cuyo</em> con una sonrisa temblorosa mientras secaba el sudor de sus bigotes—. Y ahora, démonos prisa antes de que las sombras decidan proyectar caniches rabiosos.</p>
+<p>Al final del corredor se alzaba la compuerta de la Estación C23. Era una esclusa reforzada de aleación de titanio, pero presentaba un detalle alarmante: todo el perímetro del marco había sido sellado mediante soldadura autógena de plasma, aplicada desde el interior con cordones irregulares que denotaban una prisa desesperada.</p>
+<p>Benrey se acercó al panel de intercomunicación de la puerta y aporreó el metal con los nudillos.</p>
+<p>—¡Rim Rey! ¡Rim Rey, abre! ¡Soy yo, Benrey! ¡Tu primo! ¡Hemos venido a sacarte de aquí!</p>
+<p>Desde el otro lado de la compuerta blindada no llegó una respuesta inmediata. Tras unos segundos angustiosos, el altavoz de la esclusa chisporroteó y una voz rota, enloquecida por la paranoia y el aislamiento, resonó con un graznido hostil:</p>
+<p><em>«¡Aléjense de la puerta, malditos engendros! ¡Sé lo que son! ¡Llevan días imitándolo! ¡Ayer fue la voz de mi madre y antes de ayer la de Valentina! ¡No me van a engañar con sus trucos de nigromante de pacotilla! ¡Si intentan cruzar este umbral, volaré la estación entera con todos nosotros dentro!»</em></p>
+<p>Benrey pegó el hocico al respiradero del intercomunicador, ignorando el peligro.</p>
+<p>—¡Rim Rey, escúchame bien, pedazo de roedor paranoico! ¿Recuerdas cuando teníamos diez años en los túneles de residuos de Absalón y le robamos aquel condensador de flujo al viejo Donkor? ¡Te caíste en el tanque de lubricante usado y tuviste el pelaje oliendo a pescado rancio durante tres meses estándar! ¡Tu madre te persiguió con una llave de tubo por todo el sector cuatro y yo me escondí debajo de tu cama para no recibir mi parte de los golpes! ¡Ningún fantasma eoxiano sabe eso, idiota! ¡Soy yo! ¡Soy tu primo Benrey!</p>
+<p>Al otro lado se produjo un silencio prolongado, roto únicamente por una respiración entrecortada y sollozos ahogados.</p>
+<p>—Zivok —ordenó Benrey en voz baja, con los ojos húmedos—. Corta la soldadura. Pero con cuidado.</p>
+<p>El enano activó la barrena molecular. Con precisión de cirujano minero, la punta de diamante trazó una línea incandescente a lo largo de los cordones de soldadura, cortando los puntos de anclaje de la compuerta en una cascada de chispas anaranjadas.</p>
+<p>El pesado mamparo comenzó a ceder hacia adentro.</p>
+<p>Pero justo en el instante en que la compuerta se entreabrió un palmo, un objeto esférico y metálico rodó por la rendija hacia el pasillo, emitiendo un zumbido de activación de tres pulsos agudos.</p>
+<p>—¡Granada cegadora! —gritó A.Xel, arrojándose al suelo.</p>
+<p>Un destello de magnesio puro y una onda sónica atronadora envolvieron la entrada de la estación en un estallido de luz absoluta.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 5: Ratones en Conflicto</h2>
+<p>El destello de la granada de magnesio convirtió el pasillo en un infierno blanco. El estampido sónico golpeó los mamparos con la fuerza de un martillazo neumático, sobrecargando los filtros ópticos de los visores y dejando a Triel momentáneamente desorientada, parpadeando entre lágrimas mientras se cubría el rostro con el antebrazo. Gerty interpuso su chasis blindado para absorber la metralla ligera, mientras Zivok plantaba los pies magnéticos de <em>El Espectro Azul</em> en el suelo, preparado para abrir fuego de contención.</p>
+<p>Pero Benrey no esperó a que el humo se disipara.</p>
+<p>Haciendo gala de esa audacia temeraria que solo un ysoki acorralado por el amor a su sangre es capaz de desplegar, el emisario se arrojó hacia adelante. Se escurrió por la estrecha hendidura que la barrena de Zivok había abierto en la compuerta, ignorando el calor residual del metal fundido que chamuscó parte del pelaje de su flanco.</p>
+<p>Al caer al interior de la sala de control de la Estación C23, Benrey no desenfundó su pistola ni buscó cobertura tras los paneles volcados. En un movimiento deliberado, arrojó su arma al suelo de rejilla con un tintineo sonoro, alzó ambas patas abiertas en el aire y se plantó en medio de la estancia desarmado, con el pecho agitado y la cola temblando.</p>
+<p>Frente a él, atrincherado tras una barricada de cajas de suministros y cables arrancados, se alzaba Rim Rey Galway. El capitán de <em>La Galway</em> estaba irreconocible: tenía el pelaje sucio, enmarañado y manchado de hollín; las orejas caídas por la extenuación; y su implante ocular cibernético parpadeaba en un rojo frenético, desenfocado por la falta de sueño y el terror acumulado. Con las manos crispadas alrededor de una pistola de plasma pesada, el ysoki temblaba de pies a cabeza.</p>
+<p>—¡Atrás! —chilló Rim Rey con un hilo de voz quebrado—. ¡No te acerques! ¡Sé que eres una ilusión!</p>
+<p>Apretó el gatillo por puro reflejo nervioso.</p>
+<p>El disparo de plasma cruzó la estancia con un silbido abrasador, pasando a escasos centímetros de los bigotes de Benrey e impactando contra el mamparo trasero en una salpicadura de escoria incandescente. El aire se llenó de un hedor acre a pelo quemado y ozono.</p>
+<p>Benrey ni siquiera pestañeó. Mantuvo las patas en alto, miró fijamente al único ojo biológico de su primo y sonrió con una ternura infinita que desarmó cualquier sombra de hostilidad.</p>
+<p>—Tira todo lo mal que quieras, Rim Rey —dijo Benrey con la voz rota pero serena—. Sigues teniendo la misma puntería espantosa de cuando intentabas cazar escarabajos de alcantarilla en el sector nueve. Pero aquí estoy. En carne y hueso. Vivo. Y no pienso moverme hasta que me des un abrazo, cabeza de tuerca.</p>
+<p>La pistola de plasma tembló en las garras de Rim Rey. El implante cibernético dejó de parpadear y su pupila real se dilató, reconociendo el tono, el gesto y la tozudez inquebrantable de su propia sangre.</p>
+<p>El arma resbaló de sus dedos y cayó sobre el suelo metálico.</p>
+<p>—¿Benrey...? —susurró el capitán náufrago, dando un traspié hacia adelante mientras las lágrimas surcaban las cenizas de su hocico—. ¿De verdad... de verdad eres tú?</p>
+<p>—Claro que soy yo, idiota —respondió Benrey con un sollozo ahogado.</p>
+<p>Rim Rey se abalanzó sobre él. Ambos ysokis colisionaron en medio de la sala en un abrazo desesperado, apretándose las espaldas con las patas crispadas mientras lloraban con la violencia contenida de quienes han estado al borde del abismo y de repente encuentran un asidero en la oscuridad.</p>
+<p>—Creí que estábamos muertos... —gimió Rim Rey contra el hombro de su primo—. Creí que nadie vendría... Esta nave... esta maldita nave se mete en tu cabeza, Benrey. Te hace escuchar cosas... te hace dudar de si sigues vivo o si ya eres uno de ellos...</p>
+<p>—Ya pasó, primo. Ya pasó —le susurró Benrey dándole palmaditas en la espalda—. Ya estamos aquí. Y no nos vamos a marchar sin ustedes.</p>
+<p>En ese momento, la compuerta terminó de ceder y el resto de la escuadra ingresó en la estación. Triel, que ya había recuperado la visión, avanzó con paso decidido hacia la consola central. Sobre el techo de la sala, una torreta automatizada de defensa eoxiana —un artilugio esquelético con cañones dobles de energía negativa— comenzaba a girar sobre su afuste, apuntando a los recién llegados.</p>
+<p>—¡Cuidado con la torreta! —gritó Zivok levantando su escudo.</p>
+<p>—Déjenmela a mí —atajó Triel con frialdad técnica.</p>
+<p>La semi-drow conectó su cable de enlace neuronal al bus de datos de la pared. En una fracción de segundo, sus algoritmos de intrusión barrieron el código de seguridad necromántico del sistema de armas, sobrecargaron la rutina de puntería y bloquearon los servos mecánicos de la torreta con un chasquido definitivo. Los cañones cayeron inertes, emitiendo una tenue voluta de humo.</p>
+<p>—Sistemas hostiles neutralizados —anunció Triel, secándose el flequillo de la frente.</p>
+<p>A pocos metros de la consola, A.Xel examinaba con cautela una aberración biomecánica que yacía junto a los interruptores de conmutación: era un cráneo humanoide decapitado, reforzado con placas de latón y montado sobre seis patas mecánicas articuladas semejantes a las de un arácnido. El artefacto servil aún emitía chasquidos espasmódicos con su mandíbula descarnada, intentando procesar comandos de una red informática extinta hacía eones.</p>
+<p>—Un servitor craneal de la Flota de los Cadáveres —dictaminó A.Xel tras desconectar el cable de alimentación de la criatura—. Antiguo, pero todavía funcional. Alguien modificó los conmutadores de esta estación para aislar este sector del resto del entramado ferroviario.</p>
+<p>Rim Rey, que comenzaba a serenarse tras beber un trago largo de agua que Benrey le ofreció de su cantimplora, se limpió el hocico y asintió pesadamente.</p>
+<p>—Fui yo. Tuve que atrincherarme aquí para evitar que los no-muertos cortaran las líneas de energía. Pero mi tripulación está dispersa.</p>
+<p>El capitán de <em>La Galway</em> señaló los diagramas esquemáticos del pecio que parpadeaban en la pantalla de la estación de tránsito:</p>
+<p>—Gazit y Mogrim tomaron el tranvía hacia la cubierta superior, hacia el complejo de Observación y Entretenimiento. Dicen que allí arriba hay un parque holográfico masivo que está actuando como el corazón psíquico del acorazado... un nexo dimensional que mantiene la nave anclada a nuestra realidad. Fueron a intentar apaciguarlo o destruirlo.</p>
+<p>Zivok dio un paso al frente, con <em>El Espectro Azul</em> zumbando en tono bajo.</p>
+<p>—Gazit siempre ha tenido la obstinación de un martillo de forja —dijo el enano con orgullo y preocupación a partes iguales—. ¿Y los otros dos? ¿Dónde están Valentina y Yolmar?</p>
+<p>—Bajaron a la sección de motores —respondió Rim Rey con amargura—. Nuestros propulsores sublumínicos reventaron durante el atraque forzoso. Valentina y el semi-orco fueron a buscar bobinas de plasma en los reactores auxiliares del pecio para ver si podemos parchar <em>La Galway</em> y salir de aquí volando. Pero perdimos la comunicación por radio hace treinta horas.</p>
+<p>—Los comunicadores no son fiables en esta tumba —recordó Triel—. La estática psíquica distorsiona la voz y transmite alucinaciones auditivas.</p>
+<p>—Exacto —asintió Rim Rey—. Por eso acordamos un código visual. Si logran encontrar a Gazit y a Mogrim, usen las balizas de emergencia del tranvía. Destellos cortos en código Morse a través de las luminarias del túnel. Tres pulsos largos y dos cortos significan que están a salvo y que inician el regreso. Si veo esa señal en los monitores de vía, sabré que debo alinear los cambios de aguja para recibirlos.</p>
+<p>Benrey miró a su primo con gravedad.</p>
+<p>—Tú no puedes quedarte aquí solo, Rim Rey. Ven con nosotros.</p>
+<p>El capitán tuerto sacudió la cabeza con firmeza, mostrando por primera vez la fibra de mando que lo convertía en un verdadero líder de expedición.</p>
+<p>—No puedo, Benrey. Si abandono este puesto, nadie operará las agujas de conmutación de los tranvías. Las vías de este leviatán son un laberinto de quince kilómetros; si los raíles se bloquean, ustedes quedarán atrapados en el vacío entre sectores y jamás podrán volver a la esclusa. Alguien tiene que vigilar la retaguardia y asegurarse de que la puerta de casa siga abierta cuando regresen. Ese soy yo.</p>
+<p>Benrey lo miró a los ojos durante un largo instante. Comprendió que su primo tenía razón. Se quitó de la cintura dos cargadores de batería adicionales y un paquete de raciones militares concentradas y se los tendió.</p>
+<p>—Cuídate, primo. Si algo intenta entrar por esa puerta, no dudes en volarlo en pedazos. Volveremos con los demás antes de que se te agote el agua.</p>
+<p>En el andén exterior de la Estación C23 aguardaba el transporte: un tranvía óseo de la Flota de los Cadáveres. El vehículo parecía una gigantesca caja torácica invertida, construida con aleaciones oscuras y vértebras fosilizadas que levitaban a escasos centímetros de un monorraíl magnético. Sus puertas batientes, semejantes a costillas articuladas, se abrieron con un gemido neumático.</p>
+<p>Zivok, Triel, Gerty y A.Xel subieron a bordo, seguidos por Benrey, quien dedicó una última mirada a su primo antes de que las costillas del vagón se cerraran herméticamente.</p>
+<p>Con un zumbido electromagnético que erizó el vello de los tripulantes, el tranvía se deslizó hacia la penumbra del túnel a doscientos kilómetros por hora, adentrándose en el corazón abisal de la pesadilla.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 6: Un Tranvía Llamado Eox</h2>
+<p>El rugido del monorraíl magnético se filtraba a través de las paredes óseas del vagón como el bramido sordo de una bestia subterránea. El tranvía avanzaba a una velocidad vertiginosa por la garganta del acorazado, atravesando túneles cavernosos donde la luz de los faros apenas lograba arañar la negrura reinante.</p>
+<p>En el interior del compartimento, los tripulantes intercambiaban impresiones mientras vigilaban las sombras que danzaban al otro lado de las ventanillas de cuarzo blindado.</p>
+<p>—Dices que tu hermana es una mística de Dantis 3 —comentó Benrey dirigiéndose a Zivok, quien permanecía sentado con la espalda apoyada contra el mamparo, haciendo crujir los dedos de sus guanteletes—. Rim Rey me dijo que Gazit no aceptó ni un solo crédito por esta expedición. ¿Qué busca alguien de su rango en un cementerio como este?</p>
+<p>—Respuestas —contestó Zivok con sequedad, aunque sus ojos reflejaban una profunda preocupación—. En Dantis 3, Gazit dedicó años a estudiar conspiraciones que la mayoría de los eruditos consideran desvaríos de paranoicos. Afirmaba que existían camarillas secretas manipulando las guerras entre los planetas desde las sombras, alterando eventos históricos mediante agentes infiltrados y seres capaces de mudar de forma. Para ella, los no-muertos de Eox y los misterios anteriores a la Brecha son piezas de un mismo rompecabezas. Vino aquí porque sintió la llamada de las almas atrapadas. Y cuando a mi hermana se le mete una idea en la cabeza, ni un batallón de infantería acorazada puede moverla de su sitio.</p>
+<p>Apenas el enano terminó de pronunciar esas palabras, un chasquido neumático seco resonó en los goznes del vagón.</p>
+<p>Las costillas que formaban las puertas batientes se trabaron herméticamente. En el mismo instante, la temperatura dentro del compartimento cayó en picado, descendiendo varias decenas de grados bajo cero en cuestión de segundos. El vaho de la respiración de Benrey se convirtió en cristales de hielo en el aire, y un hedor insoportable a carroña descompuesta y vísceras putrefactas inundó el habitáculo.</p>
+<p>Un frío antinatural, invisible y asfixiante se apoderó del ambiente: el <em>Hambre de los Gules</em>.</p>
+<p>Zivok intentó alzarse, pero sus rodillas se bloquearon por completo. Los actuadores de <em>El Espectro Azul</em> quedaron inmóviles, como soldados de plomo sepultados en granito. El veterano enano emitió un jadeo ahogado, con los ojos desorbitados mientras una parálisis absoluta congelaba sus músculos y su respiración. A su lado, los circuitos luminiscentes de A.Xel 42 parpadearon en un rojo agónico antes de apagarse; la androide quedó rígida como una estatua de mármol sintético, con la mirada clavada en el vacío, incapaz de articular palabra ni de mover un solo servomotor, atrapada en una gélida pesadilla de vigilia consciente.</p>
+<p>Benrey retrocedió aterrado, sintiendo cómo una náusea helada intentaba trepar por su garganta.</p>
+<p>—¡Zivok! ¡A.Xel! —chilló el ysoki—. ¡Están tiesos! ¡No se mueven!</p>
+<p>Triel, sin embargo, permanecía de pie en el centro del pasillo sin experimentar el menor síntoma de rigidez muscular. Su respiración era acelerada, pero sus extremidades respondían con absoluta soltura. Gerty, a su lado, continuaba rotando sus sensores de combate sin inmutarse por la presencia espectral.</p>
+<p>—¡La sangre de elfo! —exclamó Triel, dándose cuenta al instante de la naturaleza del ataque—. ¡Los descendientes de la sangre élfica y los mecas somos inmunes a la parálisis de los gules! ¡Es un embrujo parasitario que se alimenta del miedo a la inanición!</p>
+<p>—¡Pues haz algo antes de que a estos dos se les congele el alma! —suplicó Benrey, intentando sacudir el brazo blindado de Zivok sin éxito alguno.</p>
+<p>—¡Gerty, arriba! —ordenó la semi-drow—. ¡Tenemos que sacarlos de este habitáculo antes de que el miasma necrótico consuma sus constantes vitales!</p>
+<p>Con una fuerza descomunal, los cuatro brazos mecánicos de Gerty envolvieron la mole acorazada de Zivok, levantando al enano en vilo como si fuera un saco de mineral. Triel cargó a A.Xel sobre sus hombros, soportando el peso muerto del chasis sintético mientras Benrey accionaba la palanca de emergencia de la escotilla superior del techo del vagón.</p>
+<p>La compuerta del techo se abrió de par en par, y una ráfaga de aire helado y descompresión parcial los azotó con violencia.</p>
+<p>Uno a uno, salieron al exterior.</p>
+<p>Rostros expuestos al viento atroz del túnel, la escuadra se aferró como pudo a las costillas externas del techo del tranvía. El cambio de entorno surtió efecto de inmediato: lejos de la concentración del miasma confinado dentro del vagón, el embrujo del hambre de los gules comenzó a disiparse. Zivok soltó una bocanada de aire entrecortada, recuperando el control de sus extremidades con espasmos dolorosos, mientras los diodos oculares de A.Xel volvían a encenderse en su característico azul zafiro.</p>
+<p>—Maldita sea... —rugió Zivok, aferrándose a una vértebra saliente del techo mientras el tranvía corría a doscientos kilómetros por hora—. Sentí como si mil mandíbulas invisibles me devoraran las tripas sin poder pestañear.</p>
+<p>—Permanecer en el interior era inviable tácticamente —sintetizó A.Xel, ajustando sus botas magnéticas al lomo del convoy—. La densidad de la manifestación habría provocado fallo multiorgánico en ciento veinte segundos estándar.</p>
+<p>—¡Cuidado con la cabeza! —gritó Benrey agachándose de golpe.</p>
+<p>Una viga de soporte retorcida, compuesta de aleación negra y fragmentos de fémur gigante, cruzó zumbando a escasos centímetros de sus orejas. Viajar sobre el lomo del tranvía era un ejercicio demencial de supervivencia: a cada curva del monorraíl, los tripulantes debían esquivar salientes metálicos, cables cortados que escupían chispas y escombros de hueso fosilizado que amenazaban con barrerlos de la cubierta y arrojarlos al abismo del túnel.</p>
+<p>En un tramo recto donde la velocidad del transporte se estabilizó, el monorraíl bordeó una colosal arcada abierta en la roca de la columna principal.</p>
+<p>A través de la abertura, a varios cientos de metros de distancia, los tripulantes divisaron una compuerta ciclópea de blindaje negro, sellada con sellos necrománticos que brillaban con un fulgor verdoso enfermizo.</p>
+<p>El <strong>Área de Mando</strong>.</p>
+<p>La compuerta estaba entreabierta apenas una rendija de tres metros, lo suficiente para atisbar el interior: un salón de proporciones colosales donde cientos de sombras semitransparentes flotaban entre consolas desiertas, y donde un único pulso de energía oscura palpitaba en el centro del puente con el ritmo agónico de un corazón moribundo. Un escalofrío indescriptible recorrió la espina dorsal de todos los presentes.</p>
+<p>—Ahí es donde reside el nexo... —murmuró Zivok con voz queda—. Lo que mantiene esta monstruosidad atada a nuestro mundo.</p>
+<p>Pero el tranvía no redujo la velocidad. Siguió su curso ascendente hacia la cubierta superior, cruzando una zona donde el casco del acorazado había sufrido una catástrofe inimaginable en tiempos pretéritos.</p>
+<p>Una brecha colosal, de más de un kilómetro de diámetro, desgarraba el flanco de estribor del pecio, abriendo el túnel directamente hacia el vacío exterior. Los contadores Geiger integrados en las armaduras comenzaron a crepitar con un chirrido histérico: la radiación cósmica en aquel sector alcanzaba niveles potencialmente letales, obligando a los trajes presurizados a sellar sus filtros de plomo y campos de fuerza secundarios.</p>
+<p>Sin embargo, nadie miraba los contadores.</p>
+<p>Los cuatro tripulantes clavaron sus miradas a través de la inmensa rasgadura del casco, hacia la negrura insondable del cosmos.</p>
+<p>Lo que vieron allí fuera no pertenecía a ningún mapa estelar conocido de los Mundos del Pacto ni a las regiones inexploradas del Espacio Cercano.</p>
+<p>En el corazón de un vacío absoluto, donde no brillaba ninguna nebulosa ni polvo interestelar, ardían doce estrellas titánicas. Doce soles incandescentes, de llamaradas doradas y coronas de plasma blanco, dispuestos en un círculo geométrico perfecto, girando en una danza gravitatoria que desafiaba todas las leyes de la física celestial. En el centro de aquel anillo de fuego solar no había luz: había un vórtice de sombra absoluta, una pupila oscura que parecía observar el pecio con una paciencia milenaria y hambrienta.</p>
+<p>—Los Doce Soles... —susurró Benrey con la voz estrangulada por el asombro y el terror reverencial—. No están en este cuadrante. No deberían verse desde aquí...</p>
+<p>—No estamos viendo el espacio exterior real —dictaminó A.Xel, cuyos procesadores ópticos intentaban inútilmente calcular las coordenadas celestes de la formación—. Estamos atisbando a través de una fractura en el tejido del continuo espacio-temporal. Esta nave está suspendida en el borde mismo de un horizonte de sucesos dimensional.</p>
+<p>La visión duró apenas diez segundos antes de que el tranvía se zambullera nuevamente en la oscuridad de un túnel cerrado.</p>
+<p>El monorraíl desaceleró con un chirrido metálico ensordecedor. Las luces de una plataforma desolada comenzaron a vislumbrarse al frente. El tranvía se detuvo junto a un andén cubierto de escombros de mármol negro y pantallas holográficas rotas.</p>
+<p>Habían llegado al complejo de Observación y Entretenimiento. El parque de las ilusiones.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 7: Parque Holográfico</h2>
+<p>El aire en el andén de desembarco del complejo de Observación y Entretenimiento era tan pesado que parecía tener consistencia física. Aunque los filtros presurizados de las armaduras trabajaban a su máxima capacidad para mitigar los residuos de la radiación ionizante absorbida durante el trayecto, los tripulantes sentían un sabor metálico en la boca y una punzada ardiente en las sienes.</p>
+<p>Frente a ellos no se extendía una simple cubierta de recreo de la marina eoxiana. Las arcadas de hueso daban paso a una antesala monumental donde las consolas de control yacían ahogadas en una sustancia viscosa, negra y fosforescente que rezumaba por las juntas de los paneles: ectoplasma denso, el residuo físico de millares de almas atrapadas entre los circuitos de la nave.</p>
+<p>En el centro del salón se alzaba un arco ciclópeo cubierto por un velo de energía oscura que ondulaba como la superficie de un lago de brea.</p>
+<p>—Los sensores indican que tras ese umbral hay un campo holográfico activo —informó A.Xel, examinando las lecturas de su datapad táctico—. Pero no responde a los protocolos normales de simulación óptica. El emisor principal está canalizando energía psicotrónica directamente desde el reactor de almas del pecio. Quienquiera que cruce ese velo se convertirá en el proyector de sus propios fantasmas.</p>
+<p>—Gazit y Mogrim cruzaron por aquí —dijo Zivok con firmeza, señalando con el cañón de su rifle de arco un rastro de huellas pesadas que se hundían en el lodo ectoplásmico—. Las pezuñas del minotauro y las botas de mi hermana van directas hacia adentro. No podemos dejarlos solos ahí.</p>
+<p>Benrey tragó saliva, apretando la culata de su pistola con dedos temblorosos.</p>
+<p>—De acuerdo. Pero si empezamos a ver cosas raras... recuerden que son solo luces y sombras. Luces y sombras. Nada que no podamos apagar de un tiro en el generador.</p>
+<p>Cruzaron el velo negro.</p>
+<p>La transición sensorial fue brutal. En una fracción de segundo, la frialdad metálica del acorazado desapareció, sustituida por una ráfaga de aire caliente, abrasador y saturado de humo denso y azufre. La gravedad artificial fluctuó y el suelo de rejilla se transformó en tierra roja cuarteada y cenizas ardientes.</p>
+<p>El parque holográfico no estaba proyectando una ilusión estática; había entrado en la mente de la escuadra y comenzaba a desgarrar sus recuerdos más dolorosos para darles forma física.</p>
+<p>A la izquierda de la formación, entre las sombras de una arboleda calcinada que crujía bajo un cielo teñido de violeta, se materializó la pesadilla personal de A.Xel 42: las selvas alienígenas de su época de esclavitud bélica, bombardeadas desde la órbita por destructores pesados. Entre las llamas se escuchaban los alaridos de decenas de androides idénticos a ella, desarmados, encadenados y abandonados a su suerte mientras la tierra se abría en cráteres de lava.</p>
+<p>A la derecha, la ilusión se fundió con los temores de Benrey: las ruinas desoladas de las ciudades subterráneas de Akiton, cubiertas por tormentas de arena bermeja. Entre los escombros de un edificio derrumbado, la figura demacrada y putrefacta de un ysoki con el pelaje podrido caminaba tambaleándose hacia ellos, extendiendo una pata huesuda mientras su mandíbula colgaba inerte en una mueca de agonía.</p>
+<p>—¡Mantengan la formación! —bramó Zivok, plantando <em>El Espectro Azul</em> en el centro del terreno ficticio—. ¡Son solo ecos! ¡No miren a las caras!</p>
+<p>Pero el entorno psicotrónico no se limitó a proyectar fantasmas pasivos.</p>
+<p>Desde la línea del horizonte ardiente, donde una cordillera de basalto parecía fundirse bajo un sol carmesí, retumbó un trueno ensordecedor. El suelo tembló con la violencia de un terremoto de grado siete.</p>
+<p>Una nube de polvo colosal se alzó en el aire, y de su interior emergió una estampida colosal: más de doscientos cuadrúpedos y hexápodos monstruosos, bestias de combate de piel escamosa y ojos ciegos, envueltas en llamas y azuzadas por un pánico ciego. Las criaturas arremetían directamente hacia el claro donde la tripulación se encontraba desprotegida, arrasando los árboles sintéticos y levantando rocas a su paso con la fuerza de un alud de piedra viva.</p>
+<p>—¡Dispersión táctica! —gritó Triel por el intercomunicador—. ¡Nos van a aplastar!</p>
+<p>A.Xel reaccionó con la velocidad de un procesador de combate. Activó sus servomotores de agilidad y trepó por el tronco de un árbol biomecánico en cuatro saltos elásticos, alcanzando las ramas superiores antes de que la vanguardia de la manada embistiera la base del tronco con un crujido espantoso. Desde su posición elevada, desenfundó su rifle y comenzó a seleccionar blancos para desviar el flujo de los animales más pesados.</p>
+<p>Zivok, sabiendo que su armadura no le permitía la agilidad del escape vertical, tomó la decisión contraria: encajó los anclajes de vacío de <em>El Espectro Azul</em> profundamente en la tierra holográfica, alzó su escudo cinético pectoral y colocó el rifle de arco en modo de dispersión de alta energía. Cuando las tres primeras bestias de seis patas chocaron contra él, el impacto sonó como el choque de dos trenes de carga; pero el enano resistió el envite sobre sus rodillas de titanio, devolviendo una descarga de relámpagos que bifurcó a la manada a ambos flancos de su posición.</p>
+<p>Triel y Gerty encendieron sus propulsores de salto al unísono, elevándose en el aire a diez metros del suelo. Mientras flotaban sobre la marea de lomos ardientes, Triel descargaba ráfagas con su rifle sónico para abrir claros en la estampida, mientras Gerty utilizaba sus brazos inferiores para arrojar granadas de conmoción que frenaban la avalancha.</p>
+<p>Benrey, sin embargo, se vio atrapado en tierra.</p>
+<p>El pequeño ysoki corrió con todas sus fuerzas entre las pezuñas ardientes de las bestias, esquivando colmillos y colas espinosas en una carrera frenética por salvar el pellejo. El polvo le cegaba los ojos y el calor amenazaba con fundir los sellos de su chaleco. Desesperado, divisó una hendidura estrecha en el suelo: una grieta natural formada entre dos placas del mamparo estructural de la nave que la simulación holográfica no había logrado disimular por completo.</p>
+<p>Sin pensarlo dos veces, Benrey se arrojó de cabeza al interior de la fisura.</p>
+<p>Se encogió en el fondo del hueco, abrazando su mochila táctica contra el pecho mientras sentía el retumbar atronador de centenares de toneladas de carne y hueso pasando sobre su cabeza a escasos centímetros de la abertura. El corazón le latía a tal velocidad que temía que se le rompiera la caja torácica.</p>
+<p>—Por favor... que se acabe... que se acabe ya... —musitaba el roedor, apretando los ojos con fuerza.</p>
+<p>El retumbar de la estampida comenzó a desvanecerse en la lejanía. La nube de polvo empezó a asentarse lentamente sobre las ruinas bermejas de la simulación.</p>
+<p>Benrey soltó un largo suspiro de alivio y comenzó a incorporarse con cuidado para asomar el hocico por la rendija.</p>
+<p>Fue en ese instante cuando la trampa se cerró.</p>
+<p>Desde las profundidades oscuras de la grieta, justo debajo de la rejilla donde Benrey apoyaba las patas, brotaron cuatro garras esqueléticas de una blancura cadavérica, cubiertas por un lodo ectoplásmico negro y frío como el vacío interestelar. Con una fuerza inhumana y sobrenatural, las manos descarnadas se cerraron sobre los tobillos del ysoki.</p>
+<p>—¡Aaaaargh! —el alarido de Benrey desgarró el canal de radio con una intensidad que hizo vibrar los altavoces de sus compañeros—. ¡Me tienen! ¡Me están jalando! ¡Triel! ¡A.Xel! ¡Ayúdenmeeeee!</p>
+<p>Antes de que Zivok pudiera girarse o que Triel pudiera descender con sus propulsores, las garras tiraron hacia abajo con un chasquido violento.</p>
+<p>El cuerpo de Benrey fue arrastrado al abismo subterráneo del pecio, desapareciendo en la oscuridad bajo el suelo de la cubierta holográfica en un abrir y cerrar de ojos, dejando tras de sí únicamente su gorra táctica flotando en un charco de ectoplasma burbujeante.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 8: El Laberinto del Minotauro</h2>
+<p>El hueco por el que Benrey había desaparecido era una boca negra que exhalaba miasma frío y burbujas de fango ectoplásmico. En la superficie de la simulación holográfica, la estampida de bestias ardientes comenzaba a desvanecerse en una neblina violeta, dejando al descubierto la verdadera estructura del suelo: planchas de aleación necrotecnológica corroídas por milenios de condensación ácida.</p>
+<p>A.Xel descendió de las ramas del árbol sintético con un salto silencioso. Sin perder un microsegundo en vacilaciones, desenvainó su porra táctica extensible y la introdujo en la brecha, barriendo la oscuridad en busca de un punto de apoyo o una masa biológica detectable por sus sensores térmicos.</p>
+<p>—Lectura de pulso en el cuadrante inferior a tres metros de profundidad —anunció la androide con precisión clínica—. La señal es débil pero errática. El capitán sigue con vida.</p>
+<p>—¡A un lado, chica de metal! —rugió Zivok, haciendo a un lado a Triel mientras los pistones de <em>El Espectro Azul</em> zumbaban al límite de su potencia—. ¡Gerty, aférrate a ese mamparo y tira conmigo!</p>
+<p>El meca de asalto no necesitó una segunda orden. Hundiendo sus garras inferiores en las junturas del suelo de hueso y titanio, Gerty y Zivok hicieron palanca al unísono. Con un crujido espantoso que sonó como la fractura de una costilla monumental, una sección de blindaje de trescientos kilos fue arrancada de cuajo, abriendo un boquete directo hacia el nivel de mantenimiento inferior.</p>
+<p>Desde el fondo de la fosa, una zarpa peluda y empapada de baba negra emergió buscando un asidero.</p>
+<p>Zivok metió su guantelete acorazado en la hendidura y tiró con fuerza. Benrey salió despedido hacia la superficie, rodando sobre el suelo de la cubierta mientras escupía lodo y tosía violentamente, abrazándose a su chaleco táctico como si temiera desintegrarse.</p>
+<p>—¡Monstruos! ¡Eran esqueletos con tentáculos! —chillaba el ysoki con los bigotes chorreando ectoplasma—. ¡Me hablaron al oído! ¡Dijeron que el capitán de esta nave jamás se marchó... que sigue esperando en la sala de mando para devorar a cualquiera que lleve mi apellido!</p>
+<p>Triel se arrodilló a su lado, limpiándole el rostro con un paño estéril de su botiquín mientras A.Xel escaneaba los alrededores.</p>
+<p>—Cálmate, Benrey. Ya estás fuera —le susurró la semi-drow—. Estás con nosotros.</p>
+<p>Al alzar la vista hacia la cúpula del parque holográfico, un detalle heló la sangre de los tripulantes. En el cielo simulado, recortada contra el resplandor de una luna quebrada, una silueta colosal y quitinosa cruzó el firmamento a gran velocidad: un insecto explorador del Enjambre, de alas transparentes y mandíbulas descomunales, sobrevolando las montañas ilusorias.</p>
+<p>—El Enjambre... —susurró A.Xel, con sus circuitos parpadeando en un tono gélido—. La nave también ha registrado los horrores que asolaron los Mundos del Pacto durante la gran invasión. Este lugar es un compendio de todas las pesadillas de la galaxia.</p>
+<p>—Tenemos que movernos —urgió Zivok, señalando una estructura derruida que se alzaba al final del claro artificial—. Miren allá.</p>
+<p>En medio de los árboles calcinados se erigían las ruinas de un centro recreativo de estilo akitoniano: un salón de juegos arcade de la era pre-Brecha, con letreros de neón destrozados que parpadeaban con un pulso mortecino y máquinas tragamonedas cubiertas de telarañas fosilizadas.</p>
+<p>Al entrar en el edificio, Triel se dirigió de inmediato a una consola central que parecía controlar el sistema de esclusas del sector. La pantalla mostraba un laberinto holográfico tridimensional en el que una serie de runas solares y símbolos enanos se movían por un circuito cerrado.</p>
+<p>—No es un simple videojuego —explicó Triel, conectando su omniherramienta al puerto de datos de la máquina—. Es una cerradura criptográfica de doble vía. Alguien configuró este terminal para que solo quien conozca los principios de orientación subterránea de los minotauros y la numerología de los clanes enanos pueda abrir la compuerta de acceso a los túneles profundos.</p>
+<p>—Fueron Gazit y Mogrim —asintió Zivok, observando los glifos con reconocimiento inmediato—. Ese laberinto sigue el trazado de las galerías rituales de Dantis 3. Muchacha, yo te guiaré con los números del clan; tú encárgate del código.</p>
+<p>Trabajando en perfecta sincronía, Triel y Zivok desentrañaron el algoritmo del laberinto. A cada movimiento acertado en la interfaz, un clic neumático resonaba en las paredes del salón arcade, hasta que la pared trasera de la estancia se deslizó hacia un lado con un siseo de despresurización, revelando una escalinata en espiral que descendía hacia los túneles de servicio más oscuros del pecio.</p>
+<p>Bajaron en silencio, con las armas listas y las linternas en su nivel mínimo para no atraer a las apariciones que acechaban en la penumbra.</p>
+<p>Al pie de la escalinata, en una cámara abovedada cuyos muros estaban cubiertos de líquenes bioluminiscentes y runas sagradas de protección trazadas con polvo de plata, encontraron a los dos supervivientes.</p>
+<p>Mogrim, el imponente solariano nuoar, permanecía sentado con las piernas cruzadas en el centro de un círculo de contención mística. Su enorme escudo solar flotaba a escasos centímetros de su pecho, proyectando una barrera de luz dorada constante pero tenue que apenas lograba mantener a raya los zarcillos de oscuridad que reptaban desde las esquinas de la sala. A su lado, Gazit Asariel sostenía su báculo de raíces metálicas con ambas manos, con los ojos cerrados en un trance profundo, mientras un fino hilo de sangre manaba de su nariz por el esfuerzo titánico de sostener el escudo espiritual contra el acoso incesante de las almas en pena.</p>
+<p>Zivok se detuvo en seco al verla. El veterano artillero dio un paso hacia el círculo sagrado, bajando su rifle de arco.</p>
+<p>—Gazit... —la llamó con una ternura que contrastaba de forma desgarradora con la mole acorazada que lo envolvía—. Despierta, hermana. La forja te llama a casa.</p>
+<p>La mujer enana abrió lentamente los ojos. Sus pupilas doradas, dilatadas por el trance místico, se enfocaron en el rostro de su hermano. Un suspiro tembloroso escapó de sus labios agrietados.</p>
+<p>—¿Zivok...? —musitó ella, dejando caer el báculo mientras una lágrima abría un surco en el hollín de su mejilla—. ¿De verdad eres tú... o es otra trampa de este foso de sombras?</p>
+<p>—Soy yo, Gazit —respondió el enano, hincando una rodilla acorazada en el suelo y envolviendo a su hermana en un abrazo férreo pero cuidadoso—. Vine a buscarte. Marloc me dio el aviso. No te vas a quedar en esta tumba.</p>
+<p>Mogrim también emergió de su concentración. El hombre-toro alzó su cabeza coronada por cuernos anillados, respirando con alivio mientras recogía su escudo solar.</p>
+<p>—Gracias a los astros... —dijo el solariano con voz profunda y grave como un retumbo sísmico—. El nexo psíquico de esta cubierta casi nos consume. Estábamos a punto de perder la batalla de voluntades.</p>
+<p>Pero la tregua duró apenas un instante.</p>
+<p>La energía liberada por la ruptura del círculo de contención mística actuó como un faro en la oscuridad de la nave. Las luces holográficas de la cámara parpadearon con un brillo estroboscópico violento, y el aire se llenó de un hedor a ozono quemado y putrefacción concentrada.</p>
+<p>Desde las sombras de las arcadas laterales, materializándose a través del velo holográfico, aparecieron dos figuras de pesadilla.</p>
+<p>A primera vista parecían motociclistas de asalto corporativos: vestían monos de cuero reforzado negro, cascos integrales con visores opacos y portaban fusiles automáticos pesados. Pero los sensores de A.Xel detectaron de inmediato la aberración subyacente: el disfraz holográfico apenas lograba disimular la estructura interna de dos Tropas Óseas de élite de la Flota de los Cadáveres, no-muertos reanimados con implantes cibernéticos antiguos y una sed de sangre insaciable.</p>
+<p>Con un chasquido sincronizado de sus armas, los dos soldados no-muertos abrieron fuego a quemarropa contra la escuadra.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 9: En Memoria de Steve 34</h2>
+<p>Los proyectiles balísticos de los soldados no-muertos rebotaron contra las arcadas de la cámara en una lluvia ensordecedora de esquirlas pétreas y chispas de tungsteno. El eco de los disparos se multiplicó por los conductos de ventilación como el redoble de un tambor de guerra, quebrando la falsa serenidad del nexo místico.</p>
+<p>Mogrim fue el primero en reaccionar. El colosal solariano nuoar alzó su escudo radiante, interponiéndose entre la línea de fuego enemiga y la posición donde Gazit aún intentaba recuperar el aliento tras el trance. El metal dorado del escudo absorbió dos impactos directos de calibre pesado, disipando la energía cinética en un destello de luz estelar que cegó momentáneamente al tirador más cercano.</p>
+<p>—¡A cubierto! —gritó Zivok mientras avanzaba sobre sus pesados actuadores de combate. El veterano enano no retrocedió ni un centímetro; encaró al enemigo abriendo fuego con su rifle de arco, envolviendo al primer falso motociclista en una red crepitante de plasma de alta tensión.</p>
+<p>Triel y Gerty flanquearon la posición por la izquierda. Con una coordinación forjada en decenas de tiroteos espaciales, la mecánica semi-drow sobrecargó su rifle sónico y disparó una salva concentrada que impactó de lleno en el pecho de la criatura. Casi al mismo instante, el martillo de magma pesado de Gerty cayó en un arco demoledor, aplastando el torso blindado del soldado con un crujido espantoso de huesos artificiales y servomotores reventados.</p>
+<p>El primer guerrero cayó hacia atrás sobre el suelo de rejilla.</p>
+<p>Pero su muerte no trajo la calma. En el preciso instante en que sus constantes vitales se extinguieron, el cuerpo del soldado no-muerto colapsó sobre sí mismo: su armadura se desintegró en un vórtice de arena grisácea y cenizas ardientes que comenzaron a girar en un torbellino violento, expandiéndose por toda la sala como una tormenta de sílice y ectoplasma concentrado.</p>
+<p>La nube de polvo necrótico envolvió a la escuadra.</p>
+<p>Para Zivok, Triel y Mogrim, el polvo apenas supuso una molestia respiratoria que los filtros de sus armaduras lograron contener tras unos segundos de tos áspera. Pero para A.Xel 42, el impacto fue devastador.</p>
+<p>Las partículas de arena radiactiva penetraron a través de las juntas de los sellos cervicales de su chasis. Al entrar en contacto con los fluidos sintéticos de su torrente interno, el veneno no atacó sus órganos mecánicos: atacó sus matrices cognitivas.</p>
+<p>El entorno de la nave eoxiana se desvaneció de golpe ante los sensores de la androide.</p>
+<p>En lugar de las paredes de hueso, A.Xel se vio repentinamente confinada en la oscuridad claustrofóbica y sofocante de una bodega de carga de un transporte de esclavos. Podía escuchar el tintineo de las cadenas de supresión neural que la mantenían inmovilizada contra un mamparo helado; podía oler el desinfectante barato y el lubricante rancio de decenas de androides apilados a su alrededor como mercancía desechable antes de ser arrojados a las trincheras de un mundo en guerra.</p>
+<p>Un temblor incontrolable sacudió los servomotores de sus manos. La puntería de sus sistemas de tiro cayó en picado y una sensación de asfixia artificial la obligó a caer de rodillas, soltando su porra táctica mientras sus ojos palpitaban en un tono azul pálido, desenfocados por la pesadilla.</p>
+<p>—A.Xel... —susurró Benrey desde la retaguardia, dándose cuenta al instante del colapso de su compañera—. ¡Está sufriendo un choque sensorial!</p>
+<p>La operativa luchó contra la marea de recuerdos con la disciplina de hierro que la caracterizaba. Obligando a sus dedos entumecidos a responder, abrió el bolsillo táctico de su cinturón y extrajo una ampolla de antitoxina concentrada de grado militar. Con un movimiento brusco, clavó el inyector directamente en su puerto de soporte vital torácico.</p>
+<p>El neutralizador químico ardió en sus líneas de refrigeración, disolviendo el veneno necrótico y permitiéndole recuperar el control de su procesador central justo cuando el segundo soldado se abalanzaba sobre ella con sus garras de titanio desplegadas.</p>
+<p>Gazit Asariel dio un paso al frente, alzando su báculo de raíces metálicas hacia la bóveda de la cámara.</p>
+<p>—¡Huesos de la Fragua, manténganse firmes! —entonó la mística enana con una voz que resonó como una campana de bronce en medio del fragor del combate—. <em>¡Que el espíritu de los vivos sostenga a los caídos!</em></p>
+<p>Un destello de luz plateada brotó del báculo, tejiendo una red invisible de energía espiritual que envolvió a los tripulantes. Al instante, una sensación de vigor renovado y claridad táctica recorrió el pecho de Zivok y de Benrey; el vínculo sagrado permitía que la resolución y la fuerza de los aliados fluyeran entre ellos, estabilizando sus mentes contra el horror circundante.</p>
+<p>—¡Ahora, equipo! —bramó Benrey, alzando su pistola ignínea con el puño en alto—. ¡Fuego coordinado! ¡No dejen que esa cosa se acerque a A.Xel!</p>
+<p>El emisario disparó un proyectil térmico que impactó en la rodilla del no-muerto, incendiando sus articulaciones en una llamarada persistente. Zivok aprovechó la distracción para descargar una ráfaga con su barrena molecular, arrancando placas de blindaje del torso del enemigo.</p>
+<p>Triel disparó su rifle sónico a máxima potencia, y el impacto sobrecargado reventó el casco del primer atacante que aún yacía en el suelo intentando recomponerse.</p>
+<p>Al desprenderse el metal, el rostro que quedó al descubierto provocó un escalofrío colectivo en la sala: bajo el casco no había una calavera descarnada, sino una réplica exacta del rostro sintético de A.Xel 42, con los ojos vidriosos y la piel artificial desgarrada, mostrando una estructura ósea inferior bañada en una luz verde enfermiza.</p>
+<p>—¡No mires, A.Xel! —le gritó Triel con la voz quebrada por la angustia—. ¡Solo es una copia burda! ¡Un truco de la nave!</p>
+<p>A.Xel alzó la vista, pero no apartó los ojos de la abominación. En lugar de ceder al pánico, una fría determinación heló sus circuitos. La androide se puso en pie con movimientos lentos, mecánicos e implacables.</p>
+<p>El segundo soldado no-muerto cargó directamente hacia ella, alzando su rifle pesado para disparar a bocajarro.</p>
+<p>A.Xel no se cubrió. Dio un paso lateral con una precisión milimétrica, esquivó el cañón del arma enemiga y descargó un golpe contundente con su pistola desintegradora directamente contra el lateral del casco del asaltante.</p>
+<p>El blindaje del yelmo se quebró con un chasquido sordo y cayó al suelo, rodando entre las cenizas hasta detenerse a los pies de la androide.</p>
+<p>La criatura que estaba debajo quedó inmóvil.</p>
+<p>No tenía el rostro de A.Xel. La piel sintética que cubría sus facciones era de un tono amarillo pálido desgastado por el tiempo, con el número de serie <em>34</em> grabado con láser sobre la sien izquierda. Era el rostro de un androide que A.Xel había conocido hacía décadas, en los albores de su despertar a la conciencia: Steve 34, el compañero silencioso que había compartido las cadenas de su pelotón de esclavos y que había caído destrozado en una zanja sin nombre para que otros pudieran escapar.</p>
+<p>—34... —susurró A.Xel, y por primera vez desde que la tripulación la conocía, su voz modulada perdió toda compostura, impregnándose de un dolor desgarrador y puramente humano—. Eras tú...</p>
+<p>El cuerpo del soldado comenzó a desmoronarse en una cascada de arena grisácea. A.Xel no disparó de nuevo; se quedó inmóvil mientras las partículas de ceniza se filtraban entre sus dedos metálicos.</p>
+<p>Cuando la última esquirla cayó al suelo, la androide se desplomó de rodillas en medio de la arena, con la cabeza gacha y los brazos inertes, contemplando los restos del casco de su antiguo compañero en un silencio sepulcral que ninguno de sus amigos se atrevió a quebrantar.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 10: No Pegue Hueco</h2>
+<p>El silencio que siguió a la caída de las dos tropas óseas tardó varios minutos en asentarse. Triel atendió las quemaduras leves de Benrey y suministró un suero regenerativo a A.Xel, quien permanecía sentada en el suelo con la mirada perdida en el casco desgastado de la unidad 34. Nadie le pidió que hablara; en el espacio, cada tripulante arrastraba sus propios fantasmas y la discreción era la forma más pura de respeto entre camaradas de armas.</p>
+<p>Zivok ayudó a su hermana Gazit a incorporarse, mientras Mogrim sacudía el polvo necrótico de su escudo solar con un bufido cansado.</p>
+<p>—Tienen que escucharme con atención —comenzó Gazit, apoyándose en su báculo de raíces metálicas mientras observaba las arcadas de la cámara—. La situación en este pecio es infinitamente más grave de lo que Rim Rey sospecha. Esta nave no es un simple pecio a la deriva: es una herida abierta en el tejido de la realidad.</p>
+<p>La mística enana se sentó sobre una caja de suministros calcinada y respiró hondo:</p>
+<p>—En el ciclo natural de la existencia, las almas de quienes mueren viajan al Río de las Almas para presentarse ante el juicio de Pharasma en el Más Allá. Pero este acorazado... este lugar no está conectado con nuestro plano ni con el reino de los muertos. Está suspendido en una grieta dimensional entre épocas. Los espíritus que perecen aquí no tienen a dónde ir; quedan atrapados en las paredes, en los circuitos y en las consolas, pudriéndose en una agonía eterna que jamás encontrará descanso.</p>
+<p>—Y cuando mi primo y su gente abordaron... —intervino Benrey, atando cabos con un nudo en la garganta.</p>
+<p>—La energía psíquica de los vivos actuó como una chispa en un barril de pólvora —asintió Gazit con gravedad—. La nave estaba dormida, desmoronándose lentamente en silencio. Pero al sentir el calor de almas vivientes, el pecio despertó. Ha estado alimentándose de sus miedos, de sus recuerdos y de sus culpas para cobrar una vida parasitaria y monstruosa. Y lo peor de todo es que hay un nexo en el Área de Mando: una conexión dimensional tan fina como un hilo de seda que mantiene este coloso anclado a nuestro universo. Si ese hilo se corta mientras estamos dentro, el acorazado colapsará y desaparecerá en la nada para siempre.</p>
+<p>Mogrim dio un paso al frente, haciendo resonar sus pezuñas en el metal.</p>
+<p>—No es solo una anomalía espacial fortuita —declaró el solariano con voz cavernosa—. Llevo años investigando registros censurados en los archivos de la Estación Absalón y en los santuarios de Castrovel. Hay una camarilla en las sombras... un culto o una facción secreta que ha estado manipulando los grandes conflictos de los Mundos del Pacto desde el final de la Brecha. En la Guerra del Fuego de los Magos, ambos bandos recibieron transmisiones anónimas con información idéntica para asegurar que la masacre fuera total. Y esta nave... los registros de la armada confirman que <em>El Imperio de los Huesos</em> original sigue en activo en las flotas de Eox. Esta nave que estamos pisando es un duplicado imposible. Una versión arrancada de otra realidad y arrojada aquí por razones que escapan a nuestro entendimiento.</p>
+<p>—Primero sacaremos a Valentina y a Yolmar de la sala de máquinas —sentenció Zivok, golpeando el suelo con el pie blindado de <em>El Espectro Azul</em>—. Después iremos a esa maldita sala de mando y cortaremos ese hilo. Pero no pienso dejar a ningún muchacho atrás.</p>
+<p>Para evitar desandar el camino a través del parque holográfico, Benrey localizó un conducto de ventilación de emergencia que figuraba en los esquemas tácticos de Mogrim. La rejilla estaba atascada por la herrumbre, pero Triel logró desbloquear el mecanismo de apertura mediante una rápida maniobra de derivación eléctrica en la caja de fusibles.</p>
+<p>Avanzar por el túnel de servicio fue una proeza física: Zivok tuvo que activar los compresores neumáticos de su servoarmadura para reducir el perfil del peto blindado, arrastrándose en fila india tras el ysoki y la semi-drow por una galería estrecha donde las tuberías de refrigerante siseaban como víboras dormidas.</p>
+<p>Al salir del conducto, desembocaron en una pasarela de seguridad secundaria. El entorno era desolador: el techo y los mamparos de la derecha estaban completamente deformados, con el metal derretido en gotas colosales como si el pasillo hubiera sido expuesto a una temperatura de millones de grados.</p>
+<p>En el extremo del corredor, una consola de vigilancia parpadeó repentinamente en un tono ámbar chillón. Caracteres en alfabeto eoxiano antiguo comenzaron a desfilar por la pantalla a una velocidad demencial.</p>
+<p>—¡Alerta de combate! —gritó Triel al descifrar el mensaje—. ¡Impacto inminente de artillería pesada! ¡Cúbranse!</p>
+<p>Antes de que nadie pudiera reaccionar, la pared deformada a la derecha de la pasarela reventó hacia afuera con un estruendo desgarrador.</p>
+<p>La explosión no fue causada por una bomba física; fue una manifestación psicotrónica del pecio reviviendo una batalla espacial pretérita. La descompresión súbita generó un torbellino de succión en el pasillo, arrastrando escombros y polvo hacia la negrura del vacío exterior.</p>
+<p>En medio del caos, dos figuras perdieron el asidero: Gazit Asariel y Gerty.</p>
+<p>La mística enana y el meca de asalto salieron despedidos a través de la brecha del casco, flotando descontrolados hacia el abismo de estrellas mientras giraban sobre su propio eje a más de treinta metros del pecio.</p>
+<p>—¡Gazit! —bramó Zivok, intentando abalanzarse hacia el borde, pero el peso de su servoarmadura en gravedad cero amenazaba con arrojarlo también al vacío.</p>
+<p>Benrey actuó por puro instinto de supervivencia y hermandad. Corriendo hacia el precipicio del mamparo roto, el ysoki clavó sus botas magnéticas en el último saliente de titanio y desenfundó su pistola gravitatoria.</p>
+<p>Apuntó al torso de la enana y apretó el gatillo.</p>
+<p>El rayo tractor de energía gravitatoria conectó con la coraza de Gazit en medio de la negrura, frenando su deriva en seco y comenzando a remolcarla hacia la abertura. Zivok se arrojó sobre el suelo a espaldas de Benrey, aferrando con un guantelete el arnés del ysoki y utilizando los imanes de <em>El Espectro Azul</em> como punto de anclaje inamovible contra el abismo.</p>
+<p>—¡Yo voy por Gerty! —gritó Triel.</p>
+<p>Sin dudarlo un segundo, la semi-drow activó sus propulsores de salto lumbares y se lanzó al vacío. Cruzó los treinta metros de espacio abierto en una parábola perfecta, colisionando contra el chasis de su meca en medio de las estrellas. Aferrándose a los soportes del dron con piernas y brazos, Triel sincronizó los retrocohetes de ambos trajes para corregir el giro de inercia, estabilizando la trayectoria y encendiendo los propulsores a máxima potencia para regresar a la brecha.</p>
+<p>Pero el peligro no había terminado.</p>
+<p>A través del horizonte quebrado del casco, en el espacio abierto, comenzaron a materializarse naves de guerra fantasmales. Eran cruceros de asalto de la Legión del Fuego Celestial y fragatas corsarias de los Piratas del Espacio Libre, recortadas contra las estrellas en un fulgor broncíneo y carmesí. Sus baterías de cañones giraron hacia el pecio y abrieron fuego con salvas de energía que impactaban en los mamparos alrededor de la escuadra en explosiones sin sonido que hacían vibrar el casco con violencia destructiva.</p>
+<p>Mogrim y A.Xel se apostaron en el borde de la brecha, cubriendo la retirada de Triel y de Gazit mientras los proyectiles fantasmales destrozaban las placas exteriores del pecio.</p>
+<p>Benrey, con los ojos inyectados en sangre y el corazón desbocado, vio que las naves de la Legión se preparaban para una segunda pasada de bombardeo que pulverizaría la pasarela entera.</p>
+<p>—¡Esto es una memoria militar! —aulló el ysoki por el canal abierto de emergencia de los intercomunicadores, sintonizando la frecuencia general que utilizaban los escuadrones de caza durante sus andanzas con los contrabandistas—. ¡Código de retirada alfa-siete-siete! ¡A todos los pilotos de la Legión en el sector: soy el capitán Galway al mando de la posición de avanzada! ¡El objetivo está comprometido! ¡Repito, aborten el asalto y repliéguense al punto de encuentro! ¡Cesad el fuego de inmediato!</p>
+<p>La voz del emisario ysoki resonó con tal autoridad castrense y convicción diplomática a través de la banda corta que el eco de la nave pareció dudar.</p>
+<p>En un parpadeo súbito, el fulgor de los disparos se desvaneció.</p>
+<p>Las siluetas de los cruceros de la Legión y las fragatas piratas se disolvieron en el vacío como gotas de tinta en el agua. La descompresión cesó en seco y el silencio más absoluto volvió a reinar en el corredor abierto a las estrellas.</p>
+<p>Triel y Gerty aterrizaron pesadamente en la pasarela, donde Gazit ya se encontraba a salvo entre los brazos acorazados de su hermano.</p>
+<p>Benrey cayó de espaldas sobre el suelo de rejilla, jadeando como si acabara de correr un maratón en gravedad pesada, mientras miraba a través del hueco del mamparo hacia el vacío sereno.</p>
+<p>—Díganme... —susurró el ysoki con una sonrisa torcida entre los bigotes chamuscados—... que alguien grabó eso. Porque jamás en mi vida volveré a sonar tan convincente.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 11: Directo al Corazón</h2>
+<p>El regreso a la Estación C23 se ejecutó bajo la disciplina de los códigos luminosos acordados. A través de las ópticas del tranvía óseo, Benrey transmitió las tres pulsaciones largas y dos cortas que confirmaban el rescate de Gazit y de Mogrim. Al deslizarse en el andén de la subestación, la barricada de Rim Rey se abrió con un chirrido apresurado de planchas de blindaje.</p>
+<p>Sin embargo, el reencuentro careció de euforia.</p>
+<p>El pasillo que precedía al puesto de control estaba cubierto por los despojos de una decena de no-muertos destrozados por fuego de metralla y descargas de plasma: gules secos, vestidos con jirones de uniformes espaciales antiguos. Y en el umbral de la compuerta, apoyado contra el marco con la piel sudorosa y la respiración entrecortada, Rim Rey sostenía su pistola con un temblor inocultable en las garras.</p>
+<p>—Estuvieron a punto de entrar... —jadeó el capitán de <em>La Galway</em>, apartándose la solapa de su chaqueta de cuero para mostrar una herida desgarrada en el antebrazo izquierdo, donde los tejidos presentaban un tono negruzco y supuraban un líquido seroso y frío—. Me alcanzaron antes de que pudiera sellar el segundo pestillo.</p>
+<p>Triel se arrodilló de inmediato frente a él, desenfundando su instrumental quirúrgico.</p>
+<p>—Fiebre de gul —dictaminó la semi-drow tras analizar una muestra del tejido con su escáner médico—. Si la infección necrótica alcanza el torrente sanguíneo central, la toxina provocará un colapso celular completo en menos de veinticuatro horas y su cuerpo reanimará como un no-muerto.</p>
+<p>La joven mecánica no perdió un segundo. Aplicó un desinfectante de amplio espectro, administró una dosis de antitoxina concentrada y aplicó un vendaje presurizado impregnado en sales de plata pura.</p>
+<p>—Eso ralentizará la progresión de la enfermedad —dijo Triel, mirando a Gazit y a Mogrim—. Pero necesita reposo absoluto y vigilancia mística constante.</p>
+<p>Zivok dio un paso adelante, haciendo resonar el metal de <em>El Espectro Azul</em>.</p>
+<p>—La decisión táctica es evidente —declaró el artillero—. Gazit y Mogrim deben permanecer aquí junto a Rim Rey. Tienen la magia curativa para contener la fiebre, la fuerza del solariano para repeler cualquier asalto a la estación y la capacidad de operar las agujas de las vías. Nosotros cinco —señaló a Benrey, Triel, Gerty, A.Xel y a sí mismo— bajaremos al núcleo de los motores para encontrar a Valentina y a Yolmar.</p>
+<p>Rim Rey asintió con dificultad, apretando la pata de su primo.</p>
+<p>—Tengan cuidado en las cubiertas inferiores, Benrey. Los motores... no son como el resto de la nave. Algo vivo se ha instalado en las calderas.</p>
+<p>La escuadra volvió a abordar el tranvía óseo, dejando atrás la estación fortificada. A medida que el convoy descendía por la espina dorsal del leviatán hacia la popa, la arquitectura de los túneles sufrió una metamorfosis grotesca. Las galerías de hueso fosilizado dieron paso a estructuras cilíndricas y abombadas que recordaban el interior de arterias gigantescas; el metal de los mamparos presentaba un tono pardo y cuarteado semejante a la textura de piel humana calcinada, y de las grietas del techo colgaban cortinas de un tejido viscoso que palpitaba al compás de un latido sordo y lejano.</p>
+<p>El tranvía corría a doscientos kilómetros por hora a través de la penumbra.</p>
+<p>Fue entonces cuando la aparición se cruzó en su camino.</p>
+<p>Caminando con paso lento y descalzo por el centro mismo de la vía, recortada contra el haz de luz de los faros delanteros, avanzaba una figura esbelta. Era una lashunta joven, de piel verdosa y largas antenas curvadas hacia atrás, que vestía ropa civil ligera y llevaba puestos unos auriculares de música de estilo arcaico.</p>
+<p>Benrey se puso en pie de un salto, pegando las patas al parabrisas del vagón con un grito ahogado en la garganta.</p>
+<p>—¡Alana...! —aulló el ysoki—. ¡Frena el tranvía! ¡La vamos a atropellar!</p>
+<p>Pero no hubo frenada posible. El convoy atravesó a la mujer como si fuera una nube de humo gélido.</p>
+<p>Desesperado, Benrey corrió hacia la popa del vagón, asomándose al cristal trasero. Al mirar hacia atrás, vio a la lashunta detenida en medio de los raíles. La joven giró lentamente la cabeza hacia el convoy que se alejaba, clavando en el ysoki una mirada de cuarzo muerto.</p>
+<p>En ese preciso instante, el comunicador de pulso de Benrey emitió un pitido estridente.</p>
+<p>Un archivo de vídeo se abrió automáticamente en la pantalla de la muñeca. En el encuadre apareció el rostro de Alana en primer plano, con los ojos enteramente blancos y lechosos, desprovistos de iris y de pupila, y los labios congelados en una sonrisa cadavérica:</p>
+<p><em>«Lo tenemos más adelante, capitán...»</em>, susurró la voz distorsionada de la lashunta entre chasquidos de estática profunda. <em>«Nos vemos pronto. Lo estamos esperando en el corazón...»</em></p>
+<p>Benrey se arrancó el brazalete con violencia y lo arrojó al suelo, respirando en espasmos agónicos mientras se apretaba la cabeza contra el pecho.</p>
+<p>—No es real... —gimió el roedor—. Ella murió en las minas de Diaspora... Su nave estalló hace diez años... ¡No puede estar aquí!</p>
+<p>A.Xel recogió el comunicador con calma, apagando la pantalla antes de devolvérselo con suavidad.</p>
+<p>—La nave utiliza las identidades de quienes te importan para quebrar tu resistencia emocional, Benrey —le recordó la androide con firmeza—. Si te dejas arrastrar por la culpa, este lugar habrá ganado antes de que disparemos el primer tiro.</p>
+<p>El tranvía desaceleró bruscamente y se detuvo frente al umbral del sector de motores.</p>
+<p>La entrada era un arco ciclópeo cuya superficie parecía forjada con carne quemada y hueso pulverizado. Todo el perímetro de la compuerta estaba cubierto por un entramado tupido de telarañas grises, tan gruesas y elásticas como cables de acero trenzado, que se extendían por el suelo y el techo formando un embudo aterrador.</p>
+<p>Al aproximarse a la esclusa, la linterna de Zivok iluminó el primer cadáver: un humano enfundado en armadura pesada de mercenario, recostado contra el marco de la puerta. Tenía un agujero colosal en el centro del pecho, abierto desde el interior hacia afuera, con las costillas astilladas hacia el exterior como si una bomba hubiera detonado en su caja torácica.</p>
+<p>Y bajo los velos de telaraña que cubrían el suelo del pasillo, yacían otros seis cuerpos momificados en la misma postura atroz.</p>
+<p>Uno de ellos llevaba el uniforme táctico de los antiguos tripulantes de Benrey. Al apartar las hebras de telaraña con la punta de su rifle, Benrey reconoció las facciones disecadas de Mitra, la mística ysoki que había servido bajo su mando años atrás. Su pecho estaba igualmente vacío, desgarrado por garras diminutas que habían brotado de sus propias entrañas.</p>
+<p>Triel y A.Xel examinaron las heridas con detenimiento médico.</p>
+<p>—Son engendros del Desamparo —dictaminó A.Xel tras una exhaustiva inspección necroscópica—. En los compendios de ocultismo se les conoce como <em>Love-lorn</em>. Cuando un ser viviente perece en un entorno saturado de tristeza extrema, abandono y desesperación absoluta, su corazón no deja de latir: echa patas arácnidas, desgarra la carne del pecho y emerge como una criatura no-muerta independiente, tejiendo nidos de telaraña cargados de un aura de pesadumbre psíquica. Toda esta sala de máquinas se ha convertido en una colonia de corazones vivientes.</p>
+<p>Benrey, con los ojos anegados en lágrimas pero con un respeto reverencial, utilizó su pistola gravitatoria para levantar el cuerpo momificado de Mitra sin romper las telas y lo depositó con delicadeza en el interior del vagón del tranvía.</p>
+<p>—No la dejaremos pudrirse en este nido —dijo el emisario con voz firme—. Volverá con nosotros.</p>
+<p>Avanzaron hacia el interior del complejo, siguiendo el latido cavernoso que hacía vibrar las paredes de carne y metal. Zivok, intentando interceptar alguna señal de radio de Valentina o de Yolmar, abrió la frecuencia de los comunicadores de corto alcance.</p>
+<p>Fue un error fatal.</p>
+<p>Una ráfaga de alaridos psíquicos invadió los receptores de su yelmo. Ante los ojos del enano se materializó una alucinación espantosa: criaturas recién nacidas con forma de corazón arrastrándose sobre patas de araña entre charcos de sangre tibia, y presidiendo la matanza, una figura estilizada de piel sintética agrietada y cabello magenta resplandeciente —la Muñeca de Cuchillas con el rostro deformado de A.Xel— que le sonreía mientras afilaba sus extremidades metálicas.</p>
+<p>Zivok retrocedió tambaleándose, emitiendo un rugido sordo de espanto mientras sacudía la cabeza para disipar la visión, quedando permanentemente sobrecogido por la ponzoña del terror.</p>
+<p>Llegaron finalmente a una cámara de control secundaria que parecía haber servido como puesto de guardia. En el centro de la sala, una pantalla de seguridad se encendió de manera espontánea al detectar su presencia.</p>
+<p>Triel se aproximó al panel con cautela y pulsó la tecla de reproducción del último archivo registrado en el búfer de memoria.</p>
+<p>La imagen se proyectó con absoluta nitidez.</p>
+<p>En la grabación no aparecían soldados de Eox ni monstruos alienígenas. La cámara de seguridad mostraba a una versión alternativa de su propia tripulación en aquel mismo pasillo:</p>
+<p>Se veía a una Triel con el cabello teñido de negro azabache, golpeando desesperadamente una compuerta blindada sellada con las dos manos mientras las lágrimas inundaban sus mejillas. A su lado, el skittermander Jig se cubría el rostro con sus seis extremidades en un gesto de angustia insoportable. Y sujetando a Triel por los hombros para alejarla del umbral estaba Marloc Boosmar, con el rostro desencajado por el dolor pero con la voz implacable de quien toma una decisión atroz:</p>
+<p><em>«¡No podemos seguir, Triel! ¡Tenemos que dejarla! ¡A.Xel ya no está con nosotros... tenemos que salvar lo que queda del equipo!»</em></p>
+<p>Al otro lado de la compuerta blindada en el vídeo, resonaban los golpes apagados de las manos de A.Xel suplicando que no la abandonaran en la oscuridad.</p>
+<p>La pantalla se apagó de golpe.</p>
+<p>El silencio que cayó sobre la sala de control fue absoluto, denso y frío como una lápida de plomo.</p>
+<p>A.Xel permaneció inmóvil frente al monitor apagado, con los diodos oculares fijos en el cristal oscuro. Triel retrocedió un paso, llevándose las manos a la boca mientras miraba a su compañera androide con una mezcla de horror y culpa cósmica.</p>
+<p>Y en ese instante de quiebre psicológico absoluto, desde las sombras del techo cubierto de telarañas, los primeros susurros de la emboscada comenzaron a descender.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 12: Corazón Espinado</h2>
+<p>El crujido de los obturadores de hueso al cerrarse al unísono selló el destino de la sala de control. Las tres salidas del recinto quedaron bloqueadas por rejas de vértebras fosilizadas que descendieron desde los arcos del techo con un estrépito neumático. La penumbra se tiñó de un resplandor escarlata cuando las luces de emergencia del pecio comenzaron a latir al ritmo del reactor orgánico.</p>
+<p>Desde las grietas de las paredes y entre los cortinajes de telaraña, la emboscada se desató.</p>
+<p>Seis cadáveres de antiguos exploradores espaciales, enfundados en armaduras rotas y desprovistos de corazón, se pusieron en pie con movimientos rígidos y espasmódicos: zombis de ocultismo imbuidos de una energía necromántica pura que hacía brillar sus cuencas oculares con un fuego frío. Y deslizándose por los filamentos que cruzaban el techo, cuatro aberraciones diminutas y grotescas descendieron hacia el centro de la estancia.</p>
+<p>Eran los engendros del Desamparo: corazones humanos y de diversas razas que habían desarrollado patas arácnidas huesudas y garras curvas, latiendo con un frenesí repulsivo mientras destilaban sangre coagulada sobre el suelo de rejilla.</p>
+<p>Uno de ellos —el más corpulento, cuyo tejido miocárdico presentaba incrustaciones metálicas y cables de interfaz soldados a las aurículas, el corazón profanado de la mística Mitra— se detuvo sobre el salpicadero de la consola y lanzó una mirada invisible pero cargada de malevolencia hacia Benrey.</p>
+<p>—¡A las armas! —rugió Zivok, haciendo a un lado el peso de su propia conmoción para colocarse en vanguardia con <em>El Espectro Azul</em>. Su rifle de arco escupió una descarga de relámpagos que pulverizó el torso de uno de los zombis más cercanos, haciéndolo estallar en esquirlas podridas.</p>
+<p>Pero las criaturas no dependían de la fuerza bruta.</p>
+<p>El corazón de Mitra emitió un pulso mental invisible que golpeó de lleno el cerebro de Benrey. El emisario ysoki soltó un alarido desgarrador, llevándose las patas a las sienes mientras sus ojos se teñían de una niebla blanquecina. La magia de la confusión se apoderó de sus pensamientos, distorsionando la realidad a su alrededor: sus amigos se convirtieron ante sus ojos en monstruos con el rostro de su antigua tripulación muerta, susurrándole acusaciones de cobardía y traición.</p>
+<p>Casi al mismo instante, otro de los corazones arácnidos disparó desde el techo una red de energía viscosa que envolvió a A.Xel 42. Los filamentos espectrales se adhirieron a las articulaciones de la androide, aprisionando sus extremidades en un abrazo asfixiante que amenazaba con inmovilizar sus servomotores.</p>
+<p>—¡A.Xel! —gritó Triel, alzando su rifle sónico.</p>
+<p>La semi-drow sobrecargó la batería del arma y disparó una ráfaga concéntrica contra el zombi que intentaba abalanzarse sobre la androide. El impacto sónico desintegró la cabeza del no-muerto, mientras Gerty remataba a un segundo asaltante con un golpe devastador de su martillo de magma que sacudió los cimientos de la sala.</p>
+<p>A.Xel no esperó a que la auxiliaran. Con una torsión desesperada de su chasis sintético y una demostración de agilidad sobrehumana, forzó los filamentos de energía hasta desgarrarlos, rompiendo la red en una explosión de chispas y saltando con elegancia sobre el mostrador de la computadora principal, con su pistola de cero lista en la guardia alta.</p>
+<p>Fue entonces cuando la tragedia rozó a la tripulación.</p>
+<p>Benrey, completamente enloquecido por la pesadilla de la confusión mental, alzó su pistola de ascuas con la mirada extraviada. Sus pupilas dilatadas se fijaron en la silueta de A.Xel sobre la consola.</p>
+<p>—¡Tú nos abandonaste! —aulló el ysoki en pleno delirio—. ¡Por tu culpa todos murieron en Diaspora! ¡No eres real!</p>
+<p>Apretó el gatillo.</p>
+<p>El proyectil térmico cruzó la distancia a quemarropa, impactando de lleno en el hombro izquierdo de la androide. La armadura de A.Xel absorbió parte del golpe, pero la llamarada supercaliente incendió el revestimiento exterior de su traje, quemando los circuitos subcutáneos y arrancándole una mueca de dolor atroz mientras rodaba por el suelo para sofocar el fuego contra las planchas de metal.</p>
+<p>—¡Benrey, no! —bramó Zivok con el pecho agitado, interponiendo su hombro acorazado para evitar que el ysoki volviera a disparar contra su propia camarada—. ¡Despierta, por todos los demonios de la roca! ¡Es A.Xel! ¡Es tu amiga!</p>
+<p>El emisario cayó de rodillas, parpadeando con horror mientras el velo de la locura comenzaba a disiparse ante la vista de su compañera humeante en el suelo. El arma cayó de sus garras y sus labios temblaron sin poder articular una sola palabra de disculpa.</p>
+<p>Pero los engendros del Desamparo no concedieron tregua.</p>
+<p>Aprovechando la conmoción del fuego amigo, dos de los corazones arácnidos se arrojaron desde las vigas del techo directamente sobre Triel. La joven cayó al suelo de espaldas, intentando cubrirse el cuello con el cañón de su rifle, pero una de las criaturas logró clavar dos colmillos óseos en el muslo de su mono presurizado.</p>
+<p>El <em>Mordisco del Cínico</em>.</p>
+<p>Una oleada de apatía gélida y desaliento absoluto invadió el cuerpo de la semi-drow. La fatiga cayó sobre sus hombros como un manto de plomo, apagando el brillo de sus ojos y dejándola sin aliento, incapaz de recibir el consuelo de las palabras de ánimo de sus compañeros.</p>
+<p>Gerty reaccionó al instante. Dos de sus brazos mecánicos atraparon al corazón que mordía a su creadora, arrancándolo de la carne y arrojándolo contra el mamparo con tal violencia que la pared quedó manchada de icor negro, mientras descargaba su martillo para proteger el cuerpo postrado de Triel.</p>
+<p>En el centro del salón, el corazón metalizado de Mitra alzó sus patas delanteras, preparándose para desatar una nueva oleada de devastación psíquica sobre el grupo acorralado.</p>
+<p>A.Xel, ignorando las quemaduras en su chasis y con los ojos ardiendo en una determinación glacial, se puso en pie sobre el mostrador. Desenvainó su porra táctica con la mano derecha y niveló su pistola con la izquierda, cuadrando la puntería hacia la aberración que manipulaba los hilos del horror.</p>
+<p>Zivok plantó los pies magnéticos en el centro de la sala, amartillando su barrena molecular junto a Benrey, quien recogía su pistola con lágrimas de rabia en los bigotes, dispuesto a dejarse la vida para enmendar su disparo.</p>
+<p>Rodeados por zombis que no dejaban de avanzar, asediados por corazones que devoraban la esperanza y atrapados en las entrañas de un leviatán que se desmoronaba hacia el abismo, los cinco supervivientes se cerraron en un círculo defensivo espalda con espalda.</p>
+<p>El choque final por el alma de <em>La Galway</em> y el destino de la tripulación acababa de comenzar.</p>
+</div>
+
+<div class="glossary-container">
+  <h2 class="chapter-name">Anexo Especial: Dossier de Personajes y Glosario</h2>
+<h3 class='section-title'>Volumen XII · La Odisea de La Galway I: El Pecio de la Oscuridad</h3>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>1. El Escenario Principal y las Naves</h3>
+<ul class='bullet-list'>
+<li>*<em>El Imperio de los Huesos (</em>The Empire of Bones<em>):</em><em> Acorazado colosal clase </em>Aniquilador del Viento Oscuro<em> (</em>Darkwind Annihilator*), construido originalmente por la factoría necrotecnológica Viento Negro Ingenierías para la armada de Eox. Su longitud original alcanzaba los treinta y ocho kilómetros; la mitad superviviente que flota en el Vacío mide casi diecinueve kilómetros. Su materia sufre una degradación atómica y desintegración continua imposible, habiendo envejecido cientos de miles de años fuera del flujo temporal estándar. En su proa lleva injertado un monolito de piedra pre-Brecha idéntico a la Roca del Derribo. Funciona como un macro-embrujo psicotrónico atrapado entre dimensiones, desconectado de Pharasma y del Más Allá.</li>
+<li><strong>La Galway:</strong> Carguero ligero clase <em>Odisea</em>, hogar y nave de operaciones del capitán Rim Rey Galway y su tripulación diversa de buscadores de misterios. Varado y atracado en la columna dorsal del <em>Imperio de los Huesos</em>, con sus motores sublumínicos reventados.</li>
+<li><strong>La Estrella Errante:</strong> Corbeta ligera de la tripulación protagonista. Su núcleo de inteligencia sintética experimenta espasmos y resonancias de dolor al aproximarse a las anomalías dimensionales del pecio.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>2. Los Protagonistas y su Evolución Emocional</h3>
+<ul class='bullet-list'>
+<li><strong>Benrey Galway:</strong> Emisario Ysoki <em>(Jugador: Miguel)</em>. Capitán de campo de la <em>Estrella Errante</em>. Tras el dolor de la partida de Marloc, encara una de sus misiones más personales y desgarradoras: el rescate de su primo Rim Rey Galway y la tripulación de <em>La Galway</em>. Acosado por su pavor ancestral a los no-muertos y por los ecos psíquicos de su antigua tripulación perdida (Alana, Mitra), Benrey demuestra una valentía conmovedora al desarmarse pacíficamente ante su primo paranoico y liderar la resistencia en el nido de los corazones desamparados.</li>
+<li><strong>Zivok:</strong> Artillero de Asedio Enano <em>(Jugador: Juan Pablo)</em>. Veterano de guerra y artillero pesado que se incorpora a la tripulación en el Episodio 136 como relevo de Marloc Boosmar. Viste la imponente servoarmadura pesada <em>El Espectro Azul</em>, equipada con una barrena molecular minera y un rifle de arco de dispersión. Se unió a la tripulación por lealtad a Marloc y porque considera a Ángela como a su propia hija. Es el hermano mayor de Gazit Asariel, a quien creía perdida para siempre en los mundos de frontera.</li>
+<li><strong>Triel Istrav:</strong> Mecánica Semi-drow <em>(Jugadora: Irene)</em>. Bastión técnico y soporte emocional de la escuadra. Armada con su rifle sónico sobrecargado, su herencia biológica mixta (sangre élfica) la vuelve inmune a la parálisis de los gules, lo que le permite salvar a Zivok y a A.Xel en el tranvía óseo y protagonizar un rescate temerario en el vacío para recuperar a Gerty.</li>
+<li><strong>A.Xel 42:</strong> Operativa Androide <em>(Jugadora: Sofía)</em>. En este volumen enfrenta sus traumas más oscuros: el horror de su pasado como esclava militar, las alucinaciones provocadas por el polvo tóxico de los soldados esqueléticos y el perturbador reencuentro con el casco y el recuerdo de Steve 34, su compañero de cautiverio. Pese a verse atrapada en redes de energía y sufrir fuego amigo durante el delirio de Benrey, su lealtad hacia el grupo permanece inquebrantable.</li>
+<li><strong>Gerty:</strong> Dron de Asalto Pesado <em>(Voz: Roberto)</em>. Cuadrúpedo biomecánico blindado, armado con un martillo de magma pesado. Mantiene una rivalidad cómica y tecnológica con la servoarmadura de Zivok y actúa como el escudo incondicional de Triel.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>3. La Tripulación de <em>La Galway</em> (Personajes Secundarios)</h3>
+<ul class='bullet-list'>
+<li><strong>Rim Rey Galway:</strong> Ysoki, capitán de <em>La Galway</em>, primo hermano de Benrey. Viste chaqueta de cuero raída y lleva un implante biónico en el ojo derecho. Fue contratado por el enlace corporativo Marcellus («Marcy») para recuperar la caja negra original del <em>Imperio de los Huesos</em>. Atrincherado en la Estación de Tránsito C23, resiste la soledad, el asedio de gules y la fiebre necrótica para mantener abiertas las agujas del tranvía óseo.</li>
+<li><strong>Gazit Asariel:</strong> Mística Enana originaria de Dantis 3, hermana de Zivok. Porta un báculo sagrado de raíces metálicas vivas y túnicas ceremoniales. Investigadora de lo paranormal que se unió a la expedición sin cobrar para apaciguar las almas atrapadas. Revela la naturaleza extradimensional del pecio y la existencia del nexo que lo mantiene anclado a la realidad.</li>
+<li><strong>Mogrim:</strong> Solariano Nuoar (minotauro) y buscador de misterios esotéricos. Porta un escudo solar radiante que canaliza el poder de las estrellas y de la gravedad. Investiga conspiraciones históricas previas a la Brecha y la desaparición de su propia hermana.</li>
+<li><strong>Valentina de la Vega:</strong> Soldado Mediana (halfling), tiradora de élite armada con dos rifles de francotirador pesados. Descendió junto a Yolmar a la sala de motores en busca de bobinas de plasma para reparar <em>La Galway</em>.</li>
+<li><strong>Yolmar:</strong> Operativo Semi-orco, elegante y de modales corteses, antiguo guardaespaldas en Apostae. Acompaña a Valentina en las profundidades de los motores.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>4. Criaturas, Horrores y Fenómenos del Pecio</h3>
+<ul class='bullet-list'>
+<li><strong>Shantak:</strong> Monstruosidad alada del Tapiz Oscuro. Bestia colosal de piel escamosa, alas membranosas y pico córneo de reptil equino, capaz de sobrevivir en el vacío absoluto. Embosca a la escuadra en el lomo exterior del <em>Imperio de los Huesos</em>.</li>
+<li>*<em>Engendros del Desamparo (</em>Love-lorn<em>):</em><em> Aberraciones no-muertas diminutas que nacen cuando un individuo perece en el abandono y la pena absoluta. El corazón se arranca del pecho, desarrolla patas de araña y teje nidos que irradian un aura de pesadumbre psíquica (</em>Gloom<em>). Su mordisco inocula el </em>Mordisco del Cínico*, provocando fatiga extrema e inutilizando los efectos de inspiración moral.</li>
+<li><strong>Zombis de Ocultismo:</strong> Cadáveres de antiguos exploradores y soldados espaciales reanimados por la radiación necromántica del pecio. Poseen resistencia a los ataques físicos no mágicos y se mueven con lentitud inexorable.</li>
+<li>*<em>Muñeca de Cuchillas (</em>Razor Doll<em>):</em>* Constructo necrotecnológico eoxiano creado a partir de chasis de androides desmembrados y reensamblados con cuchillas quirúrgicas para la guerra psicológica y la tortura.</li>
+<li>*<em>El Embrujo de los Gules (</em>Ghoul Hunger<em>):</em>* Manifestación psíquica confinada en los vagones del tranvía que inocula un frío sepulcral y una parálisis idéntica a la de los gules en quienes carecen de sangre élfica o naturaleza cibernética.</li>
+<li><strong>Los Doce Soles:</strong> Visión cósmica e imposible contemplada a través de la brecha del casco del acorazado: doce estrellas titánicas ardiendo en un círculo geométrico perfecto alrededor de una pupila de oscuridad pura, situada en los confines de otra dimensión.</li>
+</ul>
+</div>
+
+</body>
+</html>

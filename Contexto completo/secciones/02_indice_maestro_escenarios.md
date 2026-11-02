@@ -127,3 +127,14 @@
 * **Bulevares Centrales de Neón:** Rectas kilométricas suspendidas flanqueadas por rascacielos y pantallas de retransmisión masiva. `[Volumen 11]`
 * **El Núcleo de Reactores:** Galerías subterráneas entre generadores de energía, pasarelas estrechas y colosales turbinas de plasma que obligan a maniobras de salto acrobático. `[Volumen 11]`
 * **El Cañón Exterior y Tramo de Vacío Orbital:** Sector perimetral despresurizado en gravedad cero donde los vehículos compiten en el vacío estelar sobre roca irregular, esquivando minas de gravedad y fuego de armas pesadas. `[Volumen 11]`
+
+### El Imperio de los Huesos (*The Empire of Bones*)
+*Ubicación geográfica:* Espacio profundo / Fractura dimensional en el Vacío  
+*Aparición en volúmenes:* **Volumen 12**  
+*Descripción:* Acorazado colosal de la marina eoxiana clase *Aniquilador del Viento Oscuro*, de treinta y ocho kilómetros originales (diecinueve en su mitad superviviente), manufacturado por Viento Negro Ingenierías. Presenta degradación atómica milenaria continua y un monolito de piedra pre-Brecha idéntico a la Roca del Derribo incrustado en su proa. Atrapado entre dimensiones y desconectado del Río de las Almas de Pharasma, actúa como un macro-embrujo que devora energía psíquica:
+* **Columna Dorsal y Cordón Umbilical:** Espina gigantesca de vértebras fosilizadas donde atracó el carguero *La Galway* y donde merodean monstruosidades aladas del Tapiz Oscuro (Shantak). `[Volumen 12]`
+* **Estación de Tránsito C23:** Subestación de cambio de agujas del monorraíl del pecio, fortificada con barricadas y torretas por el capitán Rim Rey Galway. `[Volumen 12]`
+* **Líneas del Tranvía Óseo:** Túneles cavernosos que recorren la espina del navío, custodiados por el embrujo del *Hambre de los Gules* y con brechas de radiación que asoman a la visión cósmica de los Doce Soles. `[Volumen 12]`
+* **Cubierta de Observación y Entretenimiento (Parque Holográfico):** Cubierta anegada en ectoplasma donde una simulación psicotrónica materializa los traumas más lacerantes de los visitantes (selvas de bombardeo esclavo, ruinas akitonianas y salones arcade con laberintos criptográficos). `[Volumen 12]`
+* **Núcleo de Motores:** Complejo biomecánico pulsante con aspecto de arterias de carne calcinada, convertido en un colosal nido de *Love-lorn* (engendros del desamparo). `[Volumen 12]`
+* **Área de Mando:** Centro neurálgico del acorazado donde un nexo dimensional mantiene el leviatán atado a nuestra realidad. `[Volumen 12]`
