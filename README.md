@@ -68,102 +68,102 @@ lasersydragones/
 1. **[Volumen 1: Sombras sobre Absalón](soles_muertos/libros_pdf/01_Lasers_y_Dragones_Volumen_1_Sombras_sobre_Absalon.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_1/)) · **`[FINALIZADO]`**
    * *Subtítulo:* `Conspiración en la Espiga` (Episodios 1–10).
    * *Extensión:* 89 páginas, A4 editorial, navegación por marcadores, prólogo, nota editorial y anexo de personajes.
-   * *Arco:* Llegada a la Estación Absalón (Sal, Marcellus, Null-9 y la sopa de almejas); colapso de Marloc y encuentro con Benrey en la motoneta amarilla; reunión en el Club 13 y revelación de la viuda Ángela; emboscada en el Muelle 94 con el sicario humano Kallio bajo órdenes de un enlace drow; combate táctico, hackeo de cámaras y huida; investigación con Chiskisk de Inversiones Estelares; reservado de Thalud en el Club 13, partida de cartas clandestina (D-52, Silo y Luigi) y rastro de Eclair; túneles de desagüe y combate en el muelle de carga; avistamiento de los emisarios drow y asalto a Con-Fusión, rendición de Ferani y Brock Hilario; botín de la caja fuerte y fuga tecno con holoskin; contrato con Chiskisk para Clamor Sambor y quiebre emocional de Marloc; arcos íntimos en el Hotel Las Lunas (Triel y Gerty, Marloc y el barman decrépito, A.Xel y Eclair, Benrey y Thalud con la llamada de Rim); y desayuno en el Ojo de Absalón con la emboscada del dron policial de los Protectores que enlaza de forma continua con el Volumen 2.
+   * *Sinopsis:* Cuatro desconocidos con pasados marcados y cuentas pendientes coinciden en la monumental Estación Absalón. Lo que comienza como una escaramuza fortuita en los muelles de atraque pronto los arrastra a una turbia conspiración corporativa en los bajos fondos de la estación, obligándolos a forjar una alianza para sobrevivir.
 
 2. **[Volumen 2: El Misterio del Acreon](soles_muertos/libros_pdf/02_Lasers_y_Dragones_Volumen_2_El_Misterio_del_Acreon.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_2/)) · **`[BORRADOR]`**
    * *Subtítulo:* `Los Secretos del Vacío` (Episodios 11–22).
    * *Extensión:* 97 páginas, A4 editorial.
-   * *Arco:* Inicio inmediato con la evasión del dron policial en la terraza del Ojo y el pánico por el colapso del cantante Syd Velch; asesoría legal de Chiskisk y el letrado vesk Kaerom; visita a los archivos del Arcanamirium y graduación doctoral *Magna Cum Laude* de la shirren Sophie Ren; pacto secreto con el embajador Gevalarsk Nor y Keltus de Eox; ridículo lote corporativo de jabones de Extracciones Estelares; nave *Hippocampus* entregada por el Capitán Otal Seris; abordaje y exploración completa del pecio fantasma *Acreon*; plaga de Akatas y rescate de los amigoblins Willy y Naru; informe verídico y complicidad romántica de Triel con el Oficial León Anoxiar de los Protectores; y descenso final hacia el umbral de la Roca del Drift.
+   * *Sinopsis:* Reclutados como mediadores independientes por los poderes fácticos de Absalón, la tripulación viaja al vacío para investigar el *Acreon*, un carguero minero a la deriva que ha reaparecido en cuarentena remolcando un asteroide desconocido. En los oscuros pasillos de la nave abandonada aguardan horrores extraterrestres y los primeros indicios de un enigma cósmico.
 
 3. **[Volumen 3: La Roca del Drift](soles_muertos/libros_pdf/03_Lasers_y_Dragones_Volumen_3_La_Roca_del_Drift.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_3/)) · **`[BORRADOR]`**
    * *Subtítulo:* `El Enigma Ancestral` (Episodios 23–33).
    * *Extensión:* 77 páginas, A4 editorial.
-   * *Arco:* Descenso en gravedad cero a la Roca del Drift, caída de Clara-247, zombis del vacío de la tripulación del Acreon, Driftdead de Moriko Nash pacificado con proyectiles mágicos por Marloc, autómata y dron de plasma pre-Brecha, reactivación y rescate de la *Estrella Errante* (*Vagabond*), combate decisivo contra el Garaggakal, destrucción de la corbeta de la Flota de los Cuerpos, regreso triunfal a Absalón escoltados por el Capitán Poko, locura mediática con Willy y Naru vitoreados por la comunidad goblin, cobro de recompensa y ciudadanía de Eox para Marloc ante el Embajador Nor, arbitraje supremo ante el juez kasatha Keltrosho desestimando a Extracciones Estelares, solemne homenaje popular en la taberna obrera *El Pulmón Negro* con las placas del *Acreon*, mejoras cibernéticas y despedida cómplice de Triel con el Oficial León.
+   * *Sinopsis:* Con el carguero asegurado, los exploradores descienden a las entrañas del asteroide anómalo, un vestigio milenario arrancado de las profundidades del hiperespacio. Entre tecnología anterior a la Brecha y depredadores alienígenas, descubrirán secretos que sellarán su destino y les permitirán reclamar una nave propia.
 
 4. **[Volumen 4: Las Torres de Qabarat](soles_muertos/libros_pdf/04_Lasers_y_Dragones_Volumen_4_Las_Torres_de_Qabarat.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_4/)) · **`[BORRADOR]`**
    * *Subtítulo:* `El Horizonte Esmeralda` (Episodios 34–45).
    * *Extensión:* 100 páginas, A4 editorial.
-   * *Arco:* Respiro en Absalón (confrontación de Marloc con Ambrose Boosmar en el Arcanamirium sobre la esfera rúnica de Aucturn, concierto de Syd Velch en el Domo Horizonte con el «mosh pit de la rata» de Benrey, funeral de Marlene en el Jardín de Cenizas con la viuda Ángela entregando el medallón, despedida en el Club 13 y entrega a Triel por parte de León de un token cuántico cifrado); salto por el Drift hacia Castrovel; bienvenida en el espaciopuerto de Qabarat por la investigadora shirren Sophie Ren y su modesto compacto turquesa de alquiler; encargo institucional en la Universidad de Qabarat de la decana kasatha Sava Muhali para investigar el secuestro de la doctora Omejia Solstarni; pistas en la cantina Los Cinco Arcos con el contrabandista Tuwanas En y persecución automovilística contra el warwagon artillado de la Legión del Fuego en el Cielo conducida por Sophie; refugio con los corsarios Casonas y Thiable de *La Venganza* (fragata del Capitán Bonet); Triel revela a sus amigos que Keiden Ashton es su padre biológico mostrando la esfera ámbar; distracción disparatada de Benrey y A.Xel con la muñeca de trapo Annabelle en los archivos históricos para sustraer las tres placas pre-Brecha; tránsito por el portal de Aiakos hacia Turhalu; acogida por el naturalista Dr. Kaeral Waft y penetración en la jungla virgen de Ukulam mientras A.Xel afronta el recuerdo bloqueado de su servicio previo en una escuadra militar androide de exterminio.
+   * *Sinopsis:* Siguiendo el rastro de la misteriosa reliquia estelar, la tripulación viaja al planeta selvático de Castrovel. Tras navegar la intriga académica en la luminosa ciudad de Qabarat y eludir a facciones hostiles, deberán adentrarse en la peligrosa e inexplorada espesura de Ukulam en busca de una expedición científica desaparecida.
 
 5. **[Volumen 5: El Templo de los Doce Soles](soles_muertos/libros_pdf/05_Lasers_y_Dragones_Volumen_5_El_Templo_de_los_Doce_Soles.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_5/)) · **`[BORRADOR]`**
    * *Subtítulo:* `El Templo de los Doce Soles` (Episodios 46–59).
    * *Extensión:* 66 páginas, A4 editorial.
-   * *Arco:* Estampida de los Yaruks en Cabo Turhalu, Obelisco de la Runa y monos Kaukariki, emboscada de la Brasilea (ascenso a nivel 4), acecho del Khasari y piedad con Aravask, tormenta de moho y Renkruda barbado, monumento de El Elfo Reclinado, Oshiga y muerte de Salas, pasado streamer de Benrey, ciudad de Loskialua y anguila eléctrica, duelo con el Último Elfo (ascenso a nivel 5), asalto a la trinchera de Avissa, rescate de la Dra. Solstarni, muerte de Tahomen en la Cámara de las Estrellas, revelación del Devastador Estelar y coordenadas hacia La Diáspora.
+   * *Sinopsis:* La expedición a través de la implacable jungla de Ukulam guía al grupo hasta las ruinas de un santuario legendario. En su interior deberán enfrentarse al avance del Culto del Devorador, cuyos fanáticos pretenden desatar una fuerza milenaria con el poder de aniquilar sistemas estelares enteros.
 
 6. **[Volumen 6: El Fantasma en la Máquina](soles_muertos/libros_pdf/06_Lasers_y_Dragones_Volumen_6_El_Fantasma_en_la_Maquina.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_6/)) · **`[BORRADOR]`**
    * *Subtítulo:* `El Fantasma en la Máquina` (Episodios 60–72).
    * *Extensión:* 59 páginas, A4 editorial.
-   * *Arco:* Evasión del vado fluvial y asedio del Campin bífido, pacto corsario con el Capitán De Bonet (*La Furia*), recuperación del «Motor del Sabor» y trampas contra ocho cápsulas de asalto de la Legión del Cielofuego, regreso a Qabarat, revelación de la fotografía de la Avenida 41 y el alma previa en el chasis de A.Xel, audiencia diplomática con Gevalarsk Nor y Cheesecake, infiltración en la Torre Prisma con Bumak Istrav, tiroteo del piano de cola, neutralización de la señorita Joss y saqueo de discos duros de Extracciones Astrales, fuga en alas de planeo, desenmascaramiento del falso Marcelus (el actor Bordin), despertar de la conciencia sintética en la *Estrella Errante* y salto al Drift rumbo a La Diáspora.
+   * *Sinopsis:* Tras la odisea en la jungla, el regreso a la civilización resulta tan peligroso como la naturaleza virgen. Acosados por agentes corporativos y desconcertados por anomalías que cobran vida en los sistemas de su propia nave, los protagonistas deben infiltrarse en las altas esferas de Castrovel antes de emprender rumbo a los confines del sistema.
 
 7. **[Volumen 7: Mundos Fragmentados I - El Rastro hacia Eox](soles_muertos/libros_pdf/07_Lasers_y_Dragones_Volumen_7_Mundos_Fragmentados_I_El_Rastro_hacia_Eox.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_7/)) · **`[BORRADOR]`**
    * *Subtítulo:* `Mundos Fragmentados I - El Rastro hacia Eox` (Episodios 76b–88).
    * *Extensión:* 105 páginas, A4 editorial.
-   * *Arco:* Emboscada del Culto en Absalón, visión cósmica de Marloc, salto a La Diáspora, asteroide sarcesiano, base del Culto y batalla naval contra la Flota de los Cuerpos.
+   * *Sinopsis:* La búsqueda de respuestas sobre la superarma ancestral conduce a la tripulación a La Diáspora, un traicionero cinturón de asteroides. Entre piratas espaciales, emboscadas sectarias y gigantescos seres del vacío, deberán abrirse paso hacia las fronteras del siniestro planeta Eox.
 
 8. **[Volumen 8: Mundos Fragmentados II - Las Cortes Cadavéricas de Eox](soles_muertos/libros_pdf/08_Lasers_y_Dragones_Volumen_8_Mundos_Fragmentados_II_Las_Cortes_Cadavericas_de_Eox.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_8/)) · **`[BORRADOR]`**
    * *Subtítulo:* `Mundos Fragmentados II - Las Cortes Cadavéricas de Eox` (Episodios 89–98).
    * *Extensión:* 106 páginas, A4 editorial.
-   * *Arco:* Descenso en Eox, Ministerio de los Vivos, asesinos nihili, Café Calavera y supervivencia en el sádico reality show en vivo de Zo! esquivando al Golem de Neutrones.
+   * *Sinopsis:* En el gélido y macabro mundo gobernado por los nigromantes de Eox, los héroes deben desenvolverse entre la burocracia de los no-muertos y la fascinación mediática de la élite cadavérica, aceptando participar en una letal prueba televisada para conseguir las respuestas que buscan.
 
 9. **[Volumen 9: Mundos Fragmentados III - La Necrogarganta de Eox](soles_muertos/libros_pdf/09_Lasers_y_Dragones_Volumen_9_Mundos_Fragmentados_III_La_Necrogarganta_de_Eox.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_9/)) · **`[BORRADOR]`**
    * *Subtítulo:* `Mundos Fragmentados III - La Necrogarganta de Eox` (Episodios 99–110).
    * *Extensión:* 85 páginas, A4 editorial.
-   * *Arco:* Marcha por los páramos marchitos de Eox, pacto con el Dragonkin, combate contra el monstruoso Ellicoth («Ellicujo»), caída de Xerantha Zatus y huida bajo fuego orbital.
+   * *Sinopsis:* A través de páramos irradiados y desfiladeros custodiados por criaturas titánicas, la tripulación se adentra en el territorio prohibido de Eox para asaltar una instalación secreta donde los heraldos del Culto preparan su golpe definitivo.
 
 10. **[Volumen 10: Lazos de Sangre - La Sombra de Apostae](soles_muertos/libros_pdf/10_Lasers_y_Dragones_Volumen_10_La_Sombra_de_Apostae.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_10/)) · **`[BORRADOR]`**
     * *Subtítulo:* `Lazos de Sangre - La Sombra de Apostae` (Episodios 111–122).
     * *Extensión:* 73 páginas, A4 editorial.
-    * *Arco:* Marcelus al descubierto, infiltración encubierta como sirvientes drow en la Casa Istrav, secretos de Keiden Ashton y primer duelo fratricida de Triel contra Jhidel.
+    * *Sinopsis:* Una arriesgada misión encubierta lleva a los protagonistas al interior del subterráneo planeta Apostae. Disfrazados e infiltrados en los palacios de los elfos oscuros, deberán sortear conspiraciones aristocráticas y afrontar deudas de sangre familiares.
 
 11. **[Volumen 11: El Rally de la Muerte en el Asteroide-Casino](soles_muertos/libros_pdf/11_Lasers_y_Dragones_Volumen_11_El_Rally_de_la_Muerte.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_11/)) · **`[BORRADOR]`**
     * *Subtítulo:* `El Rally de la Muerte en el Asteroide-Casino` (Episodios 123–135).
     * *Extensión:* 68 páginas, A4 editorial.
-    * *Arco:* Apuestas espaciales, robots corruptos y la despiadada carrera vehicular mortal en el vacío con Marloc de piloto estrella antes de su receso.
+    * *Sinopsis:* En un ostentoso asteroide-casino donde la fortuna y el peligro van de la mano, la tripulación debe arriesgarlo todo en una despiadada competición de vehículos espaciales en la que cualquier error se paga con la vida en el vacío.
 
 12. **[Volumen 12: La Odisea de La Galway I - El Pecio de la Oscuridad](soles_muertos/libros_pdf/12_Lasers_y_Dragones_Volumen_12_El_Pecio_de_la_Oscuridad.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_12/)) · **`[BORRADOR]`**
     * *Subtítulo:* `La Odisea de La Galway I - El Pecio de la Oscuridad` (Episodios 136–147).
     * *Extensión:* 59 páginas, A4 editorial.
-    * *Arco:* Salida temporal de Marloc y llegada de Zivok a *La Galway*; reunión con el clan ysoki y abordaje del colosal pecio no-muerto eoxiano de kilómetros de largo en el vacío (*El Corazón de la Oscuridad*).
+    * *Sinopsis:* Ante un desesperado llamado de auxilio que compromete a la familia de Benrey, la nave acude a los confines del espacio para abordar un crucero fantasmal de kilómetros de longitud, abandonado y repleto de misterios espectrales.
 
 13. **[Volumen 13: La Odisea de La Galway II - El Laberinto de los Lovelorn](soles_muertos/libros_pdf/13_Lasers_y_Dragones_Volumen_13_El_Laberinto_de_los_Lovelorn.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_13/)) · **`[BORRADOR]`**
     * *Subtítulo:* `La Odisea de La Galway II - El Laberinto de los Lovelorn` (Episodios 148–162).
     * *Extensión:* 73 páginas, A4 editorial.
-    * *Arco:* Asedio de abominaciones *Lovelorn*, rescate del clan Galway, combate fratricida contra clones no-muertos de A.Xel («A.Xel vs A.Xel») y reflejos espectrales de Benrey antes de huir a Nejeor.
+    * *Sinopsis:* Atrapados en las cubiertas corruptas del colosal pecio, los rescatadores deben abrirse paso a través de un dédalo de aberraciones y desafiar perturbadoras manifestaciones que ponen a prueba su cordura y su identidad para intentar salvar a los suyos.
 
 14. **[Volumen 14: Las Nubes Arruinadas I - La Ciudadela de Istamak](soles_muertos/libros_pdf/14_Lasers_y_Dragones_Volumen_14_La_Ciudadela_de_Istamak.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_14/)) · **`[BORRADOR]`**
     * *Subtítulo:* `Las Nubes Arruinadas I - La Ciudadela de Istamak` (Episodios 163–173).
     * *Extensión:* 58 páginas, A4 editorial.
-    * *Arco:* Emotivo retorno de Juan Pablo y Marloc (Ep 163), descenso en Nejeor, contacto con los Kish y exploración de la fabulosa ciudad flotante de Istamak y su Museo.
+    * *Sinopsis:* Tras la angustiosa travesía del pecio, el grupo viaja a Nejeor, un inmenso gigante gaseoso en cuya atmósfera flota la mítica ciudadela en ruinas de Istamak. Allí buscarán entablar contacto con sus pobladores para descubrir el legado de una civilización pretérita.
 
 15. **[Volumen 15: Las Nubes Arruinadas II - La Forja Kishalee](soles_muertos/libros_pdf/15_Lasers_y_Dragones_Volumen_15_La_Forja_Kishalee.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_15/)) · **`[BORRADOR]`**
     * *Subtítulo:* `Las Nubes Arruinadas II - La Forja Kishalee` (Episodios 174–185).
     * *Extensión:* 70 páginas, A4 editorial.
-    * *Arco:* Complejos micóticos, clínica médica ancestral, la forja kishalee, combate contra el campeón Xavra y obtención de las coordenadas de los Doce Soles.
+    * *Sinopsis:* Descendiendo a los complejos prohibidos de la metrópoli flotante entre nubes tóxicas, la tripulación busca la ancestral Forja Kishalee, desafiando peligros biológicos y guardianes celosos para obtener las coordenadas de la legendaria superarma.
 
 16. **[Volumen 16: El Corazón del Padre I - El Secreto de la Deriva](soles_muertos/libros_pdf/16_Lasers_y_Dragones_Volumen_16_El_Secreto_de_la_Deriva.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_16/)) · **`[BORRADOR]`**
     * *Subtítulo:* `El Corazón del Padre I - El Secreto de la Deriva` (Episodios 186–201).
     * *Extensión:* 63 páginas, A4 editorial.
-    * *Arco:* Escape de Nejeor, reparaciones en Kairos, la matriarca Alistrav revela la supervivencia de Keiden Ashton a la deriva en la nave de Besmara y travesía hacia el torbellino del Maelstrom.
+    * *Sinopsis:* Una revelación sobre el destino de un ser querido empuja a la tripulación hacia el turbulento Maelstrom, una peligrosa anomalía del hiperespacio donde el tiempo y las leyes físicas se desvanecen.
 
 17. **[Volumen 17: El Corazón del Padre II - La Nave de Besmara](soles_muertos/libros_pdf/17_Lasers_y_Dragones_Volumen_17_La_Nave_de_Besmara.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_17/)) · **`[BORRADOR]`**
     * *Subtítulo:* `El Corazón del Padre II - La Nave de Besmara` (Episodios 202–222).
     * *Extensión:* 82 páginas, A4 editorial.
-    * *Arco:* Incursión en la nave viva de Besmara en el Maelstrom, distorsiones psicoplásticas, revancha contra Jhidel Istrav, juicio del Inevitable y salvación de Keiden Ashton con el motor recuperado.
+    * *Sinopsis:* En el corazón de la tormenta interdimensional, la tripulación asalta un navío mítico a la deriva. Rodeados de fuerzas incomprensibles y viejos adversarios, deberán arriesgar su cordura para consumar un rescate desesperado.
 
 18. **[Volumen 18: La Decimotercera Puerta I - Los Doce Soles](soles_muertos/libros_pdf/18_Lasers_y_Dragones_Volumen_18_Los_Doce_Soles.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_18/)) · **`[BORRADOR]`**
     * *Subtítulo:* `La Decimotercera Puerta I - Los Doce Soles` (Episodios 223–235).
     * *Extensión:* 68 páginas, A4 editorial.
-    * *Arco:* El Hombre Tintineante, salto a los Doce Soles, exploración de portales y estaciones Kishalee, y misterios de las almas anteriores de A.Xel 42.
+    * *Sinopsis:* Las coordenadas ancestrales guían a la nave hasta una colosal maravilla astronómica: un anillo de doce soles que custodian una red milenaria de portales estelares, mientras una inquietante presencia acecha desde la penumbra del vacío.
 
 19. **[Volumen 19: La Decimotercera Puerta II - El Duelo de los Androides](soles_muertos/libros_pdf/19_Lasers_y_Dragones_Volumen_19_La_Decimotercera_Puerta.pdf)** ([Carpeta de Trabajo](soles_muertos/volumen_19/)) · **`[BORRADOR]`**
     * *Subtítulo:* `La Decimotercera Puerta II - El Duelo de los Androides` (Episodios 236–249).
     * *Extensión:* 64 páginas, A4 editorial.
-    * *Arco:* Asalto al complejo de mando Kishalee, confrontación contra la jerarca androide Null-9 y la hostil IA Eltreth, apertura triunfal de la Decimotercera Puerta al Devastador Estelar.
+    * *Sinopsis:* En el núcleo de control de la megaestructura estelar, la tripulación libra una batalla decisiva contra fuerzas sintéticas hostiles para activar la legendaria puerta y evitar que el Devastador Estelar caiga en las manos equivocadas.
 
 20. **[Volumen 20: El Imperio de los Huesos - El Asalto al Dreadnought](soles_muertos/volumen_20/)** · **`[PLANIFICADO]`**
     * *Subtítulo:* `El Imperio de los Huesos - El Asalto al Dreadnought` (Episodios 250 al 272+).
     * *Extensión:* *Planificado (Mesa activa de podcast)*.
-    * *Arco:* Movilización masiva de la Flota de los Cuerpos («Atómicos Assemble»), asalto al super-dreadnought *Imperio de los Huesos*, persecución en tren de la muerte, duelo con Malakar, francotiradores baykok, visiones de sangre de Marloc y combate contra la tejedora Anasi.
+    * *Sinopsis:* El clímax de la saga. La tripulación encabeza una ofensiva desesperada junto a una gran coalición espacial para abordar la nave insignia de la Flota de los Cuerpos y librar el enfrentamiento definitivo por el destino de la galaxia.
 
 ---
 
@@ -181,15 +181,15 @@ lasersydragones/
 Cada especial dispone de su carpeta propia con los recursos necesarios para su redacción:
 
 * **[Especial 1: Hielo y Sangre (HyS)](especiales/01_hielo_y_sangre_2020/)** (22 Episodios, 2020)  
-  *Arco:* Campaña medieval de *Pathfinder 2e* jugada durante el confinamiento de la pandemia. Prisioneros encadenados en el Peñón de la Pena en el Gran Imperio Dreki.
+  *Sinopsis:* Campaña de fantasía medieval oscura en el Peñón de la Pena del Gran Imperio Dreki, donde un grupo de prisioneros encadenados lucha por sobrevivir y ganar su libertad (*Pathfinder 2e*).
 * **[Especial 2: Mundo de Oscuridad (MdO) - La Caída de Piedra de Plaga](especiales/02_mundo_de_oscuridad_2022_2023/)** (48 Episodios, 2022-2023)  
-  *Arco:* Campaña completa de *Pathfinder 2e* adaptando la aventura oficial de Paizo durante la pausa de un año de Starfinder. Misterios y alquimia en Piedra de Plaga.
+  *Sinopsis:* Campaña de investigación, alquimia y misterio gótico en el remoto asentamiento de Piedra de Plaga, adaptando la célebre aventura de *Pathfinder 2e*.
 * **[Especial 3: Spooky Octubre 2021 - Pesadilla en el Viejo Golarion](especiales/03_spooky_octubre_2021/)** (Episodios 73 al 76a)  
-  *Arco:* Simulación virtual de rol dentro del rol (*Pathfinder 2e* en Ábsalon): *Isopi Flower* (druida rana), *Valor* (orco), *Pastinaxcel* (leshy) y *Monstruo* (mutante). Transcripciones limpias listas.
+  *Sinopsis:* Una inmersión en realidad virtual en la que la tripulación experimenta una sesión de rol dentro del rol encarnando personajes en el legendario Viejo Golarion.
 * **[Especial 4: Spooky Octubre 2025 - La Trilogía de la Muerte](especiales/04_spooky_octubre_2025/)** (3 Episodios)  
-  *Arco:* Sistema *Shadowdark RPG*, con la participación de la **jugadora invitada especial Daneris**.
+  *Sinopsis:* Aventura de horror y supervivencia en mazmorras bajo las implacables reglas de *Shadowdark RPG*, con la participación de la jugadora invitada Daneris.
 * **[Especial 5: Spooky Octubre 2026 - La Guardia de Medianoche](especiales/05_spooky_octubre_2026/)** (Episodio 1 en adelante)  
-  *Arco:* Entrega anual de horror para la temporada de Halloween de 2026 (*Temporada en emisión activa / No finalizada*). Transcripción limpia del Episodio 1 lista.
+  *Sinopsis:* Entrega anual de terror e investigación paranormal para la temporada de Halloween de 2026 (*en emisión activa*).
 
 ---
 
