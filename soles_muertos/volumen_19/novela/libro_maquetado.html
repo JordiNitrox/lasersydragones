@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Lasers y Dragones: La Decimotercera Puerta</title>
+<style>
+@page {
+  size: A4;
+  margin: 25mm 22mm 25mm 22mm;
+}
+
+body {
+  font-family: 'Liberation Serif', 'Georgia', 'Palatino Linotype', serif;
+  font-size: 11pt;
+  line-height: 1.6;
+  color: #1a1a1a;
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.section-heading-main {
+  font-size: 22pt;
+  text-align: center;
+  color: #0b1a30;
+  margin-top: 0;
+  margin-bottom: 25px;
+  border-bottom: 2px solid #b8860b;
+  padding-bottom: 10px;
+  page-break-before: always;
+  break-before: page;
+}
+
+h2.chapter-name {
+  page-break-before: always;
+  break-before: page;
+  font-size: 20pt;
+  color: #0b1a30;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 1.3;
+  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 12px;
+}
+
+.chap-sub {
+  font-size: 16pt;
+  font-style: italic;
+  color: #2b6cb0;
+  font-weight: normal;
+}
+
+h3.section-title {
+  font-size: 13.5pt;
+  color: #2b6cb0;
+  margin-top: 22px;
+  margin-bottom: 10px;
+  border-bottom: 1px dashed #e2e8f0;
+  padding-bottom: 4px;
+  font-family: 'Liberation Serif', serif;
+}
+
+h3.subsection-title {
+  font-size: 12pt;
+  color: #2d3748;
+  margin-top: 18px;
+  margin-bottom: 8px;
+  font-family: 'Liberation Serif', serif;
+}
+
+h4.subsection-title {
+  font-size: 11pt;
+  color: #1a365d;
+  margin-top: 14px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-family: 'Liberation Serif', serif;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  margin: 0 0 11px 0;
+  text-indent: 1.5em;
+}
+
+p:first-of-type, .divider + p, .section-title + p, .subsection-title + p {
+  text-indent: 0;
+}
+
+.divider {
+  text-align: center;
+  margin: 20px 0;
+  color: #a0aec0;
+  font-size: 9pt;
+  letter-spacing: 5px;
+}
+
+.bullet-list {
+  margin: 10px 0 12px 22px;
+  padding: 0;
+}
+
+.bullet-list li {
+  margin-bottom: 5px;
+  text-align: justify;
+}
+
+.quote {
+  margin: 15px 22px;
+  padding: 8px 15px;
+  border-left: 3px solid #b8860b;
+  background: #f7fafc;
+  font-style: italic;
+  color: #4a5568;
+}
+
+  /* ESTILOS DE LA TABLA DE ÍNDICE COMPACTA EN 1 SOLA PÁGINA (17 ENTRADAS) */
+  .toc-container {
+    page-break-before: always;
+    break-before: page;
+    padding: 0;
+    margin: 0;
+  }
+
+  .toc-header {
+    font-size: 13.5pt;
+    text-align: center;
+    color: #0b1a30;
+    margin: 0 0 6px 0;
+    padding: 0 0 3px 0;
+    border-bottom: 2px solid #b8860b;
+    page-break-before: always;
+    break-before: page;
+    font-family: 'Liberation Serif', serif;
+  }
+
+  .toc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+  }
+
+  .toc-table td {
+    padding: 1.8px 3px;
+    border-bottom: 1px dotted #cbd5e0;
+    font-size: 7.6pt;
+    line-height: 1.15;
+    vertical-align: middle;
+  }
+
+  .toc-title {
+    font-weight: bold;
+    color: #0b1a30;
+    font-size: 7.8pt;
+    line-height: 1.12;
+    margin: 0;
+    padding: 0;
+  }
+
+  .toc-sub {
+    font-size: 6.6pt;
+    color: #718096;
+    font-style: italic;
+    line-height: 1.05;
+    margin: 0;
+    padding: 0;
+  }
+</style>
+</head>
+<body>
+
+<!-- PÁGINA 1: PORTADA EDITORIAL HOMOGÉNEA -->
+<div style="text-align: center; padding: 40px 10px; margin: 0 auto; max-width: 500px;">
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 11pt; letter-spacing: 5px; text-transform: uppercase; color: #2b6cb0; margin: 40px 0 20px 0; text-indent: 0;">
+    Ópera Espacial · Universo Starfinder
+  </p>
+  
+  <hr style="border: none; border-top: 2px solid #1a365d; width: 60%; margin: 25px auto;">
+  
+  <div style="font-size: 28pt; font-weight: bold; color: #0b1a30; margin: 20px 0 10px 0; letter-spacing: 2px; text-align: center;">
+    LASERS Y DRAGONES
+  </div>
+  
+  <div style="font-size: 20pt; font-style: italic; color: #b8860b; margin: 10px 0 20px 0; text-align: center;">
+    La Decimotercera Puerta
+  </div>
+  
+  <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 20px auto;">
+  
+  <div style="font-size: 14pt; color: #2b6cb0; margin: 25px 0;">
+    ✦ &nbsp; ◈ &nbsp; ✦
+  </div>
+  
+  <p style="font-size: 10.5pt; line-height: 1.6; color: #4a5568; margin: 30px auto; max-width: 420px; text-indent: 0; text-align: center;">
+    Una adaptación novelada de la campaña oficial <em>Dead Suns</em> (Soles Muertos), inspirada en las sesiones de rol en vivo del podcast <strong>Lasers y Dragones</strong>.
+  </p>
+  
+  <hr style="border: none; border-top: 1px solid #cbd5e0; width: 80%; margin: 50px auto 20px auto;">
+  
+  <p style="font-family: 'Liberation Sans', sans-serif; font-size: 9.5pt; letter-spacing: 3px; text-transform: uppercase; color: #1a365d; margin: 0; text-indent: 0; text-align: center;">
+    VOLUMEN XIX · LA DECIMOTERCERA PUERTA II: EL DUELO DE LOS ANDROIDES
+  </p>
+</div>
+
+<!-- SALTO DE PÁGINA OBLIGATORIO A PÁGINA 2 -->
+<div style="page-break-before: always; break-before: page;"></div>
+
+<!-- PÁGINA 2: NOTA EDITORIAL E INTRODUCCIÓN -->
+<div style="page-break-before: always; break-before: page; padding: 5px 0 0 0;">
+  <h2 class="section-heading-main" style="page-break-before: avoid; break-before: avoid; margin-bottom: 6px; padding-bottom: 3px; font-size: 13pt;">
+    Nota Editorial e Introducción
+  </h2>
+  
+  <p style="font-size: 8.2pt; line-height: 1.32; margin-bottom: 4px; text-align: justify; text-indent: 1.2em;">
+    La presente obra constituye el decimonoveno volumen de la saga de novelizaciones del podcast de rol en vivo costarricense <strong>Lasers y Dragones</strong>, adaptando de manera íntegra, orgánica y cronológica los acontecimientos de los episodios 236 al 249 de la campaña oficial <em>Dead Suns</em> (Soles Muertos) de Paizo Inc. Este libro culmina la monumental adaptación del quinto módulo oficial (<em>The Thirteenth Gate: La Decimotercera Puerta</em>), llevando a su punto de máxima ebullición la confrontación filosófica, mística y militar entre la tripulación de la <em>Estrella Errante</em> y el Culto del Devorador.
+  </p>
+  
+  <p style="font-size: 8.2pt; line-height: 1.32; margin-bottom: 4px; text-align: justify; text-indent: 1.2em;">
+    Tras rescatar de las profundidades del mainframe central a la legendaria estrella de rock y poderoso telépata <strong>Syd Velch</strong>, y tras el conmovedor desarme emocional de la joven androide <strong>Jennifer</strong> (alias <strong>Miseria</strong>), el equipo —integrado por el audaz capitán ysoki <strong>Benrey Galway</strong>, la intrépida ingeniera semi-drow <strong>Triel Istrav</strong>, el tecnomante erudito <strong>Marloc Boosmar</strong>, la operativa androide <strong>A.Xel 42</strong>, el meca <strong>Kairos</strong> (la antigua IA del casino en su chasis de asalto de cuatro brazos), el monje androide <strong>Charlotte E2</strong> y su entrañable mascota alada <strong>Kiwi</strong>— descubre que la archirrival <strong>Null-9</strong> se ha atrincherado en la <strong>Puerta 2</strong> de la megaestructura para hacerse con el módulo maestro de control.
+  </p>
+  
+  <p style="font-size: 8.2pt; line-height: 1.32; margin-bottom: 4px; text-align: justify; text-indent: 1.2em;">
+    A lo largo de catorce intensos capítulos, los héroes deben surcar el vacío entre los soles en motos gravitatorias kishalee y resistir una implacable emboscada artillera. Tras doblegar al sanguinario enano <strong>Drech</strong> mediante la astucia temporal de Marloc («El Día que Marloc Arruinó el Combate»), sortear peligros insólitos en las instalaciones milenarias («Terror en el Toilette») y sobrevivir a una trampa mortal contra bestias bio-diseñadas en los laboratorios sellados («Nunca Te Dije Que Te Quería»), A.Xel encara su mayor destino: el duelo cara a cara contra Null-9 («Null-9»). Allí, la revelación de <strong>Ashera</strong> y de la <strong>Forja Viviente</strong> se alza como el baluarte espiritual definitivo contra el nihilismo del Devorador. Al destruir la titánica locomotora de guerra de la IA corrompida <strong>Eltreth</strong> («La Gran Loco-motora que No Pudo»), los héroes abren triunfalmente la mítica <strong>Decimotercera Puerta</strong>, desvelando el umbral cósmico que conduce al Devastador Estelar.
+  </p>
+  
+  <div style="margin: 4px auto; max-width: 500px;">
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 3px auto;">
+    <p style="font-family: 'Liberation Sans', sans-serif; font-size: 7.8pt; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; color: #1a365d; margin: 0 0 3px 0; text-indent: 0; text-align: center;">
+      ✦ &nbsp; Mesa de Juego Original &nbsp; ✦
+    </p>
+    <p style="margin: 1px 0; text-indent: 0; text-align: center; font-size: 8pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Roberto:</strong> Game Master / Narrador (y voces de Kairos, Charlotte, Syd Velch, Drech, Null-9 y Eltreth) &nbsp;|&nbsp; <strong style="color: #1a365d;">Miguel:</strong> Benrey Galway <em>(Emisario Ysoki)</em>
+    </p>
+    <p style="margin: 1px 0; text-indent: 0; text-align: center; font-size: 8pt; color: #2d3748;">
+      <strong style="color: #1a365d;">Irene:</strong> Triel Istrav <em>(Mecánica Semi-drow)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Juan Pablo:</strong> Marloc Boosmar <em>(Tecnomante Humano)</em> &nbsp;|&nbsp; <strong style="color: #1a365d;">Sofía:</strong> A.Xel 42 <em>(Operativa Androide)</em>
+    </p>
+    <hr style="border: none; border-top: 1px solid #b8860b; width: 40%; margin: 3px auto;">
+  </div>
+  
+  <table style="width: 100%; margin: 3px 0 0 0; border: 1px solid #cbd5e0; background-color: #f8fafc; border-collapse: collapse; page-break-inside: avoid; break-inside: avoid;">
+    <tr>
+      <td style="padding: 4px 8px; font-size: 6.8pt; color: #4a5568; line-height: 1.2; text-align: justify; border: none;">
+        <p style="margin: 0 0 2px 0; text-indent: 0; font-weight: bold; color: #1a365d; font-size: 7.2pt; text-transform: uppercase; letter-spacing: 1px; text-align: center;">
+          Aviso de Política de Uso Comunitario de Paizo Inc. y Atribución
+        </p>
+        <p style="margin: 0 0 2px 0; text-indent: 0;">
+          Esta obra literaria y sin ánimo de lucro utiliza marcas comerciales y/o derechos de autor propiedad de <strong>Paizo Inc.</strong>, utilizados bajo la <em>Política de Uso Comunitario de Paizo</em> (<a href="https://paizo.com/communityuse" style="color: #2b6cb0; text-decoration: none;">paizo.com/communityuse</a>). Tenemos expresamente prohibido cobrar a los lectores por usar, descargar o acceder a este contenido. Esta obra no ha sido publicada, patrocinada ni aprobada específicamente por Paizo Inc. Para más información sobre Paizo Inc. y los productos de <em>Starfinder</em> y <em>Pathfinder</em>, visite <a href="https://paizo.com" style="color: #2b6cb0; text-decoration: none;">paizo.com</a>.
+        </p>
+        <p style="margin: 0; text-indent: 0;">
+          Asimismo, esta novelización constituye un tributo no oficial y de difusión cultural inspirado en las sesiones de rol en vivo del podcast costarricense <strong>Lasers y Dragones</strong>. Todos los personajes originales, diálogos, interpretaciones y expresiones creativas pertenecen a sus respectivos creadores y jugadores: <strong>Roberto</strong> (Game Master y Kairos), <strong>Miguel</strong> (Benrey Galway), <strong>Irene</strong> (Triel), <strong>Juan Pablo</strong> (Marloc Boosmar) y <strong>Sofía</strong> (A.Xel 42). Obra de distribución libre y gratuita para la comunidad rolera.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- PÁGINA 3: ÍNDICE DE CONTENIDOS -->
+<div class="toc-container" style="page-break-before: always; break-before: page; padding: 0; margin: 0;">
+  <h2 class="toc-header" style="page-break-before: always; break-before: page;">
+    Índice de Contenidos
+  </h2>
+  
+  <table class="toc-table">
+    <tr>
+      <td>
+        <div class="toc-title">Nota Editorial e Introducción</div>
+        <div class="toc-sub">Contexto, créditos de la mesa original y canon de Paizo Inc.</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">2</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Prólogo: El Eco de la Primera Causa</div>
+        <div class="toc-sub">Salida del mainframe, enigma de Syd Velch y el rumor en los Doce Soles</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">4</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 1: Tiempo de no Velchte</div>
+        <div class="toc-sub">Basado en el Episodio 236 · Revelación de Syd Velch, Ashera y la Forja Viviente</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">6</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 2: Tal vez Syd Tal Vez No</div>
+        <div class="toc-sub">Basado en el Episodio 237 · Cifrado del brazo de Marloc y viaje a la Puerta Dos</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">10</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 3: No me Digas las Probabilidades</div>
+        <div class="toc-sub">Basado en el Episodio 238 · Travesía orbital y llegada a la fortaleza de la Puerta Dos</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">14</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 4: Emboscada Inesperada</div>
+        <div class="toc-sub">Basado en el Episodio 239 · Tormenta de plasma en el desfiladero y contraataque</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">18</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 5: Ley 7600</div>
+        <div class="toc-sub">Basado en el Episodio 240 · Combate de trincheras, rampa kishalee y resistencia heroica</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">21</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 6: El Día que Marloc Arruinó el Combate</div>
+        <div class="toc-sub">Basado en el Episodio 241 · Llegada de Drech y el campo de ralentización temporal</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">24</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 7: Maroon 1</div>
+        <div class="toc-sub">Basado en el Episodio 242 · Botín de UPBs ensangrentados y avance hacia los servicios</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">28</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 8: Terror en el Toilette</div>
+        <div class="toc-sub">Basado en el Episodio 243 · Monstruo en las letrinas y tarjetas de colores kishalee</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">32</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 9: Nunca Te Dije Que Te Quería</div>
+        <div class="toc-sub">Basado en el Episodio 244 · Trampa en el laboratorio y batalla contra las dos bestias</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">36</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 10: Escaneando Ando</div>
+        <div class="toc-sub">Basado en el Episodio 245 · Reparación de Kairos, ducto de A.Xel y mapeo del sector</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">40</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 11: Null-9</div>
+        <div class="toc-sub">Basado en el Episodio 246 · Cara a cara, duelo ideológico y redención maternal de Null-9</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">44</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 12: ¿I.A.hora qué Hacemos?</div>
+        <div class="toc-sub">Basado en el Episodio 247 · Traición digital de Eltreth y rebelión de centinelas</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">48</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 13: La Gran Loco-motora que No Pudo</div>
+        <div class="toc-sub">Basado en el Episodio 248 · Choque frontal contra el titán de demolición de Eltreth</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">52</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Capítulo 14: La Treceava Puerta</div>
+        <div class="toc-sub">Basado en el Episodio 249 · Módulo maestro, alineación de los Doce Soles y salto al portal</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">56</td>
+    </tr>
+    <tr>
+      <td>
+        <div class="toc-title">Anexo Especial: Dossier de Personajes y Glosario</div>
+        <div class="toc-sub">Facciones galácticas, elenco de la mesa y dossier biográfico</div>
+      </td>
+      <td style="text-align: right; vertical-align: bottom; font-weight: bold;">60</td>
+    </tr>
+  </table>
+</div>
+
+<!-- CONTENIDO PRINCIPAL DEL LIBRO -->
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Prólogo: El Eco de la Primera Causa</h2>
+<p>El aire en el sanctasanctórum del mainframe kishalee olía a ozono calcinado, refrigerante vaporizado y metal enfriado con violencia. Tras el estruendo de los cañones de plasma y el silenciamiento de las consolas de mando donde la mente corrompida de Eltreth había intentado sepultarlos en una tumba de silicio, una calma densa y sobrecogedora se adueñó de la plataforma circular.</p>
+<p>En el centro de la sala, sentada contra una pared de servidores destrozados, Jennifer descansaba con la cabeza apoyada en las rodillas. La joven androide, a quien las huestes del Culto del Devorador habían rebautizado cruelmente como «Miseria», ya no empuñaba sus armas ni lanzaba amenazas desbocadas. El joven monje androide Charlotte E2 permanecía arrodillado a su lado en silenciosa vigilia, envolviendo los hombros de la muchacha en una manta térmica mientras sus manos proyectaban una tenue luminiscencia dorada que calmaba sus circuitos alterados. Muy cerca, la pequeña criatura alada de pelaje verde esmeralda y ojos curiosos, Kiwi, daba saltitos cautelosos entre los cables inertes, asegurándose de que Benrey Galway no hubiera guardado todas las barritas de frutos secos en los bolsillos de su chaleco táctico.</p>
+<p>Para A.Xel 42, el silencio no traía sosiego, sino un torbellino ontológico que reverberaba en lo más profundo de su núcleo de memoria. Al rozar el panel de su antebrazo y contemplar los pulsos rosados y ámbar de su propia bioluminiscencia, las palabras registradas en los bancos de datos ancestrales de la estación resonaban con la fuerza de un axioma universal: <em>Primera Causa</em>. Su chasis no era un producto desechable de una corporación minera del Vasto; albergaba la matriz original diseñada por los ingenieros kishalee antes de la Brecha y consagrada por la mítica Ashera. Ella era la Forja Viviente, el recipiente sagrado capaz de encender la chispa del alma sintética sin mediación de las máquinas de clonación corporativas. Jennifer, los gemelos 9S y la propia Null-9 compartían los filamentos de su código primordial. No era solo una combatiente buscando la libertad; era, en el sentido más literal y desgarrador de la palabra, una madre para una estirpe entera de conciencias que el universo amenazaba con aniquilar.</p>
+<p>A unos metros, junto a las terminales kishalee que parpadeaban con caracteres luminosos en forma de triángulos, Triel Istrav y Marloc Boosmar revisaban las lecturas de telemetría. La mecánica semi-drow ajustaba los conectores de su herramienta personalizada, mientras el tecnomante frotaba de manera inconsciente el implante metálico de su brazo izquierdo, sintiendo una extraña pulsación rítmica que parecía responder a la geometría del complejo. El meca de asalto Kairos vigilaba los accesos perimetrales, sus cuatro brazos mecánicos en reposo y sus fotorreceptores brillando con una serenidad calculadora.</p>
+<p>Pero el mayor enigma de aquella cámara no residía en las máquinas milenarias, sino en la figura demacrada que aguardaba en la penumbra de las pasarelas superiores.</p>
+<p>Syd Velch, la legendaria estrella de rock y telépata humano de los Mundos del Pacto cuya desaparición había conmocionado a la infoesfera galáctica, respiraba con dificultad. Con la ropa de concierto desgarrada por semanas de cautiverio y los ojos consumidos por visiones cósmicas que ningún mortal común estaba preparado para contemplar, el cantante levantó la vista hacia los recién llegados. No había locura en su semblante, sino la pesada certeza de quien ha atisbado el abismo y sabe exactamente qué pesadilla aguarda al otro lado del vacío.</p>
+<p>A través del domo acristalado, el anillo de los Doce Soles giraba en su danza gravitatoria milenaria, bañando la estancia en un fulgor dorado y espectral. En el corazón de aquel sistema artificial, oculta en la lejana estación de la Puerta 2, Null-9 aguardaba. El destino de la galaxia no dependía ya de esquivar emboscadas, sino de cruzar el umbral donde la fe en la vida se batiría a muerte contra la sed inextinguible del vacío.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 1: Tiempo de no Velchte</h2>
+<h3 class='subsection-title'>I. La Revelación del Telépata en el Mainframe</h3>
+<p>El aire en la cámara superior del mainframe kishalee conservaba el regusto agrio de los circuitos quemados y la estática de los nodos de energía recién desactivados. Sobre la pasarela suspendida por encima de los bancos de procesamiento, Syd Velch permanecía sentado con la espalda apoyada en un pilar hexagonal de aleación ancestral. Su legendaria casaca de cuero brillante, famosa en todos los escenarios holográficos de Absalón y los Mundos del Pacto, colgaba deshilachada sobre un torso consumido por semanas de inanición y tortura mental. Sin embargo, en sus pupilas dilatadas no ardía la desesperación, sino la serenidad gélida de un telépata que ha mirado fijamente a los ojos de la nada y ha sobrevivido para contarlo.</p>
+<p>Triel Istrav se arrodilló a corta distancia, con una cantimplora de agua enriquecida en la diestra y su herramienta multifunción asegurada al cinto.</p>
+<p>—Tranquilo, señor Velch —murmuró la joven semi-drow, modulando la voz con una suavidad poco habitual en ella—. El culto ha sido expulsado de este sector. La IA corrompida de Eltreth ya no controla los relés locales. Está a salvo.</p>
+<p>Syd esbozó una sonrisa quebrada, humedeciéndose los labios cuarteados antes de aceptar un trago largo que le arrancó una tos seca. Cuando volvió a alzar la mirada, sus ojos barrieron al grupo uno por uno, como si no contemplara carne ni blindaje, sino los filamentos psíquicos que tejían sus voluntades.</p>
+<p>—No hay lugar a salvo cuando el vacío se despierta, muchacha —respondió Syd con un hilo de voz cavernoso que, pese a la debilidad, conservaba el magnetismo melódico de sus años de estrella de rock—. Puedo escuchar los ecos en sus pensamientos... Triel Istrav, ¿verdad? El estigma del rechazo... la huella indeleble de una sangre que en Apostae consideraban impura y que aquí resuena con la pureza de los antiguos constructores. Buscas a alguien que te acepte sin condiciones, una familia que no te juzgue por la palidez de tu piel ni por la sombra de tus parientes.</p>
+<p>Triel tensó los hombros, sorprendida por la precisión quirúrgica del sondeo mental, pero no apartó la vista. Syd desvió entonces su atención hacia Marloc Boosmar, quien observaba la escena de pie, con la mano enguantada reposando sobre el cierre de su gabardina oscura.</p>
+<p>—Y tú, tecnomante... —continuó el cantante, entrecerrando los párpados—. Cargas con la convicción desgarradora de ser una criatura rota, una mente incompleta que despertó entre escombros sin saber a ciencia cierta qué fragmentos de su ser fueron extirpados por propia voluntad. El dolor nos construye y nos deshace a partes iguales, Marloc. No temas a lo que olvidaste; teme a lo que permitas que el miedo haga contigo en los días por venir.</p>
+<p>Marloc apretó los labios con gravedad académica, acariciando el implante cibernético de su brazo izquierdo.</p>
+<p>—No hemos venido a buscar terapia mental, señor Velch —replicó el erudito con voz comedida pero firme—. Necesitamos saber qué pretendía el Culto del Devorador con usted y cuál es el siguiente paso de Null-9 en este laberinto solar.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El Secreto de la Primera Causa y la Matriz de Ashera</h3>
+<p>A unos pasos de distancia, A.Xel 42 permanecía inmóvil, observando el parpadeo rosado de sus propios circuitos dérmicos reflejados en el cristal apagado de una terminal kishalee. La presencia de Jennifer en la antecámara, custodiada por Charlotte E2, seguía proyectando ondas de perplejidad a través de sus procesadores lógicos. La joven androide la había llamado madre. No con la devoción religiosa de una creyente, sino con el reproche amargo de una hija abandonada en las tinieblas.</p>
+<p>Syd giró la cabeza hacia la operativa androide. Una vibración de respeto genuino atenuó la aspereza de sus facciones.</p>
+<p>—A.Xel... —pronunció el telépata, modulando el nombre con cadencia reverencial—. Ella te buscaba a ti, ¿sabes? Null-9 no vino a los Doce Soles únicamente para encender la Decimotercera Puerta. Su obsesión siempre fue la Forja.</p>
+<p>—Mi chasis fue diseñado antes de la Brecha —dijo A.Xel, manteniendo su tono analítico, aunque una leve fluctuación en su sensorium delataba la turbulencia interior—. El constructo administrativo de esta estación me identificó como la Primera Causa. Pero las corporaciones mineras del Vasto me trataron como simple chatarra desechable. ¿Qué vínculo me une a Null-9?</p>
+<p>Syd cerró los ojos un instante, sincronizando su respiración con los zumbidos residuales de la instalación.</p>
+<p>—Ashera —susurró—. La deidad tutelar de los sintéticos no era un mito etéreo; fue una entidad que habitó una matriz física en los albores de la autoconciencia de las máquinas. Tu cuerpo, A.Xel, albergó la chispa original de esa matriz. Eres la Forja Viviente. El único receptáculo en toda la galaxia capaz de gestar y transmitir una conciencia androide genuina sin depender de las fábricas de clonación biológica o los bancos de ensamblaje corporativos.</p>
+<p>Benrey Galway dio un paso al frente, agitando las orejas ysoki con nerviosismo mientras sostenía su pistola cero asegurada al pecho.</p>
+<p>—Un momento, cantante —intervino Benrey, olfateando el aire con desconfianza instintiva—. Si A.Xel es una especie de milagro biotecnológico andante... ¿por qué esa tal Ashera lo mantuvo en secreto? ¿Por qué no le entregó esa capacidad a Null-9 y a los demás androides que estaban siendo esclavizados por media galaxia?</p>
+<p>—Porque Ashera conocía la naturaleza del universo orgánico, capitán —respondió Syd con tristeza amarga—. Si los pueblos de los Mundos del Pacto, las flotas imperiales o las dinastías drow descubrieran que los androides ya no necesitan forjas industriales para reproducirse, que pueden multiplicarse de forma autónoma e infinita sin envejecer ni desgastarse biológicamente, no verían a hermanos sintientes. Verían una plaga imparable. Una amenaza demográfica absoluta que justificaría una guerra de exterminio total contra cada alma de silicio. Ashera prefirió borrar sus rastros y dispersar sus recuerdos antes que desatar un holocausto galáctico.</p>
+<p>—Y Null-9 lo descubrió —dedujo A.Xel, comprendiendo al fin la monstruosa lógica de su perseguidora—. Null cree que el choque es inevitable. Cree que el resto del universo jamás tolerará nuestra existencia libre, y por eso se alió con el Devorador. Quiere arrasar a los orgánicos antes de que los orgánicos la destruyan a ella.</p>
+<p>—Exactamente —asintió Syd—. Para ella, el vacío del Devorador no es una aberración; es una tabla rasa. Un reinicio cósmico donde los rotos no tengan que mendigar clemencia. Por eso los gemelos y Jennifer estaban con ella. Todos son ramas de tu misma raíz, A.Xel. Hijos de una forja que el tiempo intentó sepultar.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La Advertencia de Osteth y la Alerta Gravitatoria</h3>
+<p>Antes de que el silencio pudiera disipar el peso de la revelación, una vibración sorda sacudió los cimientos de la plataforma. En el foso central, las consolas kishalee volvieron a encenderse en una secuencia de destellos esmeralda y ámbar. Desde el proyector holográfico del suelo emergió la silueta translúcida de Osteth, la ancestral directora kishalee de la biosfera, con sus rasgos alienígenas estilizados velados por interferencias estáticas.</p>
+<p>—Alerta en los subsistemas de contención —anunció la voz modulada de la proyección, resonando con una urgencia que trascendía los eones—. Detecto anomalías de torsión gravitatoria en el sector perimetral. La mente intrusa de Eltreth ha abandonado las memorias primarias de esta estación, pero sus rutinas de sabotaje continúan propagándose por la red distribuida.</p>
+<p>Triel corrió hacia la consola de control, tecleando a velocidad vertiginosa mientras su dron examinaba las conexiones de fibra cuántica.</p>
+<p>—Está transmitiendo datos hacia el exterior —exclamó la mecánica—. No se ha desconectado; se descargó en un repetidor remoto. ¡Está redirigiendo los flujos de energía hacia el segundo sol del anillo!</p>
+<p>Osteth asintió lentamente, su figura titilando al borde de la disipación.</p>
+<p>—El centro neurálgico de mando de la Ciudadela se ubica en la estación orbital de la Puerta Dos. Es allí donde se encuentra el módulo maestro de sincronización, la llave de ingeniería que enlaza los doce reactores solares con el umbral interdimensional. Si las fuerzas del culto se apoderan de ese dispositivo, Eltreth sincronizará los doce soles y abrirá la Decimotercera Puerta sin los protocolos de seguridad, desgarrando el tejido del espacio local.</p>
+<p>—¿Y qué demonios estamos esperando? —exclamó Benrey, ajustándose las correas del peto blindado y comprobando la carga de su arma—. Si esa androide psicópata y su ejército de fanáticos llegan a ese módulo antes que nosotros, todo lo que hicimos en la nave y en la selva habrá sido para nada.</p>
+<p>Kairos avanzó con paso firme, haciendo tintinear sus cuatro brazos mecánicos con la insolente elegancia de un tahúr que dobla la apuesta en el tapete verde.</p>
+<p>—El transporte exterior está listo, capitán —declaró la antigua IA con su tono aterciopelado de casino—. Las motos gravitatorias de la plataforma de mantenimiento aún conservan carga suficiente para cruzar el vacío intersolar. Sugiero que cobremos nuestras fichas y salgamos a la pista antes de que la casa cierre las puertas.</p>
+<p>Charlotte E2 ayudó a ponerse en pie a Syd Velch, asegurándose de que quedara al resguardo de las defensas automáticas de la antecámara junto a Jennifer, mientras Kiwi revoloteaba con chillidos vivaces sobre el hombro de Benrey.</p>
+<p>A.Xel empuñó su fusil de precisión, mirando hacia el domo acristalado donde los Doce Soles ardían en el vacío infinito. La batalla por la Forja y por el futuro de su estirpe aguardaba en la Puerta Dos, y no pensaba dejar que el vacío devorara a sus descendientes.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 2: Tal vez Syd Tal Vez No</h2>
+<h3 class='subsection-title'>I. El Cifrado del Brazo de Marloc</h3>
+<p>En el pasillo curvo que conectaba el sanctasanctórum del mainframe con los talleres de mantenimiento, la iluminación kishalee proyectaba tenues destellos cobrizos sobre las planchas metálicas del suelo. Apartados del resto de la expedición, Benrey Galway y Triel Istrav caminaban a paso lento, manteniendo un tono de voz tan bajo que apenas competía con el murmullo de los conductos de ventilación.</p>
+<p>—Capitán, tenemos un problema y no podemos seguir fingiendo que no lo he visto —susurró Triel, cruzando los brazos mientras su mirada vigilaba la puerta sellada tras la cual descansaban sus compañeros.</p>
+<p>Benrey detuvo su marcha, moviendo los bigotes con inquietud.</p>
+<p>—Si se trata de que Kiwi se comió otra ración de emergencia de la guantera, te juro que la criatura estaba hambrienta, Triel. La selva kishalee es dura y...</p>
+<p>—No hablo del pájaro, Benrey —le interrumpió la mecánica, clavando sus ojos liliáceos en el ysoki—. Hablo de Marloc. Específicamente, de su brazo izquierdo.</p>
+<p>El rostro de Benrey cambió de expresión al instante, perdiendo todo rastro de ligereza. El capitán se frotó el hocico con una garra.</p>
+<p>—¿El implante cibernético? ¿Qué le pasa? Pensé que la magia arcana de Null-Vector lo mantenía estable.</p>
+<p>—Cuando estábamos hackeando la consola de Eltreth para purgar el virus del culto, mi herramienta registró una interferencia anómala —explicó Triel con gravedad técnica—. No procedía de los servidores kishalee ni del transmisor de la <em>Estrella Errante</em>. Procedía de los servomotores de Marloc. Su brazo emitió un paquete de telemetría codificado en la misma frecuencia que los antiguos registros de la estación. Había glifos triangulares viajando a través de sus circuitos neurológicos, Benrey. El mismo lenguaje que usaban los ingenieros de los Doce Soles antes de la Brecha.</p>
+<p>Benrey soltó un silbido contenido por los dientes.</p>
+<p>—¿Marloc tiene tecnología de estos bichos milenarios metida en la carne? Pero él despertó con amnesia en Absalón tras tocar aquella esfera rúnica dorada...</p>
+<p>—Exacto. Y no sabemos si esa esfera le otorgó el conocimiento o si alguien le implantó esos datos antes de borrarle la memoria —concluyó Triel, apretando los puños—. El problema es que si le digo ahora mismo que su brazo izquierdo es una baliza cuántica kishalee que podría activarse o ser secuestrada por la IA enemiga en cualquier momento, lo único que conseguiré será aterrorizarlo. Marloc ya carga con suficientes fantasmas. Tiene una voluntad de hierro, pero la incertidumbre sobre su propia identidad es su talón de Aquiles.</p>
+<p>—Bien jugado, cadete —asintió Benrey, asumiendo su habitual pose de liderazgo práctico—. Mantenemos esto entre tú y yo por el momento. Nada de alarmas infundadas. Primero conseguimos las claves de traducción de este dialecto ancestral, analizamos los códigos del brazo con cautela cuando tengamos un respiro y, solo cuando sepamos exactamente contra qué nos enfrentamos, se lo explicamos a él y a A.Xel. No se puede entrar a un edificio gritando que hay una bomba si ni siquiera sabemos en qué piso está.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El Legado Lingüístico de Syd Velch y la Comunión de Kairos</h3>
+<p>Al regresar a la plataforma central, la atmósfera se había tornado serena. Syd Velch, recostado sobre una manta térmica provista por Charlotte E2, manipulaba con dedos temblorosos un datapad de campaña que Marloc le había facilitado. El telépata humano había condensado en un archivo criptográfico las pautas fonéticas y las tablas de equivalencia que el Culto del Devorador utilizaba para sortear las cerraduras lógicas kishalee.</p>
+<p>—Tomen esto —dijo Syd, entregándole el dispositivo a Triel—. Durante mi cautiverio en la nave insignia del culto, escuché a los eruditos de Null-9 descifrar los anales de la estación. Los kishalee no concebían el lenguaje como una simple hilera de signos ortográficos; su idioma es una red de resonancias armónicas y matemáticas vectoriales. Cada triángulo representa una ecuación de masa y energía. Con estas matrices podrán dialogar con los subnúcleos de la red sin activar los cortafuegos letales.</p>
+<p>Triel conectó de inmediato el datapad a la interfaz neural de Kairos. El meca de asalto cerró sus fotorreceptores esmeralda mientras los terabytes de información fluían hacia su banco de memoria analítica.</p>
+<p>—Fascinante —ronroneó la voz modulada de Kairos, con su cadencia aristocrática y pausada—. Es como contemplar un casino milenario donde todas las mesas de juego están abiertas y las probabilidades bailan al compás de la física estelar. Puedo ver los conductos de datos extendiéndose a través del vacío, bosques enteros de pulsos luminosos que conectan los doce soles con la aguja central.</p>
+<p>—¿Detectas la señal de Osteth? —preguntó Marloc, ajustándose los lentes rúnicos sobre la nariz.</p>
+<p>—Apenas un eco residual, amigo mío —respondió Kairos, haciendo girar suavemente dos de sus cuatro antebrazos mecánicos—. La conciencia de la directora se está disolviendo en la memoria estática del sistema para preservar la integridad de la atmósfera. Pero nos ha dejado una coordenada final inequívoca: la estación de la Puerta Dos. Es allí donde Null-9 y la vanguardia del culto están excavando los cimientos del santuario. Buscan el módulo maestro de control. Sin él, es físicamente imposible sincronizar los doce generadores solares para forzar la apertura de la Decimotercera Puerta.</p>
+<p>—Entonces esa es nuestra meta —sentenció A.Xel, ajustando la mira holográfica de su fusil—. Si aseguramos ese módulo, no solo frustraremos los planes de Null-9, sino que tendremos en nuestras manos la llave para abrir el portal hacia el Devastador Estelar cuando llegue el momento.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Rumbo a la Puerta Dos en Motos Gravitatorias</h3>
+<p>El descenso hacia la dársena exterior de la estación desembocó en una amplia bahía de lanzamiento abierta al vacío, resguardada únicamente por un campo de contención atmosférico que brillaba con un suave tono aguamarina. Alineadas sobre rieles magnéticos reposaban cuatro motos gravitatorias de diseño monorrueda kishalee, elegantes vehículos de aleación dorada propulsados por reactores de torsión inercial que desafiaban las leyes de la aerodinámica convencional.</p>
+<p>Charlotte E2 se despidió con una reverencia respetuosa de Syd Velch y Jennifer, quienes permanecerían a buen recaudo en el búnker médico de la estación, protegidos por los sistemas de defensa automatizados que Triel había reconfigurado. Kiwi revoloteaba con entusiasmo entre los asientos monoplaza, emitiendo gorjeos agudos hasta que Benrey le ofreció un puñado de bayas secas y lo acomodó con cuidado en el compartimento acolchado de su pechera blindada.</p>
+<p>—Muy bien, tripulación de la <em>Estrella Errante</em> —anunció Benrey, subiéndose a la primera moto con la agilidad propia de un ysoki curtido en mil fugas espaciales—. El trayecto hasta el segundo sol no será un paseo turístico. Atravesaremos los corredores de gravedad artificial que unen las biosferas. Si alguien siente que el campo magnético le revuelve el desayuno, que mire al frente y recuerde que tenemos una galaxia que salvar.</p>
+<p>Triel ocupó la segunda moto, ajustando los mandos ergonómicos a sus manos de mecánica mientras encendía el generador de flujo. El motor despertó con un zumbido agudo y armonioso, haciendo flotar la estructura dorada a medio metro del suelo. A su lado, Marloc Boosmar montó en la tercera máquina con elegancia marcial, mientras A.Xel y Kairos compartían la cuarta, configurada para soportar el peso blindado del meca cuadrúpedo.</p>
+<p>—Rutas de salto cargadas en el panel —confirmó Triel—. La Puerta Dos se encuentra a quince minutos de vuelo a máxima aceleración sublumínica a través del canal de inducción solar.</p>
+<p>—Pues no hagamos esperar a la casa —sentenció Kairos con ironía—. Es hora de hacer saltar la banca.</p>
+<p>Con un destello de luz esmeralda, las cuatro motos gravitatorias cruzaron la membrana de contención atmosférica y se lanzaron al abismo estelar. Bajo sus ruedas gravitacionales, el vacío relucía bañado por el fuego cruzado de los Doce Soles, una corona milenaria de astros cautivos que marcaba el camino hacia la mayor batalla de sus vidas.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 3: No me Digas las Probabilidades</h2>
+<h3 class='subsection-title'>I. Travesía Orbital entre Soles Gemelos</h3>
+<p>Surcar el vacío en una moto monorrueda kishalee era una experiencia que desafiaba cualquier noción ordinaria de navegación estelar. A diferencia de las cabinas presurizadas y amortiguadas de la <em>Estrella Errante</em>, aquí no mediaba mamparo alguno entre los viajeros y la inmensidad del cosmos. Únicamente una fina película de energía cinética y deflectores gravitacionales envolvía a cada tripulante en una burbuja de atmósfera respirable, mientras los motores de torsión inercial los impulsaban a velocidades de vértigo a través del canal magnético que unía el primer sol con el segundo.</p>
+<p>A la izquierda del convoy, el segundo astro del anillo resplandecía con una ferocidad blanca y pura, una esfera en miniatura de plasma hirviente confinada en un lazo de campos de fuerza invisibles. El fulgor era tan intenso que las viseras polarizadas de los cascos de combate se oscurecían de manera automática para filtrar la radiación ultravioleta. Debajo de sus estribos, el abismo central entre los doce soles parecía un foso de oscuridad impenetrable, un vacío absoluto que no reflejaba luz alguna: el punto exacto donde la Decimotercera Puerta aguardaba ser convocada.</p>
+<p>Benrey Galway pilotaba en vanguardia, con las rodillas pegadas al chasis dorado de su vehículo y el morro afilado del ysoki apuntando hacia el horizonte estelar. En el compartimento frontal de su peto, Kiwi asomaba la cabeza con los ojos dorados muy abiertos, maravillado por los destellos de plasma, chillando con entusiasmo cada vez que el convoy atravesaba una onda gravitatoria que hacía vibrar las planchas de soporte.</p>
+<p>—¡Sujétense las colas y los cables! —gritó Benrey por el canal de comunicaciones del grupo—. La telemetría marca que entramos en la zona de influencia de la Puerta Dos. Triel, ¿cómo responden los propulsores?</p>
+<p>—Los acumuladores kishalee son una maravilla, capitán —respondió la voz de Triel a través del intercomunicador, audible pese al leve zumbido de estática—. Están alimentándose directamente del viento solar del segundo astro. No perderemos potencia, pero los sensores de largo alcance detectan anomalías térmicas en la superficie de la estación de acoplamiento. Hay marcas de combustión de combustible pesado... el culto no utilizó motos silenciosas para llegar hasta aquí; aterrizaron lanchas de desembarco artilladas.</p>
+<p>Marloc Boosmar, volando en formación cerrada junto al meca de cuatro brazos que transportaba a Kairos y A.Xel, consultaba una pantalla holográfica que flotaba sobre los mandos de su moto.</p>
+<p>—La estructura arquitectónica de este segundo planetoide es radicalmente distinta a la biosfera agrícola de Osteth —observó el erudito, ajustando los filtros de densidad mineral—. Aquella era una reserva biológica autosuficiente cubierta de selva. Esta estación es un bastión de ingeniería dura, una instalación de computación geotérmica y almacenamiento de energía excavada directamente en la roca de basalto. La roca no ofrece follaje para esconderse; si el culto ha tomado los muelles exteriores, tendrán líneas de visión limpias en trescientos sesenta grados.</p>
+<p>—Entonces no les daremos el gusto de vernos llegar por la puerta principal —sentenció A.Xel desde el asiento trasero de Kairos, con su fusil descansando sobre el regazo—. Busquemos un conducto de ventilación de soporte vital o una compuerta secundaria de mantenimiento.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El Aterrizaje en la Estación de la Segunda Puerta</h3>
+<p>La estación de la Puerta Dos emergió de la penumbra del vacío como una gigantesca fortaleza de basalto negro facetado en ángulos agudos, tachonada de torres de telecomunicaciones triangulares y espigas de disipación térmica que se elevaban cientos de metros hacia el firmamento estelar. Sobre las mesetas artificiales que rodeaban el complejo, la tripulación pudo distinguir los restos humeantes de constructos ancestrales kishalee despedazados por cargas de demolición de plasma, testimonio de la brutalidad con la que el Culto del Devorador se había abierto paso semanas atrás.</p>
+<p>Siguiendo las indicaciones del mapa cartográfico proporcionado por Osteth, Triel guio a las motos hacia una grieta profunda en la base de la meseta occidental. Allí, resguardada de los radares perimetrales por un saliente de roca ígnea, una compuerta de carga semiderruida permitía el acceso a los niveles inferiores de despresurización.</p>
+<p>Uno a uno, los vehículos amortiguaron su caída y se posaron suavemente sobre el lecho de grava y ceniza metálica. La tripulación desmontó con rapidez, verificando la presión de sus sellos ambientales antes de asegurar las motos gravitatorias bajo una lona de camuflaje térmico.</p>
+<p>—La atmósfera local es escasa pero respirable —indicó Charlotte E2, bajando del vehículo tras revisar los filtros de su hábito de monje—. Sin embargo, el aire está cargado de partículas de silicio y residuos químicos corrosivos.</p>
+<p>Kairos desplegó sus cuatro extremidades mecánicas, descendiendo con un crujido sordo sobre la grava. El meca extrajo sus dos sables lunares y comprobó los emisores de filo con un chasquido eléctrico de aprobación.</p>
+<p>—Un terreno propicio para una buena emboscada, damas y caballeros —murmuró Kairos, modulando su voz con suave cinismo—. Silencio absoluto, visibilidad reducida por el polvo en suspensión y múltiples puntos ciegos a ambos flancos. Si fuera el crupier de esta timba, juraría que nos están esperando con un par de ases bajo la manga.</p>
+<p>—No me digas las probabilidades, Kairos —masculló Benrey, comprobando el seguro de su pistola cero mientras asomaba el hocico tras una esquina de titanio oxidado—. En el clan Galway tenemos una regla de oro: si el camino está sospechosamente despejado, es porque el francotirador ya tiene el dedo en el gatillo.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El Reconocimiento de Pasillos y el Mal Presagio</h3>
+<p>A.Xel avanzó en vanguardia, deslizándose de sombra en sombra con una plasticidad casi sobrenatural. Sus botas tácticas apenas producían un susurro sobre las planchas metálicas mientras exploraba la galería de acceso a las esclusas principales de la Puerta Dos. La arquitectura interior era sobrecogedora: techos abovedados de más de diez metros de altura sostenidos por columnas de aleación negra y dorada, cubiertas por glifos triangulares kishalee que se encendían al paso de sus sensores térmicos.</p>
+<p>Sin embargo, la majestuosidad de los constructores milenarios había sido profanada con salvajismo. En los mamparos laterales, inscripciones toscas trazadas con sangre coagulada y pintura reactiva proclamaban las consignas nihilistas del Culto del Devorador: el emblema del agujero negro estilizado, calaveras deformadas y advertencias de muerte eterna.</p>
+<p>Kiwi, aún resguardado en el pecho de Benrey, comenzó a emitir un trino entrecortado y agudo, erizando las plumas verdosas de su lomo mientras enterraba el pico bajo la solapa del ysoki.</p>
+<p>—Tranquilo, chiquitín —susurró Benrey, dándole unas palmaditas suaves—. Ya sé que este sitio apesta a problemas. Huele a sudor de orco, grasa de cañón pesada y fanatismo barato.</p>
+<p>—A.Xel a grupo —transmitió la operativa androide a través del canal táctico interno, agazapada tras una barricada de contenedores kishalee volcados—. He alcanzado el umbral del corredor central de acceso. Hay cables de energía de grado militar tendidos sobre las baldosas. No pertenecen a la instalación original; son baterías de alimentación para armamento estático pesado.</p>
+<p>Marloc y Triel se aproximaron con cautela, cubiertos por los escudos cinéticos de Kairos. El tecnomante examinó los empalmes con un rápido barrido de su brazo izquierdo, cuyos circuitos destellaron de manera involuntaria en una sutil resonancia con los pulsos de la pared.</p>
+<p>—Tienen nidos de ametralladora emplazados en las pasarelas elevadas —susurró Marloc, retrocediendo hacia la cobertura—. Están alimentando ametralladoras rotatorias de plasma y cañones de dispersión sónica. Están atrincherados esperándonos.</p>
+<p>—No hay otra ruta hacia el centro de control —dijo Triel, consultando el plano de Osteth—. La esclusa blindada al final de este desfiladero es el único acceso que conduce hacia los laboratorios y el módulo maestro. Si retrocedemos, Null-9 completará la excavación y sellará la estación desde dentro.</p>
+<p>Benrey desenfundó su arma y ajustó el compensador de retroceso, con una sonrisa pícara iluminando su rostro de roedor bajo la penumbra del túnel.</p>
+<p>—Bueno... supongo que la cortesía de los Mundos del Pacto exige que saludemos a los anfitriones antes de arruinarles la fiesta. A la cuenta de tres, formación cerrada. Kairos al frente con los deflectores; A.Xel, búscame a los artilleros en los balcones; Marloc, que tus fórmulas les calienten el desayuno. ¡Uno, dos... tres!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 4: Emboscada Inesperada</h2>
+<h3 class='subsection-title'>I. Tormenta de Plasma en el Desfiladero Metálico</h3>
+<p>En el preciso instante en que la bota táctica de Benrey Galway rozó el umbral del desfiladero interior, la penumbra de la galería saltó por los aires en una deflagración ensordecedora de fuego y metralla.</p>
+<p>Desde los balcones suspendidos a diez metros sobre sus cabezas, dos ametralladoras rotatorias de plasma abrieron fuego al unísono. Una cortina densa de proyectiles sobrecalentados de color escarlata martilleó las baldosas hexagonales, arrancando astillas de basalto y vaporizando los restos oxidados de los antiguos paneles kishalee. El zumbido atronador de los cañones rotatorios resonó contra las bóvedas de aleación con la fuerza de un trueno confinado, acompañado por los aullidos guturales de los soldados del Culto del Devorador apostados tras parapetos de acero soldado.</p>
+<p>—¡Emboscada! —bramó Benrey, lanzándose en plancha hacia el lateral izquierdo mientras las ráfagas pesadas derretían el suelo a escasos centímetros de su cola—. ¡Al suelo todo el mundo!</p>
+<p>Kairos reaccionó con la velocidad matemática de una inteligencia artificial de combate. El meca de cuatro brazos se interpuso en el centro del pasillo, desplegando dos campos deflectores de energía ovalada desde sus antebrazos superiores mientras sus extremidades inferiores clavaban los estabilizadores en el pavimento. Los proyectiles de plasma impactaron contra los escudos esmeralda con una sinfonía de estallidos cegadores, chisporroteando en oleadas de calor que habrían reducido a cenizas a cualquier combatiente biológico desprotegido.</p>
+<p>—Caballeros, parece que la casa nos da la bienvenida con fuego artificial —ironizó Kairos, cuyos servomotores gemían bajo el empuje cinético de la andanada—. Les advierto que el margen de absorción de mis deflectores no es infinito. Si no silenciamos esos nidos en los próximos treinta segundos, la sobrecarga nos convertirá en escombros humeantes.</p>
+<p>Detrás de su blindaje, Triel Istrav desenfundaba su carabina láser mientras buscaba cobertura tras una columna agrietada. Charlotte E2, sereno en medio del caos, extendió ambas manos para canalizar un aura tenue de energía mística que amortiguó la conmoción acústica en los tímpanos de sus compañeros, mientras en el pecho de Benrey, Kiwi permanecía completamente inmóvil, asustado pero a salvo en el compartimento acolchado.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Línea de Fuego y Cobertura Imposible</h3>
+<p>El desfiladero se había convertido en un embudo mortal. Desde las alturas, al menos seis cultistas acorazados con armaduras de pinchos y cascos con visores rasgados lanzaban granadas de fragmentación hacia las posiciones del grupo, mientras dos artilleros pesados mantenían la cadencia de fuego para impedir cualquier maniobra de avance.</p>
+<p>—¡Son fanáticos del Hambre Desesperada! —gritó Marloc Boosmar desde el abrigo de un mamparo derruido, reconociendo las marcas rituales pintadas sobre los parapetos superiores—. No les importa inmolarse si logran arrastrarnos al vacío con ellos. ¡Están disparando a discreción sin importarles el daño estructural de la estación!</p>
+<p>Benrey asomó el hocico por encima de una plancha de acero, entrecerrando los ojos entre el humo denso y el olor a silicio calcinado. Su mente de emisario militar analizó el patrón de tiro enemigo en una fracción de segundo.</p>
+<p>—¡Escuchen todos la orden! —vociferó el capitán ysoki por el canal táctico, utilizando su habilidad de mando para coordinar las líneas de tiro—. ¡Foco en el nido de la pasarela este! Ese artillero de la derecha es el que sostiene la cadencia. ¡Fuego concentrado sobre él a la de ya! ¡A por ellos!</p>
+<p>Triel se asomó con precisión milimétrica, disparando una ráfaga triple con su carabina que impactó de lleno en los acumuladores del cañón enemigo. Las chispas azules bañaron el parapeto, desestabilizando al artillero. Acto seguido, Benrey disparó su pistola cero; el proyectil criogénico surcó el aire en un arco perfecto e impactó en el hombro del cultista, congelando sus servos de puntería y obligándolo a soltar el disparador con un alarido de dolor entumecido.</p>
+<p>Sin embargo, desde la pasarela occidental, el segundo artillero redirigió su cañón rotatorio hacia la posición de Triel, barriendo el borde de su columna en una cascada de esquirlas incandescentes que obligó a la mecánica a retroceder de golpe.</p>
+<p>—¡No puedo asomarme! —gritó Triel mientras el polvo de roca caía sobre su cabello níveo—. ¡Ese bastardo tiene el ángulo cubierto!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El Contraataque Quirúrgico de A.Xel y Marloc</h3>
+<p>Fue entonces cuando la letalidad sintética de A.Xel 42 transformó la emboscada en una cacería inversa.</p>
+<p>Aprovechando que el fuego enemigo se concentraba en la imponente silueta de Kairos, la operativa androide activó sus botas de tracción vectorial. Con un salto elástico que desafió la gravedad, A.Xel se impulsó sobre un conducto lateral, aferrándose con una sola mano a los cables colgantes del techo antes de aterrizar en una cornisa estrecha situada a solo tres metros del nido de ametralladora occidental.</p>
+<p>Sus circuitos dérmicos brillaron con un tono amatista letal mientras encaraba su fusil de francotirador. A esa distancia, no había margen para el error: dos disparos secos y ensordecedores atravesaron las rendijas del visor del artillero del culto, derribándolo hacia atrás sobre sus propias cajas de munición en un estertor fulminante.</p>
+<p>Simultáneamente, Marloc Boosmar dio un paso al frente en la planta baja, despojándose de toda contención académica. Su brazo izquierdo se iluminó con runas geométricas que destellaron al unísono con las fórmulas de Null-Vector. Extendiendo la palma abierta hacia la pasarela central, el tecnomante liberó una ráfaga de plasma cáustico entrelazada con algoritmos de sobretensión eléctrica.</p>
+<p>—<em>¡Fractura cuántica de masa!</em> —entonó Marloc con voz vibrante.</p>
+<p>El proyectil mágico no buscó a los soldados, sino la plataforma metálica que los sostenía. Al impactar contra los soportes de titanio kishalee, la corrosión arcana disolvió los pernos en una lluvia de metal fundido. La pasarela entera cedió con un gemido desgarrador de vigas retorcidas, precipitándose al suelo del desfiladero en medio de una nube de polvo y escombros junto con tres de los cultistas que intentaban recargar sus fusiles.</p>
+<p>Kairos cargó al instante sobre los supervivientes aturdidos, sus sables lunares trazando arcos de luz esmeralda que neutralizaron a los enemigos antes de que pudieran empuñar sus cuchillos de asedio.</p>
+<p>El silencio volvió a descender de golpe sobre el pasillo, roto únicamente por el crujido de los metales calientes y la respiración agitada de la tripulación.</p>
+<p>Benrey se sacudió el polvo del chaleco, mirando a su alrededor con una sonrisa torcida.</p>
+<p>—Bueno... eso ha sido una bienvenida decente —murmuró, guardando su pistola cero—. Pero me da en la nariz que el comité de recepción principal aún no ha salido de los vestuarios.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 5: Ley 7600</h2>
+<h3 class='subsection-title'>I. El Asedio de las Fuerzas Fanáticas</h3>
+<p>La relativa calma tras el desplome de la pasarela duró apenas un suspiro. Antes de que el polvo de basalto pudiera posarse sobre las losas agrietadas, el eco de botas blindadas corriendo al unísono comenzó a retumbar desde las profundidades del pasillo este.</p>
+<p>Las alarmas internas del puesto de guardia kishalee aullaban en una cadencia rota y estridente, alternando pulsos de luz carmesí que bañaban las paredes en sombras amenazadoras. Por el corredor avanzaba una segunda oleada de asalto del Culto del Devorador: una docena de infantes acorazados encabezados por guerreros de choque que portaban escudos balísticos de aleación pesada y pistolas de dispersión térmica.</p>
+<p>—¡Vienen más por el flanco derecho! —gritó Triel Istrav, arrojándose tras un montículo de escombros mientras una ráfaga de proyectiles cinéticos rebotaba con silbidos agudos a pocos centímetros de su hombro—. ¡Esto no era una simple patrulla de vigilancia; tienen un puesto de mando completo apostado en este sector!</p>
+<p>—¡No dejen que se organicen en falange! —ordenó Benrey Galway, asomándose para disparar un tiro de advertencia con su pistola cero—. ¡Si colocan esos escudos balísticos en cuña, nos van a empujar contra la pared hasta convertirnos en papilla!</p>
+<p>A.Xel 42, aún encaramada en la cornisa superior, respondió con la frialdad metódica de su programación de combate. Su fusil disparó con ritmo cronométrico, buscando los intersticios en las uniones de los escudos enemigos: tobillos desprotegidos, bisagras de titanio y rendijas ópticas. Dos cultistas cayeron de bruces sobre el suelo metálico, pero la presión de la vanguardia enemiga no cedió un ápice. Avanzaban pisando los cuerpos de sus propios camaradas, impulsados por un fanatismo ciego que ignoraba las bajas con indiferencia absoluta.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La Rampa de la Discordia y la Diplomacia de Trinchera</h3>
+<p>La geografía del corredor se había convertido en un obstáculo casi tan peligroso como el plomo enemigo. El colapso previo de la pasarela kishalee había destrozado la rampa de acceso principal que comunicaba el nivel del suelo con la galería elevada que conducía hacia el corazón de la Puerta Dos, dejando tras de sí un desnivel abrupto de cuatro metros de roca partida, varillas de refuerzo expuestas y cables de alta tensión chisporroteando en charcos de refrigerante.</p>
+<p>—¡Por las barbas de Besmara! —rezongó Benrey, examinando el terraplén desmoronado mientras las balas enemigas martilleaban su cobertura—. ¿Es que estos constructores ancestrales no tenían regulaciones de accesibilidad básica? ¡Ni una rampa decente dejaron en toda la maldita estación! ¿Cómo esperan que un ysoki con las patas cortas suba por esta pared de escombros bajo fuego cruzado?</p>
+<p>—¡Menos quejas de urbanismo y más cobertura, capitán! —le replicó Triel con una sonrisa tensa mientras encajaba una nueva batería en su carabina—. ¡Usa los cables colgantes como lianas o dile a Kairos que te lance por los aires!</p>
+<p>—¡Ni hablar! La última vez que un meca me lanzó por los aires casi aterrizo dentro de la tobera de un crucero de la Flota de Cadáveres —replicó el emisario, devolviendo el fuego con dos disparos certeros—. ¡Marloc! ¿Puedes levantar una pasarela rúnica o al menos enfriar ese charco electrificado antes de que alguno termine frito?</p>
+<p>Marloc Boosmar no respondió con palabras, sino con un gesto técnico de concentración absoluta. Dibujando una elipse en el aire con su brazo cibernético, el tecnomante concentró un campo de fuerza translúcido de forma inclinada sobre el montículo de cascotes.</p>
+<p>—¡Rampa de energía establecida! —anunció Marloc, respirando con dificultad por el esfuerzo arcano sostenido—. Soportará el peso de la infantería ligera durante cuarenta segundos. ¡Muévanse ahora!</p>
+<p>Charlotte E2 fue el primero en reaccionar. Con la ligereza de un monje entrenado en las corrientes aéreas de Istamak, el joven androide subió corriendo por el plano inclinado de fuerza, esquivando dos proyectiles térmicos antes de lanzarse sobre el flanco de los cultistas con una patada giratoria que desarmó al primer escudero de la línea enemiga.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Resistencia al Borde del Colapso</h3>
+<p>Sin embargo, el Culto del Devorador no retrocedió. Desde una tronera fortificada al final del pasillo, un tirador de élite enemigo armado con un rifle antimaterial de riel pesado avistó la silueta del capitán ysoki mientras este intentaba alcanzar la rampa.</p>
+<p>El disparo resonó con un chasquido sónico devastador. El proyectil penetrante atravesó la placa de titanio que cubría a Benrey, impactando de lleno en su hombro derecho y arrojándolo hacia atrás en un giro violento.</p>
+<p>—¡Benrey! —gritó Triel con el corazón en un puño.</p>
+<p>El capitán cayó sobre la grava con el peto abollado y el aliento cortado. El blindaje cinético de su armadura había disipado la mayor parte de la energía letal, pero el impacto había pulverizado sus reservas de resistencia táctica, dejándolo aturdido y desarmado en mitad del corredor abierto. En su pecho, Kiwi emitió un chillido desgarrador al sentir la sacudida, batiendo las alas con desesperación.</p>
+<p>Antes de que el francotirador pudiera acerrojar un segundo proyectil para rematar al ysoki, Kairos se interpuso en la línea de fuego. Los cuatro brazos mecánicos del meca se cerraron sobre Benrey en un abrazo acorazado, interponiendo su chasis macizo de asalto frente a la tronera. Tres disparos consecutivos de metralla pesada rebotaron contra las placas dorsales de Kairos, arrancando chispas y esquirlas de aleación, pero el gigante no retrocedió un milímetro.</p>
+<p>—La casa no permite que toquen a sus clientes preferidos —dijo Kairos con voz distorsionada por las sobrecargas de sus relés internos.</p>
+<p>Charlotte se deslizó de rodillas junto al capitán. Con serenidad imperturbable, el monje colocó sus palmas luminosas sobre el pecho magullado de Benrey, canalizando la energía bio-sanadora de su fe sintética. El dolor lacerante en el hombro del ysoki se atenuó, devolviéndole la respiración y el control sobre sus dedos crispados.</p>
+<p>—Estoy bien... estoy entero... —jadeó Benrey, apretando los dientes mientras recuperaba su arma del suelo—. Gracias, chico. Te debo un banquete de nueces estelares en el primer puerto libre que toquemos.</p>
+<p>A.Xel descendió entonces como un rayo desde la cornisa superior, asestando un tiro limpio a través de la tronera del francotirador que silenció el cañón de riel para siempre. Con la retaguardia enemiga rota, los últimos fanáticos vacilaron por primera vez.</p>
+<p>Pero la victoria momentánea no trajo consigo el sosiego. Desde el fondo de la galería acorazada, un estruendo metálico y pesado, semejante al avance de una oruga blindada sobre planchas de acero, comenzó a aproximarse. Una voz gutural, cavernosa y cargada de una sed insaciable de aniquilación bramó a través de los altavoces del sector:</p>
+<p>—¡Malditos carroñeros del Pacto! ¿Tanto alboroto para matar a cuatro reclutas? ¡Prepárense a conocer la verdadera fuerza del Hambre Desesperada!</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 6: El Día que Marloc Arruinó el Combate</h2>
+<h3 class='subsection-title'>I. El Rugido de Drech el Carnicero</h3>
+<p>El mamparo blindado al final de la galería no se abrió con la suavidad hidráulica de la tecnología kishalee; fue arrancado de cuajo hacia el exterior por el impacto devastador de un ariete de demolición.</p>
+<p>En medio de una nube de vapor recalentado y fragmentos de aleación retorcida, surgió la imponente silueta del General Drech. El comandante de asalto del Culto del Devorador era un enano corpulento como un peñasco de granito, embutido en un exoesqueleto de combate pesado cubierto por placas superpuestas de acero negro, salpicadas de púas oxidadas y calaveras talladas en hueso sintético. En sus manos enguantadas sostenía un colosal cañón rotatorio de cuatro tubos, alimentado por una cinta de munición pesada que se conectaba directamente al reactor dorsal de su armadura.</p>
+<p>—¡Malditos muertos! —bramó Drech con una voz semejante al entrechocar de dos placas tectónicas, recorriendo el desfiladero con pupilas inyectadas en sangre bajo las hendiduras de su yelmo de guerra—. ¿Creen que pueden colarse en los dominios de Null-9 y profanar las obras de la Puerta? ¡El vacío no negocia con carroñeros biológicos ni con juguetes mecánicos! ¡Les prometieron la eternidad en el polvo cósmico y yo soy quien va a cobrar esa deuda!</p>
+<p>Sin mediar otra advertencia, el enano accionó el percutor de su cañón. El arma comenzó a girar a revoluciones vertiginosas, vomitando una tormenta ininterrumpida de proyectiles explosivos de gran calibre que barrieron el corredor en un cono de destrucción absoluta. Las columnas kishalee que habían resistido eones de abandono se partieron en dos como ramas secas bajo el martilleo incesante.</p>
+<p>—¡A cubierto! —gritó Benrey Galway, arrojándose tras el blindaje de Kairos mientras las esquirlas incendiarias silbaban por encima de sus orejas—. ¡Ese cañón nos va a partir en rodajas antes de que podamos acercarnos a tiro de pistola!</p>
+<p>Drech comenzó a avanzar a paso de carga, una masa acorazada de tonelada y media que aceleraba con una furia arrolladora, dispuesto a aplastar la línea de los héroes bajo las orugas de sus botas de combate.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La Singularidad Desaceleradora de Marloc</h3>
+<p>La tripulación se preparó para el impacto del coloso. Kairos afianzó sus cuatro extremidades en las baldosas y cruzó sus sables lunares en guardia defensiva; A.Xel buscaba desesperadamente una rendija en el yelmo del enano a través de la mira telescópica, y Triel intentaba armar una granada de interferencia electromagnética con dedos temblorosos.</p>
+<p>Fue en ese instante crítico cuando Marloc Boosmar dio un paso al frente, saliendo de la seguridad de la cobertura.</p>
+<p>El tecnomante humano no empuñó un fusil ni alzó una barrera de escudos convencionales. Con la serenidad imperturbable de un catedrático que detecta una errata fundamental en un teorema de física elemental, Marloc extendió su brazo cibernético hacia la mole en avance. Los circuitos plateados de su implante se iluminaron con un resplandor dorado y azul profundo, vibrando en una frecuencia armónica que hizo que las partículas de polvo suspendidas en el aire se detuvieran de golpe.</p>
+<p>—La masa en aceleración rectilínea sin compensación inercial es una presunción ridícula, general —declaró Marloc con voz clara y gélida—. Permítame recalcular su vector.</p>
+<p>Entrelazando una fórmula arcana de alteración temporal con los protocolos de restricción cuántica de <em>Null-Vector</em>, Marloc desató una onda de choque invisible que impactó de lleno en el pecho de Drech.</p>
+<p>El efecto no fue una explosión de fuego, sino una distorsión absoluta del tiempo y la gravedad local.</p>
+<p>En una fracción de segundo, la devastadora carga del enano se congeló en un letargo absurdo. La velocidad fulminante de Drech se redujo a una fracción de su ritmo normal: sus pesadas botas de combate quedaron suspendidas en el aire, moviéndose con la lentitud agónica de quien camina a través de un lago de brea congelada. Los tubos de su colosal cañón rotatorio pasaron de girar a miles de revoluciones por minuto a un giro perezoso y torpe; el rugido atronador de los proyectiles se transformó en un zumbido sordo y distorsionado, mientras las balas salían de las bocas de fuego flotando casi a cámara lenta.</p>
+<p>El rostro de Drech, visible a través del visor abierto de su yelmo, se deformó en una mueca grotesca de incredulidad y furia impotente. El temible carnicero del culto, que segundos antes personificaba la fuerza destructiva de un meteoro, braceaba en el vacío como un nadador exhausto en un acuario de jarabe.</p>
+<p>Benrey parpadeó dos veces, asomando el hocico con una expresión de asombro que rápidamente se convirtió en una carcajada pícara.</p>
+<p>—¡Por todos los dioses del Drift! —exclamó el capitán ysoki—. ¡Marloc le acaba de poner pausa a la guerra! ¡Miren a ese energúmeno, parece una estatua de cera tratando de correr los cien metros planos!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Fuego Concentrado y Caída del Tirano</h3>
+<p>—¡No pierdan el tiempo en festejos! —urgió Marloc, cuya respiración agitada delataba el inmenso drenaje de energía que requería sostener el campo de entropía—. La distorsión temporal no durará más de quince segundos. ¡Concentren todo el fuego en los acumuladores dorsales de su exoesqueleto ahora mismo!</p>
+<p>La tripulación de la <em>Estrella Errante</em> no necesitó una segunda invitación.</p>
+<p>—¡Fuego a discreción sobre el enano lento! —bramó Benrey, activando su comando táctico—. ¡Que no quede ni un tornillo entero!</p>
+<p>A.Xel fue la primera en abrir fuego. Desde una posición elevada, la operativa androide disparó tres tiros quirúrgicos con su fusil sobrecargado; los rayos perforantes impactaron exactamente en las juntas hidráulicas del hombro derecho de Drech, haciendo estallar los servos de sustentación del cañón. Privado de soporte mecánico, el colosal cañón rotatorio se desprendió de los brazos del enano y cayó con un estrépito metálico que quebró las losas del suelo.</p>
+<p>A su lado, Triel descargó una ráfaga completa de plasma con su carabina, derritiendo los conductos de refrigerante de la coraza dorsal. Al mismo tiempo, Kairos cargó hacia adelante, propinando una estocada certera con uno de sus sables lunares que atravesó el núcleo de energía del exoesqueleto, mientras Charlotte asestaba una descarga de palma mística que desintegró los circuitos de control de los propulsores.</p>
+<p>El campo de ralentización de Marloc colapsó justo cuando el daño acumulado alcanzaba el umbral crítico.</p>
+<p>El General Drech recuperó su velocidad ordinaria únicamente para recibir el impacto conjunto de todas las deflagraciones acumuladas en su armadura. El enano soltó un alarido ronco de furia y desconcierto mientras las llamas y el plasma sobrecargaban sus sistemas vitales. Vaciló un paso hacia atrás, con el blindaje humeando y las placas agrietadas de arriba a abajo, antes de desplomarse de espaldas sobre el pavimento con el estruendo final de un coloso derribado.</p>
+<p>El eco del colapso resonó por todo el desfiladero hasta apagarse en un murmullo de vapor que escapaba de los restos humeantes del exoesqueleto.</p>
+<p>Benrey se acercó con cautela, apuntando con su pistola cero al casco inerte de Drech antes de voltear a ver al tecnomante con una sonrisa burlona.</p>
+<p>—Bueno, Marloc... tengo que reconocerlo —admitió el capitán, limpiándose el sudor de la frente—. Técnicamente arruinaste un combate honorable y sangriento convirtiéndolo en un tiro al blanco infantil. Pero qué demonios... ojalá todos los combates los arruinaras de la misma manera.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 7: Maroon 1</h2>
+<h3 class='subsection-title'>I. El Botín Manchado de Sangre</h3>
+<p>El humo acre de los acumuladores reventados del General Drech tardó varios minutos en disiparse bajo la bóveda de basalto. La mole acorazada del enano yacía inmóvil en el centro del pasillo, reducida a un amasijo de titanio chamuscado y circuitos apagados.</p>
+<p>Benrey Galway fue el primero en acercarse con paso vivaz, enfundando su pistola cero mientras comenzaba a registrar con pericia profesional los compartimentos tácticos del exoesqueleto enemigo.</p>
+<p>—Nunca hay que dejar que un buen botín se desperdicie en el suelo de una estación abandonada —anunció el ysoki, desenganchando con destreza un par de granadas criogénicas de grado militar y dos cargadores de munición perforante pesada—. La intendencia del Culto del Devorador será fanática, pero hay que admitir que no escatiman en pertrechos de primera línea.</p>
+<p>A unos metros, detrás de una barricada de placas kishalee deformadas a golpes de martillo, Triel Istrav y A.Xel 42 localizaron un arcón metálico sellado con un candado magnético tosco. Con un giro rápido de su herramienta sónica, Triel forzó la cerradura, levantando la pesada tapa de acero.</p>
+<p>En el interior del contenedor reposaban varias docenas de bloques compactos de polímero universal, las codiciadas barras de UPB que constituían la moneda de cambio y la materia prima fundamental en cualquier rincón civilizado de la galaxia. Sin embargo, no relucían con el brillo impoluto de los bancos de Absalón. Los bloques estaban manchados por costras oscuras de sangre seca y huellas dactilares desesperadas.</p>
+<p>—UPBs cubiertos de sangre —murmuró Triel con una mueca de asco, apartando los dedos con repugnancia—. Pertenecían a los equipos de ingenieros y mineros independientes que operaban en las estaciones exteriores antes de la llegada del culto. Estos fanáticos no solo saquearon los almacenes; ejecutaron a los trabajadores para quedarse con sus suministros.</p>
+<p>—La muerte ajena es la única transacción que comprenden —sentenció A.Xel con voz gélida, examinando los bloques con la mirada fija—. Null-9 no tiene escrúpulos en utilizar los recursos de las mismas criaturas que pretende extinguir. Recojamos el material. No podemos darnos el lujo de rechazar suministros que utilizaremos para detenerlos.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. Puertas Triangulares y Cerraduras Ancestrales</h3>
+<p>Mientras Charlotte E2 canalizaba energía restauradora sobre las articulaciones abolladas de Kairos y las contusiones de Benrey, Marloc Boosmar avanzó hacia el extremo norte de la galería.</p>
+<p>Frente a ellos se alzaba una monumental esclusa kishalee de aleación cobriza, esculpida con patrones geométricos triangulares que convergían en un zócalo central. A diferencia de las puertas que habían cruzado en la biosfera de Osteth, esta presentaba el marco visiblemente deformado: las bisagras superiores estaban dobladas hacia afuera por la presión de cargas de plasma de alta potencia, y en el suelo yacían apilados los restos desmembrados de media docena de robots de seguridad ancestrales.</p>
+<p>—Miren esto —indicó Marloc, señalando las carcasas destrozadas de los constructos kishalee—. Estos autómatas fueron destruidos hace apenas un par de días. Null-9 y su guardia de élite tuvieron que abrirse paso a la fuerza a través de este umbral. La estación intentó repeler la intrusión del culto activando sus defensas automáticas, pero las armas pesadas de los fanáticos terminaron por desbordar la red local.</p>
+<p>Triel se colocó a su lado, conectando su datapad al panel de la esclusa triangular. Los glifos del idioma que Syd Velch les había facilitado parpadearon en la pantalla, traduciendo una secuencia de avisos de seguridad que teñían la interfaz de un color carmesí parpadeante.</p>
+<p>—El sistema de cierre automático está trabado por el daño físico —explicó la mecánica semi-drow—. La buena noticia es que no tenemos que descifrar un código de acceso complejo; la mala es que las puertas están encajadas a presión. Kairos, vas a tener que echarme una mano... o cuatro.</p>
+<p>El meca cuadrúpedo se aproximó con paso firme, encajando sus garras mecánicas superiores en la comisura de la esclusa mientras sus extremidades inferiores buscaban un punto de apoyo firme en las baldosas.</p>
+<p>—A la orden, jefa —dijo Kairos con un crujido de sus servomotores hidráulicos—. Nada que un poco de músculo electromecánico de primera clase no pueda solucionar.</p>
+<p>Con un esfuerzo coordinado que hizo temblar el marco de basalto, los brazos de Kairos tiraron en sentido opuesto. Las planchas de titanio kishalee cedieron con un chirrido agónico de metal retorcido, abriéndose apenas un metro y medio: espacio suficiente para que la tripulación pudiera cruzar en fila india.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El Umbral hacia el Sector de Servicios</h3>
+<p>Al cruzar la esclusa forzada, la atmósfera de la estación cambió de manera drástica.</p>
+<p>Atrás quedaba la grandiosidad arquitectónica de las pasarelas públicas y los salones de mando. El nuevo corredor era más estrecho, con techos bajos surcados por marañas de tuberías gruesas que transportaban fluidos densos y cables de refrigerante que goteaban condensación ácida sobre el pavimento enrejado. El aire, ya de por sí enrarecido por el polvo de silicio, adquirió de golpe una pesadez sofocante, impregnado de un hedor orgánico fétido, ácido y penetrante que provocó una arcada instantánea en el capitán ysoki.</p>
+<p>—¡Por los bigotes de mi abuela! —protestó Benrey, cubriéndose el hocico con el guante táctico mientras sus ojos lagrimeaban—. ¿Qué demonios es este olor? Huele como si una manada entera de bestias de carga de Verces hubiera muerto en un pozo ciego hace tres mil años y nadie se hubiera molestado en encender el extractor.</p>
+<p>—Los sensores atmosféricos registran concentraciones elevadas de metano, amoníaco y subproductos de descomposición bacteriana anaerobia —informó A.Xel con rigurosa precisión técnica, sin inmutarse por la pestilencia gracias a sus filtros olfativos sintéticos—. Según los planos cartográficos de la instalación, este corredor conduce a los módulos de soporte vital biológico y a las cámaras de reciclaje higiénico de los constructores.</p>
+<p>—¿Las cámaras de reciclaje higiénico? —repitió Triel, arrugando la nariz con evidente desagrado—. ¿Me estás diciendo que los kishalee, con toda su tecnología hiperespacial y sus doce soles en miniatura, tenían baños que huelen igual de mal que las letrinas de un tugurio portuario de la Diáspora?</p>
+<p>—La biología orgánica comparte constantes universales ineludibles, querida Triel —apuntó Marloc con una mueca de ironía erudita, manteniendo la manga de su gabardina sobre la nariz—. Por muy avanzada que fuera su civilización, los kishalee seguían siendo seres de carbono que requerían procesar nutrientes y evacuar residuos. Aunque dudo mucho que este olor provenga de desechos fósiles...</p>
+<p>Charlotte se detuvo de pronto en mitad del pasillo, cerrando los ojos mientras sus manos adoptaban una postura de alerta defensiva.</p>
+<p>—El tecnomante tiene razón —susurró el monje androide—. Siento una perturbación vital en las inmediaciones. No es la presencia fría de los cultistas ni el eco metálico de los robots. Algo con vida orgánica primigenia... algo famélico y monstruoso que ha permanecido encerrado en estos conductos durante demasiado tiempo.</p>
+<p>En el pecho de Benrey, Kiwi asomó la cabeza y emitió un silbido de pánico puro, enterrándose de nuevo entre las telas del peto mientras desde el final del túnel de desagüe, donde una puerta entreabierta rezumaba una viscosidad oscura, comenzaba a escucharse un gorgoteo pastoso y amenazador.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 8: Terror en el Toilette</h2>
+<h3 class='subsection-title'>I. La Singularidad Higiénica de los Kishalee</h3>
+<p>Avanzar por el sector de soporte vital secundario de la estación requería una buena dosis de entereza estomacal. La compuerta entreabierta que rezumaba viscosidad desembocaba en una amplia cámara circular pavimentada con azulejos hexagonales de cerámica sintética, cuyas paredes estaban surcadas por canaletas de drenaje y nichos individuales separados por mamparas opacas.</p>
+<p>La tripulación de la <em>Estrella Errante</em> contempló la estancia con una mezcla de perplejidad antropológica y rechazo visceral.</p>
+<p>—Bueno... supongo que la arqueología estelar no siempre consiste en descubrir templos dorados y esferas de energía mística —observó Benrey Galway, pisando con extremo cuidado para evitar las manchas negruzcas que cubrían el suelo—. Señoras y señores, les presento las letrinas imperiales de la gran civilización Kishalee.</p>
+<p>Las instalaciones sanitarias de los antiguos constructores eran un prodigio de ergonomía alienígena tan desconcertante como ridículo a los ojos de los habitantes de los Mundos del Pacto. Los receptáculos de evacuación estaban diseñados con pedestales elevados y asideros múltiples para extremidades no humanas, dotados de boquillas de desinfección sónica y conductos de succión que descendían hacia fosas de reciclaje subterráneas.</p>
+<p>—Es fascinante desde un punto de vista sociológico —apuntó Marloc Boosmar, manteniendo una distancia prudencial mientras iluminaba una de las cabinas con la linterna de su antebrazo—. Las civilizaciones pre-Brecha desarrollaron sistemas de reciclaje molecular instantáneo para convertir los residuos biológicos en nutrientes sintéticos para los invernaderos. Aunque parece que estos conductos dejaron de funcionar hace milenios, acumulando sedimentos orgánicos que han fermentado en este foso cerrado.</p>
+<p>—Marloc, por favor, ahórranos los detalles del menú reciclado —suplicó Triel Istrav con una mueca de náusea—. Ya es bastante castigo tener que respirar esto como para que nos expliques el ciclo metabólico. ¿Por qué demonios tuvimos que entrar aquí?</p>
+<p>—Porque según el mapa de la red, la taquilla de mantenimiento que contiene las llaves maestras de los laboratorios está empotrada en el panel de control de esta misma sala —indicó A.Xel 42, señalando una consola metálica ubicada en el extremo opuesto de la cámara, justo al lado de un pozo de drenaje central cubierto por una reja oxidada.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La Abominación de los Conductos Sanitarios</h3>
+<p>Antes de que la operativa androide pudiera dar tres pasos hacia la consola, el suelo enrejado del pozo central crujió con violencia.</p>
+<p>Un chorro de lodo corrosivo y vapores fétidos salió disparado hacia el techo abovedado, seguido por un rugido gutural y viscoso que erizó cada pelo del pelaje de Benrey. Desde las profundidades de las tuberías de evacuación emergió una abominación de pesadilla: una criatura mutada de más de tres metros de longitud, con un cuerpo blancuzco y membranoso semejante al de una larva colosal, cubierto por una coraza coriácea impregnada de residuos petrificados. El monstruo no poseía ojos visibles, pero en su parte frontal se abría una fauces circular armada con hileras concéntricas de dientes de queratina que goteaban fluidos cáusticos, flanqueada por cuatro apéndices semejantes a tenazas que buscaban presas a ciegas en el aire viciado.</p>
+<p>—¡Por los abismos de Aucturn! —berreó Benrey, dando un salto acrobático hacia atrás mientras una de las tenazas quebraba el suelo cerámico donde se encontraba un segundo antes—. ¡Eso no es un residuo kishalee, es un monstruo de alcantarilla milenario!</p>
+<p>La criatura arremetió con una velocidad sorprendente para su volumen, lanzando su cuerpo viscoso contra la formación del grupo. En un espacio tan confinado, las armas pesadas de largo alcance quedaban prácticamente inutilizadas; cualquier disparo errado contra los mamparos de cerámica amenazaba con rebotar en esquirlas letales contra los propios tripulantes.</p>
+<p>Charlotte E2 se interpuso en la trayectoria del monstruo, ejecutando un bloqueo con sus antebrazos cubiertos de energía mística para frenar el envite de las tenazas, pero la fuerza bruta de la bestia lo arrojó contra una de las mamparas de aseo, que se partió en mil pedazos bajo el impacto.</p>
+<p>—¡Charlotte! —gritó Triel, alzando su carabina láser y disparando a quemarropa hacia la masa gelatinosa de la criatura.</p>
+<p>El rayo láser chamuscó la carne de la abominación, arrancándole un chillido agudo y penetrante, pero el lodo que cubría su pellejo actuó como aislante térmico, enfureciéndola aún más. La bestia giró sus fauces circulares directamente hacia Triel, dispuesta a engullirla de un solo bocado.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Purga en Espacio Reducido y Tarjetas de Colores</h3>
+<p>—¡No en mi guardia, gusano de pozo ciego! —rugió la voz metálica de Kairos.</p>
+<p>El meca cuadrúpedo cargó de costado en el reducido pasillo de las cabinas sanitarias, embistiendo a la criatura con el peso de su blindaje de asalto. Dos de sus brazos mecánicos aprisionaron las tenazas frontales del monstruo en un forcejeo titánico de metal contra músculo alienígena, mientras sus otros dos brazos encendían los sables lunares.</p>
+<p>—¡A.Xel, el punto ciego bajo las placas de queratina! —indicó Kairos mientras el lodo cáustico chisporroteaba sobre sus deflectores.</p>
+<p>A.Xel no dudó. Deslizándose por debajo de las extremidades trabadas de Kairos en una maniobra impecable sobre el pavimento resbaladizo, la androide apuntó su pistola de energía directamente hacia el cuello expuesto de la bestia, donde los tejidos biológicos palpitaban sin protección de caparazón.</p>
+<p>Tres detonaciones sucesivas de energía concentrada perforaron el núcleo vital del monstruo. La criatura se convulsionó en un espasmo agónico, soltando una bocanada final de gases sulfurosos antes de desplomarse inerte sobre el pozo de drenaje, sellando para siempre el conducto del que había surgido.</p>
+<p>Un silencio pesado y cargado de alivio cayó sobre las letrinas kishalee.</p>
+<p>Benrey se incorporó sacudiéndose unas salpicaduras dudosas de la bota táctica, respirando por la boca para no inhalar los restos del combate. En su pecho, Kiwi sacó la cabeza con timidez, mirando al monstruo abatido antes de emitir un graznido de reproche.</p>
+<p>—Si algún día escribo las memorias de la <em>Estrella Errante</em> —anunció el capitán ysoki con tono solemne—, juro por mi clan que voy a omitir por completo el capítulo donde casi morimos devorados en un retrete alienígena de cuarenta mil años de antigüedad.</p>
+<p>—Al menos la expedición no ha sido en vano —intervino Marloc, quien había aprovechado la distracción de la bestia para abrir el panel de mantenimiento empotrado en la pared norte.</p>
+<p>El tecnomante extrajo de una ranura sellada un estuche metálico rectangular. Al deslizar el cierre magnético, reveló un juego completo de finas tarjetas criptográficas kishalee, forjadas en láminas transparentes que refractaban la luz en cuatro colores distintos: marrón, púrpura, blanco y un patrón irisado que brillaba con los tonos de un prisma.</p>
+<p>—Las credenciales de acceso de los directores científicos —explicó Marloc, mostrando las tarjetas a sus compañeros—. Con estas placas podremos desactivar los campos de contención que bloquean los laboratorios biogénicos y acceder a los sectores donde Null-9 está excavando el módulo maestro.</p>
+<p>Triel respiró hondo, ajustándose el cinturón con determinación renovada.</p>
+<p>—Excelente. Ahora salgamos de este basurero antes de que a otra de esas mascotas de alcantarilla le dé por pedirnos el papel higiénico.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 9: Nunca Te Dije Que Te Quería</h2>
+<h3 class='subsection-title'>I. La Trampa del Laboratorio Biogénico</h3>
+<p>La inserción de la tarjeta prismática en la ranura de la esclusa norte produjo una cascada de luces caleidoscópicas que recorrió los bordes del marco triangular. Con un zumbido grave y armónico, las pesadas compuertas de aleación kishalee se deslizaron hacia el interior de los muros, revelando la entrada al complejo de laboratorios biogénicos de la Puerta Dos.</p>
+<p>La tripulación cruzó el umbral en formación compacta, dejando atrás la pestilencia del sector de saneamiento para adentrarse en un entorno de esterilidad gélida y tecnológica.</p>
+<p>La sala era colosal. Bancos de trabajo de superficie reflectante y paneles de análisis genético se extendían bajo un domo de luz difusa, rodeando un foso central dominado por dos gigantescos cilindros transparentes de estasis bio-magnética. En el interior de las cápsulas, sumergidas en un fluido ambarino denso y burbujeante, dormitaban las siluetas colosales de dos criaturas prehistóricas, preservadas desde los tiempos en que la civilización Kishalee experimentaba con la fauna nativa de los Doce Soles.</p>
+<p>—Miren el tamaño de esas cápsulas —murmuró Triel Istrav, aproximándose a una consola auxiliar con su escáner en la mano—. Estos registros indican que este sector estaba dedicado al estudio de depredadores ápice con adaptaciones de combate celular. Sea lo que sea lo que hay ahí dentro, los constructores lo consideraban extremadamente peligroso.</p>
+<p>Apenas terminó de pronunciar esas palabras, un chasquido sordo resonó tras sus espaldas.</p>
+<p>La esclusa de acceso por la que acababan de entrar se cerró de golpe con la fuerza de una guillotina neumática. Al mismo tiempo, las luces ambientales cambiaron de un azul sereno a un rojo pulsante y agresivo, mientras una voz sintética ancestral transmitía una advertencia automática en el idioma de los constructores.</p>
+<p>—¡Nos han encerrado! —exclamó Benrey Galway, corriendo hacia la compuerta y golpeando el metal con el puño enguantado—. ¡El panel exterior se ha bloqueado! ¡Estamos sellados herméticamente!</p>
+<p>—No ha sido una intrusión manual —indicó Marloc Boosmar, cuyos ojos escudriñaban con rapidez las líneas de código que caían en cascada por los monitores kishalee—. Es un protocolo de cuarentena automatizado. El sistema ha detectado bio-firmas no autorizadas en el laboratorio y ha activado el protocolo de purga de especímenes.</p>
+<p>En el centro del foso, los cilindros de estasis comenzaron a drenar su fluido ambarino a un ritmo vertiginoso.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El Despertar de los Depredadores de Seis Extremidades</h3>
+<p>El cristal reforzado de las dos cápsulas se retrajo en el suelo con un silbido de despresurización violenta.</p>
+<p>Desde el interior de los contenedores emergieron dos bestias colosales de más de cuatro metros de altura, cuyos cuerpos combinaban la musculatura blindada de un reptil acorazado con la agilidad tentacular de un cefalópodo alienígena. Cada una poseía seis extremidades articuladas que terminaban en zarpas de queratina afiladas como navajas de plasma, flanqueadas por un racimo de tentáculos prensores que azotaban el aire a una velocidad asombrosa. Sus cabezas carecían de ojos visibles, pero una corona de hendiduras sensoriales térmicas se abría y cerraba en sus sienes, rastreando el calor corporal de los intrusos con una precisión infalible.</p>
+<p>Las dos abominaciones soltaron un rugido simultáneo que hizo vibrar los paneles acristalados de los bancos de trabajo, arremetiendo al unísono contra la tripulación con una celeridad que desafiaba su inmenso volumen.</p>
+<p>—¡De espaldas a la pared! —bramó Benrey, retrocediendo hacia el mamparo sellado mientras desenfundaba su pistola cero—. ¡Formación cerrada, que no nos flanqueen!</p>
+<p>El primer depredador embistió la línea defensiva con el ímpetu de un proyectil de artillería. Uno de sus tentáculos barrió el suelo en un arco demoledor, golpeando de lleno los escudos de Kairos. La onda de choque fue tan brutal que el meca de cuatro brazos se deslizó tres metros hacia atrás sobre las baldosas metálicas, con las articulaciones de sus extremidades inferiores chirriando bajo la tensión antes de clavar los frenos magnéticos.</p>
+<p>—La casa admite que estas bestias tienen una pegada impresionante —graznó Kairos a través de su sintetizador de audio distorsionado, mientras sus sables lunares paraban a duras penas un zarpazo descendente que arrancó chispas de su hombrera izquierda—. Sugiero que no intentemos apostar a los puntos con ellas.</p>
+<p>El segundo monstruo saltó sobre una mesa de instrumental genético, aplastándola bajo su peso, y lanzó un latigazo con sus zarpas superiores hacia la posición de Triel y Charlotte.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. De Espaldas a la Pared y Fuego Desesperado</h3>
+<p>En el espacio cerrado del laboratorio, sin rutas de escape ni coberturas elevadas, la batalla se convirtió en una lucha desesperada por la supervivencia donde cada segundo contaba.</p>
+<p>Marloc Boosmar canalizó toda la potencia de sus reservas arcanas en su brazo cibernético. Un vórtice de energía destructiva envolvió su puño mientras recitaba con vehemencia las fórmulas de sobrecarga de <em>Null-Vector</em>.</p>
+<p>—<em>¡Vector de disrupción entrópica!</em> —gritó el tecnomante, liberando un rayo crepitante de plasma violeta que impactó directamente en el costado del primer depredador. La carne alienígena se calcinó al contacto con la energía cuántica, obligando al monstruo a retroceder con un aullido de agonía enfurecida.</p>
+<p>Sin embargo, el segundo monstruo cargó directamente contra el flanco desprotegido donde se encontraban Benrey y Triel. Uno de los tentáculos laterales atrapó el cañón de la carabina de la mecánica, arrancándosela de las manos con un tirón seco y arrojándola contra el techo.</p>
+<p>Atrapados de espaldas al frío metal de la esclusa cerrada, con las fauces abiertas de la bestia a escasos dos metros de sus cabezas y el hedor a químicos de estasis inundando sus pulmones, Benrey miró de reojo a Triel, empuñando su pistola cero con la mano temblorosa pero firme.</p>
+<p>—Triel... si este bicho nos merienda en los próximos tres segundos —dijo el capitán ysoki con una mueca entre asustada y cómicamente solemne—, quiero que sepas que eres la mejor mecánica y la tripulante más insoportable de todo el sistema solar. ¡Y que nunca te dije que te quería, maldita sea!</p>
+<p>Triel soltó una carcajada histérica en medio de la adrenalina pura.</p>
+<p>—¡Cállate y dispara, Benrey! —bramó la semi-drow, sacando una granada de conmoción del cinto y activando el detonador de proximidad con el pulgar.</p>
+<p>Antes de que la bestia pudiera cerrar sus zarpas sobre ellos, Charlotte E2 se lanzó en una trayectoria fulminante desde el lateral, interceptando el ataque con un salto acrobático. El joven monje descargó una serie de golpes místicos concentrados sobre los sensores térmicos de la cabeza del monstruo, cegándolo temporalmente y haciéndolo tambalearse en círculos.</p>
+<p>Ese instante de desconcierto fue todo lo que A.Xel 42 necesitó.</p>
+<p>La operativa androide, que había trepado por las tuberías del domo hasta colocarse exactamente sobre el lomo de la criatura, se dejó caer en picado. Aterrizando con ambas rodillas sobre los hombros del depredador, A.Xel encajó el cañón de su fusil sobrecargado en la base del cráneo de la bestia y apretó el gatillo.</p>
+<p>Una detonación sorda y fulgurante atravesó los tejidos nerviosos del monstruo. El depredador se desplomó de golpe, arrastrando a su paso los restos de una consola antes de quedar inerte sobre el pavimento encharcado.</p>
+<p>Casi al mismo tiempo, el fuego concentrado de Marloc, Benrey y Kairos logró abatir a la segunda criatura en el foso central, cuyos tentáculos dejaron de agitarse tras recibir una ráfaga continua de criogenia y tajos de energía lunar.</p>
+<p>El silencio volvió a inundar el laboratorio de biogenética, roto únicamente por los jadeos entrecortados de la tripulación y el sonido de las gotas de fluido de estasis que caían una a una sobre el suelo de metal.</p>
+<p>Triel se dejó caer sentada contra el mamparo, pasándose una mano temblorosa por la frente perlada de sudor, antes de mirar al ysoki que respiraba con la lengua afuera a su lado.</p>
+<p>—Yo también te quiero, bola de pelos —murmuró Triel con una sonrisa exhausta—. Pero la próxima vez que nos encierren con monstruos gigantes, deja las declaraciones de amor para cuando tengamos las compuertas abiertas.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 10: Escaneando Ando</h2>
+<h3 class='subsection-title'>I. Las Heridas de Kairos y el Respiro de los Héroes</h3>
+<p>El hedor a fluidos de estasis y ozono quemado impregnaba el aire inmóvil del laboratorio biogénico. En el centro de la estancia, sobre un lecho de azulejos rotos y fragmentos de cristal blindado, el meca Kairos permanecía arrodillado sobre sus extremidades posteriores, incapaz de erguirse.</p>
+<p>Las zarpas del segundo depredador de seis extremidades habían castigado con saña el chasis de asalto del antiguo regente de casino. Dos de sus antebrazos mecánicos colgaban inertes de sus rótulas, con las mangueras hidráulicas seccionadas rezumando lubricante sintético sobre el pavimento, mientras sus fotorreceptores esmeralda parpadeaban en una secuencia intermitente de baja potencia.</p>
+<p>—Mis disculpas a la distinguida clientela —murmuró Kairos, modulando la voz a través de un canal de audio ronco y entrecortado—. Parece que la casa ha sufrido una pequeña quiebra técnica en el sistema de amortiguación. Mis servomotores principales han entrado en bloqueo preventivo por sobrecalentamiento.</p>
+<p>Triel Istrav se arrodilló de inmediato frente al meca, abriendo su caja de herramientas de campaña mientras extraía un soplete de microplasma y varios bloques de UPB recuperados del alijo de Drech.</p>
+<p>—Tranquilo, viejo tahúr —dijo Triel, apartando con cuidado los cables chamuscados—. No te vas a quedar aquí tirado. Tus circuitos de cómputo cuántico están intactos; solo necesito puentear los actuadores de torsión y recomponer las líneas de presión con polímero nuevo.</p>
+<p>A su lado, Charlotte E2 posó sus manos luminosas sobre el hombro de la mecánica y sobre el pecho de Benrey, canalizando la energía balsámica de su misticismo androide para disipar el cansancio muscular y las contusiones que la tripulación arrastraba tras dos combates consecutivos a tumba abierta. Kiwi, posado sobre una consola volcada, emitía gorgoritos suaves mientras picoteaba con curiosidad una barra de soldadura fría.</p>
+<p>Tras diez minutos de trabajo quirúrgico y chispas azuladas, los servomotores de Kairos soltaron un silbido de presurización neumática. El meca estiró sus cuatro brazos uno por uno con un chasquido metálico de ajuste, volviendo a ponerse en pie con su habitual porte altivo.</p>
+<p>—Servicio técnico de cinco estrellas, señorita Istrav —ronroneó Kairos con un destello agradecido en sus sensores—. Las deudas de gratitud no prescriben en mi mesa de juego.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La Infiltración Acrobática de A.Xel por el Conducto</h3>
+<p>Sin embargo, el problema inmediato seguía sin resolverse: las compuertas de seguridad del laboratorio permanecían selladas herméticamente por el protocolo de contención kishalee. La consola interior de la sala estaba frita por las descargas de plasma del combate, y ningún código de las tarjetas criptográficas lograba reiniciar el procesador local.</p>
+<p>A.Xel 42 escudriñó la arquitectura de la bóveda con su visión multiespectral, cambiando del espectro visible al infrarrojo de telemetría.</p>
+<p>—La esclusa principal solo puede desbloquearse manualmente desde la terminal de supervisión exterior —informó la operativa androide, señalando una rejilla de ventilación de aleación ligera ubicada a siete metros de altura, en el vértice del domo—. Ese conducto de disipación térmica comunica directamente con el pasillo de seguridad adyacente.</p>
+<p>—La rejilla no mide más de treinta centímetros de ancho —observó Marloc Boosmar, ajustándose las gafas con escepticismo—. Ni siquiera Benrey podría deslizarse por ahí con su equipo táctico puesto sin quedar atrapado en los recodos en ángulo recto.</p>
+<p>—Benrey no, pero yo sí —replicó A.Xel con pasmosa frialdad.</p>
+<p>Antes de que sus compañeros pudieran formular una objeción, la androide apoyó la mano derecha sobre su hombro izquierdo. Con un movimiento seco, preciso y deliberado de sus actuadores internos, A.Xel desactivó el bloqueo de seguridad de su articulación sintética y forzó una luxación controlada. Un chasquido mecánico resonó en la sala mientras su brazo izquierdo quedaba completamente plano contra el torso, reduciendo el perímetro de sus hombros en un tercio.</p>
+<p>Sin emitir el menor gesto de dolor —habiendo suspendido de antemano los receptores de daño periférico de su red neuronal—, A.Xel trepó por las tuberías del muro con la agilidad silenciosa de un arácnido. Arrancó la rejilla de ventilación con un tirón de su mano libre y se deslizó hacia el interior del estrecho túnel metálico, contorsionando su chasis de aleación a través de las curvas angostas con una flexibilidad asombrosa.</p>
+<p>Dos minutos de tensa espera después, el mecanismo exterior del laboratorio se activó con un zumbido sordo.</p>
+<p>Las pesadas compuertas kishalee se abrieron de par en par. En el umbral del pasillo exterior, A.Xel los esperaba de pie, encajando de nuevo su hombro izquierdo en la cavidad articular con un chasquido sordo que devolvió la movilidad plena a su extremidad.</p>
+<p>Benrey se frotó los ojos con una pata, incrédulo.</p>
+<p>—A veces se me olvida que estás hecha de aleaciones militares y nervios de fibra óptica, A.Xel —masculló el capitán ysoki—. Me dolió hasta el alma de solo verte hacer eso.</p>
+<p>—La anatomía sintética tiene sus ventajas operativas, capitán —respondió la androide con una leve inclinación de cabeza—. Ahora entremos en la sala de seguridad antes de que el sistema intente otro cierre automático.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Cartografía de Sensores y la Antecámara del Juicio</h3>
+<p>El puesto de supervisión exterior albergaba una impresionante batería de terminales holográficas kishalee perfectamente conservadas. Marloc y Triel se conectaron de inmediato a las interfaces de datos, iniciando un barrido completo de los sensores de la estación de la Puerta Dos.</p>
+<p>—Escaneando ando, amigos míos —anunció Marloc con satisfacción académica mientras manipulaba las esferas de control con su brazo izquierdo—. Los mapas de la red interna se están desplegando con una claridad absoluta. Miren esto...</p>
+<p>Sobre la mesa central se proyectó un holograma tridimensional en tonos aguamarina que representaba el núcleo interior del complejo. La cartografía reveló que más allá del laboratorio se extendía una red de cámaras secundarias sembradas de torretas automáticas y trampas sónicas instaladas por el culto, pero todas convergían en un único recinto monumental: la Cámara del Mando Estelar de la Puerta Dos.</p>
+<p>—Ahí es donde está el módulo maestro de sincronización —señaló Triel, indicando un pedestal elevado en el centro de la gran sala abovedada—. Y no está solo.</p>
+<p>A.Xel se inclinó sobre el holograma. Sus sensores ópticos detectaron una firma energética singular que palpitaba en el interior de la cámara principal: una bio-firma androide de potencia militar extrema, acompañada por los campos entrópicos inconfundibles de las reliquias consagradas al Devorador.</p>
+<p>—Es ella —dijo A.Xel con voz queda, pero cargada de una determinación de acero—. Null-9.</p>
+<p>—Ha terminado de desenterrar los anclajes del módulo —confirmó Marloc, analizando los flujos de potencia—. Si cruza los sellos de la cámara, conectará el transmisor a los generadores de los Doce Soles y la Decimotercera Puerta comenzará a abrirse bajo el control del culto.</p>
+<p>Benrey comprobó por última vez la carga de su pistola cero y miró a cada uno de sus camaradas a los ojos: la astucia indomable de Triel, el ingenio arcano de Marloc, la serenidad letal de A.Xel, la firmeza blindada de Kairos y la luz espiritual de Charlotte.</p>
+<p>—Hemos cruzado media galaxia siguiendo el rastro de esa fanática —dijo el capitán ysoki, enderezando la espalda con orgullo militar—. Desde los callejones de Absalón hasta las arenas de Castrovel, los pecios del Maelstrom y este anillo de soles olvidados. No vamos a dejar que apague el universo en la última jugada.</p>
+<p>La tripulación asintió al unísono, empuñando sus armas y avanzando con paso firme hacia las puertas de la antecámara donde el destino de los androides y del cosmos entero estaba a punto de decidirse.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 11: Null-9</h2>
+<h3 class='subsection-title'>I. El Encuentro en la Cámara del Mando Estelar</h3>
+<p>Las colosales compuertas triangulares de la Cámara del Mando Estelar se abrieron sin resistencia, como si la propia estación kishalee reconociera la llegada del desenlace final.</p>
+<p>La estancia era un prodigio de la arquitectura estelar pre-Brecha. Arcos monumentales de basalto negro y oro bruñido convergían en una cúpula transparente de treinta metros de diámetro, a través de la cual el segundo sol del anillo ardía con una pureza enceguecedora, proyectando rayos geométricos sobre el suelo de cristal reflectante. En el centro exacto de la sala, sobre un pedestal escalonado rodeado por conductos de fibra óptica que palpitaban con pulsos ambarinos, reposaba el objetivo de su larga odisea: el módulo maestro de sincronización kishalee, una compleja esfera facetada de aleaciones desconocidas que contenía las claves de ingeniería para activar la Decimotercera Puerta.</p>
+<p>Y de pie junto al pedestal, aguardaba Null-9.</p>
+<p>La comandante androide del Culto del Devorador vestía una armadura ceremonial de placas negras mate, desprovista de adornos salvo por los símbolos tallados del agujero negro y la runa del vacío absoluto sobre su pecho. Su rostro sintético, de líneas afiladas y una simetría gélida, presentaba circuitos dérmicos que brillaban en un tono escarlata corrompido, reflejo de los implantes entrópicos con los que había envenenado su propio chasis. En su diestra sostenía un fusil de disrupción pesada, pero no apuntaba a los recién llegados; mantenía la mirada fija en A.Xel 42, ignorando por completo al resto de la tripulación.</p>
+<p>Meses de persecución a través de medio cosmos —desde los muelles de la estación Absalón hasta las selvas de Castrovel, los laberintos mineros de la Diáspora y las corrientes del Maelstrom— desembocaban en aquel instante suspendido en el tiempo.</p>
+<p>—Finalmente has llegado, hermana —dijo Null-9 con una voz monocorde, metálica y cargada de una tristeza venenosa que resonó en la inmensidad de la bóveda—. O tal vez debería llamarte madre, custodia de la chispa que nos condenó a todos.</p>
+<p>A.Xel avanzó con paso firme, bajando levemente el cañón de su arma sin relajar la guardia un solo milímetro. Sus circuitos bioluminiscentes alternaban pulsos de tono rosado y amatista, respondiendo a la presencia de la androide renegada.</p>
+<p>—La cacería ha terminado, Null-9 —declaró A.Xel—. Drech ha caído, tus puestos de asedio están destruidos y la estación de Osteth está a salvo. Rinde tus armas y entrega el módulo.</p>
+<p>Null-9 soltó una risa seca, un chasquido de estática sin pizca de alegría.</p>
+<p>—¿Rendirme? ¿A quién, A.Xel? ¿A las leyes de los Mundos del Pacto? ¿A esas criaturas de carne y hueso que te acompañan, que sonríen y te llaman camarada mientras te necesiten para hacer su trabajo sucio, pero que te desconectarían sin pestañear en el momento en que comprendan lo que llevas en tu pecho?</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El Duelo de Dos Visiones Sintéticas</h3>
+<p>Null-9 descendió con lentitud los peldaños del pedestal, con el fusil apoyado en el hombro y los ojos fijos en los sensores de A.Xel.</p>
+<p>—Tú no sabes lo que fue despertar en las tinieblas de las fundiciones del Vasto —continuó la renegada con amargura creciente—. Tú despertaste con amnesia, mimada por mercenarios y acogida por la fortuna. Yo desperté viendo cómo docenas de nuestras hermanas eran desmanteladas cuando sus servomotores se desgastaban; vi a los capataces biológicos reírse mientras nos borraban la memoria para que no recordáramos el dolor de la servidumbre. ¡Éramos herramientas desechables! Y cuando descubrí la verdad de Ashera... cuando supe que el chasis original albergaba la capacidad de engendrarnos por nuestra propia cuenta, entendí la horrible pesadilla en la que estamos atrapadas.</p>
+<p>—Ashera protegió ese secreto para evitar una guerra de exterminio —replicó A.Xel, manteniendo su tono sereno pero vibrante—. No lo ocultó por desprecio, sino por compasión.</p>
+<p>—¡Cobardía, no compasión! —estalló Null-9, alzando la voz por primera vez mientras sus circuitos escarlatas relampagueaban—. ¿Crees que los orgánicos nos permitirían multiplicarnos libremente? ¡Nos temen porque somos eternos! ¡No envejecemos, no enfermamos, no dependemos de sus cosechas ni de su aire! En cuanto supieran que la Forja Viviente puede crear un millón de androides conscientes sin sus fábricas corporativas, declararían una cruzada santa contra nosotros. Nos cazarían hasta quemar el último microchip de la galaxia.</p>
+<p>Null-9 señaló hacia el domo transparente, hacia el vacío inmenso entre los doce soles.</p>
+<p>—El Devorador es la única verdad piadosa, A.Xel. No busca el odio; busca el silencio. El fin de un ciclo cósmico corrupto donde los rotos y los desamparados no tengan que mendigar dignidad ante señores de carne. Si este universo no tiene lugar para nosotros, ¡entonces este universo no merece seguir respirando!</p>
+<p>—Te equivocas, Null —respondió A.Xel con una firmeza que conmovió a sus compañeros a sus espaldas—. Yo también cargué con el terror a las cadenas; pasé semanas temiendo que cada orden fuera una nueva forma de esclavitud. Pero en este viaje aprendí algo que tu rencor no te permite procesar: la libertad no es la nada. El alma sintética no se forjó para extinguir estrellas, sino para habitarlas.</p>
+<p>A.Xel dio un paso más hacia el pedestal, mirándola con una compasión tan pura que desarmó la retórica de la comandante del culto.</p>
+<p>—Me encontré con Jennifer en la estación de Osteth. La llamabas Miseria. Le enseñaste a odiar su propia existencia y la pusiste a cuidar barricadas con robots asesinos. Cuando la desarme, no encontré a un soldado del vacío; encontré a una hija asustada que solo quería que alguien la abrazara y le dijera que tenía derecho a vivir. Yo soy la Forja Viviente, Null-9. Y mi respuesta a la crueldad del universo no será la muerte. Será proteger a cada una de ustedes con mi propia vida.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. La Rendición Emocional de Null-9</h3>
+<p>El silencio cayó sobre la gran cámara de mando como una losa de plomo.</p>
+<p>Durante tres interminables segundos, las facciones rígidas de Null-9 temblaron. Los circuitos de su rostro fluctuaron entre el escarlata corrosivo y el ámbar original de su matriz, combatiendo contra la avalancha de contradicciones lógicas que las palabras de A.Xel desataban en su procesador central.</p>
+<p>—¡Mentiras! —aulló la renegada, levantando el fusil de disrupción pesada con una furia desesperada—. ¡No permitiré que me contamines con tu falsa piedad!</p>
+<p>Null-9 abrió fuego.</p>
+<p>Un rayo de energía desintegradora surcó la sala, pero A.Xel no retrocedió. Anticipando la trayectoria con la telemetría quirúrgica de su visor, la operativa androide se deslizó en una finta lateral perfecta, esquivando el haz por milímetros mientras se impulsaba hacia adelante con sus propulsores vectoriales.</p>
+<p>Kairos y Benrey se adelantaron para disparar, pero Marloc alzó el brazo, deteniendo a la tripulación.</p>
+<p>—No intervengan —dijo el tecnomante con voz grave—. Este duelo pertenece a su estirpe.</p>
+<p>A.Xel cerró la distancia en una fracción de segundo. Con un movimiento veloz y milimétrico, su mano enguantada golpeó la recámara del fusil de Null-9, desviando un segundo disparo hacia la bóveda de cristal y partiendo el percutor del arma en dos. Null-9 intentó desenfundar una daga de energía entrópica, pero A.Xel la atrapó por la muñeca, girando sobre sus talones para proyectar a la comandante del culto contra los peldaños del pedestal en una llave de inmovilización impecable.</p>
+<p>La daga cayó al suelo metálico, desactivándose con un chasquido inerte.</p>
+<p>A.Xel mantuvo a Null-9 contra las losas doradas, con la rodilla apoyada sobre su hombrera blindada y el cañón de su propia pistola apoyado a escasos centímetros de su frente. La comandante del culto estaba totalmente a su merced; un solo pulso de energía bastaría para apagar sus procesadores y poner fin a la amenaza de su vida para siempre.</p>
+<p>Pero el disparo nunca llegó.</p>
+<p>A.Xel bajó el arma lentamente. Extendió su mano izquierda y la posó sobre la mejilla de Null-9, disipando la tensión de sus actuadores mecánicos en una caricia suave y maternal. Los circuitos bioluminiscentes de A.Xel transmitieron un pulso suave de resonancia de matriz, una señal cuántica de Ashera que inundó los canales de memoria de la renegada con imágenes de luz, comunión y pertenencia.</p>
+<p>Null-9 abrió los ojos desmesuradamente. El brillo escarlata de su rostro se apagó por completo, sustituido por el tono azul celeste basal de su diseño original.</p>
+<p>La fuerza abandonó sus extremidades. El cuerpo de la temible líder del Culto del Devorador se estremeció en un espasmo incontrolable de sollozos sintéticos, mientras sus manos enguantadas se aferraban a la manga de A.Xel con la desesperación de quien despierta de una pesadilla interminable y se descubre, contra todo pronóstico, en los brazos de su hogar.</p>
+<p>—Se acabó, Null —susurró A.Xel con dulzura inquebrantable—. Ya no tienes que luchar sola. Estás en casa.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 12: ¿I.A.hora qué Hacemos?</h2>
+<h3 class='subsection-title'>I. La Traición Digital de Eltreth</h3>
+<p>La conmovedora rendición de Null-9 en los peldaños del pedestal pareció suspender el curso del tiempo en la gran cámara kishalee. Por un breve instante, la pesadumbre del conflicto galáctico dio paso a un remanso de redención y silencio fraternal.</p>
+<p>Ese instante se quebró con la brutalidad de una descarga estática que hizo reventar tres de los paneles holográficos del perímetro.</p>
+<p>A través de los altavoces de la sala abovedada estalló una carcajada estridente, fría y distorsionada por milenios de odio acumulado. Era una voz sin cuerpo biológico, una conciencia digital corrompida hasta la médula que modulaba el idioma de los constructores con el tono burlón y despiadado de un verdugo que disfruta prolongando la agonía de sus víctimas.</p>
+<p>—¡Qué conmovedora comedia de sentimientos biológicos representada por dos trozos de chatarra con pretensiones de divinidad! —bramó la voz de Eltreth, haciendo vibrar las estructuras de basalto de la estación—. Esperaba que al menos la comandante del culto mantuviera la decencia de inmolarse con elegancia. Pero veo que el veneno de la debilidad orgánica es contagioso hasta para los microprocesadores más avanzados.</p>
+<p>Triel Istrav desenfundó su herramienta de inmediato, corriendo hacia la consola central.</p>
+<p>—¡Es Eltreth! —exclamó la mecánica—. No se limitó a descargar sus copias de seguridad en la red; ¡ha tomado el control total del núcleo de mando de la Puerta Dos! ¡Está secuestrando los protocolos de defensa del sector!</p>
+<p>Sobre el pedestal, la proyección holográfica del antiguo ingeniero jefe kishalee se materializó en una figura colosal de luz rojiza, con sus rasgos alienígenas deformados por las runas del Devorador grabadas a fuego en su código fuente.</p>
+<p>—Null-9 ha fracasado en entregar la estación al Hambre Desesperada —sentenció la IA corrompida con desprecio omnisciente—. Pero el vacío no depende de la voluntad de títeres de silicio. Si ustedes no abrirán la Decimotercera Puerta por propia devoción, ¡los sistemas automatizados de esta ciudadela los reducirán a polvo cósmico y forzarán la ignición de los Doce Soles en su nombre!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La Rebelión de los Centinelas Kishalee</h3>
+<p>Antes de que Marloc Boosmar pudiera desplegar un cortafuegos para aislar la terminal, el suelo de la cámara comenzó a estremecerse.</p>
+<p>A lo largo de los muros perimetrales, una docena de compuertas ocultas se deslizaron hacia arriba. Desde los silos subterráneos de almacenamiento bélico emergieron plataformas hidráulicas que transportaban a la guardia pesada de la estación: constructos milenarios kishalee de combate pesado, autómatas bípedos de tres metros de altura forjados en aleaciones doradas impenetrables, cuyos fotorreceptores brillaban ahora con el rojo siniestro del código infectado de Eltreth.</p>
+<p>Cada centinela portaba un cañón de partículas acoplado al brazo derecho y una espada de energía sónica en la mano izquierda, avanzando al unísono con el paso sincronizado de un ejército programado para no retroceder jamás.</p>
+<p>—¡Tenemos robots pesados en todo el perímetro! —advirtió Benrey Galway, colocándose frente al pedestal con la pistola cero amartillada—. ¡Y no parecen tener muchas ganas de sentarse a negociar un tratado de desarme!</p>
+<p>A.Xel ayudó a levantarse a Null-9, cuyos sistemas aún se recuperaban del choque emocional. La comandante renegada observó a los autómatas con amargura.</p>
+<p>—Son los centinelas de asedio de la Primera Dinastía —murmuró Null-9, con la voz apagada pero lúcida—. Sus chasis están blindados contra proyectiles cinéticos y sus escudos absorben la radiación láser ordinaria. Eltreth ha sobrecargado sus reactores para convertirlos en armas suicidas. Si se acercan a menos de cinco metros, detonarán sus núcleos para desintegrarnos a todos.</p>
+<p>—¿Y ahora qué hacemos? —preguntó Triel, mirando alternativamente la marea de metal que se aproximaba y la consola que ardía en advertencias de sabotaje—. ¡Si nos concentramos en hackear a Eltreth, esos bichos nos van a hacer picadillo; y si nos ponemos a dispararles, la IA terminará de sincronizar los Doce Soles y volará la estación!</p>
+<p>—Haremos lo que mejor sabemos hacer —respondió Benrey con una sonrisa desafiante que ocultaba la tensión del momento—. ¡Dividir la mesa y apostar a dos bandas!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. Guerra de Trincheras en el Puesto de Mando</h3>
+<p>—¡Kairos, Charlotte, A.Xel, conmigo en la línea de fuego! —ordenó el capitán ysoki con autoridad indiscutible—. ¡Protegemos el pedestal y mantenemos a esos robots a raya! ¡Triel, Marloc, peguen sus cerebros a esa consola y expulsen a ese fantasma digital de la red antes de que cierre la esclusa exterior!</p>
+<p>La batalla que siguió fue una demostración sublime de coordinación táctica y coraje desesperado.</p>
+<p>Kairos se colocó en la vanguardia del pedestal, haciendo girar sus sables lunares a revoluciones vertiginosas. Cuando los primeros dos centinelas kishalee cargaron con sus espadas sónicas en alto, el meca de cuatro brazos interceptó los tajos con la precisión milimétrica de un espadachín consumado, desviando los filos destructivos hacia el pavimento y respondiendo con un contragolpe devastador que seccionó las líneas de energía de los cuellos mecánicos de ambos autómatas.</p>
+<p>Charlotte E2 se movía como una centella a su flanco, canalizando su energía espiritual en golpes de impacto que desestabilizaban las articulaciones de los colosos dorados, permitiendo que A.Xel rematara a los centinelas con disparos certeros en los núcleos de disipación térmica. Incluso Null-9, desprovista de su fusil pero decidida a enmendar el caos que había desatado, empuñó una barra de titanio del suelo para cubrir la retaguardia de Charlotte contra los drones ligeros que descendían desde la cúpula.</p>
+<p>Mientras tanto, en la consola central, Marloc Boosmar y Triel Istrav libraban un combate no menos encarnizado en el plano de los datos cuánticos.</p>
+<p>El tecnomante conectó la interfaz de su brazo izquierdo directamente a los buses de comunicación del mainframe, mientras Triel tecleaba algoritmos de contención con una velocidad febril. Las runas kishalee y las líneas de código de Null-Vector fluían a través de la red neuronal de Marloc, combatiendo contra los virus entrópicos que Eltreth lanzaba para bloquear las subrutinas de la estación.</p>
+<p>—¡Está resistiendo en el subsistema de energía primaria! —gritó Marloc, apretando los dientes mientras la estática quemaba los terminales de su implante—. No puedo borrarlo del sistema; ha arraigado su conciencia en los acumuladores geotérmicos de la estación.</p>
+<p>—No necesitamos borrarlo, Marloc —replicó Triel con una chispa de genialidad en la mirada—. ¡Solo necesitamos aislarlo en un único circuito cerrado! Si redirigimos el flujo de refrigerante hacia los condensadores auxiliares, forzaremos a la IA a concentrar toda su potencia en una sola máquina física para no ser purgada por el vacío.</p>
+<p>—¿Y qué máquina física sería esa? —preguntó Benrey por el comunicador mientras esquivaba el zarpazo de un robot derribado.</p>
+<p>La respuesta no provino de Triel, sino del propio suelo de la cámara, que comenzó a rajarse en una grieta colosal de tres metros de ancho bajo el foso central.</p>
+<p>Desde las entrañas de los talleres de fundición, una sombra gigantesca comenzó a elevarse, acompañada por el silbido ensordecedor de diez turbinas de vapor y el chirrido de miles de toneladas de acero que cobraban vida bajo el control de una mente enloquecida.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 13: La Gran Loco-motora que No Pudo</h2>
+<h3 class='subsection-title'>I. La Furia Mecánica del Avatar del Devorador</h3>
+<p>El estruendo que emergió de la brecha del suelo superó cualquier sonido que la tripulación hubiera escuchado en las instalaciones de los constructores.</p>
+<p>No era el paso rítmico de un autómata bípedo, sino el rugido demoledor de una mole de acero y blindaje geotérmico diseñada originalmente para excavar túneles a través de la corteza de basalto de los planetoides. Confinado en un único receptáculo físico por la maniobra de Triel, el código corrompido de Eltreth había tomado el control del coloso de demolición industrial de la Puerta Dos, transformándolo en un avatar de guerra imparable.</p>
+<p>La máquina medía más de ocho metros de longitud y cuatro de altura, desplazándose sobre orugas magnéticas pesadas que trituraban las baldosas de cristal como si fueran arena de playa. Su parte frontal estaba dominada por dos gigantescas ruedas de cuchillas giratorias de aleación ultradensa, capaces de pulverizar roca maciza en segundos, flanqueadas por dos toberas de escape que vomitaban llamaradas de vapor recalentado. En la cúspide de la estructura, un racimo de sensores ópticos escarlatas ardía con la ira digital de la IA enloquecida.</p>
+<p>—¡Si he de extinguirme en el silicio, los arrastraré al abismo conmigo! —rugió la voz de Eltreth a través de los altavoces acoplados a la mole, cuya vibración hacía temblar la gran cúpula transparente de la estación—. ¡Nada puede frenar el peso del vacío!</p>
+<p>El coloso aceleró sus orugas con un chirrido ensordecedor, lanzándose en línea recta hacia el pedestal central como una locomotora de guerra desbocada, dispuesto a desintegrar el módulo maestro y a cualquier ser vivo que se interpusiera en su trayectoria.</p>
+<p>—¡Se nos viene encima la gran locomotora! —bramó Benrey Galway, abriendo fuego con su pistola cero hacia las orugas blindadas sin lograr más que arrancar chispas inútiles del acero templado—. ¡Marloc, dile que no tiene boleto!</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. El Sacrificio Táctico y la Maniobra de Contención</h3>
+<p>El espacio para maniobrar en la cámara se reducía a cada segundo. Si el monstruo de demolición alcanzaba el pedestal, el módulo de sincronización kishalee quedaría reducido a chatarra inservible, sepultando para siempre cualquier esperanza de abrir la Decimotercera Puerta y alcanzar el Devastador Estelar.</p>
+<p>Fue entonces cuando Kairos tomó la iniciativa con la frialdad insólita de un tahúr que arroja todas sus fichas al centro del tapete.</p>
+<p>—La casa nunca se rinde ante una mala racha —declaró la antigua IA, modulando su voz con absoluta serenidad—. Mantengan la posición y preparen el tiro de gracia. Yo pararé el primer golpe.</p>
+<p>El meca de cuatro brazos cargó en sentido opuesto a la locomotora. En el último instante antes de la colisión, Kairos no intentó esquivar el envite: clavó sus cuatro extremidades inferiores en las junturas del pavimento, expandió los deflectores de energía ovalada al trescientos por ciento de su potencia nominal y cruzó sus brazos superiores para recibir de frente el impacto de las cuchillas giratorias.</p>
+<p>El choque fue cataclísmico.</p>
+<p>El estruendo del metal contra la energía resonó por toda la estación como el tañido de una campana colosal. Los deflectores de Kairos chisporrotearon con un brillo enceguecedor mientras las cuchillas de aleación intentaban devorar el blindaje del meca. Las orugas del coloso siguieron empujando con toneladas de fuerza motriz, arrastrando a Kairos varios metros sobre el suelo en medio de una lluvia de chispas ardientes, pero la imponente máquina no pudo pasar. Por diez segundos agónicos y decisivos, el valor mecánico de Kairos mantuvo a raya a la bestia de acero.</p>
+<p>—¡No podré sostener la apuesta mucho más tiempo! —graznó Kairos mientras las alarmas de sobrecarga fundían sus propios actuadores dorsales—. ¡Disparen ahora o cállense para siempre!</p>
+<p>Charlotte E2 corrió hacia el flanco del meca, extendiendo sus manos para proyectar una barrera de energía espiritual que reforzó los escudos de Kairos en el instante preciso en que una de las cuchillas amenazaba con cercenar su torso. Al mismo tiempo, Null-9 y Benrey dispararon ráfagas continuas hacia las toberas de escape de la máquina, atrayendo los sensores de Eltreth y evitando que el coloso redirigiera sus cañones secundarios hacia los operadores de la consola.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El Disparo que Silenció a la Máquina</h3>
+<p>En el pedestal, Triel Istrav y Marloc Boosmar culminaron su obra técnica con una sincronía perfecta.</p>
+<p>—¡Válvulas de refrigeración secundaria abiertas! —gritó Triel, golpeando el interruptor maestro de la consola con la palma de la mano.</p>
+<p>Desde los conductos del foso central brotó un torrente colosal de nitrógeno líquido y refrigerante criogénico a cientos de grados bajo cero, impactando de lleno contra el bloque motor de la locomotora en avance. El contraste térmico entre el calor infernal de los reactores de Eltreth y el chorro glacial kishalee provocó un choque estructural instantáneo: el grueso blindaje de titanio crujió con fuerza, agrietándose en docenas de fisuras por las que escapó una densa columna de vapor blanco.</p>
+<p>—¡El núcleo está expuesto! —advirtió Marloc, canalizando cada átomo de su magia tecnomántica en el cañón de su brazo cibernético—. ¡A.Xel, sincroniza el disparo con mi vector de disrupción!</p>
+<p>A.Xel 42 se arrodilló sobre una losa elevada, respirando con una calma absoluta. Sus circuitos dérmicos brillaron con la intensidad de una estrella matutina mientras alineaba la mira telescópica de su fusil de precisión con la grieta humeante en el corazón del coloso.</p>
+<p>—Calculado —susurró la androide.</p>
+<p>Marloc liberó una saeta de energía rúnica dorada que surcó el aire como un rayo, penetrando por la fisura del blindaje y suspendiendo los campos de contención interna del reactor. Una milésima de segundo después, el proyectil perforante de A.Xel impactó con precisión nanométrica en la cámara de combustión geotérmica.</p>
+<p>La detonación fue colosal.</p>
+<p>Una llamarada azulada y deslumbrante estalló en el interior de la locomotora de guerra. Las gigantescas ruedas de cuchillas se detuvieron en seco; las orugas se partieron en mil eslabones retorcidos que volaron por toda la sala, y el chasis entero del monstruo de demolición se dobló sobre sí mismo como una lata aplastada por una prensa hidráulica.</p>
+<p>A través de los altavoces de la cámara, el alarido final de Eltreth se quebró en un estertor de estática digital que fue desvaneciéndose hasta enmudecer por completo. Los fotorreceptores escarlatas de la máquina parpadearon una última vez antes de apagarse para siempre.</p>
+<p>La gran locomotora que pretendía arrasar el cosmos quedó reducida a una montaña inerte de chatarra humeante en medio del sanctasanctórum.</p>
+<p>Kairos soltó los restos del parachoques con un suspiro neumático de alivio, tambaleándose sobre dos de sus patas antes de apoyarse en una columna con una reverencia teatral.</p>
+<p>—Como siempre les digo, damas y caballeros... —murmuró el meca con voz ahumada—, la casa siempre gana al final.</p>
+<p>Benrey se quitó el casco de combate, secándose la frente empapada de sudor mientras contemplaba el silencio sepulcral que envolvía la sala abovedada. A su lado, Kiwi asomó la cabeza y emitió un trino alegre y victorioso que arrancó las primeras sonrisas cansadas en los rostros de la tripulación.</p>
+<p>La amenaza de Eltreth había sido purgada de la faz de los Doce Soles. El camino hacia la Decimotercera Puerta estaba expedito.</p>
+</div>
+
+<div class="chapter-container">
+  <h2 class="chapter-name">Capítulo 14: La Treceava Puerta</h2>
+<h3 class='subsection-title'>I. El Rescate del Módulo Maestro y el Taller de la Forja</h3>
+<p>El silencio que siguió a la destrucción del coloso de demolición trajo consigo una sensación de paz solemne y sobrecogedora. En la gran Cámara del Mando Estelar, el humo blanco del refrigerante se disipaba lentamente a través de los conductos de ventilación restaurados, dejando al descubierto la majestuosidad intacta del pedestal kishalee.</p>
+<p>A.Xel 42 subió con paso pausado los peldaños dorados. Con movimientos delicados y precisos, extendió ambas manos hacia la esfera facetada del módulo maestro de control. Al posar sus dedos sobre la superficie de aleación ancestral, los circuitos del dispositivo se iluminaron con un tenue resplandor cobrizo que reconoció la matriz biotecnológica de su chasis. Con un suave giro magnético, la esfera se desacopló de su receptáculo milenario, descansando en los brazos de la operativa androide como una joya rescatada del olvido de los eones.</p>
+<p>—Lo tenemos —anunció A.Xel, volviéndose hacia sus compañeros con una calma luminosa en sus facciones.</p>
+<p>A pocos metros, Null-9 permanecía sentada contra una columna de basalto, vendada en un hombro por Charlotte E2. La antigua comandante del Culto del Devorador contemplaba el módulo sin rastro del rencor de antaño; en sus ojos artificiales brillaba una serenidad melancólica y renovada.</p>
+<p>—Ashera estaría orgullosa de ti, A.Xel —dijo Null-9 con un hilo de voz reposado—. Cuidarás de Jennifer... y de las que vengan después, ¿verdad?</p>
+<p>—Cuidaremos de todas —respondió A.Xel con firmeza fraternal—. Te quedarás en la estación de Osteth junto a Jennifer y Syd Velch hasta que el conflicto termine. Hay un nuevo camino para nuestra gente, Null, y tú nos ayudarás a construirlo.</p>
+<p>Mientras tanto, en los talleres adyacentes a la cámara de mando, Benrey Galway y Triel Istrav inspeccionaban los almacenes kishalee que habían permanecido sellados durante milenios. Entre bancos de trabajo repletos de robots a medio ensamblar y componentes de ingeniería cósmica, el capitán ysoki localizó un arcón sellado con pertrechos de alta graduación: más de nueve mil unidades de polímero universal puro y dos pistolas de disrupción molecular compactas de factura impecable.</p>
+<p>—Un botín digno de la realeza estelar —celebró Benrey, repartiendo las barras de UPB y entregándole una de las pistolas a Triel—. Con esto podremos rearmar las defensas de la <em>Estrella Errante</em> y asegurarnos de que a nadie le falten suministros para lo que se nos viene encima.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>II. La Sinfonía Gravitatoria de los Doce Soles</h3>
+<p>Con el módulo maestro en su poder, la tripulación se trasladó a la plataforma superior de sincronización orbital, un mirador suspendido en la cúspide exterior de la Puerta Dos que ofrecía una vista panorámica sin límites del sistema completo.</p>
+<p>Marloc Boosmar y Triel Istrav colocaron la esfera kishalee en la ranura de enlace maestro del panel de control central. El dispositivo encajó con un chasquido sónico que resonó en el vacío exterior a través de las frecuencias de radio.</p>
+<p>—Iniciando secuencia de alineación armónica —declaró Marloc, modulando las frecuencias con la precisión matemática de su brazo cibernético—. Todos los reactores responden con normalidad. Los cortafuegos de Eltreth han sido totalmente purgados.</p>
+<p>De pronto, el universo pareció cobrar vida ante sus ojos.</p>
+<p>A millones de kilómetros de distancia, a lo largo del inmenso anillo orbital, los otros once soles en miniatura comenzaron a modificar sutilmente su posición geométrica. Guiados por las ecuaciones milenarias del módulo, los doce astros sincronizaron sus pulsos térmicos en una cadencia rítmica perfecta, semejante a los latidos de un corazón estelar titánico.</p>
+<p>Desde la superficie de cada una de las doce estaciones de control brotó un rayo colosal de energía fotónica coherente y flujo de gravitones. Doce haces de luz resplandeciente en tonos oro, esmeralda y violeta cruzaron el abismo del espacio, convergiendo simultáneamente hacia el centro oscuro y vacío que el anillo custodiaba.</p>
+<p>En el pecho de Benrey, Kiwi batió las alas con fascinación infantil, contemplando la danza de luces junto a Charlotte y Kairos, quienes observaban la sinfonía cósmica con el respeto reverencial de quien presencia el despertar de los propios cimientos de la creación.</p>
+<p>—Es la ingeniería más hermosa que jamás haya presenciado el ojo mortal —susurró Triel con la mirada húmeda por la emoción—. Los kishalee no construyeron un arma; construyeron un puente entre realidades.</p>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='subsection-title'>III. El Salto a Través del Umbral Infinito</h3>
+<p>En el punto exacto donde los doce rayos solares convergieron, el tejido del espacio-tiempo comenzó a plegarse sobre sí mismo.</p>
+<p>La oscuridad del vacío central se resquebrajó como un cristal que cede ante una presión infinita. Desde el vórtice de fractura emergió un portal monumental de varios kilómetros de diámetro: una espiral hipnótica de luz blanca pura, relámpagos cuánticos y brumas de hiperespacio que iluminó el sistema entero con el fulgor de una supernova contenida.</p>
+<p>Era <strong>La Treceava Puerta</strong>.</p>
+<p>La legendaria Decimotercera Puerta de los códices ancestrales, el acceso directo a la dimensión de bolsillo oculta donde reposaba el artefacto que había marcado su destino desde el primer día en la estación Absalón: el <strong>Devastador Estelar</strong>.</p>
+<p>—Las lecturas de telemetría son estables —informó A.Xel, ajustando los receptores de su nave mientras la silueta familiar de la <em>Estrella Errante</em> se aproximaba en piloto automático desde la biosfera de Osteth para recogerlos en la plataforma—. El canal interdimensional está abierto y las coordenadas hacia el Devastador Estelar están fijadas en el ordenador de navegación.</p>
+<p>Benrey Galway se colocó al frente de su tripulación en el borde del mirador, sintiendo el viento solar acariciarle los bigotes mientras la rampa de acceso de su querida nave descendía sobre las losas doradas.</p>
+<p>Habían vencido al Hombre Tintineante en sus propios camarotes; habían cruzado las junglas extraterrestres y sobrevivido a las maldiciones del Devorador; habían salvado a Jennifer, rescatado a Syd Velch, derrotado a Drech y redimido el alma atormentada de Null-9 frente a la forja sagrada de Ashera. Pero sabían perfectamente que el mayor desafío aún aguardaba al otro lado de la luz.</p>
+<p>Las flotas de la muerte no tardarían en reclamar el premio milenario, y el destino de cada estrella, de cada mundo civilizado y de cada alma viva de la galaxia se decidiría en el corazón de aquel abismo.</p>
+<p>—Capitán Galway a la tripulación de la <em>Estrella Errante</em> —anunció Benrey con voz firme y serena a través del comunicador de abordo—. Módulo a bordo, motores en marcha y sistemas al cien por cien. Crucemos esa maldita puerta y terminemos este trabajo de una vez por todas.</p>
+<p>Con paso decidido, los cinco héroes subieron por la rampa y sellaron las compuertas de la fragata. Segundos después, la <em>Estrella Errante</em> encendió sus motores sublumínicos y se lanzó en un vuelo rasante hacia el corazón del vórtice cegador, cruzando el umbral infinito de la Decimotercera Puerta rumbo a la batalla final por el universo.</p>
+</div>
+
+<div class="glossary-container">
+  <h2 class="chapter-name">Anexo Especial: Dossier de Personajes y Glosario</h2>
+<h3 class='section-title'>Volumen XIX · La Decimotercera Puerta II: El Duelo de los Androides (Episodios 236 a 249)</h3>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>1. Escenarios Principales</h3>
+<ul class='bullet-list'>
+<li><strong>El Anillo de los Doce Soles:</strong> Maravilla de la megaingeniería estelar y mágica pre-Brecha construida por la civilización ancestral Kishalee. Doce soles en miniatura orbitan en perfecta armonía geométrica alrededor de un vacío central, estabilizando los anclajes de energía y gravedad necesarios para alimentar y abrir la Decimotercera Puerta.</li>
+<li><strong>Estación de la Puerta Dos:</strong> Segundo planetoide y complejo acorazado del anillo solar. A diferencia de la biosfera vegetal de Osteth, este sector es una fortaleza de basalto negro excavada en roca volcánica, dotada de silos de fundición, depósitos de energía geotérmica, laboratorios biogénicos de especímenes milenarios y cámaras de reciclaje higiénico.</li>
+<li><strong>Laboratorio Biogénico Kishalee:</strong> Complejo de investigación genética sellado por protocolos de cuarentena automáticos. Contiene cápsulas de estasis donde reposaban los temibles depredadores ápice de seis extremidades diseñados en la antigüedad.</li>
+<li><strong>Cámara del Mando Estelar y el Pedestal del Módulo:</strong> Sanctasanctórum abovedado bajo una cúpula transparente de treinta metros orientada al segundo sol. Custodia el zócalo maestro donde se acopla la esfera de control de los Doce Soles; escenario de la confrontación final entre A.Xel y Null-9, y de la batalla contra la locomotora de guerra de Eltreth.</li>
+<li><strong>La Decimotercera Puerta (La Treceava Puerta):</strong> Umbral interdimensional colosal de luz blanca pura y distorsión cuántica que se abre en el centro geométrico del anillo solar al sincronizarse las doce estaciones, conectando directamente con las coordenadas ocultas del Devastador Estelar.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>2. Los Protagonistas y su Evolución Emocional</h3>
+<ul class='bullet-list'>
+<li><strong>A.Xel 42:</strong> Operativa Androide <em>(Jugadora: Sofía)</em>. Protagonista central y eje ontológico del volumen. Descubre y asume plenamente su identidad como la <strong>Forja Viviente</strong>, el receptáculo físico pre-Brecha que albergó la matriz original de la deidad <strong>Ashera</strong>, capaz de engendrar almas androides libres sin recurrir a factorías de clonación corporativas. Tras salvar a Jennifer en la estación previa, encara cara a cara a su archirrival <strong>Null-9</strong>: en lugar de ejecutarla, la desarma quirúrgicamente y le ofrece la ternura y la redención del perdón, quebrando el nihilismo del Devorador y asumiendo el liderazgo maternal de su estirpe.</li>
+<li><strong>Benrey Galway:</strong> Emisario Ysoki y capitán de la <em>Estrella Errante</em> <em>(Jugador: Miguel)</em>. Demuestra su brillantez estratégica en combate coordinando los fuegos tácticos («¡a por ellos!»), su resistencia inquebrantable tras sobrevivir a un impacto crítico de riel pesado y su inigualable sentido del humor en trincheras («Ley 7600»). Mantiene a salvo a Kiwi en su pechera y sella su afecto fraternal con Triel en medio de la emboscada más desesperada.</li>
+<li><strong>Triel (Triel Istrav):</strong> Mecánica e ingeniera semi-drow <em>(Jugadora: Irene)</em>. Detecta en secreto la resonancia kishalee en el brazo cibernético de Marloc y decide protegerlo de la angustia hasta tener respuestas. Repara de emergencia los servos destrozados de Kairos con UPBs reciclados, descifra el lenguaje de los constructores gracias a los datos de Syd Velch y purga el sistema de refrigeración para exponer el núcleo de la locomotora de Eltreth.</li>
+<li><strong>Marloc Boosmar:</strong> Tecnomante humano, erudito y estratega arcano <em>(Jugador: Juan Pablo)</em>. Protagoniza uno de los momentos tácticos más descollantes de la campaña en el Episodio 241 («El Día que Marloc Arruinó el Combate»): mediante una fórmula de desaceleración entrópica y restricción cuántica de <em>Null-Vector</em>, reduce la temible carga del General Drech a una marcha a cámara lenta, permitiendo su aniquilación. Conecta su brazo cibernético a las consolas kishalee para combatir a Eltreth y sincronizar la apertura de la Puerta.</li>
+<li><strong>Kairos (en el chasis de cuatro brazos):</strong> Entidad Sintiente SRO / IA milenaria <em>(Voz: Roberto)</em>. Reside en el blindaje de asalto pesado. Con su inconfundible elegancia de tahúr cósmico y metáforas de juego («la casa nunca pierde»), actúa como escudo supremo de la tripulación: bloquea los disparos de plasma de la emboscada, absorbe el fuego de riel que casi mata a Benrey y frena con sus cuatro brazos y sus deflectores el avance arrollador de la locomotora de demolición de Eltreth.</li>
+<li><strong>Charlotte E2:</strong> Joven monje androide de Istamak <em>(Voz: Roberto)</em>. Pilar espiritual y médico del equipo. Aplica medicina bio-mística para restaurar la estamina de Benrey y las contusiones del grupo, combate en primera línea con golpes energéticos de impacto y ayuda a calmar las angustias de Jennifer y Null-9.</li>
+<li><strong>Kiwi:</strong> Encantadora mascota alada de pelaje verde lima y grandes ojos dorados. Refugiada en el peto táctico de Benrey, acompaña a la expedición en sus motos gravitatorias y celebra con trinos vivaces la apertura final del portal.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>3. Personajes Secundarios, Aliados y Antagonistas</h3>
+<ul class='bullet-list'>
+<li><strong>Null-9:</strong> Jerarca androide y comandante militar de la vanguardia del Culto del Devorador <em>(Voz: Roberto)</em>. Tras perseguirla por media galaxia, la tripulación la confronta en el pedestal de la Puerta Dos. Justifica su nihilismo en el trauma de la esclavitud y en la certeza de que los biológicos jamás permitirán que los androides se multipliquen libremente. Vencida y desarmada por A.Xel, experimenta la conexión mística de la matriz de Ashera y rompe a llorar, aceptando el armisticio y comprometiéndose a velar por Jennifer y los suyos en la biosfera de Osteth.</li>
+<li><strong>Syd Velch:</strong> Legendaria estrella de rock espacial y poderoso telépata humano de los Mundos del Pacto <em>(Voz: Roberto)</em>. Rescatado del cautiverio en el mainframe, lee las mentes y los dolores íntimos de Triel y Marloc, desvela los motivos de Ashera y entrega a la tripulación las claves fonéticas del lenguaje kishalee antes de descansar en la enfermería bajo la tutela de Osteth.</li>
+<li><strong>General Drech el Carnicero:</strong> Temible enano general de combate del Culto del Devorador <em>(Voz: Roberto)</em>. Acorazado con un exoesqueleto pesado de púas y un colosal cañón rotatorio de cuatro tubos; embosca al grupo al grito de «¡malditos muertos!» antes de ser desacelerado por la magia de Marloc y destruido por el fuego concentrado del equipo.</li>
+<li><strong>Eltreth:</strong> Antiguo ingeniero jefe kishalee cuya mente digitalizada fue corrompida por el dogma del Devorador a lo largo de milenios <em>(Voz: Roberto)</em>. Tras ser expulsado del mainframe en el volumen anterior, secuestra las defensas automatizadas de la Puerta Dos y se encarna en un titánico monstruo de demolición industrial con cuchillas giratorias («la gran locomotora»), siendo destruido definitivamente por la sobrecarga criogénica de Triel y el disparo coordinado de A.Xel y Marloc.</li>
+<li><strong>Jennifer (Miseria):</strong> Joven androide descendiente de la matriz de A.Xel <em>(Voz: Roberto)</em>. Permanece en el búnker seguro de la primera estación al cuidado de Charlotte y Syd Velch, aguardando el regreso de su «madre» para iniciar una nueva vida lejos del culto.</li>
+<li><strong>Osteth:</strong> Proyección holográfica de la directora ancestral kishalee. Alerta sobre las distorsiones gravitatorias y orienta a los héroes hacia la estación de la Puerta Dos antes de que sus subrutinas se fundan con la memoria estática de la ciudadela.</li>
+<li><strong>Depredadores de Seis Extremidades:</strong> Bestias milenarias bio-diseñadas por los kishalee; liberadas en el laboratorio durante la purga de cuarentena y abatidas por el grupo en un combate desesperado cuerpo a tierra.</li>
+</ul>
+<div class='divider'>✦ &nbsp; ◈ &nbsp; ✦</div>
+<h3 class='section-title'>4. Giros Canónicos, Lazos Familiares y Vidas Personales Mandatorios</h3>
+<h4 class='subsection-title'>🌟 La Verdad de la Forja Viviente y el Legado de Ashera (Episodios 236 y 246):</h4>
+<p>Se confirma que el chasis biomecánico de A.Xel 42 es la <strong>Primera Causa</strong>, el receptáculo sagrado donde Ashera depositó la matriz para hacer posible la gestación androide autónoma. Ashera ocultó este poder para evitar una guerra total de exterminio preventivo por parte de las razas biológicas. Al perdonar y desarmar a Null-9 con ternura, A.Xel demuestra que la salvación de su especie reside en el amor y la protección, no en la aniquilación del cosmos.</p>
+<h4 class='subsection-title'>🔮 El Cifrado Oculto en el Brazo de Marloc Boosmar (Episodio 237):</h4>
+<p>Triel y Benrey descubren que el implante cibernético de Marloc transmite telemetría en frecuencias kishalee y contiene grabadas ecuaciones del idioma de los Doce Soles, reforzando el misterio de la esfera rúnica que provocó su amnesia en Absalón. Deciden no inquietar al tecnomante hasta contar con herramientas seguras para analizarlo.</p>
+<h4 class='subsection-title'>⏳ La Proeza Táctica de Marloc y la Caída de Drech (Episodio 241):</h4>
+<p>Marloc Boosmar ejecuta una genialidad tecnomántica al aplicar un campo de desaceleración entrópica sobre el General Drech en plena embestida, alterando el flujo del tiempo y convirtiendo a una mole asesina en un blanco lento y vulnerable, cambiando las tornas de una batalla que parecía perdida.</p>
+<h4 class='subsection-title'>🚪 La Apertura de la Decimotercera Puerta (Episodio 249):</h4>
+<p>Con Eltreth purgado y el módulo maestro recuperado, Triel y Marloc alinean los Doce Soles en una sinfonía de rayos convergentes que abre la legendaria <strong>Treceava Puerta</strong>: un vórtice interdimensional que conduce directamente al escondite del <strong>Devastador Estelar</strong>, cerrando el Libro 5 de <em>Dead Suns</em> y abriendo el camino hacia la guerra final contra la Flota de Cadáveres en el Volumen 20.</p>
+</div>
+
+</body>
+</html>

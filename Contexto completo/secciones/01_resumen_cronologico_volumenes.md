@@ -341,6 +341,30 @@ Tras emerger del Maelstrom, la tripulación de la *Estrella Errante* encara la i
 12. **Mi Nombre es Jennifer (Ep. 234):** La androide revela que su nombre real es Jennifer («Miseria» era su alias en el culto); reconciliación filial; Charlotte y Kiwi quedan al cuidado de la retaguardia; Benrey transmite el farol del «Martillo del Alba» por megafonía para sembrar el pánico en el mainframe.
 13. **No sé lo que Hicimos el Año Pasado (Ep. 235):** Asalto final al anfiteatro de servidores de Eltreth; conversión cáustica de Marloc fundiendo los núcleos de la IA; caída de las sombras; en la plataforma superior de mando hallan con vida a la legendaria estrella de rock espacial y telépata **Syd Velch**, abriendo el camino hacia la Decimotercera Puerta.
 
+---
+
+### Volumen 19: La Decimotercera Puerta
+*Subtítulo:* **Volumen XIX · La Decimotercera Puerta II: El Duelo de los Androides**  
+*Episodios adaptados:* **236 al 249**  
+*Extensión:* 14 Capítulos + Nota Editorial y Prólogo + Glosario y Personajes (64 páginas en PDF)
+
+#### Sinopsis General:
+Tras rescatar a Syd Velch en el mainframe y confirmar la condición de A.Xel 42 como la legendaria Forja Viviente de Ashera, la tripulación de la *Estrella Errante* cruza el vacío solar hacia la fortaleza acorazada de la Puerta Dos para asegurar el módulo maestro de sincronización antes que Null-9:
+1. **Tiempo de no Velchte (Ep. 236):** Diálogo con el demacrado Syd Velch en las pasarelas; el telépata lee los dolores y traumas de Triel, Marloc y A.Xel; revelación de que Ashera ocultó la Forja Viviente para evitar el exterminio preventivo de los androides; advertencia holográfica de Osteth.
+2. **Tal vez Syd Tal Vez No (Ep. 237):** Triel y Benrey detectan telemetría y lenguaje kishalee en el brazo de Marloc; Syd entrega las claves criptográficas del dialecto de los Doce Soles; comunión de Kairos con la red; partida en motos gravitatorias kishalee hacia la Puerta 2.
+3. **No me Digas las Probabilidades (Ep. 238):** Travesía a gran velocidad por el canal electromagnético entre el primer y segundo sol; aterrizaje en la meseta de basalto de la Puerta 2; hallazgo de restos de robots kishalee destruidos por el culto.
+4. **Emboscada Inesperada (Ep. 239):** Lluvia de plasma y fuego pesado de nidos de ametralladora en el desfiladero de acceso; Kairos despliega deflectores; Benrey coordina el fuego concentrado; A.Xel escala a las pasarelas y Marloc disuelve los soportes de titanio con magia ácida.
+5. **Ley 7600 (Ep. 240):** Asedio de infantes acorazados con escudos balísticos; quejas de Benrey sobre la falta de rampas de accesibilidad kishalee («Ley 7600»); rampa de fuerza rúnica de Marloc; disparo crítico contra Benrey salvado por Kairos y sanado por Charlotte.
+6. **El Día que Marloc Arruinó el Combate (Ep. 241):** Entrada demoledora del General Drech con cañón rotatorio gritando «¡malditos muertos!»; Marloc lanza una desaceleración entrópica (*slow*) que congela la carga de Drech a cámara lenta; fuego concentrado de la tripulación abatiendo al general del culto.
+7. **Maroon 1 (Ep. 242):** Registro de pertrechos de Drech y hallazgo de miles de UPBs manchados con sangre de trabajadores; forzado hidráulico de la esclusa triangular con los cuatro brazos de Kairos; incursión hacia los conductos de servicio y desagüe.
+8. **Terror en el Toilette (Ep. 243):** Inspección de las letrinas y módulos de reciclaje kishalee; una abominación milenaria surge de los pozos de drenaje; combate caótico a quemarropa; abatimiento del monstruo y hallazgo de las cuatro tarjetas criptográficas de colores.
+9. **Nunca Te Dije Que Te Quería (Ep. 244):** Acceso al laboratorio biogénico y cierre automático de cuarentena; liberación de dos depredadores milenarios de seis extremidades; batalla de espaldas a la pared; confesión de afecto de Benrey a Triel; Charlotte y A.Xel destruyen a las bestias.
+10. **Escaneando Ando (Ep. 245):** Reparación de emergencia de los servomotores de Kairos con UPBs; A.Xel se disloca el hombro para cruzar un estrecho conducto de aire y abrir la compuerta exterior; escaneo holográfico del sector y detección de Null-9 en la gran sala.
+11. **Null-9 (Ep. 246):** Cara a cara en la Cámara del Mando Estelar; choque ideológico y teológico entre A.Xel y Null-9 sobre la condición androide y el Devorador; A.Xel desarma a Null y la redime con un abrazo maternal, quebrando su nihilismo.
+12. **¿I.A.hora qué Hacemos? (Ep. 247):** Eltreth se manifiesta por megafonía mofándose de la rendición y activa el protocolo de aniquilación; despliegue masivo de centinelas pesados de asedio; defensa desesperada del pedestal mientras Marloc y Triel aíslan a la IA.
+13. **La Gran Loco-motora que No Pudo (Ep. 248):** Eltreth concentra su código en un colosal monstruo de demolición sobre orugas con cuchillas giratorias («la gran locomotora»); Kairos frena el envite con sus cuatro brazos; Triel purga nitrógeno líquido agrietando el blindaje y A.Xel con Marloc pulverizan el núcleo con un disparo combinado.
+14. **La Treceava Puerta (Ep. 249):** Recuperación del módulo maestro de sincronización; botín de 9.000 UPBs y armas de disrupción; despedida de Null-9 en paz; instalación del módulo en el panel orbital; alineación geométrica de los Doce Soles y apertura monumental de la Treceava Puerta, el vórtice hacia el Devastador Estelar (Cierre definitivo del Libro 5 de Dead Suns).
+
 
 
 

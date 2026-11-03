@@ -22,58 +22,58 @@
 | Capítulo / Escena | Episodio Podcast | Marcas Aprox. | Tipología | Descripción del Origen en la Mesa |
 |---|---|---|---|---|
 | **Capítulo 1: Tiempo de no Velchte** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 236 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 236. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 236 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 236. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 236 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 236. |
+| · *I. La Revelación del Telépata en el Mainframe* | Ep. 236 | [15:20 - 45:10] | `[MESA-DIALOGO]` | Encuentro con Syd Velch; el telépata lee las almas de Triel, Marloc y A.Xel, exponiendo sus traumas y dolores íntimos. |
+| · *II. El Secreto de la Primera Causa y la Matriz de Ashera* | Ep. 236 | [45:11 - 01:19:30] | `[CANON-CTX]` | Revelación de Ashera, la Forja Viviente en el chasis de A.Xel y el motivo por el cual se ocultó para evitar el exterminio androide. |
+| · *III. La Advertencia de Osteth y la Alerta Gravitatoria* | Ep. 236 | [01:19:31 - 01:25:30] | `[MESA-ACTO]` | Aparición holográfica de Osteth advirtiendo sobre variaciones gravitatorias y la necesidad de partir a la Puerta 2. |
 | **Capítulo 2: Tal vez Syd Tal Vez No** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 237 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 237. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 237 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 237. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 237 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 237. |
+| · *I. El Cifrado del Brazo de Marloc* | Ep. 237 | [28:10 - 33:20] | `[MESA-DIALOGO]` | Conversación privada entre Benrey y Triel sobre la tecnología kishalee latente en el implante cibernético de Marloc. |
+| · *II. El Legado Lingüístico de Syd Velch y la Comunión de Kairos* | Ep. 237 | [33:21 - 42:15] | `[MESA-ACTO]` | Syd aporta las claves del dialecto kishalee; Kairos se conecta a la red contemplando «bosques de datos». |
+| · *III. Rumbo a la Puerta Dos en Motos Gravitatorias* | Ep. 237 | [42:16 - 01:05:40] | `[LIT-AMBIENTE]` | Preparación de las motos gravitatorias kishalee y travesía entre los soles en dirección a la estación de la Puerta 2. |
 | **Capítulo 3: No me Digas las Probabilidades** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 238 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 238. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 238 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 238. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 238 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 238. |
+| · *I. Travesía Orbital entre Soles Gemelos* | Ep. 238 | [12:05 - 28:40] | `[LIT-AMBIENTE]` | Vuelo a través del canal gravitatorio entre el primer y segundo sol; Kiwi asustado en el peto de Benrey. |
+| · *II. El Aterrizaje en la Estación de la Segunda Puerta* | Ep. 238 | [28:41 - 45:30] | `[MESA-ACTO]` | Llegada a la fortaleza de basalto de la Puerta 2; hallazgo de restos de constructos destrozados por el culto. |
+| · *III. El Reconocimiento de Pasillos y el Mal Presagio* | Ep. 238 | [45:31 - 01:08:20] | `[MESA-DIALOGO]` | Detección de cables militares y nidos de ametralladora pesada en las pasarelas elevadas; preparativos de asalto. |
 | **Capítulo 4: Emboscada Inesperada** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 239 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 239. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 239 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 239. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 239 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 239. |
+| · *I. Tormenta de Plasma en el Desfiladero Metálico* | Ep. 239 | [15:10 - 32:45] | `[MESA-ACTO]` | Estalla la emboscada del Culto del Devorador; fuego graneado de ametralladoras rotatorias de plasma y escudos de Kairos. |
+| · *II. Línea de Fuego y Cobertura Imposible* | Ep. 239 | [32:46 - 48:20] | `[MESA-ACTO]` | Benrey coordina el fuego concentrado; Triel dispara con su carabina y congela articulaciones enemigas con la pistola cero. |
+| · *III. El Contraataque Quirúrgico de A.Xel y Marloc* | Ep. 239 | [48:21 - 58:40] | `[MESA-ACTO]` | A.Xel escala a los balcones abatiendo a los artilleros; Marloc fractura los soportes de la pasarela con magia ácida. |
 | **Capítulo 5: Ley 7600** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 240 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 240. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 240 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 240. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 240 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 240. |
+| · *I. El Asedio de las Fuerzas Fanáticas* | Ep. 240 | [18:20 - 35:10] | `[MESA-ACTO]` | Segunda oleada de infantes acorazados con escudos balísticos pesados; fuego de supresión implacable. |
+| · *II. La Rampa de la Discordia y la Diplomacia de Trinchera* | Ep. 240 | [35:11 - 52:40] | `[MESA-DIALOGO]` | Bromas de Benrey sobre la falta de rampas accesibles kishalee («Ley 7600»); Marloc proyecta una rampa de fuerza rúnica. |
+| · *III. Resistencia al Borde del Colapso* | Ep. 240 | [52:41 - 01:15:30] | `[MESA-ACTO]` | Disparo crítico contra Benrey; Kairos y Charlotte lo salvan del remate en una agónica maniobra defensiva. |
 | **Capítulo 6: El Día que Marloc Arruinó el Combate** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 241 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 241. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 241 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 241. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 241 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 241. |
+| · *I. El Rugido de Drech el Carnicero* | Ep. 241 | [14:10 - 32:00] | `[MESA-DIALOGO]` | Entrada en combate del General Drech, enano con cañón rotatorio masivo gritando «¡malditos muertos!». |
+| · *II. La Singularidad Desaceleradora de Marloc* | Ep. 241 | [32:01 - 47:30] | `[MESA-ACTO]` | Marloc lanza un hechizo tecnomántico de desaceleración cuántica (*slow*), frenando en seco la embestida de Drech. |
+| · *III. Fuego Concentrado y Caída del Tirano* | Ep. 241 | [47:31 - 01:02:15] | `[MESA-ACTO]` | Fuego concentrado sobre el exoesqueleto inmóvil de Drech; desprendimiento del cañón y colapso definitivo del enano. |
 | **Capítulo 7: Maroon 1** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 242 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 242. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 242 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 242. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 242 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 242. |
+| · *I. El Botín Manchado de Sangre* | Ep. 242 | [16:30 - 31:40] | `[MESA-ACTO]` | Registro del cuerpo de Drech; obtención de pertrechos militares y miles de UPBs manchados con sangre de trabajadores. |
+| · *II. Puertas Triangulares y Cerraduras Ancestrales* | Ep. 242 | [31:41 - 48:10] | `[MESA-ACTO]` | Forzado de la esclusa kishalee deformada mediante la fuerza hidráulica de los cuatro brazos de Kairos. |
+| · *III. El Umbral hacia el Sector de Servicios* | Ep. 242 | [48:11 - 01:05:20] | `[LIT-AMBIENTE]` | Incursión en los conductos de servicio; detección de olores fétidos provenientes de las cámaras sanitarias. |
 | **Capítulo 8: Terror en el Toilette** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 243 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 243. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 243 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 243. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 243 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 243. |
+| · *I. La Singularidad Higiénica de los Kishalee* | Ep. 243 | [12:15 - 28:30] | `[MESA-DIALOGO]` | Exploración de las peculiares letrinas alienígenas kishalee («baño/toilette»); humor e incomodidad del grupo. |
+| · *II. La Abominación de los Conductos Sanitarios* | Ep. 243 | [28:31 - 45:10] | `[MESA-ACTO]` | Emerge una abominación milenaria de los pozos de drenaje; combate caótico y visceral en espacio confinado. |
+| · *III. Purga en Espacio Reducido y Tarjetas de Colores* | Ep. 243 | [45:11 - 59:40] | `[MESA-ACTO]` | A.Xel y Kairos abaten a la criatura en las losas cerámicas; hallazgo de las tarjetas criptográficas de cuatro colores. |
 | **Capítulo 9: Nunca Te Dije Que Te Quería** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 244 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 244. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 244 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 244. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 244 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 244. |
+| · *I. La Trampa del Laboratorio Biogénico* | Ep. 244 | [18:40 - 34:10] | `[LIT-PUENTE]` | Inserción de la tarjeta prismática; cierre automático de la compuerta y activación de la purga de especímenes. |
+| · *II. El Despertar de los Depredadores de Seis Extremidades* | Ep. 244 | [34:11 - 49:50] | `[MESA-ACTO]` | Drenaje de las cápsulas de estasis; liberación de dos bestias milenarias gigantescas con tentáculos y zarpas letales. |
+| · *III. De Espaldas a la Pared y Fuego Desesperado* | Ep. 244 | [49:51 - 01:14:30] | `[MESA-DIALOGO]` | Batalla contra la pared; Benrey le confiesa afecto a Triel («nunca te dije que te quería»); abatimiento de las bestias. |
 | **Capítulo 10: Escaneando Ando** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 245 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 245. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 245 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 245. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 245 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 245. |
+| · *I. Las Heridas de Kairos y el Respiro de los Héroes* | Ep. 245 | [14:20 - 29:40] | `[MESA-ACTO]` | Kairos derribado y dañado en sus actuadores; reparaciones de emergencia de Triel y curaciones de Charlotte. |
+| · *II. La Infiltración Acrobática de A.Xel por el Conducto* | Ep. 245 | [29:41 - 42:15] | `[MESA-ACTO]` | A.Xel se disloca el hombro izquierdo para reptar por un estrecho ducto de aire y abrir la esclusa desde el exterior. |
+| · *III. Cartografía de Sensores y la Antecámara del Juicio* | Ep. 245 | [42:16 - 01:02:10] | `[MESA-DIALOGO]` | Escaneo de las cámaras interiores («escaneando ando»); confirmación de Null-9 en la gran sala del pedestal. |
 | **Capítulo 11: Null-9** | | | | |
-| · *I. La Entrada a la Cámara de la Forja Madre* | Ep. 246 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Entrada a la Cámara de la Forja Madre» a partir de los acontecimientos y tiradas del episodio 246. |
-| · *II. El Despertar de Ashera en el Alma de A.Xel* | Ep. 246 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. El Despertar de Ashera en el Alma de A.Xel» a partir de los acontecimientos y tiradas del episodio 246. |
-| · *III. La Rendición Emocional de Null-9* | Ep. 246 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. La Rendición Emocional de Null-9» a partir de los acontecimientos y tiradas del episodio 246. |
+| · *I. El Encuentro en la Cámara del Mando Estelar* | Ep. 246 | [16:10 - 32:50] | `[LIT-AMBIENTE]` | Entrada a la gran cúpula del segundo sol; cara a cara con Null-9 tras meses de persecución por la galaxia. |
+| · *II. El Duelo de Dos Visiones Sintéticas* | Ep. 246 | [32:51 - 51:20] | `[MESA-DIALOGO]` | Choque ideológico entre A.Xel y Null-9 sobre el odio a los orgánicos, la Forja Viviente y el rescate de Jennifer. |
+| · *III. La Rendición Emocional de Null-9* | Ep. 246 | [51:21 - 01:10:45] | `[MESA-ACTO]` | Duelo táctico; A.Xel desarma a Null-9 y la acoge con afecto maternal, quebrando su nihilismo entre sollozos. |
 | **Capítulo 12: ¿I.A.hora qué Hacemos?** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 247 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 247. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 247 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 247. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 247 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 247. |
+| · *I. La Traición Digital de Eltreth* | Ep. 247 | [18:30 - 33:15] | `[MESA-DIALOGO]` | Eltreth hackea los altavoces mofándose de la rendición; activa los protocolos de aniquilación de la ciudadela. |
+| · *II. La Rebelión de los Centinelas Kishalee* | Ep. 247 | [33:16 - 49:40] | `[MESA-ACTO]` | Despliegue masivo de centinelas de asedio milenarios con cañones de partículas y espadas sónicas. |
+| · *III. Guerra de Trincheras en el Puesto de Mando* | Ep. 247 | [49:41 - 01:08:20] | `[MESA-ACTO]` | Defensa desesperada del pedestal; Marloc y Triel aíslan a Eltreth forzándolo a una matriz física pesada. |
 | **Capítulo 13: La Gran Loco-motora que No Pudo** | | | | |
-| · *I. Avance por las Pasarelas Sagradas* | Ep. 248 | [00:28 - 01:15:00] | `[LIT-PUENTE]` | Desarrollo de la escena «I. Avance por las Pasarelas Sagradas» a partir de los acontecimientos y tiradas del episodio 248. |
-| · *II. Fuego Táctico Coordinado de Zivok y Kairos* | Ep. 248 | [00:28 - 01:15:00] | `[MESA-ACTO]` | Desarrollo de la escena «II. Fuego Táctico Coordinado de Zivok y Kairos» a partir de los acontecimientos y tiradas del episodio 248. |
-| · *III. El Latido Cuántico de la Forja* | Ep. 248 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. El Latido Cuántico de la Forja» a partir de los acontecimientos y tiradas del episodio 248. |
+| · *I. La Furia Mecánica del Avatar del Devorador* | Ep. 248 | [15:10 - 31:40] | `[MESA-ACTO]` | Eltreth emerge encarnado en un coloso de demolición sobre orugas con cuchillas giratorias («la gran locomotora»). |
+| · *II. El Sacrificio Táctico y la Maniobra de Contención* | Ep. 248 | [31:41 - 48:30] | `[MESA-ACTO]` | Kairos choca de frente frenando las cuchillas con sus cuatro brazos; Charlotte y Null-9 apoyan la retención. |
+| · *III. El Disparo que Silenció a la Máquina* | Ep. 248 | [48:31 - 01:04:15] | `[MESA-ACTO]` | Triel purga nitrógeno líquido agrietando el blindaje; A.Xel y Marloc detonan el reactor, silenciando a Eltreth. |
 | **Capítulo 14: La Treceava Puerta** | | | | |
-| · *I. La Alineación de los Anillos Estelares* | Ep. 249 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «I. La Alineación de los Anillos Estelares» a partir de los acontecimientos y tiradas del episodio 249. |
-| · *II. La Bendición de las Hijas de la Forja* | Ep. 249 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «II. La Bendición de las Hijas de la Forja» a partir de los acontecimientos y tiradas del episodio 249. |
-| · *III. Salto a Través de la Treceava Puerta* | Ep. 249 | [00:28 - 01:15:00] | `[LIT-AMBIENTE]` | Desarrollo de la escena «III. Salto a Través de la Treceava Puerta» a partir de los acontecimientos y tiradas del episodio 249. |
+| · *I. El Rescate del Módulo Maestro y el Taller de la Forja* | Ep. 249 | [17:20 - 34:10] | `[MESA-ACTO]` | Recuperación de la esfera de sincronización; saqueo de 9.000 UPBs y pistolas de disrupción; despedida con Null-9. |
+| · *II. La Sinfonía Gravitatoria de los Doce Soles* | Ep. 249 | [34:11 - 51:30] | `[CANON-CTX]` | Instalación del módulo; alineación de los Doce Soles y emisión de rayos fotónicos hacia el centro del anillo. |
+| · *III. El Salto a Través del Umbral Infinito* | Ep. 249 | [51:31 - 01:12:40] | `[LIT-PUENTE]` | Se abre La Treceava Puerta: el vórtice hacia el Devastador Estelar; la tripulación aborda la nave y cruza el portal. |
